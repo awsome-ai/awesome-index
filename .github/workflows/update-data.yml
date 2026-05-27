@@ -1,0 +1,57 @@
+name: Update Awesome Data
+
+on:
+  schedule:
+    - cron: '0 2 * * 0'
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Fetch awesome repos
+        run: node search-awesome.js
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Build data
+        run: |
+          node -e "
+          const fs=require('fs');
+          const repos=require('./awesome-repos.json');
+          const C={};
+          repos.forEach(r=>{const ts=(r.topics||[]).map(t=>t.toLowerCase()),n=r.repo.toLowerCase();
+            if(ts.includes('python')||n.includes('python'))C[r.repo]='Python';
+            else if(ts.includes('javascript')||ts.includes('react')||ts.includes('vue')||ts.includes('css')||ts.includes('frontend')||n.includes('frontend')||n.includes('react')||n.includes('vue')||n.includes('angular'))C[r.repo]='前端';
+            else if(ts.includes('machine-learning')||ts.includes('deep-learning')||ts.includes('ai')||ts.includes('llm')||ts.includes('nlp')||ts.includes('computer-vision')||ts.includes('openai')||ts.includes('chatgpt'))C[r.repo]='AI/ML';
+            else if(ts.includes('security')||ts.includes('hacking')||n.includes('security')||n.includes('hacking'))C[r.repo]='安全';
+            else if(ts.includes('database')||ts.includes('data')||n.includes('database')||n.includes('dataset'))C[r.repo]='数据';
+            else if(ts.includes('devops')||ts.includes('docker')||ts.includes('kubernetes'))C[r.repo]='DevOps';
+            else if(ts.includes('android')||n.includes('android'))C[r.repo]='Android';
+            else if(ts.includes('ios')||ts.includes('swift')||n.includes('ios')||n.includes('swift'))C[r.repo]='iOS';
+            else if(ts.includes('game')||n.includes('game'))C[r.repo]='游戏';
+            else if(ts.includes('design')||n.includes('design')||n.includes('icon'))C[r.repo]='设计';
+            else if(ts.includes('rust')||n.includes('rust'))C[r.repo]='Rust';
+            else if(ts.includes('go')||n.includes('go-'))C[r.repo]='Go';
+            else if(n.includes('interview')||n.includes('cheat')||n.includes('learning')||n.includes('course'))C[r.repo]='面试/学习';
+            else C[r.repo]='其他';
+          });
+          repos.forEach(r=>{r.category=C[r.repo]||'其他'});
+          const slim=repos.map(r=>({repo:r.repo,stars:r.stars,description:(r.description||'').substring(0,200),topics:(r.topics||[]).slice(0,8),language:r.language,license:r.license,url:r.url,category:r.category}));
+          fs.writeFileSync('awesome-data-slim.json',JSON.stringify(slim));
+          let html=fs.readFileSync('index.html','utf8');
+          html=html.replace(/const DATA = \[[\s\S]+?\];/,'const DATA = '+JSON.stringify(slim)+';');
+          fs.writeFileSync('index.html',html,'utf8');
+          console.log('OK: '+slim.length+' repos');
+          "
+      - name: Commit
+        run: |
+          git config user.name "awesome-index-bot"
+          git config user.email "bot@awesome-index"
+          git add awesome-repos.json awesome-data-slim.json index.html
+          git diff --quiet --cached || \
+            git commit -m "📊 Weekly data update $(date +%Y-%m-%d)"
+          git push
