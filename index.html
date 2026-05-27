@@ -136,5 +136,105 @@ function setFilter(el) {
   render();
 }
 </script>
+
+<!-- AI Chat -->
+<style>
+.ai-btn{position:fixed;bottom:24px;right:24px;width:52px;height:52px;border-radius:26px;background:linear-gradient(135deg,#2563eb,#6366f1);color:white;border:none;font-size:22px;cursor:pointer;box-shadow:0 4px 16px rgba(37,99,235,0.3);z-index:999;transition:transform .2s}
+.ai-btn:hover{transform:scale(1.1)}
+.ai-panel{position:fixed;bottom:90px;right:24px;width:380px;max-height:520px;background:white;border-radius:16px;box-shadow:0 8px 32px rgba(0,0,0,0.15);z-index:999;display:none;overflow:hidden;border:1px solid #e5e7eb}
+.ai-panel.open{display:flex;flex-direction:column}
+.ai-header{padding:16px 18px;background:linear-gradient(135deg,#1e293b,#334155);color:white;font-weight:700;font-size:14px;display:flex;justify-content:space-between;align-items:center}
+.ai-header span{color:#94a3b8;font-weight:400;font-size:12px}
+.ai-close{background:none;border:none;color:#94a3b8;font-size:18px;cursor:pointer;padding:0 4px}
+.ai-close:hover{color:white}
+.ai-msgs{padding:12px 16px;overflow-y:auto;flex:1;min-height:200px;max-height:380px}
+.ai-msg{margin-bottom:12px;font-size:13px;line-height:1.6}
+.ai-msg.user{text-align:right}
+.ai-msg.user span{background:#2563eb;color:white;padding:8px 14px;border-radius:16px 16px 4px 16px;display:inline-block;max-width:85%}
+.ai-msg.bot span{background:#f1f5f9;color:#1f2937;padding:8px 14px;border-radius:16px 16px 16px 4px;display:inline-block;max-width:85%}
+.ai-msg.bot a{color:#2563eb;text-decoration:none;font-weight:600}
+.ai-msg.bot a:hover{text-decoration:underline}
+.ai-msg.loading{text-align:center;color:#94a3b8;font-size:12px}
+.ai-input-wrap{display:flex;padding:10px 12px;border-top:1px solid #e5e7eb;gap:8px}
+.ai-input{flex:1;border:1px solid #e5e7eb;border-radius:20px;padding:8px 14px;font-size:13px;outline:none}
+.ai-input:focus{border-color:#60a5fa}
+.ai-send{width:34px;height:34px;border-radius:17px;background:#2563eb;color:white;border:none;font-size:16px;cursor:pointer;flex-shrink:0}
+.ai-send:disabled{background:#93c5fd;cursor:not-allowed}
+@media(max-width:480px){.ai-panel{width:calc(100vw - 32px);right:16px;bottom:80px}}
+</style>
+
+<button class="ai-btn" id="aiBtn" onclick="toggleChat()" title="AI 搜索助手">🤖</button>
+<div class="ai-panel" id="aiPanel">
+  <div class="ai-header">
+    <div>AI 搜索助手 <span>找到最适合你的 awesome 列表</span></div>
+    <button class="ai-close" onclick="toggleChat()">&times;</button>
+  </div>
+  <div class="ai-msgs" id="aiMsgs">
+    <div class="ai-msg bot"><span>你好！我手上有 657 个精选资源列表。告诉我你想找什么类型的工具或资源，我帮你推荐最合适的。比如："想学 Rust""找最好的 Python 数据分析库""有没有好用的自托管 NAS 方案"</span></div>
+  </div>
+  <div class="ai-input-wrap">
+    <input class="ai-input" id="aiInput" placeholder="描述你想找什么…" onkeydown="if(event.key==='Enter')sendMsg()">
+    <button class="ai-send" id="aiSend" onclick="sendMsg()">➤</button>
+  </div>
+</div>
+
+<script>
+const AI_ENDPOINT = '/api/chat';
+
+function toggleChat() {
+  document.getElementById('aiPanel').classList.toggle('open');
+}
+function addMsg(role, text) {
+  var div = document.createElement('div');
+  div.className = 'ai-msg ' + role;
+  div.innerHTML = '<span>' + text + '</span>';
+  document.getElementById('aiMsgs').appendChild(div);
+  div.scrollIntoView({ behavior: 'smooth' });
+}
+async function sendMsg() {
+  var input = document.getElementById('aiInput');
+  var text = input.value.trim();
+  if (!text) return;
+  input.value = '';
+  addMsg('user', text);
+
+  document.getElementById('aiSend').disabled = true;
+  var ld = document.createElement('div');
+  ld.className = 'ai-msg loading'; ld.id = 'aiLoading';
+  ld.innerHTML = '<span>思考中…</span>';
+  document.getElementById('aiMsgs').appendChild(ld);
+
+  try {
+    var top50 = window.__AWESOME_DATA__.slice(0, 50).map(function(r) {
+      return r.repo + ' ⭐' + (r.stars/1000).toFixed(1) + 'k ' + (r.description||'').substring(0,80);
+    }).join('\n');
+
+    var res = await fetch(AI_ENDPOINT, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        messages: [
+          { role: 'system', content: '你是 Awesome Index 的 AI 搜索助手。你有 657 个 GitHub awesome 列表的数据。回答要简洁、推荐具体。给出仓库名（带链接）、Stars、一句话说明为什么适合。一次推荐 1-3 个。如果用户问了无关的问题，说"我是专门帮忙找技术资源的，这题我答不了😅"即可。回复用中文。' },
+          { role: 'user', content: text + '\n\n参考数据集（Top 50 by stars）：\n' + top50 }
+        ],
+        max_tokens: 600
+      })
+    });
+    document.getElementById('aiLoading')?.remove();
+    var data = await res.json();
+    var reply = data.choices && data.choices[0] && data.choices[0].message
+      ? data.choices[0].message.content
+      : '抱歉，没理解你的问题，换个说法试试？';
+    addMsg('bot', reply.replace(/\n/g, '<br>').replace(/[([^]]+)]((https?://[^)]+))/g, '<a href="$2" target="_blank">$1</a>'));
+  } catch(e) {
+    document.getElementById('aiLoading')?.remove();
+    addMsg('bot', '网络开小差了😅 换个问题试试');
+  }
+  document.getElementById('aiSend').disabled = false;
+}
+window.__AWESOME_DATA__ = DATA;
+</script>
+
 </body>
 </html>
+
