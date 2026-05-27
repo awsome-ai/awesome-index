@@ -3,20 +3,28 @@ const http = require('http');
 const PORT = process.env.PORT || 3001;
 const API_KEY = process.env.OPENROUTER_API_KEY;
 const AI_MODEL = process.env.AI_MODEL || 'openrouter/free';
+const AUTH_TOKEN = process.env.API_AUTH_TOKEN || process.env.AUTH_TOKEN;
 
 if (!API_KEY) {
   console.error('❌ 请设置环境变量 OPENROUTER_API_KEY');
-  console.error('   export OPENROUTER_API_KEY=sk-or-...');
+  process.exit(1);
+}
+if (!AUTH_TOKEN) {
+  console.error('❌ 请设置环境变量 API_AUTH_TOKEN（用于接口验签）');
   process.exit(1);
 }
 
-// CORS allowed origins
 const ALLOWED_ORIGINS = [
   'https://awsome-ai.github.io',
   'http://localhost:8080',
   'http://localhost:3000',
   'http://127.0.0.1:8080',
 ];
+
+function unauthorized(res) {
+  res.writeHead(401, { 'Content-Type': 'application/json; charset=utf-8' });
+  res.end(JSON.stringify({ error: 'unauthorized' }));
+}
 
 const server = http.createServer((req, res) => {
   // CORS
@@ -25,7 +33,7 @@ const server = http.createServer((req, res) => {
     res.setHeader('Access-Control-Allow-Origin', origin);
   }
   res.setHeader('Access-Control-Allow-Methods', 'POST, GET, OPTIONS');
-  res.setHeader('Access-Control-Allow-Headers', 'Content-Type');
+  res.setHeader('Access-Control-Allow-Headers', 'Content-Type, X-Auth-Token');
   res.setHeader('Content-Type', 'application/json; charset=utf-8');
 
   if (req.method === 'OPTIONS') {
@@ -34,10 +42,16 @@ const server = http.createServer((req, res) => {
     return;
   }
 
-  // Health check
+  // Health check (no auth needed)
   if (req.method === 'GET' && req.url === '/health') {
     res.end(JSON.stringify({ status: 'ok', model: AI_MODEL }));
     return;
+  }
+
+  // All other endpoints require auth
+  const clientToken = req.headers['x-auth-token'];
+  if (!clientToken || clientToken !== AUTH_TOKEN) {
+    return unauthorized(res);
   }
 
   // Chat endpoint
@@ -84,14 +98,12 @@ const server = http.createServer((req, res) => {
     return;
   }
 
-  // 404
   res.writeHead(404);
   res.end(JSON.stringify({ error: 'not found' }));
 });
 
 server.listen(PORT, () => {
-  console.log(`✅ Awesome Index AI server running on http://localhost:${PORT}`);
+  console.log(`✅ Awesome Index AI server on http://localhost:${PORT}`);
   console.log(`   Model: ${AI_MODEL}`);
-  console.log(`   POST /api/chat`);
-  console.log(`   GET  /health`);
+  console.log(`   Auth: enabled`);
 });
