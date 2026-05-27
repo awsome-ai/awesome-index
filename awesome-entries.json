@@ -1,0 +1,3472 @@
+[
+  {
+    "name": "Node.js",
+    "repo": "sindresorhus/awesome-nodejs#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Cross-Platform",
+    "repo": "bcoe/awesome-cross-platform-nodejs#readme",
+    "status": "pending"
+  },
+  {
+    "name": "iOS",
+    "repo": "vsouza/awesome-ios#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Android",
+    "repo": "JStumpp/awesome-android#readme",
+    "status": "pending"
+  },
+  {
+    "name": "IoT & Hybrid Apps",
+    "repo": "weblancaster/awesome-IoT-hybrid#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Electron",
+    "repo": "sindresorhus/awesome-electron#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Cordova",
+    "repo": "busterc/awesome-cordova#readme",
+    "status": "pending"
+  },
+  {
+    "name": "React Native",
+    "repo": "jondot/awesome-react-native#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Xamarin",
+    "repo": "XamSome/awesome-xamarin#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Linux",
+    "repo": "inputsh/awesome-linux#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Containers",
+    "repo": "Friz-zy/awesome-linux-containers#readme",
+    "status": "pending"
+  },
+  {
+    "name": "eBPF",
+    "repo": "zoidbergwill/awesome-ebpf#readme",
+    "status": "pending"
+  },
+  {
+    "name": "AppImage",
+    "repo": "AppImage/awesome-appimage#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Omarchy",
+    "repo": "aorumbayev/awesome-omarchy#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Screensavers",
+    "repo": "agarrharr/awesome-macos-screensavers#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Apps",
+    "repo": "jaywcjlove/awesome-mac#readme",
+    "status": "pending"
+  },
+  {
+    "name": "watchOS",
+    "repo": "yenchenlin/awesome-watchos#readme",
+    "status": "pending"
+  },
+  {
+    "name": "JVM",
+    "repo": "deephacks/awesome-jvm#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Salesforce",
+    "repo": "mailtoharshit/awesome-salesforce#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Amazon Web Services",
+    "repo": "donnemartin/awesome-aws#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Windows",
+    "repo": "0pandadev/awesome-windows#readme",
+    "status": "pending"
+  },
+  {
+    "name": "PowerToys Run Plugins",
+    "repo": "hlaueriksson/awesome-powertoys-run-plugins#readme",
+    "status": "pending"
+  },
+  {
+    "name": "IPFS",
+    "repo": "ipfs/awesome-ipfs#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Fuse",
+    "repo": "fuse-compound/awesome-fuse#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Heroku",
+    "repo": "ianstormtaylor/awesome-heroku#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Raspberry Pi",
+    "repo": "thibmaek/awesome-raspberry-pi#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Qt",
+    "repo": "JesseTG/awesome-qt#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Smart TV",
+    "repo": "vitalets/awesome-smart-tv#readme",
+    "status": "pending"
+  },
+  {
+    "name": "GNOME",
+    "repo": "Kazhnuz/awesome-gnome#readme",
+    "status": "pending"
+  },
+  {
+    "name": "KDE",
+    "repo": "francoism90/awesome-kde#readme",
+    "status": "pending"
+  },
+  {
+    "name": ".NET",
+    "repo": "quozd/awesome-dotnet#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Core",
+    "repo": "thangchung/awesome-dotnet-core#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Roslyn",
+    "repo": "ironcev/awesome-roslyn#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Amazon Alexa",
+    "repo": "miguelmota/awesome-amazon-alexa#readme",
+    "status": "pending"
+  },
+  {
+    "name": "DigitalOcean",
+    "repo": "jonleibowitz/awesome-digitalocean#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Flutter",
+    "repo": "Solido/awesome-flutter#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Home Assistant",
+    "repo": "frenck/awesome-home-assistant#readme",
+    "status": "pending"
+  },
+  {
+    "name": "IBM Cloud",
+    "repo": "victorshinya/awesome-ibmcloud#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Firebase",
+    "repo": "jthegedus/awesome-firebase#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Robot Operating System 2.0",
+    "repo": "fkromer/awesome-ros2#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Adafruit IO",
+    "repo": "adafruit/awesome-adafruitio#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Cloudflare",
+    "repo": "irazasyed/awesome-cloudflare#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Actions on Google",
+    "repo": "ravirupareliya/awesome-actions-on-google#readme",
+    "status": "pending"
+  },
+  {
+    "name": "ESP",
+    "repo": "agucova/awesome-esp#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Deno",
+    "repo": "denolib/awesome-deno#readme",
+    "status": "pending"
+  },
+  {
+    "name": "DOS",
+    "repo": "balintkissdev/awesome-dos#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Nix",
+    "repo": "nix-community/awesome-nix#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Integration",
+    "repo": "stn1slv/awesome-integration#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Node-RED",
+    "repo": "naimo84/awesome-nodered#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Low Code",
+    "repo": "zenitysec/awesome-low-code#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Capacitor",
+    "repo": "riderx/awesome-capacitor#readme",
+    "status": "pending"
+  },
+  {
+    "name": "ArcGIS Developer",
+    "repo": "Esri/awesome-arcgis-developer#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Bluetooth Low Energy",
+    "repo": "dotintent/awesome-ble#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Uno Platform",
+    "repo": "MartinZikmund/awesome-uno-platform#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Google Cloud",
+    "repo": "GoogleCloudPlatform/awesome-google-cloud#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Firebase Genkit",
+    "repo": "xavidop/awesome-firebase-genkit#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Backstage",
+    "repo": "shano/awesome-backstage#readme",
+    "status": "pending"
+  },
+  {
+    "name": "JavaScript",
+    "repo": "sorrycc/awesome-javascript#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Promises",
+    "repo": "wbinnssmith/awesome-promises#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Standard Style",
+    "repo": "standard/awesome-standard#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Network Layer",
+    "repo": "Kikobeats/awesome-network-js#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Micro npm Packages",
+    "repo": "parro-it/awesome-micro-npm-packages#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Mad Science npm Packages",
+    "repo": "feross/awesome-mad-science#readme",
+    "status": "pending"
+  },
+  {
+    "name": "npm",
+    "repo": "sindresorhus/awesome-npm#readme",
+    "status": "pending"
+  },
+  {
+    "name": "AVA",
+    "repo": "avajs/awesome-ava#readme",
+    "status": "pending"
+  },
+  {
+    "name": "ESLint",
+    "repo": "dustinspecker/awesome-eslint#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Functional Programming",
+    "repo": "stoeffel/awesome-fp-js#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Observables",
+    "repo": "sindresorhus/awesome-observables#readme",
+    "status": "pending"
+  },
+  {
+    "name": "npm scripts",
+    "repo": "RyanZim/awesome-npm-scripts#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Ponyfills",
+    "repo": "Richienb/awesome-ponyfills#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Swift",
+    "repo": "matteocrippa/awesome-swift#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Python",
+    "repo": "vinta/awesome-python#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Asyncio",
+    "repo": "timofurrer/awesome-asyncio#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Scientific Audio",
+    "repo": "faroit/awesome-python-scientific-audio#readme",
+    "status": "pending"
+  },
+  {
+    "name": "CircuitPython",
+    "repo": "adafruit/awesome-circuitpython#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Data Science",
+    "repo": "krzjoa/awesome-python-data-science#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Typing",
+    "repo": "typeddjango/awesome-python-typing#readme",
+    "status": "pending"
+  },
+  {
+    "name": "MicroPython",
+    "repo": "mcauser/awesome-micropython#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Rust",
+    "repo": "rust-unofficial/awesome-rust#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Pest",
+    "repo": "pest-parser/awesome-pest#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Haskell",
+    "repo": "krispo/awesome-haskell#readme",
+    "status": "pending"
+  },
+  {
+    "name": "PureScript",
+    "repo": "passy/awesome-purescript#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Go",
+    "repo": "avelino/awesome-go#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Scala",
+    "repo": "lauris/awesome-scala#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Scala Native",
+    "repo": "tindzk/awesome-scala-native#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Ruby",
+    "repo": "markets/awesome-ruby#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Clojure",
+    "repo": "razum2um/awesome-clojure#readme",
+    "status": "pending"
+  },
+  {
+    "name": "ClojureScript",
+    "repo": "hantuzun/awesome-clojurescript#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Elixir",
+    "repo": "h4cc/awesome-elixir#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Elm",
+    "repo": "sporto/awesome-elm#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Erlang",
+    "repo": "drobakowski/awesome-erlang#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Lua",
+    "repo": "LewisJEllis/awesome-lua#readme",
+    "status": "pending"
+  },
+  {
+    "name": "C",
+    "repo": "inputsh/awesome-c#readme",
+    "status": "pending"
+  },
+  {
+    "name": "C/C++",
+    "repo": "fffaraz/awesome-cpp#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Learning",
+    "repo": "iamericfletcher/awesome-r-learning-resources#readme",
+    "status": "pending"
+  },
+  {
+    "name": "D",
+    "repo": "dlang-community/awesome-d#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Common Lisp",
+    "repo": "CodyReichert/awesome-cl#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Learning",
+    "repo": "GustavBertram/awesome-common-lisp-learning#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Perl",
+    "repo": "hachiojipm/awesome-perl#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Groovy",
+    "repo": "kdabir/awesome-groovy#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Dart",
+    "repo": "yissachar/awesome-dart#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Java",
+    "repo": "akullpp/awesome-java#readme",
+    "status": "pending"
+  },
+  {
+    "name": "RxJava",
+    "repo": "eleventigers/awesome-rxjava#readme",
+    "status": "pending"
+  },
+  {
+    "name": "J2ME",
+    "repo": "hstsethi/awesome-j2me#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Kotlin",
+    "repo": "KotlinBy/awesome-kotlin#readme",
+    "status": "pending"
+  },
+  {
+    "name": "OCaml",
+    "repo": "ocaml-community/awesome-ocaml#readme",
+    "status": "pending"
+  },
+  {
+    "name": "ColdFusion",
+    "repo": "seancoyne/awesome-coldfusion#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Fortran",
+    "repo": "rabbiabram/awesome-fortran#readme",
+    "status": "pending"
+  },
+  {
+    "name": "PHP",
+    "repo": "ziadoz/awesome-php#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Composer",
+    "repo": "jakoch/awesome-composer#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Pascal",
+    "repo": "Fr0sT-Brutal/awesome-pascal#readme",
+    "status": "pending"
+  },
+  {
+    "name": "AutoHotkey",
+    "repo": "ahkscript/awesome-AutoHotkey#readme",
+    "status": "pending"
+  },
+  {
+    "name": "AutoIt",
+    "repo": "J2TeaM/awesome-AutoIt#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Crystal",
+    "repo": "veelenga/awesome-crystal#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Frege",
+    "repo": "sfischer13/awesome-frege#readme",
+    "status": "pending"
+  },
+  {
+    "name": "CMake",
+    "repo": "onqtam/awesome-cmake#readme",
+    "status": "pending"
+  },
+  {
+    "name": "ActionScript 3",
+    "repo": "robinrodricks/awesome-actionscript3#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Eta",
+    "repo": "sfischer13/awesome-eta#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Idris",
+    "repo": "joaomilho/awesome-idris#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Ada/SPARK",
+    "repo": "ohenley/awesome-ada#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Q#",
+    "repo": "ebraminio/awesome-qsharp#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Imba",
+    "repo": "koolamusic/awesome-imba#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Vala",
+    "repo": "desiderantes/awesome-vala#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Coq",
+    "repo": "coq-community/awesome-coq#readme",
+    "status": "pending"
+  },
+  {
+    "name": "V",
+    "repo": "vlang/awesome-v#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Move",
+    "repo": "MystenLabs/awesome-move#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Esolangs",
+    "repo": "angrykoala/awesome-esolangs#readme",
+    "status": "pending"
+  },
+  {
+    "name": "VBA",
+    "repo": "sancarn/awesome-vba#readme",
+    "status": "pending"
+  },
+  {
+    "name": "F#",
+    "repo": "fsprojects/awesome-fsharp#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Web Performance Optimization",
+    "repo": "davidsonfellipe/awesome-wpo#readme",
+    "status": "pending"
+  },
+  {
+    "name": "CSS",
+    "repo": "awesome-css-group/awesome-css#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Frameworks",
+    "repo": "troxler/awesome-css-frameworks#readme",
+    "status": "pending"
+  },
+  {
+    "name": "React",
+    "repo": "enaqx/awesome-react#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Relay",
+    "repo": "expede/awesome-relay#readme",
+    "status": "pending"
+  },
+  {
+    "name": "React Hooks",
+    "repo": "glauberfc/awesome-react-hooks#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Web Components",
+    "repo": "web-padawan/awesome-web-components#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Polymer",
+    "repo": "Granze/awesome-polymer#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Angular",
+    "repo": "PatrickJS/awesome-angular#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Backbone",
+    "repo": "sadcitizen/awesome-backbone#readme",
+    "status": "pending"
+  },
+  {
+    "name": "HTML5",
+    "repo": "diegocard/awesome-html5#readme",
+    "status": "pending"
+  },
+  {
+    "name": "SVG",
+    "repo": "willianjusten/awesome-svg#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Canvas",
+    "repo": "raphamorim/awesome-canvas#readme",
+    "status": "pending"
+  },
+  {
+    "name": "KnockoutJS",
+    "repo": "dnbard/awesome-knockout#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Dojo Toolkit",
+    "repo": "petk/awesome-dojo#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Ember",
+    "repo": "ember-community-russia/awesome-ember#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Android UI",
+    "repo": "wasabeef/awesome-android-ui#readme",
+    "status": "pending"
+  },
+  {
+    "name": "iOS UI",
+    "repo": "cjwirth/awesome-ios-ui#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Meteor",
+    "repo": "Urigo/awesome-meteor#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Flexbox",
+    "repo": "afonsopacifer/awesome-flexbox#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Web Accessibility",
+    "repo": "brunopulis/awesome-a11y#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Material Design",
+    "repo": "sachin1092/awesome-material#readme",
+    "status": "pending"
+  },
+  {
+    "name": "D3",
+    "repo": "wbkd/awesome-d3#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Emails",
+    "repo": "jonathandion/awesome-emails#readme",
+    "status": "pending"
+  },
+  {
+    "name": "jQuery",
+    "repo": "petk/awesome-jquery#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Web Audio",
+    "repo": "notthetup/awesome-webaudio#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Static Website Services",
+    "repo": "agarrharr/awesome-static-website-services#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Cycle.js",
+    "repo": "cyclejs-community/awesome-cyclejs#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Text Editing",
+    "repo": "dok/awesome-text-editing#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Vue.js",
+    "repo": "vuejs/awesome-vue#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Marionette.js",
+    "repo": "sadcitizen/awesome-marionette#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Aurelia",
+    "repo": "aurelia-contrib/awesome-aurelia#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Charting",
+    "repo": "zingchart/awesome-charting#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Ionic Framework",
+    "repo": "candelibas/awesome-ionic#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Chrome DevTools",
+    "repo": "ChromeDevTools/awesome-chrome-devtools#readme",
+    "status": "pending"
+  },
+  {
+    "name": "PostCSS",
+    "repo": "jdrgomes/awesome-postcss#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Draft.js",
+    "repo": "nikgraf/awesome-draft-js#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Service Workers",
+    "repo": "TalAter/awesome-service-workers#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Progressive Web Apps",
+    "repo": "TalAter/awesome-progressive-web-apps#readme",
+    "status": "pending"
+  },
+  {
+    "name": "choo",
+    "repo": "choojs/awesome-choo#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Redux",
+    "repo": "brillout/awesome-redux#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Browserify",
+    "repo": "browserify/awesome-browserify#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Sass",
+    "repo": "Famolus/awesome-sass#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Ant Design",
+    "repo": "websemantics/awesome-ant-design#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Less",
+    "repo": "LucasBassetti/awesome-less#readme",
+    "status": "pending"
+  },
+  {
+    "name": "WebGL",
+    "repo": "sjfricke/awesome-webgl#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Preact",
+    "repo": "preactjs/awesome-preact#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Next.js",
+    "repo": "unicodeveloper/awesome-nextjs#readme",
+    "status": "pending"
+  },
+  {
+    "name": "lit",
+    "repo": "web-padawan/awesome-lit#readme",
+    "status": "pending"
+  },
+  {
+    "name": "JAMstack",
+    "repo": "automata/awesome-jamstack#readme",
+    "status": "pending"
+  },
+  {
+    "name": "WordPress-Gatsby",
+    "repo": "henrikwirth/awesome-wordpress-gatsby#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Mobile Web Development",
+    "repo": "myshov/awesome-mobile-web-development#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Storybook",
+    "repo": "lauthieb/awesome-storybook#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Blazor",
+    "repo": "AdrienTorris/awesome-blazor#readme",
+    "status": "pending"
+  },
+  {
+    "name": "PageSpeed Metrics",
+    "repo": "csabapalfi/awesome-pagespeed-metrics#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Tailwind CSS",
+    "repo": "aniftyco/awesome-tailwindcss#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Seed",
+    "repo": "seed-rs/awesome-seed-rs#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Web Performance Budget",
+    "repo": "pajaydev/awesome-web-performance-budget#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Web Animation",
+    "repo": "sergey-pimenov/awesome-web-animation#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Yew",
+    "repo": "jetli/awesome-yew#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Material-UI",
+    "repo": "nadunindunil/awesome-material-ui#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Building Blocks for Web Apps",
+    "repo": "componently-com/awesome-building-blocks-for-web-apps#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Svelte",
+    "repo": "TheComputerM/awesome-svelte#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Design systems",
+    "repo": "klaufel/awesome-design-systems#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Inertia.js",
+    "repo": "innocenzi/awesome-inertiajs#readme",
+    "status": "pending"
+  },
+  {
+    "name": "MDBootstrap",
+    "repo": "mdbootstrap/awesome-mdbootstrap#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Master CSS",
+    "repo": "master-co/awesome-master-css#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Hydrogen",
+    "repo": "shopify/awesome-hydrogen#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Tiny JS",
+    "repo": "thoughtspile/awesome-tiny-js#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Frontend GIS",
+    "repo": "joewdavies/awesome-frontend-gis#readme",
+    "status": "pending"
+  },
+  {
+    "name": "WebGPU",
+    "repo": "mikbry/awesome-webgpu#readme",
+    "status": "pending"
+  },
+  {
+    "name": "WebAssembly",
+    "repo": "idematos/awesome-webassembly#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Flask",
+    "repo": "mjhea0/awesome-flask#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Docker",
+    "repo": "veggiemonk/awesome-docker#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Vagrant",
+    "repo": "iJackUA/awesome-vagrant#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Pyramid",
+    "repo": "uralbash/awesome-pyramid#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Play1 Framework",
+    "repo": "PerfectCarl/awesome-play1#readme",
+    "status": "pending"
+  },
+  {
+    "name": "CakePHP",
+    "repo": "friendsofcake/awesome-cakephp#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Symfony",
+    "repo": "sitepoint-editors/awesome-symfony#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Education",
+    "repo": "pehapkari/awesome-symfony-education#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Laravel",
+    "repo": "chiraggude/awesome-laravel#readme",
+    "status": "pending"
+  },
+  {
+    "name": "TALL Stack",
+    "repo": "livewire/awesome-tall-stack#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Rails",
+    "repo": "gramantin/awesome-rails#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Gems",
+    "repo": "hothero/awesome-rails-gem#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Phalcon",
+    "repo": "phalcon/awesome-phalcon#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Dropwizard",
+    "repo": "stve/awesome-dropwizard#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Kubernetes",
+    "repo": "ramitsurana/awesome-kubernetes#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Lumen",
+    "repo": "unicodeveloper/awesome-lumen#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Serverless Framework",
+    "repo": "pmuens/awesome-serverless#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Apache Wicket",
+    "repo": "PhantomYdn/awesome-wicket#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Terraform",
+    "repo": "shuaibiyy/awesome-terraform#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Vapor",
+    "repo": "vapor-community/awesome-vapor#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Dash",
+    "repo": "ucg8j/awesome-dash#readme",
+    "status": "pending"
+  },
+  {
+    "name": "FastAPI",
+    "repo": "mjhea0/awesome-fastapi#readme",
+    "status": "pending"
+  },
+  {
+    "name": "CDK",
+    "repo": "kolomied/awesome-cdk#readme",
+    "status": "pending"
+  },
+  {
+    "name": "IAM",
+    "repo": "kdeldycke/awesome-iam#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Slim",
+    "repo": "nekofar/awesome-slim#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Fiber",
+    "repo": "gofiber/awesome-fiber#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Kustomize",
+    "repo": "DevOpsHiveHQ/awesome-kustomize#readme",
+    "status": "pending"
+  },
+  {
+    "name": "OpenTofu",
+    "repo": "virtualroot/awesome-opentofu#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Reflex",
+    "repo": "reflex-dev/awesome-reflex#readme",
+    "status": "pending"
+  },
+  {
+    "name": "University Courses",
+    "repo": "prakhar1989/awesome-courses#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Data Science",
+    "repo": "academic/awesome-datascience#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Tutorials",
+    "repo": "siboehm/awesome-learn-datascience#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Machine Learning",
+    "repo": "josephmisiti/awesome-machine-learning#readme",
+    "status": "pending"
+  },
+  {
+    "name": "H2O",
+    "repo": "h2oai/awesome-h2o#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Software Engineering for Machine Learning",
+    "repo": "SE-ML/awesome-seml#readme",
+    "status": "pending"
+  },
+  {
+    "name": "AI in Finance",
+    "repo": "georgezouq/awesome-ai-in-finance#readme",
+    "status": "pending"
+  },
+  {
+    "name": "JAX",
+    "repo": "n2cholas/awesome-jax#readme",
+    "status": "pending"
+  },
+  {
+    "name": "XAI",
+    "repo": "altamiracorp/awesome-xai#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Spanish",
+    "repo": "dav009/awesome-spanish-nlp#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Question Answering",
+    "repo": "seriousran/awesome-qa#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Natural Language Generation",
+    "repo": "accelerated-text/awesome-nlg#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Linguistics",
+    "repo": "theimpossibleastronaut/awesome-linguistics#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Cryptography",
+    "repo": "sobolevn/awesome-cryptography#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Papers",
+    "repo": "pFarb/awesome-crypto-papers#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Computer Vision",
+    "repo": "jbhuang0604/awesome-computer-vision#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Deep Learning",
+    "repo": "ChristosChristofidis/awesome-deep-learning#readme",
+    "status": "pending"
+  },
+  {
+    "name": "TensorFlow",
+    "repo": "jtoy/awesome-tensorflow#readme",
+    "status": "pending"
+  },
+  {
+    "name": "TensorFlow.js",
+    "repo": "aaronhma/awesome-tensorflow-js#readme",
+    "status": "pending"
+  },
+  {
+    "name": "TensorFlow Lite",
+    "repo": "margaretmz/awesome-tensorflow-lite#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Papers",
+    "repo": "terryum/awesome-deep-learning-papers#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Education",
+    "repo": "guillaume-chevalier/awesome-deep-learning-resources#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Deep Vision",
+    "repo": "kjw0612/awesome-deep-vision#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Functional Programming",
+    "repo": "lucasviola/awesome-functional-programming#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Empirical Software Engineering",
+    "repo": "dspinellis/awesome-msr#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Information Retrieval",
+    "repo": "harpribot/awesome-information-retrieval#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Quantum Computing",
+    "repo": "desireevl/awesome-quantum-computing#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Theoretical Computer Science",
+    "repo": "mostafatouny/awesome-theoretical-computer-science#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Conversational AI",
+    "repo": "jyguyomarch/awesome-conversational-ai#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Generative AI",
+    "repo": "steven2358/awesome-generative-ai#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Position-Based Quantum Cryptography",
+    "repo": "Renaller/awesome-position-based-quantum-cryptography#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Public Datasets",
+    "repo": "awesomedata/awesome-public-datasets#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Hadoop",
+    "repo": "youngwookim/awesome-hadoop#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Data Engineering",
+    "repo": "igorbarinov/awesome-data-engineering#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Streaming",
+    "repo": "manuzhang/awesome-streaming#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Apache Spark",
+    "repo": "awesome-spark/awesome-spark#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Qlik",
+    "repo": "ambster-public/awesome-qlik#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Splunk",
+    "repo": "sduff/awesome-splunk#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Network Analysis",
+    "repo": "briatte/awesome-network-analysis#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Talks",
+    "repo": "JanVanRyswyck/awesome-talks#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Algorithms",
+    "repo": "tayllan/awesome-algorithms#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Education",
+    "repo": "gaerae/awesome-algorithms-education#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Artificial Intelligence",
+    "repo": "owainlewis/awesome-artificial-intelligence#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Competitive Programming",
+    "repo": "lnishan/awesome-competitive-programming#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Math",
+    "repo": "rossant/awesome-math#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Recursion Schemes",
+    "repo": "passy/awesome-recursion-schemes#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Audit Algorithms",
+    "repo": "erwanlemerrer/awesome-audit-algorithms#readme",
+    "status": "pending"
+  },
+  {
+    "name": "AGI & CoCoSci",
+    "repo": "YuzheSHI/awesome-agi-cocosci#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Complex Systems",
+    "repo": "sellisd/awesome-complexity#readme",
+    "status": "pending"
+  },
+  {
+    "name": "VLM Architectures",
+    "repo": "gokayfem/awesome-vlm-architectures#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Book Authoring",
+    "repo": "TalAter/awesome-book-authoring#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Neovim",
+    "repo": "rockerBOO/awesome-neovim#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Emacs",
+    "repo": "emacs-tw/awesome-emacs#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Atom",
+    "repo": "mehcode/awesome-atom#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Visual Studio Code",
+    "repo": "viatsko/awesome-vscode#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Game Talks",
+    "repo": "hzoo/awesome-gametalks#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Godot",
+    "repo": "godotengine/awesome-godot#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Open Source Games",
+    "repo": "michelpereira/awesome-open-source-games#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Unity",
+    "repo": "RyanNielson/awesome-unity#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Chess",
+    "repo": "hkirat/awesome-chess#readme",
+    "status": "pending"
+  },
+  {
+    "name": "LÖVE",
+    "repo": "love2d-community/awesome-love2d#readme",
+    "status": "pending"
+  },
+  {
+    "name": "PICO-8",
+    "repo": "pico-8/awesome-PICO-8#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Game Boy Development",
+    "repo": "gbdev/awesome-gbdev#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Construct 2",
+    "repo": "ConstructCommunity/awesome-construct#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Gideros",
+    "repo": "stetso/awesome-gideros#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Minecraft",
+    "repo": "bs-community/awesome-minecraft#readme",
+    "status": "pending"
+  },
+  {
+    "name": "ComputerCraft",
+    "repo": "tomodachi94/awesome-computercraft#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Haxe Game Development",
+    "repo": "Dvergar/awesome-haxe-gamedev#readme",
+    "status": "pending"
+  },
+  {
+    "name": "libGDX",
+    "repo": "rafaskb/awesome-libgdx#readme",
+    "status": "pending"
+  },
+  {
+    "name": "PlayCanvas",
+    "repo": "playcanvas/awesome-playcanvas#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Game Remakes",
+    "repo": "radek-sprta/awesome-game-remakes#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Flame",
+    "repo": "flame-engine/awesome-flame#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Discord Communities",
+    "repo": "mhxion/awesome-discord-communities#readme",
+    "status": "pending"
+  },
+  {
+    "name": "CHIP-8",
+    "repo": "tobiasvl/awesome-chip-8#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Games of Coding",
+    "repo": "michelpereira/awesome-games-of-coding#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Esports",
+    "repo": "strift/awesome-esports#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Learn Gamedev",
+    "repo": "notpresident35/awesome-learn-gamedev#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Game Engine Development",
+    "repo": "stevinz/awesome-game-engine-dev#readme",
+    "status": "pending"
+  },
+  {
+    "name": "GameMaker",
+    "repo": "bytecauldron/awesome-gamemaker#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Game Production",
+    "repo": "vhladiienko/awesome-game-production#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Babylon.js",
+    "repo": "Symbitic/awesome-babylonjs#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Roblox",
+    "repo": "awesome-roblox/awesome-roblox#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Dev Env",
+    "repo": "jondot/awesome-devenv#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Dotfiles",
+    "repo": "webpro/awesome-dotfiles#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Shell",
+    "repo": "alebcay/awesome-shell#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Command-Line Apps",
+    "repo": "agarrharr/awesome-cli-apps#readme",
+    "status": "pending"
+  },
+  {
+    "name": "ZSH Plugins",
+    "repo": "unixorn/awesome-zsh-plugins#readme",
+    "status": "pending"
+  },
+  {
+    "name": "GitHub",
+    "repo": "phillipadsmith/awesome-github#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Browser Extensions",
+    "repo": "stefanbuck/awesome-browser-extensions-for-github#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Pinned Gists",
+    "repo": "matchai/awesome-pinned-gists#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Git Add-ons",
+    "repo": "stevemao/awesome-git-addons#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Git Hooks",
+    "repo": "compscilauren/awesome-git-hooks#readme",
+    "status": "pending"
+  },
+  {
+    "name": "SSH",
+    "repo": "moul/awesome-ssh#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Hyper",
+    "repo": "bnb/awesome-hyper#readme",
+    "status": "pending"
+  },
+  {
+    "name": "PowerShell",
+    "repo": "janikvonrotz/awesome-powershell#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Alfred Workflows",
+    "repo": "alfred-workflows/awesome-alfred-workflows#readme",
+    "status": "pending"
+  },
+  {
+    "name": "GitHub Actions",
+    "repo": "sdras/awesome-actions#readme",
+    "status": "pending"
+  },
+  {
+    "name": "WezTerm",
+    "repo": "michaelbrusegard/awesome-wezterm#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Science Fiction",
+    "repo": "sindresorhus/awesome-scifi#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Fantasy",
+    "repo": "RichardLitt/awesome-fantasy#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Podcasts",
+    "repo": "ayr-ton/awesome-geek-podcasts#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Email Newsletters",
+    "repo": "zudochkin/awesome-newsletters#readme",
+    "status": "pending"
+  },
+  {
+    "name": "IT Quotes",
+    "repo": "victorlaerte/awesome-it-quotes#readme",
+    "status": "pending"
+  },
+  {
+    "name": "MySQL",
+    "repo": "shlomi-noach/awesome-mysql#readme",
+    "status": "pending"
+  },
+  {
+    "name": "SQLAlchemy",
+    "repo": "dahlia/awesome-sqlalchemy#readme",
+    "status": "pending"
+  },
+  {
+    "name": "InfluxDB",
+    "repo": "mark-rushakoff/awesome-influxdb#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Neo4j",
+    "repo": "neueda/awesome-neo4j#readme",
+    "status": "pending"
+  },
+  {
+    "name": "MongoDB",
+    "repo": "ramnes/awesome-mongodb#readme",
+    "status": "pending"
+  },
+  {
+    "name": "RethinkDB",
+    "repo": "d3viant0ne/awesome-rethinkdb#readme",
+    "status": "pending"
+  },
+  {
+    "name": "TinkerPop",
+    "repo": "mohataher/awesome-tinkerpop#readme",
+    "status": "pending"
+  },
+  {
+    "name": "PostgreSQL",
+    "repo": "dhamaniasad/awesome-postgres#readme",
+    "status": "pending"
+  },
+  {
+    "name": "CouchDB",
+    "repo": "quangv/awesome-couchdb#readme",
+    "status": "pending"
+  },
+  {
+    "name": "HBase",
+    "repo": "rayokota/awesome-hbase#readme",
+    "status": "pending"
+  },
+  {
+    "name": "NoSQL Guides",
+    "repo": "erictleung/awesome-nosql-guides#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Database Tools",
+    "repo": "mgramin/awesome-db-tools#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Cassandra",
+    "repo": "Anant/awesome-cassandra#readme",
+    "status": "pending"
+  },
+  {
+    "name": "TDengine",
+    "repo": "taosdata/awesome-tdengine#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Supabase",
+    "repo": "lyqht/awesome-supabase#readme",
+    "status": "pending"
+  },
+  {
+    "name": "PocketBase",
+    "repo": "benallfree/awesome-pocketbase#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Neon",
+    "repo": "tyaga001/awesome-neon#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Fonts",
+    "repo": "brabadu/awesome-fonts#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Stock Resources",
+    "repo": "neutraltone/awesome-stock-resources#readme",
+    "status": "pending"
+  },
+  {
+    "name": "GIF",
+    "repo": "davisonio/awesome-gif#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Music",
+    "repo": "ciconia/awesome-music#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Open Source Documents",
+    "repo": "44bits/awesome-opensource-documents#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Audio Visualization",
+    "repo": "willianjusten/awesome-audio-visualization#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Broadcasting",
+    "repo": "ebu/awesome-broadcasting#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Pixel Art",
+    "repo": "Siilwyn/awesome-pixel-art#readme",
+    "status": "pending"
+  },
+  {
+    "name": "FFmpeg",
+    "repo": "transitive-bullshit/awesome-ffmpeg#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Icons",
+    "repo": "notlmn/awesome-icons#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Audiovisual",
+    "repo": "stingalleman/awesome-audiovisual#readme",
+    "status": "pending"
+  },
+  {
+    "name": "VLC",
+    "repo": "mfkl/awesome-vlc#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Audio Over IP",
+    "repo": "Mo-way/awesome-aoip#readme",
+    "status": "pending"
+  },
+  {
+    "name": "CLI Workshoppers",
+    "repo": "therebelrobot/awesome-workshopper#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Speaking",
+    "repo": "matteofigus/awesome-speaking#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Tech Videos",
+    "repo": "lucasviola/awesome-tech-videos#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Computer History",
+    "repo": "watson/awesome-computer-history#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Programming for Kids",
+    "repo": "HollyAdele/awesome-programming-for-kids#readme",
+    "status": "pending"
+  },
+  {
+    "name": "STEAM",
+    "repo": "RahulBirCodes/awesome-steam#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Educational Games",
+    "repo": "yrgo/awesome-educational-games#readme",
+    "status": "pending"
+  },
+  {
+    "name": "JavaScript Learning",
+    "repo": "micromata/awesome-javascript-learning#readme",
+    "status": "pending"
+  },
+  {
+    "name": "CSS Learning",
+    "repo": "micromata/awesome-css-learning#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Product Management",
+    "repo": "dend/awesome-product-management#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Roadmaps",
+    "repo": "liuchong/awesome-roadmaps#readme",
+    "status": "pending"
+  },
+  {
+    "name": "YouTubers",
+    "repo": "JoseDeFreitas/awesome-youtubers#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Hackathon",
+    "repo": "dribdat/awesome-hackathon#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Certificates",
+    "repo": "PanXProject/awesome-certificates#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Application Security",
+    "repo": "paragonie/awesome-appsec#readme",
+    "status": "pending"
+  },
+  {
+    "name": "CTF",
+    "repo": "apsdehal/awesome-ctf#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Cyber Security University",
+    "repo": "brootware/awesome-cyber-security-university#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Malware Analysis",
+    "repo": "rshipp/awesome-malware-analysis#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Hacking",
+    "repo": "carpedm20/awesome-hacking#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Hacking Spots",
+    "repo": "daviddias/awesome-hacking-locations#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Honeypots",
+    "repo": "paralax/awesome-honeypots#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Incident Response",
+    "repo": "meirwah/awesome-incident-response#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Vehicle Security and Car Hacking",
+    "repo": "jaredthecoder/awesome-vehicle-security#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Web Security",
+    "repo": "qazbnm456/awesome-web-security#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Lockpicking",
+    "repo": "fabacab/awesome-lockpicking#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Cybersecurity Blue Team",
+    "repo": "fabacab/awesome-cybersecurity-blueteam#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Fuzzing",
+    "repo": "cpuu/awesome-fuzzing#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Embedded and IoT Security",
+    "repo": "fkie-cad/awesome-embedded-and-iot-security#readme",
+    "status": "pending"
+  },
+  {
+    "name": "GDPR",
+    "repo": "bakke92/awesome-gdpr#readme",
+    "status": "pending"
+  },
+  {
+    "name": "DevSecOps",
+    "repo": "TaptuIT/awesome-devsecops#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Executable Packing",
+    "repo": "dhondta/awesome-executable-packing#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Malware Persistence",
+    "repo": "Karneades/awesome-malware-persistence#readme",
+    "status": "pending"
+  },
+  {
+    "name": "EVM Security",
+    "repo": "kareniel/awesome-evm-security#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Password Cracking",
+    "repo": "n0kovo/awesome-password-cracking#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Security Card Games",
+    "repo": "Karneades/awesome-security-card-games#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Suricata",
+    "repo": "satta/awesome-suricata#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Prompt Injection",
+    "repo": "FonduAI/awesome-prompt-injection#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Detection Engineering",
+    "repo": "infosecB/awesome-detection-engineering#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Annual Security Reports",
+    "repo": "jacobdjwilson/awesome-annual-security-reports#readme",
+    "status": "pending"
+  },
+  {
+    "name": "CI/CD Attacks",
+    "repo": "TupleType/awesome-cicd-attacks#readme",
+    "status": "pending"
+  },
+  {
+    "name": "OpenID Connect",
+    "repo": "cerberauth/awesome-openid-connect#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Umbraco",
+    "repo": "umbraco-community/awesome-umbraco#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Refinery CMS",
+    "repo": "refinerycms-contrib/awesome-refinerycms#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Wagtail",
+    "repo": "springload/awesome-wagtail#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Textpattern",
+    "repo": "drmonkeyninja/awesome-textpattern#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Drupal",
+    "repo": "nirgn975/awesome-drupal#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Craft CMS",
+    "repo": "craftcms/awesome#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Silverstripe CMS",
+    "repo": "wernerkrauss/awesome-silverstripe-cms#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Directus",
+    "repo": "directus-community/awesome-directus#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Plone",
+    "repo": "collective/awesome-plone#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Payload",
+    "repo": "DanailMinchev/awesome-payload#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Robotics",
+    "repo": "Kiloreux/awesome-robotics#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Internet of Things",
+    "repo": "HQarroum/awesome-iot#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Electronics",
+    "repo": "kitspace/awesome-electronics#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Bluetooth Beacons",
+    "repo": "rabschi/awesome-beacon#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Plotters",
+    "repo": "beardicus/awesome-plotters#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Robotic Tooling",
+    "repo": "protontypes/awesome-robotic-tooling#readme",
+    "status": "pending"
+  },
+  {
+    "name": "LIDAR",
+    "repo": "szenergy/awesome-lidar#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Open Hardware",
+    "repo": "delftopenhardware/awesome-open-hardware#readme",
+    "status": "pending"
+  },
+  {
+    "name": "ADS-B",
+    "repo": "rickstaa/awesome-adsb#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Flying FPV",
+    "repo": "Matthias84/awesome-flying-fpv#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Open Companies",
+    "repo": "opencompany/awesome-open-company#readme",
+    "status": "pending"
+  },
+  {
+    "name": "OKR Methodology",
+    "repo": "domenicosolazzo/awesome-okr#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Indie",
+    "repo": "mezod/awesome-indie#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Clean Tech",
+    "repo": "nglgzz/awesome-clean-tech#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Wardley Maps",
+    "repo": "wardley-maps-community/awesome-wardley-maps#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Social Enterprise",
+    "repo": "RayBB/awesome-social-enterprise#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Engineering Team Management",
+    "repo": "kdeldycke/awesome-engineering-team-management#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Developer-First Products",
+    "repo": "agamm/awesome-developer-first#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Billing",
+    "repo": "kdeldycke/awesome-billing#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Engineering Strategy",
+    "repo": "aleixmorgadas/awesome-engineering-strategy#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Slack",
+    "repo": "matiassingers/awesome-slack#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Communities",
+    "repo": "filipelinhares/awesome-slack#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Remote Jobs",
+    "repo": "lukasz-madon/awesome-remote-job#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Productivity",
+    "repo": "jyguyomarch/awesome-productivity#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Niche Job Boards",
+    "repo": "tramcar/awesome-job-boards#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Programming Interviews",
+    "repo": "DopplerHQ/awesome-interview-questions#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Code Review",
+    "repo": "joho/awesome-code-review#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Creative Technology",
+    "repo": "j0hnm4r5/awesome-creative-technology#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Internships",
+    "repo": "lodthe/awesome-internships#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Software-Defined Networking",
+    "repo": "sdnds-tw/awesome-sdn#readme",
+    "status": "pending"
+  },
+  {
+    "name": "PCAPTools",
+    "repo": "caesar0301/awesome-pcaptools#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Real-Time Communications",
+    "repo": "rtckit/awesome-rtc#readme",
+    "status": "pending"
+  },
+  {
+    "name": "SNMP",
+    "repo": "eozer/awesome-snmp#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Scapy",
+    "repo": "secdev/awesome-scapy#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Cilium",
+    "repo": "seifrajhi/awesome-cilium#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Bitcoin",
+    "repo": "igorbarinov/awesome-bitcoin#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Ripple",
+    "repo": "vhpoet/awesome-ripple#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Non-Financial Blockchain",
+    "repo": "machinomy/awesome-non-financial-blockchain#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Mastodon",
+    "repo": "hyperupcall/awesome-mastodon#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Blockchain AI",
+    "repo": "steven2358/awesome-blockchain-ai#readme",
+    "status": "pending"
+  },
+  {
+    "name": "EOSIO",
+    "repo": "DanailMinchev/awesome-eosio#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Corda",
+    "repo": "chainstack/awesome-corda#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Waves",
+    "repo": "msmolyakov/awesome-waves#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Substrate",
+    "repo": "substrate-developer-hub/awesome-substrate#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Golem",
+    "repo": "golemfactory/awesome-golem#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Stacks",
+    "repo": "friedger/awesome-stacks-chain#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Algorand",
+    "repo": "aorumbayev/awesome-algorand#readme",
+    "status": "pending"
+  },
+  {
+    "name": "ZeroNet",
+    "repo": "zolagonano/awesome-zeronet#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Cosmos SDK",
+    "repo": "cosmos/awesome-cosmos#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Tor",
+    "repo": "polycarbohydrate/awesome-tor#readme",
+    "status": "pending"
+  },
+  {
+    "name": "ATProto",
+    "repo": "atblueprints/awesome-atproto#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Biomedical Information Extraction",
+    "repo": "caufieldjh/awesome-bioie#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Computational Neuroscience",
+    "repo": "eselkin/awesome-computational-neuroscience#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Diversity",
+    "repo": "folkswhocode/awesome-diversity#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Digital History",
+    "repo": "maehr/awesome-digital-history#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Healthcare",
+    "repo": "kakoni/awesome-healthcare#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Humane Technology",
+    "repo": "humanetech-community/awesome-humane-tech#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Mental Health",
+    "repo": "dreamingechoes/awesome-mental-health#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Neuroscience",
+    "repo": "analyticalmonk/awesome-neuroscience#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Digital Humanities",
+    "repo": "dh-tech/awesome-digital-humanities#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Lucid Dreams",
+    "repo": "IAmCoder/awesome-lucid-dreams#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Neuroimaging",
+    "repo": "NPACore/awesome-neuroimaging#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Transgender",
+    "repo": "cvyl/awesome-transgender#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Creative Tech Events",
+    "repo": "danvoyce/awesome-creative-tech-events#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Events in Italy",
+    "repo": "ildoc/awesome-italy-events#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Events in the Netherlands",
+    "repo": "awkward/awesome-netherlands-events#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Visual Regression Testing",
+    "repo": "mojoaxel/awesome-regression-testing#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Selenium",
+    "repo": "christian-bromann/awesome-selenium#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Appium",
+    "repo": "SrinivasanTarget/awesome-appium#readme",
+    "status": "pending"
+  },
+  {
+    "name": "TAP",
+    "repo": "sindresorhus/awesome-tap#readme",
+    "status": "pending"
+  },
+  {
+    "name": "JMeter",
+    "repo": "aliesbelik/awesome-jmeter#readme",
+    "status": "pending"
+  },
+  {
+    "name": "k6",
+    "repo": "grafana/awesome-k6#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Playwright",
+    "repo": "mxschmitt/awesome-playwright#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Quality Assurance Roadmap",
+    "repo": "fityanos/awesome-quality-assurance-roadmap#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Gatling",
+    "repo": "aliesbelik/awesome-gatling#readme",
+    "status": "pending"
+  },
+  {
+    "name": "CodeRabbit",
+    "repo": "coderabbitai/awesome-coderabbit#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Scientific Writing",
+    "repo": "writing-resources/awesome-scientific-writing#readme",
+    "status": "pending"
+  },
+  {
+    "name": "JSON",
+    "repo": "burningtree/awesome-json#readme",
+    "status": "pending"
+  },
+  {
+    "name": "GeoJSON",
+    "repo": "tmcw/awesome-geojson#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Datasets",
+    "repo": "jdorfman/awesome-json-datasets#readme",
+    "status": "pending"
+  },
+  {
+    "name": "CSV",
+    "repo": "secretGeek/awesomeCSV#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Radio",
+    "repo": "kyleterry/awesome-radio#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Awesome",
+    "repo": "sindresorhus/awesome#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Analytics",
+    "repo": "0xnr/awesome-analytics#readme",
+    "status": "pending"
+  },
+  {
+    "name": "REST",
+    "repo": "marmelab/awesome-rest#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Continuous Integration and Continuous Delivery",
+    "repo": "cicdops/awesome-ciandcd#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Answers",
+    "repo": "cyberglot/awesome-answers#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Sketch",
+    "repo": "diessica/awesome-sketch#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Boilerplate Projects",
+    "repo": "melvin0008/awesome-projects-boilerplates#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Readme",
+    "repo": "matiassingers/awesome-readme#readme",
+    "status": "pending"
+  },
+  {
+    "name": "GitHub Wiki",
+    "repo": "MyHoneyBadger/awesome-github-wiki#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Self Hosted",
+    "repo": "awesome-selfhosted/awesome-selfhosted#readme",
+    "status": "pending"
+  },
+  {
+    "name": "FOSS Production Apps",
+    "repo": "DataDaoDe/awesome-foss-apps#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Gulp",
+    "repo": "alferov/awesome-gulp#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Answers",
+    "repo": "stoeffel/awesome-ama-answers#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Open Source Photography",
+    "repo": "ibaaj/awesome-OpenSourcePhotography#readme",
+    "status": "pending"
+  },
+  {
+    "name": "OpenGL",
+    "repo": "eug/awesome-opengl#readme",
+    "status": "pending"
+  },
+  {
+    "name": "GraphQL",
+    "repo": "chentsulin/awesome-graphql#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Transit",
+    "repo": "MobilityData/awesome-transit#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Research Tools",
+    "repo": "emptymalei/awesome-research#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Data Visualization",
+    "repo": "javierluraschi/awesome-dataviz#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Microservices",
+    "repo": "mfornos/awesome-microservices#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Code Points",
+    "repo": "Codepoints/awesome-codepoints#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Beginner-Friendly Projects",
+    "repo": "MunGell/awesome-for-beginners#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Katas",
+    "repo": "gamontal/awesome-katas#readme",
+    "status": "pending"
+  },
+  {
+    "name": "MQTT",
+    "repo": "hobbyquaker/awesome-mqtt#readme",
+    "status": "pending"
+  },
+  {
+    "name": "For Girls",
+    "repo": "cristianoliveira/awesome4girls#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Vorpal",
+    "repo": "vorpaljs/awesome-vorpal#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Vulkan",
+    "repo": "vinjn/awesome-vulkan#readme",
+    "status": "pending"
+  },
+  {
+    "name": "LaTeX",
+    "repo": "egeerardyn/awesome-LaTeX#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Economics",
+    "repo": "antontarasenko/awesome-economics#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Funny Markov Chains",
+    "repo": "sublimino/awesome-funny-markov#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Cheminformatics",
+    "repo": "hsiaoyi0504/awesome-cheminformatics#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Steam",
+    "repo": "scholtzm/awesome-steam#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Site Reliability Engineering",
+    "repo": "dastergon/awesome-sre#readme",
+    "status": "pending"
+  },
+  {
+    "name": "DTrace",
+    "repo": "xen0l/awesome-dtrace#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Userscripts",
+    "repo": "bvolpato/awesome-userscripts#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Pokémon",
+    "repo": "tobiasbueschel/awesome-pokemon#readme",
+    "status": "pending"
+  },
+  {
+    "name": "ChatOps",
+    "repo": "exAspArk/awesome-chatops#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Falsehood",
+    "repo": "kdeldycke/awesome-falsehood#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Domain-Driven Design",
+    "repo": "heynickc/awesome-ddd#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Quantified Self",
+    "repo": "woop/awesome-quantified-self#readme",
+    "status": "pending"
+  },
+  {
+    "name": "SaltStack",
+    "repo": "hbokh/awesome-saltstack#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Web Design",
+    "repo": "nicolesaidy/awesome-web-design#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Creative Coding",
+    "repo": "terkelg/awesome-creative-coding#readme",
+    "status": "pending"
+  },
+  {
+    "name": "No-Login Web Apps",
+    "repo": "aviaryan/awesome-no-login-web-apps#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Free Software",
+    "repo": "johnjago/awesome-free-software#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Framer",
+    "repo": "podo/awesome-framer#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Markdown",
+    "repo": "BubuAnabelas/awesome-markdown#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Dev Fun",
+    "repo": "mislavcimpersak/awesome-dev-fun#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Magento 2",
+    "repo": "DavidLambauer/awesome-magento2#readme",
+    "status": "pending"
+  },
+  {
+    "name": "TikZ",
+    "repo": "xiaohanyu/awesome-tikz#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Ad-Free",
+    "repo": "johnjago/awesome-ad-free#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Prometheus",
+    "repo": "roaldnefs/awesome-prometheus#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Homematic",
+    "repo": "homematic-community/awesome-homematic#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Ledger",
+    "repo": "sfischer13/awesome-ledger#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Web Monetization",
+    "repo": "thomasbnt/awesome-web-monetization#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Uncopyright",
+    "repo": "johnjago/awesome-uncopyright#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Crypto Currency Tools & Algorithms",
+    "repo": "Zheaoli/awesome-coins#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Open Source Supporters",
+    "repo": "zachflower/awesome-open-source-supporters#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Design Principles",
+    "repo": "robinstickel/awesome-design-principles#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Theravada",
+    "repo": "johnjago/awesome-theravada#readme",
+    "status": "pending"
+  },
+  {
+    "name": "inspectIT",
+    "repo": "inspectit-labs/awesome-inspectit#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Open Source Maintainers",
+    "repo": "nayafia/awesome-maintainers#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Calculators",
+    "repo": "xxczaki/awesome-calculators#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Captcha",
+    "repo": "ZYSzys/awesome-captcha#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Jupyter",
+    "repo": "markusschanta/awesome-jupyter#readme",
+    "status": "pending"
+  },
+  {
+    "name": "FIRST Robotics Competition",
+    "repo": "andrewda/awesome-frc#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Speakers",
+    "repo": "karlhorky/awesome-speakers#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Board Games",
+    "repo": "edm00se/awesome-board-games#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Software Patreons",
+    "repo": "uraimo/awesome-software-patreons#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Parasite",
+    "repo": "ecohealthalliance/awesome-parasite#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Food",
+    "repo": "jzarca01/awesome-food#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Bitcoin Payment Processors",
+    "repo": "alexk111/awesome-bitcoin-payment-processors#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Scientific Computing",
+    "repo": "nschloe/awesome-scientific-computing#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Amazon Sellers",
+    "repo": "ScaleLeap/awesome-amazon-seller#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Agriculture",
+    "repo": "brycejohnston/awesome-agriculture#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Product Design",
+    "repo": "ttt30ga/awesome-product-design#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Prisma",
+    "repo": "catalinmiron/awesome-prisma#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Software Architecture",
+    "repo": "simskij/awesome-software-architecture#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Connectivity Data and Reports",
+    "repo": "stevesong/awesome-connectivity-info#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Stacks",
+    "repo": "stackshareio/awesome-stacks#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Cytodata",
+    "repo": "cytodata/awesome-cytodata#readme",
+    "status": "pending"
+  },
+  {
+    "name": "IRC",
+    "repo": "davisonio/awesome-irc#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Advertising",
+    "repo": "cenoura/awesome-ads#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Earth",
+    "repo": "philsturgeon/awesome-earth#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Naming",
+    "repo": "gruhn/awesome-naming#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Web Archiving",
+    "repo": "iipc/awesome-web-archiving#readme",
+    "status": "pending"
+  },
+  {
+    "name": "WP-CLI",
+    "repo": "schlessera/awesome-wp-cli#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Credit Modeling",
+    "repo": "mourarthur/awesome-credit-modeling#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Ansible",
+    "repo": "ansible-community/awesome-ansible#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Biological Visualizations",
+    "repo": "keller-mark/awesome-biological-visualizations#readme",
+    "status": "pending"
+  },
+  {
+    "name": "QR Code",
+    "repo": "make-github-pseudonymous-again/awesome-qr-code#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Veganism",
+    "repo": "sdassow/awesome-veganism#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Translations",
+    "repo": "mbiesiad/awesome-translations#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Scriptable",
+    "repo": "dersvenhesse/awesome-scriptable#readme",
+    "status": "pending"
+  },
+  {
+    "name": "WebXR",
+    "repo": "msub2/awesome-webxr#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Computational Geometry",
+    "repo": "atkirtland/awesome-computational-geometry#readme",
+    "status": "pending"
+  },
+  {
+    "name": "OpenStreetMap",
+    "repo": "osmlab/awesome-openstreetmap#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Computational Biology",
+    "repo": "inoue0426/awesome-computational-biology#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Read the Docs",
+    "repo": "readthedocs-examples/awesome-read-the-docs#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Quarto",
+    "repo": "mcanouil/awesome-quarto#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Biological Image Analysis",
+    "repo": "hallvaaw/awesome-biological-image-analysis#readme",
+    "status": "pending"
+  },
+  {
+    "name": "ChatGPT",
+    "repo": "sindresorhus/awesome-chatgpt#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Whisper",
+    "repo": "sindresorhus/awesome-whisper#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Stock Trading",
+    "repo": "shi-rudo/awesome-stock-trading#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Steam Deck",
+    "repo": "airscripts/awesome-steam-deck#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Astrophotography",
+    "repo": "lunohodov/awesome-astrophotography#readme",
+    "status": "pending"
+  },
+  {
+    "name": "HPC",
+    "repo": "dstdev/awesome-hpc#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Geocaching",
+    "repo": "FoxFil/awesome-geocaching#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Regex",
+    "repo": "slevithan/awesome-regex#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Event-Driven Architecture",
+    "repo": "lutzh/awesome-event-driven-architecture#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Permacomputing",
+    "repo": "idematos/awesome-permacomputing#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Standards",
+    "repo": "donBarbos/awesome-standards#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Claude Code",
+    "repo": "hesreallyhim/awesome-claude-code#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Gemini CLI",
+    "repo": "Piebald-AI/awesome-gemini-cli#readme",
+    "status": "pending"
+  },
+  {
+    "name": "SAP Commerce",
+    "repo": "eminyagiz42/awesome-sap-commerce#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Tech Ethics",
+    "repo": "sampart/awesome-tech-ethics#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Copilot Agents",
+    "repo": "Code-and-Sorts/awesome-copilot-agents#readme",
+    "status": "pending"
+  },
+  {
+    "name": "All Awesome Lists",
+    "repo": "topics/awesome",
+    "status": "pending"
+  },
+  {
+    "name": "StumbleUponAwesome",
+    "repo": "basharovV/StumbleUponAwesome",
+    "status": "pending"
+  },
+  {
+    "name": "Awesome CLI",
+    "repo": "umutphp/awesome-cli",
+    "status": "pending"
+  },
+  {
+    "name": "Frontend Development",
+    "repo": "dypsilon/frontend-dev-bookmarks#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Arch-based Projects",
+    "repo": "PandaFoss/Awesome-Arch#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Open Source Apps",
+    "repo": "serhii-londar/open-source-mac-os-apps#readme",
+    "status": "pending"
+  },
+  {
+    "name": "WebExtensions",
+    "repo": "fregante/Awesome-WebExtensions#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Must Watch Talks",
+    "repo": "bolshchikov/js-must-watch#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Tips",
+    "repo": "loverajoel/jstips#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Maintenance Modules",
+    "repo": "maxogden/maintenance-modules#readme",
+    "status": "pending"
+  },
+  {
+    "name": "30 Seconds of Code",
+    "repo": "30-seconds/30-seconds-of-code#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Education",
+    "repo": "hsavit1/Awesome-Swift-Education#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Playgrounds",
+    "repo": "uraimo/Awesome-Swift-Playgrounds#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Julia",
+    "repo": "svaksha/Julia.jl#readme",
+    "status": "pending"
+  },
+  {
+    "name": "ES6 Tools",
+    "repo": "addyosmani/es6-tools#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Web Tools",
+    "repo": "lvwzhen/tools#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Critical-Path Tools",
+    "repo": "addyosmani/critical-path-css-tools#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Scalability",
+    "repo": "davidtheclark/scalable-css-reading-list#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Must-Watch Talks",
+    "repo": "AllThingsSmitty/must-watch-css#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Protips",
+    "repo": "AllThingsSmitty/css-protips#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Inspiration",
+    "repo": "NoahBuscher/Inspire#readme",
+    "status": "pending"
+  },
+  {
+    "name": "BEM",
+    "repo": "sturobson/BEM-resources#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Web Typography",
+    "repo": "deanhume/typography#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Tips",
+    "repo": "AllThingsSmitty/jquery-tips-everyone-should-know#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Offline-First",
+    "repo": "pazguille/offline-first#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Motion UI Design",
+    "repo": "fliptheweb/motion-ui-design#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Progressive Enhancement",
+    "repo": "jbmoelker/progressive-enhancement-resources#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Education",
+    "repo": "fukuball/Awesome-Laravel-Education#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Useful `.htaccess` Snippets",
+    "repo": "phanan/htaccess#readme",
+    "status": "pending"
+  },
+  {
+    "name": "nginx",
+    "repo": "fcambus/nginx-resources#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Vert.x",
+    "repo": "vert-x3/vertx-awesome#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Tutorials",
+    "repo": "ujjwalkarn/Machine-Learning-Tutorials#readme",
+    "status": "pending"
+  },
+  {
+    "name": "ML with Ruby",
+    "repo": "arbox/machine-learning-with-ruby#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Core ML Models",
+    "repo": "likedan/Awesome-CoreML-Models#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Speech and Natural Language Processing",
+    "repo": "edobashira/speech-language-processing#readme",
+    "status": "pending"
+  },
+  {
+    "name": "NLP with Ruby",
+    "repo": "arbox/nlp-with-ruby#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Open Source Society University",
+    "repo": "ossu/computer-science#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Static Analysis & Code Quality",
+    "repo": "analysis-tools-dev/static-analysis#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Papers We Love",
+    "repo": "papers-we-love/papers-we-love#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Algorithm Visualizations",
+    "repo": "enjalot/algovis#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Search Engine Optimization",
+    "repo": "marcobiedermann/search-engine-optimization#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Free Programming Books",
+    "repo": "EbookFoundation/free-programming-books#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Go Books",
+    "repo": "dariubs/GoBooks#readme",
+    "status": "pending"
+  },
+  {
+    "name": "R Books",
+    "repo": "RomanTsegelskyi/rbooks#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Mind Expanding Books",
+    "repo": "hackerkid/Mind-Expanding-Books#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Elixir Books",
+    "repo": "sger/ElixirBooks#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Sublime Text",
+    "repo": "dreikanter/sublime-bookmarks#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Vim",
+    "repo": "mhinz/vim-galore#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Game Development",
+    "repo": "ellisonleao/magictools#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Game Datasets",
+    "repo": "leomaurodesenv/game-datasets#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Quick Look Plugins",
+    "repo": "sindresorhus/quick-look-plugins#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Fish",
+    "repo": "jorgebucaran/awsm.fish#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Cheat Sheet",
+    "repo": "tiimgreen/github-cheat-sheet#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Git Cheat Sheet & Git Flow",
+    "repo": "arslanbilal/git-cheat-sheet#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Git Tips",
+    "repo": "git-tips/tips#readme",
+    "status": "pending"
+  },
+  {
+    "name": "FOSS for Developers",
+    "repo": "tvvocold/FOSS-for-Dev#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Terminals Are Sexy",
+    "repo": "k4m4/terminals-are-sexy#readme",
+    "status": "pending"
+  },
+  {
+    "name": "TypeDB",
+    "repo": "vaticle/typedb-awesome#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Codeface",
+    "repo": "chrissimpkins/codeface#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Learn to Program",
+    "repo": "karlhorky/learn-to-program#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Dive into Machine Learning",
+    "repo": "hangtwenty/dive-into-machine-learning#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Android Security",
+    "repo": "ashishb/android-security-awesome#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Sitecore",
+    "repo": "MartinMiles/Awesome-Sitecore#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Electric Guitar Specifications",
+    "repo": "gitfrage/guitarspecs#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Places to Post Your Startup",
+    "repo": "mmccaff/PlacesToPostYourStartup#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Tools of the Trade",
+    "repo": "cjbarber/ToolsOfTheTrade#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Ethereum",
+    "repo": "ttumiel/Awesome-Ethereum#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Empathy in Engineering",
+    "repo": "KimberlyMunoz/empathy-in-engineering#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Discounts for Student Developers",
+    "repo": "AchoArnold/discount-for-student-dev#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Services Engineering",
+    "repo": "mmcgrana/services-engineering#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Free for Developers",
+    "repo": "ripienaar/free-for-dev#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Design and Development Guides",
+    "repo": "NARKOZ/guides#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Software Engineering Blogs",
+    "repo": "kilimchoi/engineering-blogs#readme",
+    "status": "pending"
+  },
+  {
+    "name": "AMA",
+    "repo": "sindresorhus/amas#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Urban & Regional Planning",
+    "repo": "APA-Technology-Division/urban-and-regional-planning-resources#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Unicode",
+    "repo": "jagracey/Awesome-Unicode#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Tools for Activism",
+    "repo": "drewrwilson/toolsforactivism#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Citizen Science",
+    "repo": "dylanrees/citizen-science#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Bioinformatics",
+    "repo": "danielecook/Awesome-Bioinformatics#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Colorful",
+    "repo": "Siddharth11/Colorful#readme",
+    "status": "pending"
+  },
+  {
+    "name": "Bots",
+    "repo": "hackerkid/bots#readme",
+    "status": "pending"
+  }
+]
