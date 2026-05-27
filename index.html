@@ -179,14 +179,21 @@ function setFilter(el) {
 </div>
 
 <script>
-var AI_BACKEND = localStorage.getItem('awesome_ai_backend') || 'https://your-server.com';
+var AI_BACKEND = localStorage.getItem('awesome_ai_backend') || '';
+var AI_AUTH_TOKEN = localStorage.getItem('awesome_ai_auth_token') || '';
 function getBackend() {
   var b = localStorage.getItem('awesome_ai_backend');
   if (!b) {
-    b = prompt('输入 AI 后端地址（你的服务器地址）:\n例如 https://api.example.com\n\n留空则每次输入 API Key 直连 OpenRouter');
+    b = prompt('输入 AI 后端地址（你的服务器地址）:\n例如 https://你的服务器:3001');
     if (b && b.trim()) { localStorage.setItem('awesome_ai_backend', b.trim()); AI_BACKEND = b.trim(); }
     else { AI_BACKEND = null; }
   } else { AI_BACKEND = b; }
+  // Also get auth token
+  var t = localStorage.getItem('awesome_ai_auth_token');
+  if (!t) {
+    t = prompt('输入接口验签 Token（管理员给你的）:');
+    if (t && t.trim()) { localStorage.setItem('awesome_ai_auth_token', t.trim()); AI_AUTH_TOKEN = t.trim(); }
+  } else { AI_AUTH_TOKEN = t; }
   return AI_BACKEND;
 }
 function toggleChat() {
@@ -220,9 +227,11 @@ async function sendMsg() {
     var backend = getBackend();
     var res;
     if (backend) {
+      var headers = { 'Content-Type': 'application/json' };
+      if (AI_AUTH_TOKEN) headers['X-Auth-Token'] = AI_AUTH_TOKEN;
       res = await fetch(backend.replace(/\/+$/, '') + '/api/chat', {
         method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
+        headers: headers,
         body: JSON.stringify({
         messages: [
           { role: 'system', content: '你是 Awesome Index 的 AI 搜索助手。你有 657 个 GitHub awesome 列表的数据。回答要简洁、推荐具体。给出仓库名（带链接）、Stars、一句话说明为什么适合。一次推荐 1-3 个。如果用户问了无关的问题，说"我是专门帮忙找技术资源的，这题我答不了😅"即可。回复用中文。' },
@@ -248,6 +257,7 @@ window.__AWESOME_DATA__ = DATA;
 
 </body>
 </html>
+
 
 
 
