@@ -2,17 +2,18 @@
   "id": "root-related",
   "title": "Related",
   "kind": "section",
-  "depth": 0,
   "sourceRepo": "sindresorhus/awesome",
+  "depth": 0,
+  "url": "https://github.com/sindresorhus/awesome#related",
   "children": [
     {
       "id": "root-related-all-awesome-lists",
       "title": "All Awesome Lists",
-      "kind": "repo",
-      "repo": "topics/awesome",
+      "kind": "link",
+      "repo": "",
       "url": "https://github.com/topics/awesome",
       "description": "All the Awesome lists on GitHub.",
-      "external": false,
+      "external": true,
       "sourceRepo": "sindresorhus/awesome",
       "depth": 1,
       "children": [],
@@ -23,8 +24,11 @@
       "topics": [],
       "updated": null,
       "pushed": null,
-      "awesome": true,
-      "readmeStatus": "missing"
+      "awesome": false,
+      "path": [
+        "All Awesome Lists"
+      ],
+      "parentId": "root-related"
     },
     {
       "id": "root-related-awesome-search",
@@ -44,7 +48,11 @@
       "topics": [],
       "updated": null,
       "pushed": null,
-      "awesome": false
+      "awesome": false,
+      "path": [
+        "Awesome Search"
+      ],
+      "parentId": "root-related"
     },
     {
       "id": "root-related-stumbleuponawesome",
@@ -56,7 +64,517 @@
       "external": false,
       "sourceRepo": "sindresorhus/awesome",
       "depth": 1,
-      "children": [],
+      "children": [
+        {
+          "id": "root-related-stumbleuponawesome-how-to-use-it",
+          "title": "How to use it:",
+          "kind": "section",
+          "sourceRepo": "basharovv/stumbleuponawesome",
+          "depth": 1,
+          "url": "https://github.com/basharovv/stumbleuponawesome#how-to-use-it",
+          "children": [
+            {
+              "id": "root-related-stumbleuponawesome-how-to-use-it-introducing-the-rabbit-hole",
+              "title": "꩜ Introducing: The Rabbit Hole",
+              "kind": "section",
+              "sourceRepo": "basharovv/stumbleuponawesome",
+              "depth": 2,
+              "url": "https://github.com/basharovv/stumbleuponawesome#introducing-the-rabbit-hole",
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "StumbleUponAwesome",
+                "How to use it:",
+                "꩜ Introducing: The Rabbit Hole"
+              ],
+              "parentId": "root-related-stumbleuponawesome-how-to-use-it"
+            },
+            {
+              "id": "root-related-stumbleuponawesome-how-to-use-it-setup",
+              "title": "Setup",
+              "kind": "section",
+              "sourceRepo": "basharovv/stumbleuponawesome",
+              "depth": 2,
+              "url": "https://github.com/basharovv/stumbleuponawesome#setup",
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "StumbleUponAwesome",
+                "How to use it:",
+                "Setup"
+              ],
+              "parentId": "root-related-stumbleuponawesome-how-to-use-it"
+            },
+            {
+              "id": "root-related-stumbleuponawesome-how-to-use-it-development",
+              "title": "Development",
+              "kind": "section",
+              "sourceRepo": "basharovv/stumbleuponawesome",
+              "depth": 2,
+              "url": "https://github.com/basharovv/stumbleuponawesome#development",
+              "children": [
+                {
+                  "id": "root-related-stumbleuponawesome-how-to-use-it-development-feedback-mechanism-for-good-bad-links",
+                  "title": "[ ] Feedback mechanism for good/bad links",
+                  "kind": "topic",
+                  "repo": "",
+                  "url": "",
+                  "description": "",
+                  "external": false,
+                  "sourceRepo": "basharovv/stumbleuponawesome",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "StumbleUponAwesome",
+                    "How to use it:",
+                    "Development",
+                    "[ ] Feedback mechanism for good/bad links"
+                  ],
+                  "parentId": "root-related-stumbleuponawesome-how-to-use-it-development"
+                },
+                {
+                  "id": "root-related-stumbleuponawesome-how-to-use-it-development-favourite-gems-to-bookmark-folder",
+                  "title": "[ ] Favourite 'gems' to bookmark folder",
+                  "kind": "topic",
+                  "repo": "",
+                  "url": "",
+                  "description": "",
+                  "external": false,
+                  "sourceRepo": "basharovv/stumbleuponawesome",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "StumbleUponAwesome",
+                    "How to use it:",
+                    "Development",
+                    "[ ] Favourite 'gems' to bookmark folder"
+                  ],
+                  "parentId": "root-related-stumbleuponawesome-how-to-use-it-development"
+                },
+                {
+                  "id": "root-related-stumbleuponawesome-how-to-use-it-development-basic-stats",
+                  "title": "[ ] Basic stats",
+                  "kind": "topic",
+                  "repo": "",
+                  "url": "",
+                  "description": "",
+                  "external": false,
+                  "sourceRepo": "basharovv/stumbleuponawesome",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "StumbleUponAwesome",
+                    "How to use it:",
+                    "Development",
+                    "[ ] Basic stats"
+                  ],
+                  "parentId": "root-related-stumbleuponawesome-how-to-use-it-development"
+                },
+                {
+                  "id": "root-related-stumbleuponawesome-how-to-use-it-development-categories",
+                  "title": "[ ] Categories",
+                  "kind": "topic",
+                  "repo": "",
+                  "url": "",
+                  "description": "",
+                  "external": false,
+                  "sourceRepo": "basharovv/stumbleuponawesome",
+                  "depth": 3,
+                  "children": [
+                    {
+                      "id": "root-related-stumbleuponawesome-how-to-use-it-development-categories-x-awesome-curated-lists",
+                      "title": "[x] awesome curated lists",
+                      "kind": "topic",
+                      "repo": "",
+                      "url": "",
+                      "description": "",
+                      "external": false,
+                      "sourceRepo": "basharovv/stumbleuponawesome",
+                      "depth": 4,
+                      "children": [],
+                      "stars": 0,
+                      "forks": 0,
+                      "language": null,
+                      "license": null,
+                      "topics": [],
+                      "updated": null,
+                      "pushed": null,
+                      "awesome": false,
+                      "path": [
+                        "StumbleUponAwesome",
+                        "How to use it:",
+                        "Development",
+                        "[ ] Categories",
+                        "[x] awesome curated lists"
+                      ],
+                      "parentId": "root-related-stumbleuponawesome-how-to-use-it-development-categories"
+                    },
+                    {
+                      "id": "root-related-stumbleuponawesome-how-to-use-it-development-categories-tech-science-software-startups-etc",
+                      "title": "[ ] tech, science, software, startups, etc.",
+                      "kind": "topic",
+                      "repo": "",
+                      "url": "",
+                      "description": "",
+                      "external": false,
+                      "sourceRepo": "basharovv/stumbleuponawesome",
+                      "depth": 4,
+                      "children": [],
+                      "stars": 0,
+                      "forks": 0,
+                      "language": null,
+                      "license": null,
+                      "topics": [],
+                      "updated": null,
+                      "pushed": null,
+                      "awesome": false,
+                      "path": [
+                        "StumbleUponAwesome",
+                        "How to use it:",
+                        "Development",
+                        "[ ] Categories",
+                        "[ ] tech, science, software, startups, etc."
+                      ],
+                      "parentId": "root-related-stumbleuponawesome-how-to-use-it-development-categories"
+                    }
+                  ],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "StumbleUponAwesome",
+                    "How to use it:",
+                    "Development",
+                    "[ ] Categories"
+                  ],
+                  "parentId": "root-related-stumbleuponawesome-how-to-use-it-development"
+                },
+                {
+                  "id": "root-related-stumbleuponawesome-how-to-use-it-development-x-rabbit-hole-feature-stay-on-the-same-topic",
+                  "title": "[x] Rabbit hole feature (stay on the same topic).",
+                  "kind": "topic",
+                  "repo": "",
+                  "url": "",
+                  "description": "",
+                  "external": false,
+                  "sourceRepo": "basharovv/stumbleuponawesome",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "StumbleUponAwesome",
+                    "How to use it:",
+                    "Development",
+                    "[x] Rabbit hole feature (stay on the same topic)."
+                  ],
+                  "parentId": "root-related-stumbleuponawesome-how-to-use-it-development"
+                },
+                {
+                  "id": "root-related-stumbleuponawesome-how-to-use-it-development-x-firefox-support",
+                  "title": "[x] Firefox support",
+                  "kind": "topic",
+                  "repo": "",
+                  "url": "",
+                  "description": "",
+                  "external": false,
+                  "sourceRepo": "basharovv/stumbleuponawesome",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "StumbleUponAwesome",
+                    "How to use it:",
+                    "Development",
+                    "[x] Firefox support"
+                  ],
+                  "parentId": "root-related-stumbleuponawesome-how-to-use-it-development"
+                },
+                {
+                  "id": "root-related-stumbleuponawesome-how-to-use-it-development-safari-support",
+                  "title": "[ ] Safari support",
+                  "kind": "topic",
+                  "repo": "",
+                  "url": "",
+                  "description": "",
+                  "external": false,
+                  "sourceRepo": "basharovv/stumbleuponawesome",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "StumbleUponAwesome",
+                    "How to use it:",
+                    "Development",
+                    "[ ] Safari support"
+                  ],
+                  "parentId": "root-related-stumbleuponawesome-how-to-use-it-development"
+                }
+              ],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "StumbleUponAwesome",
+                "How to use it:",
+                "Development"
+              ],
+              "parentId": "root-related-stumbleuponawesome-how-to-use-it"
+            },
+            {
+              "id": "root-related-stumbleuponawesome-how-to-use-it-a-note-about-permissions",
+              "title": "A note about permissions",
+              "kind": "section",
+              "sourceRepo": "basharovv/stumbleuponawesome",
+              "depth": 2,
+              "url": "https://github.com/basharovv/stumbleuponawesome#a-note-about-permissions",
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "StumbleUponAwesome",
+                "How to use it:",
+                "A note about permissions"
+              ],
+              "parentId": "root-related-stumbleuponawesome-how-to-use-it"
+            },
+            {
+              "id": "root-related-stumbleuponawesome-how-to-use-it-credit-to-the-curators",
+              "title": "Credit to the curators ✔",
+              "kind": "section",
+              "sourceRepo": "basharovv/stumbleuponawesome",
+              "depth": 2,
+              "url": "https://github.com/basharovv/stumbleuponawesome#credit-to-the-curators",
+              "children": [
+                {
+                  "id": "root-related-stumbleuponawesome-how-to-use-it-credit-to-the-curators-sindresorhus-awesome-and-all-the-awesome-list-authors",
+                  "title": "sindresorhus/awesome and all the awesome list authors",
+                  "kind": "topic",
+                  "repo": "",
+                  "url": "",
+                  "description": "",
+                  "external": false,
+                  "sourceRepo": "basharovv/stumbleuponawesome",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "StumbleUponAwesome",
+                    "How to use it:",
+                    "Credit to the curators ✔",
+                    "sindresorhus/awesome and all the awesome list authors"
+                  ],
+                  "parentId": "root-related-stumbleuponawesome-how-to-use-it-credit-to-the-curators"
+                }
+              ],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "StumbleUponAwesome",
+                "How to use it:",
+                "Credit to the curators ✔"
+              ],
+              "parentId": "root-related-stumbleuponawesome-how-to-use-it"
+            },
+            {
+              "id": "root-related-stumbleuponawesome-how-to-use-it-a-note-about-the-dataset",
+              "title": "A note about the dataset",
+              "kind": "section",
+              "sourceRepo": "basharovv/stumbleuponawesome",
+              "depth": 2,
+              "url": "https://github.com/basharovv/stumbleuponawesome#a-note-about-the-dataset",
+              "children": [
+                {
+                  "id": "root-related-stumbleuponawesome-how-to-use-it-a-note-about-the-dataset-maintaining-quality",
+                  "title": "Maintaining quality",
+                  "kind": "section",
+                  "sourceRepo": "basharovv/stumbleuponawesome",
+                  "depth": 4,
+                  "url": "https://github.com/basharovv/stumbleuponawesome#maintaining-quality",
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "StumbleUponAwesome",
+                    "How to use it:",
+                    "A note about the dataset",
+                    "Maintaining quality"
+                  ],
+                  "parentId": "root-related-stumbleuponawesome-how-to-use-it-a-note-about-the-dataset"
+                },
+                {
+                  "id": "root-related-stumbleuponawesome-how-to-use-it-a-note-about-the-dataset-broken-links",
+                  "title": "Broken links",
+                  "kind": "section",
+                  "sourceRepo": "basharovv/stumbleuponawesome",
+                  "depth": 4,
+                  "url": "https://github.com/basharovv/stumbleuponawesome#broken-links",
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "StumbleUponAwesome",
+                    "How to use it:",
+                    "A note about the dataset",
+                    "Broken links"
+                  ],
+                  "parentId": "root-related-stumbleuponawesome-how-to-use-it-a-note-about-the-dataset"
+                },
+                {
+                  "id": "root-related-stumbleuponawesome-how-to-use-it-a-note-about-the-dataset-contribute",
+                  "title": "Contribute",
+                  "kind": "section",
+                  "sourceRepo": "basharovv/stumbleuponawesome",
+                  "depth": 3,
+                  "url": "https://github.com/basharovv/stumbleuponawesome#contribute",
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "StumbleUponAwesome",
+                    "How to use it:",
+                    "A note about the dataset",
+                    "Contribute"
+                  ],
+                  "parentId": "root-related-stumbleuponawesome-how-to-use-it-a-note-about-the-dataset"
+                }
+              ],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "StumbleUponAwesome",
+                "How to use it:",
+                "A note about the dataset"
+              ],
+              "parentId": "root-related-stumbleuponawesome-how-to-use-it"
+            }
+          ],
+          "stars": 0,
+          "forks": 0,
+          "language": null,
+          "license": null,
+          "topics": [],
+          "updated": null,
+          "pushed": null,
+          "awesome": false,
+          "path": [
+            "StumbleUponAwesome",
+            "How to use it:"
+          ],
+          "parentId": "root-related-stumbleuponawesome"
+        }
+      ],
       "stars": 0,
       "forks": 0,
       "language": null,
@@ -65,7 +583,11 @@
       "updated": null,
       "pushed": null,
       "awesome": true,
-      "readmeStatus": "missing"
+      "readmeStatus": "expanded",
+      "path": [
+        "StumbleUponAwesome"
+      ],
+      "parentId": "root-related"
     },
     {
       "id": "root-related-awesome-cli",
@@ -86,7 +608,11 @@
       "updated": null,
       "pushed": null,
       "awesome": true,
-      "readmeStatus": "missing"
+      "readmeStatus": "missing",
+      "path": [
+        "Awesome CLI"
+      ],
+      "parentId": "root-related"
     },
     {
       "id": "root-related-track-awesome-list",
@@ -106,7 +632,11 @@
       "topics": [],
       "updated": null,
       "pushed": null,
-      "awesome": false
+      "awesome": false,
+      "path": [
+        "Track Awesome List"
+      ],
+      "parentId": "root-related"
     }
   ],
   "stars": 0,

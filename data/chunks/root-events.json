@@ -2,8 +2,9 @@
   "id": "root-events",
   "title": "Events",
   "kind": "section",
-  "depth": 0,
   "sourceRepo": "sindresorhus/awesome",
+  "depth": 0,
+  "url": "https://github.com/sindresorhus/awesome#events",
   "children": [
     {
       "id": "root-events-creative-tech-events",
@@ -15,7 +16,2005 @@
       "external": false,
       "sourceRepo": "sindresorhus/awesome",
       "depth": 1,
-      "children": [],
+      "children": [
+        {
+          "id": "root-events-creative-tech-events-europe",
+          "title": "Europe",
+          "kind": "section",
+          "sourceRepo": "danvoyce/awesome-creative-tech-events",
+          "depth": 1,
+          "url": "https://github.com/danvoyce/awesome-creative-tech-events#europe",
+          "children": [
+            {
+              "id": "root-events-creative-tech-events-europe-uk",
+              "title": "UK",
+              "kind": "section",
+              "sourceRepo": "danvoyce/awesome-creative-tech-events",
+              "depth": 2,
+              "url": "https://github.com/danvoyce/awesome-creative-tech-events#uk",
+              "children": [
+                {
+                  "id": "root-events-creative-tech-events-europe-uk-london",
+                  "title": "London",
+                  "kind": "section",
+                  "sourceRepo": "danvoyce/awesome-creative-tech-events",
+                  "depth": 3,
+                  "url": "https://github.com/danvoyce/awesome-creative-tech-events#london",
+                  "children": [
+                    {
+                      "id": "root-events-creative-tech-events-europe-uk-london-london-creative-coding-meetup",
+                      "title": "London Creative Coding Meetup",
+                      "kind": "link",
+                      "repo": "",
+                      "url": "https://www.meetup.com/london-creative-coding/",
+                      "description": "Bimonthly meetup aiming to gather like minded creatives from all backgrounds.",
+                      "external": true,
+                      "sourceRepo": "danvoyce/awesome-creative-tech-events",
+                      "depth": 4,
+                      "children": [],
+                      "stars": 0,
+                      "forks": 0,
+                      "language": null,
+                      "license": null,
+                      "topics": [],
+                      "updated": null,
+                      "pushed": null,
+                      "awesome": false,
+                      "path": [
+                        "Creative Tech Events",
+                        "Europe",
+                        "UK",
+                        "London",
+                        "London Creative Coding Meetup"
+                      ],
+                      "parentId": "root-events-creative-tech-events-europe-uk-london"
+                    },
+                    {
+                      "id": "root-events-creative-tech-events-europe-uk-london-visualising-data-london",
+                      "title": "Visualising Data London",
+                      "kind": "link",
+                      "repo": "",
+                      "url": "https://www.meetup.com/Visualising-Data-London/",
+                      "description": "Bimonthly meetup for people who design, write code, draw or like to think about data visualisation.",
+                      "external": true,
+                      "sourceRepo": "danvoyce/awesome-creative-tech-events",
+                      "depth": 4,
+                      "children": [],
+                      "stars": 0,
+                      "forks": 0,
+                      "language": null,
+                      "license": null,
+                      "topics": [],
+                      "updated": null,
+                      "pushed": null,
+                      "awesome": false,
+                      "path": [
+                        "Creative Tech Events",
+                        "Europe",
+                        "UK",
+                        "London",
+                        "Visualising Data London"
+                      ],
+                      "parentId": "root-events-creative-tech-events-europe-uk-london"
+                    },
+                    {
+                      "id": "root-events-creative-tech-events-europe-uk-london-algorithmic-art",
+                      "title": "Algorithmic Art",
+                      "kind": "link",
+                      "repo": "",
+                      "url": "https://www.meetup.com/Algorithmic-Art/",
+                      "description": "Monthly meetup in London and other meetups in Cornwall to inspire artists to learn to code, technologists to explore art, and first time coders to get started in fun way that stimulates the senses.",
+                      "external": true,
+                      "sourceRepo": "danvoyce/awesome-creative-tech-events",
+                      "depth": 4,
+                      "children": [],
+                      "stars": 0,
+                      "forks": 0,
+                      "language": null,
+                      "license": null,
+                      "topics": [],
+                      "updated": null,
+                      "pushed": null,
+                      "awesome": false,
+                      "path": [
+                        "Creative Tech Events",
+                        "Europe",
+                        "UK",
+                        "London",
+                        "Algorithmic Art"
+                      ],
+                      "parentId": "root-events-creative-tech-events-europe-uk-london"
+                    },
+                    {
+                      "id": "root-events-creative-tech-events-europe-uk-london-encode",
+                      "title": "Encode",
+                      "kind": "link",
+                      "repo": "",
+                      "url": "https://encode.info/",
+                      "description": "2 day data viz conference. (September)",
+                      "external": true,
+                      "sourceRepo": "danvoyce/awesome-creative-tech-events",
+                      "depth": 4,
+                      "children": [],
+                      "stars": 0,
+                      "forks": 0,
+                      "language": null,
+                      "license": null,
+                      "topics": [],
+                      "updated": null,
+                      "pushed": null,
+                      "awesome": false,
+                      "path": [
+                        "Creative Tech Events",
+                        "Europe",
+                        "UK",
+                        "London",
+                        "Encode"
+                      ],
+                      "parentId": "root-events-creative-tech-events-europe-uk-london"
+                    }
+                  ],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Creative Tech Events",
+                    "Europe",
+                    "UK",
+                    "London"
+                  ],
+                  "parentId": "root-events-creative-tech-events-europe-uk"
+                },
+                {
+                  "id": "root-events-creative-tech-events-europe-uk-eastnor",
+                  "title": "Eastnor",
+                  "kind": "section",
+                  "sourceRepo": "danvoyce/awesome-creative-tech-events",
+                  "depth": 3,
+                  "url": "https://github.com/danvoyce/awesome-creative-tech-events#eastnor",
+                  "children": [
+                    {
+                      "id": "root-events-creative-tech-events-europe-uk-eastnor-emf-camp",
+                      "title": "EMF Camp",
+                      "kind": "link",
+                      "repo": "",
+                      "url": "https://www.emfcamp.org",
+                      "description": "Camping festival for hackers, artists, geeks, crafters, scientists, and engineers. (July)",
+                      "external": true,
+                      "sourceRepo": "danvoyce/awesome-creative-tech-events",
+                      "depth": 4,
+                      "children": [],
+                      "stars": 0,
+                      "forks": 0,
+                      "language": null,
+                      "license": null,
+                      "topics": [],
+                      "updated": null,
+                      "pushed": null,
+                      "awesome": false,
+                      "path": [
+                        "Creative Tech Events",
+                        "Europe",
+                        "UK",
+                        "Eastnor",
+                        "EMF Camp"
+                      ],
+                      "parentId": "root-events-creative-tech-events-europe-uk-eastnor"
+                    }
+                  ],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Creative Tech Events",
+                    "Europe",
+                    "UK",
+                    "Eastnor"
+                  ],
+                  "parentId": "root-events-creative-tech-events-europe-uk"
+                }
+              ],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Creative Tech Events",
+                "Europe",
+                "UK"
+              ],
+              "parentId": "root-events-creative-tech-events-europe"
+            },
+            {
+              "id": "root-events-creative-tech-events-europe-netherlands",
+              "title": "Netherlands",
+              "kind": "section",
+              "sourceRepo": "danvoyce/awesome-creative-tech-events",
+              "depth": 2,
+              "url": "https://github.com/danvoyce/awesome-creative-tech-events#netherlands",
+              "children": [
+                {
+                  "id": "root-events-creative-tech-events-europe-netherlands-amsterdam",
+                  "title": "Amsterdam",
+                  "kind": "section",
+                  "sourceRepo": "danvoyce/awesome-creative-tech-events",
+                  "depth": 3,
+                  "url": "https://github.com/danvoyce/awesome-creative-tech-events#amsterdam",
+                  "children": [
+                    {
+                      "id": "root-events-creative-tech-events-europe-netherlands-amsterdam-interactive-storytelling-meetup",
+                      "title": "Interactive storytelling Meetup",
+                      "kind": "link",
+                      "repo": "",
+                      "url": "https://www.meetup.com/Interactive-Storytelling-Meetup/",
+                      "description": "For everyone working with, or interested in, interactive and/or digital storytelling.",
+                      "external": true,
+                      "sourceRepo": "danvoyce/awesome-creative-tech-events",
+                      "depth": 4,
+                      "children": [],
+                      "stars": 0,
+                      "forks": 0,
+                      "language": null,
+                      "license": null,
+                      "topics": [],
+                      "updated": null,
+                      "pushed": null,
+                      "awesome": false,
+                      "path": [
+                        "Creative Tech Events",
+                        "Europe",
+                        "Netherlands",
+                        "Amsterdam",
+                        "Interactive storytelling Meetup"
+                      ],
+                      "parentId": "root-events-creative-tech-events-europe-netherlands-amsterdam"
+                    },
+                    {
+                      "id": "root-events-creative-tech-events-europe-netherlands-amsterdam-creative-coding-amsterdam",
+                      "title": "Creative Coding Amsterdam",
+                      "kind": "link",
+                      "repo": "",
+                      "url": "https://www.meetup.com/Creative-Coding-Amsterdam/",
+                      "description": "Meetup for people of all levels interested in all creative aspects of computer programming.",
+                      "external": true,
+                      "sourceRepo": "danvoyce/awesome-creative-tech-events",
+                      "depth": 4,
+                      "children": [],
+                      "stars": 0,
+                      "forks": 0,
+                      "language": null,
+                      "license": null,
+                      "topics": [],
+                      "updated": null,
+                      "pushed": null,
+                      "awesome": false,
+                      "path": [
+                        "Creative Tech Events",
+                        "Europe",
+                        "Netherlands",
+                        "Amsterdam",
+                        "Creative Coding Amsterdam"
+                      ],
+                      "parentId": "root-events-creative-tech-events-europe-netherlands-amsterdam"
+                    },
+                    {
+                      "id": "root-events-creative-tech-events-europe-netherlands-amsterdam-fitc-amsterdam",
+                      "title": "FITC Amsterdam",
+                      "kind": "link",
+                      "repo": "",
+                      "url": "https://fitc.ca/event/am20/",
+                      "description": "2 day event about design, technology and cool shit. (February)",
+                      "external": true,
+                      "sourceRepo": "danvoyce/awesome-creative-tech-events",
+                      "depth": 4,
+                      "children": [],
+                      "stars": 0,
+                      "forks": 0,
+                      "language": null,
+                      "license": null,
+                      "topics": [],
+                      "updated": null,
+                      "pushed": null,
+                      "awesome": false,
+                      "path": [
+                        "Creative Tech Events",
+                        "Europe",
+                        "Netherlands",
+                        "Amsterdam",
+                        "FITC Amsterdam"
+                      ],
+                      "parentId": "root-events-creative-tech-events-europe-netherlands-amsterdam"
+                    },
+                    {
+                      "id": "root-events-creative-tech-events-europe-netherlands-amsterdam-the-next-web",
+                      "title": "The Next Web",
+                      "kind": "link",
+                      "repo": "",
+                      "url": "https://thenextweb.com/conference/",
+                      "description": "Europe's largest tech festival. (June)",
+                      "external": true,
+                      "sourceRepo": "danvoyce/awesome-creative-tech-events",
+                      "depth": 4,
+                      "children": [],
+                      "stars": 0,
+                      "forks": 0,
+                      "language": null,
+                      "license": null,
+                      "topics": [],
+                      "updated": null,
+                      "pushed": null,
+                      "awesome": false,
+                      "path": [
+                        "Creative Tech Events",
+                        "Europe",
+                        "Netherlands",
+                        "Amsterdam",
+                        "The Next Web"
+                      ],
+                      "parentId": "root-events-creative-tech-events-europe-netherlands-amsterdam"
+                    }
+                  ],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Creative Tech Events",
+                    "Europe",
+                    "Netherlands",
+                    "Amsterdam"
+                  ],
+                  "parentId": "root-events-creative-tech-events-europe-netherlands"
+                },
+                {
+                  "id": "root-events-creative-tech-events-europe-netherlands-eindhoven",
+                  "title": "Eindhoven",
+                  "kind": "section",
+                  "sourceRepo": "danvoyce/awesome-creative-tech-events",
+                  "depth": 3,
+                  "url": "https://github.com/danvoyce/awesome-creative-tech-events#eindhoven",
+                  "children": [
+                    {
+                      "id": "root-events-creative-tech-events-europe-netherlands-eindhoven-strp",
+                      "title": "STRP",
+                      "kind": "link",
+                      "repo": "",
+                      "url": "https://strp.nl",
+                      "description": "STRP Festival is one of the largest art & technology (e-culture) festivals in Europe where music, art and technology meet. (April)",
+                      "external": true,
+                      "sourceRepo": "danvoyce/awesome-creative-tech-events",
+                      "depth": 4,
+                      "children": [],
+                      "stars": 0,
+                      "forks": 0,
+                      "language": null,
+                      "license": null,
+                      "topics": [],
+                      "updated": null,
+                      "pushed": null,
+                      "awesome": false,
+                      "path": [
+                        "Creative Tech Events",
+                        "Europe",
+                        "Netherlands",
+                        "Eindhoven",
+                        "STRP"
+                      ],
+                      "parentId": "root-events-creative-tech-events-europe-netherlands-eindhoven"
+                    }
+                  ],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Creative Tech Events",
+                    "Europe",
+                    "Netherlands",
+                    "Eindhoven"
+                  ],
+                  "parentId": "root-events-creative-tech-events-europe-netherlands"
+                }
+              ],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Creative Tech Events",
+                "Europe",
+                "Netherlands"
+              ],
+              "parentId": "root-events-creative-tech-events-europe"
+            },
+            {
+              "id": "root-events-creative-tech-events-europe-france",
+              "title": "France",
+              "kind": "section",
+              "sourceRepo": "danvoyce/awesome-creative-tech-events",
+              "depth": 2,
+              "url": "https://github.com/danvoyce/awesome-creative-tech-events#france",
+              "children": [
+                {
+                  "id": "root-events-creative-tech-events-europe-france-paris",
+                  "title": "Paris",
+                  "kind": "section",
+                  "sourceRepo": "danvoyce/awesome-creative-tech-events",
+                  "depth": 3,
+                  "url": "https://github.com/danvoyce/awesome-creative-tech-events#paris",
+                  "children": [
+                    {
+                      "id": "root-events-creative-tech-events-europe-france-paris-immersive-art-festival",
+                      "title": "Immersive Art Festival",
+                      "kind": "link",
+                      "repo": "",
+                      "url": "https://immersiveartfestival.com/",
+                      "description": "The Atelier des Lumières is a digital art centre where immersive exhibitions dedicated to the greatest artists in the history of art and more contemporary creations are projected. (October)",
+                      "external": true,
+                      "sourceRepo": "danvoyce/awesome-creative-tech-events",
+                      "depth": 4,
+                      "children": [],
+                      "stars": 0,
+                      "forks": 0,
+                      "language": null,
+                      "license": null,
+                      "topics": [],
+                      "updated": null,
+                      "pushed": null,
+                      "awesome": false,
+                      "path": [
+                        "Creative Tech Events",
+                        "Europe",
+                        "France",
+                        "Paris",
+                        "Immersive Art Festival"
+                      ],
+                      "parentId": "root-events-creative-tech-events-europe-france-paris"
+                    },
+                    {
+                      "id": "root-events-creative-tech-events-europe-france-paris-grow",
+                      "title": "Grow",
+                      "kind": "link",
+                      "repo": "",
+                      "url": "https://www.grow.paris/",
+                      "description": "The first parisian event dedicated to advanced creative coding. (November)",
+                      "external": true,
+                      "sourceRepo": "danvoyce/awesome-creative-tech-events",
+                      "depth": 4,
+                      "children": [],
+                      "stars": 0,
+                      "forks": 0,
+                      "language": null,
+                      "license": null,
+                      "topics": [],
+                      "updated": null,
+                      "pushed": null,
+                      "awesome": false,
+                      "path": [
+                        "Creative Tech Events",
+                        "Europe",
+                        "France",
+                        "Paris",
+                        "Grow"
+                      ],
+                      "parentId": "root-events-creative-tech-events-europe-france-paris"
+                    }
+                  ],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Creative Tech Events",
+                    "Europe",
+                    "France",
+                    "Paris"
+                  ],
+                  "parentId": "root-events-creative-tech-events-europe-france"
+                },
+                {
+                  "id": "root-events-creative-tech-events-europe-france-lyon",
+                  "title": "Lyon",
+                  "kind": "section",
+                  "sourceRepo": "danvoyce/awesome-creative-tech-events",
+                  "depth": 3,
+                  "url": "https://github.com/danvoyce/awesome-creative-tech-events#lyon",
+                  "children": [
+                    {
+                      "id": "root-events-creative-tech-events-europe-france-lyon-micro-meso-macro",
+                      "title": "Micro Meso Macro",
+                      "kind": "link",
+                      "repo": "",
+                      "url": "https://micromesomacro.com",
+                      "description": "Exploring the frontiers of data representation (November)",
+                      "external": true,
+                      "sourceRepo": "danvoyce/awesome-creative-tech-events",
+                      "depth": 4,
+                      "children": [],
+                      "stars": 0,
+                      "forks": 0,
+                      "language": null,
+                      "license": null,
+                      "topics": [],
+                      "updated": null,
+                      "pushed": null,
+                      "awesome": false,
+                      "path": [
+                        "Creative Tech Events",
+                        "Europe",
+                        "France",
+                        "Lyon",
+                        "Micro Meso Macro"
+                      ],
+                      "parentId": "root-events-creative-tech-events-europe-france-lyon"
+                    }
+                  ],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Creative Tech Events",
+                    "Europe",
+                    "France",
+                    "Lyon"
+                  ],
+                  "parentId": "root-events-creative-tech-events-europe-france"
+                }
+              ],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Creative Tech Events",
+                "Europe",
+                "France"
+              ],
+              "parentId": "root-events-creative-tech-events-europe"
+            },
+            {
+              "id": "root-events-creative-tech-events-europe-germany",
+              "title": "Germany",
+              "kind": "section",
+              "sourceRepo": "danvoyce/awesome-creative-tech-events",
+              "depth": 2,
+              "url": "https://github.com/danvoyce/awesome-creative-tech-events#germany",
+              "children": [
+                {
+                  "id": "root-events-creative-tech-events-europe-germany-berlin",
+                  "title": "Berlin",
+                  "kind": "section",
+                  "sourceRepo": "danvoyce/awesome-creative-tech-events",
+                  "depth": 3,
+                  "url": "https://github.com/danvoyce/awesome-creative-tech-events#berlin",
+                  "children": [
+                    {
+                      "id": "root-events-creative-tech-events-europe-germany-berlin-creative-code-berlin-meetup",
+                      "title": "Creative Code Berlin Meetup",
+                      "kind": "link",
+                      "repo": "",
+                      "url": "https://www.meetup.com/creativeCodeBerlin/",
+                      "description": "Diverse community of people interested in the use of computing skills for artistic expression.",
+                      "external": true,
+                      "sourceRepo": "danvoyce/awesome-creative-tech-events",
+                      "depth": 4,
+                      "children": [],
+                      "stars": 0,
+                      "forks": 0,
+                      "language": null,
+                      "license": null,
+                      "topics": [],
+                      "updated": null,
+                      "pushed": null,
+                      "awesome": false,
+                      "path": [
+                        "Creative Tech Events",
+                        "Europe",
+                        "Germany",
+                        "Berlin",
+                        "Creative Code Berlin Meetup"
+                      ],
+                      "parentId": "root-events-creative-tech-events-europe-germany-berlin"
+                    }
+                  ],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Creative Tech Events",
+                    "Europe",
+                    "Germany",
+                    "Berlin"
+                  ],
+                  "parentId": "root-events-creative-tech-events-europe-germany"
+                },
+                {
+                  "id": "root-events-creative-tech-events-europe-germany-danduuml-sseldorf-berlin-and-munich",
+                  "title": "D&uuml;sseldorf, Berlin and Munich",
+                  "kind": "section",
+                  "sourceRepo": "danvoyce/awesome-creative-tech-events",
+                  "depth": 3,
+                  "url": "https://github.com/danvoyce/awesome-creative-tech-events#danduuml-sseldorf-berlin-and-munich",
+                  "children": [
+                    {
+                      "id": "root-events-creative-tech-events-europe-germany-danduuml-sseldorf-berlin-and-munich-beyond-tellerrand",
+                      "title": "Beyond tellerrand",
+                      "kind": "link",
+                      "repo": "",
+                      "url": "https://beyondtellerrand.com",
+                      "description": "An affordable event about web design, development, creativity, design and much more with multiple events throughout the year.",
+                      "external": true,
+                      "sourceRepo": "danvoyce/awesome-creative-tech-events",
+                      "depth": 4,
+                      "children": [],
+                      "stars": 0,
+                      "forks": 0,
+                      "language": null,
+                      "license": null,
+                      "topics": [],
+                      "updated": null,
+                      "pushed": null,
+                      "awesome": false,
+                      "path": [
+                        "Creative Tech Events",
+                        "Europe",
+                        "Germany",
+                        "D&uuml;sseldorf, Berlin and Munich",
+                        "Beyond tellerrand"
+                      ],
+                      "parentId": "root-events-creative-tech-events-europe-germany-danduuml-sseldorf-berlin-and-munich"
+                    }
+                  ],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Creative Tech Events",
+                    "Europe",
+                    "Germany",
+                    "D&uuml;sseldorf, Berlin and Munich"
+                  ],
+                  "parentId": "root-events-creative-tech-events-europe-germany"
+                },
+                {
+                  "id": "root-events-creative-tech-events-europe-germany-hamburg",
+                  "title": "Hamburg",
+                  "kind": "section",
+                  "sourceRepo": "danvoyce/awesome-creative-tech-events",
+                  "depth": 3,
+                  "url": "https://github.com/danvoyce/awesome-creative-tech-events#hamburg",
+                  "children": [
+                    {
+                      "id": "root-events-creative-tech-events-europe-germany-hamburg-wirefly",
+                      "title": "Wirefly",
+                      "kind": "link",
+                      "repo": "",
+                      "url": "https://www.wirefly.world/",
+                      "description": "The first tech & arts festival of its kind in Germany ⪢ 4 days of ✓ talks ✓ music ✓ events ✓ food ✓ camping - all that and more at a unique venue on the beach! (August)",
+                      "external": true,
+                      "sourceRepo": "danvoyce/awesome-creative-tech-events",
+                      "depth": 4,
+                      "children": [],
+                      "stars": 0,
+                      "forks": 0,
+                      "language": null,
+                      "license": null,
+                      "topics": [],
+                      "updated": null,
+                      "pushed": null,
+                      "awesome": false,
+                      "path": [
+                        "Creative Tech Events",
+                        "Europe",
+                        "Germany",
+                        "Hamburg",
+                        "Wirefly"
+                      ],
+                      "parentId": "root-events-creative-tech-events-europe-germany-hamburg"
+                    }
+                  ],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Creative Tech Events",
+                    "Europe",
+                    "Germany",
+                    "Hamburg"
+                  ],
+                  "parentId": "root-events-creative-tech-events-europe-germany"
+                }
+              ],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Creative Tech Events",
+                "Europe",
+                "Germany"
+              ],
+              "parentId": "root-events-creative-tech-events-europe"
+            },
+            {
+              "id": "root-events-creative-tech-events-europe-spain",
+              "title": "Spain",
+              "kind": "section",
+              "sourceRepo": "danvoyce/awesome-creative-tech-events",
+              "depth": 2,
+              "url": "https://github.com/danvoyce/awesome-creative-tech-events#spain",
+              "children": [
+                {
+                  "id": "root-events-creative-tech-events-europe-spain-barcelona",
+                  "title": "Barcelona",
+                  "kind": "section",
+                  "sourceRepo": "danvoyce/awesome-creative-tech-events",
+                  "depth": 3,
+                  "url": "https://github.com/danvoyce/awesome-creative-tech-events#barcelona",
+                  "children": [
+                    {
+                      "id": "root-events-creative-tech-events-europe-spain-barcelona-mutek-barcelona",
+                      "title": "Mutek Barcelona",
+                      "kind": "link",
+                      "repo": "",
+                      "url": "http://www.mutek.org/en",
+                      "description": "Electronic music and the digital arts festival. (March)",
+                      "external": true,
+                      "sourceRepo": "danvoyce/awesome-creative-tech-events",
+                      "depth": 4,
+                      "children": [],
+                      "stars": 0,
+                      "forks": 0,
+                      "language": null,
+                      "license": null,
+                      "topics": [],
+                      "updated": null,
+                      "pushed": null,
+                      "awesome": false,
+                      "path": [
+                        "Creative Tech Events",
+                        "Europe",
+                        "Spain",
+                        "Barcelona",
+                        "Mutek Barcelona"
+                      ],
+                      "parentId": "root-events-creative-tech-events-europe-spain-barcelona"
+                    },
+                    {
+                      "id": "root-events-creative-tech-events-europe-spain-barcelona-offf-barcelona",
+                      "title": "Offf Barcelona",
+                      "kind": "link",
+                      "repo": "",
+                      "url": "http://www.offf.barcelona",
+                      "description": "Conference for offline/online designers, motion designers, thinkers, sound designers, graphic designers, theorists, developers, professionals and students. (April)",
+                      "external": true,
+                      "sourceRepo": "danvoyce/awesome-creative-tech-events",
+                      "depth": 4,
+                      "children": [],
+                      "stars": 0,
+                      "forks": 0,
+                      "language": null,
+                      "license": null,
+                      "topics": [],
+                      "updated": null,
+                      "pushed": null,
+                      "awesome": false,
+                      "path": [
+                        "Creative Tech Events",
+                        "Europe",
+                        "Spain",
+                        "Barcelona",
+                        "Offf Barcelona"
+                      ],
+                      "parentId": "root-events-creative-tech-events-europe-spain-barcelona"
+                    },
+                    {
+                      "id": "root-events-creative-tech-events-europe-spain-barcelona-sonar",
+                      "title": "Sonar",
+                      "kind": "link",
+                      "repo": "",
+                      "url": "https://sonar.es/en/2020",
+                      "description": "Music, creativity & technology. (June)",
+                      "external": true,
+                      "sourceRepo": "danvoyce/awesome-creative-tech-events",
+                      "depth": 4,
+                      "children": [],
+                      "stars": 0,
+                      "forks": 0,
+                      "language": null,
+                      "license": null,
+                      "topics": [],
+                      "updated": null,
+                      "pushed": null,
+                      "awesome": false,
+                      "path": [
+                        "Creative Tech Events",
+                        "Europe",
+                        "Spain",
+                        "Barcelona",
+                        "Sonar"
+                      ],
+                      "parentId": "root-events-creative-tech-events-europe-spain-barcelona"
+                    }
+                  ],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Creative Tech Events",
+                    "Europe",
+                    "Spain",
+                    "Barcelona"
+                  ],
+                  "parentId": "root-events-creative-tech-events-europe-spain"
+                }
+              ],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Creative Tech Events",
+                "Europe",
+                "Spain"
+              ],
+              "parentId": "root-events-creative-tech-events-europe"
+            },
+            {
+              "id": "root-events-creative-tech-events-europe-austria",
+              "title": "Austria",
+              "kind": "section",
+              "sourceRepo": "danvoyce/awesome-creative-tech-events",
+              "depth": 2,
+              "url": "https://github.com/danvoyce/awesome-creative-tech-events#austria",
+              "children": [
+                {
+                  "id": "root-events-creative-tech-events-europe-austria-linz",
+                  "title": "Linz",
+                  "kind": "section",
+                  "sourceRepo": "danvoyce/awesome-creative-tech-events",
+                  "depth": 3,
+                  "url": "https://github.com/danvoyce/awesome-creative-tech-events#linz",
+                  "children": [
+                    {
+                      "id": "root-events-creative-tech-events-europe-austria-linz-ars-electronica-festival",
+                      "title": "Ars Electronica Festival",
+                      "kind": "link",
+                      "repo": "",
+                      "url": "https://ars.electronica.art/news/en/",
+                      "description": "Festival for art, technology and society. (September)",
+                      "external": true,
+                      "sourceRepo": "danvoyce/awesome-creative-tech-events",
+                      "depth": 4,
+                      "children": [],
+                      "stars": 0,
+                      "forks": 0,
+                      "language": null,
+                      "license": null,
+                      "topics": [],
+                      "updated": null,
+                      "pushed": null,
+                      "awesome": false,
+                      "path": [
+                        "Creative Tech Events",
+                        "Europe",
+                        "Austria",
+                        "Linz",
+                        "Ars Electronica Festival"
+                      ],
+                      "parentId": "root-events-creative-tech-events-europe-austria-linz"
+                    }
+                  ],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Creative Tech Events",
+                    "Europe",
+                    "Austria",
+                    "Linz"
+                  ],
+                  "parentId": "root-events-creative-tech-events-europe-austria"
+                }
+              ],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Creative Tech Events",
+                "Europe",
+                "Austria"
+              ],
+              "parentId": "root-events-creative-tech-events-europe"
+            },
+            {
+              "id": "root-events-creative-tech-events-europe-italy",
+              "title": "Italy",
+              "kind": "section",
+              "sourceRepo": "danvoyce/awesome-creative-tech-events",
+              "depth": 2,
+              "url": "https://github.com/danvoyce/awesome-creative-tech-events#italy",
+              "children": [
+                {
+                  "id": "root-events-creative-tech-events-europe-italy-milan",
+                  "title": "Milan",
+                  "kind": "section",
+                  "sourceRepo": "danvoyce/awesome-creative-tech-events",
+                  "depth": 3,
+                  "url": "https://github.com/danvoyce/awesome-creative-tech-events#milan",
+                  "children": [
+                    {
+                      "id": "root-events-creative-tech-events-europe-italy-milan-digital-design-days",
+                      "title": "Digital Design Days",
+                      "kind": "link",
+                      "repo": "",
+                      "url": "http://www.ddd.it/en/",
+                      "description": "3 day event for the digital design industry. (October)",
+                      "external": true,
+                      "sourceRepo": "danvoyce/awesome-creative-tech-events",
+                      "depth": 4,
+                      "children": [],
+                      "stars": 0,
+                      "forks": 0,
+                      "language": null,
+                      "license": null,
+                      "topics": [],
+                      "updated": null,
+                      "pushed": null,
+                      "awesome": false,
+                      "path": [
+                        "Creative Tech Events",
+                        "Europe",
+                        "Italy",
+                        "Milan",
+                        "Digital Design Days"
+                      ],
+                      "parentId": "root-events-creative-tech-events-europe-italy-milan"
+                    }
+                  ],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Creative Tech Events",
+                    "Europe",
+                    "Italy",
+                    "Milan"
+                  ],
+                  "parentId": "root-events-creative-tech-events-europe-italy"
+                }
+              ],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Creative Tech Events",
+                "Europe",
+                "Italy"
+              ],
+              "parentId": "root-events-creative-tech-events-europe"
+            },
+            {
+              "id": "root-events-creative-tech-events-europe-czech-republic",
+              "title": "Czech Republic",
+              "kind": "section",
+              "sourceRepo": "danvoyce/awesome-creative-tech-events",
+              "depth": 2,
+              "url": "https://github.com/danvoyce/awesome-creative-tech-events#czech-republic",
+              "children": [
+                {
+                  "id": "root-events-creative-tech-events-europe-czech-republic-prague",
+                  "title": "Prague",
+                  "kind": "section",
+                  "sourceRepo": "danvoyce/awesome-creative-tech-events",
+                  "depth": 3,
+                  "url": "https://github.com/danvoyce/awesome-creative-tech-events#prague",
+                  "children": [
+                    {
+                      "id": "root-events-creative-tech-events-europe-czech-republic-prague-signal-festival",
+                      "title": "Signal Festival",
+                      "kind": "link",
+                      "repo": "",
+                      "url": "https://www.signalfestival.com",
+                      "description": "4 day themed festival showcasing digital installations across the city. (October)",
+                      "external": true,
+                      "sourceRepo": "danvoyce/awesome-creative-tech-events",
+                      "depth": 4,
+                      "children": [],
+                      "stars": 0,
+                      "forks": 0,
+                      "language": null,
+                      "license": null,
+                      "topics": [],
+                      "updated": null,
+                      "pushed": null,
+                      "awesome": false,
+                      "path": [
+                        "Creative Tech Events",
+                        "Europe",
+                        "Czech Republic",
+                        "Prague",
+                        "Signal Festival"
+                      ],
+                      "parentId": "root-events-creative-tech-events-europe-czech-republic-prague"
+                    }
+                  ],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Creative Tech Events",
+                    "Europe",
+                    "Czech Republic",
+                    "Prague"
+                  ],
+                  "parentId": "root-events-creative-tech-events-europe-czech-republic"
+                }
+              ],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Creative Tech Events",
+                "Europe",
+                "Czech Republic"
+              ],
+              "parentId": "root-events-creative-tech-events-europe"
+            },
+            {
+              "id": "root-events-creative-tech-events-europe-slovakia",
+              "title": "Slovakia",
+              "kind": "section",
+              "sourceRepo": "danvoyce/awesome-creative-tech-events",
+              "depth": 2,
+              "url": "https://github.com/danvoyce/awesome-creative-tech-events#slovakia",
+              "children": [
+                {
+                  "id": "root-events-creative-tech-events-europe-slovakia-bratislava",
+                  "title": "Bratislava",
+                  "kind": "section",
+                  "sourceRepo": "danvoyce/awesome-creative-tech-events",
+                  "depth": 3,
+                  "url": "https://github.com/danvoyce/awesome-creative-tech-events#bratislava",
+                  "children": [
+                    {
+                      "id": "root-events-creative-tech-events-europe-slovakia-bratislava-sensorium-festival",
+                      "title": "Sensorium Festival",
+                      "kind": "link",
+                      "repo": "",
+                      "url": "https://www.sensorium.is/",
+                      "description": "3 day festival for designers, creative directors, technologists, architects, innovators, artists and scientists interested in humane technology. (June)",
+                      "external": true,
+                      "sourceRepo": "danvoyce/awesome-creative-tech-events",
+                      "depth": 4,
+                      "children": [],
+                      "stars": 0,
+                      "forks": 0,
+                      "language": null,
+                      "license": null,
+                      "topics": [],
+                      "updated": null,
+                      "pushed": null,
+                      "awesome": false,
+                      "path": [
+                        "Creative Tech Events",
+                        "Europe",
+                        "Slovakia",
+                        "Bratislava",
+                        "Sensorium Festival"
+                      ],
+                      "parentId": "root-events-creative-tech-events-europe-slovakia-bratislava"
+                    }
+                  ],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Creative Tech Events",
+                    "Europe",
+                    "Slovakia",
+                    "Bratislava"
+                  ],
+                  "parentId": "root-events-creative-tech-events-europe-slovakia"
+                }
+              ],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Creative Tech Events",
+                "Europe",
+                "Slovakia"
+              ],
+              "parentId": "root-events-creative-tech-events-europe"
+            },
+            {
+              "id": "root-events-creative-tech-events-europe-sweden",
+              "title": "Sweden",
+              "kind": "section",
+              "sourceRepo": "danvoyce/awesome-creative-tech-events",
+              "depth": 2,
+              "url": "https://github.com/danvoyce/awesome-creative-tech-events#sweden",
+              "children": [
+                {
+                  "id": "root-events-creative-tech-events-europe-sweden-stockholm",
+                  "title": "Stockholm",
+                  "kind": "section",
+                  "sourceRepo": "danvoyce/awesome-creative-tech-events",
+                  "depth": 3,
+                  "url": "https://github.com/danvoyce/awesome-creative-tech-events#stockholm",
+                  "children": [
+                    {
+                      "id": "root-events-creative-tech-events-europe-sweden-stockholm-creative-coding-stockholm",
+                      "title": "Creative Coding Stockholm",
+                      "kind": "link",
+                      "repo": "",
+                      "url": "https://www.meetup.com/Creative-Coding-Stockholm/",
+                      "description": "Meetup group for anyone interested in creating art using programming languages.",
+                      "external": true,
+                      "sourceRepo": "danvoyce/awesome-creative-tech-events",
+                      "depth": 4,
+                      "children": [],
+                      "stars": 0,
+                      "forks": 0,
+                      "language": null,
+                      "license": null,
+                      "topics": [],
+                      "updated": null,
+                      "pushed": null,
+                      "awesome": false,
+                      "path": [
+                        "Creative Tech Events",
+                        "Europe",
+                        "Sweden",
+                        "Stockholm",
+                        "Creative Coding Stockholm"
+                      ],
+                      "parentId": "root-events-creative-tech-events-europe-sweden-stockholm"
+                    }
+                  ],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Creative Tech Events",
+                    "Europe",
+                    "Sweden",
+                    "Stockholm"
+                  ],
+                  "parentId": "root-events-creative-tech-events-europe-sweden"
+                }
+              ],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Creative Tech Events",
+                "Europe",
+                "Sweden"
+              ],
+              "parentId": "root-events-creative-tech-events-europe"
+            },
+            {
+              "id": "root-events-creative-tech-events-europe-denmark",
+              "title": "Denmark",
+              "kind": "section",
+              "sourceRepo": "danvoyce/awesome-creative-tech-events",
+              "depth": 2,
+              "url": "https://github.com/danvoyce/awesome-creative-tech-events#denmark",
+              "children": [
+                {
+                  "id": "root-events-creative-tech-events-europe-denmark-copenhagen",
+                  "title": "Copenhagen",
+                  "kind": "section",
+                  "sourceRepo": "danvoyce/awesome-creative-tech-events",
+                  "depth": 3,
+                  "url": "https://github.com/danvoyce/awesome-creative-tech-events#copenhagen",
+                  "children": [
+                    {
+                      "id": "root-events-creative-tech-events-europe-denmark-copenhagen-creating-coding-copenhagen",
+                      "title": "Creating Coding Copenhagen",
+                      "kind": "link",
+                      "repo": "",
+                      "url": "https://www.meetup.com/Creative-Coding-Copenhagen/",
+                      "description": "Meetup group for people of all skill levels interested in generative art, machine learning for creative purpose or tech-based art in general.",
+                      "external": true,
+                      "sourceRepo": "danvoyce/awesome-creative-tech-events",
+                      "depth": 4,
+                      "children": [],
+                      "stars": 0,
+                      "forks": 0,
+                      "language": null,
+                      "license": null,
+                      "topics": [],
+                      "updated": null,
+                      "pushed": null,
+                      "awesome": false,
+                      "path": [
+                        "Creative Tech Events",
+                        "Europe",
+                        "Denmark",
+                        "Copenhagen",
+                        "Creating Coding Copenhagen"
+                      ],
+                      "parentId": "root-events-creative-tech-events-europe-denmark-copenhagen"
+                    }
+                  ],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Creative Tech Events",
+                    "Europe",
+                    "Denmark",
+                    "Copenhagen"
+                  ],
+                  "parentId": "root-events-creative-tech-events-europe-denmark"
+                }
+              ],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Creative Tech Events",
+                "Europe",
+                "Denmark"
+              ],
+              "parentId": "root-events-creative-tech-events-europe"
+            }
+          ],
+          "stars": 0,
+          "forks": 0,
+          "language": null,
+          "license": null,
+          "topics": [],
+          "updated": null,
+          "pushed": null,
+          "awesome": false,
+          "path": [
+            "Creative Tech Events",
+            "Europe"
+          ],
+          "parentId": "root-events-creative-tech-events"
+        },
+        {
+          "id": "root-events-creative-tech-events-north-america",
+          "title": "North America",
+          "kind": "section",
+          "sourceRepo": "danvoyce/awesome-creative-tech-events",
+          "depth": 1,
+          "url": "https://github.com/danvoyce/awesome-creative-tech-events#north-america",
+          "children": [
+            {
+              "id": "root-events-creative-tech-events-north-america-canada",
+              "title": "Canada",
+              "kind": "section",
+              "sourceRepo": "danvoyce/awesome-creative-tech-events",
+              "depth": 2,
+              "url": "https://github.com/danvoyce/awesome-creative-tech-events#canada",
+              "children": [
+                {
+                  "id": "root-events-creative-tech-events-north-america-canada-montr-al",
+                  "title": "Montréal",
+                  "kind": "section",
+                  "sourceRepo": "danvoyce/awesome-creative-tech-events",
+                  "depth": 3,
+                  "url": "https://github.com/danvoyce/awesome-creative-tech-events#montr-al",
+                  "children": [
+                    {
+                      "id": "root-events-creative-tech-events-north-america-canada-montr-al-mutek-montr-al",
+                      "title": "Mutek Montréal",
+                      "kind": "link",
+                      "repo": "",
+                      "url": "http://www.mutek.org/en",
+                      "description": "Electronic music and the digital arts festival. (March)",
+                      "external": true,
+                      "sourceRepo": "danvoyce/awesome-creative-tech-events",
+                      "depth": 4,
+                      "children": [],
+                      "stars": 0,
+                      "forks": 0,
+                      "language": null,
+                      "license": null,
+                      "topics": [],
+                      "updated": null,
+                      "pushed": null,
+                      "awesome": false,
+                      "path": [
+                        "Creative Tech Events",
+                        "North America",
+                        "Canada",
+                        "Montréal",
+                        "Mutek Montréal"
+                      ],
+                      "parentId": "root-events-creative-tech-events-north-america-canada-montr-al"
+                    }
+                  ],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Creative Tech Events",
+                    "North America",
+                    "Canada",
+                    "Montréal"
+                  ],
+                  "parentId": "root-events-creative-tech-events-north-america-canada"
+                },
+                {
+                  "id": "root-events-creative-tech-events-north-america-canada-toronto",
+                  "title": "Toronto",
+                  "kind": "section",
+                  "sourceRepo": "danvoyce/awesome-creative-tech-events",
+                  "depth": 3,
+                  "url": "https://github.com/danvoyce/awesome-creative-tech-events#toronto",
+                  "children": [
+                    {
+                      "id": "root-events-creative-tech-events-north-america-canada-toronto-fitc-toronto",
+                      "title": "FITC Toronto",
+                      "kind": "link",
+                      "repo": "",
+                      "url": "https://fitc.ca/",
+                      "description": "3 day celebration of the best the world has to offer in design, web development, media and innovation in creative technologies. (April)",
+                      "external": true,
+                      "sourceRepo": "danvoyce/awesome-creative-tech-events",
+                      "depth": 4,
+                      "children": [],
+                      "stars": 0,
+                      "forks": 0,
+                      "language": null,
+                      "license": null,
+                      "topics": [],
+                      "updated": null,
+                      "pushed": null,
+                      "awesome": false,
+                      "path": [
+                        "Creative Tech Events",
+                        "North America",
+                        "Canada",
+                        "Toronto",
+                        "FITC Toronto"
+                      ],
+                      "parentId": "root-events-creative-tech-events-north-america-canada-toronto"
+                    }
+                  ],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Creative Tech Events",
+                    "North America",
+                    "Canada",
+                    "Toronto"
+                  ],
+                  "parentId": "root-events-creative-tech-events-north-america-canada"
+                }
+              ],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Creative Tech Events",
+                "North America",
+                "Canada"
+              ],
+              "parentId": "root-events-creative-tech-events-north-america"
+            },
+            {
+              "id": "root-events-creative-tech-events-north-america-usa",
+              "title": "USA",
+              "kind": "section",
+              "sourceRepo": "danvoyce/awesome-creative-tech-events",
+              "depth": 2,
+              "url": "https://github.com/danvoyce/awesome-creative-tech-events#usa",
+              "children": [
+                {
+                  "id": "root-events-creative-tech-events-north-america-usa-minneapolis",
+                  "title": "Minneapolis",
+                  "kind": "section",
+                  "sourceRepo": "danvoyce/awesome-creative-tech-events",
+                  "depth": 3,
+                  "url": "https://github.com/danvoyce/awesome-creative-tech-events#minneapolis",
+                  "children": [
+                    {
+                      "id": "root-events-creative-tech-events-north-america-usa-minneapolis-eyeo-festival",
+                      "title": "Eyeo Festival",
+                      "kind": "link",
+                      "repo": "",
+                      "url": "http://eyeofestival.com/",
+                      "description": "Festival for Artists, data designers, creative coders, AI explorers, storytellers, tool & platform developers, and researchers all. (June)",
+                      "external": true,
+                      "sourceRepo": "danvoyce/awesome-creative-tech-events",
+                      "depth": 4,
+                      "children": [],
+                      "stars": 0,
+                      "forks": 0,
+                      "language": null,
+                      "license": null,
+                      "topics": [],
+                      "updated": null,
+                      "pushed": null,
+                      "awesome": false,
+                      "path": [
+                        "Creative Tech Events",
+                        "North America",
+                        "USA",
+                        "Minneapolis",
+                        "Eyeo Festival"
+                      ],
+                      "parentId": "root-events-creative-tech-events-north-america-usa-minneapolis"
+                    }
+                  ],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Creative Tech Events",
+                    "North America",
+                    "USA",
+                    "Minneapolis"
+                  ],
+                  "parentId": "root-events-creative-tech-events-north-america-usa"
+                },
+                {
+                  "id": "root-events-creative-tech-events-north-america-usa-san-francisco",
+                  "title": "San Francisco",
+                  "kind": "section",
+                  "sourceRepo": "danvoyce/awesome-creative-tech-events",
+                  "depth": 3,
+                  "url": "https://github.com/danvoyce/awesome-creative-tech-events#san-francisco",
+                  "children": [
+                    {
+                      "id": "root-events-creative-tech-events-north-america-usa-san-francisco-codame-art-tech-festival",
+                      "title": "CODAME ART+TECH Festival",
+                      "kind": "link",
+                      "repo": "",
+                      "url": "http://codame.com/events/art-tech-festival-2019-space",
+                      "description": "Explores the manifold dimensions of SPACE with an incredible lineup schedule, including nightlife installations and performances, a variety of workshops, and community gathering art+tech salon to close off the Festival. (October)",
+                      "external": true,
+                      "sourceRepo": "danvoyce/awesome-creative-tech-events",
+                      "depth": 4,
+                      "children": [],
+                      "stars": 0,
+                      "forks": 0,
+                      "language": null,
+                      "license": null,
+                      "topics": [],
+                      "updated": null,
+                      "pushed": null,
+                      "awesome": false,
+                      "path": [
+                        "Creative Tech Events",
+                        "North America",
+                        "USA",
+                        "San Francisco",
+                        "CODAME ART+TECH Festival"
+                      ],
+                      "parentId": "root-events-creative-tech-events-north-america-usa-san-francisco"
+                    }
+                  ],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Creative Tech Events",
+                    "North America",
+                    "USA",
+                    "San Francisco"
+                  ],
+                  "parentId": "root-events-creative-tech-events-north-america-usa"
+                },
+                {
+                  "id": "root-events-creative-tech-events-north-america-usa-pittsburgh",
+                  "title": "Pittsburgh",
+                  "kind": "section",
+                  "sourceRepo": "danvoyce/awesome-creative-tech-events",
+                  "depth": 3,
+                  "url": "https://github.com/danvoyce/awesome-creative-tech-events#pittsburgh",
+                  "children": [
+                    {
+                      "id": "root-events-creative-tech-events-north-america-usa-pittsburgh-p5-js-contributors-conference",
+                      "title": "p5.js Contributors Conference",
+                      "kind": "link",
+                      "repo": "",
+                      "url": "https://p5js.org/community/",
+                      "description": "Whilst most work happens online, every now and then artists, designers, developers and educators get together to advance the p5.js project.",
+                      "external": true,
+                      "sourceRepo": "danvoyce/awesome-creative-tech-events",
+                      "depth": 4,
+                      "children": [],
+                      "stars": 0,
+                      "forks": 0,
+                      "language": null,
+                      "license": null,
+                      "topics": [],
+                      "updated": null,
+                      "pushed": null,
+                      "awesome": false,
+                      "path": [
+                        "Creative Tech Events",
+                        "North America",
+                        "USA",
+                        "Pittsburgh",
+                        "p5.js Contributors Conference"
+                      ],
+                      "parentId": "root-events-creative-tech-events-north-america-usa-pittsburgh"
+                    }
+                  ],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Creative Tech Events",
+                    "North America",
+                    "USA",
+                    "Pittsburgh"
+                  ],
+                  "parentId": "root-events-creative-tech-events-north-america-usa"
+                }
+              ],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Creative Tech Events",
+                "North America",
+                "USA"
+              ],
+              "parentId": "root-events-creative-tech-events-north-america"
+            }
+          ],
+          "stars": 0,
+          "forks": 0,
+          "language": null,
+          "license": null,
+          "topics": [],
+          "updated": null,
+          "pushed": null,
+          "awesome": false,
+          "path": [
+            "Creative Tech Events",
+            "North America"
+          ],
+          "parentId": "root-events-creative-tech-events"
+        },
+        {
+          "id": "root-events-creative-tech-events-central-america",
+          "title": "Central America",
+          "kind": "section",
+          "sourceRepo": "danvoyce/awesome-creative-tech-events",
+          "depth": 1,
+          "url": "https://github.com/danvoyce/awesome-creative-tech-events#central-america",
+          "children": [
+            {
+              "id": "root-events-creative-tech-events-central-america-mexico",
+              "title": "Mexico",
+              "kind": "section",
+              "sourceRepo": "danvoyce/awesome-creative-tech-events",
+              "depth": 2,
+              "url": "https://github.com/danvoyce/awesome-creative-tech-events#mexico",
+              "children": [
+                {
+                  "id": "root-events-creative-tech-events-central-america-mexico-mutek-mexico",
+                  "title": "Mutek Mexico",
+                  "kind": "link",
+                  "repo": "",
+                  "url": "http://www.mutek.org/en",
+                  "description": "Electronic music and the digital arts festival. (November)",
+                  "external": true,
+                  "sourceRepo": "danvoyce/awesome-creative-tech-events",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Creative Tech Events",
+                    "Central America",
+                    "Mexico",
+                    "Mutek Mexico"
+                  ],
+                  "parentId": "root-events-creative-tech-events-central-america-mexico"
+                }
+              ],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Creative Tech Events",
+                "Central America",
+                "Mexico"
+              ],
+              "parentId": "root-events-creative-tech-events-central-america"
+            }
+          ],
+          "stars": 0,
+          "forks": 0,
+          "language": null,
+          "license": null,
+          "topics": [],
+          "updated": null,
+          "pushed": null,
+          "awesome": false,
+          "path": [
+            "Creative Tech Events",
+            "Central America"
+          ],
+          "parentId": "root-events-creative-tech-events"
+        },
+        {
+          "id": "root-events-creative-tech-events-south-america",
+          "title": "South America",
+          "kind": "section",
+          "sourceRepo": "danvoyce/awesome-creative-tech-events",
+          "depth": 1,
+          "url": "https://github.com/danvoyce/awesome-creative-tech-events#south-america",
+          "children": [
+            {
+              "id": "root-events-creative-tech-events-south-america-argentina",
+              "title": "Argentina",
+              "kind": "section",
+              "sourceRepo": "danvoyce/awesome-creative-tech-events",
+              "depth": 2,
+              "url": "https://github.com/danvoyce/awesome-creative-tech-events#argentina",
+              "children": [
+                {
+                  "id": "root-events-creative-tech-events-south-america-argentina-buenos-aires",
+                  "title": "Buenos Aires",
+                  "kind": "section",
+                  "sourceRepo": "danvoyce/awesome-creative-tech-events",
+                  "depth": 3,
+                  "url": "https://github.com/danvoyce/awesome-creative-tech-events#buenos-aires",
+                  "children": [
+                    {
+                      "id": "root-events-creative-tech-events-south-america-argentina-buenos-aires-mutek-buenos-aires",
+                      "title": "Mutek Buenos Aires",
+                      "kind": "link",
+                      "repo": "",
+                      "url": "http://www.mutek.org/en",
+                      "description": "Electronic music and the digital arts festival. (September)",
+                      "external": true,
+                      "sourceRepo": "danvoyce/awesome-creative-tech-events",
+                      "depth": 4,
+                      "children": [],
+                      "stars": 0,
+                      "forks": 0,
+                      "language": null,
+                      "license": null,
+                      "topics": [],
+                      "updated": null,
+                      "pushed": null,
+                      "awesome": false,
+                      "path": [
+                        "Creative Tech Events",
+                        "South America",
+                        "Argentina",
+                        "Buenos Aires",
+                        "Mutek Buenos Aires"
+                      ],
+                      "parentId": "root-events-creative-tech-events-south-america-argentina-buenos-aires"
+                    }
+                  ],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Creative Tech Events",
+                    "South America",
+                    "Argentina",
+                    "Buenos Aires"
+                  ],
+                  "parentId": "root-events-creative-tech-events-south-america-argentina"
+                }
+              ],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Creative Tech Events",
+                "South America",
+                "Argentina"
+              ],
+              "parentId": "root-events-creative-tech-events-south-america"
+            }
+          ],
+          "stars": 0,
+          "forks": 0,
+          "language": null,
+          "license": null,
+          "topics": [],
+          "updated": null,
+          "pushed": null,
+          "awesome": false,
+          "path": [
+            "Creative Tech Events",
+            "South America"
+          ],
+          "parentId": "root-events-creative-tech-events"
+        },
+        {
+          "id": "root-events-creative-tech-events-asia",
+          "title": "Asia",
+          "kind": "section",
+          "sourceRepo": "danvoyce/awesome-creative-tech-events",
+          "depth": 1,
+          "url": "https://github.com/danvoyce/awesome-creative-tech-events#asia",
+          "children": [
+            {
+              "id": "root-events-creative-tech-events-asia-japan",
+              "title": "Japan",
+              "kind": "section",
+              "sourceRepo": "danvoyce/awesome-creative-tech-events",
+              "depth": 2,
+              "url": "https://github.com/danvoyce/awesome-creative-tech-events#japan",
+              "children": [
+                {
+                  "id": "root-events-creative-tech-events-asia-japan-tokyo",
+                  "title": "Tokyo",
+                  "kind": "section",
+                  "sourceRepo": "danvoyce/awesome-creative-tech-events",
+                  "depth": 3,
+                  "url": "https://github.com/danvoyce/awesome-creative-tech-events#tokyo",
+                  "children": [
+                    {
+                      "id": "root-events-creative-tech-events-asia-japan-tokyo-mutek-tokyo",
+                      "title": "Mutek Tokyo",
+                      "kind": "link",
+                      "repo": "",
+                      "url": "https://mutek.jp/",
+                      "description": "Electronic music and the digital arts festival. (December)",
+                      "external": true,
+                      "sourceRepo": "danvoyce/awesome-creative-tech-events",
+                      "depth": 4,
+                      "children": [],
+                      "stars": 0,
+                      "forks": 0,
+                      "language": null,
+                      "license": null,
+                      "topics": [],
+                      "updated": null,
+                      "pushed": null,
+                      "awesome": false,
+                      "path": [
+                        "Creative Tech Events",
+                        "Asia",
+                        "Japan",
+                        "Tokyo",
+                        "Mutek Tokyo"
+                      ],
+                      "parentId": "root-events-creative-tech-events-asia-japan-tokyo"
+                    }
+                  ],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Creative Tech Events",
+                    "Asia",
+                    "Japan",
+                    "Tokyo"
+                  ],
+                  "parentId": "root-events-creative-tech-events-asia-japan"
+                }
+              ],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Creative Tech Events",
+                "Asia",
+                "Japan"
+              ],
+              "parentId": "root-events-creative-tech-events-asia"
+            }
+          ],
+          "stars": 0,
+          "forks": 0,
+          "language": null,
+          "license": null,
+          "topics": [],
+          "updated": null,
+          "pushed": null,
+          "awesome": false,
+          "path": [
+            "Creative Tech Events",
+            "Asia"
+          ],
+          "parentId": "root-events-creative-tech-events"
+        }
+      ],
       "stars": 0,
       "forks": 0,
       "language": null,
@@ -24,7 +2023,11 @@
       "updated": null,
       "pushed": null,
       "awesome": true,
-      "readmeStatus": "missing"
+      "readmeStatus": "expanded",
+      "path": [
+        "Creative Tech Events"
+      ],
+      "parentId": "root-events"
     },
     {
       "id": "root-events-events-in-italy",
@@ -36,7 +2039,643 @@
       "external": false,
       "sourceRepo": "sindresorhus/awesome",
       "depth": 1,
-      "children": [],
+      "children": [
+        {
+          "id": "root-events-events-in-italy-january",
+          "title": "January",
+          "kind": "section",
+          "sourceRepo": "ildoc/awesome-italy-events",
+          "depth": 1,
+          "url": "https://github.com/ildoc/awesome-italy-events#january",
+          "children": [
+            {
+              "id": "root-events-events-in-italy-january-27-31",
+              "title": "27-31",
+              "kind": "topic",
+              "repo": "",
+              "url": "",
+              "description": "Global Game Jam - Multiple locations - Get together and create games in one weekend.",
+              "external": false,
+              "sourceRepo": "ildoc/awesome-italy-events",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Events in Italy",
+                "January",
+                "27-31"
+              ],
+              "parentId": "root-events-events-in-italy-january"
+            }
+          ],
+          "stars": 0,
+          "forks": 0,
+          "language": null,
+          "license": null,
+          "topics": [],
+          "updated": null,
+          "pushed": null,
+          "awesome": false,
+          "path": [
+            "Events in Italy",
+            "January"
+          ],
+          "parentId": "root-events-events-in-italy"
+        },
+        {
+          "id": "root-events-events-in-italy-february",
+          "title": "February",
+          "kind": "section",
+          "sourceRepo": "ildoc/awesome-italy-events",
+          "depth": 1,
+          "url": "https://github.com/ildoc/awesome-italy-events#february",
+          "children": [
+            {
+              "id": "root-events-events-in-italy-february-11-12",
+              "title": "11-12",
+              "kind": "topic",
+              "repo": "",
+              "url": "",
+              "description": "Shipping 4.0 - Online - Technology improvements in shipping sector.",
+              "external": false,
+              "sourceRepo": "ildoc/awesome-italy-events",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Events in Italy",
+                "February",
+                "11-12"
+              ],
+              "parentId": "root-events-events-in-italy-february"
+            },
+            {
+              "id": "root-events-events-in-italy-february-21",
+              "title": "21",
+              "kind": "topic",
+              "repo": "",
+              "url": "",
+              "description": "ServerlessDays 2021 - Rome - Developer-oriented conference about serverless technologies.",
+              "external": false,
+              "sourceRepo": "ildoc/awesome-italy-events",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Events in Italy",
+                "February",
+                "21"
+              ],
+              "parentId": "root-events-events-in-italy-february"
+            },
+            {
+              "id": "root-events-events-in-italy-february-24",
+              "title": "24",
+              "kind": "topic",
+              "repo": "",
+              "url": "",
+              "description": "AWS Innovate ML & AI - Online - AI & Machine Learning with AWS.",
+              "external": false,
+              "sourceRepo": "ildoc/awesome-italy-events",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Events in Italy",
+                "February",
+                "24"
+              ],
+              "parentId": "root-events-events-in-italy-february"
+            }
+          ],
+          "stars": 0,
+          "forks": 0,
+          "language": null,
+          "license": null,
+          "topics": [],
+          "updated": null,
+          "pushed": null,
+          "awesome": false,
+          "path": [
+            "Events in Italy",
+            "February"
+          ],
+          "parentId": "root-events-events-in-italy"
+        },
+        {
+          "id": "root-events-events-in-italy-march",
+          "title": "March",
+          "kind": "section",
+          "sourceRepo": "ildoc/awesome-italy-events",
+          "depth": 1,
+          "url": "https://github.com/ildoc/awesome-italy-events#march",
+          "children": [
+            {
+              "id": "root-events-events-in-italy-march-2-4",
+              "title": "2-4",
+              "kind": "topic",
+              "repo": "",
+              "url": "",
+              "description": "Microsoft Ignite - Online - Microsoft annual conference.",
+              "external": false,
+              "sourceRepo": "ildoc/awesome-italy-events",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Events in Italy",
+                "March",
+                "2-4"
+              ],
+              "parentId": "root-events-events-in-italy-march"
+            },
+            {
+              "id": "root-events-events-in-italy-march-11",
+              "title": "11",
+              "kind": "topic",
+              "repo": "",
+              "url": "",
+              "description": "CSSDay 2021 - Online - CSS dedicated conference.",
+              "external": false,
+              "sourceRepo": "ildoc/awesome-italy-events",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Events in Italy",
+                "March",
+                "11"
+              ],
+              "parentId": "root-events-events-in-italy-march"
+            },
+            {
+              "id": "root-events-events-in-italy-march-23-25",
+              "title": "23-25",
+              "kind": "topic",
+              "repo": "",
+              "url": "",
+              "description": "Codemotion Online tech conference 2021 - Online - Biggest tech conference in Italy.",
+              "external": false,
+              "sourceRepo": "ildoc/awesome-italy-events",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Events in Italy",
+                "March",
+                "23-25"
+              ],
+              "parentId": "root-events-events-in-italy-march"
+            }
+          ],
+          "stars": 0,
+          "forks": 0,
+          "language": null,
+          "license": null,
+          "topics": [],
+          "updated": null,
+          "pushed": null,
+          "awesome": false,
+          "path": [
+            "Events in Italy",
+            "March"
+          ],
+          "parentId": "root-events-events-in-italy"
+        },
+        {
+          "id": "root-events-events-in-italy-april",
+          "title": "April",
+          "kind": "section",
+          "sourceRepo": "ildoc/awesome-italy-events",
+          "depth": 1,
+          "url": "https://github.com/ildoc/awesome-italy-events#april",
+          "children": [
+            {
+              "id": "root-events-events-in-italy-april-7-9",
+              "title": "7-9",
+              "kind": "topic",
+              "repo": "",
+              "url": "",
+              "description": "ITASEC 21 - Online - Cybersecurity italian conference.",
+              "external": false,
+              "sourceRepo": "ildoc/awesome-italy-events",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Events in Italy",
+                "April",
+                "7-9"
+              ],
+              "parentId": "root-events-events-in-italy-april"
+            },
+            {
+              "id": "root-events-events-in-italy-april-15",
+              "title": "15",
+              "kind": "topic",
+              "repo": "",
+              "url": "",
+              "description": "RubyDay 2021 - Online - Ruby's national conference.",
+              "external": false,
+              "sourceRepo": "ildoc/awesome-italy-events",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Events in Italy",
+                "April",
+                "15"
+              ],
+              "parentId": "root-events-events-in-italy-april"
+            },
+            {
+              "id": "root-events-events-in-italy-april-28-30",
+              "title": "28-30",
+              "kind": "topic",
+              "repo": "",
+              "url": "",
+              "description": "Secsolutionforum - Online - The digital event for the security industry.",
+              "external": false,
+              "sourceRepo": "ildoc/awesome-italy-events",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Events in Italy",
+                "April",
+                "28-30"
+              ],
+              "parentId": "root-events-events-in-italy-april"
+            },
+            {
+              "id": "root-events-events-in-italy-april-29",
+              "title": "29",
+              "kind": "topic",
+              "repo": "",
+              "url": "",
+              "description": "VueDay 2021 - Online - Vue's national conference.",
+              "external": false,
+              "sourceRepo": "ildoc/awesome-italy-events",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Events in Italy",
+                "April",
+                "29"
+              ],
+              "parentId": "root-events-events-in-italy-april"
+            }
+          ],
+          "stars": 0,
+          "forks": 0,
+          "language": null,
+          "license": null,
+          "topics": [],
+          "updated": null,
+          "pushed": null,
+          "awesome": false,
+          "path": [
+            "Events in Italy",
+            "April"
+          ],
+          "parentId": "root-events-events-in-italy"
+        },
+        {
+          "id": "root-events-events-in-italy-may",
+          "title": "May",
+          "kind": "section",
+          "sourceRepo": "ildoc/awesome-italy-events",
+          "depth": 1,
+          "url": "https://github.com/ildoc/awesome-italy-events#may",
+          "children": [
+            {
+              "id": "root-events-events-in-italy-may-29",
+              "title": "29",
+              "kind": "topic",
+              "repo": "",
+              "url": "",
+              "description": "HackInBo - Bologna - Free INFOSEC event.",
+              "external": false,
+              "sourceRepo": "ildoc/awesome-italy-events",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Events in Italy",
+                "May",
+                "29"
+              ],
+              "parentId": "root-events-events-in-italy-may"
+            }
+          ],
+          "stars": 0,
+          "forks": 0,
+          "language": null,
+          "license": null,
+          "topics": [],
+          "updated": null,
+          "pushed": null,
+          "awesome": false,
+          "path": [
+            "Events in Italy",
+            "May"
+          ],
+          "parentId": "root-events-events-in-italy"
+        },
+        {
+          "id": "root-events-events-in-italy-june",
+          "title": "June",
+          "kind": "section",
+          "sourceRepo": "ildoc/awesome-italy-events",
+          "depth": 1,
+          "url": "https://github.com/ildoc/awesome-italy-events#june",
+          "children": [],
+          "stars": 0,
+          "forks": 0,
+          "language": null,
+          "license": null,
+          "topics": [],
+          "updated": null,
+          "pushed": null,
+          "awesome": false,
+          "path": [
+            "Events in Italy",
+            "June"
+          ],
+          "parentId": "root-events-events-in-italy"
+        },
+        {
+          "id": "root-events-events-in-italy-july",
+          "title": "July",
+          "kind": "section",
+          "sourceRepo": "ildoc/awesome-italy-events",
+          "depth": 1,
+          "url": "https://github.com/ildoc/awesome-italy-events#july",
+          "children": [],
+          "stars": 0,
+          "forks": 0,
+          "language": null,
+          "license": null,
+          "topics": [],
+          "updated": null,
+          "pushed": null,
+          "awesome": false,
+          "path": [
+            "Events in Italy",
+            "July"
+          ],
+          "parentId": "root-events-events-in-italy"
+        },
+        {
+          "id": "root-events-events-in-italy-august",
+          "title": "August",
+          "kind": "section",
+          "sourceRepo": "ildoc/awesome-italy-events",
+          "depth": 1,
+          "url": "https://github.com/ildoc/awesome-italy-events#august",
+          "children": [],
+          "stars": 0,
+          "forks": 0,
+          "language": null,
+          "license": null,
+          "topics": [],
+          "updated": null,
+          "pushed": null,
+          "awesome": false,
+          "path": [
+            "Events in Italy",
+            "August"
+          ],
+          "parentId": "root-events-events-in-italy"
+        },
+        {
+          "id": "root-events-events-in-italy-september",
+          "title": "September",
+          "kind": "section",
+          "sourceRepo": "ildoc/awesome-italy-events",
+          "depth": 1,
+          "url": "https://github.com/ildoc/awesome-italy-events#september",
+          "children": [
+            {
+              "id": "root-events-events-in-italy-september-25",
+              "title": "25",
+              "kind": "topic",
+              "repo": "",
+              "url": "",
+              "description": "RomHack - Roma - Cybersecurity convention.",
+              "external": false,
+              "sourceRepo": "ildoc/awesome-italy-events",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Events in Italy",
+                "September",
+                "25"
+              ],
+              "parentId": "root-events-events-in-italy-september"
+            }
+          ],
+          "stars": 0,
+          "forks": 0,
+          "language": null,
+          "license": null,
+          "topics": [],
+          "updated": null,
+          "pushed": null,
+          "awesome": false,
+          "path": [
+            "Events in Italy",
+            "September"
+          ],
+          "parentId": "root-events-events-in-italy"
+        },
+        {
+          "id": "root-events-events-in-italy-october",
+          "title": "October",
+          "kind": "section",
+          "sourceRepo": "ildoc/awesome-italy-events",
+          "depth": 1,
+          "url": "https://github.com/ildoc/awesome-italy-events#october",
+          "children": [
+            {
+              "id": "root-events-events-in-italy-october-27-28",
+              "title": "27-28",
+              "kind": "topic",
+              "repo": "",
+              "url": "",
+              "description": "ItaliaSec - Milano - This groundbreaking summit is designed for senior security leaders.",
+              "external": false,
+              "sourceRepo": "ildoc/awesome-italy-events",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Events in Italy",
+                "October",
+                "27-28"
+              ],
+              "parentId": "root-events-events-in-italy-october"
+            }
+          ],
+          "stars": 0,
+          "forks": 0,
+          "language": null,
+          "license": null,
+          "topics": [],
+          "updated": null,
+          "pushed": null,
+          "awesome": false,
+          "path": [
+            "Events in Italy",
+            "October"
+          ],
+          "parentId": "root-events-events-in-italy"
+        },
+        {
+          "id": "root-events-events-in-italy-november",
+          "title": "November",
+          "kind": "section",
+          "sourceRepo": "ildoc/awesome-italy-events",
+          "depth": 1,
+          "url": "https://github.com/ildoc/awesome-italy-events#november",
+          "children": [],
+          "stars": 0,
+          "forks": 0,
+          "language": null,
+          "license": null,
+          "topics": [],
+          "updated": null,
+          "pushed": null,
+          "awesome": false,
+          "path": [
+            "Events in Italy",
+            "November"
+          ],
+          "parentId": "root-events-events-in-italy"
+        },
+        {
+          "id": "root-events-events-in-italy-december",
+          "title": "December",
+          "kind": "section",
+          "sourceRepo": "ildoc/awesome-italy-events",
+          "depth": 1,
+          "url": "https://github.com/ildoc/awesome-italy-events#december",
+          "children": [],
+          "stars": 0,
+          "forks": 0,
+          "language": null,
+          "license": null,
+          "topics": [],
+          "updated": null,
+          "pushed": null,
+          "awesome": false,
+          "path": [
+            "Events in Italy",
+            "December"
+          ],
+          "parentId": "root-events-events-in-italy"
+        }
+      ],
       "stars": 0,
       "forks": 0,
       "language": null,
@@ -45,7 +2684,11 @@
       "updated": null,
       "pushed": null,
       "awesome": true,
-      "readmeStatus": "missing"
+      "readmeStatus": "expanded",
+      "path": [
+        "Events in Italy"
+      ],
+      "parentId": "root-events"
     },
     {
       "id": "root-events-events-in-the-netherlands",
@@ -62,8 +2705,9 @@
           "id": "root-events-events-in-the-netherlands-rotterdam",
           "title": "Rotterdam",
           "kind": "section",
-          "depth": 1,
           "sourceRepo": "awkward/awesome-netherlands-events",
+          "depth": 1,
+          "url": "https://github.com/awkward/awesome-netherlands-events#rotterdam",
           "children": [
             {
               "id": "root-events-events-in-the-netherlands-rotterdam-makersclub",
@@ -83,7 +2727,13 @@
               "topics": [],
               "updated": null,
               "pushed": null,
-              "awesome": false
+              "awesome": false,
+              "path": [
+                "Events in the Netherlands",
+                "Rotterdam",
+                "Makersclub"
+              ],
+              "parentId": "root-events-events-in-the-netherlands-rotterdam"
             },
             {
               "id": "root-events-events-in-the-netherlands-rotterdam-euruko",
@@ -103,7 +2753,13 @@
               "topics": [],
               "updated": null,
               "pushed": null,
-              "awesome": false
+              "awesome": false,
+              "path": [
+                "Events in the Netherlands",
+                "Rotterdam",
+                "EuRuKo"
+              ],
+              "parentId": "root-events-events-in-the-netherlands-rotterdam"
             },
             {
               "id": "root-events-events-in-the-netherlands-rotterdam-nodeschool",
@@ -123,7 +2779,13 @@
               "topics": [],
               "updated": null,
               "pushed": null,
-              "awesome": false
+              "awesome": false,
+              "path": [
+                "Events in the Netherlands",
+                "Rotterdam",
+                "NodeSchool"
+              ],
+              "parentId": "root-events-events-in-the-netherlands-rotterdam"
             },
             {
               "id": "root-events-events-in-the-netherlands-rotterdam-crowdsource",
@@ -143,7 +2805,13 @@
               "topics": [],
               "updated": null,
               "pushed": null,
-              "awesome": false
+              "awesome": false,
+              "path": [
+                "Events in the Netherlands",
+                "Rotterdam",
+                "Crowdsource"
+              ],
+              "parentId": "root-events-events-in-the-netherlands-rotterdam"
             }
           ],
           "stars": 0,
@@ -153,14 +2821,20 @@
           "topics": [],
           "updated": null,
           "pushed": null,
-          "awesome": false
+          "awesome": false,
+          "path": [
+            "Events in the Netherlands",
+            "Rotterdam"
+          ],
+          "parentId": "root-events-events-in-the-netherlands"
         },
         {
           "id": "root-events-events-in-the-netherlands-amsterdam",
           "title": "Amsterdam",
           "kind": "section",
-          "depth": 1,
           "sourceRepo": "awkward/awesome-netherlands-events",
+          "depth": 1,
+          "url": "https://github.com/awkward/awesome-netherlands-events#amsterdam",
           "children": [
             {
               "id": "root-events-events-in-the-netherlands-amsterdam-makersclub",
@@ -180,7 +2854,13 @@
               "topics": [],
               "updated": null,
               "pushed": null,
-              "awesome": false
+              "awesome": false,
+              "path": [
+                "Events in the Netherlands",
+                "Amsterdam",
+                "Makersclub"
+              ],
+              "parentId": "root-events-events-in-the-netherlands-amsterdam"
             },
             {
               "id": "root-events-events-in-the-netherlands-amsterdam-hackers-and-founders",
@@ -200,7 +2880,13 @@
               "topics": [],
               "updated": null,
               "pushed": null,
-              "awesome": false
+              "awesome": false,
+              "path": [
+                "Events in the Netherlands",
+                "Amsterdam",
+                "Hackers & Founders"
+              ],
+              "parentId": "root-events-events-in-the-netherlands-amsterdam"
             },
             {
               "id": "root-events-events-in-the-netherlands-amsterdam-the-next-web-conference",
@@ -220,7 +2906,13 @@
               "topics": [],
               "updated": null,
               "pushed": null,
-              "awesome": false
+              "awesome": false,
+              "path": [
+                "Events in the Netherlands",
+                "Amsterdam",
+                "The Next Web Conference"
+              ],
+              "parentId": "root-events-events-in-the-netherlands-amsterdam"
             },
             {
               "id": "root-events-events-in-the-netherlands-amsterdam-amsxtech",
@@ -240,7 +2932,13 @@
               "topics": [],
               "updated": null,
               "pushed": null,
-              "awesome": false
+              "awesome": false,
+              "path": [
+                "Events in the Netherlands",
+                "Amsterdam",
+                "AMSxTech"
+              ],
+              "parentId": "root-events-events-in-the-netherlands-amsterdam"
             },
             {
               "id": "root-events-events-in-the-netherlands-amsterdam-functionconf",
@@ -260,7 +2958,13 @@
               "topics": [],
               "updated": null,
               "pushed": null,
-              "awesome": false
+              "awesome": false,
+              "path": [
+                "Events in the Netherlands",
+                "Amsterdam",
+                "FunctionConf"
+              ],
+              "parentId": "root-events-events-in-the-netherlands-amsterdam"
             },
             {
               "id": "root-events-events-in-the-netherlands-amsterdam-amsterdam-rb",
@@ -280,7 +2984,13 @@
               "topics": [],
               "updated": null,
               "pushed": null,
-              "awesome": false
+              "awesome": false,
+              "path": [
+                "Events in the Netherlands",
+                "Amsterdam",
+                "Amsterdam-rb"
+              ],
+              "parentId": "root-events-events-in-the-netherlands-amsterdam"
             },
             {
               "id": "root-events-events-in-the-netherlands-amsterdam-amsterdam-elixir",
@@ -300,7 +3010,13 @@
               "topics": [],
               "updated": null,
               "pushed": null,
-              "awesome": false
+              "awesome": false,
+              "path": [
+                "Events in the Netherlands",
+                "Amsterdam",
+                "Amsterdam-Elixir"
+              ],
+              "parentId": "root-events-events-in-the-netherlands-amsterdam"
             },
             {
               "id": "root-events-events-in-the-netherlands-amsterdam-amsterdam-rust",
@@ -320,7 +3036,13 @@
               "topics": [],
               "updated": null,
               "pushed": null,
-              "awesome": false
+              "awesome": false,
+              "path": [
+                "Events in the Netherlands",
+                "Amsterdam",
+                "Amsterdam-Rust"
+              ],
+              "parentId": "root-events-events-in-the-netherlands-amsterdam"
             },
             {
               "id": "root-events-events-in-the-netherlands-amsterdam-lead-developers-amsterdam",
@@ -340,7 +3062,13 @@
               "topics": [],
               "updated": null,
               "pushed": null,
-              "awesome": false
+              "awesome": false,
+              "path": [
+                "Events in the Netherlands",
+                "Amsterdam",
+                "Lead Developers Amsterdam"
+              ],
+              "parentId": "root-events-events-in-the-netherlands-amsterdam"
             },
             {
               "id": "root-events-events-in-the-netherlands-amsterdam-devops-day-amsterdam",
@@ -360,7 +3088,13 @@
               "topics": [],
               "updated": null,
               "pushed": null,
-              "awesome": false
+              "awesome": false,
+              "path": [
+                "Events in the Netherlands",
+                "Amsterdam",
+                "DevOps Day Amsterdam"
+              ],
+              "parentId": "root-events-events-in-the-netherlands-amsterdam"
             },
             {
               "id": "root-events-events-in-the-netherlands-amsterdam-react-amsterdam",
@@ -380,7 +3114,13 @@
               "topics": [],
               "updated": null,
               "pushed": null,
-              "awesome": false
+              "awesome": false,
+              "path": [
+                "Events in the Netherlands",
+                "Amsterdam",
+                "React Amsterdam"
+              ],
+              "parentId": "root-events-events-in-the-netherlands-amsterdam"
             }
           ],
           "stars": 0,
@@ -390,14 +3130,20 @@
           "topics": [],
           "updated": null,
           "pushed": null,
-          "awesome": false
+          "awesome": false,
+          "path": [
+            "Events in the Netherlands",
+            "Amsterdam"
+          ],
+          "parentId": "root-events-events-in-the-netherlands"
         },
         {
           "id": "root-events-events-in-the-netherlands-utrecht",
           "title": "Utrecht",
           "kind": "section",
-          "depth": 1,
           "sourceRepo": "awkward/awesome-netherlands-events",
+          "depth": 1,
+          "url": "https://github.com/awkward/awesome-netherlands-events#utrecht",
           "children": [
             {
               "id": "root-events-events-in-the-netherlands-utrecht-the-kick-030",
@@ -417,7 +3163,13 @@
               "topics": [],
               "updated": null,
               "pushed": null,
-              "awesome": false
+              "awesome": false,
+              "path": [
+                "Events in the Netherlands",
+                "Utrecht",
+                "The Kick 030"
+              ],
+              "parentId": "root-events-events-in-the-netherlands-utrecht"
             },
             {
               "id": "root-events-events-in-the-netherlands-utrecht-creative-show-off",
@@ -437,7 +3189,13 @@
               "topics": [],
               "updated": null,
               "pushed": null,
-              "awesome": false
+              "awesome": false,
+              "path": [
+                "Events in the Netherlands",
+                "Utrecht",
+                "Creative Show-off"
+              ],
+              "parentId": "root-events-events-in-the-netherlands-utrecht"
             }
           ],
           "stars": 0,
@@ -447,14 +3205,20 @@
           "topics": [],
           "updated": null,
           "pushed": null,
-          "awesome": false
+          "awesome": false,
+          "path": [
+            "Events in the Netherlands",
+            "Utrecht"
+          ],
+          "parentId": "root-events-events-in-the-netherlands"
         },
         {
           "id": "root-events-events-in-the-netherlands-everywhere",
           "title": "Everywhere",
           "kind": "section",
-          "depth": 1,
           "sourceRepo": "awkward/awesome-netherlands-events",
+          "depth": 1,
+          "url": "https://github.com/awkward/awesome-netherlands-events#everywhere",
           "children": [
             {
               "id": "root-events-events-in-the-netherlands-everywhere-cocoaheads",
@@ -474,7 +3238,13 @@
               "topics": [],
               "updated": null,
               "pushed": null,
-              "awesome": false
+              "awesome": false,
+              "path": [
+                "Events in the Netherlands",
+                "Everywhere",
+                "CocoaHeads"
+              ],
+              "parentId": "root-events-events-in-the-netherlands-everywhere"
             },
             {
               "id": "root-events-events-in-the-netherlands-everywhere-coderdojo",
@@ -494,7 +3264,13 @@
               "topics": [],
               "updated": null,
               "pushed": null,
-              "awesome": false
+              "awesome": false,
+              "path": [
+                "Events in the Netherlands",
+                "Everywhere",
+                "CoderDojo"
+              ],
+              "parentId": "root-events-events-in-the-netherlands-everywhere"
             },
             {
               "id": "root-events-events-in-the-netherlands-everywhere-design-by-fire-caf",
@@ -514,7 +3290,13 @@
               "topics": [],
               "updated": null,
               "pushed": null,
-              "awesome": false
+              "awesome": false,
+              "path": [
+                "Events in the Netherlands",
+                "Everywhere",
+                "Design by Fire Café"
+              ],
+              "parentId": "root-events-events-in-the-netherlands-everywhere"
             }
           ],
           "stars": 0,
@@ -524,14 +3306,20 @@
           "topics": [],
           "updated": null,
           "pushed": null,
-          "awesome": false
+          "awesome": false,
+          "path": [
+            "Events in the Netherlands",
+            "Everywhere"
+          ],
+          "parentId": "root-events-events-in-the-netherlands"
         },
         {
           "id": "root-events-events-in-the-netherlands-other",
           "title": "Other",
           "kind": "section",
-          "depth": 1,
           "sourceRepo": "awkward/awesome-netherlands-events",
+          "depth": 1,
+          "url": "https://github.com/awkward/awesome-netherlands-events#other",
           "children": [
             {
               "id": "root-events-events-in-the-netherlands-other-lanyrd",
@@ -551,7 +3339,13 @@
               "topics": [],
               "updated": null,
               "pushed": null,
-              "awesome": false
+              "awesome": false,
+              "path": [
+                "Events in the Netherlands",
+                "Other",
+                "Lanyrd"
+              ],
+              "parentId": "root-events-events-in-the-netherlands-other"
             },
             {
               "id": "root-events-events-in-the-netherlands-other-meetup",
@@ -571,7 +3365,13 @@
               "topics": [],
               "updated": null,
               "pushed": null,
-              "awesome": false
+              "awesome": false,
+              "path": [
+                "Events in the Netherlands",
+                "Other",
+                "Meetup"
+              ],
+              "parentId": "root-events-events-in-the-netherlands-other"
             }
           ],
           "stars": 0,
@@ -581,7 +3381,12 @@
           "topics": [],
           "updated": null,
           "pushed": null,
-          "awesome": false
+          "awesome": false,
+          "path": [
+            "Events in the Netherlands",
+            "Other"
+          ],
+          "parentId": "root-events-events-in-the-netherlands"
         }
       ],
       "stars": 0,
@@ -592,7 +3397,11 @@
       "updated": null,
       "pushed": null,
       "awesome": true,
-      "readmeStatus": "expanded"
+      "readmeStatus": "expanded",
+      "path": [
+        "Events in the Netherlands"
+      ],
+      "parentId": "root-events"
     }
   ],
   "stars": 0,

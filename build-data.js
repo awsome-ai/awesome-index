@@ -7,7 +7,17 @@ const CHUNK_DIR = 'data/chunks';
 const MAX_DEPTH = numberEnv('MAX_DEPTH', 3);
 const MAX_NODES = numberEnv('MAX_NODES', 100000);
 
-const SKIP_SECTIONS = new Set(['Contents', 'License', 'Contribution', 'Footnotes', 'Legend']);
+const SKIP_SECTIONS = new Set([
+  'content',
+  'contents',
+  'table of contents',
+  'index',
+  'license',
+  'contributing',
+  'contribution',
+  'footnotes',
+  'legend'
+]);
 
 function numberEnv(name, fallback) {
   const value = Number(process.env[name]);
@@ -23,11 +33,19 @@ function slug(value) {
 }
 
 function normalizeRepo(value) {
-  return String(value || '')
+  const cleaned = String(value || '')
     .replace(/^https:\/\/github\.com\//i, '')
+    .replace(/[?#].*$/, '')
     .replace(/#.*$/, '')
     .replace(/\/$/, '')
     .toLowerCase();
+  const match = cleaned.match(/^([a-z0-9_.-]+\/[a-z0-9_.-]+)$/i);
+  if (!match) return '';
+  const [owner] = match[1].split('/');
+  if (['topics', 'collections', 'marketplace', 'orgs', 'features', 'trending', 'search', 'explore'].includes(owner)) {
+    return '';
+  }
+  return match[1];
 }
 
 function githubUrl(repo) {
@@ -50,6 +68,10 @@ function cleanText(value) {
     .trim();
 }
 
+function isSkippedSection(title) {
+  return SKIP_SECTIONS.has(cleanText(title).toLowerCase());
+}
+
 function resolveUrl(href, sourceRepo = '') {
   if (!href) return '';
   if (/^https?:\/\//i.test(href)) return href;
@@ -68,7 +90,7 @@ function parseBullet(line, sourceRepo = '') {
 
   if (link) {
     const href = link[2].trim();
-    const github = href.match(/^https:\/\/github\.com\/([^/]+\/[^/#)]+)/i);
+    const github = href.match(/^https:\/\/github\.com\/([^/?#)]+\/[^/?#)]+)/i);
     const repo = github ? normalizeRepo(github[1]) : '';
     return {
       indent,
@@ -95,7 +117,8 @@ function parseBullet(line, sourceRepo = '') {
 function parseAwesomeReadme(readme, { idPrefix = '', sourceRepo = '', rootDepth = 0 } = {}) {
   const sections = [];
   let current = null;
-  let stack = [];
+  let headingStack = [];
+  let listStack = [];
   const seenIds = new Map();
 
   function uniqueId(base) {
@@ -106,21 +129,41 @@ function parseAwesomeReadme(readme, { idPrefix = '', sourceRepo = '', rootDepth 
   }
 
   for (const line of String(readme || '').split(/\r?\n/)) {
-    const heading = line.match(/^##\s+(.+)$/);
+    const heading = line.match(/^(#{1,6})\s+(.+)$/);
     if (heading) {
-      const title = cleanText(heading[1]);
-      current = SKIP_SECTIONS.has(title)
-        ? null
-        : {
-            id: uniqueId(idPrefix ? `${idPrefix}-${title}` : title),
-            title,
-            kind: 'section',
-            depth: rootDepth,
-            sourceRepo,
-            children: []
-          };
-      stack = [];
-      if (current) sections.push(current);
+      const level = heading[1].length;
+      const title = cleanText(heading[2]);
+      listStack = [];
+
+      if (level === 1 || isSkippedSection(title)) {
+        current = null;
+        headingStack = [];
+        continue;
+      }
+
+      const parentHeading = headingStack
+        .slice()
+        .reverse()
+        .find(item => item.level < level);
+      const pathBits = [...headingStack.filter(item => item.level < level).map(item => item.node.title), title];
+      const node = {
+        id: uniqueId(idPrefix ? `${idPrefix}-${pathBits.join('-')}` : pathBits.join('-')),
+        title,
+        kind: 'section',
+        sourceRepo,
+        depth: rootDepth + Math.max(0, level - 2),
+        url: sourceRepo ? `${githubUrl(sourceRepo)}#${slug(title)}` : '',
+        children: []
+      };
+
+      headingStack = headingStack.filter(item => item.level < level);
+      if (level === 2 || !parentHeading) {
+        current = node;
+        sections.push(node);
+      } else {
+        parentHeading.node.children.push(node);
+      }
+      headingStack.push({ level, node });
       continue;
     }
 
@@ -128,8 +171,13 @@ function parseAwesomeReadme(readme, { idPrefix = '', sourceRepo = '', rootDepth 
     const bullet = parseBullet(line, sourceRepo);
     if (!bullet || !bullet.title) continue;
 
-    stack = stack.slice(0, bullet.indent);
-    const pathBits = [current.title, ...stack.map(item => item.title), bullet.title];
+    const parentHeading = headingStack[headingStack.length - 1]?.node || current;
+    listStack = listStack.slice(0, bullet.indent);
+    const pathBits = [
+      ...headingStack.map(item => item.node.title),
+      ...listStack.map(item => item.title),
+      bullet.title
+    ];
     const node = {
       id: uniqueId(idPrefix ? `${idPrefix}-${pathBits.join('-')}` : pathBits.join('-')),
       title: bullet.title,
@@ -139,14 +187,14 @@ function parseAwesomeReadme(readme, { idPrefix = '', sourceRepo = '', rootDepth 
       description: bullet.description,
       external: bullet.external,
       sourceRepo,
-      depth: rootDepth + bullet.indent + 1,
+      depth: parentHeading.depth + bullet.indent + 1,
       children: []
     };
 
-    const parent = stack[bullet.indent - 1];
+    const parent = listStack[bullet.indent - 1];
     if (parent) parent.children.push(node);
-    else current.children.push(node);
-    stack[bullet.indent] = node;
+    else parentHeading.children.push(node);
+    listStack[bullet.indent] = node;
   }
 
   return sections;
@@ -236,6 +284,8 @@ function flattenTree(categories) {
   function visit(node, category, pathParts, parentId) {
     const path = [...pathParts, node.title];
     const childCount = countDescendants(node);
+    node.path = path;
+    node.parentId = parentId;
     rows.push({
       id: node.id,
       parentId,
@@ -524,12 +574,13 @@ function renderCats(){const el=document.getElementById('cats');el.innerHTML=STAT
 async function selectCategory(id){activeCategory=id;renderCats();const meta=STATS.categories.find(c=>c.id===id);document.getElementById('viewTitle').textContent=meta.title;document.getElementById('viewHint').textContent='正在加载 '+meta.count.toLocaleString()+' 个节点';document.getElementById('tree').innerHTML='<div class="empty">正在加载分类分片...</div>';activeTree=await loadJson(meta.chunk);flatCache.set(id,currentRows());renderTree();const first=activeTree.children?.[0];if(first)selectNode(first.id)}
 function renderTree(){if(!activeTree)return;const q=document.getElementById('search').value.trim().toLowerCase();const mode=document.getElementById('mode').value;if(q){renderResults(q);return}const children=(activeTree.children||[]).map(n=>filterNode(n,'')).filter(Boolean);document.getElementById('viewHint').textContent='显示 '+children.length.toLocaleString()+' 个顶层节点 · 模式：'+mode;document.getElementById('tree').innerHTML=children.length?children.map(n=>renderNode(n,1)).join(''):'<div class="empty">当前筛选没有结果。</div>'}
 function renderResults(q){const rows=SEARCH.filter(r=>match(r,q)&&passMode(r)).slice(0,80);document.getElementById('viewHint').textContent='搜索结果 '+rows.length.toLocaleString()+' / '+SEARCH.length.toLocaleString();document.getElementById('tree').innerHTML=rows.length?'<div class="results">'+rows.map(r=>'<button class="result" onclick="openSearchResult(\\''+r.id+'\\',\\''+r.category.replace(/'/g,"\\\\'")+'\\')"><strong>'+esc(r.title)+'</strong><div class="path">'+esc([r.category,...r.path].join(' / '))+'</div><div class="desc">'+esc(r.description||r.repo||r.url||'')+'</div></button>').join('')+'</div>':'<div class="empty">没有匹配结果。</div>'}
-function renderNode(node,level){const has=(node.children||[]).length>0;const open=level<2?' open':'';return'<div class="node level-'+Math.min(level,5)+open+'" data-id="'+esc(node.id)+'">'+renderRow(node,has)+(has?'<div class="children">'+node.children.map(c=>renderNode(c,level+1)).join('')+'</div>':'')+'</div>'}
-function renderRow(node,has){const meta=[node.awesome?'awesome':'',node.language,node.license,has?node.children.length+' 子节点':''].filter(Boolean);const title=node.url?'<a href="'+esc(node.url)+'" target="_blank" rel="noopener">'+esc(node.title)+'</a>':'<button onclick="selectNode(\\''+node.id+'\\')">'+esc(node.title)+'</button>';return'<div class="node-row" onclick="selectNode(\\''+node.id+'\\')"><button class="twisty '+(has?'':'blank')+'" onclick="toggleNode(event,this)">'+(has?'▾':'')+'</button><div class="node-main"><div class="node-title">'+title+meta.map(m=>'<span class="pill">'+esc(m)+'</span>').join('')+'</div>'+(node.description?'<div class="desc">'+esc(node.description)+'</div>':'')+'</div><div class="stars">'+(node.stars?fmt(node.stars)+' stars':'')+'</div></div>'}
+function renderNode(node,level){const has=(node.children||[]).length>0;const open=level<4?' open':'';return'<div class="node level-'+Math.min(level,5)+open+'" data-id="'+esc(node.id)+'">'+renderRow(node,has)+(has?'<div class="children">'+node.children.map(c=>renderNode(c,level+1)).join('')+'</div>':'')+'</div>'}
+function renderRow(node,has){const meta=[node.awesome?'awesome':'',node.language,node.license,has?node.children.length+' 子节点':''].filter(Boolean);const title=node.url&&node.kind!=='section'?'<a href="'+esc(node.url)+'" target="_blank" rel="noopener">'+esc(node.title)+'</a>':'<button onclick="selectNode(\\''+node.id+'\\')">'+esc(node.title)+'</button>';return'<div class="node-row" onclick="selectNode(\\''+node.id+'\\')"><button class="twisty '+(has?'':'blank')+'" onclick="toggleNode(event,this)">'+(has?'▾':'')+'</button><div class="node-main"><div class="node-title">'+title+meta.map(m=>'<span class="pill">'+esc(m)+'</span>').join('')+'</div>'+(node.description?'<div class="desc">'+esc(node.description)+'</div>':'')+'</div><div class="stars">'+(node.stars?fmt(node.stars)+' stars':'')+'</div></div>'}
 function allVisibleRows(){return currentRows()}
 function findNode(id){return allVisibleRows().find(r=>r.id===id)}
 function selectNode(id){selectedId=id;const n=findNode(id);if(!n)return;const children=n.children||[];document.getElementById('detail').innerHTML='<p class="label">节点详情</p><h3 class="detail-title">'+esc(n.title)+'</h3><div class="detail-path">'+esc([activeTree.title,...(n.path||[])].join(' / '))+'</div><p class="detail-desc">'+esc(n.description||n.repo||n.url||'暂无描述')+'</p><div class="detail-grid"><div class="detail-metric"><span>Stars</span><strong>'+fmt(n.stars||0)+'</strong></div><div class="detail-metric"><span>子节点</span><strong>'+children.length+'</strong></div><div class="detail-metric"><span>类型</span><strong>'+esc(n.kind||'-')+'</strong></div><div class="detail-metric"><span>README</span><strong>'+esc(n.readmeStatus||'-')+'</strong></div></div>'+(n.url?'<a class="btn" href="'+esc(n.url)+'" target="_blank" rel="noopener">打开链接</a>':'')+(children.length?'<p class="label" style="margin-top:16px">直接子节点</p><div class="child-links">'+children.slice(0,24).map(c=>'<button onclick="selectNode(\\''+c.id+'\\')">'+esc(c.title)+'</button>').join('')+'</div>':'')}
-async function openSearchResult(id,categoryTitle){const meta=STATS.categories.find(c=>c.title===categoryTitle);if(meta&&activeCategory!==meta.id)await selectCategory(meta.id);selectNode(id);document.querySelector('[data-id="'+CSS.escape(id)+'"]')?.scrollIntoView({block:'center'})}
+function revealNode(id){const el=document.querySelector('[data-id="'+CSS.escape(id)+'"]');if(!el)return;let parent=el.parentElement?.closest('.node');while(parent){parent.classList.add('open');const twisty=parent.querySelector(':scope > .node-row .twisty:not(.blank)');if(twisty)twisty.textContent='▾';parent=parent.parentElement?.closest('.node')}el.scrollIntoView({block:'center'})}
+async function openSearchResult(id,categoryTitle){const meta=STATS.categories.find(c=>c.title===categoryTitle);if(meta&&activeCategory!==meta.id)await selectCategory(meta.id);document.getElementById('search').value='';renderTree();selectNode(id);revealNode(id)}
 function toggleNode(e,b){e.stopPropagation();const n=b.closest('.node');n.classList.toggle('open');b.textContent=n.classList.contains('open')?'▾':'▸'}
 function expandVisible(){document.querySelectorAll('#tree .node').forEach(n=>n.classList.add('open'));document.querySelectorAll('#tree .twisty:not(.blank)').forEach(b=>b.textContent='▾')}
 function collapseVisible(){document.querySelectorAll('#tree .node').forEach(n=>{if(!n.classList.contains('level-1'))n.classList.remove('open')});document.querySelectorAll('#tree .twisty:not(.blank)').forEach(b=>b.textContent='▸')}

@@ -1,0 +1,6481 @@
+{
+  "generatedAt": "2026-07-04T08:27:53.368Z",
+  "startedAt": "2026-07-04T08:26:59.979Z",
+  "rootRepo": "sindresorhus/awesome",
+  "maxDepth": 3,
+  "maxRepos": 1500,
+  "total": 906,
+  "fetched": 12,
+  "cached": 863,
+  "missing": 31,
+  "readmes": [
+    {
+      "repo": "sindresorhus/awesome",
+      "status": "cached",
+      "path": ".cache\\readmes\\sindresorhus\\awesome.md",
+      "bytes": 79614,
+      "depth": 0
+    },
+    {
+      "repo": "sindresorhus/awesome-nodejs",
+      "status": "cached",
+      "path": ".cache\\readmes\\sindresorhus\\awesome-nodejs.md",
+      "bytes": 68885,
+      "depth": 1
+    },
+    {
+      "repo": "bcoe/awesome-cross-platform-nodejs",
+      "status": "cached",
+      "path": ".cache\\readmes\\bcoe\\awesome-cross-platform-nodejs.md",
+      "bytes": 15472,
+      "depth": 1
+    },
+    {
+      "repo": "vsouza/awesome-ios",
+      "status": "cached",
+      "path": ".cache\\readmes\\vsouza\\awesome-ios.md",
+      "bytes": 272882,
+      "depth": 1
+    },
+    {
+      "repo": "jstumpp/awesome-android",
+      "status": "cached",
+      "path": ".cache\\readmes\\jstumpp\\awesome-android.md",
+      "bytes": 49697,
+      "depth": 1
+    },
+    {
+      "repo": "weblancaster/awesome-iot-hybrid",
+      "status": "cached",
+      "path": ".cache\\readmes\\weblancaster\\awesome-iot-hybrid.md",
+      "bytes": 4335,
+      "depth": 1
+    },
+    {
+      "repo": "sindresorhus/awesome-electron",
+      "status": "cached",
+      "path": ".cache\\readmes\\sindresorhus\\awesome-electron.md",
+      "bytes": 25729,
+      "depth": 1
+    },
+    {
+      "repo": "busterc/awesome-cordova",
+      "status": "cached",
+      "path": ".cache\\readmes\\busterc\\awesome-cordova.md",
+      "bytes": 4577,
+      "depth": 1
+    },
+    {
+      "repo": "jondot/awesome-react-native",
+      "status": "cached",
+      "path": ".cache\\readmes\\jondot\\awesome-react-native.md",
+      "bytes": 196692,
+      "depth": 1
+    },
+    {
+      "repo": "xamsome/awesome-xamarin",
+      "status": "cached",
+      "path": ".cache\\readmes\\xamsome\\awesome-xamarin.md",
+      "bytes": 31311,
+      "depth": 1
+    },
+    {
+      "repo": "friz-zy/awesome-linux-containers",
+      "status": "cached",
+      "path": ".cache\\readmes\\friz-zy\\awesome-linux-containers.md",
+      "bytes": 29931,
+      "depth": 1
+    },
+    {
+      "repo": "zoidbergwill/awesome-ebpf",
+      "status": "cached",
+      "path": ".cache\\readmes\\zoidbergwill\\awesome-ebpf.md",
+      "bytes": 52635,
+      "depth": 1
+    },
+    {
+      "repo": "pandafoss/awesome-arch",
+      "status": "cached",
+      "path": ".cache\\readmes\\pandafoss\\awesome-arch.md",
+      "bytes": 19802,
+      "depth": 1
+    },
+    {
+      "repo": "appimagecommunity/awesome-appimage",
+      "status": "cached",
+      "path": ".cache\\readmes\\appimagecommunity\\awesome-appimage.md",
+      "bytes": 25180,
+      "depth": 1
+    },
+    {
+      "repo": "aorumbayev/awesome-omarchy",
+      "status": "cached",
+      "path": ".cache\\readmes\\aorumbayev\\awesome-omarchy.md",
+      "bytes": 27497,
+      "depth": 1
+    },
+    {
+      "repo": "agarrharr/awesome-macos-screensavers",
+      "status": "cached",
+      "path": ".cache\\readmes\\agarrharr\\awesome-macos-screensavers.md",
+      "bytes": 9483,
+      "depth": 1
+    },
+    {
+      "repo": "jaywcjlove/awesome-mac",
+      "status": "cached",
+      "path": ".cache\\readmes\\jaywcjlove\\awesome-mac.md",
+      "bytes": 236043,
+      "depth": 1
+    },
+    {
+      "repo": "yenchenlin/awesome-watchos",
+      "status": "cached",
+      "path": ".cache\\readmes\\yenchenlin\\awesome-watchos.md",
+      "bytes": 12595,
+      "depth": 1
+    },
+    {
+      "repo": "deephacks/awesome-jvm",
+      "status": "cached",
+      "path": ".cache\\readmes\\deephacks\\awesome-jvm.md",
+      "bytes": 46029,
+      "depth": 1
+    },
+    {
+      "repo": "mailtoharshit/awesome-salesforce",
+      "status": "cached",
+      "path": ".cache\\readmes\\mailtoharshit\\awesome-salesforce.md",
+      "bytes": 34984,
+      "depth": 1
+    },
+    {
+      "repo": "donnemartin/awesome-aws",
+      "status": "cached",
+      "path": ".cache\\readmes\\donnemartin\\awesome-aws.md",
+      "bytes": 90856,
+      "depth": 1
+    },
+    {
+      "repo": "0pandadev/awesome-windows",
+      "status": "cached",
+      "path": ".cache\\readmes\\0pandadev\\awesome-windows.md",
+      "bytes": 63885,
+      "depth": 1
+    },
+    {
+      "repo": "hlaueriksson/awesome-powertoys-run-plugins",
+      "status": "cached",
+      "path": ".cache\\readmes\\hlaueriksson\\awesome-powertoys-run-plugins.md",
+      "bytes": 7734,
+      "depth": 1
+    },
+    {
+      "repo": "ipfs/awesome-ipfs",
+      "status": "cached",
+      "path": ".cache\\readmes\\ipfs\\awesome-ipfs.md",
+      "bytes": 14943,
+      "depth": 1
+    },
+    {
+      "repo": "fuse-compound/awesome-fuse",
+      "status": "cached",
+      "path": ".cache\\readmes\\fuse-compound\\awesome-fuse.md",
+      "bytes": 15274,
+      "depth": 1
+    },
+    {
+      "repo": "ianstormtaylor/awesome-heroku",
+      "status": "cached",
+      "path": ".cache\\readmes\\ianstormtaylor\\awesome-heroku.md",
+      "bytes": 8171,
+      "depth": 1
+    },
+    {
+      "repo": "thibmaek/awesome-raspberry-pi",
+      "status": "cached",
+      "path": ".cache\\readmes\\thibmaek\\awesome-raspberry-pi.md",
+      "bytes": 50694,
+      "depth": 1
+    },
+    {
+      "repo": "jessetg/awesome-qt",
+      "status": "cached",
+      "path": ".cache\\readmes\\jessetg\\awesome-qt.md",
+      "bytes": 32958,
+      "depth": 1
+    },
+    {
+      "repo": "fregante/awesome-webextensions",
+      "status": "cached",
+      "path": ".cache\\readmes\\fregante\\awesome-webextensions.md",
+      "bytes": 7593,
+      "depth": 1
+    },
+    {
+      "repo": "vitalets/awesome-smart-tv",
+      "status": "cached",
+      "path": ".cache\\readmes\\vitalets\\awesome-smart-tv.md",
+      "bytes": 13926,
+      "depth": 1
+    },
+    {
+      "repo": "kazhnuz/awesome-gnome",
+      "status": "cached",
+      "path": ".cache\\readmes\\kazhnuz\\awesome-gnome.md",
+      "bytes": 26471,
+      "depth": 1
+    },
+    {
+      "repo": "francoism90/awesome-kde",
+      "status": "cached",
+      "path": ".cache\\readmes\\francoism90\\awesome-kde.md",
+      "bytes": 19190,
+      "depth": 1
+    },
+    {
+      "repo": "quozd/awesome-dotnet",
+      "status": "cached",
+      "path": ".cache\\readmes\\quozd\\awesome-dotnet.md",
+      "bytes": 126185,
+      "depth": 1
+    },
+    {
+      "repo": "thangchung/awesome-dotnet-core",
+      "status": "cached",
+      "path": ".cache\\readmes\\thangchung\\awesome-dotnet-core.md",
+      "bytes": 119267,
+      "depth": 1
+    },
+    {
+      "repo": "ironcev/awesome-roslyn",
+      "status": "cached",
+      "path": ".cache\\readmes\\ironcev\\awesome-roslyn.md",
+      "bytes": 15424,
+      "depth": 1
+    },
+    {
+      "repo": "jonleibowitz/awesome-digitalocean",
+      "status": "cached",
+      "path": ".cache\\readmes\\jonleibowitz\\awesome-digitalocean.md",
+      "bytes": 6500,
+      "depth": 1
+    },
+    {
+      "repo": "solido/awesome-flutter",
+      "status": "cached",
+      "path": ".cache\\readmes\\solido\\awesome-flutter.md",
+      "bytes": 82991,
+      "depth": 1
+    },
+    {
+      "repo": "frenck/awesome-home-assistant",
+      "status": "cached",
+      "path": ".cache\\readmes\\frenck\\awesome-home-assistant.md",
+      "bytes": 77705,
+      "depth": 1
+    },
+    {
+      "repo": "victorshinya/awesome-ibmcloud",
+      "status": "cached",
+      "path": ".cache\\readmes\\victorshinya\\awesome-ibmcloud.md",
+      "bytes": 56960,
+      "depth": 1
+    },
+    {
+      "repo": "jthegedus/awesome-firebase",
+      "status": "cached",
+      "path": ".cache\\readmes\\jthegedus\\awesome-firebase.md",
+      "bytes": 21145,
+      "depth": 1
+    },
+    {
+      "repo": "adafruit/awesome-adafruitio",
+      "status": "cached",
+      "path": ".cache\\readmes\\adafruit\\awesome-adafruitio.md",
+      "bytes": 6297,
+      "depth": 1
+    },
+    {
+      "repo": "irazasyed/awesome-cloudflare",
+      "status": "cached",
+      "path": ".cache\\readmes\\irazasyed\\awesome-cloudflare.md",
+      "bytes": 13668,
+      "depth": 1
+    },
+    {
+      "repo": "ravirupareliya/awesome-actions-on-google",
+      "status": "cached",
+      "path": ".cache\\readmes\\ravirupareliya\\awesome-actions-on-google.md",
+      "bytes": 13777,
+      "depth": 1
+    },
+    {
+      "repo": "agucova/awesome-esp",
+      "status": "cached",
+      "path": ".cache\\readmes\\agucova\\awesome-esp.md",
+      "bytes": 15528,
+      "depth": 1
+    },
+    {
+      "repo": "denolib/awesome-deno",
+      "status": "cached",
+      "path": ".cache\\readmes\\denolib\\awesome-deno.md",
+      "bytes": 26018,
+      "depth": 1
+    },
+    {
+      "repo": "balintkissdev/awesome-dos",
+      "status": "cached",
+      "path": ".cache\\readmes\\balintkissdev\\awesome-dos.md",
+      "bytes": 30531,
+      "depth": 1
+    },
+    {
+      "repo": "nix-community/awesome-nix",
+      "status": "cached",
+      "path": ".cache\\readmes\\nix-community\\awesome-nix.md",
+      "bytes": 27764,
+      "depth": 1
+    },
+    {
+      "repo": "stn1slv/awesome-integration",
+      "status": "cached",
+      "path": ".cache\\readmes\\stn1slv\\awesome-integration.md",
+      "bytes": 162881,
+      "depth": 1
+    },
+    {
+      "repo": "naimo84/awesome-nodered",
+      "status": "cached",
+      "path": ".cache\\readmes\\naimo84\\awesome-nodered.md",
+      "bytes": 24430,
+      "depth": 1
+    },
+    {
+      "repo": "zenitysec/awesome-low-code",
+      "status": "cached",
+      "path": ".cache\\readmes\\zenitysec\\awesome-low-code.md",
+      "bytes": 21512,
+      "depth": 1
+    },
+    {
+      "repo": "riderx/awesome-capacitor",
+      "status": "cached",
+      "path": ".cache\\readmes\\riderx\\awesome-capacitor.md",
+      "bytes": 43990,
+      "depth": 1
+    },
+    {
+      "repo": "esri/awesome-arcgis-developer",
+      "status": "cached",
+      "path": ".cache\\readmes\\esri\\awesome-arcgis-developer.md",
+      "bytes": 34036,
+      "depth": 1
+    },
+    {
+      "repo": "dotintent/awesome-ble",
+      "status": "cached",
+      "path": ".cache\\readmes\\dotintent\\awesome-ble.md",
+      "bytes": 10378,
+      "depth": 1
+    },
+    {
+      "repo": "martinzikmund/awesome-uno-platform",
+      "status": "cached",
+      "path": ".cache\\readmes\\martinzikmund\\awesome-uno-platform.md",
+      "bytes": 8609,
+      "depth": 1
+    },
+    {
+      "repo": "googlecloudplatform/awesome-google-cloud",
+      "status": "cached",
+      "path": ".cache\\readmes\\googlecloudplatform\\awesome-google-cloud.md",
+      "bytes": 11849,
+      "depth": 1
+    },
+    {
+      "repo": "xavidop/awesome-firebase-genkit",
+      "status": "cached",
+      "path": ".cache\\readmes\\xavidop\\awesome-firebase-genkit.md",
+      "bytes": 25488,
+      "depth": 1
+    },
+    {
+      "repo": "shano/awesome-backstage",
+      "status": "cached",
+      "path": ".cache\\readmes\\shano\\awesome-backstage.md",
+      "bytes": 10292,
+      "depth": 1
+    },
+    {
+      "repo": "sorrycc/awesome-javascript",
+      "status": "cached",
+      "path": ".cache\\readmes\\sorrycc\\awesome-javascript.md",
+      "bytes": 100063,
+      "depth": 1
+    },
+    {
+      "repo": "wbinnssmith/awesome-promises",
+      "status": "cached",
+      "path": ".cache\\readmes\\wbinnssmith\\awesome-promises.md",
+      "bytes": 12050,
+      "depth": 1
+    },
+    {
+      "repo": "standard/awesome-standard",
+      "status": "cached",
+      "path": ".cache\\readmes\\standard\\awesome-standard.md",
+      "bytes": 7961,
+      "depth": 1
+    },
+    {
+      "repo": "kikobeats/awesome-network-js",
+      "status": "cached",
+      "path": ".cache\\readmes\\kikobeats\\awesome-network-js.md",
+      "bytes": 7438,
+      "depth": 1
+    },
+    {
+      "repo": "parro-it/awesome-micro-npm-packages",
+      "status": "cached",
+      "path": ".cache\\readmes\\parro-it\\awesome-micro-npm-packages.md",
+      "bytes": 19225,
+      "depth": 1
+    },
+    {
+      "repo": "feross/awesome-mad-science",
+      "status": "cached",
+      "path": ".cache\\readmes\\feross\\awesome-mad-science.md",
+      "bytes": 6069,
+      "depth": 1
+    },
+    {
+      "repo": "sindresorhus/awesome-npm",
+      "status": "cached",
+      "path": ".cache\\readmes\\sindresorhus\\awesome-npm.md",
+      "bytes": 19192,
+      "depth": 1
+    },
+    {
+      "repo": "avajs/awesome-ava",
+      "status": "cached",
+      "path": ".cache\\readmes\\avajs\\awesome-ava.md",
+      "bytes": 5704,
+      "depth": 1
+    },
+    {
+      "repo": "dustinspecker/awesome-eslint",
+      "status": "cached",
+      "path": ".cache\\readmes\\dustinspecker\\awesome-eslint.md",
+      "bytes": 32592,
+      "depth": 1
+    },
+    {
+      "repo": "stoeffel/awesome-fp-js",
+      "status": "cached",
+      "path": ".cache\\readmes\\stoeffel\\awesome-fp-js.md",
+      "bytes": 36486,
+      "depth": 1
+    },
+    {
+      "repo": "sindresorhus/awesome-observables",
+      "status": "cached",
+      "path": ".cache\\readmes\\sindresorhus\\awesome-observables.md",
+      "bytes": 2749,
+      "depth": 1
+    },
+    {
+      "repo": "ryanzim/awesome-npm-scripts",
+      "status": "cached",
+      "path": ".cache\\readmes\\ryanzim\\awesome-npm-scripts.md",
+      "bytes": 8032,
+      "depth": 1
+    },
+    {
+      "repo": "richienb/awesome-ponyfills",
+      "status": "cached",
+      "path": ".cache\\readmes\\richienb\\awesome-ponyfills.md",
+      "bytes": 9556,
+      "depth": 1
+    },
+    {
+      "repo": "matteocrippa/awesome-swift",
+      "status": "cached",
+      "path": ".cache\\readmes\\matteocrippa\\awesome-swift.md",
+      "bytes": 151368,
+      "depth": 1
+    },
+    {
+      "repo": "hsavit1/awesome-swift-education",
+      "status": "cached",
+      "path": ".cache\\readmes\\hsavit1\\awesome-swift-education.md",
+      "bytes": 465,
+      "depth": 1
+    },
+    {
+      "repo": "uraimo/awesome-swift-playgrounds",
+      "status": "cached",
+      "path": ".cache\\readmes\\uraimo\\awesome-swift-playgrounds.md",
+      "bytes": 27259,
+      "depth": 1
+    },
+    {
+      "repo": "vinta/awesome-python",
+      "status": "cached",
+      "path": ".cache\\readmes\\vinta\\awesome-python.md",
+      "bytes": 80802,
+      "depth": 1
+    },
+    {
+      "repo": "timofurrer/awesome-asyncio",
+      "status": "cached",
+      "path": ".cache\\readmes\\timofurrer\\awesome-asyncio.md",
+      "bytes": 13096,
+      "depth": 1
+    },
+    {
+      "repo": "faroit/awesome-python-scientific-audio",
+      "status": "cached",
+      "path": ".cache\\readmes\\faroit\\awesome-python-scientific-audio.md",
+      "bytes": 23547,
+      "depth": 1
+    },
+    {
+      "repo": "adafruit/awesome-circuitpython",
+      "status": "cached",
+      "path": ".cache\\readmes\\adafruit\\awesome-circuitpython.md",
+      "bytes": 31482,
+      "depth": 1
+    },
+    {
+      "repo": "krzjoa/awesome-python-data-science",
+      "status": "cached",
+      "path": ".cache\\readmes\\krzjoa\\awesome-python-data-science.md",
+      "bytes": 61706,
+      "depth": 1
+    },
+    {
+      "repo": "typeddjango/awesome-python-typing",
+      "status": "cached",
+      "path": ".cache\\readmes\\typeddjango\\awesome-python-typing.md",
+      "bytes": 19498,
+      "depth": 1
+    },
+    {
+      "repo": "mcauser/awesome-micropython",
+      "status": "cached",
+      "path": ".cache\\readmes\\mcauser\\awesome-micropython.md",
+      "bytes": 127949,
+      "depth": 1
+    },
+    {
+      "repo": "rust-unofficial/awesome-rust",
+      "status": "cached",
+      "path": ".cache\\readmes\\rust-unofficial\\awesome-rust.md",
+      "bytes": 339905,
+      "depth": 1
+    },
+    {
+      "repo": "pest-parser/awesome-pest",
+      "status": "cached",
+      "path": ".cache\\readmes\\pest-parser\\awesome-pest.md",
+      "bytes": 6008,
+      "depth": 1
+    },
+    {
+      "repo": "krispo/awesome-haskell",
+      "status": "cached",
+      "path": ".cache\\readmes\\krispo\\awesome-haskell.md",
+      "bytes": 28908,
+      "depth": 1
+    },
+    {
+      "repo": "passy/awesome-purescript",
+      "status": "cached",
+      "path": ".cache\\readmes\\passy\\awesome-purescript.md",
+      "bytes": 10094,
+      "depth": 1
+    },
+    {
+      "repo": "avelino/awesome-go",
+      "status": "cached",
+      "path": ".cache\\readmes\\avelino\\awesome-go.md",
+      "bytes": 396679,
+      "depth": 1
+    },
+    {
+      "repo": "lauris/awesome-scala",
+      "status": "cached",
+      "path": ".cache\\readmes\\lauris\\awesome-scala.md",
+      "bytes": 91265,
+      "depth": 1
+    },
+    {
+      "repo": "tindzk/awesome-scala-native",
+      "status": "cached",
+      "path": ".cache\\readmes\\tindzk\\awesome-scala-native.md",
+      "bytes": 13703,
+      "depth": 1
+    },
+    {
+      "repo": "markets/awesome-ruby",
+      "status": "cached",
+      "path": ".cache\\readmes\\markets\\awesome-ruby.md",
+      "bytes": 136525,
+      "depth": 1
+    },
+    {
+      "repo": "razum2um/awesome-clojure",
+      "status": "cached",
+      "path": ".cache\\readmes\\razum2um\\awesome-clojure.md",
+      "bytes": 26861,
+      "depth": 1
+    },
+    {
+      "repo": "hantuzun/awesome-clojurescript",
+      "status": "cached",
+      "path": ".cache\\readmes\\hantuzun\\awesome-clojurescript.md",
+      "bytes": 18622,
+      "depth": 1
+    },
+    {
+      "repo": "h4cc/awesome-elixir",
+      "status": "cached",
+      "path": ".cache\\readmes\\h4cc\\awesome-elixir.md",
+      "bytes": 196305,
+      "depth": 1
+    },
+    {
+      "repo": "sporto/awesome-elm",
+      "status": "cached",
+      "path": ".cache\\readmes\\sporto\\awesome-elm.md",
+      "bytes": 36365,
+      "depth": 1
+    },
+    {
+      "repo": "drobakowski/awesome-erlang",
+      "status": "cached",
+      "path": ".cache\\readmes\\drobakowski\\awesome-erlang.md",
+      "bytes": 15759,
+      "depth": 1
+    },
+    {
+      "repo": "lewisjellis/awesome-lua",
+      "status": "cached",
+      "path": ".cache\\readmes\\lewisjellis\\awesome-lua.md",
+      "bytes": 31332,
+      "depth": 1
+    },
+    {
+      "repo": "fffaraz/awesome-cpp",
+      "status": "cached",
+      "path": ".cache\\readmes\\fffaraz\\awesome-cpp.md",
+      "bytes": 197684,
+      "depth": 1
+    },
+    {
+      "repo": "qinwf/awesome-r",
+      "status": "cached",
+      "path": ".cache\\readmes\\qinwf\\awesome-r.md",
+      "bytes": 76149,
+      "depth": 1
+    },
+    {
+      "repo": "iamericfletcher/awesome-r-learning-resources",
+      "status": "cached",
+      "path": ".cache\\readmes\\iamericfletcher\\awesome-r-learning-resources.md",
+      "bytes": 37467,
+      "depth": 1
+    },
+    {
+      "repo": "dlang-community/awesome-d",
+      "status": "cached",
+      "path": ".cache\\readmes\\dlang-community\\awesome-d.md",
+      "bytes": 44734,
+      "depth": 1
+    },
+    {
+      "repo": "codyreichert/awesome-cl",
+      "status": "cached",
+      "path": ".cache\\readmes\\codyreichert\\awesome-cl.md",
+      "bytes": 199027,
+      "depth": 1
+    },
+    {
+      "repo": "gustavbertram/awesome-common-lisp-learning",
+      "status": "cached",
+      "path": ".cache\\readmes\\gustavbertram\\awesome-common-lisp-learning.md",
+      "bytes": 13546,
+      "depth": 1
+    },
+    {
+      "repo": "hachiojipm/awesome-perl",
+      "status": "cached",
+      "path": ".cache\\readmes\\hachiojipm\\awesome-perl.md",
+      "bytes": 34676,
+      "depth": 1
+    },
+    {
+      "repo": "kdabir/awesome-groovy",
+      "status": "cached",
+      "path": ".cache\\readmes\\kdabir\\awesome-groovy.md",
+      "bytes": 13049,
+      "depth": 1
+    },
+    {
+      "repo": "yissachar/awesome-dart",
+      "status": "cached",
+      "path": ".cache\\readmes\\yissachar\\awesome-dart.md",
+      "bytes": 14781,
+      "depth": 1
+    },
+    {
+      "repo": "akullpp/awesome-java",
+      "status": "cached",
+      "path": ".cache\\readmes\\akullpp\\awesome-java.md",
+      "bytes": 129976,
+      "depth": 1
+    },
+    {
+      "repo": "eleventigers/awesome-rxjava",
+      "status": "cached",
+      "path": ".cache\\readmes\\eleventigers\\awesome-rxjava.md",
+      "bytes": 5759,
+      "depth": 1
+    },
+    {
+      "repo": "hstsethi/awesome-j2me",
+      "status": "cached",
+      "path": ".cache\\readmes\\hstsethi\\awesome-j2me.md",
+      "bytes": 13818,
+      "depth": 1
+    },
+    {
+      "repo": "kotlinby/awesome-kotlin",
+      "status": "cached",
+      "path": ".cache\\readmes\\kotlinby\\awesome-kotlin.md",
+      "bytes": 1219,
+      "depth": 1
+    },
+    {
+      "repo": "ocaml-community/awesome-ocaml",
+      "status": "cached",
+      "path": ".cache\\readmes\\ocaml-community\\awesome-ocaml.md",
+      "bytes": 55622,
+      "depth": 1
+    },
+    {
+      "repo": "seancoyne/awesome-coldfusion",
+      "status": "cached",
+      "path": ".cache\\readmes\\seancoyne\\awesome-coldfusion.md",
+      "bytes": 9118,
+      "depth": 1
+    },
+    {
+      "repo": "rabbiabram/awesome-fortran",
+      "status": "cached",
+      "path": ".cache\\readmes\\rabbiabram\\awesome-fortran.md",
+      "bytes": 9380,
+      "depth": 1
+    },
+    {
+      "repo": "ziadoz/awesome-php",
+      "status": "cached",
+      "path": ".cache\\readmes\\ziadoz\\awesome-php.md",
+      "bytes": 69239,
+      "depth": 1
+    },
+    {
+      "repo": "jakoch/awesome-composer",
+      "status": "cached",
+      "path": ".cache\\readmes\\jakoch\\awesome-composer.md",
+      "bytes": 25866,
+      "depth": 1
+    },
+    {
+      "repo": "fr0st-brutal/awesome-pascal",
+      "status": "cached",
+      "path": ".cache\\readmes\\fr0st-brutal\\awesome-pascal.md",
+      "bytes": 148336,
+      "depth": 1
+    },
+    {
+      "repo": "ahkscript/awesome-autohotkey",
+      "status": "cached",
+      "path": ".cache\\readmes\\ahkscript\\awesome-autohotkey.md",
+      "bytes": 40670,
+      "depth": 1
+    },
+    {
+      "repo": "j2team/awesome-autoit",
+      "status": "cached",
+      "path": ".cache\\readmes\\j2team\\awesome-autoit.md",
+      "bytes": 46929,
+      "depth": 1
+    },
+    {
+      "repo": "veelenga/awesome-crystal",
+      "status": "cached",
+      "path": ".cache\\readmes\\veelenga\\awesome-crystal.md",
+      "bytes": 53954,
+      "depth": 1
+    },
+    {
+      "repo": "onqtam/awesome-cmake",
+      "status": "cached",
+      "path": ".cache\\readmes\\onqtam\\awesome-cmake.md",
+      "bytes": 24985,
+      "depth": 1
+    },
+    {
+      "repo": "robinrodricks/awesome-actionscript3",
+      "status": "cached",
+      "path": ".cache\\readmes\\robinrodricks\\awesome-actionscript3.md",
+      "bytes": 50276,
+      "depth": 1
+    },
+    {
+      "repo": "joaomilho/awesome-idris",
+      "status": "cached",
+      "path": ".cache\\readmes\\joaomilho\\awesome-idris.md",
+      "bytes": 7091,
+      "depth": 1
+    },
+    {
+      "repo": "ohenley/awesome-ada",
+      "status": "cached",
+      "path": ".cache\\readmes\\ohenley\\awesome-ada.md",
+      "bytes": 66018,
+      "depth": 1
+    },
+    {
+      "repo": "ebraminio/awesome-qsharp",
+      "status": "cached",
+      "path": ".cache\\readmes\\ebraminio\\awesome-qsharp.md",
+      "bytes": 8232,
+      "depth": 1
+    },
+    {
+      "repo": "koolamusic/awesome-imba",
+      "status": "cached",
+      "path": ".cache\\readmes\\koolamusic\\awesome-imba.md",
+      "bytes": 12009,
+      "depth": 1
+    },
+    {
+      "repo": "desiderantes/awesome-vala",
+      "status": "cached",
+      "path": ".cache\\readmes\\desiderantes\\awesome-vala.md",
+      "bytes": 12530,
+      "depth": 1
+    },
+    {
+      "repo": "coq-community/awesome-coq",
+      "status": "cached",
+      "path": ".cache\\readmes\\coq-community\\awesome-coq.md",
+      "bytes": 31391,
+      "depth": 1
+    },
+    {
+      "repo": "vlang/awesome-v",
+      "status": "cached",
+      "path": ".cache\\readmes\\vlang\\awesome-v.md",
+      "bytes": 36924,
+      "depth": 1
+    },
+    {
+      "repo": "mystenlabs/awesome-move",
+      "status": "cached",
+      "path": ".cache\\readmes\\mystenlabs\\awesome-move.md",
+      "bytes": 24703,
+      "depth": 1
+    },
+    {
+      "repo": "angrykoala/awesome-esolangs",
+      "status": "cached",
+      "path": ".cache\\readmes\\angrykoala\\awesome-esolangs.md",
+      "bytes": 12166,
+      "depth": 1
+    },
+    {
+      "repo": "sancarn/awesome-vba",
+      "status": "cached",
+      "path": ".cache\\readmes\\sancarn\\awesome-vba.md",
+      "bytes": 50865,
+      "depth": 1
+    },
+    {
+      "repo": "fsprojects/awesome-fsharp",
+      "status": "cached",
+      "path": ".cache\\readmes\\fsprojects\\awesome-fsharp.md",
+      "bytes": 31297,
+      "depth": 1
+    },
+    {
+      "repo": "davidsonfellipe/awesome-wpo",
+      "status": "cached",
+      "path": ".cache\\readmes\\davidsonfellipe\\awesome-wpo.md",
+      "bytes": 48228,
+      "depth": 1
+    },
+    {
+      "repo": "awesome-css-group/awesome-css",
+      "status": "cached",
+      "path": ".cache\\readmes\\awesome-css-group\\awesome-css.md",
+      "bytes": 26457,
+      "depth": 1
+    },
+    {
+      "repo": "troxler/awesome-css-frameworks",
+      "status": "cached",
+      "path": ".cache\\readmes\\troxler\\awesome-css-frameworks.md",
+      "bytes": 17407,
+      "depth": 1
+    },
+    {
+      "repo": "enaqx/awesome-react",
+      "status": "cached",
+      "path": ".cache\\readmes\\enaqx\\awesome-react.md",
+      "bytes": 17800,
+      "depth": 1
+    },
+    {
+      "repo": "expede/awesome-relay",
+      "status": "cached",
+      "path": ".cache\\readmes\\expede\\awesome-relay.md",
+      "bytes": 11070,
+      "depth": 1
+    },
+    {
+      "repo": "glauberfc/awesome-react-hooks",
+      "status": "cached",
+      "path": ".cache\\readmes\\glauberfc\\awesome-react-hooks.md",
+      "bytes": 7831,
+      "depth": 1
+    },
+    {
+      "repo": "web-padawan/awesome-web-components",
+      "status": "cached",
+      "path": ".cache\\readmes\\web-padawan\\awesome-web-components.md",
+      "bytes": 68816,
+      "depth": 1
+    },
+    {
+      "repo": "granze/awesome-polymer",
+      "status": "cached",
+      "path": ".cache\\readmes\\granze\\awesome-polymer.md",
+      "bytes": 11230,
+      "depth": 1
+    },
+    {
+      "repo": "patrickjs/awesome-angular",
+      "status": "cached",
+      "path": ".cache\\readmes\\patrickjs\\awesome-angular.md",
+      "bytes": 304070,
+      "depth": 1
+    },
+    {
+      "repo": "sadcitizen/awesome-backbone",
+      "status": "cached",
+      "path": ".cache\\readmes\\sadcitizen\\awesome-backbone.md",
+      "bytes": 14941,
+      "depth": 1
+    },
+    {
+      "repo": "diegocard/awesome-html5",
+      "status": "cached",
+      "path": ".cache\\readmes\\diegocard\\awesome-html5.md",
+      "bytes": 20388,
+      "depth": 1
+    },
+    {
+      "repo": "willianjusten/awesome-svg",
+      "status": "cached",
+      "path": ".cache\\readmes\\willianjusten\\awesome-svg.md",
+      "bytes": 2691,
+      "depth": 1
+    },
+    {
+      "repo": "raphamorim/awesome-canvas",
+      "status": "cached",
+      "path": ".cache\\readmes\\raphamorim\\awesome-canvas.md",
+      "bytes": 18528,
+      "depth": 1
+    },
+    {
+      "repo": "dnbard/awesome-knockout",
+      "status": "cached",
+      "path": ".cache\\readmes\\dnbard\\awesome-knockout.md",
+      "bytes": 4388,
+      "depth": 1
+    },
+    {
+      "repo": "petk/awesome-dojo",
+      "status": "cached",
+      "path": ".cache\\readmes\\petk\\awesome-dojo.md",
+      "bytes": 14529,
+      "depth": 1
+    },
+    {
+      "repo": "ember-community-russia/awesome-ember",
+      "status": "cached",
+      "path": ".cache\\readmes\\ember-community-russia\\awesome-ember.md",
+      "bytes": 114316,
+      "depth": 1
+    },
+    {
+      "repo": "wasabeef/awesome-android-ui",
+      "status": "cached",
+      "path": ".cache\\readmes\\wasabeef\\awesome-android-ui.md",
+      "bytes": 63638,
+      "depth": 1
+    },
+    {
+      "repo": "cjwirth/awesome-ios-ui",
+      "status": "cached",
+      "path": ".cache\\readmes\\cjwirth\\awesome-ios-ui.md",
+      "bytes": 26956,
+      "depth": 1
+    },
+    {
+      "repo": "urigo/awesome-meteor",
+      "status": "cached",
+      "path": ".cache\\readmes\\urigo\\awesome-meteor.md",
+      "bytes": 23914,
+      "depth": 1
+    },
+    {
+      "repo": "afonsopacifer/awesome-flexbox",
+      "status": "cached",
+      "path": ".cache\\readmes\\afonsopacifer\\awesome-flexbox.md",
+      "bytes": 14903,
+      "depth": 1
+    },
+    {
+      "repo": "brunopulis/awesome-a11y",
+      "status": "cached",
+      "path": ".cache\\readmes\\brunopulis\\awesome-a11y.md",
+      "bytes": 2617,
+      "depth": 1
+    },
+    {
+      "repo": "sachin1092/awesome-material",
+      "status": "cached",
+      "path": ".cache\\readmes\\sachin1092\\awesome-material.md",
+      "bytes": 7982,
+      "depth": 1
+    },
+    {
+      "repo": "wbkd/awesome-d3",
+      "status": "cached",
+      "path": ".cache\\readmes\\wbkd\\awesome-d3.md",
+      "bytes": 15967,
+      "depth": 1
+    },
+    {
+      "repo": "jonathandion/awesome-emails",
+      "status": "cached",
+      "path": ".cache\\readmes\\jonathandion\\awesome-emails.md",
+      "bytes": 19586,
+      "depth": 1
+    },
+    {
+      "repo": "petk/awesome-jquery",
+      "status": "cached",
+      "path": ".cache\\readmes\\petk\\awesome-jquery.md",
+      "bytes": 27436,
+      "depth": 1
+    },
+    {
+      "repo": "notthetup/awesome-webaudio",
+      "status": "cached",
+      "path": ".cache\\readmes\\notthetup\\awesome-webaudio.md",
+      "bytes": 16014,
+      "depth": 1
+    },
+    {
+      "repo": "agarrharr/awesome-static-website-services",
+      "status": "cached",
+      "path": ".cache\\readmes\\agarrharr\\awesome-static-website-services.md",
+      "bytes": 19605,
+      "depth": 1
+    },
+    {
+      "repo": "cyclejs-community/awesome-cyclejs",
+      "status": "cached",
+      "path": ".cache\\readmes\\cyclejs-community\\awesome-cyclejs.md",
+      "bytes": 21095,
+      "depth": 1
+    },
+    {
+      "repo": "dok/awesome-text-editing",
+      "status": "cached",
+      "path": ".cache\\readmes\\dok\\awesome-text-editing.md",
+      "bytes": 5171,
+      "depth": 1
+    },
+    {
+      "repo": "vuejs/awesome-vue",
+      "status": "cached",
+      "path": ".cache\\readmes\\vuejs\\awesome-vue.md",
+      "bytes": 147472,
+      "depth": 1
+    },
+    {
+      "repo": "sadcitizen/awesome-marionette",
+      "status": "cached",
+      "path": ".cache\\readmes\\sadcitizen\\awesome-marionette.md",
+      "bytes": 11220,
+      "depth": 1
+    },
+    {
+      "repo": "aurelia-contrib/awesome-aurelia",
+      "status": "cached",
+      "path": ".cache\\readmes\\aurelia-contrib\\awesome-aurelia.md",
+      "bytes": 28685,
+      "depth": 1
+    },
+    {
+      "repo": "zingchart/awesome-charting",
+      "status": "cached",
+      "path": ".cache\\readmes\\zingchart\\awesome-charting.md",
+      "bytes": 9366,
+      "depth": 1
+    },
+    {
+      "repo": "candelibas/awesome-ionic",
+      "status": "cached",
+      "path": ".cache\\readmes\\candelibas\\awesome-ionic.md",
+      "bytes": 33957,
+      "depth": 1
+    },
+    {
+      "repo": "chromedevtools/awesome-chrome-devtools",
+      "status": "cached",
+      "path": ".cache\\readmes\\chromedevtools\\awesome-chrome-devtools.md",
+      "bytes": 13747,
+      "depth": 1
+    },
+    {
+      "repo": "jdrgomes/awesome-postcss",
+      "status": "cached",
+      "path": ".cache\\readmes\\jdrgomes\\awesome-postcss.md",
+      "bytes": 2116,
+      "depth": 1
+    },
+    {
+      "repo": "nikgraf/awesome-draft-js",
+      "status": "cached",
+      "path": ".cache\\readmes\\nikgraf\\awesome-draft-js.md",
+      "bytes": 12120,
+      "depth": 1
+    },
+    {
+      "repo": "talater/awesome-service-workers",
+      "status": "cached",
+      "path": ".cache\\readmes\\talater\\awesome-service-workers.md",
+      "bytes": 6651,
+      "depth": 1
+    },
+    {
+      "repo": "talater/awesome-progressive-web-apps",
+      "status": "cached",
+      "path": ".cache\\readmes\\talater\\awesome-progressive-web-apps.md",
+      "bytes": 9947,
+      "depth": 1
+    },
+    {
+      "repo": "choojs/awesome-choo",
+      "status": "cached",
+      "path": ".cache\\readmes\\choojs\\awesome-choo.md",
+      "bytes": 8168,
+      "depth": 1
+    },
+    {
+      "repo": "brillout/awesome-redux",
+      "status": "cached",
+      "path": ".cache\\readmes\\brillout\\awesome-redux.md",
+      "bytes": 13336,
+      "depth": 1
+    },
+    {
+      "repo": "browserify/awesome-browserify",
+      "status": "cached",
+      "path": ".cache\\readmes\\browserify\\awesome-browserify.md",
+      "bytes": 5905,
+      "depth": 1
+    },
+    {
+      "repo": "famolus/awesome-sass",
+      "status": "cached",
+      "path": ".cache\\readmes\\famolus\\awesome-sass.md",
+      "bytes": 16580,
+      "depth": 1
+    },
+    {
+      "repo": "websemantics/awesome-ant-design",
+      "status": "cached",
+      "path": ".cache\\readmes\\websemantics\\awesome-ant-design.md",
+      "bytes": 19923,
+      "depth": 1
+    },
+    {
+      "repo": "lucasbassetti/awesome-less",
+      "status": "cached",
+      "path": ".cache\\readmes\\lucasbassetti\\awesome-less.md",
+      "bytes": 20405,
+      "depth": 1
+    },
+    {
+      "repo": "sjfricke/awesome-webgl",
+      "status": "cached",
+      "path": ".cache\\readmes\\sjfricke\\awesome-webgl.md",
+      "bytes": 25026,
+      "depth": 1
+    },
+    {
+      "repo": "preactjs/awesome-preact",
+      "status": "cached",
+      "path": ".cache\\readmes\\preactjs\\awesome-preact.md",
+      "bytes": 20739,
+      "depth": 1
+    },
+    {
+      "repo": "unicodeveloper/awesome-nextjs",
+      "status": "cached",
+      "path": ".cache\\readmes\\unicodeveloper\\awesome-nextjs.md",
+      "bytes": 32048,
+      "depth": 1
+    },
+    {
+      "repo": "web-padawan/awesome-lit",
+      "status": "cached",
+      "path": ".cache\\readmes\\web-padawan\\awesome-lit.md",
+      "bytes": 28297,
+      "depth": 1
+    },
+    {
+      "repo": "automata/awesome-jamstack",
+      "status": "cached",
+      "path": ".cache\\readmes\\automata\\awesome-jamstack.md",
+      "bytes": 23774,
+      "depth": 1
+    },
+    {
+      "repo": "henrikwirth/awesome-wordpress-gatsby",
+      "status": "cached",
+      "path": ".cache\\readmes\\henrikwirth\\awesome-wordpress-gatsby.md",
+      "bytes": 17846,
+      "depth": 1
+    },
+    {
+      "repo": "myshov/awesome-mobile-web-development",
+      "status": "cached",
+      "path": ".cache\\readmes\\myshov\\awesome-mobile-web-development.md",
+      "bytes": 15574,
+      "depth": 1
+    },
+    {
+      "repo": "lauthieb/awesome-storybook",
+      "status": "cached",
+      "path": ".cache\\readmes\\lauthieb\\awesome-storybook.md",
+      "bytes": 4824,
+      "depth": 1
+    },
+    {
+      "repo": "adrientorris/awesome-blazor",
+      "status": "cached",
+      "path": ".cache\\readmes\\adrientorris\\awesome-blazor.md",
+      "bytes": 178465,
+      "depth": 1
+    },
+    {
+      "repo": "csabapalfi/awesome-pagespeed-metrics",
+      "status": "cached",
+      "path": ".cache\\readmes\\csabapalfi\\awesome-pagespeed-metrics.md",
+      "bytes": 16335,
+      "depth": 1
+    },
+    {
+      "repo": "aniftyco/awesome-tailwindcss",
+      "status": "cached",
+      "path": ".cache\\readmes\\aniftyco\\awesome-tailwindcss.md",
+      "bytes": 10838,
+      "depth": 1
+    },
+    {
+      "repo": "seed-rs/awesome-seed-rs",
+      "status": "cached",
+      "path": ".cache\\readmes\\seed-rs\\awesome-seed-rs.md",
+      "bytes": 5443,
+      "depth": 1
+    },
+    {
+      "repo": "pajaydev/awesome-web-performance-budget",
+      "status": "cached",
+      "path": ".cache\\readmes\\pajaydev\\awesome-web-performance-budget.md",
+      "bytes": 11150,
+      "depth": 1
+    },
+    {
+      "repo": "sergey-pimenov/awesome-web-animation",
+      "status": "cached",
+      "path": ".cache\\readmes\\sergey-pimenov\\awesome-web-animation.md",
+      "bytes": 15094,
+      "depth": 1
+    },
+    {
+      "repo": "jetli/awesome-yew",
+      "status": "cached",
+      "path": ".cache\\readmes\\jetli\\awesome-yew.md",
+      "bytes": 29635,
+      "depth": 1
+    },
+    {
+      "repo": "nadunindunil/awesome-material-ui",
+      "status": "cached",
+      "path": ".cache\\readmes\\nadunindunil\\awesome-material-ui.md",
+      "bytes": 9936,
+      "depth": 1
+    },
+    {
+      "repo": "componently-com/awesome-building-blocks-for-web-apps",
+      "status": "cached",
+      "path": ".cache\\readmes\\componently-com\\awesome-building-blocks-for-web-apps.md",
+      "bytes": 11408,
+      "depth": 1
+    },
+    {
+      "repo": "thecomputerm/awesome-svelte",
+      "status": "cached",
+      "path": ".cache\\readmes\\thecomputerm\\awesome-svelte.md",
+      "bytes": 28595,
+      "depth": 1
+    },
+    {
+      "repo": "klaufel/awesome-design-systems",
+      "status": "cached",
+      "path": ".cache\\readmes\\klaufel\\awesome-design-systems.md",
+      "bytes": 17903,
+      "depth": 1
+    },
+    {
+      "repo": "innocenzi/awesome-inertiajs",
+      "status": "cached",
+      "path": ".cache\\readmes\\innocenzi\\awesome-inertiajs.md",
+      "bytes": 3432,
+      "depth": 1
+    },
+    {
+      "repo": "mdbootstrap/awesome-mdbootstrap",
+      "status": "cached",
+      "path": ".cache\\readmes\\mdbootstrap\\awesome-mdbootstrap.md",
+      "bytes": 11791,
+      "depth": 1
+    },
+    {
+      "repo": "master-co/awesome-master-css",
+      "status": "cached",
+      "path": ".cache\\readmes\\master-co\\awesome-master-css.md",
+      "bytes": 3785,
+      "depth": 1
+    },
+    {
+      "repo": "shopify/awesome-hydrogen",
+      "status": "cached",
+      "path": ".cache\\readmes\\shopify\\awesome-hydrogen.md",
+      "bytes": 3593,
+      "depth": 1
+    },
+    {
+      "repo": "thoughtspile/awesome-tiny-js",
+      "status": "cached",
+      "path": ".cache\\readmes\\thoughtspile\\awesome-tiny-js.md",
+      "bytes": 21762,
+      "depth": 1
+    },
+    {
+      "repo": "joewdavies/awesome-frontend-gis",
+      "status": "cached",
+      "path": ".cache\\readmes\\joewdavies\\awesome-frontend-gis.md",
+      "bytes": 33772,
+      "depth": 1
+    },
+    {
+      "repo": "mikbry/awesome-webgpu",
+      "status": "cached",
+      "path": ".cache\\readmes\\mikbry\\awesome-webgpu.md",
+      "bytes": 21144,
+      "depth": 1
+    },
+    {
+      "repo": "idematos/awesome-webassembly",
+      "status": "cached",
+      "path": ".cache\\readmes\\idematos\\awesome-webassembly.md",
+      "bytes": 6152,
+      "depth": 1
+    },
+    {
+      "repo": "mjhea0/awesome-flask",
+      "status": "cached",
+      "path": ".cache\\readmes\\mjhea0\\awesome-flask.md",
+      "bytes": 23134,
+      "depth": 1
+    },
+    {
+      "repo": "veggiemonk/awesome-docker",
+      "status": "cached",
+      "path": ".cache\\readmes\\veggiemonk\\awesome-docker.md",
+      "bytes": 66194,
+      "depth": 1
+    },
+    {
+      "repo": "ijackua/awesome-vagrant",
+      "status": "cached",
+      "path": ".cache\\readmes\\ijackua\\awesome-vagrant.md",
+      "bytes": 9184,
+      "depth": 1
+    },
+    {
+      "repo": "uralbash/awesome-pyramid",
+      "status": "cached",
+      "path": ".cache\\readmes\\uralbash\\awesome-pyramid.md",
+      "bytes": 26438,
+      "depth": 1
+    },
+    {
+      "repo": "perfectcarl/awesome-play1",
+      "status": "cached",
+      "path": ".cache\\readmes\\perfectcarl\\awesome-play1.md",
+      "bytes": 62849,
+      "depth": 1
+    },
+    {
+      "repo": "friendsofcake/awesome-cakephp",
+      "status": "cached",
+      "path": ".cache\\readmes\\friendsofcake\\awesome-cakephp.md",
+      "bytes": 30686,
+      "depth": 1
+    },
+    {
+      "repo": "sitepoint-editors/awesome-symfony",
+      "status": "cached",
+      "path": ".cache\\readmes\\sitepoint-editors\\awesome-symfony.md",
+      "bytes": 33217,
+      "depth": 1
+    },
+    {
+      "repo": "pehapkari/awesome-symfony-education",
+      "status": "cached",
+      "path": ".cache\\readmes\\pehapkari\\awesome-symfony-education.md",
+      "bytes": 6676,
+      "depth": 1
+    },
+    {
+      "repo": "chiraggude/awesome-laravel",
+      "status": "cached",
+      "path": ".cache\\readmes\\chiraggude\\awesome-laravel.md",
+      "bytes": 41524,
+      "depth": 1
+    },
+    {
+      "repo": "fukuball/awesome-laravel-education",
+      "status": "cached",
+      "path": ".cache\\readmes\\fukuball\\awesome-laravel-education.md",
+      "bytes": 20750,
+      "depth": 1
+    },
+    {
+      "repo": "gramantin/awesome-rails",
+      "status": "cached",
+      "path": ".cache\\readmes\\gramantin\\awesome-rails.md",
+      "bytes": 61870,
+      "depth": 1
+    },
+    {
+      "repo": "hothero/awesome-rails-gem",
+      "status": "cached",
+      "path": ".cache\\readmes\\hothero\\awesome-rails-gem.md",
+      "bytes": 24107,
+      "depth": 1
+    },
+    {
+      "repo": "phalcon/awesome-phalcon",
+      "status": "cached",
+      "path": ".cache\\readmes\\phalcon\\awesome-phalcon.md",
+      "bytes": 13108,
+      "depth": 1
+    },
+    {
+      "repo": "stve/awesome-dropwizard",
+      "status": "cached",
+      "path": ".cache\\readmes\\stve\\awesome-dropwizard.md",
+      "bytes": 9370,
+      "depth": 1
+    },
+    {
+      "repo": "ramitsurana/awesome-kubernetes",
+      "status": "missing",
+      "error": "README not found (403)",
+      "depth": 1
+    },
+    {
+      "repo": "unicodeveloper/awesome-lumen",
+      "status": "cached",
+      "path": ".cache\\readmes\\unicodeveloper\\awesome-lumen.md",
+      "bytes": 6767,
+      "depth": 1
+    },
+    {
+      "repo": "pmuens/awesome-serverless",
+      "status": "cached",
+      "path": ".cache\\readmes\\pmuens\\awesome-serverless.md",
+      "bytes": 15433,
+      "depth": 1
+    },
+    {
+      "repo": "phantomydn/awesome-wicket",
+      "status": "cached",
+      "path": ".cache\\readmes\\phantomydn\\awesome-wicket.md",
+      "bytes": 16443,
+      "depth": 1
+    },
+    {
+      "repo": "shuaibiyy/awesome-terraform",
+      "status": "cached",
+      "path": ".cache\\readmes\\shuaibiyy\\awesome-terraform.md",
+      "bytes": 74619,
+      "depth": 1
+    },
+    {
+      "repo": "vapor-community/awesome-vapor",
+      "status": "cached",
+      "path": ".cache\\readmes\\vapor-community\\awesome-vapor.md",
+      "bytes": 11632,
+      "depth": 1
+    },
+    {
+      "repo": "ucg8j/awesome-dash",
+      "status": "cached",
+      "path": ".cache\\readmes\\ucg8j\\awesome-dash.md",
+      "bytes": 10787,
+      "depth": 1
+    },
+    {
+      "repo": "mjhea0/awesome-fastapi",
+      "status": "cached",
+      "path": ".cache\\readmes\\mjhea0\\awesome-fastapi.md",
+      "bytes": 32418,
+      "depth": 1
+    },
+    {
+      "repo": "kolomied/awesome-cdk",
+      "status": "cached",
+      "path": ".cache\\readmes\\kolomied\\awesome-cdk.md",
+      "bytes": 20200,
+      "depth": 1
+    },
+    {
+      "repo": "kdeldycke/awesome-iam",
+      "status": "cached",
+      "path": ".cache\\readmes\\kdeldycke\\awesome-iam.md",
+      "bytes": 65785,
+      "depth": 1
+    },
+    {
+      "repo": "nekofar/awesome-slim",
+      "status": "cached",
+      "path": ".cache\\readmes\\nekofar\\awesome-slim.md",
+      "bytes": 4505,
+      "depth": 1
+    },
+    {
+      "repo": "gofiber/awesome-fiber",
+      "status": "cached",
+      "path": ".cache\\readmes\\gofiber\\awesome-fiber.md",
+      "bytes": 23591,
+      "depth": 1
+    },
+    {
+      "repo": "devopshivehq/awesome-kustomize",
+      "status": "cached",
+      "path": ".cache\\readmes\\devopshivehq\\awesome-kustomize.md",
+      "bytes": 8146,
+      "depth": 1
+    },
+    {
+      "repo": "virtualroot/awesome-opentofu",
+      "status": "cached",
+      "path": ".cache\\readmes\\virtualroot\\awesome-opentofu.md",
+      "bytes": 12671,
+      "depth": 1
+    },
+    {
+      "repo": "reflex-dev/awesome-reflex",
+      "status": "cached",
+      "path": ".cache\\readmes\\reflex-dev\\awesome-reflex.md",
+      "bytes": 11181,
+      "depth": 1
+    },
+    {
+      "repo": "prakhar1989/awesome-courses",
+      "status": "cached",
+      "path": ".cache\\readmes\\prakhar1989\\awesome-courses.md",
+      "bytes": 236928,
+      "depth": 1
+    },
+    {
+      "repo": "academic/awesome-datascience",
+      "status": "cached",
+      "path": ".cache\\readmes\\academic\\awesome-datascience.md",
+      "bytes": 128885,
+      "depth": 1
+    },
+    {
+      "repo": "siboehm/awesome-learn-datascience",
+      "status": "cached",
+      "path": ".cache\\readmes\\siboehm\\awesome-learn-datascience.md",
+      "bytes": 7144,
+      "depth": 1
+    },
+    {
+      "repo": "josephmisiti/awesome-machine-learning",
+      "status": "cached",
+      "path": ".cache\\readmes\\josephmisiti\\awesome-machine-learning.md",
+      "bytes": 213624,
+      "depth": 1
+    },
+    {
+      "repo": "likedan/awesome-coreml-models",
+      "status": "cached",
+      "path": ".cache\\readmes\\likedan\\awesome-coreml-models.md",
+      "bytes": 15466,
+      "depth": 1
+    },
+    {
+      "repo": "h2oai/awesome-h2o",
+      "status": "cached",
+      "path": ".cache\\readmes\\h2oai\\awesome-h2o.md",
+      "bytes": 21130,
+      "depth": 1
+    },
+    {
+      "repo": "se-ml/awesome-seml",
+      "status": "cached",
+      "path": ".cache\\readmes\\se-ml\\awesome-seml.md",
+      "bytes": 13240,
+      "depth": 1
+    },
+    {
+      "repo": "georgezouq/awesome-ai-in-finance",
+      "status": "cached",
+      "path": ".cache\\readmes\\georgezouq\\awesome-ai-in-finance.md",
+      "bytes": 36387,
+      "depth": 1
+    },
+    {
+      "repo": "n2cholas/awesome-jax",
+      "status": "cached",
+      "path": ".cache\\readmes\\n2cholas\\awesome-jax.md",
+      "bytes": 48689,
+      "depth": 1
+    },
+    {
+      "repo": "altamiracorp/awesome-xai",
+      "status": "cached",
+      "path": ".cache\\readmes\\altamiracorp\\awesome-xai.md",
+      "bytes": 15716,
+      "depth": 1
+    },
+    {
+      "repo": "dav009/awesome-spanish-nlp",
+      "status": "cached",
+      "path": ".cache\\readmes\\dav009\\awesome-spanish-nlp.md",
+      "bytes": 7078,
+      "depth": 1
+    },
+    {
+      "repo": "seriousran/awesome-qa",
+      "status": "cached",
+      "path": ".cache\\readmes\\seriousran\\awesome-qa.md",
+      "bytes": 30717,
+      "depth": 1
+    },
+    {
+      "repo": "accelerated-text/awesome-nlg",
+      "status": "cached",
+      "path": ".cache\\readmes\\accelerated-text\\awesome-nlg.md",
+      "bytes": 12823,
+      "depth": 1
+    },
+    {
+      "repo": "theimpossibleastronaut/awesome-linguistics",
+      "status": "cached",
+      "path": ".cache\\readmes\\theimpossibleastronaut\\awesome-linguistics.md",
+      "bytes": 9512,
+      "depth": 1
+    },
+    {
+      "repo": "sobolevn/awesome-cryptography",
+      "status": "cached",
+      "path": ".cache\\readmes\\sobolevn\\awesome-cryptography.md",
+      "bytes": 45790,
+      "depth": 1
+    },
+    {
+      "repo": "pfarb/awesome-crypto-papers",
+      "status": "cached",
+      "path": ".cache\\readmes\\pfarb\\awesome-crypto-papers.md",
+      "bytes": 23942,
+      "depth": 1
+    },
+    {
+      "repo": "jbhuang0604/awesome-computer-vision",
+      "status": "cached",
+      "path": ".cache\\readmes\\jbhuang0604\\awesome-computer-vision.md",
+      "bytes": 59890,
+      "depth": 1
+    },
+    {
+      "repo": "christoschristofidis/awesome-deep-learning",
+      "status": "cached",
+      "path": ".cache\\readmes\\christoschristofidis\\awesome-deep-learning.md",
+      "bytes": 72339,
+      "depth": 1
+    },
+    {
+      "repo": "jtoy/awesome-tensorflow",
+      "status": "cached",
+      "path": ".cache\\readmes\\jtoy\\awesome-tensorflow.md",
+      "bytes": 31108,
+      "depth": 1
+    },
+    {
+      "repo": "aaronhma/awesome-tensorflow-js",
+      "status": "cached",
+      "path": ".cache\\readmes\\aaronhma\\awesome-tensorflow-js.md",
+      "bytes": 9869,
+      "depth": 1
+    },
+    {
+      "repo": "margaretmz/awesome-tensorflow-lite",
+      "status": "cached",
+      "path": ".cache\\readmes\\margaretmz\\awesome-tensorflow-lite.md",
+      "bytes": 41790,
+      "depth": 1
+    },
+    {
+      "repo": "terryum/awesome-deep-learning-papers",
+      "status": "cached",
+      "path": ".cache\\readmes\\terryum\\awesome-deep-learning-papers.md",
+      "bytes": 44838,
+      "depth": 1
+    },
+    {
+      "repo": "guillaume-chevalier/awesome-deep-learning-resources",
+      "status": "cached",
+      "path": ".cache\\readmes\\guillaume-chevalier\\awesome-deep-learning-resources.md",
+      "bytes": 34476,
+      "depth": 1
+    },
+    {
+      "repo": "kjw0612/awesome-deep-vision",
+      "status": "cached",
+      "path": ".cache\\readmes\\kjw0612\\awesome-deep-vision.md",
+      "bytes": 47145,
+      "depth": 1
+    },
+    {
+      "repo": "lucasviola/awesome-functional-programming",
+      "status": "cached",
+      "path": ".cache\\readmes\\lucasviola\\awesome-functional-programming.md",
+      "bytes": 13930,
+      "depth": 1
+    },
+    {
+      "repo": "dspinellis/awesome-msr",
+      "status": "cached",
+      "path": ".cache\\readmes\\dspinellis\\awesome-msr.md",
+      "bytes": 12508,
+      "depth": 1
+    },
+    {
+      "repo": "harpribot/awesome-information-retrieval",
+      "status": "cached",
+      "path": ".cache\\readmes\\harpribot\\awesome-information-retrieval.md",
+      "bytes": 19095,
+      "depth": 1
+    },
+    {
+      "repo": "desireevl/awesome-quantum-computing",
+      "status": "cached",
+      "path": ".cache\\readmes\\desireevl\\awesome-quantum-computing.md",
+      "bytes": 25357,
+      "depth": 1
+    },
+    {
+      "repo": "mostafatouny/awesome-theoretical-computer-science",
+      "status": "cached",
+      "path": ".cache\\readmes\\mostafatouny\\awesome-theoretical-computer-science.md",
+      "bytes": 69526,
+      "depth": 1
+    },
+    {
+      "repo": "jyguyomarch/awesome-conversational-ai",
+      "status": "cached",
+      "path": ".cache\\readmes\\jyguyomarch\\awesome-conversational-ai.md",
+      "bytes": 5589,
+      "depth": 1
+    },
+    {
+      "repo": "steven2358/awesome-generative-ai",
+      "status": "cached",
+      "path": ".cache\\readmes\\steven2358\\awesome-generative-ai.md",
+      "bytes": 51633,
+      "depth": 1
+    },
+    {
+      "repo": "renaller/awesome-position-based-quantum-cryptography",
+      "status": "cached",
+      "path": ".cache\\readmes\\renaller\\awesome-position-based-quantum-cryptography.md",
+      "bytes": 21314,
+      "depth": 1
+    },
+    {
+      "repo": "0xnr/awesome-bigdata",
+      "status": "missing",
+      "error": "README not found (403)",
+      "depth": 1
+    },
+    {
+      "repo": "awesomedata/awesome-public-datasets",
+      "status": "missing",
+      "error": "README not found (403)",
+      "depth": 1
+    },
+    {
+      "repo": "youngwookim/awesome-hadoop",
+      "status": "cached",
+      "path": ".cache\\readmes\\youngwookim\\awesome-hadoop.md",
+      "bytes": 20275,
+      "depth": 1
+    },
+    {
+      "repo": "igorbarinov/awesome-data-engineering",
+      "status": "cached",
+      "path": ".cache\\readmes\\igorbarinov\\awesome-data-engineering.md",
+      "bytes": 48904,
+      "depth": 1
+    },
+    {
+      "repo": "manuzhang/awesome-streaming",
+      "status": "cached",
+      "path": ".cache\\readmes\\manuzhang\\awesome-streaming.md",
+      "bytes": 25439,
+      "depth": 1
+    },
+    {
+      "repo": "awesome-spark/awesome-spark",
+      "status": "cached",
+      "path": ".cache\\readmes\\awesome-spark\\awesome-spark.md",
+      "bytes": 20554,
+      "depth": 1
+    },
+    {
+      "repo": "ambster-public/awesome-qlik",
+      "status": "cached",
+      "path": ".cache\\readmes\\ambster-public\\awesome-qlik.md",
+      "bytes": 5424,
+      "depth": 1
+    },
+    {
+      "repo": "sduff/awesome-splunk",
+      "status": "cached",
+      "path": ".cache\\readmes\\sduff\\awesome-splunk.md",
+      "bytes": 7690,
+      "depth": 1
+    },
+    {
+      "repo": "briatte/awesome-network-analysis",
+      "status": "cached",
+      "path": ".cache\\readmes\\briatte\\awesome-network-analysis.md",
+      "bytes": 132523,
+      "depth": 1
+    },
+    {
+      "repo": "janvanryswyck/awesome-talks",
+      "status": "cached",
+      "path": ".cache\\readmes\\janvanryswyck\\awesome-talks.md",
+      "bytes": 19892,
+      "depth": 1
+    },
+    {
+      "repo": "tayllan/awesome-algorithms",
+      "status": "cached",
+      "path": ".cache\\readmes\\tayllan\\awesome-algorithms.md",
+      "bytes": 7020,
+      "depth": 1
+    },
+    {
+      "repo": "gaerae/awesome-algorithms-education",
+      "status": "cached",
+      "path": ".cache\\readmes\\gaerae\\awesome-algorithms-education.md",
+      "bytes": 12,
+      "depth": 1
+    },
+    {
+      "repo": "owainlewis/awesome-artificial-intelligence",
+      "status": "cached",
+      "path": ".cache\\readmes\\owainlewis\\awesome-artificial-intelligence.md",
+      "bytes": 11358,
+      "depth": 1
+    },
+    {
+      "repo": "lnishan/awesome-competitive-programming",
+      "status": "cached",
+      "path": ".cache\\readmes\\lnishan\\awesome-competitive-programming.md",
+      "bytes": 53010,
+      "depth": 1
+    },
+    {
+      "repo": "rossant/awesome-math",
+      "status": "cached",
+      "path": ".cache\\readmes\\rossant\\awesome-math.md",
+      "bytes": 51823,
+      "depth": 1
+    },
+    {
+      "repo": "passy/awesome-recursion-schemes",
+      "status": "cached",
+      "path": ".cache\\readmes\\passy\\awesome-recursion-schemes.md",
+      "bytes": 9135,
+      "depth": 1
+    },
+    {
+      "repo": "erwanlemerrer/awesome-audit-algorithms",
+      "status": "cached",
+      "path": ".cache\\readmes\\erwanlemerrer\\awesome-audit-algorithms.md",
+      "bytes": 26501,
+      "depth": 1
+    },
+    {
+      "repo": "yuzheshi/awesome-agi-cocosci",
+      "status": "cached",
+      "path": ".cache\\readmes\\yuzheshi\\awesome-agi-cocosci.md",
+      "bytes": 574873,
+      "depth": 1
+    },
+    {
+      "repo": "sellisd/awesome-complexity",
+      "status": "cached",
+      "path": ".cache\\readmes\\sellisd\\awesome-complexity.md",
+      "bytes": 11023,
+      "depth": 1
+    },
+    {
+      "repo": "gokayfem/awesome-vlm-architectures",
+      "status": "cached",
+      "path": ".cache\\readmes\\gokayfem\\awesome-vlm-architectures.md",
+      "bytes": 325329,
+      "depth": 1
+    },
+    {
+      "repo": "talater/awesome-book-authoring",
+      "status": "cached",
+      "path": ".cache\\readmes\\talater\\awesome-book-authoring.md",
+      "bytes": 6240,
+      "depth": 1
+    },
+    {
+      "repo": "rockerboo/awesome-neovim",
+      "status": "cached",
+      "path": ".cache\\readmes\\rockerboo\\awesome-neovim.md",
+      "bytes": 222314,
+      "depth": 1
+    },
+    {
+      "repo": "emacs-tw/awesome-emacs",
+      "status": "missing",
+      "error": "README not found (403)",
+      "depth": 1
+    },
+    {
+      "repo": "viatsko/awesome-vscode",
+      "status": "cached",
+      "path": ".cache\\readmes\\viatsko\\awesome-vscode.md",
+      "bytes": 75265,
+      "depth": 1
+    },
+    {
+      "repo": "hzoo/awesome-gametalks",
+      "status": "cached",
+      "path": ".cache\\readmes\\hzoo\\awesome-gametalks.md",
+      "bytes": 17236,
+      "depth": 1
+    },
+    {
+      "repo": "godotengine/awesome-godot",
+      "status": "cached",
+      "path": ".cache\\readmes\\godotengine\\awesome-godot.md",
+      "bytes": 49951,
+      "depth": 1
+    },
+    {
+      "repo": "michelpereira/awesome-open-source-games",
+      "status": "cached",
+      "path": ".cache\\readmes\\michelpereira\\awesome-open-source-games.md",
+      "bytes": 58347,
+      "depth": 1
+    },
+    {
+      "repo": "ryannielson/awesome-unity",
+      "status": "cached",
+      "path": ".cache\\readmes\\ryannielson\\awesome-unity.md",
+      "bytes": 13039,
+      "depth": 1
+    },
+    {
+      "repo": "hkirat/awesome-chess",
+      "status": "cached",
+      "path": ".cache\\readmes\\hkirat\\awesome-chess.md",
+      "bytes": 6816,
+      "depth": 1
+    },
+    {
+      "repo": "love2d-community/awesome-love2d",
+      "status": "cached",
+      "path": ".cache\\readmes\\love2d-community\\awesome-love2d.md",
+      "bytes": 40052,
+      "depth": 1
+    },
+    {
+      "repo": "pico-8/awesome-pico-8",
+      "status": "cached",
+      "path": ".cache\\readmes\\pico-8\\awesome-pico-8.md",
+      "bytes": 14194,
+      "depth": 1
+    },
+    {
+      "repo": "gbdev/awesome-gbdev",
+      "status": "cached",
+      "path": ".cache\\readmes\\gbdev\\awesome-gbdev.md",
+      "bytes": 51533,
+      "depth": 1
+    },
+    {
+      "repo": "constructcommunity/awesome-construct",
+      "status": "cached",
+      "path": ".cache\\readmes\\constructcommunity\\awesome-construct.md",
+      "bytes": 12055,
+      "depth": 1
+    },
+    {
+      "repo": "stetso/awesome-gideros",
+      "status": "cached",
+      "path": ".cache\\readmes\\stetso\\awesome-gideros.md",
+      "bytes": 10800,
+      "depth": 1
+    },
+    {
+      "repo": "bs-community/awesome-minecraft",
+      "status": "cached",
+      "path": ".cache\\readmes\\bs-community\\awesome-minecraft.md",
+      "bytes": 22614,
+      "depth": 1
+    },
+    {
+      "repo": "tomodachi94/awesome-computercraft",
+      "status": "cached",
+      "path": ".cache\\readmes\\tomodachi94\\awesome-computercraft.md",
+      "bytes": 21718,
+      "depth": 1
+    },
+    {
+      "repo": "dvergar/awesome-haxe-gamedev",
+      "status": "cached",
+      "path": ".cache\\readmes\\dvergar\\awesome-haxe-gamedev.md",
+      "bytes": 13807,
+      "depth": 1
+    },
+    {
+      "repo": "rafaskb/awesome-libgdx",
+      "status": "cached",
+      "path": ".cache\\readmes\\rafaskb\\awesome-libgdx.md",
+      "bytes": 14656,
+      "depth": 1
+    },
+    {
+      "repo": "playcanvas/awesome-playcanvas",
+      "status": "cached",
+      "path": ".cache\\readmes\\playcanvas\\awesome-playcanvas.md",
+      "bytes": 24483,
+      "depth": 1
+    },
+    {
+      "repo": "radek-sprta/awesome-game-remakes",
+      "status": "cached",
+      "path": ".cache\\readmes\\radek-sprta\\awesome-game-remakes.md",
+      "bytes": 44527,
+      "depth": 1
+    },
+    {
+      "repo": "flame-engine/awesome-flame",
+      "status": "cached",
+      "path": ".cache\\readmes\\flame-engine\\awesome-flame.md",
+      "bytes": 26477,
+      "depth": 1
+    },
+    {
+      "repo": "mhxion/awesome-discord-communities",
+      "status": "cached",
+      "path": ".cache\\readmes\\mhxion\\awesome-discord-communities.md",
+      "bytes": 177612,
+      "depth": 1
+    },
+    {
+      "repo": "tobiasvl/awesome-chip-8",
+      "status": "cached",
+      "path": ".cache\\readmes\\tobiasvl\\awesome-chip-8.md",
+      "bytes": 8199,
+      "depth": 1
+    },
+    {
+      "repo": "michelpereira/awesome-games-of-coding",
+      "status": "cached",
+      "path": ".cache\\readmes\\michelpereira\\awesome-games-of-coding.md",
+      "bytes": 10881,
+      "depth": 1
+    },
+    {
+      "repo": "strift/awesome-esports",
+      "status": "cached",
+      "path": ".cache\\readmes\\strift\\awesome-esports.md",
+      "bytes": 5555,
+      "depth": 1
+    },
+    {
+      "repo": "notpresident35/awesome-learn-gamedev",
+      "status": "cached",
+      "path": ".cache\\readmes\\notpresident35\\awesome-learn-gamedev.md",
+      "bytes": 51046,
+      "depth": 1
+    },
+    {
+      "repo": "stevinz/awesome-game-engine-dev",
+      "status": "cached",
+      "path": ".cache\\readmes\\stevinz\\awesome-game-engine-dev.md",
+      "bytes": 138361,
+      "depth": 1
+    },
+    {
+      "repo": "bytecauldron/awesome-gamemaker",
+      "status": "cached",
+      "path": ".cache\\readmes\\bytecauldron\\awesome-gamemaker.md",
+      "bytes": 51863,
+      "depth": 1
+    },
+    {
+      "repo": "vhladiienko/awesome-game-production",
+      "status": "cached",
+      "path": ".cache\\readmes\\vhladiienko\\awesome-game-production.md",
+      "bytes": 29487,
+      "depth": 1
+    },
+    {
+      "repo": "symbitic/awesome-babylonjs",
+      "status": "cached",
+      "path": ".cache\\readmes\\symbitic\\awesome-babylonjs.md",
+      "bytes": 43361,
+      "depth": 1
+    },
+    {
+      "repo": "awesome-roblox/awesome-roblox",
+      "status": "cached",
+      "path": ".cache\\readmes\\awesome-roblox\\awesome-roblox.md",
+      "bytes": 8593,
+      "depth": 1
+    },
+    {
+      "repo": "jondot/awesome-devenv",
+      "status": "cached",
+      "path": ".cache\\readmes\\jondot\\awesome-devenv.md",
+      "bytes": 15929,
+      "depth": 1
+    },
+    {
+      "repo": "webpro/awesome-dotfiles",
+      "status": "cached",
+      "path": ".cache\\readmes\\webpro\\awesome-dotfiles.md",
+      "bytes": 17897,
+      "depth": 1
+    },
+    {
+      "repo": "alebcay/awesome-shell",
+      "status": "cached",
+      "path": ".cache\\readmes\\alebcay\\awesome-shell.md",
+      "bytes": 44296,
+      "depth": 1
+    },
+    {
+      "repo": "agarrharr/awesome-cli-apps",
+      "status": "cached",
+      "path": ".cache\\readmes\\agarrharr\\awesome-cli-apps.md",
+      "bytes": 53317,
+      "depth": 1
+    },
+    {
+      "repo": "unixorn/awesome-zsh-plugins",
+      "status": "cached",
+      "path": ".cache\\readmes\\unixorn\\awesome-zsh-plugins.md",
+      "bytes": 483151,
+      "depth": 1
+    },
+    {
+      "repo": "phillipadsmith/awesome-github",
+      "status": "cached",
+      "path": ".cache\\readmes\\phillipadsmith\\awesome-github.md",
+      "bytes": 11762,
+      "depth": 1
+    },
+    {
+      "repo": "stefanbuck/awesome-browser-extensions-for-github",
+      "status": "cached",
+      "path": ".cache\\readmes\\stefanbuck\\awesome-browser-extensions-for-github.md",
+      "bytes": 42972,
+      "depth": 1
+    },
+    {
+      "repo": "matchai/awesome-pinned-gists",
+      "status": "cached",
+      "path": ".cache\\readmes\\matchai\\awesome-pinned-gists.md",
+      "bytes": 8953,
+      "depth": 1
+    },
+    {
+      "repo": "stevemao/awesome-git-addons",
+      "status": "cached",
+      "path": ".cache\\readmes\\stevemao\\awesome-git-addons.md",
+      "bytes": 46204,
+      "depth": 1
+    },
+    {
+      "repo": "compscilauren/awesome-git-hooks",
+      "status": "cached",
+      "path": ".cache\\readmes\\compscilauren\\awesome-git-hooks.md",
+      "bytes": 9696,
+      "depth": 1
+    },
+    {
+      "repo": "moul/awesome-ssh",
+      "status": "cached",
+      "path": ".cache\\readmes\\moul\\awesome-ssh.md",
+      "bytes": 22137,
+      "depth": 1
+    },
+    {
+      "repo": "bnb/awesome-hyper",
+      "status": "cached",
+      "path": ".cache\\readmes\\bnb\\awesome-hyper.md",
+      "bytes": 59293,
+      "depth": 1
+    },
+    {
+      "repo": "sdras/awesome-actions",
+      "status": "cached",
+      "path": ".cache\\readmes\\sdras\\awesome-actions.md",
+      "bytes": 45900,
+      "depth": 1
+    },
+    {
+      "repo": "michaelbrusegard/awesome-wezterm",
+      "status": "cached",
+      "path": ".cache\\readmes\\michaelbrusegard\\awesome-wezterm.md",
+      "bytes": 9101,
+      "depth": 1
+    },
+    {
+      "repo": "sindresorhus/awesome-scifi",
+      "status": "missing",
+      "error": "README not found (403)",
+      "depth": 1
+    },
+    {
+      "repo": "richardlitt/awesome-fantasy",
+      "status": "cached",
+      "path": ".cache\\readmes\\richardlitt\\awesome-fantasy.md",
+      "bytes": 143804,
+      "depth": 1
+    },
+    {
+      "repo": "ayr-ton/awesome-geek-podcasts",
+      "status": "cached",
+      "path": ".cache\\readmes\\ayr-ton\\awesome-geek-podcasts.md",
+      "bytes": 55117,
+      "depth": 1
+    },
+    {
+      "repo": "zudochkin/awesome-newsletters",
+      "status": "cached",
+      "path": ".cache\\readmes\\zudochkin\\awesome-newsletters.md",
+      "bytes": 49275,
+      "depth": 1
+    },
+    {
+      "repo": "victorlaerte/awesome-it-quotes",
+      "status": "cached",
+      "path": ".cache\\readmes\\victorlaerte\\awesome-it-quotes.md",
+      "bytes": 20153,
+      "depth": 1
+    },
+    {
+      "repo": "numetriclabz/awesome-db",
+      "status": "cached",
+      "path": ".cache\\readmes\\numetriclabz\\awesome-db.md",
+      "bytes": 6852,
+      "depth": 1
+    },
+    {
+      "repo": "shlomi-noach/awesome-mysql",
+      "status": "cached",
+      "path": ".cache\\readmes\\shlomi-noach\\awesome-mysql.md",
+      "bytes": 17540,
+      "depth": 1
+    },
+    {
+      "repo": "dahlia/awesome-sqlalchemy",
+      "status": "missing",
+      "error": "README not found (403)",
+      "depth": 1
+    },
+    {
+      "repo": "mark-rushakoff/awesome-influxdb",
+      "status": "cached",
+      "path": ".cache\\readmes\\mark-rushakoff\\awesome-influxdb.md",
+      "bytes": 21122,
+      "depth": 1
+    },
+    {
+      "repo": "neueda/awesome-neo4j",
+      "status": "cached",
+      "path": ".cache\\readmes\\neueda\\awesome-neo4j.md",
+      "bytes": 14194,
+      "depth": 1
+    },
+    {
+      "repo": "ramnes/awesome-mongodb",
+      "status": "cached",
+      "path": ".cache\\readmes\\ramnes\\awesome-mongodb.md",
+      "bytes": 22963,
+      "depth": 1
+    },
+    {
+      "repo": "d3viant0ne/awesome-rethinkdb",
+      "status": "cached",
+      "path": ".cache\\readmes\\d3viant0ne\\awesome-rethinkdb.md",
+      "bytes": 18978,
+      "depth": 1
+    },
+    {
+      "repo": "mohataher/awesome-tinkerpop",
+      "status": "cached",
+      "path": ".cache\\readmes\\mohataher\\awesome-tinkerpop.md",
+      "bytes": 11769,
+      "depth": 1
+    },
+    {
+      "repo": "dhamaniasad/awesome-postgres",
+      "status": "cached",
+      "path": ".cache\\readmes\\dhamaniasad\\awesome-postgres.md",
+      "bytes": 47473,
+      "depth": 1
+    },
+    {
+      "repo": "quangv/awesome-couchdb",
+      "status": "cached",
+      "path": ".cache\\readmes\\quangv\\awesome-couchdb.md",
+      "bytes": 10474,
+      "depth": 1
+    },
+    {
+      "repo": "rayokota/awesome-hbase",
+      "status": "cached",
+      "path": ".cache\\readmes\\rayokota\\awesome-hbase.md",
+      "bytes": 11808,
+      "depth": 1
+    },
+    {
+      "repo": "erictleung/awesome-nosql-guides",
+      "status": "cached",
+      "path": ".cache\\readmes\\erictleung\\awesome-nosql-guides.md",
+      "bytes": 12618,
+      "depth": 1
+    },
+    {
+      "repo": "mgramin/awesome-db-tools",
+      "status": "cached",
+      "path": ".cache\\readmes\\mgramin\\awesome-db-tools.md",
+      "bytes": 48328,
+      "depth": 1
+    },
+    {
+      "repo": "anant/awesome-cassandra",
+      "status": "cached",
+      "path": ".cache\\readmes\\anant\\awesome-cassandra.md",
+      "bytes": 59182,
+      "depth": 1
+    },
+    {
+      "repo": "lyqht/awesome-supabase",
+      "status": "cached",
+      "path": ".cache\\readmes\\lyqht\\awesome-supabase.md",
+      "bytes": 13562,
+      "depth": 1
+    },
+    {
+      "repo": "benallfree/awesome-pocketbase",
+      "status": "cached",
+      "path": ".cache\\readmes\\benallfree\\awesome-pocketbase.md",
+      "bytes": 23467,
+      "depth": 1
+    },
+    {
+      "repo": "tyaga001/awesome-neon",
+      "status": "cached",
+      "path": ".cache\\readmes\\tyaga001\\awesome-neon.md",
+      "bytes": 12521,
+      "depth": 1
+    },
+    {
+      "repo": "brabadu/awesome-fonts",
+      "status": "cached",
+      "path": ".cache\\readmes\\brabadu\\awesome-fonts.md",
+      "bytes": 17130,
+      "depth": 1
+    },
+    {
+      "repo": "neutraltone/awesome-stock-resources",
+      "status": "cached",
+      "path": ".cache\\readmes\\neutraltone\\awesome-stock-resources.md",
+      "bytes": 33227,
+      "depth": 1
+    },
+    {
+      "repo": "davisonio/awesome-gif",
+      "status": "cached",
+      "path": ".cache\\readmes\\davisonio\\awesome-gif.md",
+      "bytes": 11015,
+      "depth": 1
+    },
+    {
+      "repo": "ciconia/awesome-music",
+      "status": "cached",
+      "path": ".cache\\readmes\\ciconia\\awesome-music.md",
+      "bytes": 18782,
+      "depth": 1
+    },
+    {
+      "repo": "44bits/awesome-opensource-documents",
+      "status": "cached",
+      "path": ".cache\\readmes\\44bits\\awesome-opensource-documents.md",
+      "bytes": 61729,
+      "depth": 1
+    },
+    {
+      "repo": "willianjusten/awesome-audio-visualization",
+      "status": "cached",
+      "path": ".cache\\readmes\\willianjusten\\awesome-audio-visualization.md",
+      "bytes": 25674,
+      "depth": 1
+    },
+    {
+      "repo": "ebu/awesome-broadcasting",
+      "status": "fetched",
+      "path": ".cache\\readmes\\ebu\\awesome-broadcasting.md",
+      "bytes": 30773,
+      "depth": 1
+    },
+    {
+      "repo": "siilwyn/awesome-pixel-art",
+      "status": "cached",
+      "path": ".cache\\readmes\\siilwyn\\awesome-pixel-art.md",
+      "bytes": 8230,
+      "depth": 1
+    },
+    {
+      "repo": "transitive-bullshit/awesome-ffmpeg",
+      "status": "cached",
+      "path": ".cache\\readmes\\transitive-bullshit\\awesome-ffmpeg.md",
+      "bytes": 5160,
+      "depth": 1
+    },
+    {
+      "repo": "notlmn/awesome-icons",
+      "status": "cached",
+      "path": ".cache\\readmes\\notlmn\\awesome-icons.md",
+      "bytes": 8209,
+      "depth": 1
+    },
+    {
+      "repo": "stingalleman/awesome-audiovisual",
+      "status": "cached",
+      "path": ".cache\\readmes\\stingalleman\\awesome-audiovisual.md",
+      "bytes": 12741,
+      "depth": 1
+    },
+    {
+      "repo": "mfkl/awesome-vlc",
+      "status": "cached",
+      "path": ".cache\\readmes\\mfkl\\awesome-vlc.md",
+      "bytes": 6780,
+      "depth": 1
+    },
+    {
+      "repo": "mo-way/awesome-aoip",
+      "status": "cached",
+      "path": ".cache\\readmes\\mo-way\\awesome-aoip.md",
+      "bytes": 5615,
+      "depth": 1
+    },
+    {
+      "repo": "therebelrobot/awesome-workshopper",
+      "status": "cached",
+      "path": ".cache\\readmes\\therebelrobot\\awesome-workshopper.md",
+      "bytes": 8818,
+      "depth": 1
+    },
+    {
+      "repo": "matteofigus/awesome-speaking",
+      "status": "cached",
+      "path": ".cache\\readmes\\matteofigus\\awesome-speaking.md",
+      "bytes": 5525,
+      "depth": 1
+    },
+    {
+      "repo": "lucasviola/awesome-tech-videos",
+      "status": "cached",
+      "path": ".cache\\readmes\\lucasviola\\awesome-tech-videos.md",
+      "bytes": 10739,
+      "depth": 1
+    },
+    {
+      "repo": "watson/awesome-computer-history",
+      "status": "cached",
+      "path": ".cache\\readmes\\watson\\awesome-computer-history.md",
+      "bytes": 15532,
+      "depth": 1
+    },
+    {
+      "repo": "hollyadele/awesome-programming-for-kids",
+      "status": "cached",
+      "path": ".cache\\readmes\\hollyadele\\awesome-programming-for-kids.md",
+      "bytes": 5835,
+      "depth": 1
+    },
+    {
+      "repo": "rahulbircodes/awesome-steam",
+      "status": "cached",
+      "path": ".cache\\readmes\\rahulbircodes\\awesome-steam.md",
+      "bytes": 1528,
+      "depth": 1
+    },
+    {
+      "repo": "yrgo/awesome-educational-games",
+      "status": "cached",
+      "path": ".cache\\readmes\\yrgo\\awesome-educational-games.md",
+      "bytes": 7172,
+      "depth": 1
+    },
+    {
+      "repo": "micromata/awesome-javascript-learning",
+      "status": "cached",
+      "path": ".cache\\readmes\\micromata\\awesome-javascript-learning.md",
+      "bytes": 10811,
+      "depth": 1
+    },
+    {
+      "repo": "micromata/awesome-css-learning",
+      "status": "cached",
+      "path": ".cache\\readmes\\micromata\\awesome-css-learning.md",
+      "bytes": 7701,
+      "depth": 1
+    },
+    {
+      "repo": "dend/awesome-product-management",
+      "status": "cached",
+      "path": ".cache\\readmes\\dend\\awesome-product-management.md",
+      "bytes": 47944,
+      "depth": 1
+    },
+    {
+      "repo": "liuchong/awesome-roadmaps",
+      "status": "cached",
+      "path": ".cache\\readmes\\liuchong\\awesome-roadmaps.md",
+      "bytes": 18867,
+      "depth": 1
+    },
+    {
+      "repo": "josedefreitas/awesome-youtubers",
+      "status": "cached",
+      "path": ".cache\\readmes\\josedefreitas\\awesome-youtubers.md",
+      "bytes": 118954,
+      "depth": 1
+    },
+    {
+      "repo": "dribdat/awesome-hackathon",
+      "status": "cached",
+      "path": ".cache\\readmes\\dribdat\\awesome-hackathon.md",
+      "bytes": 19633,
+      "depth": 1
+    },
+    {
+      "repo": "panxproject/awesome-certificates",
+      "status": "cached",
+      "path": ".cache\\readmes\\panxproject\\awesome-certificates.md",
+      "bytes": 56782,
+      "depth": 1
+    },
+    {
+      "repo": "paragonie/awesome-appsec",
+      "status": "cached",
+      "path": ".cache\\readmes\\paragonie\\awesome-appsec.md",
+      "bytes": 34168,
+      "depth": 1
+    },
+    {
+      "repo": "sbilly/awesome-security",
+      "status": "cached",
+      "path": ".cache\\readmes\\sbilly\\awesome-security.md",
+      "bytes": 76112,
+      "depth": 1
+    },
+    {
+      "repo": "apsdehal/awesome-ctf",
+      "status": "cached",
+      "path": ".cache\\readmes\\apsdehal\\awesome-ctf.md",
+      "bytes": 26201,
+      "depth": 1
+    },
+    {
+      "repo": "brootware/awesome-cyber-security-university",
+      "status": "cached",
+      "path": ".cache\\readmes\\brootware\\awesome-cyber-security-university.md",
+      "bytes": 27066,
+      "depth": 1
+    },
+    {
+      "repo": "rshipp/awesome-malware-analysis",
+      "status": "cached",
+      "path": ".cache\\readmes\\rshipp\\awesome-malware-analysis.md",
+      "bytes": 54147,
+      "depth": 1
+    },
+    {
+      "repo": "carpedm20/awesome-hacking",
+      "status": "cached",
+      "path": ".cache\\readmes\\carpedm20\\awesome-hacking.md",
+      "bytes": 24173,
+      "depth": 1
+    },
+    {
+      "repo": "daviddias/awesome-hacking-locations",
+      "status": "cached",
+      "path": ".cache\\readmes\\daviddias\\awesome-hacking-locations.md",
+      "bytes": 52310,
+      "depth": 1
+    },
+    {
+      "repo": "paralax/awesome-honeypots",
+      "status": "cached",
+      "path": ".cache\\readmes\\paralax\\awesome-honeypots.md",
+      "bytes": 45201,
+      "depth": 1
+    },
+    {
+      "repo": "meirwah/awesome-incident-response",
+      "status": "cached",
+      "path": ".cache\\readmes\\meirwah\\awesome-incident-response.md",
+      "bytes": 45656,
+      "depth": 1
+    },
+    {
+      "repo": "jaredthecoder/awesome-vehicle-security",
+      "status": "cached",
+      "path": ".cache\\readmes\\jaredthecoder\\awesome-vehicle-security.md",
+      "bytes": 44794,
+      "depth": 1
+    },
+    {
+      "repo": "qazbnm456/awesome-web-security",
+      "status": "cached",
+      "path": ".cache\\readmes\\qazbnm456\\awesome-web-security.md",
+      "bytes": 83312,
+      "depth": 1
+    },
+    {
+      "repo": "fabacab/awesome-lockpicking",
+      "status": "cached",
+      "path": ".cache\\readmes\\fabacab\\awesome-lockpicking.md",
+      "bytes": 10889,
+      "depth": 1
+    },
+    {
+      "repo": "fabacab/awesome-cybersecurity-blueteam",
+      "status": "cached",
+      "path": ".cache\\readmes\\fabacab\\awesome-cybersecurity-blueteam.md",
+      "bytes": 49137,
+      "depth": 1
+    },
+    {
+      "repo": "cpuu/awesome-fuzzing",
+      "status": "cached",
+      "path": ".cache\\readmes\\cpuu\\awesome-fuzzing.md",
+      "bytes": 51877,
+      "depth": 1
+    },
+    {
+      "repo": "fkie-cad/awesome-embedded-and-iot-security",
+      "status": "cached",
+      "path": ".cache\\readmes\\fkie-cad\\awesome-embedded-and-iot-security.md",
+      "bytes": 20369,
+      "depth": 1
+    },
+    {
+      "repo": "bakke92/awesome-gdpr",
+      "status": "cached",
+      "path": ".cache\\readmes\\bakke92\\awesome-gdpr.md",
+      "bytes": 9715,
+      "depth": 1
+    },
+    {
+      "repo": "taptuit/awesome-devsecops",
+      "status": "cached",
+      "path": ".cache\\readmes\\taptuit\\awesome-devsecops.md",
+      "bytes": 33609,
+      "depth": 1
+    },
+    {
+      "repo": "dhondta/awesome-executable-packing",
+      "status": "cached",
+      "path": ".cache\\readmes\\dhondta\\awesome-executable-packing.md",
+      "bytes": 119656,
+      "depth": 1
+    },
+    {
+      "repo": "karneades/awesome-malware-persistence",
+      "status": "cached",
+      "path": ".cache\\readmes\\karneades\\awesome-malware-persistence.md",
+      "bytes": 15734,
+      "depth": 1
+    },
+    {
+      "repo": "kareniel/awesome-evm-security",
+      "status": "cached",
+      "path": ".cache\\readmes\\kareniel\\awesome-evm-security.md",
+      "bytes": 12188,
+      "depth": 1
+    },
+    {
+      "repo": "n0kovo/awesome-password-cracking",
+      "status": "cached",
+      "path": ".cache\\readmes\\n0kovo\\awesome-password-cracking.md",
+      "bytes": 29689,
+      "depth": 1
+    },
+    {
+      "repo": "karneades/awesome-security-card-games",
+      "status": "cached",
+      "path": ".cache\\readmes\\karneades\\awesome-security-card-games.md",
+      "bytes": 3783,
+      "depth": 1
+    },
+    {
+      "repo": "satta/awesome-suricata",
+      "status": "cached",
+      "path": ".cache\\readmes\\satta\\awesome-suricata.md",
+      "bytes": 13022,
+      "depth": 1
+    },
+    {
+      "repo": "fonduai/awesome-prompt-injection",
+      "status": "cached",
+      "path": ".cache\\readmes\\fonduai\\awesome-prompt-injection.md",
+      "bytes": 18765,
+      "depth": 1
+    },
+    {
+      "repo": "infosecb/awesome-detection-engineering",
+      "status": "cached",
+      "path": ".cache\\readmes\\infosecb\\awesome-detection-engineering.md",
+      "bytes": 16583,
+      "depth": 1
+    },
+    {
+      "repo": "jacobdjwilson/awesome-annual-security-reports",
+      "status": "cached",
+      "path": ".cache\\readmes\\jacobdjwilson\\awesome-annual-security-reports.md",
+      "bytes": 253085,
+      "depth": 1
+    },
+    {
+      "repo": "tupletype/awesome-cicd-attacks",
+      "status": "cached",
+      "path": ".cache\\readmes\\tupletype\\awesome-cicd-attacks.md",
+      "bytes": 20622,
+      "depth": 1
+    },
+    {
+      "repo": "cerberauth/awesome-openid-connect",
+      "status": "cached",
+      "path": ".cache\\readmes\\cerberauth\\awesome-openid-connect.md",
+      "bytes": 33513,
+      "depth": 1
+    },
+    {
+      "repo": "umbraco-community/awesome-umbraco",
+      "status": "fetched",
+      "path": ".cache\\readmes\\umbraco-community\\awesome-umbraco.md",
+      "bytes": 7295,
+      "depth": 1
+    },
+    {
+      "repo": "refinerycms-contrib/awesome-refinerycms",
+      "status": "cached",
+      "path": ".cache\\readmes\\refinerycms-contrib\\awesome-refinerycms.md",
+      "bytes": 4401,
+      "depth": 1
+    },
+    {
+      "repo": "springload/awesome-wagtail",
+      "status": "cached",
+      "path": ".cache\\readmes\\springload\\awesome-wagtail.md",
+      "bytes": 44444,
+      "depth": 1
+    },
+    {
+      "repo": "drmonkeyninja/awesome-textpattern",
+      "status": "missing",
+      "error": "README not found (403)",
+      "depth": 1
+    },
+    {
+      "repo": "nirgn975/awesome-drupal",
+      "status": "cached",
+      "path": ".cache\\readmes\\nirgn975\\awesome-drupal.md",
+      "bytes": 14520,
+      "depth": 1
+    },
+    {
+      "repo": "craftcms/awesome",
+      "status": "cached",
+      "path": ".cache\\readmes\\craftcms\\awesome.md",
+      "bytes": 38964,
+      "depth": 1
+    },
+    {
+      "repo": "martinmiles/awesome-sitecore",
+      "status": "cached",
+      "path": ".cache\\readmes\\martinmiles\\awesome-sitecore.md",
+      "bytes": 67058,
+      "depth": 1
+    },
+    {
+      "repo": "wernerkrauss/awesome-silverstripe-cms",
+      "status": "cached",
+      "path": ".cache\\readmes\\wernerkrauss\\awesome-silverstripe-cms.md",
+      "bytes": 9599,
+      "depth": 1
+    },
+    {
+      "repo": "directus-community/awesome-directus",
+      "status": "cached",
+      "path": ".cache\\readmes\\directus-community\\awesome-directus.md",
+      "bytes": 10733,
+      "depth": 1
+    },
+    {
+      "repo": "collective/awesome-plone",
+      "status": "cached",
+      "path": ".cache\\readmes\\collective\\awesome-plone.md",
+      "bytes": 25678,
+      "depth": 1
+    },
+    {
+      "repo": "danailminchev/awesome-payload",
+      "status": "cached",
+      "path": ".cache\\readmes\\danailminchev\\awesome-payload.md",
+      "bytes": 6171,
+      "depth": 1
+    },
+    {
+      "repo": "kiloreux/awesome-robotics",
+      "status": "cached",
+      "path": ".cache\\readmes\\kiloreux\\awesome-robotics.md",
+      "bytes": 17383,
+      "depth": 1
+    },
+    {
+      "repo": "hqarroum/awesome-iot",
+      "status": "cached",
+      "path": ".cache\\readmes\\hqarroum\\awesome-iot.md",
+      "bytes": 65169,
+      "depth": 1
+    },
+    {
+      "repo": "kitspace/awesome-electronics",
+      "status": "cached",
+      "path": ".cache\\readmes\\kitspace\\awesome-electronics.md",
+      "bytes": 25107,
+      "depth": 1
+    },
+    {
+      "repo": "rabschi/awesome-beacon",
+      "status": "cached",
+      "path": ".cache\\readmes\\rabschi\\awesome-beacon.md",
+      "bytes": 17423,
+      "depth": 1
+    },
+    {
+      "repo": "beardicus/awesome-plotters",
+      "status": "cached",
+      "path": ".cache\\readmes\\beardicus\\awesome-plotters.md",
+      "bytes": 43390,
+      "depth": 1
+    },
+    {
+      "repo": "protontypes/awesome-robotic-tooling",
+      "status": "cached",
+      "path": ".cache\\readmes\\protontypes\\awesome-robotic-tooling.md",
+      "bytes": 138259,
+      "depth": 1
+    },
+    {
+      "repo": "szenergy/awesome-lidar",
+      "status": "cached",
+      "path": ".cache\\readmes\\szenergy\\awesome-lidar.md",
+      "bytes": 63567,
+      "depth": 1
+    },
+    {
+      "repo": "delftopenhardware/awesome-open-hardware",
+      "status": "cached",
+      "path": ".cache\\readmes\\delftopenhardware\\awesome-open-hardware.md",
+      "bytes": 12159,
+      "depth": 1
+    },
+    {
+      "repo": "rickstaa/awesome-adsb",
+      "status": "cached",
+      "path": ".cache\\readmes\\rickstaa\\awesome-adsb.md",
+      "bytes": 13918,
+      "depth": 1
+    },
+    {
+      "repo": "matthias84/awesome-flying-fpv",
+      "status": "cached",
+      "path": ".cache\\readmes\\matthias84\\awesome-flying-fpv.md",
+      "bytes": 45024,
+      "depth": 1
+    },
+    {
+      "repo": "opencompany/awesome-open-company",
+      "status": "cached",
+      "path": ".cache\\readmes\\opencompany\\awesome-open-company.md",
+      "bytes": 15510,
+      "depth": 1
+    },
+    {
+      "repo": "domenicosolazzo/awesome-okr",
+      "status": "cached",
+      "path": ".cache\\readmes\\domenicosolazzo\\awesome-okr.md",
+      "bytes": 16248,
+      "depth": 1
+    },
+    {
+      "repo": "mezod/awesome-indie",
+      "status": "cached",
+      "path": ".cache\\readmes\\mezod\\awesome-indie.md",
+      "bytes": 28290,
+      "depth": 1
+    },
+    {
+      "repo": "nglgzz/awesome-clean-tech",
+      "status": "cached",
+      "path": ".cache\\readmes\\nglgzz\\awesome-clean-tech.md",
+      "bytes": 19910,
+      "depth": 1
+    },
+    {
+      "repo": "wardley-maps-community/awesome-wardley-maps",
+      "status": "cached",
+      "path": ".cache\\readmes\\wardley-maps-community\\awesome-wardley-maps.md",
+      "bytes": 34146,
+      "depth": 1
+    },
+    {
+      "repo": "raybb/awesome-social-enterprise",
+      "status": "cached",
+      "path": ".cache\\readmes\\raybb\\awesome-social-enterprise.md",
+      "bytes": 19332,
+      "depth": 1
+    },
+    {
+      "repo": "kdeldycke/awesome-engineering-team-management",
+      "status": "fetched",
+      "path": ".cache\\readmes\\kdeldycke\\awesome-engineering-team-management.md",
+      "bytes": 122280,
+      "depth": 1
+    },
+    {
+      "repo": "agamm/awesome-developer-first",
+      "status": "cached",
+      "path": ".cache\\readmes\\agamm\\awesome-developer-first.md",
+      "bytes": 75736,
+      "depth": 1
+    },
+    {
+      "repo": "kdeldycke/awesome-billing",
+      "status": "cached",
+      "path": ".cache\\readmes\\kdeldycke\\awesome-billing.md",
+      "bytes": 73774,
+      "depth": 1
+    },
+    {
+      "repo": "aleixmorgadas/awesome-engineering-strategy",
+      "status": "cached",
+      "path": ".cache\\readmes\\aleixmorgadas\\awesome-engineering-strategy.md",
+      "bytes": 15598,
+      "depth": 1
+    },
+    {
+      "repo": "matiassingers/awesome-slack",
+      "status": "cached",
+      "path": ".cache\\readmes\\matiassingers\\awesome-slack.md",
+      "bytes": 8648,
+      "depth": 1
+    },
+    {
+      "repo": "filipelinhares/awesome-slack",
+      "status": "cached",
+      "path": ".cache\\readmes\\filipelinhares\\awesome-slack.md",
+      "bytes": 4319,
+      "depth": 1
+    },
+    {
+      "repo": "lukasz-madon/awesome-remote-job",
+      "status": "cached",
+      "path": ".cache\\readmes\\lukasz-madon\\awesome-remote-job.md",
+      "bytes": 67146,
+      "depth": 1
+    },
+    {
+      "repo": "jyguyomarch/awesome-productivity",
+      "status": "cached",
+      "path": ".cache\\readmes\\jyguyomarch\\awesome-productivity.md",
+      "bytes": 11973,
+      "depth": 1
+    },
+    {
+      "repo": "tramcar/awesome-job-boards",
+      "status": "cached",
+      "path": ".cache\\readmes\\tramcar\\awesome-job-boards.md",
+      "bytes": 10239,
+      "depth": 1
+    },
+    {
+      "repo": "dopplerhq/awesome-interview-questions",
+      "status": "cached",
+      "path": ".cache\\readmes\\dopplerhq\\awesome-interview-questions.md",
+      "bytes": 49633,
+      "depth": 1
+    },
+    {
+      "repo": "joho/awesome-code-review",
+      "status": "cached",
+      "path": ".cache\\readmes\\joho\\awesome-code-review.md",
+      "bytes": 13239,
+      "depth": 1
+    },
+    {
+      "repo": "j0hnm4r5/awesome-creative-technology",
+      "status": "cached",
+      "path": ".cache\\readmes\\j0hnm4r5\\awesome-creative-technology.md",
+      "bytes": 64884,
+      "depth": 1
+    },
+    {
+      "repo": "sdnds-tw/awesome-sdn",
+      "status": "missing",
+      "error": "README not found (403)",
+      "depth": 1
+    },
+    {
+      "repo": "caesar0301/awesome-pcaptools",
+      "status": "cached",
+      "path": ".cache\\readmes\\caesar0301\\awesome-pcaptools.md",
+      "bytes": 43185,
+      "depth": 1
+    },
+    {
+      "repo": "rtckit/awesome-rtc",
+      "status": "cached",
+      "path": ".cache\\readmes\\rtckit\\awesome-rtc.md",
+      "bytes": 12572,
+      "depth": 1
+    },
+    {
+      "repo": "eozer/awesome-snmp",
+      "status": "cached",
+      "path": ".cache\\readmes\\eozer\\awesome-snmp.md",
+      "bytes": 27160,
+      "depth": 1
+    },
+    {
+      "repo": "secdev/awesome-scapy",
+      "status": "cached",
+      "path": ".cache\\readmes\\secdev\\awesome-scapy.md",
+      "bytes": 7322,
+      "depth": 1
+    },
+    {
+      "repo": "seifrajhi/awesome-cilium",
+      "status": "cached",
+      "path": ".cache\\readmes\\seifrajhi\\awesome-cilium.md",
+      "bytes": 14842,
+      "depth": 1
+    },
+    {
+      "repo": "igorbarinov/awesome-bitcoin",
+      "status": "cached",
+      "path": ".cache\\readmes\\igorbarinov\\awesome-bitcoin.md",
+      "bytes": 20427,
+      "depth": 1
+    },
+    {
+      "repo": "vhpoet/awesome-ripple",
+      "status": "cached",
+      "path": ".cache\\readmes\\vhpoet\\awesome-ripple.md",
+      "bytes": 8404,
+      "depth": 1
+    },
+    {
+      "repo": "machinomy/awesome-non-financial-blockchain",
+      "status": "cached",
+      "path": ".cache\\readmes\\machinomy\\awesome-non-financial-blockchain.md",
+      "bytes": 6330,
+      "depth": 1
+    },
+    {
+      "repo": "hyperupcall/awesome-mastodon",
+      "status": "cached",
+      "path": ".cache\\readmes\\hyperupcall\\awesome-mastodon.md",
+      "bytes": 9745,
+      "depth": 1
+    },
+    {
+      "repo": "ttumiel/awesome-ethereum",
+      "status": "cached",
+      "path": ".cache\\readmes\\ttumiel\\awesome-ethereum.md",
+      "bytes": 13657,
+      "depth": 1
+    },
+    {
+      "repo": "steven2358/awesome-blockchain-ai",
+      "status": "cached",
+      "path": ".cache\\readmes\\steven2358\\awesome-blockchain-ai.md",
+      "bytes": 11950,
+      "depth": 1
+    },
+    {
+      "repo": "danailminchev/awesome-eosio",
+      "status": "cached",
+      "path": ".cache\\readmes\\danailminchev\\awesome-eosio.md",
+      "bytes": 25231,
+      "depth": 1
+    },
+    {
+      "repo": "chainstack/awesome-corda",
+      "status": "cached",
+      "path": ".cache\\readmes\\chainstack\\awesome-corda.md",
+      "bytes": 7183,
+      "depth": 1
+    },
+    {
+      "repo": "msmolyakov/awesome-waves",
+      "status": "cached",
+      "path": ".cache\\readmes\\msmolyakov\\awesome-waves.md",
+      "bytes": 22692,
+      "depth": 1
+    },
+    {
+      "repo": "substrate-developer-hub/awesome-substrate",
+      "status": "cached",
+      "path": ".cache\\readmes\\substrate-developer-hub\\awesome-substrate.md",
+      "bytes": 24014,
+      "depth": 1
+    },
+    {
+      "repo": "golemfactory/awesome-golem",
+      "status": "cached",
+      "path": ".cache\\readmes\\golemfactory\\awesome-golem.md",
+      "bytes": 20362,
+      "depth": 1
+    },
+    {
+      "repo": "friedger/awesome-stacks-chain",
+      "status": "cached",
+      "path": ".cache\\readmes\\friedger\\awesome-stacks-chain.md",
+      "bytes": 16152,
+      "depth": 1
+    },
+    {
+      "repo": "aorumbayev/awesome-algorand",
+      "status": "cached",
+      "path": ".cache\\readmes\\aorumbayev\\awesome-algorand.md",
+      "bytes": 42063,
+      "depth": 1
+    },
+    {
+      "repo": "zolagonano/awesome-zeronet",
+      "status": "cached",
+      "path": ".cache\\readmes\\zolagonano\\awesome-zeronet.md",
+      "bytes": 14513,
+      "depth": 1
+    },
+    {
+      "repo": "cosmos/awesome-cosmos",
+      "status": "cached",
+      "path": ".cache\\readmes\\cosmos\\awesome-cosmos.md",
+      "bytes": 20270,
+      "depth": 1
+    },
+    {
+      "repo": "polycarbohydrate/awesome-tor",
+      "status": "cached",
+      "path": ".cache\\readmes\\polycarbohydrate\\awesome-tor.md",
+      "bytes": 21860,
+      "depth": 1
+    },
+    {
+      "repo": "atblueprints/awesome-atproto",
+      "status": "cached",
+      "path": ".cache\\readmes\\atblueprints\\awesome-atproto.md",
+      "bytes": 12246,
+      "depth": 1
+    },
+    {
+      "repo": "caufieldjh/awesome-bioie",
+      "status": "cached",
+      "path": ".cache\\readmes\\caufieldjh\\awesome-bioie.md",
+      "bytes": 38063,
+      "depth": 1
+    },
+    {
+      "repo": "eselkin/awesome-computational-neuroscience",
+      "status": "cached",
+      "path": ".cache\\readmes\\eselkin\\awesome-computational-neuroscience.md",
+      "bytes": 404766,
+      "depth": 1
+    },
+    {
+      "repo": "folkswhocode/awesome-diversity",
+      "status": "cached",
+      "path": ".cache\\readmes\\folkswhocode\\awesome-diversity.md",
+      "bytes": 35850,
+      "depth": 1
+    },
+    {
+      "repo": "maehr/awesome-digital-history",
+      "status": "cached",
+      "path": ".cache\\readmes\\maehr\\awesome-digital-history.md",
+      "bytes": 23686,
+      "depth": 1
+    },
+    {
+      "repo": "kakoni/awesome-healthcare",
+      "status": "cached",
+      "path": ".cache\\readmes\\kakoni\\awesome-healthcare.md",
+      "bytes": 21466,
+      "depth": 1
+    },
+    {
+      "repo": "dreamingechoes/awesome-mental-health",
+      "status": "cached",
+      "path": ".cache\\readmes\\dreamingechoes\\awesome-mental-health.md",
+      "bytes": 28951,
+      "depth": 1
+    },
+    {
+      "repo": "analyticalmonk/awesome-neuroscience",
+      "status": "cached",
+      "path": ".cache\\readmes\\analyticalmonk\\awesome-neuroscience.md",
+      "bytes": 13309,
+      "depth": 1
+    },
+    {
+      "repo": "dh-tech/awesome-digital-humanities",
+      "status": "cached",
+      "path": ".cache\\readmes\\dh-tech\\awesome-digital-humanities.md",
+      "bytes": 24734,
+      "depth": 1
+    },
+    {
+      "repo": "iamcoder/awesome-lucid-dreams",
+      "status": "cached",
+      "path": ".cache\\readmes\\iamcoder\\awesome-lucid-dreams.md",
+      "bytes": 16718,
+      "depth": 1
+    },
+    {
+      "repo": "npacore/awesome-neuroimaging",
+      "status": "cached",
+      "path": ".cache\\readmes\\npacore\\awesome-neuroimaging.md",
+      "bytes": 17518,
+      "depth": 1
+    },
+    {
+      "repo": "cvyl/awesome-transgender",
+      "status": "cached",
+      "path": ".cache\\readmes\\cvyl\\awesome-transgender.md",
+      "bytes": 9845,
+      "depth": 1
+    },
+    {
+      "repo": "danvoyce/awesome-creative-tech-events",
+      "status": "cached",
+      "path": ".cache\\readmes\\danvoyce\\awesome-creative-tech-events.md",
+      "bytes": 7194,
+      "depth": 1
+    },
+    {
+      "repo": "ildoc/awesome-italy-events",
+      "status": "cached",
+      "path": ".cache\\readmes\\ildoc\\awesome-italy-events.md",
+      "bytes": 3091,
+      "depth": 1
+    },
+    {
+      "repo": "awkward/awesome-netherlands-events",
+      "status": "cached",
+      "path": ".cache\\readmes\\awkward\\awesome-netherlands-events.md",
+      "bytes": 3421,
+      "depth": 1
+    },
+    {
+      "repo": "thejambo/awesome-testing",
+      "status": "cached",
+      "path": ".cache\\readmes\\thejambo\\awesome-testing.md",
+      "bytes": 24704,
+      "depth": 1
+    },
+    {
+      "repo": "mojoaxel/awesome-regression-testing",
+      "status": "cached",
+      "path": ".cache\\readmes\\mojoaxel\\awesome-regression-testing.md",
+      "bytes": 23578,
+      "depth": 1
+    },
+    {
+      "repo": "christian-bromann/awesome-selenium",
+      "status": "cached",
+      "path": ".cache\\readmes\\christian-bromann\\awesome-selenium.md",
+      "bytes": 16415,
+      "depth": 1
+    },
+    {
+      "repo": "srinivasantarget/awesome-appium",
+      "status": "cached",
+      "path": ".cache\\readmes\\srinivasantarget\\awesome-appium.md",
+      "bytes": 19319,
+      "depth": 1
+    },
+    {
+      "repo": "sindresorhus/awesome-tap",
+      "status": "cached",
+      "path": ".cache\\readmes\\sindresorhus\\awesome-tap.md",
+      "bytes": 5658,
+      "depth": 1
+    },
+    {
+      "repo": "aliesbelik/awesome-jmeter",
+      "status": "cached",
+      "path": ".cache\\readmes\\aliesbelik\\awesome-jmeter.md",
+      "bytes": 39919,
+      "depth": 1
+    },
+    {
+      "repo": "grafana/awesome-k6",
+      "status": "cached",
+      "path": ".cache\\readmes\\grafana\\awesome-k6.md",
+      "bytes": 18229,
+      "depth": 1
+    },
+    {
+      "repo": "mxschmitt/awesome-playwright",
+      "status": "cached",
+      "path": ".cache\\readmes\\mxschmitt\\awesome-playwright.md",
+      "bytes": 13687,
+      "depth": 1
+    },
+    {
+      "repo": "fityanos/awesome-quality-assurance-roadmap",
+      "status": "cached",
+      "path": ".cache\\readmes\\fityanos\\awesome-quality-assurance-roadmap.md",
+      "bytes": 2733,
+      "depth": 1
+    },
+    {
+      "repo": "aliesbelik/awesome-gatling",
+      "status": "cached",
+      "path": ".cache\\readmes\\aliesbelik\\awesome-gatling.md",
+      "bytes": 10542,
+      "depth": 1
+    },
+    {
+      "repo": "coderabbitai/awesome-coderabbit",
+      "status": "cached",
+      "path": ".cache\\readmes\\coderabbitai\\awesome-coderabbit.md",
+      "bytes": 8207,
+      "depth": 1
+    },
+    {
+      "repo": "writing-resources/awesome-scientific-writing",
+      "status": "cached",
+      "path": ".cache\\readmes\\writing-resources\\awesome-scientific-writing.md",
+      "bytes": 9485,
+      "depth": 1
+    },
+    {
+      "repo": "burningtree/awesome-json",
+      "status": "cached",
+      "path": ".cache\\readmes\\burningtree\\awesome-json.md",
+      "bytes": 37055,
+      "depth": 1
+    },
+    {
+      "repo": "tmcw/awesome-geojson",
+      "status": "cached",
+      "path": ".cache\\readmes\\tmcw\\awesome-geojson.md",
+      "bytes": 15114,
+      "depth": 1
+    },
+    {
+      "repo": "secretgeek/awesomecsv",
+      "status": "cached",
+      "path": ".cache\\readmes\\secretgeek\\awesomecsv.md",
+      "bytes": 11504,
+      "depth": 1
+    },
+    {
+      "repo": "kyleterry/awesome-radio",
+      "status": "cached",
+      "path": ".cache\\readmes\\kyleterry\\awesome-radio.md",
+      "bytes": 9474,
+      "depth": 1
+    },
+    {
+      "repo": "0xnr/awesome-analytics",
+      "status": "missing",
+      "error": "README not found (403)",
+      "depth": 1
+    },
+    {
+      "repo": "marmelab/awesome-rest",
+      "status": "cached",
+      "path": ".cache\\readmes\\marmelab\\awesome-rest.md",
+      "bytes": 26057,
+      "depth": 1
+    },
+    {
+      "repo": "cicdops/awesome-ciandcd",
+      "status": "cached",
+      "path": ".cache\\readmes\\cicdops\\awesome-ciandcd.md",
+      "bytes": 31049,
+      "depth": 1
+    },
+    {
+      "repo": "diessica/awesome-sketch",
+      "status": "cached",
+      "path": ".cache\\readmes\\diessica\\awesome-sketch.md",
+      "bytes": 7225,
+      "depth": 1
+    },
+    {
+      "repo": "melvin0008/awesome-projects-boilerplates",
+      "status": "cached",
+      "path": ".cache\\readmes\\melvin0008\\awesome-projects-boilerplates.md",
+      "bytes": 15382,
+      "depth": 1
+    },
+    {
+      "repo": "matiassingers/awesome-readme",
+      "status": "cached",
+      "path": ".cache\\readmes\\matiassingers\\awesome-readme.md",
+      "bytes": 34538,
+      "depth": 1
+    },
+    {
+      "repo": "myhoneybadger/awesome-github-wiki",
+      "status": "cached",
+      "path": ".cache\\readmes\\myhoneybadger\\awesome-github-wiki.md",
+      "bytes": 7274,
+      "depth": 1
+    },
+    {
+      "repo": "awesome-selfhosted/awesome-selfhosted",
+      "status": "cached",
+      "path": ".cache\\readmes\\awesome-selfhosted\\awesome-selfhosted.md",
+      "bytes": 321659,
+      "depth": 1
+    },
+    {
+      "repo": "datadaode/awesome-foss-apps",
+      "status": "cached",
+      "path": ".cache\\readmes\\datadaode\\awesome-foss-apps.md",
+      "bytes": 9625,
+      "depth": 1
+    },
+    {
+      "repo": "alferov/awesome-gulp",
+      "status": "cached",
+      "path": ".cache\\readmes\\alferov\\awesome-gulp.md",
+      "bytes": 22279,
+      "depth": 1
+    },
+    {
+      "repo": "stoeffel/awesome-ama-answers",
+      "status": "cached",
+      "path": ".cache\\readmes\\stoeffel\\awesome-ama-answers.md",
+      "bytes": 4635,
+      "depth": 1
+    },
+    {
+      "repo": "ibaaj/awesome-opensourcephotography",
+      "status": "cached",
+      "path": ".cache\\readmes\\ibaaj\\awesome-opensourcephotography.md",
+      "bytes": 11530,
+      "depth": 1
+    },
+    {
+      "repo": "eug/awesome-opengl",
+      "status": "cached",
+      "path": ".cache\\readmes\\eug\\awesome-opengl.md",
+      "bytes": 12639,
+      "depth": 1
+    },
+    {
+      "repo": "chentsulin/awesome-graphql",
+      "status": "cached",
+      "path": ".cache\\readmes\\chentsulin\\awesome-graphql.md",
+      "bytes": 72782,
+      "depth": 1
+    },
+    {
+      "repo": "emptymalei/awesome-research",
+      "status": "cached",
+      "path": ".cache\\readmes\\emptymalei\\awesome-research.md",
+      "bytes": 44418,
+      "depth": 1
+    },
+    {
+      "repo": "javierluraschi/awesome-dataviz",
+      "status": "cached",
+      "path": ".cache\\readmes\\javierluraschi\\awesome-dataviz.md",
+      "bytes": 19208,
+      "depth": 1
+    },
+    {
+      "repo": "mfornos/awesome-microservices",
+      "status": "cached",
+      "path": ".cache\\readmes\\mfornos\\awesome-microservices.md",
+      "bytes": 55638,
+      "depth": 1
+    },
+    {
+      "repo": "jagracey/awesome-unicode",
+      "status": "cached",
+      "path": ".cache\\readmes\\jagracey\\awesome-unicode.md",
+      "bytes": 103175,
+      "depth": 1
+    },
+    {
+      "repo": "codepoints/awesome-codepoints",
+      "status": "cached",
+      "path": ".cache\\readmes\\codepoints\\awesome-codepoints.md",
+      "bytes": 15366,
+      "depth": 1
+    },
+    {
+      "repo": "mungell/awesome-for-beginners",
+      "status": "cached",
+      "path": ".cache\\readmes\\mungell\\awesome-for-beginners.md",
+      "bytes": 47039,
+      "depth": 1
+    },
+    {
+      "repo": "gamontal/awesome-katas",
+      "status": "cached",
+      "path": ".cache\\readmes\\gamontal\\awesome-katas.md",
+      "bytes": 9123,
+      "depth": 1
+    },
+    {
+      "repo": "hobbyquaker/awesome-mqtt",
+      "status": "cached",
+      "path": ".cache\\readmes\\hobbyquaker\\awesome-mqtt.md",
+      "bytes": 46526,
+      "depth": 1
+    },
+    {
+      "repo": "cristianoliveira/awesome4girls",
+      "status": "cached",
+      "path": ".cache\\readmes\\cristianoliveira\\awesome4girls.md",
+      "bytes": 45700,
+      "depth": 1
+    },
+    {
+      "repo": "vorpaljs/awesome-vorpal",
+      "status": "cached",
+      "path": ".cache\\readmes\\vorpaljs\\awesome-vorpal.md",
+      "bytes": 4717,
+      "depth": 1
+    },
+    {
+      "repo": "vinjn/awesome-vulkan",
+      "status": "cached",
+      "path": ".cache\\readmes\\vinjn\\awesome-vulkan.md",
+      "bytes": 42075,
+      "depth": 1
+    },
+    {
+      "repo": "egeerardyn/awesome-latex",
+      "status": "cached",
+      "path": ".cache\\readmes\\egeerardyn\\awesome-latex.md",
+      "bytes": 26849,
+      "depth": 1
+    },
+    {
+      "repo": "antontarasenko/awesome-economics",
+      "status": "cached",
+      "path": ".cache\\readmes\\antontarasenko\\awesome-economics.md",
+      "bytes": 13981,
+      "depth": 1
+    },
+    {
+      "repo": "sublimino/awesome-funny-markov",
+      "status": "cached",
+      "path": ".cache\\readmes\\sublimino\\awesome-funny-markov.md",
+      "bytes": 6120,
+      "depth": 1
+    },
+    {
+      "repo": "danielecook/awesome-bioinformatics",
+      "status": "cached",
+      "path": ".cache\\readmes\\danielecook\\awesome-bioinformatics.md",
+      "bytes": 43813,
+      "depth": 1
+    },
+    {
+      "repo": "hsiaoyi0504/awesome-cheminformatics",
+      "status": "cached",
+      "path": ".cache\\readmes\\hsiaoyi0504\\awesome-cheminformatics.md",
+      "bytes": 18349,
+      "depth": 1
+    },
+    {
+      "repo": "scholtzm/awesome-steam",
+      "status": "cached",
+      "path": ".cache\\readmes\\scholtzm\\awesome-steam.md",
+      "bytes": 12973,
+      "depth": 1
+    },
+    {
+      "repo": "dastergon/awesome-sre",
+      "status": "cached",
+      "path": ".cache\\readmes\\dastergon\\awesome-sre.md",
+      "bytes": 61582,
+      "depth": 1
+    },
+    {
+      "repo": "xen0l/awesome-dtrace",
+      "status": "cached",
+      "path": ".cache\\readmes\\xen0l\\awesome-dtrace.md",
+      "bytes": 11058,
+      "depth": 1
+    },
+    {
+      "repo": "bvolpato/awesome-userscripts",
+      "status": "cached",
+      "path": ".cache\\readmes\\bvolpato\\awesome-userscripts.md",
+      "bytes": 106714,
+      "depth": 1
+    },
+    {
+      "repo": "tobiasbueschel/awesome-pokemon",
+      "status": "cached",
+      "path": ".cache\\readmes\\tobiasbueschel\\awesome-pokemon.md",
+      "bytes": 12468,
+      "depth": 1
+    },
+    {
+      "repo": "exaspark/awesome-chatops",
+      "status": "cached",
+      "path": ".cache\\readmes\\exaspark\\awesome-chatops.md",
+      "bytes": 17428,
+      "depth": 1
+    },
+    {
+      "repo": "kdeldycke/awesome-falsehood",
+      "status": "cached",
+      "path": ".cache\\readmes\\kdeldycke\\awesome-falsehood.md",
+      "bytes": 32175,
+      "depth": 1
+    },
+    {
+      "repo": "heynickc/awesome-ddd",
+      "status": "cached",
+      "path": ".cache\\readmes\\heynickc\\awesome-ddd.md",
+      "bytes": 56404,
+      "depth": 1
+    },
+    {
+      "repo": "woop/awesome-quantified-self",
+      "status": "missing",
+      "error": "README not found (403)",
+      "depth": 1
+    },
+    {
+      "repo": "nicolesaidy/awesome-web-design",
+      "status": "cached",
+      "path": ".cache\\readmes\\nicolesaidy\\awesome-web-design.md",
+      "bytes": 10762,
+      "depth": 1
+    },
+    {
+      "repo": "terkelg/awesome-creative-coding",
+      "status": "cached",
+      "path": ".cache\\readmes\\terkelg\\awesome-creative-coding.md",
+      "bytes": 56879,
+      "depth": 1
+    },
+    {
+      "repo": "aviaryan/awesome-no-login-web-apps",
+      "status": "cached",
+      "path": ".cache\\readmes\\aviaryan\\awesome-no-login-web-apps.md",
+      "bytes": 30453,
+      "depth": 1
+    },
+    {
+      "repo": "johnjago/awesome-free-software",
+      "status": "cached",
+      "path": ".cache\\readmes\\johnjago\\awesome-free-software.md",
+      "bytes": 28552,
+      "depth": 1
+    },
+    {
+      "repo": "podo/awesome-framer",
+      "status": "cached",
+      "path": ".cache\\readmes\\podo\\awesome-framer.md",
+      "bytes": 23936,
+      "depth": 1
+    },
+    {
+      "repo": "bubuanabelas/awesome-markdown",
+      "status": "cached",
+      "path": ".cache\\readmes\\bubuanabelas\\awesome-markdown.md",
+      "bytes": 17658,
+      "depth": 1
+    },
+    {
+      "repo": "mislavcimpersak/awesome-dev-fun",
+      "status": "cached",
+      "path": ".cache\\readmes\\mislavcimpersak\\awesome-dev-fun.md",
+      "bytes": 13905,
+      "depth": 1
+    },
+    {
+      "repo": "davidlambauer/awesome-magento2",
+      "status": "cached",
+      "path": ".cache\\readmes\\davidlambauer\\awesome-magento2.md",
+      "bytes": 38459,
+      "depth": 1
+    },
+    {
+      "repo": "xiaohanyu/awesome-tikz",
+      "status": "cached",
+      "path": ".cache\\readmes\\xiaohanyu\\awesome-tikz.md",
+      "bytes": 14218,
+      "depth": 1
+    },
+    {
+      "repo": "johnjago/awesome-ad-free",
+      "status": "cached",
+      "path": ".cache\\readmes\\johnjago\\awesome-ad-free.md",
+      "bytes": 11720,
+      "depth": 1
+    },
+    {
+      "repo": "roaldnefs/awesome-prometheus",
+      "status": "cached",
+      "path": ".cache\\readmes\\roaldnefs\\awesome-prometheus.md",
+      "bytes": 17734,
+      "depth": 1
+    },
+    {
+      "repo": "homematic-community/awesome-homematic",
+      "status": "cached",
+      "path": ".cache\\readmes\\homematic-community\\awesome-homematic.md",
+      "bytes": 11433,
+      "depth": 1
+    },
+    {
+      "repo": "sfischer13/awesome-ledger",
+      "status": "cached",
+      "path": ".cache\\readmes\\sfischer13\\awesome-ledger.md",
+      "bytes": 3090,
+      "depth": 1
+    },
+    {
+      "repo": "thomasbnt/awesome-web-monetization",
+      "status": "cached",
+      "path": ".cache\\readmes\\thomasbnt\\awesome-web-monetization.md",
+      "bytes": 12799,
+      "depth": 1
+    },
+    {
+      "repo": "johnjago/awesome-uncopyright",
+      "status": "cached",
+      "path": ".cache\\readmes\\johnjago\\awesome-uncopyright.md",
+      "bytes": 15718,
+      "depth": 1
+    },
+    {
+      "repo": "zheaoli/awesome-coins",
+      "status": "cached",
+      "path": ".cache\\readmes\\zheaoli\\awesome-coins.md",
+      "bytes": 19238,
+      "depth": 1
+    },
+    {
+      "repo": "zachflower/awesome-open-source-supporters",
+      "status": "cached",
+      "path": ".cache\\readmes\\zachflower\\awesome-open-source-supporters.md",
+      "bytes": 7876,
+      "depth": 1
+    },
+    {
+      "repo": "robinstickel/awesome-design-principles",
+      "status": "cached",
+      "path": ".cache\\readmes\\robinstickel\\awesome-design-principles.md",
+      "bytes": 4768,
+      "depth": 1
+    },
+    {
+      "repo": "johnjago/awesome-theravada",
+      "status": "cached",
+      "path": ".cache\\readmes\\johnjago\\awesome-theravada.md",
+      "bytes": 17461,
+      "depth": 1
+    },
+    {
+      "repo": "inspectit-labs/awesome-inspectit",
+      "status": "cached",
+      "path": ".cache\\readmes\\inspectit-labs\\awesome-inspectit.md",
+      "bytes": 4376,
+      "depth": 1
+    },
+    {
+      "repo": "nayafia/awesome-maintainers",
+      "status": "cached",
+      "path": ".cache\\readmes\\nayafia\\awesome-maintainers.md",
+      "bytes": 18155,
+      "depth": 1
+    },
+    {
+      "repo": "xxczaki/awesome-calculators",
+      "status": "cached",
+      "path": ".cache\\readmes\\xxczaki\\awesome-calculators.md",
+      "bytes": 7917,
+      "depth": 1
+    },
+    {
+      "repo": "zyszys/awesome-captcha",
+      "status": "cached",
+      "path": ".cache\\readmes\\zyszys\\awesome-captcha.md",
+      "bytes": 8172,
+      "depth": 1
+    },
+    {
+      "repo": "markusschanta/awesome-jupyter",
+      "status": "cached",
+      "path": ".cache\\readmes\\markusschanta\\awesome-jupyter.md",
+      "bytes": 29744,
+      "depth": 1
+    },
+    {
+      "repo": "andrewda/awesome-frc",
+      "status": "cached",
+      "path": ".cache\\readmes\\andrewda\\awesome-frc.md",
+      "bytes": 8621,
+      "depth": 1
+    },
+    {
+      "repo": "karlhorky/awesome-speakers",
+      "status": "cached",
+      "path": ".cache\\readmes\\karlhorky\\awesome-speakers.md",
+      "bytes": 59088,
+      "depth": 1
+    },
+    {
+      "repo": "edm00se/awesome-board-games",
+      "status": "cached",
+      "path": ".cache\\readmes\\edm00se\\awesome-board-games.md",
+      "bytes": 271655,
+      "depth": 1
+    },
+    {
+      "repo": "uraimo/awesome-software-patreons",
+      "status": "cached",
+      "path": ".cache\\readmes\\uraimo\\awesome-software-patreons.md",
+      "bytes": 29147,
+      "depth": 1
+    },
+    {
+      "repo": "ecohealthalliance/awesome-parasite",
+      "status": "cached",
+      "path": ".cache\\readmes\\ecohealthalliance\\awesome-parasite.md",
+      "bytes": 18194,
+      "depth": 1
+    },
+    {
+      "repo": "jzarca01/awesome-food",
+      "status": "cached",
+      "path": ".cache\\readmes\\jzarca01\\awesome-food.md",
+      "bytes": 12488,
+      "depth": 1
+    },
+    {
+      "repo": "alexk111/awesome-bitcoin-payment-processors",
+      "status": "cached",
+      "path": ".cache\\readmes\\alexk111\\awesome-bitcoin-payment-processors.md",
+      "bytes": 7106,
+      "depth": 1
+    },
+    {
+      "repo": "nschloe/awesome-scientific-computing",
+      "status": "cached",
+      "path": ".cache\\readmes\\nschloe\\awesome-scientific-computing.md",
+      "bytes": 16053,
+      "depth": 1
+    },
+    {
+      "repo": "scaleleap/awesome-amazon-seller",
+      "status": "cached",
+      "path": ".cache\\readmes\\scaleleap\\awesome-amazon-seller.md",
+      "bytes": 12485,
+      "depth": 1
+    },
+    {
+      "repo": "brycejohnston/awesome-agriculture",
+      "status": "cached",
+      "path": ".cache\\readmes\\brycejohnston\\awesome-agriculture.md",
+      "bytes": 13128,
+      "depth": 1
+    },
+    {
+      "repo": "ttt30ga/awesome-product-design",
+      "status": "cached",
+      "path": ".cache\\readmes\\ttt30ga\\awesome-product-design.md",
+      "bytes": 18566,
+      "depth": 1
+    },
+    {
+      "repo": "catalinmiron/awesome-prisma",
+      "status": "cached",
+      "path": ".cache\\readmes\\catalinmiron\\awesome-prisma.md",
+      "bytes": 9312,
+      "depth": 1
+    },
+    {
+      "repo": "simskij/awesome-software-architecture",
+      "status": "cached",
+      "path": ".cache\\readmes\\simskij\\awesome-software-architecture.md",
+      "bytes": 11472,
+      "depth": 1
+    },
+    {
+      "repo": "stevesong/awesome-connectivity-info",
+      "status": "cached",
+      "path": ".cache\\readmes\\stevesong\\awesome-connectivity-info.md",
+      "bytes": 26155,
+      "depth": 1
+    },
+    {
+      "repo": "stackshareio/awesome-stacks",
+      "status": "cached",
+      "path": ".cache\\readmes\\stackshareio\\awesome-stacks.md",
+      "bytes": 44284,
+      "depth": 1
+    },
+    {
+      "repo": "cytodata/awesome-cytodata",
+      "status": "cached",
+      "path": ".cache\\readmes\\cytodata\\awesome-cytodata.md",
+      "bytes": 21532,
+      "depth": 1
+    },
+    {
+      "repo": "davisonio/awesome-irc",
+      "status": "cached",
+      "path": ".cache\\readmes\\davisonio\\awesome-irc.md",
+      "bytes": 19462,
+      "depth": 1
+    },
+    {
+      "repo": "cenoura/awesome-ads",
+      "status": "cached",
+      "path": ".cache\\readmes\\cenoura\\awesome-ads.md",
+      "bytes": 6385,
+      "depth": 1
+    },
+    {
+      "repo": "philsturgeon/awesome-earth",
+      "status": "cached",
+      "path": ".cache\\readmes\\philsturgeon\\awesome-earth.md",
+      "bytes": 105992,
+      "depth": 1
+    },
+    {
+      "repo": "gruhn/awesome-naming",
+      "status": "cached",
+      "path": ".cache\\readmes\\gruhn\\awesome-naming.md",
+      "bytes": 19479,
+      "depth": 1
+    },
+    {
+      "repo": "iipc/awesome-web-archiving",
+      "status": "cached",
+      "path": ".cache\\readmes\\iipc\\awesome-web-archiving.md",
+      "bytes": 32561,
+      "depth": 1
+    },
+    {
+      "repo": "schlessera/awesome-wp-cli",
+      "status": "cached",
+      "path": ".cache\\readmes\\schlessera\\awesome-wp-cli.md",
+      "bytes": 5772,
+      "depth": 1
+    },
+    {
+      "repo": "mourarthur/awesome-credit-modeling",
+      "status": "fetched",
+      "path": ".cache\\readmes\\mourarthur\\awesome-credit-modeling.md",
+      "bytes": 20286,
+      "depth": 1
+    },
+    {
+      "repo": "ansible-community/awesome-ansible",
+      "status": "cached",
+      "path": ".cache\\readmes\\ansible-community\\awesome-ansible.md",
+      "bytes": 19354,
+      "depth": 1
+    },
+    {
+      "repo": "keller-mark/awesome-biological-visualizations",
+      "status": "cached",
+      "path": ".cache\\readmes\\keller-mark\\awesome-biological-visualizations.md",
+      "bytes": 10999,
+      "depth": 1
+    },
+    {
+      "repo": "make-github-pseudonymous-again/awesome-qr-code",
+      "status": "cached",
+      "path": ".cache\\readmes\\make-github-pseudonymous-again\\awesome-qr-code.md",
+      "bytes": 4798,
+      "depth": 1
+    },
+    {
+      "repo": "sdassow/awesome-veganism",
+      "status": "cached",
+      "path": ".cache\\readmes\\sdassow\\awesome-veganism.md",
+      "bytes": 12373,
+      "depth": 1
+    },
+    {
+      "repo": "mbiesiad/awesome-translations",
+      "status": "cached",
+      "path": ".cache\\readmes\\mbiesiad\\awesome-translations.md",
+      "bytes": 17700,
+      "depth": 1
+    },
+    {
+      "repo": "dersvenhesse/awesome-scriptable",
+      "status": "cached",
+      "path": ".cache\\readmes\\dersvenhesse\\awesome-scriptable.md",
+      "bytes": 17040,
+      "depth": 1
+    },
+    {
+      "repo": "msub2/awesome-webxr",
+      "status": "cached",
+      "path": ".cache\\readmes\\msub2\\awesome-webxr.md",
+      "bytes": 14412,
+      "depth": 1
+    },
+    {
+      "repo": "atkirtland/awesome-computational-geometry",
+      "status": "cached",
+      "path": ".cache\\readmes\\atkirtland\\awesome-computational-geometry.md",
+      "bytes": 11924,
+      "depth": 1
+    },
+    {
+      "repo": "osmlab/awesome-openstreetmap",
+      "status": "cached",
+      "path": ".cache\\readmes\\osmlab\\awesome-openstreetmap.md",
+      "bytes": 31556,
+      "depth": 1
+    },
+    {
+      "repo": "inoue0426/awesome-computational-biology",
+      "status": "cached",
+      "path": ".cache\\readmes\\inoue0426\\awesome-computational-biology.md",
+      "bytes": 50014,
+      "depth": 1
+    },
+    {
+      "repo": "readthedocs-examples/awesome-read-the-docs",
+      "status": "cached",
+      "path": ".cache\\readmes\\readthedocs-examples\\awesome-read-the-docs.md",
+      "bytes": 9521,
+      "depth": 1
+    },
+    {
+      "repo": "mcanouil/awesome-quarto",
+      "status": "cached",
+      "path": ".cache\\readmes\\mcanouil\\awesome-quarto.md",
+      "bytes": 35650,
+      "depth": 1
+    },
+    {
+      "repo": "hallvaaw/awesome-biological-image-analysis",
+      "status": "cached",
+      "path": ".cache\\readmes\\hallvaaw\\awesome-biological-image-analysis.md",
+      "bytes": 23702,
+      "depth": 1
+    },
+    {
+      "repo": "sindresorhus/awesome-chatgpt",
+      "status": "cached",
+      "path": ".cache\\readmes\\sindresorhus\\awesome-chatgpt.md",
+      "bytes": 21953,
+      "depth": 1
+    },
+    {
+      "repo": "sindresorhus/awesome-whisper",
+      "status": "cached",
+      "path": ".cache\\readmes\\sindresorhus\\awesome-whisper.md",
+      "bytes": 8429,
+      "depth": 1
+    },
+    {
+      "repo": "shi-rudo/awesome-stock-trading",
+      "status": "cached",
+      "path": ".cache\\readmes\\shi-rudo\\awesome-stock-trading.md",
+      "bytes": 30934,
+      "depth": 1
+    },
+    {
+      "repo": "airscripts/awesome-steam-deck",
+      "status": "cached",
+      "path": ".cache\\readmes\\airscripts\\awesome-steam-deck.md",
+      "bytes": 19637,
+      "depth": 1
+    },
+    {
+      "repo": "lunohodov/awesome-astrophotography",
+      "status": "cached",
+      "path": ".cache\\readmes\\lunohodov\\awesome-astrophotography.md",
+      "bytes": 22452,
+      "depth": 1
+    },
+    {
+      "repo": "dstdev/awesome-hpc",
+      "status": "cached",
+      "path": ".cache\\readmes\\dstdev\\awesome-hpc.md",
+      "bytes": 21252,
+      "depth": 1
+    },
+    {
+      "repo": "foxfil/awesome-geocaching",
+      "status": "cached",
+      "path": ".cache\\readmes\\foxfil\\awesome-geocaching.md",
+      "bytes": 5179,
+      "depth": 1
+    },
+    {
+      "repo": "slevithan/awesome-regex",
+      "status": "cached",
+      "path": ".cache\\readmes\\slevithan\\awesome-regex.md",
+      "bytes": 31431,
+      "depth": 1
+    },
+    {
+      "repo": "lutzh/awesome-event-driven-architecture",
+      "status": "cached",
+      "path": ".cache\\readmes\\lutzh\\awesome-event-driven-architecture.md",
+      "bytes": 8975,
+      "depth": 1
+    },
+    {
+      "repo": "idematos/awesome-permacomputing",
+      "status": "cached",
+      "path": ".cache\\readmes\\idematos\\awesome-permacomputing.md",
+      "bytes": 15638,
+      "depth": 1
+    },
+    {
+      "repo": "donbarbos/awesome-standards",
+      "status": "cached",
+      "path": ".cache\\readmes\\donbarbos\\awesome-standards.md",
+      "bytes": 22965,
+      "depth": 1
+    },
+    {
+      "repo": "hesreallyhim/awesome-claude-code",
+      "status": "cached",
+      "path": ".cache\\readmes\\hesreallyhim\\awesome-claude-code.md",
+      "bytes": 98134,
+      "depth": 1
+    },
+    {
+      "repo": "piebald-ai/awesome-gemini-cli",
+      "status": "cached",
+      "path": ".cache\\readmes\\piebald-ai\\awesome-gemini-cli.md",
+      "bytes": 35911,
+      "depth": 1
+    },
+    {
+      "repo": "eminyagiz42/awesome-sap-commerce",
+      "status": "cached",
+      "path": ".cache\\readmes\\eminyagiz42\\awesome-sap-commerce.md",
+      "bytes": 19089,
+      "depth": 1
+    },
+    {
+      "repo": "sampart/awesome-tech-ethics",
+      "status": "cached",
+      "path": ".cache\\readmes\\sampart\\awesome-tech-ethics.md",
+      "bytes": 8628,
+      "depth": 1
+    },
+    {
+      "repo": "code-and-sorts/awesome-copilot-agents",
+      "status": "cached",
+      "path": ".cache\\readmes\\code-and-sorts\\awesome-copilot-agents.md",
+      "bytes": 17164,
+      "depth": 1
+    },
+    {
+      "repo": "basharovv/stumbleuponawesome",
+      "status": "cached",
+      "path": ".cache\\readmes\\basharovv\\stumbleuponawesome.md",
+      "bytes": 5067,
+      "depth": 1
+    },
+    {
+      "repo": "umutphp/awesome-cli",
+      "status": "missing",
+      "error": "README not found (403)",
+      "depth": 1
+    },
+    {
+      "repo": "styfle/awesome-desktop-js",
+      "status": "cached",
+      "path": ".cache\\readmes\\styfle\\awesome-desktop-js.md",
+      "bytes": 6568,
+      "depth": 2
+    },
+    {
+      "repo": "aschuch/awesomecache",
+      "status": "cached",
+      "path": ".cache\\readmes\\aschuch\\awesomecache.md",
+      "bytes": 4940,
+      "depth": 2
+    },
+    {
+      "repo": "olucurious/awesome-arkit",
+      "status": "cached",
+      "path": ".cache\\readmes\\olucurious\\awesome-arkit.md",
+      "bytes": 23158,
+      "depth": 2
+    },
+    {
+      "repo": "dashvlas/awesome-ios-interview",
+      "status": "cached",
+      "path": ".cache\\readmes\\dashvlas\\awesome-ios-interview.md",
+      "bytes": 983,
+      "depth": 2
+    },
+    {
+      "repo": "serhii-londar/open-source-mac-os-apps",
+      "status": "missing",
+      "error": "README not found (403)",
+      "depth": 2
+    },
+    {
+      "repo": "vsouza/awesome-gists",
+      "status": "cached",
+      "path": ".cache\\readmes\\vsouza\\awesome-gists.md",
+      "bytes": 8080,
+      "depth": 2
+    },
+    {
+      "repo": "bystritskiy/awesome-ios-books",
+      "status": "cached",
+      "path": ".cache\\readmes\\bystritskiy\\awesome-ios-books.md",
+      "bytes": 19362,
+      "depth": 2
+    },
+    {
+      "repo": "jphong1111/awesome-ios-developer",
+      "status": "cached",
+      "path": ".cache\\readmes\\jphong1111\\awesome-ios-developer.md",
+      "bytes": 87195,
+      "depth": 2
+    },
+    {
+      "repo": "carolanitz/awesome-ios-twitter",
+      "status": "cached",
+      "path": ".cache\\readmes\\carolanitz\\awesome-ios-twitter.md",
+      "bytes": 5361,
+      "depth": 2
+    },
+    {
+      "repo": "ameizi/awesome-ios-animation",
+      "status": "cached",
+      "path": ".cache\\readmes\\ameizi\\awesome-ios-animation.md",
+      "bytes": 24358,
+      "depth": 2
+    },
+    {
+      "repo": "vaberer/font-awesome-swift",
+      "status": "cached",
+      "path": ".cache\\readmes\\vaberer\\font-awesome-swift.md",
+      "bytes": 6397,
+      "depth": 2
+    },
+    {
+      "repo": "thii/fontawesome.swift",
+      "status": "cached",
+      "path": ".cache\\readmes\\thii\\fontawesome.swift.md",
+      "bytes": 2130,
+      "depth": 2
+    },
+    {
+      "repo": "pridechung/fontawesomekit",
+      "status": "cached",
+      "path": ".cache\\readmes\\pridechung\\fontawesomekit.md",
+      "bytes": 11553,
+      "depth": 2
+    },
+    {
+      "repo": "qiuncheng/fontawesomekit.swift",
+      "status": "cached",
+      "path": ".cache\\readmes\\qiuncheng\\fontawesomekit.swift.md",
+      "bytes": 3791,
+      "depth": 2
+    },
+    {
+      "repo": "alexdrone/ios-fontawesome",
+      "status": "cached",
+      "path": ".cache\\readmes\\alexdrone\\ios-fontawesome.md",
+      "bytes": 3807,
+      "depth": 2
+    },
+    {
+      "repo": "awesome-labs/lflogincontroller",
+      "status": "cached",
+      "path": ".cache\\readmes\\awesome-labs\\lflogincontroller.md",
+      "bytes": 3111,
+      "depth": 2
+    },
+    {
+      "repo": "aleksandrshoshiashvili/awesometextfieldswift",
+      "status": "cached",
+      "path": ".cache\\readmes\\aleksandrshoshiashvili\\awesometextfieldswift.md",
+      "bytes": 1183,
+      "depth": 2
+    },
+    {
+      "repo": "aleksandrshoshiashvili/awesomespotlightview",
+      "status": "cached",
+      "path": ".cache\\readmes\\aleksandrshoshiashvili\\awesomespotlightview.md",
+      "bytes": 6507,
+      "depth": 2
+    },
+    {
+      "repo": "aashishtamsya/awesome-xcode-scripts",
+      "status": "cached",
+      "path": ".cache\\readmes\\aashishtamsya\\awesome-xcode-scripts.md",
+      "bytes": 4278,
+      "depth": 2
+    },
+    {
+      "repo": "mzlogin/awesome-adb",
+      "status": "missing",
+      "error": "README not found (403)",
+      "depth": 2
+    },
+    {
+      "repo": "juude/awesome-android-performance",
+      "status": "cached",
+      "path": ".cache\\readmes\\juude\\awesome-android-performance.md",
+      "bytes": 11950,
+      "depth": 2
+    },
+    {
+      "repo": "doyensec/awesome-electronjs-hacking",
+      "status": "missing",
+      "error": "README not found (403)",
+      "depth": 2
+    },
+    {
+      "repo": "wcoder/awesome-xamarin-bookmarks",
+      "status": "cached",
+      "path": ".cache\\readmes\\wcoder\\awesome-xamarin-bookmarks.md",
+      "bytes": 10519,
+      "depth": 2
+    },
+    {
+      "repo": "linuxdeploy/awesome-linuxdeploy",
+      "status": "missing",
+      "error": "README not found (403)",
+      "depth": 2
+    },
+    {
+      "repo": "aorumbayev/awesome-omarchy-tui",
+      "status": "cached",
+      "path": ".cache\\readmes\\aorumbayev\\awesome-omarchy-tui.md",
+      "bytes": 1620,
+      "depth": 2
+    },
+    {
+      "repo": "wheel-smith/awesome-omarchy",
+      "status": "cached",
+      "path": ".cache\\readmes\\wheel-smith\\awesome-omarchy.md",
+      "bytes": 30369,
+      "depth": 2
+    },
+    {
+      "repo": "aleksandar-todorovic/awesome-c",
+      "status": "cached",
+      "path": ".cache\\readmes\\aleksandar-todorovic\\awesome-c.md",
+      "bytes": 71166,
+      "depth": 2
+    },
+    {
+      "repo": "awesome-webextension/webpack-target-webextension",
+      "status": "cached",
+      "path": ".cache\\readmes\\awesome-webextension\\webpack-target-webextension.md",
+      "bytes": 11969,
+      "depth": 2
+    },
+    {
+      "repo": "valpackett/awesome-gtk",
+      "status": "cached",
+      "path": ".cache\\readmes\\valpackett\\awesome-gtk.md",
+      "bytes": 142177,
+      "depth": 2
+    },
+    {
+      "repo": "erluxman/awesomefluttertips",
+      "status": "cached",
+      "path": ".cache\\readmes\\erluxman\\awesomefluttertips.md",
+      "bytes": 14615,
+      "depth": 2
+    },
+    {
+      "repo": "jpnurmi/awesome-flutter-linux",
+      "status": "cached",
+      "path": ".cache\\readmes\\jpnurmi\\awesome-flutter-linux.md",
+      "bytes": 10763,
+      "depth": 2
+    },
+    {
+      "repo": "thomasloven/hass-fontawesome",
+      "status": "cached",
+      "path": ".cache\\readmes\\thomasloven\\hass-fontawesome.md",
+      "bytes": 4444,
+      "depth": 2
+    },
+    {
+      "repo": "awesome-mqtt/awesome-mqtt",
+      "status": "missing",
+      "error": "README not found (403)",
+      "depth": 2
+    },
+    {
+      "repo": "power-maverick/awesome-power-platform",
+      "status": "cached",
+      "path": ".cache\\readmes\\power-maverick\\awesome-power-platform.md",
+      "bytes": 16725,
+      "depth": 2
+    },
+    {
+      "repo": "valentin-vogel/awesome-nocode-lowcode",
+      "status": "cached",
+      "path": ".cache\\readmes\\valentin-vogel\\awesome-nocode-lowcode.md",
+      "bytes": 16722,
+      "depth": 2
+    },
+    {
+      "repo": "capawesome-team/capacitor-background-task",
+      "status": "cached",
+      "path": ".cache\\readmes\\capawesome-team\\capacitor-background-task.md",
+      "bytes": 5221,
+      "depth": 2
+    },
+    {
+      "repo": "capawesome-team/capacitor-badge",
+      "status": "cached",
+      "path": ".cache\\readmes\\capawesome-team\\capacitor-badge.md",
+      "bytes": 8269,
+      "depth": 2
+    },
+    {
+      "repo": "capawesome-team/capacitor-managed-configurations",
+      "status": "cached",
+      "path": ".cache\\readmes\\capawesome-team\\capacitor-managed-configurations.md",
+      "bytes": 6616,
+      "depth": 2
+    },
+    {
+      "repo": "capawesome-team/capacitor-photo-editor",
+      "status": "cached",
+      "path": ".cache\\readmes\\capawesome-team\\capacitor-photo-editor.md",
+      "bytes": 3728,
+      "depth": 2
+    },
+    {
+      "repo": "esri-es/awesome-arcgis",
+      "status": "cached",
+      "path": ".cache\\readmes\\esri-es\\awesome-arcgis.md",
+      "bytes": 1936,
+      "depth": 2
+    },
+    {
+      "repo": "acgeospatial/awesome-earthobservation-code",
+      "status": "cached",
+      "path": ".cache\\readmes\\acgeospatial\\awesome-earthobservation-code.md",
+      "bytes": 94615,
+      "depth": 2
+    },
+    {
+      "repo": "sacridini/awesome-geospatial",
+      "status": "cached",
+      "path": ".cache\\readmes\\sacridini\\awesome-geospatial.md",
+      "bytes": 223668,
+      "depth": 2
+    },
+    {
+      "repo": "sshuair/awesome-gis",
+      "status": "missing",
+      "error": "README not found (403)",
+      "depth": 2
+    },
+    {
+      "repo": "jdorfman/awesome-json-datasets",
+      "status": "cached",
+      "path": ".cache\\readmes\\jdorfman\\awesome-json-datasets.md",
+      "bytes": 16317,
+      "depth": 2
+    },
+    {
+      "repo": "softwareunderground/awesome-open-geoscience",
+      "status": "cached",
+      "path": ".cache\\readmes\\softwareunderground\\awesome-open-geoscience.md",
+      "bytes": 34098,
+      "depth": 2
+    },
+    {
+      "repo": "wenhwu/awesome-remote-sensing-change-detection",
+      "status": "missing",
+      "error": "README not found (403)",
+      "depth": 2
+    },
+    {
+      "repo": "chrieke/awesome-satellite-imagery-datasets",
+      "status": "cached",
+      "path": ".cache\\readmes\\chrieke\\awesome-satellite-imagery-datasets.md",
+      "bytes": 28688,
+      "depth": 2
+    },
+    {
+      "repo": "mrgloom/awesome-semantic-segmentation",
+      "status": "cached",
+      "path": ".cache\\readmes\\mrgloom\\awesome-semantic-segmentation.md",
+      "bytes": 31928,
+      "depth": 2
+    },
+    {
+      "repo": "mapbox/awesome-vector-tiles",
+      "status": "cached",
+      "path": ".cache\\readmes\\mapbox\\awesome-vector-tiles.md",
+      "bytes": 25476,
+      "depth": 2
+    },
+    {
+      "repo": "engn33r/awesome-bluetooth-security",
+      "status": "cached",
+      "path": ".cache\\readmes\\engn33r\\awesome-bluetooth-security.md",
+      "bytes": 20583,
+      "depth": 2
+    },
+    {
+      "repo": "steren/awesome-cloudrun",
+      "status": "cached",
+      "path": ".cache\\readmes\\steren\\awesome-cloudrun.md",
+      "bytes": 32135,
+      "depth": 2
+    },
+    {
+      "repo": "ddneves/awesome-gcp-certifications",
+      "status": "fetched",
+      "path": ".cache\\readmes\\ddneves\\awesome-gcp-certifications.md",
+      "bytes": 25606,
+      "depth": 2
+    },
+    {
+      "repo": "timtech4u/awesome-cloudbuild",
+      "status": "cached",
+      "path": ".cache\\readmes\\timtech4u\\awesome-cloudbuild.md",
+      "bytes": 21861,
+      "depth": 2
+    },
+    {
+      "repo": "zrosenbauer/awesome-bigtable",
+      "status": "cached",
+      "path": ".cache\\readmes\\zrosenbauer\\awesome-bigtable.md",
+      "bytes": 8852,
+      "depth": 2
+    },
+    {
+      "repo": "rakyll/awesome-spanner",
+      "status": "cached",
+      "path": ".cache\\readmes\\rakyll\\awesome-spanner.md",
+      "bytes": 6100,
+      "depth": 2
+    },
+    {
+      "repo": "wsvincent/awesome-django",
+      "status": "cached",
+      "path": ".cache\\readmes\\wsvincent\\awesome-django.md",
+      "bytes": 44222,
+      "depth": 2
+    },
+    {
+      "repo": "humiaozuzu/awesome-flask",
+      "status": "cached",
+      "path": ".cache\\readmes\\humiaozuzu\\awesome-flask.md",
+      "bytes": 16362,
+      "depth": 2
+    },
+    {
+      "repo": "amosgyamfi/awesome-fasthtml",
+      "status": "cached",
+      "path": ".cache\\readmes\\amosgyamfi\\awesome-fasthtml.md",
+      "bytes": 4406,
+      "depth": 2
+    },
+    {
+      "repo": "dmytrolitvinov/awesome-flake8-extensions",
+      "status": "cached",
+      "path": ".cache\\readmes\\dmytrolitvinov\\awesome-flake8-extensions.md",
+      "bytes": 20440,
+      "depth": 2
+    },
+    {
+      "repo": "augustogoulart/awesome-pytest",
+      "status": "cached",
+      "path": ".cache\\readmes\\augustogoulart\\awesome-pytest.md",
+      "bytes": 13929,
+      "depth": 2
+    },
+    {
+      "repo": "ygzgxyz/awesome-sphinxdoc",
+      "status": "cached",
+      "path": ".cache\\readmes\\ygzgxyz\\awesome-sphinxdoc.md",
+      "bytes": 3236,
+      "depth": 2
+    },
+    {
+      "repo": "prcutler/awesome-macropad",
+      "status": "cached",
+      "path": ".cache\\readmes\\prcutler\\awesome-macropad.md",
+      "bytes": 17892,
+      "depth": 2
+    },
+    {
+      "repo": "amit-davidson/awesome-golang-workshops",
+      "status": "cached",
+      "path": ".cache\\readmes\\amit-davidson\\awesome-golang-workshops.md",
+      "bytes": 3867,
+      "depth": 2
+    },
+    {
+      "repo": "bayandin/awesome-awesomeness",
+      "status": "cached",
+      "path": ".cache\\readmes\\bayandin\\awesome-awesomeness.md",
+      "bytes": 23074,
+      "depth": 2
+    },
+    {
+      "repo": "xwjdsh/awesome-go-extra",
+      "status": "cached",
+      "path": ".cache\\readmes\\xwjdsh\\awesome-go-extra.md",
+      "bytes": 400125,
+      "depth": 2
+    },
+    {
+      "repo": "bungle/awesome-resty",
+      "status": "cached",
+      "path": ".cache\\readmes\\bungle\\awesome-resty.md",
+      "bytes": 69415,
+      "depth": 2
+    },
+    {
+      "repo": "grabear/awesome-rshiny",
+      "status": "cached",
+      "path": ".cache\\readmes\\grabear\\awesome-rshiny.md",
+      "bytes": 26921,
+      "depth": 2
+    },
+    {
+      "repo": "erikgahner/awesome-ggplot2",
+      "status": "cached",
+      "path": ".cache\\readmes\\erikgahner\\awesome-ggplot2.md",
+      "bytes": 72574,
+      "depth": 2
+    },
+    {
+      "repo": "gunnarmorling/awesome-annotation-processing",
+      "status": "missing",
+      "error": "README not found (403)",
+      "depth": 2
+    },
+    {
+      "repo": "neomatrix369/awesome-graal",
+      "status": "cached",
+      "path": ".cache\\readmes\\neomatrix369\\awesome-graal.md",
+      "bytes": 25850,
+      "depth": 2
+    },
+    {
+      "repo": "ksoichiro/awesome-gradle",
+      "status": "cached",
+      "path": ".cache\\readmes\\ksoichiro\\awesome-gradle.md",
+      "bytes": 19689,
+      "depth": 2
+    },
+    {
+      "repo": "mhrimaz/awesomejavafx",
+      "status": "cached",
+      "path": ".cache\\readmes\\mhrimaz\\awesomejavafx.md",
+      "bytes": 49328,
+      "depth": 2
+    },
+    {
+      "repo": "eminyagiz42/awesome-hybris",
+      "status": "cached",
+      "path": ".cache\\readmes\\eminyagiz42\\awesome-hybris.md",
+      "bytes": 19089,
+      "depth": 2
+    },
+    {
+      "repo": "ciandcd/awesome-ciandcd",
+      "status": "cached",
+      "path": ".cache\\readmes\\ciandcd\\awesome-ciandcd.md",
+      "bytes": 31049,
+      "depth": 2
+    },
+    {
+      "repo": "hstsethi/awesome-symbian",
+      "status": "cached",
+      "path": ".cache\\readmes\\hstsethi\\awesome-symbian.md",
+      "bytes": 11250,
+      "depth": 2
+    },
+    {
+      "repo": "iamakulov/awesome-webpack-perf",
+      "status": "cached",
+      "path": ".cache\\readmes\\iamakulov\\awesome-webpack-perf.md",
+      "bytes": 18308,
+      "depth": 2
+    },
+    {
+      "repo": "kellyselden/ember-awesome-macros",
+      "status": "cached",
+      "path": ".cache\\readmes\\kellyselden\\ember-awesome-macros.md",
+      "bytes": 37368,
+      "depth": 2
+    },
+    {
+      "repo": "harryadel/awesome-meteor-jobs",
+      "status": "cached",
+      "path": ".cache\\readmes\\harryadel\\awesome-meteor-jobs.md",
+      "bytes": 4956,
+      "depth": 2
+    },
+    {
+      "repo": "harryadelb/awesome-meteor-developers",
+      "status": "cached",
+      "path": ".cache\\readmes\\harryadelb\\awesome-meteor-developers.md",
+      "bytes": 3893,
+      "depth": 2
+    },
+    {
+      "repo": "arggh/awesome-blaze",
+      "status": "cached",
+      "path": ".cache\\readmes\\arggh\\awesome-blaze.md",
+      "bytes": 7790,
+      "depth": 2
+    },
+    {
+      "repo": "jonathandion/awesome-js-books",
+      "status": "cached",
+      "path": ".cache\\readmes\\jonathandion\\awesome-js-books.md",
+      "bytes": 4636,
+      "depth": 2
+    },
+    {
+      "repo": "b-long/awesome-static-hosting",
+      "status": "cached",
+      "path": ".cache\\readmes\\b-long\\awesome-static-hosting.md",
+      "bytes": 1746,
+      "depth": 2
+    },
+    {
+      "repo": "staticwebdev/awesome-azure-static-web-apps",
+      "status": "cached",
+      "path": ".cache\\readmes\\staticwebdev\\awesome-azure-static-web-apps.md",
+      "bytes": 8780,
+      "depth": 2
+    },
+    {
+      "repo": "vitejs/awesome-vite",
+      "status": "cached",
+      "path": ".cache\\readmes\\vitejs\\awesome-vite.md",
+      "bytes": 76298,
+      "depth": 2
+    },
+    {
+      "repo": "amirkian007/vue-awesome-sidebar",
+      "status": "cached",
+      "path": ".cache\\readmes\\amirkian007\\vue-awesome-sidebar.md",
+      "bytes": 11872,
+      "depth": 2
+    },
+    {
+      "repo": "rcaferati/vue-awesome-button",
+      "status": "cached",
+      "path": ".cache\\readmes\\rcaferati\\vue-awesome-button.md",
+      "bytes": 21035,
+      "depth": 2
+    },
+    {
+      "repo": "hugogiraudel/awesome-sass",
+      "status": "cached",
+      "path": ".cache\\readmes\\hugogiraudel\\awesome-sass.md",
+      "bytes": 20051,
+      "depth": 2
+    },
+    {
+      "repo": "shoelace-style/webawesome",
+      "status": "cached",
+      "path": ".cache\\readmes\\shoelace-style\\webawesome.md",
+      "bytes": 54,
+      "depth": 2
+    },
+    {
+      "repo": "pazguille/offline-first",
+      "status": "cached",
+      "path": ".cache\\readmes\\pazguille\\offline-first.md",
+      "bytes": 50320,
+      "depth": 2
+    },
+    {
+      "repo": "rustwasm/awesome-rust-and-webassembly",
+      "status": "cached",
+      "path": ".cache\\readmes\\rustwasm\\awesome-rust-and-webassembly.md",
+      "bytes": 13340,
+      "depth": 2
+    },
+    {
+      "repo": "mbasso/awesome-wasm",
+      "status": "cached",
+      "path": ".cache\\readmes\\mbasso\\awesome-wasm.md",
+      "bytes": 33939,
+      "depth": 2
+    },
+    {
+      "repo": "christianulbrich/awesome-microfrontends",
+      "status": "cached",
+      "path": ".cache\\readmes\\christianulbrich\\awesome-microfrontends.md",
+      "bytes": 4180,
+      "depth": 2
+    },
+    {
+      "repo": "robbrazier/svelte-awesome",
+      "status": "cached",
+      "path": ".cache\\readmes\\robbrazier\\svelte-awesome.md",
+      "bytes": 3523,
+      "depth": 2
+    },
+    {
+      "repo": "awesome-spectral-indices/awesome-spectral-indices",
+      "status": "cached",
+      "path": ".cache\\readmes\\awesome-spectral-indices\\awesome-spectral-indices.md",
+      "bytes": 173982,
+      "depth": 2
+    },
+    {
+      "repo": "docker/awesome-compose",
+      "status": "cached",
+      "path": ".cache\\readmes\\docker\\awesome-compose.md",
+      "bytes": 6607,
+      "depth": 2
+    },
+    {
+      "repo": "n1trux/awesome-sysadmin",
+      "status": "cached",
+      "path": ".cache\\readmes\\n1trux\\awesome-sysadmin.md",
+      "bytes": 77224,
+      "depth": 2
+    },
+    {
+      "repo": "maximabramchuck/awesome-interviews",
+      "status": "missing",
+      "error": "README not found (403)",
+      "depth": 2
+    },
+    {
+      "repo": "antonbabenko/awesome-terraform-compliance",
+      "status": "cached",
+      "path": ".cache\\readmes\\antonbabenko\\awesome-terraform-compliance.md",
+      "bytes": 27388,
+      "depth": 2
+    },
+    {
+      "repo": "brillout/awesome-react-components",
+      "status": "cached",
+      "path": ".cache\\readmes\\brillout\\awesome-react-components.md",
+      "bytes": 90869,
+      "depth": 2
+    },
+    {
+      "repo": "kludex/awesome-fastapi-projects",
+      "status": "fetched",
+      "path": ".cache\\readmes\\kludex\\awesome-fastapi-projects.md",
+      "bytes": 1488,
+      "depth": 2
+    },
+    {
+      "repo": "secretgeek/awesomeguid",
+      "status": "cached",
+      "path": ".cache\\readmes\\secretgeek\\awesomeguid.md",
+      "bytes": 4107,
+      "depth": 2
+    },
+    {
+      "repo": "hslatman/awesome-threat-intelligence",
+      "status": "fetched",
+      "path": ".cache\\readmes\\hslatman\\awesome-threat-intelligence.md",
+      "bytes": 89669,
+      "depth": 2
+    },
+    {
+      "repo": "3deep5me/awesome-kustomize",
+      "status": "cached",
+      "path": ".cache\\readmes\\3deep5me\\awesome-kustomize.md",
+      "bytes": 7753,
+      "depth": 2
+    },
+    {
+      "repo": "ishantanu/awesome-kubectl-plugins",
+      "status": "cached",
+      "path": ".cache\\readmes\\ishantanu\\awesome-kubectl-plugins.md",
+      "bytes": 40827,
+      "depth": 2
+    },
+    {
+      "repo": "cdwv/awesome-helm",
+      "status": "cached",
+      "path": ".cache\\readmes\\cdwv\\awesome-helm.md",
+      "bytes": 13854,
+      "depth": 2
+    },
+    {
+      "repo": "ryanswanstrom/awesome-datascience-colleges",
+      "status": "cached",
+      "path": ".cache\\readmes\\ryanswanstrom\\awesome-datascience-colleges.md",
+      "bytes": 461,
+      "depth": 2
+    },
+    {
+      "repo": "ujjwalkarn/machine-learning-tutorials",
+      "status": "fetched",
+      "path": ".cache\\readmes\\ujjwalkarn\\machine-learning-tutorials.md",
+      "bytes": 66278,
+      "depth": 2
+    },
+    {
+      "repo": "jospolfliet/awesome-ai-usecases",
+      "status": "cached",
+      "path": ".cache\\readmes\\jospolfliet\\awesome-ai-usecases.md",
+      "bytes": 7616,
+      "depth": 2
+    },
+    {
+      "repo": "src-d/awesome-machine-learning-on-source-code",
+      "status": "cached",
+      "path": ".cache\\readmes\\src-d\\awesome-machine-learning-on-source-code.md",
+      "bytes": 59795,
+      "depth": 2
+    },
+    {
+      "repo": "benedekrozemberczki/awesome-community-detection",
+      "status": "cached",
+      "path": ".cache\\readmes\\benedekrozemberczki\\awesome-community-detection.md",
+      "bytes": 3169,
+      "depth": 2
+    },
+    {
+      "repo": "benedekrozemberczki/awesome-graph-classification",
+      "status": "cached",
+      "path": ".cache\\readmes\\benedekrozemberczki\\awesome-graph-classification.md",
+      "bytes": 2436,
+      "depth": 2
+    },
+    {
+      "repo": "benedekrozemberczki/awesome-decision-tree-papers",
+      "status": "missing",
+      "error": "README not found (403)",
+      "depth": 2
+    },
+    {
+      "repo": "benedekrozemberczki/awesome-fraud-detection-papers",
+      "status": "cached",
+      "path": ".cache\\readmes\\benedekrozemberczki\\awesome-fraud-detection-papers.md",
+      "bytes": 50439,
+      "depth": 2
+    },
+    {
+      "repo": "benedekrozemberczki/awesome-gradient-boosting-papers",
+      "status": "cached",
+      "path": ".cache\\readmes\\benedekrozemberczki\\awesome-gradient-boosting-papers.md",
+      "bytes": 106209,
+      "depth": 2
+    },
+    {
+      "repo": "nerox8664/awesome-computer-vision-models",
+      "status": "missing",
+      "error": "README not found (403)",
+      "depth": 2
+    },
+    {
+      "repo": "benedekrozemberczki/awesome-monte-carlo-tree-search-papers",
+      "status": "cached",
+      "path": ".cache\\readmes\\benedekrozemberczki\\awesome-monte-carlo-tree-search-papers.md",
+      "bytes": 33679,
+      "depth": 2
+    },
+    {
+      "repo": "leomaurodesenv/game-datasets",
+      "status": "cached",
+      "path": ".cache\\readmes\\leomaurodesenv\\game-datasets.md",
+      "bytes": 25939,
+      "depth": 2
+    },
+    {
+      "repo": "astrazeneca/awesome-explainable-graph-reasoning",
+      "status": "cached",
+      "path": ".cache\\readmes\\astrazeneca\\awesome-explainable-graph-reasoning.md",
+      "bytes": 1352,
+      "depth": 2
+    },
+    {
+      "repo": "astrazeneca/awesome-drug-pair-scoring",
+      "status": "cached",
+      "path": ".cache\\readmes\\astrazeneca\\awesome-drug-pair-scoring.md",
+      "bytes": 2242,
+      "depth": 2
+    },
+    {
+      "repo": "pavelgrigoryevds/awesome-data-analysis",
+      "status": "cached",
+      "path": ".cache\\readmes\\pavelgrigoryevds\\awesome-data-analysis.md",
+      "bytes": 136359,
+      "depth": 2
+    },
+    {
+      "repo": "evidencesynthesis-tools/awesome-evidence-synthesis",
+      "status": "cached",
+      "path": ".cache\\readmes\\evidencesynthesis-tools\\awesome-evidence-synthesis.md",
+      "bytes": 27005,
+      "depth": 2
+    },
+    {
+      "repo": "ad-si/awesome-music-production",
+      "status": "cached",
+      "path": ".cache\\readmes\\ad-si\\awesome-music-production.md",
+      "bytes": 43805,
+      "depth": 2
+    },
+    {
+      "repo": "bulutyazilim/awesome-datascience",
+      "status": "cached",
+      "path": ".cache\\readmes\\bulutyazilim\\awesome-datascience.md",
+      "bytes": 128885,
+      "depth": 2
+    },
+    {
+      "repo": "wilsonfreitas/awesome-quant",
+      "status": "fetched",
+      "path": ".cache\\readmes\\wilsonfreitas\\awesome-quant.md",
+      "bytes": 103665,
+      "depth": 2
+    },
+    {
+      "repo": "your-username/awesome-jax-flax-llms",
+      "status": "missing",
+      "error": "README not found (403)",
+      "depth": 2
+    },
+    {
+      "repo": "zhaoxin94/awesome-domain-adaptation",
+      "status": "cached",
+      "path": ".cache\\readmes\\zhaoxin94\\awesome-domain-adaptation.md",
+      "bytes": 163263,
+      "depth": 2
+    },
+    {
+      "repo": "amusi/awesome-object-detection",
+      "status": "cached",
+      "path": ".cache\\readmes\\amusi\\awesome-object-detection.md",
+      "bytes": 38952,
+      "depth": 2
+    },
+    {
+      "repo": "timzhang642/3d-machine-learning",
+      "status": "cached",
+      "path": ".cache\\readmes\\timzhang642\\3d-machine-learning.md",
+      "bytes": 116570,
+      "depth": 2
+    },
+    {
+      "repo": "jinwchoi/awesome-action-recognition",
+      "status": "fetched",
+      "path": ".cache\\readmes\\jinwchoi\\awesome-action-recognition.md",
+      "bytes": 36094,
+      "depth": 2
+    },
+    {
+      "repo": "bertjiazheng/awesome-scene-understanding",
+      "status": "cached",
+      "path": ".cache\\readmes\\bertjiazheng\\awesome-scene-understanding.md",
+      "bytes": 40542,
+      "depth": 2
+    },
+    {
+      "repo": "yenchenlin/awesome-adversarial-machine-learning",
+      "status": "cached",
+      "path": ".cache\\readmes\\yenchenlin\\awesome-adversarial-machine-learning.md",
+      "bytes": 7388,
+      "depth": 2
+    },
+    {
+      "repo": "chbrian/awesome-adversarial-examples-dl",
+      "status": "cached",
+      "path": ".cache\\readmes\\chbrian\\awesome-adversarial-examples-dl.md",
+      "bytes": 18520,
+      "depth": 2
+    },
+    {
+      "repo": "polariszhao/awesome-face",
+      "status": "cached",
+      "path": ".cache\\readmes\\polariszhao\\awesome-face.md",
+      "bytes": 28437,
+      "depth": 2
+    },
+    {
+      "repo": "chanchichoi/awesome-face_recognition",
+      "status": "cached",
+      "path": ".cache\\readmes\\chanchichoi\\awesome-face_recognition.md",
+      "bytes": 541755,
+      "depth": 2
+    },
+    {
+      "repo": "wangzheallen/awesome-human-pose-estimation",
+      "status": "cached",
+      "path": ".cache\\readmes\\wangzheallen\\awesome-human-pose-estimation.md",
+      "bytes": 113559,
+      "depth": 2
+    },
+    {
+      "repo": "fepegar/awesome-medical-imaging",
+      "status": "cached",
+      "path": ".cache\\readmes\\fepegar\\awesome-medical-imaging.md",
+      "bytes": 11050,
+      "depth": 2
+    },
+    {
+      "repo": "heyalexej/awesome-images",
+      "status": "cached",
+      "path": ".cache\\readmes\\heyalexej\\awesome-images.md",
+      "bytes": 5458,
+      "depth": 2
+    },
+    {
+      "repo": "ericjang/awesome-graphics",
+      "status": "cached",
+      "path": ".cache\\readmes\\ericjang\\awesome-graphics.md",
+      "bytes": 31347,
+      "depth": 2
+    },
+    {
+      "repo": "yenchenlin/awesome-nerf",
+      "status": "cached",
+      "path": ".cache\\readmes\\yenchenlin\\awesome-nerf.md",
+      "bytes": 37518,
+      "depth": 2
+    },
+    {
+      "repo": "vsitzmann/awesome-implicit-representations",
+      "status": "cached",
+      "path": ".cache\\readmes\\vsitzmann\\awesome-implicit-representations.md",
+      "bytes": 23607,
+      "depth": 2
+    },
+    {
+      "repo": "weihaox/awesome-neural-rendering",
+      "status": "cached",
+      "path": ".cache\\readmes\\weihaox\\awesome-neural-rendering.md",
+      "bytes": 4100,
+      "depth": 2
+    },
+    {
+      "repo": "jsbroks/awesome-dataset-tools",
+      "status": "cached",
+      "path": ".cache\\readmes\\jsbroks\\awesome-dataset-tools.md",
+      "bytes": 11754,
+      "depth": 2
+    },
+    {
+      "repo": "sunglok/awesome-robotics-datasets",
+      "status": "cached",
+      "path": ".cache\\readmes\\sunglok\\awesome-robotics-datasets.md",
+      "bytes": 8619,
+      "depth": 2
+    },
+    {
+      "repo": "fritzlabs/awesome-mobile-machine-learning",
+      "status": "missing",
+      "error": "README not found (403)",
+      "depth": 2
+    },
+    {
+      "repo": "wangyongjie-ntu/awesome-explainable-ai",
+      "status": "cached",
+      "path": ".cache\\readmes\\wangyongjie-ntu\\awesome-explainable-ai.md",
+      "bytes": 29552,
+      "depth": 2
+    },
+    {
+      "repo": "datamllab/awesome-fairness-in-ai",
+      "status": "cached",
+      "path": ".cache\\readmes\\datamllab\\awesome-fairness-in-ai.md",
+      "bytes": 11537,
+      "depth": 2
+    },
+    {
+      "repo": "jphall663/awesome-machine-learning-interpretability",
+      "status": "cached",
+      "path": ".cache\\readmes\\jphall663\\awesome-machine-learning-interpretability.md",
+      "bytes": 1195,
+      "depth": 2
+    },
+    {
+      "repo": "ethicalml/awesome-production-machine-learning",
+      "status": "cached",
+      "path": ".cache\\readmes\\ethicalml\\awesome-production-machine-learning.md",
+      "bytes": 156553,
+      "depth": 2
+    },
+    {
+      "repo": "danieljf24/awesome-video-text-retrieval",
+      "status": "cached",
+      "path": ".cache\\readmes\\danieljf24\\awesome-video-text-retrieval.md",
+      "bytes": 29028,
+      "depth": 2
+    },
+    {
+      "repo": "weihaox/awesome-image-translation",
+      "status": "cached",
+      "path": ".cache\\readmes\\weihaox\\awesome-image-translation.md",
+      "bytes": 1876,
+      "depth": 2
+    },
+    {
+      "repo": "1900zyh/awesome-image-inpainting",
+      "status": "cached",
+      "path": ".cache\\readmes\\1900zyh\\awesome-image-inpainting.md",
+      "bytes": 33380,
+      "depth": 2
+    },
+    {
+      "repo": "vinthony/awesome-deep-hdr",
+      "status": "cached",
+      "path": ".cache\\readmes\\vinthony\\awesome-deep-hdr.md",
+      "bytes": 6160,
+      "depth": 2
+    },
+    {
+      "repo": "matthewvowels1/awesome-video-generation",
+      "status": "cached",
+      "path": ".cache\\readmes\\matthewvowels1\\awesome-video-generation.md",
+      "bytes": 40893,
+      "depth": 2
+    },
+    {
+      "repo": "nashory/gans-awesome-applications",
+      "status": "cached",
+      "path": ".cache\\readmes\\nashory\\gans-awesome-applications.md",
+      "bytes": 31615,
+      "depth": 2
+    },
+    {
+      "repo": "zhoubolei/awesome-generative-modeling",
+      "status": "cached",
+      "path": ".cache\\readmes\\zhoubolei\\awesome-generative-modeling.md",
+      "bytes": 12402,
+      "depth": 2
+    },
+    {
+      "repo": "weiaicunzai/awesome-image-classification",
+      "status": "cached",
+      "path": ".cache\\readmes\\weiaicunzai\\awesome-image-classification.md",
+      "bytes": 42024,
+      "depth": 2
+    },
+    {
+      "repo": "xindiwu/awesome-machine-learning-in-biomedical-healthcare-imaging",
+      "status": "cached",
+      "path": ".cache\\readmes\\xindiwu\\awesome-machine-learning-in-biomedical-healthcare-imaging.md",
+      "bytes": 10989,
+      "depth": 2
+    },
+    {
+      "repo": "abhineet123/deep-learning-for-tracking-and-detection",
+      "status": "missing",
+      "error": "README not found (403)",
+      "depth": 2
+    },
+    {
+      "repo": "huaizhengzhang/awsome-deep-learning-for-video-analysis",
+      "status": "cached",
+      "path": ".cache\\readmes\\huaizhengzhang\\awsome-deep-learning-for-video-analysis.md",
+      "bytes": 11926,
+      "depth": 2
+    },
+    {
+      "repo": "yuewang-cuhk/awesome-vision-language-pretraining-papers",
+      "status": "cached",
+      "path": ".cache\\readmes\\yuewang-cuhk\\awesome-vision-language-pretraining-papers.md",
+      "bytes": 12958,
+      "depth": 2
+    },
+    {
+      "repo": "dk-liang/awesome-visual-transformer",
+      "status": "cached",
+      "path": ".cache\\readmes\\dk-liang\\awesome-visual-transformer.md",
+      "bytes": 73531,
+      "depth": 2
+    },
+    {
+      "repo": "changanvr/awesome-embodied-vision",
+      "status": "cached",
+      "path": ".cache\\readmes\\changanvr\\awesome-embodied-vision.md",
+      "bytes": 63518,
+      "depth": 2
+    },
+    {
+      "repo": "hoya012/awesome-anomaly-detection",
+      "status": "cached",
+      "path": ".cache\\readmes\\hoya012\\awesome-anomaly-detection.md",
+      "bytes": 27735,
+      "depth": 2
+    },
+    {
+      "repo": "thaoshibe/awesome-makeup-transfer",
+      "status": "cached",
+      "path": ".cache\\readmes\\thaoshibe\\awesome-makeup-transfer.md",
+      "bytes": 11391,
+      "depth": 2
+    },
+    {
+      "repo": "subeeshvasu/awesome-learning-with-label-noise",
+      "status": "cached",
+      "path": ".cache\\readmes\\subeeshvasu\\awesome-learning-with-label-noise.md",
+      "bytes": 53907,
+      "depth": 2
+    },
+    {
+      "repo": "subeeshvasu/awesome-deblurring",
+      "status": "cached",
+      "path": ".cache\\readmes\\subeeshvasu\\awesome-deblurring.md",
+      "bytes": 90457,
+      "depth": 2
+    },
+    {
+      "repo": "subeeshvasu/awesome-image-distortion-correction",
+      "status": "cached",
+      "path": ".cache\\readmes\\subeeshvasu\\awesome-image-distortion-correction.md",
+      "bytes": 22441,
+      "depth": 2
+    },
+    {
+      "repo": "subeeshvasu/awesome-neuron-segmentation-in-em-images",
+      "status": "cached",
+      "path": ".cache\\readmes\\subeeshvasu\\awesome-neuron-segmentation-in-em-images.md",
+      "bytes": 9242,
+      "depth": 2
+    },
+    {
+      "repo": "subeeshvasu/awesome-imageharmonization",
+      "status": "cached",
+      "path": ".cache\\readmes\\subeeshvasu\\awesome-imageharmonization.md",
+      "bytes": 3484,
+      "depth": 2
+    },
+    {
+      "repo": "tstanislawek/awesome-document-understanding",
+      "status": "cached",
+      "path": ".cache\\readmes\\tstanislawek\\awesome-document-understanding.md",
+      "bytes": 35386,
+      "depth": 2
+    },
+    {
+      "repo": "caesar0301/awesome-public-datasets",
+      "status": "missing",
+      "error": "README not found (403)",
+      "depth": 2
+    },
+    {
+      "repo": "neuraxio/awesome-neuraxle",
+      "status": "cached",
+      "path": ".cache\\readmes\\neuraxio\\awesome-neuraxle.md",
+      "bytes": 5697,
+      "depth": 2
+    },
+    {
+      "repo": "brianspiering/awesome-dl4nlp",
+      "status": "cached",
+      "path": ".cache\\readmes\\brianspiering\\awesome-dl4nlp.md",
+      "bytes": 17798,
+      "depth": 2
+    },
+    {
+      "repo": "keon/awesome-nlp",
+      "status": "cached",
+      "path": ".cache\\readmes\\keon\\awesome-nlp.md",
+      "bytes": 56021,
+      "depth": 2
+    },
+    {
+      "repo": "arbox/nlp-with-ruby",
+      "status": "cached",
+      "path": ".cache\\readmes\\arbox\\nlp-with-ruby.md",
+      "bytes": 32758,
+      "depth": 2
+    },
+    {
+      "repo": "filipecalegario/awesome-generative-ai",
+      "status": "cached",
+      "path": ".cache\\readmes\\filipecalegario\\awesome-generative-ai.md",
+      "bytes": 182575,
+      "depth": 2
+    },
+    {
+      "repo": "steven2358/awesome-music-ai",
+      "status": "cached",
+      "path": ".cache\\readmes\\steven2358\\awesome-music-ai.md",
+      "bytes": 2577,
+      "depth": 2
+    },
+    {
+      "repo": "joylarkin/awesome-ai-market-maps",
+      "status": "cached",
+      "path": ".cache\\readmes\\joylarkin\\awesome-ai-market-maps.md",
+      "bytes": 119123,
+      "depth": 2
+    },
+    {
+      "repo": "yigtwxx/awesome-rag-production",
+      "status": "cached",
+      "path": ".cache\\readmes\\yigtwxx\\awesome-rag-production.md",
+      "bytes": 80457,
+      "depth": 2
+    },
+    {
+      "repo": "humanloop/awesome-chatgpt",
+      "status": "cached",
+      "path": ".cache\\readmes\\humanloop\\awesome-chatgpt.md",
+      "bytes": 5582,
+      "depth": 2
+    },
+    {
+      "repo": "f/prompts.chat",
+      "status": "cached",
+      "path": ".cache\\readmes\\f\\prompts.chat.md",
+      "bytes": 11390,
+      "depth": 2
+    },
+    {
+      "repo": "sduff/awesome-es",
+      "status": "cached",
+      "path": ".cache\\readmes\\sduff\\awesome-es.md",
+      "bytes": 4634,
+      "depth": 2
+    },
+    {
+      "repo": "sduff/awesome-itsi",
+      "status": "cached",
+      "path": ".cache\\readmes\\sduff\\awesome-itsi.md",
+      "bytes": 10425,
+      "depth": 2
+    },
+    {
+      "repo": "m15a/flake-awesome-neovim-plugins",
+      "status": "cached",
+      "path": ".cache\\readmes\\m15a\\flake-awesome-neovim-plugins.md",
+      "bytes": 3359,
+      "depth": 2
+    },
+    {
+      "repo": "akrawchyk/awesome-vim",
+      "status": "cached",
+      "path": ".cache\\readmes\\akrawchyk\\awesome-vim.md",
+      "bytes": 7549,
+      "depth": 2
+    },
+    {
+      "repo": "ivorforce/awesome-godot-scientific",
+      "status": "cached",
+      "path": ".cache\\readmes\\ivorforce\\awesome-godot-scientific.md",
+      "bytes": 5566,
+      "depth": 2
+    },
+    {
+      "repo": "awesome-interactive/game-off-2013",
+      "status": "cached",
+      "path": ".cache\\readmes\\awesome-interactive\\game-off-2013.md",
+      "bytes": 1271,
+      "depth": 2
+    },
+    {
+      "repo": "mbrukman/awesome-gamedev",
+      "status": "cached",
+      "path": ".cache\\readmes\\mbrukman\\awesome-gamedev.md",
+      "bytes": 55966,
+      "depth": 2
+    },
+    {
+      "repo": "aspen-reeves/awesome-switchcraft",
+      "status": "cached",
+      "path": ".cache\\readmes\\aspen-reeves\\awesome-switchcraft.md",
+      "bytes": 7894,
+      "depth": 2
+    },
+    {
+      "repo": "shlomo1412/awesome-cctweaked",
+      "status": "cached",
+      "path": ".cache\\readmes\\shlomo1412\\awesome-cctweaked.md",
+      "bytes": 91555,
+      "depth": 2
+    },
+    {
+      "repo": "mfatihmar/awesome-game-networking",
+      "status": "cached",
+      "path": ".cache\\readmes\\mfatihmar\\awesome-game-networking.md",
+      "bytes": 23405,
+      "depth": 2
+    },
+    {
+      "repo": "calinou/awesome-gamedev",
+      "status": "cached",
+      "path": ".cache\\readmes\\calinou\\awesome-gamedev.md",
+      "bytes": 62527,
+      "depth": 2
+    },
+    {
+      "repo": "toolleeo/awesome-cli-apps-in-a-csv",
+      "status": "cached",
+      "path": ".cache\\readmes\\toolleeo\\awesome-cli-apps-in-a-csv.md",
+      "bytes": 335685,
+      "depth": 2
+    },
+    {
+      "repo": "gabrielelana/awesome-terminal-fonts",
+      "status": "cached",
+      "path": ".cache\\readmes\\gabrielelana\\awesome-terminal-fonts.md",
+      "bytes": 5244,
+      "depth": 2
+    },
+    {
+      "repo": "ztomer/fantasque_awesome_powerline",
+      "status": "cached",
+      "path": ".cache\\readmes\\ztomer\\fantasque_awesome_powerline.md",
+      "bytes": 400,
+      "depth": 2
+    },
+    {
+      "repo": "max/awesome-lint",
+      "status": "cached",
+      "path": ".cache\\readmes\\max\\awesome-lint.md",
+      "bytes": 451,
+      "depth": 2
+    },
+    {
+      "repo": "julienkode/pull-request-name-linter-action",
+      "status": "cached",
+      "path": ".cache\\readmes\\julienkode\\pull-request-name-linter-action.md",
+      "bytes": 2826,
+      "depth": 2
+    },
+    {
+      "repo": "neo4j-contrib/neo4j-apoc-procedures",
+      "status": "missing",
+      "error": "README not found (403)",
+      "depth": 2
+    },
+    {
+      "repo": "fortawesome/font-awesome",
+      "status": "cached",
+      "path": ".cache\\readmes\\fortawesome\\font-awesome.md",
+      "bytes": 6735,
+      "depth": 2
+    },
+    {
+      "repo": "nodiscc/awesome-linuxaudio",
+      "status": "cached",
+      "path": ".cache\\readmes\\nodiscc\\awesome-linuxaudio.md",
+      "bytes": 90407,
+      "depth": 2
+    },
+    {
+      "repo": "rcarubbi/awesome-brazilian-youtubers",
+      "status": "cached",
+      "path": ".cache\\readmes\\rcarubbi\\awesome-brazilian-youtubers.md",
+      "bytes": 49991,
+      "depth": 2
+    },
+    {
+      "repo": "rcarubbi/awesome-spanish-youtubers",
+      "status": "cached",
+      "path": ".cache\\readmes\\rcarubbi\\awesome-spanish-youtubers.md",
+      "bytes": 16866,
+      "depth": 2
+    },
+    {
+      "repo": "gpotter2/awesome-scapy",
+      "status": "cached",
+      "path": ".cache\\readmes\\gpotter2\\awesome-scapy.md",
+      "bytes": 7322,
+      "depth": 2
+    },
+    {
+      "repo": "ashishb/android-security-awesome",
+      "status": "cached",
+      "path": ".cache\\readmes\\ashishb\\android-security-awesome.md",
+      "bytes": 29801,
+      "depth": 2
+    },
+    {
+      "repo": "kai5263499/osx-security-awesome",
+      "status": "cached",
+      "path": ".cache\\readmes\\kai5263499\\osx-security-awesome.md",
+      "bytes": 27326,
+      "depth": 2
+    },
+    {
+      "repo": "henryhoggard/awesome-arm-exploitation",
+      "status": "cached",
+      "path": ".cache\\readmes\\henryhoggard\\awesome-arm-exploitation.md",
+      "bytes": 5232,
+      "depth": 2
+    },
+    {
+      "repo": "joe-shenouda/awesome-cyber-skills",
+      "status": "cached",
+      "path": ".cache\\readmes\\joe-shenouda\\awesome-cyber-skills.md",
+      "bytes": 27393,
+      "depth": 2
+    },
+    {
+      "repo": "lissy93/personal-security-checklist",
+      "status": "missing",
+      "error": "README not found (403)",
+      "depth": 2
+    },
+    {
+      "repo": "taleliyahu/awesome-security-newsletters",
+      "status": "cached",
+      "path": ".cache\\readmes\\taleliyahu\\awesome-security-newsletters.md",
+      "bytes": 7645,
+      "depth": 2
+    },
+    {
+      "repo": "enaqx/awesome-pentest",
+      "status": "cached",
+      "path": ".cache\\readmes\\enaqx\\awesome-pentest.md",
+      "bytes": 89335,
+      "depth": 2
+    },
+    {
+      "repo": "lissy93/awesome-privacy",
+      "status": "missing",
+      "error": "README not found (403)",
+      "depth": 2
+    },
+    {
+      "repo": "infoslack/awesome-web-hacking",
+      "status": "cached",
+      "path": ".cache\\readmes\\infoslack\\awesome-web-hacking.md",
+      "bytes": 27108,
+      "depth": 2
+    },
+    {
+      "repo": "redshiftzero/awesome-threat-modeling",
+      "status": "cached",
+      "path": ".cache\\readmes\\redshiftzero\\awesome-threat-modeling.md",
+      "bytes": 4976,
+      "depth": 2
+    },
+    {
+      "repo": "coreb1t/awesome-pentest-cheat-sheets",
+      "status": "cached",
+      "path": ".cache\\readmes\\coreb1t\\awesome-pentest-cheat-sheets.md",
+      "bytes": 13548,
+      "depth": 2
+    },
+    {
+      "repo": "mpesen/awesome-industrial-control-system-security",
+      "status": "cached",
+      "path": ".cache\\readmes\\mpesen\\awesome-industrial-control-system-security.md",
+      "bytes": 15616,
+      "depth": 2
+    },
+    {
+      "repo": "inquest/awesome-yara",
+      "status": "cached",
+      "path": ".cache\\readmes\\inquest\\awesome-yara.md",
+      "bytes": 44759,
+      "depth": 2
+    },
+    {
+      "repo": "0x4d31/awesome-threat-detection",
+      "status": "cached",
+      "path": ".cache\\readmes\\0x4d31\\awesome-threat-detection.md",
+      "bytes": 46530,
+      "depth": 2
+    },
+    {
+      "repo": "kai5263499/container-security-awesome",
+      "status": "cached",
+      "path": ".cache\\readmes\\kai5263499\\container-security-awesome.md",
+      "bytes": 178,
+      "depth": 2
+    },
+    {
+      "repo": "jakejarvis/awesome-shodan-queries",
+      "status": "cached",
+      "path": ".cache\\readmes\\jakejarvis\\awesome-shodan-queries.md",
+      "bytes": 23307,
+      "depth": 2
+    },
+    {
+      "repo": "thehappydinoa/awesome-censys-queries",
+      "status": "cached",
+      "path": ".cache\\readmes\\thehappydinoa\\awesome-censys-queries.md",
+      "bytes": 44997,
+      "depth": 2
+    },
+    {
+      "repo": "remiflavien1/awesome-anti-forensic",
+      "status": "cached",
+      "path": ".cache\\readmes\\remiflavien1\\awesome-anti-forensic.md",
+      "bytes": 21467,
+      "depth": 2
+    },
+    {
+      "repo": "paulsec/awesome-sec-talks",
+      "status": "cached",
+      "path": ".cache\\readmes\\paulsec\\awesome-sec-talks.md",
+      "bytes": 35289,
+      "depth": 2
+    },
+    {
+      "repo": "palindromelabs/awesome-websocket-security",
+      "status": "cached",
+      "path": ".cache\\readmes\\palindromelabs\\awesome-websocket-security.md",
+      "bytes": 11786,
+      "depth": 2
+    },
+    {
+      "repo": "correlatedsecurity/awesome-soar",
+      "status": "cached",
+      "path": ".cache\\readmes\\correlatedsecurity\\awesome-soar.md",
+      "bytes": 49159,
+      "depth": 2
+    },
+    {
+      "repo": "decalage2/awesome-security-hardening",
+      "status": "cached",
+      "path": ".cache\\readmes\\decalage2\\awesome-security-hardening.md",
+      "bytes": 37488,
+      "depth": 2
+    },
+    {
+      "repo": "awesome-foss/awesome-sysadmin",
+      "status": "cached",
+      "path": ".cache\\readmes\\awesome-foss\\awesome-sysadmin.md",
+      "bytes": 77224,
+      "depth": 2
+    },
+    {
+      "repo": "uppusaikiran/awesome-ctf-cheatsheet",
+      "status": "cached",
+      "path": ".cache\\readmes\\uppusaikiran\\awesome-ctf-cheatsheet.md",
+      "bytes": 55629,
+      "depth": 2
+    },
+    {
+      "repo": "s0md3v/awesomexss",
+      "status": "cached",
+      "path": ".cache\\readmes\\s0md3v\\awesomexss.md",
+      "bytes": 12044,
+      "depth": 2
+    },
+    {
+      "repo": "qazbnm456/awesome-cve-poc",
+      "status": "cached",
+      "path": ".cache\\readmes\\qazbnm456\\awesome-cve-poc.md",
+      "bytes": 380437,
+      "depth": 2
+    },
+    {
+      "repo": "djadmin/awesome-bug-bounty",
+      "status": "cached",
+      "path": ".cache\\readmes\\djadmin\\awesome-bug-bounty.md",
+      "bytes": 26928,
+      "depth": 2
+    },
+    {
+      "repo": "hysnsec/awesome-threat-modelling",
+      "status": "cached",
+      "path": ".cache\\readmes\\hysnsec\\awesome-threat-modelling.md",
+      "bytes": 17425,
+      "depth": 2
+    },
+    {
+      "repo": "analysis-tools-dev/dynamic-analysis",
+      "status": "cached",
+      "path": ".cache\\readmes\\analysis-tools-dev\\dynamic-analysis.md",
+      "bytes": 18198,
+      "depth": 2
+    },
+    {
+      "repo": "shospodarets/awesome-platform-engineering",
+      "status": "cached",
+      "path": ".cache\\readmes\\shospodarets\\awesome-platform-engineering.md",
+      "bytes": 16147,
+      "depth": 2
+    },
+    {
+      "repo": "analysis-tools-dev/static-analysis",
+      "status": "cached",
+      "path": ".cache\\readmes\\analysis-tools-dev\\static-analysis.md",
+      "bytes": 174995,
+      "depth": 2
+    },
+    {
+      "repo": "x-zheng16/awesome-embodied-ai-safety",
+      "status": "cached",
+      "path": ".cache\\readmes\\x-zheng16\\awesome-embodied-ai-safety.md",
+      "bytes": 122793,
+      "depth": 2
+    },
+    {
+      "repo": "jatrost/awesome-kubernetes-threat-detection",
+      "status": "cached",
+      "path": ".cache\\readmes\\jatrost\\awesome-kubernetes-threat-detection.md",
+      "bytes": 19392,
+      "depth": 2
+    },
+    {
+      "repo": "vitorian/awesome-fpga",
+      "status": "cached",
+      "path": ".cache\\readmes\\vitorian\\awesome-fpga.md",
+      "bytes": 2669,
+      "depth": 2
+    },
+    {
+      "repo": "embedded-boston/awesome-embedded-systems",
+      "status": "cached",
+      "path": ".cache\\readmes\\embedded-boston\\awesome-embedded-systems.md",
+      "bytes": 24785,
+      "depth": 2
+    },
+    {
+      "repo": "kelu124/awesome-latticefpgas",
+      "status": "cached",
+      "path": ".cache\\readmes\\kelu124\\awesome-latticefpgas.md",
+      "bytes": 20268,
+      "depth": 2
+    },
+    {
+      "repo": "tm90/awesome-hwd-tools",
+      "status": "cached",
+      "path": ".cache\\readmes\\tm90\\awesome-hwd-tools.md",
+      "bytes": 5336,
+      "depth": 2
+    },
+    {
+      "repo": "upb-lea/awesome-open-source-power-electronics",
+      "status": "cached",
+      "path": ".cache\\readmes\\upb-lea\\awesome-open-source-power-electronics.md",
+      "bytes": 11822,
+      "depth": 2
+    },
+    {
+      "repo": "kosmos/awesome-generative-art",
+      "status": "cached",
+      "path": ".cache\\readmes\\kosmos\\awesome-generative-art.md",
+      "bytes": 16586,
+      "depth": 2
+    },
+    {
+      "repo": "msurguy/awesome-3d-engines-for-plotters",
+      "status": "cached",
+      "path": ".cache\\readmes\\msurguy\\awesome-3d-engines-for-plotters.md",
+      "bytes": 924,
+      "depth": 2
+    },
+    {
+      "repo": "maximabramchuck/awesome-interview-questions",
+      "status": "missing",
+      "error": "README not found (403)",
+      "depth": 2
+    },
+    {
+      "repo": "lukasz-madon/awesome-concepts",
+      "status": "fetched",
+      "path": ".cache\\readmes\\lukasz-madon\\awesome-concepts.md",
+      "bytes": 63212,
+      "depth": 2
+    },
+    {
+      "repo": "comunidad-tecnologica/awesome-spanish-slack-dev-groups",
+      "status": "cached",
+      "path": ".cache\\readmes\\comunidad-tecnologica\\awesome-spanish-slack-dev-groups.md",
+      "bytes": 5664,
+      "depth": 2
+    },
+    {
+      "repo": "phpearth/awesome-community",
+      "status": "cached",
+      "path": ".cache\\readmes\\phpearth\\awesome-community.md",
+      "bytes": 40062,
+      "depth": 2
+    },
+    {
+      "repo": "rtckit/awesome-ript",
+      "status": "cached",
+      "path": ".cache\\readmes\\rtckit\\awesome-ript.md",
+      "bytes": 2265,
+      "depth": 2
+    },
+    {
+      "repo": "enablesecurity/awesome-rtc-hacking",
+      "status": "cached",
+      "path": ".cache\\readmes\\enablesecurity\\awesome-rtc-hacking.md",
+      "bytes": 16672,
+      "depth": 2
+    },
+    {
+      "repo": "calee0219/awesome-5g",
+      "status": "cached",
+      "path": ".cache\\readmes\\calee0219\\awesome-5g.md",
+      "bytes": 14270,
+      "depth": 2
+    },
+    {
+      "repo": "w00t3k/awesome-cellular-hacking",
+      "status": "cached",
+      "path": ".cache\\readmes\\w00t3k\\awesome-cellular-hacking.md",
+      "bytes": 43163,
+      "depth": 2
+    },
+    {
+      "repo": "ravens/awesome-telco",
+      "status": "cached",
+      "path": ".cache\\readmes\\ravens\\awesome-telco.md",
+      "bytes": 218785,
+      "depth": 2
+    },
+    {
+      "repo": "fasouto/awesome-dataviz",
+      "status": "cached",
+      "path": ".cache\\readmes\\fasouto\\awesome-dataviz.md",
+      "bytes": 19208,
+      "depth": 2
+    },
+    {
+      "repo": "iiif/awesome-iiif",
+      "status": "cached",
+      "path": ".cache\\readmes\\iiif\\awesome-iiif.md",
+      "bytes": 53928,
+      "depth": 2
+    },
+    {
+      "repo": "kba/awesome-ocr",
+      "status": "cached",
+      "path": ".cache\\readmes\\kba\\awesome-ocr.md",
+      "bytes": 34691,
+      "depth": 2
+    },
+    {
+      "repo": "christowolf/awesome-testing-blogs",
+      "status": "cached",
+      "path": ".cache\\readmes\\christowolf\\awesome-testing-blogs.md",
+      "bytes": 6138,
+      "depth": 2
+    },
+    {
+      "repo": "ligurio/awesome-software-quality",
+      "status": "cached",
+      "path": ".cache\\readmes\\ligurio\\awesome-software-quality.md",
+      "bytes": 461,
+      "depth": 2
+    },
+    {
+      "repo": "virajkulkarni14/awesome-cucumber",
+      "status": "cached",
+      "path": ".cache\\readmes\\virajkulkarni14\\awesome-cucumber.md",
+      "bytes": 5945,
+      "depth": 2
+    },
+    {
+      "repo": "be-next/awesome-performance-engineering",
+      "status": "cached",
+      "path": ".cache\\readmes\\be-next\\awesome-performance-engineering.md",
+      "bytes": 30134,
+      "depth": 2
+    },
+    {
+      "repo": "ligurio/sqa-wiki",
+      "status": "cached",
+      "path": ".cache\\readmes\\ligurio\\sqa-wiki.md",
+      "bytes": 461,
+      "depth": 2
+    },
+    {
+      "repo": "aliesbelik/awesome-tsung",
+      "status": "cached",
+      "path": ".cache\\readmes\\aliesbelik\\awesome-tsung.md",
+      "bytes": 8086,
+      "depth": 2
+    },
+    {
+      "repo": "aliesbelik/awesome-locust",
+      "status": "cached",
+      "path": ".cache\\readmes\\aliesbelik\\awesome-locust.md",
+      "bytes": 12046,
+      "depth": 2
+    },
+    {
+      "repo": "denji/awesome-http-benchmark",
+      "status": "cached",
+      "path": ".cache\\readmes\\denji\\awesome-http-benchmark.md",
+      "bytes": 15211,
+      "depth": 2
+    },
+    {
+      "repo": "yeaight7/awesome-ai-devtools",
+      "status": "fetched",
+      "path": ".cache\\readmes\\yeaight7\\awesome-ai-devtools.md",
+      "bytes": 125803,
+      "depth": 2
+    },
+    {
+      "repo": "xinychen/awesome-latex-drawing",
+      "status": "cached",
+      "path": ".cache\\readmes\\xinychen\\awesome-latex-drawing.md",
+      "bytes": 43139,
+      "depth": 2
+    },
+    {
+      "repo": "hussainather/awesome-alternative-splicing",
+      "status": "cached",
+      "path": ".cache\\readmes\\hussainather\\awesome-alternative-splicing.md",
+      "bytes": 10990,
+      "depth": 2
+    },
+    {
+      "repo": "opendilab/awesome-ai-based-protein-design",
+      "status": "cached",
+      "path": ".cache\\readmes\\opendilab\\awesome-ai-based-protein-design.md",
+      "bytes": 16325,
+      "depth": 2
+    },
+    {
+      "repo": "mariuszgil/awesome-eventstorming",
+      "status": "cached",
+      "path": ".cache\\readmes\\mariuszgil\\awesome-eventstorming.md",
+      "bytes": 10404,
+      "depth": 2
+    },
+    {
+      "repo": "hofstef/awesome-domain-storytelling",
+      "status": "cached",
+      "path": ".cache\\readmes\\hofstef\\awesome-domain-storytelling.md",
+      "bytes": 7969,
+      "depth": 2
+    },
+    {
+      "repo": "mathisonian/awesome-visualization-research",
+      "status": "cached",
+      "path": ".cache\\readmes\\mathisonian\\awesome-visualization-research.md",
+      "bytes": 19957,
+      "depth": 2
+    },
+    {
+      "repo": "toplap/awesome-livecoding",
+      "status": "cached",
+      "path": ".cache\\readmes\\toplap\\awesome-livecoding.md",
+      "bytes": 40105,
+      "depth": 2
+    },
+    {
+      "repo": "engagingspaces/awesome-humane-tech",
+      "status": "cached",
+      "path": ".cache\\readmes\\engagingspaces\\awesome-humane-tech.md",
+      "bytes": 2198,
+      "depth": 2
+    },
+    {
+      "repo": "kickball/awesome-selfhosted",
+      "status": "cached",
+      "path": ".cache\\readmes\\kickball\\awesome-selfhosted.md",
+      "bytes": 321677,
+      "depth": 2
+    },
+    {
+      "repo": "jonatasbaldin/awesome-awesome-awesome",
+      "status": "missing",
+      "error": "README not found (403)",
+      "depth": 2
+    },
+    {
+      "repo": "sunel/awesome-magento",
+      "status": "cached",
+      "path": ".cache\\readmes\\sunel\\awesome-magento.md",
+      "bytes": 14095,
+      "depth": 2
+    },
+    {
+      "repo": "samber/awesome-prometheus-alerts",
+      "status": "cached",
+      "path": ".cache\\readmes\\samber\\awesome-prometheus-alerts.md",
+      "bytes": 9564,
+      "depth": 2
+    },
+    {
+      "repo": "proyecto26/awesome-jsgames",
+      "status": "cached",
+      "path": ".cache\\readmes\\proyecto26\\awesome-jsgames.md",
+      "bytes": 31575,
+      "depth": 2
+    },
+    {
+      "repo": "jupyter-naas/awesome-notebooks",
+      "status": "cached",
+      "path": ".cache\\readmes\\jupyter-naas\\awesome-notebooks.md",
+      "bytes": 710932,
+      "depth": 2
+    },
+    {
+      "repo": "s4kibs4mi/awesome-kacchi",
+      "status": "cached",
+      "path": ".cache\\readmes\\s4kibs4mi\\awesome-kacchi.md",
+      "bytes": 2179,
+      "depth": 2
+    },
+    {
+      "repo": "awesomecities/awesome-berlin",
+      "status": "cached",
+      "path": ".cache\\readmes\\awesomecities\\awesome-berlin.md",
+      "bytes": 6810,
+      "depth": 2
+    },
+    {
+      "repo": "fernerkundung/awesome-sentinel",
+      "status": "cached",
+      "path": ".cache\\readmes\\fernerkundung\\awesome-sentinel.md",
+      "bytes": 17312,
+      "depth": 2
+    },
+    {
+      "repo": "px39n/awesome-vegetation-index",
+      "status": "cached",
+      "path": ".cache\\readmes\\px39n\\awesome-vegetation-index.md",
+      "bytes": 31332,
+      "depth": 2
+    },
+    {
+      "repo": "alexpate/awesome-design-systems",
+      "status": "cached",
+      "path": ".cache\\readmes\\alexpate\\awesome-design-systems.md",
+      "bytes": 40714,
+      "depth": 2
+    },
+    {
+      "repo": "pogopaule/awesome-sustainability-jobs",
+      "status": "cached",
+      "path": ".cache\\readmes\\pogopaule\\awesome-sustainability-jobs.md",
+      "bytes": 61863,
+      "depth": 2
+    },
+    {
+      "repo": "sumimakito/awesomeqrcode",
+      "status": "cached",
+      "path": ".cache\\readmes\\sumimakito\\awesomeqrcode.md",
+      "bytes": 12066,
+      "depth": 2
+    },
+    {
+      "repo": "niedev/awesome-translations",
+      "status": "cached",
+      "path": ".cache\\readmes\\niedev\\awesome-translations.md",
+      "bytes": 17197,
+      "depth": 2
+    },
+    {
+      "repo": "alexture/awesome-translations",
+      "status": "cached",
+      "path": ".cache\\readmes\\alexture\\awesome-translations.md",
+      "bytes": 16870,
+      "depth": 2
+    },
+    {
+      "repo": "slone-nlp/awesome-new-languages-in-machine-translation",
+      "status": "cached",
+      "path": ".cache\\readmes\\slone-nlp\\awesome-new-languages-in-machine-translation.md",
+      "bytes": 6177,
+      "depth": 2
+    },
+    {
+      "repo": "f/awesome-chatgpt-prompts",
+      "status": "cached",
+      "path": ".cache\\readmes\\f\\awesome-chatgpt-prompts.md",
+      "bytes": 11390,
+      "depth": 2
+    },
+    {
+      "repo": "kristories/awesome-guidelines",
+      "status": "cached",
+      "path": ".cache\\readmes\\kristories\\awesome-guidelines.md",
+      "bytes": 22225,
+      "depth": 2
+    },
+    {
+      "repo": "yosriady/awesome-api-devtools",
+      "status": "cached",
+      "path": ".cache\\readmes\\yosriady\\awesome-api-devtools.md",
+      "bytes": 26965,
+      "depth": 2
+    },
+    {
+      "repo": "green-software-foundation/awesome-green-software",
+      "status": "cached",
+      "path": ".cache\\readmes\\green-software-foundation\\awesome-green-software.md",
+      "bytes": 33491,
+      "depth": 2
+    },
+    {
+      "repo": "techforgoodcast/awesome-techforgood",
+      "status": "cached",
+      "path": ".cache\\readmes\\techforgoodcast\\awesome-techforgood.md",
+      "bytes": 17334,
+      "depth": 2
+    }
+  ],
+  "failures": [
+    {
+      "repo": "ramitsurana/awesome-kubernetes",
+      "status": "missing",
+      "error": "README not found (403)"
+    },
+    {
+      "repo": "0xnr/awesome-bigdata",
+      "status": "missing",
+      "error": "README not found (403)"
+    },
+    {
+      "repo": "awesomedata/awesome-public-datasets",
+      "status": "missing",
+      "error": "README not found (403)"
+    },
+    {
+      "repo": "emacs-tw/awesome-emacs",
+      "status": "missing",
+      "error": "README not found (403)"
+    },
+    {
+      "repo": "sindresorhus/awesome-scifi",
+      "status": "missing",
+      "error": "README not found (403)"
+    },
+    {
+      "repo": "dahlia/awesome-sqlalchemy",
+      "status": "missing",
+      "error": "README not found (403)"
+    },
+    {
+      "repo": "drmonkeyninja/awesome-textpattern",
+      "status": "missing",
+      "error": "README not found (403)"
+    },
+    {
+      "repo": "sdnds-tw/awesome-sdn",
+      "status": "missing",
+      "error": "README not found (403)"
+    },
+    {
+      "repo": "0xnr/awesome-analytics",
+      "status": "missing",
+      "error": "README not found (403)"
+    },
+    {
+      "repo": "woop/awesome-quantified-self",
+      "status": "missing",
+      "error": "README not found (403)"
+    },
+    {
+      "repo": "umutphp/awesome-cli",
+      "status": "missing",
+      "error": "README not found (403)"
+    },
+    {
+      "repo": "serhii-londar/open-source-mac-os-apps",
+      "status": "missing",
+      "error": "README not found (403)"
+    },
+    {
+      "repo": "mzlogin/awesome-adb",
+      "status": "missing",
+      "error": "README not found (403)"
+    },
+    {
+      "repo": "doyensec/awesome-electronjs-hacking",
+      "status": "missing",
+      "error": "README not found (403)"
+    },
+    {
+      "repo": "linuxdeploy/awesome-linuxdeploy",
+      "status": "missing",
+      "error": "README not found (403)"
+    },
+    {
+      "repo": "awesome-mqtt/awesome-mqtt",
+      "status": "missing",
+      "error": "README not found (403)"
+    },
+    {
+      "repo": "sshuair/awesome-gis",
+      "status": "missing",
+      "error": "README not found (403)"
+    },
+    {
+      "repo": "wenhwu/awesome-remote-sensing-change-detection",
+      "status": "missing",
+      "error": "README not found (403)"
+    },
+    {
+      "repo": "gunnarmorling/awesome-annotation-processing",
+      "status": "missing",
+      "error": "README not found (403)"
+    },
+    {
+      "repo": "maximabramchuck/awesome-interviews",
+      "status": "missing",
+      "error": "README not found (403)"
+    },
+    {
+      "repo": "benedekrozemberczki/awesome-decision-tree-papers",
+      "status": "missing",
+      "error": "README not found (403)"
+    },
+    {
+      "repo": "nerox8664/awesome-computer-vision-models",
+      "status": "missing",
+      "error": "README not found (403)"
+    },
+    {
+      "repo": "your-username/awesome-jax-flax-llms",
+      "status": "missing",
+      "error": "README not found (403)"
+    },
+    {
+      "repo": "fritzlabs/awesome-mobile-machine-learning",
+      "status": "missing",
+      "error": "README not found (403)"
+    },
+    {
+      "repo": "abhineet123/deep-learning-for-tracking-and-detection",
+      "status": "missing",
+      "error": "README not found (403)"
+    },
+    {
+      "repo": "caesar0301/awesome-public-datasets",
+      "status": "missing",
+      "error": "README not found (403)"
+    },
+    {
+      "repo": "neo4j-contrib/neo4j-apoc-procedures",
+      "status": "missing",
+      "error": "README not found (403)"
+    },
+    {
+      "repo": "lissy93/personal-security-checklist",
+      "status": "missing",
+      "error": "README not found (403)"
+    },
+    {
+      "repo": "lissy93/awesome-privacy",
+      "status": "missing",
+      "error": "README not found (403)"
+    },
+    {
+      "repo": "maximabramchuck/awesome-interview-questions",
+      "status": "missing",
+      "error": "README not found (403)"
+    },
+    {
+      "repo": "jonatasbaldin/awesome-awesome-awesome",
+      "status": "missing",
+      "error": "README not found (403)"
+    }
+  ]
+}

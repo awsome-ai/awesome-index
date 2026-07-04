@@ -2,8 +2,9 @@
   "id": "root-books",
   "title": "Books",
   "kind": "section",
-  "depth": 0,
   "sourceRepo": "sindresorhus/awesome",
+  "depth": 0,
+  "url": "https://github.com/sindresorhus/awesome#books",
   "children": [
     {
       "id": "root-books-free-programming-books",
@@ -23,7 +24,11 @@
       "topics": [],
       "updated": null,
       "pushed": null,
-      "awesome": false
+      "awesome": false,
+      "path": [
+        "Free Programming Books"
+      ],
+      "parentId": "root-books"
     },
     {
       "id": "root-books-go-books",
@@ -43,7 +48,11 @@
       "topics": [],
       "updated": null,
       "pushed": null,
-      "awesome": false
+      "awesome": false,
+      "path": [
+        "Go Books"
+      ],
+      "parentId": "root-books"
     },
     {
       "id": "root-books-r-books",
@@ -63,7 +72,11 @@
       "topics": [],
       "updated": null,
       "pushed": null,
-      "awesome": false
+      "awesome": false,
+      "path": [
+        "R Books"
+      ],
+      "parentId": "root-books"
     },
     {
       "id": "root-books-mind-expanding-books",
@@ -83,7 +96,11 @@
       "topics": [],
       "updated": null,
       "pushed": null,
-      "awesome": false
+      "awesome": false,
+      "path": [
+        "Mind Expanding Books"
+      ],
+      "parentId": "root-books"
     },
     {
       "id": "root-books-book-authoring",
@@ -100,8 +117,9 @@
           "id": "root-books-book-authoring-must-reads",
           "title": "Must Reads",
           "kind": "section",
-          "depth": 1,
           "sourceRepo": "talater/awesome-book-authoring",
+          "depth": 1,
+          "url": "https://github.com/talater/awesome-book-authoring#must-reads",
           "children": [
             {
               "id": "root-books-book-authoring-must-reads-scott-meyers-advice-to-prospective-book-authors",
@@ -121,7 +139,13 @@
               "topics": [],
               "updated": null,
               "pushed": null,
-              "awesome": false
+              "awesome": false,
+              "path": [
+                "Book Authoring",
+                "Must Reads",
+                "Scott Meyers' Advice to Prospective Book Authors"
+              ],
+              "parentId": "root-books-book-authoring-must-reads"
             },
             {
               "id": "root-books-book-authoring-must-reads-writing-a-technical-book-is-it-worthwhile",
@@ -141,7 +165,13 @@
               "topics": [],
               "updated": null,
               "pushed": null,
-              "awesome": false
+              "awesome": false,
+              "path": [
+                "Book Authoring",
+                "Must Reads",
+                "Writing A Technical Book: Is It Worthwhile?"
+              ],
+              "parentId": "root-books-book-authoring-must-reads"
             }
           ],
           "stars": 0,
@@ -151,14 +181,20 @@
           "topics": [],
           "updated": null,
           "pushed": null,
-          "awesome": false
+          "awesome": false,
+          "path": [
+            "Book Authoring",
+            "Must Reads"
+          ],
+          "parentId": "root-books-book-authoring"
         },
         {
           "id": "root-books-book-authoring-book-proposals",
           "title": "Book Proposals",
           "kind": "section",
-          "depth": 1,
           "sourceRepo": "talater/awesome-book-authoring",
+          "depth": 1,
+          "url": "https://github.com/talater/awesome-book-authoring#book-proposals",
           "children": [
             {
               "id": "root-books-book-authoring-book-proposals-the-proposal-o-reilly-so-you-want-to-write-a-book",
@@ -178,7 +214,13 @@
               "topics": [],
               "updated": null,
               "pushed": null,
-              "awesome": false
+              "awesome": false,
+              "path": [
+                "Book Authoring",
+                "Book Proposals",
+                "The Proposal (O'Reilly: So You Want to Write a Book?)"
+              ],
+              "parentId": "root-books-book-authoring-book-proposals"
             },
             {
               "id": "root-books-book-authoring-book-proposals-scott-meyers-advice-on-preparing-a-book-proposal",
@@ -198,7 +240,13 @@
               "topics": [],
               "updated": null,
               "pushed": null,
-              "awesome": false
+              "awesome": false,
+              "path": [
+                "Book Authoring",
+                "Book Proposals",
+                "Scott Meyers' Advice on Preparing a Book Proposal"
+              ],
+              "parentId": "root-books-book-authoring-book-proposals"
             },
             {
               "id": "root-books-book-authoring-book-proposals-write-for-us-pearson-education",
@@ -218,7 +266,13 @@
               "topics": [],
               "updated": null,
               "pushed": null,
-              "awesome": false
+              "awesome": false,
+              "path": [
+                "Book Authoring",
+                "Book Proposals",
+                "Write for Us (Pearson Education)"
+              ],
+              "parentId": "root-books-book-authoring-book-proposals"
             },
             {
               "id": "root-books-book-authoring-book-proposals-drafting-a-proposal-que-publishing",
@@ -238,7 +292,13 @@
               "topics": [],
               "updated": null,
               "pushed": null,
-              "awesome": false
+              "awesome": false,
+              "path": [
+                "Book Authoring",
+                "Book Proposals",
+                "Drafting a Proposal (Que Publishing)"
+              ],
+              "parentId": "root-books-book-authoring-book-proposals"
             },
             {
               "id": "root-books-book-authoring-book-proposals-anatomy-of-a-toc-que-publishing",
@@ -258,7 +318,13 @@
               "topics": [],
               "updated": null,
               "pushed": null,
-              "awesome": false
+              "awesome": false,
+              "path": [
+                "Book Authoring",
+                "Book Proposals",
+                "Anatomy of a TOC (Que Publishing)"
+              ],
+              "parentId": "root-books-book-authoring-book-proposals"
             },
             {
               "id": "root-books-book-authoring-book-proposals-proposal-guidelines-the-pragmatic-programmers",
@@ -278,7 +344,13 @@
               "topics": [],
               "updated": null,
               "pushed": null,
-              "awesome": false
+              "awesome": false,
+              "path": [
+                "Book Authoring",
+                "Book Proposals",
+                "Proposal Guidelines (The Pragmatic Programmers)"
+              ],
+              "parentId": "root-books-book-authoring-book-proposals"
             }
           ],
           "stars": 0,
@@ -288,14 +360,20 @@
           "topics": [],
           "updated": null,
           "pushed": null,
-          "awesome": false
+          "awesome": false,
+          "path": [
+            "Book Authoring",
+            "Book Proposals"
+          ],
+          "parentId": "root-books-book-authoring"
         },
         {
           "id": "root-books-book-authoring-contracts",
           "title": "Contracts",
           "kind": "section",
-          "depth": 1,
           "sourceRepo": "talater/awesome-book-authoring",
+          "depth": 1,
+          "url": "https://github.com/talater/awesome-book-authoring#contracts",
           "children": [
             {
               "id": "root-books-book-authoring-contracts-book-contract-what-s-negotiable-and-what-s-not",
@@ -315,7 +393,13 @@
               "topics": [],
               "updated": null,
               "pushed": null,
-              "awesome": false
+              "awesome": false,
+              "path": [
+                "Book Authoring",
+                "Contracts",
+                "Book Contract: What’s Negotiable and What’s Not"
+              ],
+              "parentId": "root-books-book-authoring-contracts"
             },
             {
               "id": "root-books-book-authoring-contracts-scott-meyers-advice-on-contracts",
@@ -335,7 +419,13 @@
               "topics": [],
               "updated": null,
               "pushed": null,
-              "awesome": false
+              "awesome": false,
+              "path": [
+                "Book Authoring",
+                "Contracts",
+                "Scott Meyers' Advice on Contracts"
+              ],
+              "parentId": "root-books-book-authoring-contracts"
             },
             {
               "id": "root-books-book-authoring-contracts-the-contract-o-reilly-so-you-want-to-write-a-book",
@@ -355,7 +445,13 @@
               "topics": [],
               "updated": null,
               "pushed": null,
-              "awesome": false
+              "awesome": false,
+              "path": [
+                "Book Authoring",
+                "Contracts",
+                "The Contract (O'Reilly: So You Want to Write a Book?)"
+              ],
+              "parentId": "root-books-book-authoring-contracts"
             },
             {
               "id": "root-books-book-authoring-contracts-apress-standard-contract",
@@ -375,7 +471,13 @@
               "topics": [],
               "updated": null,
               "pushed": null,
-              "awesome": false
+              "awesome": false,
+              "path": [
+                "Book Authoring",
+                "Contracts",
+                "Apress Standard Contract"
+              ],
+              "parentId": "root-books-book-authoring-contracts"
             },
             {
               "id": "root-books-book-authoring-contracts-no-starch-press-standard-contract",
@@ -395,7 +497,13 @@
               "topics": [],
               "updated": null,
               "pushed": null,
-              "awesome": false
+              "awesome": false,
+              "path": [
+                "Book Authoring",
+                "Contracts",
+                "No Starch Press Standard Contract"
+              ],
+              "parentId": "root-books-book-authoring-contracts"
             }
           ],
           "stars": 0,
@@ -405,14 +513,20 @@
           "topics": [],
           "updated": null,
           "pushed": null,
-          "awesome": false
+          "awesome": false,
+          "path": [
+            "Book Authoring",
+            "Contracts"
+          ],
+          "parentId": "root-books-book-authoring"
         },
         {
           "id": "root-books-book-authoring-royalties-advances-and-other-money-stuff",
           "title": "Royalties, Advances, and Other Money Stuff",
           "kind": "section",
-          "depth": 1,
           "sourceRepo": "talater/awesome-book-authoring",
+          "depth": 1,
+          "url": "https://github.com/talater/awesome-book-authoring#royalties-advances-and-other-money-stuff",
           "children": [
             {
               "id": "root-books-book-authoring-royalties-advances-and-other-money-stuff-scott-meyers-on-royalties-advances-and-other-money-stuff",
@@ -432,7 +546,13 @@
               "topics": [],
               "updated": null,
               "pushed": null,
-              "awesome": false
+              "awesome": false,
+              "path": [
+                "Book Authoring",
+                "Royalties, Advances, and Other Money Stuff",
+                "Scott Meyers on Royalties, Advances, and Other Money Stuff"
+              ],
+              "parentId": "root-books-book-authoring-royalties-advances-and-other-money-stuff"
             },
             {
               "id": "root-books-book-authoring-royalties-advances-and-other-money-stuff-royalties-and-advances-o-reilly-so-you-want-to-write-a-book",
@@ -452,7 +572,13 @@
               "topics": [],
               "updated": null,
               "pushed": null,
-              "awesome": false
+              "awesome": false,
+              "path": [
+                "Book Authoring",
+                "Royalties, Advances, and Other Money Stuff",
+                "Royalties and Advances (O'Reilly: So You Want to Write a Book?)"
+              ],
+              "parentId": "root-books-book-authoring-royalties-advances-and-other-money-stuff"
             },
             {
               "id": "root-books-book-authoring-royalties-advances-and-other-money-stuff-writing-a-technical-book-is-it-worthwhile",
@@ -472,7 +598,13 @@
               "topics": [],
               "updated": null,
               "pushed": null,
-              "awesome": false
+              "awesome": false,
+              "path": [
+                "Book Authoring",
+                "Royalties, Advances, and Other Money Stuff",
+                "Writing A Technical Book: Is It Worthwhile?"
+              ],
+              "parentId": "root-books-book-authoring-royalties-advances-and-other-money-stuff"
             },
             {
               "id": "root-books-book-authoring-royalties-advances-and-other-money-stuff-how-book-advances-work-a-simple-explanation-for-writers",
@@ -492,7 +624,13 @@
               "topics": [],
               "updated": null,
               "pushed": null,
-              "awesome": false
+              "awesome": false,
+              "path": [
+                "Book Authoring",
+                "Royalties, Advances, and Other Money Stuff",
+                "How Book Advances Work – A Simple Explanation for Writers"
+              ],
+              "parentId": "root-books-book-authoring-royalties-advances-and-other-money-stuff"
             },
             {
               "id": "root-books-book-authoring-royalties-advances-and-other-money-stuff-typical-o-reilly-advance-structure",
@@ -512,7 +650,13 @@
               "topics": [],
               "updated": null,
               "pushed": null,
-              "awesome": false
+              "awesome": false,
+              "path": [
+                "Book Authoring",
+                "Royalties, Advances, and Other Money Stuff",
+                "Typical O'Reilly Advance Structure"
+              ],
+              "parentId": "root-books-book-authoring-royalties-advances-and-other-money-stuff"
             }
           ],
           "stars": 0,
@@ -522,14 +666,20 @@
           "topics": [],
           "updated": null,
           "pushed": null,
-          "awesome": false
+          "awesome": false,
+          "path": [
+            "Book Authoring",
+            "Royalties, Advances, and Other Money Stuff"
+          ],
+          "parentId": "root-books-book-authoring"
         },
         {
           "id": "root-books-book-authoring-editors",
           "title": "Editors",
           "kind": "section",
-          "depth": 1,
           "sourceRepo": "talater/awesome-book-authoring",
+          "depth": 1,
+          "url": "https://github.com/talater/awesome-book-authoring#editors",
           "children": [
             {
               "id": "root-books-book-authoring-editors-scott-meyers-on-the-importance-of-a-good-editor",
@@ -549,7 +699,13 @@
               "topics": [],
               "updated": null,
               "pushed": null,
-              "awesome": false
+              "awesome": false,
+              "path": [
+                "Book Authoring",
+                "Editors",
+                "Scott Meyers on the Importance of a Good Editor"
+              ],
+              "parentId": "root-books-book-authoring-editors"
             },
             {
               "id": "root-books-book-authoring-editors-the-editing-process-and-editor-types-que-publishing",
@@ -569,7 +725,13 @@
               "topics": [],
               "updated": null,
               "pushed": null,
-              "awesome": false
+              "awesome": false,
+              "path": [
+                "Book Authoring",
+                "Editors",
+                "The Editing Process and Editor Types (Que Publishing)"
+              ],
+              "parentId": "root-books-book-authoring-editors"
             },
             {
               "id": "root-books-book-authoring-editors-writing-and-editing-o-reilly-so-you-want-to-write-a-book",
@@ -589,7 +751,13 @@
               "topics": [],
               "updated": null,
               "pushed": null,
-              "awesome": false
+              "awesome": false,
+              "path": [
+                "Book Authoring",
+                "Editors",
+                "Writing and Editing (O'Reilly: So You Want to Write a Book?)"
+              ],
+              "parentId": "root-books-book-authoring-editors"
             }
           ],
           "stars": 0,
@@ -599,14 +767,20 @@
           "topics": [],
           "updated": null,
           "pushed": null,
-          "awesome": false
+          "awesome": false,
+          "path": [
+            "Book Authoring",
+            "Editors"
+          ],
+          "parentId": "root-books-book-authoring"
         },
         {
           "id": "root-books-book-authoring-publishers",
           "title": "Publishers",
           "kind": "section",
-          "depth": 1,
           "sourceRepo": "talater/awesome-book-authoring",
+          "depth": 1,
+          "url": "https://github.com/talater/awesome-book-authoring#publishers",
           "children": [
             {
               "id": "root-books-book-authoring-publishers-scott-meyers-advice-on-finding-a-publisher",
@@ -626,7 +800,13 @@
               "topics": [],
               "updated": null,
               "pushed": null,
-              "awesome": false
+              "awesome": false,
+              "path": [
+                "Book Authoring",
+                "Publishers",
+                "Scott Meyers' Advice on Finding a Publisher"
+              ],
+              "parentId": "root-books-book-authoring-publishers"
             }
           ],
           "stars": 0,
@@ -636,14 +816,20 @@
           "topics": [],
           "updated": null,
           "pushed": null,
-          "awesome": false
+          "awesome": false,
+          "path": [
+            "Book Authoring",
+            "Publishers"
+          ],
+          "parentId": "root-books-book-authoring"
         },
         {
           "id": "root-books-book-authoring-marketing",
           "title": "Marketing",
           "kind": "section",
-          "depth": 1,
           "sourceRepo": "talater/awesome-book-authoring",
+          "depth": 1,
+          "url": "https://github.com/talater/awesome-book-authoring#marketing",
           "children": [
             {
               "id": "root-books-book-authoring-marketing-marketing-your-book-o-reilly-so-you-want-to-write-a-book",
@@ -663,7 +849,13 @@
               "topics": [],
               "updated": null,
               "pushed": null,
-              "awesome": false
+              "awesome": false,
+              "path": [
+                "Book Authoring",
+                "Marketing",
+                "Marketing Your Book (O'Reilly: So You Want to Write a Book?)"
+              ],
+              "parentId": "root-books-book-authoring-marketing"
             }
           ],
           "stars": 0,
@@ -673,14 +865,20 @@
           "topics": [],
           "updated": null,
           "pushed": null,
-          "awesome": false
+          "awesome": false,
+          "path": [
+            "Book Authoring",
+            "Marketing"
+          ],
+          "parentId": "root-books-book-authoring"
         },
         {
           "id": "root-books-book-authoring-misc",
           "title": "Misc.",
           "kind": "section",
-          "depth": 1,
           "sourceRepo": "talater/awesome-book-authoring",
+          "depth": 1,
+          "url": "https://github.com/talater/awesome-book-authoring#misc",
           "children": [
             {
               "id": "root-books-book-authoring-misc-scott-meyers-on-advance-sales-and-how-they-are-impacted-by-the-delivery-schedule",
@@ -700,7 +898,13 @@
               "topics": [],
               "updated": null,
               "pushed": null,
-              "awesome": false
+              "awesome": false,
+              "path": [
+                "Book Authoring",
+                "Misc.",
+                "Scott Meyers on Advance Sales, and How They Are Impacted by The Delivery Schedule"
+              ],
+              "parentId": "root-books-book-authoring-misc"
             },
             {
               "id": "root-books-book-authoring-misc-ask-hn-considerations-when-asked-to-write-a-book",
@@ -720,7 +924,13 @@
               "topics": [],
               "updated": null,
               "pushed": null,
-              "awesome": false
+              "awesome": false,
+              "path": [
+                "Book Authoring",
+                "Misc.",
+                "Ask HN: Considerations when asked to write a book?"
+              ],
+              "parentId": "root-books-book-authoring-misc"
             }
           ],
           "stars": 0,
@@ -730,14 +940,20 @@
           "topics": [],
           "updated": null,
           "pushed": null,
-          "awesome": false
+          "awesome": false,
+          "path": [
+            "Book Authoring",
+            "Misc."
+          ],
+          "parentId": "root-books-book-authoring"
         },
         {
           "id": "root-books-book-authoring-list-of-publishers",
           "title": "List of Publishers",
           "kind": "section",
-          "depth": 1,
           "sourceRepo": "talater/awesome-book-authoring",
+          "depth": 1,
+          "url": "https://github.com/talater/awesome-book-authoring#list-of-publishers",
           "children": [
             {
               "id": "root-books-book-authoring-list-of-publishers-o-reilly",
@@ -757,7 +973,13 @@
               "topics": [],
               "updated": null,
               "pushed": null,
-              "awesome": false
+              "awesome": false,
+              "path": [
+                "Book Authoring",
+                "List of Publishers",
+                "O’Reilly"
+              ],
+              "parentId": "root-books-book-authoring-list-of-publishers"
             },
             {
               "id": "root-books-book-authoring-list-of-publishers-apress",
@@ -777,7 +999,13 @@
               "topics": [],
               "updated": null,
               "pushed": null,
-              "awesome": false
+              "awesome": false,
+              "path": [
+                "Book Authoring",
+                "List of Publishers",
+                "Apress"
+              ],
+              "parentId": "root-books-book-authoring-list-of-publishers"
             },
             {
               "id": "root-books-book-authoring-list-of-publishers-the-pragmatic-programmers",
@@ -797,7 +1025,13 @@
               "topics": [],
               "updated": null,
               "pushed": null,
-              "awesome": false
+              "awesome": false,
+              "path": [
+                "Book Authoring",
+                "List of Publishers",
+                "The Pragmatic Programmers"
+              ],
+              "parentId": "root-books-book-authoring-list-of-publishers"
             },
             {
               "id": "root-books-book-authoring-list-of-publishers-packt-publishing",
@@ -817,7 +1051,13 @@
               "topics": [],
               "updated": null,
               "pushed": null,
-              "awesome": false
+              "awesome": false,
+              "path": [
+                "Book Authoring",
+                "List of Publishers",
+                "Packt Publishing"
+              ],
+              "parentId": "root-books-book-authoring-list-of-publishers"
             },
             {
               "id": "root-books-book-authoring-list-of-publishers-pearson-parent-company-for-addison-wesley-prentice-hall-professional-que-sams-and-more",
@@ -837,7 +1077,13 @@
               "topics": [],
               "updated": null,
               "pushed": null,
-              "awesome": false
+              "awesome": false,
+              "path": [
+                "Book Authoring",
+                "List of Publishers",
+                "Pearson (parent company for Addison-Wesley, Prentice Hall Professional, Que, Sams, and more)"
+              ],
+              "parentId": "root-books-book-authoring-list-of-publishers"
             },
             {
               "id": "root-books-book-authoring-list-of-publishers-que-publishing",
@@ -857,7 +1103,13 @@
               "topics": [],
               "updated": null,
               "pushed": null,
-              "awesome": false
+              "awesome": false,
+              "path": [
+                "Book Authoring",
+                "List of Publishers",
+                "Que Publishing"
+              ],
+              "parentId": "root-books-book-authoring-list-of-publishers"
             },
             {
               "id": "root-books-book-authoring-list-of-publishers-manning-publications",
@@ -877,7 +1129,13 @@
               "topics": [],
               "updated": null,
               "pushed": null,
-              "awesome": false
+              "awesome": false,
+              "path": [
+                "Book Authoring",
+                "List of Publishers",
+                "Manning Publications"
+              ],
+              "parentId": "root-books-book-authoring-list-of-publishers"
             },
             {
               "id": "root-books-book-authoring-list-of-publishers-wrox",
@@ -897,7 +1155,13 @@
               "topics": [],
               "updated": null,
               "pushed": null,
-              "awesome": false
+              "awesome": false,
+              "path": [
+                "Book Authoring",
+                "List of Publishers",
+                "Wrox"
+              ],
+              "parentId": "root-books-book-authoring-list-of-publishers"
             },
             {
               "id": "root-books-book-authoring-list-of-publishers-no-starch-press",
@@ -917,7 +1181,13 @@
               "topics": [],
               "updated": null,
               "pushed": null,
-              "awesome": false
+              "awesome": false,
+              "path": [
+                "Book Authoring",
+                "List of Publishers",
+                "No Starch Press"
+              ],
+              "parentId": "root-books-book-authoring-list-of-publishers"
             }
           ],
           "stars": 0,
@@ -927,14 +1197,20 @@
           "topics": [],
           "updated": null,
           "pushed": null,
-          "awesome": false
+          "awesome": false,
+          "path": [
+            "Book Authoring",
+            "List of Publishers"
+          ],
+          "parentId": "root-books-book-authoring"
         },
         {
           "id": "root-books-book-authoring-self-publishing",
           "title": "Self Publishing",
           "kind": "section",
-          "depth": 1,
           "sourceRepo": "talater/awesome-book-authoring",
+          "depth": 1,
+          "url": "https://github.com/talater/awesome-book-authoring#self-publishing",
           "children": [
             {
               "id": "root-books-book-authoring-self-publishing-self-vs-professional-publishing",
@@ -954,7 +1230,13 @@
               "topics": [],
               "updated": null,
               "pushed": null,
-              "awesome": false
+              "awesome": false,
+              "path": [
+                "Book Authoring",
+                "Self Publishing",
+                "Self vs Professional Publishing"
+              ],
+              "parentId": "root-books-book-authoring-self-publishing"
             }
           ],
           "stars": 0,
@@ -964,14 +1246,20 @@
           "topics": [],
           "updated": null,
           "pushed": null,
-          "awesome": false
+          "awesome": false,
+          "path": [
+            "Book Authoring",
+            "Self Publishing"
+          ],
+          "parentId": "root-books-book-authoring"
         },
         {
           "id": "root-books-book-authoring-writing-workflows-and-tooling",
           "title": "Writing Workflows and Tooling",
           "kind": "section",
-          "depth": 1,
           "sourceRepo": "talater/awesome-book-authoring",
+          "depth": 1,
+          "url": "https://github.com/talater/awesome-book-authoring#writing-workflows-and-tooling",
           "children": [
             {
               "id": "root-books-book-authoring-writing-workflows-and-tooling-living-the-future-of-technical-writing",
@@ -991,7 +1279,13 @@
               "topics": [],
               "updated": null,
               "pushed": null,
-              "awesome": false
+              "awesome": false,
+              "path": [
+                "Book Authoring",
+                "Writing Workflows and Tooling",
+                "Living the Future of Technical Writing"
+              ],
+              "parentId": "root-books-book-authoring-writing-workflows-and-tooling"
             }
           ],
           "stars": 0,
@@ -1001,14 +1295,20 @@
           "topics": [],
           "updated": null,
           "pushed": null,
-          "awesome": false
+          "awesome": false,
+          "path": [
+            "Book Authoring",
+            "Writing Workflows and Tooling"
+          ],
+          "parentId": "root-books-book-authoring"
         },
         {
           "id": "root-books-book-authoring-personal-experiences-post-mortems-and-campfire-stories",
           "title": "Personal Experiences, Post Mortems and Campfire Stories",
           "kind": "section",
-          "depth": 1,
           "sourceRepo": "talater/awesome-book-authoring",
+          "depth": 1,
+          "url": "https://github.com/talater/awesome-book-authoring#personal-experiences-post-mortems-and-campfire-stories",
           "children": [
             {
               "id": "root-books-book-authoring-personal-experiences-post-mortems-and-campfire-stories-writing-a-programming-book-faqs-after-writing-learning-react-native",
@@ -1028,7 +1328,13 @@
               "topics": [],
               "updated": null,
               "pushed": null,
-              "awesome": false
+              "awesome": false,
+              "path": [
+                "Book Authoring",
+                "Personal Experiences, Post Mortems and Campfire Stories",
+                "Writing a Programming Book: FAQs after Writing Learning React Native"
+              ],
+              "parentId": "root-books-book-authoring-personal-experiences-post-mortems-and-campfire-stories"
             },
             {
               "id": "root-books-book-authoring-personal-experiences-post-mortems-and-campfire-stories-do-not-buy-this-book",
@@ -1048,7 +1354,13 @@
               "topics": [],
               "updated": null,
               "pushed": null,
-              "awesome": false
+              "awesome": false,
+              "path": [
+                "Book Authoring",
+                "Personal Experiences, Post Mortems and Campfire Stories",
+                "Do Not Buy This Book"
+              ],
+              "parentId": "root-books-book-authoring-personal-experiences-post-mortems-and-campfire-stories"
             },
             {
               "id": "root-books-book-authoring-personal-experiences-post-mortems-and-campfire-stories-writing-a-technical-book-motivation-publishing-and-how-to-stay-focused-without-ruining-your-life",
@@ -1068,7 +1380,13 @@
               "topics": [],
               "updated": null,
               "pushed": null,
-              "awesome": false
+              "awesome": false,
+              "path": [
+                "Book Authoring",
+                "Personal Experiences, Post Mortems and Campfire Stories",
+                "Writing a Technical Book: Motivation, Publishing and how to stay focused without ruining your Life"
+              ],
+              "parentId": "root-books-book-authoring-personal-experiences-post-mortems-and-campfire-stories"
             },
             {
               "id": "root-books-book-authoring-personal-experiences-post-mortems-and-campfire-stories-writing-a-technical-book",
@@ -1088,7 +1406,13 @@
               "topics": [],
               "updated": null,
               "pushed": null,
-              "awesome": false
+              "awesome": false,
+              "path": [
+                "Book Authoring",
+                "Personal Experiences, Post Mortems and Campfire Stories",
+                "Writing a Technical Book"
+              ],
+              "parentId": "root-books-book-authoring-personal-experiences-post-mortems-and-campfire-stories"
             },
             {
               "id": "root-books-book-authoring-personal-experiences-post-mortems-and-campfire-stories-tips-for-writing-a-programming-book",
@@ -1108,7 +1432,13 @@
               "topics": [],
               "updated": null,
               "pushed": null,
-              "awesome": false
+              "awesome": false,
+              "path": [
+                "Book Authoring",
+                "Personal Experiences, Post Mortems and Campfire Stories",
+                "Tips for Writing a Programming Book"
+              ],
+              "parentId": "root-books-book-authoring-personal-experiences-post-mortems-and-campfire-stories"
             }
           ],
           "stars": 0,
@@ -1118,7 +1448,12 @@
           "topics": [],
           "updated": null,
           "pushed": null,
-          "awesome": false
+          "awesome": false,
+          "path": [
+            "Book Authoring",
+            "Personal Experiences, Post Mortems and Campfire Stories"
+          ],
+          "parentId": "root-books-book-authoring"
         }
       ],
       "stars": 0,
@@ -1129,7 +1464,11 @@
       "updated": null,
       "pushed": null,
       "awesome": true,
-      "readmeStatus": "expanded"
+      "readmeStatus": "expanded",
+      "path": [
+        "Book Authoring"
+      ],
+      "parentId": "root-books"
     },
     {
       "id": "root-books-elixir-books",
@@ -1149,7 +1488,11 @@
       "topics": [],
       "updated": null,
       "pushed": null,
-      "awesome": false
+      "awesome": false,
+      "path": [
+        "Elixir Books"
+      ],
+      "parentId": "root-books"
     }
   ],
   "stars": 0,

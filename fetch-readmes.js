@@ -178,7 +178,7 @@ async function runPool(items, worker, concurrency) {
 async function main() {
   const startedAt = new Date().toISOString();
   const root = await fetchRootReadme();
-  const queue = [{ repo: ROOT_REPO, depth: 0 }];
+  let frontier = [{ repo: ROOT_REPO, depth: 0 }];
   const seen = new Set();
   const readmes = [];
   const metadata = new Map();
@@ -186,31 +186,49 @@ async function main() {
 
   console.log(`Root README: ${root.status} ${ROOT_REPO}`);
 
-  for (let cursor = 0; cursor < queue.length && cursor < MAX_REPOS; cursor++) {
-    const item = queue[cursor];
-    const repo = normalizeRepo(item.repo);
-    if (seen.has(repo)) continue;
-    seen.add(repo);
-
-    const result = repo === ROOT_REPO ? root : await fetchReadme(repo);
-    readmes.push({ ...result, depth: item.depth });
-    console.log(`[${readmes.length}] ${result.status}: ${repo} depth=${item.depth}`);
-
-    if (result.status === 'missing') {
-      failures.push(result);
-      continue;
+  for (let depth = 0; depth < MAX_DEPTH && frontier.length && seen.size < MAX_REPOS; depth++) {
+    const batch = [];
+    for (const item of frontier) {
+      const repo = normalizeRepo(item.repo);
+      if (!repo || seen.has(repo) || seen.size + batch.length >= MAX_REPOS) continue;
+      seen.add(repo);
+      batch.push({ repo, depth: item.depth });
     }
 
-    if (repo !== ROOT_REPO) {
-      const meta = await fetchRepoMeta(repo);
+    console.log(`Depth ${depth}: ${batch.length} repositories`);
+
+    const results = await runPool(batch, async item => {
+      const result = item.repo === ROOT_REPO ? root : await fetchReadme(item.repo);
+      return { item, result };
+    }, CONCURRENCY);
+
+    const next = [];
+    for (const { item, result } of results) {
+      readmes.push({ ...result, depth: item.depth });
+      console.log(`[${readmes.length}] ${result.status}: ${item.repo} depth=${item.depth}`);
+
+      if (result.status === 'missing') {
+        failures.push(result);
+        continue;
+      }
+
+      if (item.depth < MAX_DEPTH - 1) {
+        const readme = fs.readFileSync(result.path, 'utf8');
+        for (const child of collectAwesomeReposFromReadme(readme, item.repo, item.depth)) {
+          if (!seen.has(child.repo)) next.push(child);
+        }
+      }
+    }
+
+    const metaTargets = results
+      .map(({ item, result }) => ({ repo: item.repo, ok: result.status !== 'missing' }))
+      .filter(item => item.ok && item.repo !== ROOT_REPO);
+    const metaResults = await runPool(metaTargets, item => fetchRepoMeta(item.repo), CONCURRENCY);
+    for (const meta of metaResults) {
       if (meta) metadata.set(normalizeRepo(meta.repo), meta);
     }
 
-    if (item.depth >= MAX_DEPTH - 1) continue;
-    const readme = fs.readFileSync(result.path, 'utf8');
-    for (const child of collectAwesomeReposFromReadme(readme, repo, item.depth)) {
-      if (!seen.has(child.repo) && queue.length < MAX_REPOS) queue.push(child);
-    }
+    frontier = next;
   }
 
   const existing = fs.existsSync(META_PATH)
