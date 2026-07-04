@@ -1,0 +1,15 @@
+# Local caches
+.cache/
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Runtime
+node_modules/
+.env
+_resume_idx.txt
