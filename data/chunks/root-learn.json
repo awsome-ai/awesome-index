@@ -258,12 +258,12 @@
           "parentId": "root-learn-cli-workshoppers"
         }
       ],
-      "stars": 2232,
+      "stars": 2235,
       "forks": 65,
       "language": null,
       "license": null,
       "topics": [],
-      "updated": "2026-06-27T02:03:32Z",
+      "updated": "2026-07-01T02:54:12Z",
       "pushed": "2021-03-03T04:05:01Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -462,7 +462,7 @@
           "parentId": "root-learn-speaking"
         }
       ],
-      "stars": 1945,
+      "stars": 1949,
       "forks": 601,
       "language": null,
       "license": "MIT",
@@ -474,7 +474,7 @@
         "speaking",
         "speaking-resources"
       ],
-      "updated": "2026-06-25T11:59:14Z",
+      "updated": "2026-07-05T00:39:06Z",
       "pushed": "2023-11-20T16:21:54Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -489,7 +489,7 @@
       "kind": "repo",
       "repo": "lucasviola/awesome-tech-videos",
       "url": "https://github.com/lucasviola/awesome-tech-videos",
-      "description": "",
+      "description": ":tv: A curated list of tech conferences from youtube, vimeo, etc for us to get inspired ;)",
       "external": false,
       "sourceRepo": "sindresorhus/awesome",
       "depth": 1,
@@ -3372,13 +3372,13 @@
           "parentId": "root-learn-tech-videos"
         }
       ],
-      "stars": 0,
-      "forks": 0,
+      "stars": 841,
+      "forks": 63,
       "language": null,
       "license": null,
       "topics": [],
-      "updated": null,
-      "pushed": null,
+      "updated": "2026-06-10T16:45:59Z",
+      "pushed": "2016-12-10T02:02:59Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -6194,7 +6194,7 @@
           "parentId": "root-learn-computer-history"
         }
       ],
-      "stars": 2933,
+      "stars": 2934,
       "forks": 158,
       "language": null,
       "license": null,
@@ -6208,7 +6208,7 @@
         "list",
         "video"
       ],
-      "updated": "2026-06-25T20:58:15Z",
+      "updated": "2026-07-02T15:57:19Z",
       "pushed": "2023-02-01T09:01:45Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -6223,7 +6223,7 @@
       "kind": "repo",
       "repo": "hollyadele/awesome-programming-for-kids",
       "url": "https://github.com/hollyadele/awesome-programming-for-kids",
-      "description": "",
+      "description": "A curated list of resources for teaching kids programming. ",
       "external": false,
       "sourceRepo": "sindresorhus/awesome",
       "depth": 1,
@@ -6295,13 +6295,19 @@
           "parentId": "root-learn-programming-for-kids"
         }
       ],
-      "stars": 0,
-      "forks": 0,
+      "stars": 1201,
+      "forks": 91,
       "language": null,
-      "license": null,
-      "topics": [],
-      "updated": null,
-      "pushed": null,
+      "license": "CC0-1.0",
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "ipad",
+        "list",
+        "teach-kids"
+      ],
+      "updated": "2026-06-30T19:15:28Z",
+      "pushed": "2024-11-15T03:27:51Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -6320,13 +6326,34 @@
       "sourceRepo": "sindresorhus/awesome",
       "depth": 1,
       "children": [],
-      "stars": 0,
-      "forks": 0,
+      "stars": 241,
+      "forks": 35,
       "language": null,
-      "license": null,
-      "topics": [],
-      "updated": null,
-      "pushed": null,
+      "license": "CC0-1.0",
+      "topics": [
+        "art",
+        "awesome",
+        "awesome-list",
+        "calculus",
+        "college-courses",
+        "courses",
+        "educational",
+        "engineering",
+        "high-school",
+        "learning",
+        "lists",
+        "math",
+        "mathematics",
+        "maths",
+        "physics",
+        "school",
+        "science",
+        "steam",
+        "stem",
+        "technology"
+      ],
+      "updated": "2026-07-02T02:34:57Z",
+      "pushed": "2026-05-05T19:45:05Z",
       "awesome": true,
       "readmeStatus": "empty",
       "path": [
@@ -7939,13 +7966,17 @@
           "parentId": "root-learn-educational-games"
         }
       ],
-      "stars": 0,
-      "forks": 0,
+      "stars": 1132,
+      "forks": 76,
       "language": null,
-      "license": null,
-      "topics": [],
-      "updated": null,
-      "pushed": null,
+      "license": "MIT",
+      "topics": [
+        "awesome",
+        "education",
+        "games"
+      ],
+      "updated": "2026-07-04T15:29:53Z",
+      "pushed": "2024-04-08T06:32:51Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -9838,8 +9869,8 @@
           "parentId": "root-learn-javascript-learning"
         }
       ],
-      "stars": 5804,
-      "forks": 603,
+      "stars": 5806,
+      "forks": 604,
       "language": null,
       "license": "NOASSERTION",
       "topics": [
@@ -9850,7 +9881,7 @@
         "learning",
         "resources"
       ],
-      "updated": "2026-06-27T13:04:23Z",
+      "updated": "2026-07-04T09:03:54Z",
       "pushed": "2026-02-01T20:52:43Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -11286,8 +11317,8 @@
           "parentId": "root-learn-css-learning"
         }
       ],
-      "stars": 3825,
-      "forks": 267,
+      "stars": 3827,
+      "forks": 268,
       "language": null,
       "license": "NOASSERTION",
       "topics": [
@@ -11298,7 +11329,7 @@
         "learning",
         "resources"
       ],
-      "updated": "2026-06-27T19:10:08Z",
+      "updated": "2026-07-04T14:40:23Z",
       "pushed": "2026-02-01T00:22:35Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -16615,8 +16646,8 @@
           "parentId": "root-learn-product-management"
         }
       ],
-      "stars": 2221,
-      "forks": 202,
+      "stars": 2230,
+      "forks": 203,
       "language": "CSS",
       "license": "CC0-1.0",
       "topics": [
@@ -16626,7 +16657,7 @@
         "product",
         "product-management"
       ],
-      "updated": "2026-06-26T17:08:04Z",
+      "updated": "2026-07-04T15:13:53Z",
       "pushed": "2026-02-08T02:36:12Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -17736,7 +17767,7 @@
               "sourceRepo": "liuchong/awesome-roadmaps",
               "depth": 2,
               "children": [],
-              "stars": 2125,
+              "stars": 2127,
               "forks": 361,
               "language": null,
               "license": "CC0-1.0",
@@ -17753,7 +17784,7 @@
                 "software-testing",
                 "testing"
               ],
-              "updated": "2026-06-28T05:36:22Z",
+              "updated": "2026-07-03T07:56:07Z",
               "pushed": "2026-06-04T11:08:57Z",
               "awesome": true,
               "path": [
@@ -18270,8 +18301,8 @@
           "parentId": "root-learn-roadmaps"
         }
       ],
-      "stars": 7100,
-      "forks": 471,
+      "stars": 7109,
+      "forks": 470,
       "language": null,
       "license": "NOASSERTION",
       "topics": [
@@ -18281,7 +18312,7 @@
         "resources",
         "roadmap"
       ],
-      "updated": "2026-06-27T22:07:11Z",
+      "updated": "2026-07-04T23:59:22Z",
       "pushed": "2026-05-14T08:46:58Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -18315,18 +18346,18 @@
               "kind": "repo",
               "repo": "rcarubbi/awesome-brazilian-youtubers",
               "url": "https://github.com/rcarubbi/awesome-brazilian-youtubers",
-              "description": "",
+              "description": "▶️ An awesome list of awesome Brazilian YouTubers that teach about technology. Tutorials about web development, computer science, machine learning, game development, cybersecurity, and more.",
               "external": false,
               "sourceRepo": "josedefreitas/awesome-youtubers",
               "depth": 2,
               "children": [],
-              "stars": 0,
-              "forks": 0,
-              "language": null,
-              "license": null,
+              "stars": 60,
+              "forks": 4,
+              "language": "Markdown",
+              "license": "CC0-1.0",
               "topics": [],
-              "updated": null,
-              "pushed": null,
+              "updated": "2026-06-23T02:30:04Z",
+              "pushed": "2024-11-11T16:20:56Z",
               "awesome": true,
               "path": [
                 "YouTubers",
@@ -18341,18 +18372,18 @@
               "kind": "repo",
               "repo": "rcarubbi/awesome-spanish-youtubers",
               "url": "https://github.com/rcarubbi/awesome-spanish-youtubers",
-              "description": "",
+              "description": "▶️ An awesome list of awesome Spanish YouTubers that teach about technology. Tutorials about web development, computer science, machine learning, game development, cybersecurity, and more.",
               "external": false,
               "sourceRepo": "josedefreitas/awesome-youtubers",
               "depth": 2,
               "children": [],
-              "stars": 0,
-              "forks": 0,
-              "language": null,
-              "license": null,
+              "stars": 9,
+              "forks": 1,
+              "language": "Markdown",
+              "license": "CC0-1.0",
               "topics": [],
-              "updated": null,
-              "pushed": null,
+              "updated": "2026-03-16T17:46:01Z",
+              "pushed": "2022-12-11T14:07:54Z",
               "awesome": true,
               "path": [
                 "YouTubers",
@@ -18776,7 +18807,7 @@
           "parentId": "root-learn-youtubers"
         }
       ],
-      "stars": 7501,
+      "stars": 7515,
       "forks": 489,
       "language": "Markdown",
       "license": "CC0-1.0",
@@ -18787,7 +18818,7 @@
         "youtube",
         "youtubers"
       ],
-      "updated": "2026-06-28T06:46:06Z",
+      "updated": "2026-07-04T21:05:32Z",
       "pushed": "2026-06-05T15:52:05Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -21043,8 +21074,8 @@
                   "sourceRepo": "dribdat/awesome-hackathon",
                   "depth": 3,
                   "children": [],
-                  "stars": 21115,
-                  "forks": 3958,
+                  "stars": 21140,
+                  "forks": 3956,
                   "language": null,
                   "license": null,
                   "topics": [
@@ -21053,7 +21084,7 @@
                     "list",
                     "readme"
                   ],
-                  "updated": "2026-06-28T10:11:02Z",
+                  "updated": "2026-07-05T04:05:05Z",
                   "pushed": "2026-06-22T17:38:36Z",
                   "awesome": true,
                   "path": [
@@ -22118,13 +22149,18 @@
           "parentId": "root-learn-hackathon"
         }
       ],
-      "stars": 0,
-      "forks": 0,
+      "stars": 268,
+      "forks": 20,
       "language": null,
-      "license": null,
-      "topics": [],
-      "updated": null,
-      "pushed": null,
+      "license": "CC0-1.0",
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "hackathon",
+        "hackathons"
+      ],
+      "updated": "2026-07-04T16:23:38Z",
+      "pushed": "2026-05-05T17:45:20Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -23216,8 +23252,8 @@
           "parentId": "root-learn-certificates"
         }
       ],
-      "stars": 4964,
-      "forks": 411,
+      "stars": 4991,
+      "forks": 412,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -23232,8 +23268,8 @@
         "free",
         "hacktoberfest"
       ],
-      "updated": "2026-06-28T05:13:27Z",
-      "pushed": "2026-06-05T20:34:47Z",
+      "updated": "2026-07-05T05:46:59Z",
+      "pushed": "2026-06-30T15:46:25Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [

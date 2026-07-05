@@ -2389,13 +2389,19 @@
                   "sourceRepo": "bcoe/awesome-cross-platform-nodejs",
                   "depth": 3,
                   "children": [],
-                  "stars": 0,
-                  "forks": 0,
+                  "stars": 870,
+                  "forks": 51,
                   "language": null,
-                  "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
+                  "license": "NOASSERTION",
+                  "topics": [
+                    "awesome",
+                    "awesome-list",
+                    "desktop",
+                    "desktop-js",
+                    "javascript"
+                  ],
+                  "updated": "2026-06-30T19:30:55Z",
+                  "pushed": "2026-05-09T13:45:24Z",
                   "awesome": true,
                   "path": [
                     "Node.js",
@@ -2445,13 +2451,16 @@
               "parentId": "root-platforms-node-js-cross-platform"
             }
           ],
-          "stars": 0,
-          "forks": 0,
+          "stars": 1208,
+          "forks": 79,
           "language": null,
-          "license": null,
-          "topics": [],
-          "updated": null,
-          "pushed": null,
+          "license": "CC-BY-SA-4.0",
+          "topics": [
+            "awesome",
+            "awesome-list"
+          ],
+          "updated": "2026-07-04T03:55:12Z",
+          "pushed": "2023-02-07T20:03:47Z",
           "awesome": true,
           "readmeStatus": "expanded",
           "path": [
@@ -8801,18 +8810,24 @@
                       "kind": "repo",
                       "repo": "sindresorhus/awesome-observables",
                       "url": "https://github.com/sindresorhus/awesome-observables",
-                      "description": "",
+                      "description": "Awesome Observable related stuff - An Observable is a collection that arrives over time.",
                       "external": false,
                       "sourceRepo": "sindresorhus/awesome-nodejs",
                       "depth": 4,
                       "children": [],
-                      "stars": 0,
-                      "forks": 0,
+                      "stars": 351,
+                      "forks": 15,
                       "language": null,
-                      "license": null,
-                      "topics": [],
-                      "updated": null,
-                      "pushed": null,
+                      "license": "CC0-1.0",
+                      "topics": [
+                        "awesome",
+                        "awesome-list",
+                        "javascript",
+                        "list",
+                        "observables"
+                      ],
+                      "updated": "2026-07-02T07:23:07Z",
+                      "pushed": "2021-10-13T14:23:18Z",
                       "awesome": true,
                       "path": [
                         "Node.js",
@@ -20166,7 +20181,7 @@
               "sourceRepo": "sindresorhus/awesome-nodejs",
               "depth": 2,
               "children": [],
-              "stars": 4720,
+              "stars": 4723,
               "forks": 282,
               "language": null,
               "license": "CC0-1.0",
@@ -20180,7 +20195,7 @@
                 "package-manager",
                 "yarn"
               ],
-              "updated": "2026-06-26T20:15:26Z",
+              "updated": "2026-07-04T09:24:59Z",
               "pushed": "2026-04-20T12:11:28Z",
               "awesome": true,
               "path": [
@@ -20201,13 +20216,16 @@
               "sourceRepo": "sindresorhus/awesome-nodejs",
               "depth": 2,
               "children": [],
-              "stars": 0,
-              "forks": 0,
+              "stars": 1208,
+              "forks": 79,
               "language": null,
-              "license": null,
-              "topics": [],
-              "updated": null,
-              "pushed": null,
+              "license": "CC-BY-SA-4.0",
+              "topics": [
+                "awesome",
+                "awesome-list"
+              ],
+              "updated": "2026-07-04T03:55:12Z",
+              "pushed": "2023-02-07T20:03:47Z",
               "awesome": true,
               "path": [
                 "Node.js",
@@ -20232,8 +20250,8 @@
           "parentId": "root-platforms-node-js"
         }
       ],
-      "stars": 66082,
-      "forks": 6226,
+      "stars": 66142,
+      "forks": 6229,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -20244,7 +20262,7 @@
         "node",
         "nodejs"
       ],
-      "updated": "2026-06-28T10:02:47Z",
+      "updated": "2026-07-05T05:55:26Z",
       "pushed": "2026-05-03T08:24:10Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -20307,6 +20325,55 @@
           "path": [
             "iOS",
             "Contributing and Collaborating"
+          ],
+          "parentId": "root-platforms-ios"
+        },
+        {
+          "id": "root-platforms-ios-premium-resources-follow",
+          "title": "🔥 Premium Resources | Follow",
+          "kind": "section",
+          "sourceRepo": "vsouza/awesome-ios",
+          "depth": 1,
+          "url": "https://github.com/vsouza/awesome-ios#premium-resources-follow",
+          "children": [
+            {
+              "id": "root-platforms-ios-premium-resources-follow-premium-guide",
+              "title": "Premium Guide",
+              "kind": "link",
+              "repo": "",
+              "url": "http://github.com/Doloffer-g/guide",
+              "description": "",
+              "external": true,
+              "sourceRepo": "vsouza/awesome-ios",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "iOS",
+                "🔥 Premium Resources | Follow",
+                "Premium Guide"
+              ],
+              "parentId": "root-platforms-ios-premium-resources-follow"
+            }
+          ],
+          "stars": 0,
+          "forks": 0,
+          "language": null,
+          "license": null,
+          "topics": [],
+          "updated": null,
+          "pushed": null,
+          "awesome": false,
+          "path": [
+            "iOS",
+            "🔥 Premium Resources | Follow"
           ],
           "parentId": "root-platforms-ios"
         },
@@ -22330,13 +22397,18 @@
               "sourceRepo": "vsouza/awesome-ios",
               "depth": 2,
               "children": [],
-              "stars": 0,
-              "forks": 0,
-              "language": null,
-              "license": null,
-              "topics": [],
-              "updated": null,
-              "pushed": null,
+              "stars": 1267,
+              "forks": 162,
+              "language": "Swift",
+              "license": "MIT",
+              "topics": [
+                "cache",
+                "disk-cache",
+                "expiry",
+                "swift"
+              ],
+              "updated": "2026-06-30T05:23:00Z",
+              "pushed": "2021-08-11T10:19:24Z",
               "awesome": true,
               "path": [
                 "iOS",
@@ -33426,7 +33498,7 @@
                 "models",
                 "tensorflow-models"
               ],
-              "updated": "2026-06-27T11:25:09Z",
+              "updated": "2026-06-30T10:37:01Z",
               "pushed": "2025-06-17T05:43:09Z",
               "awesome": true,
               "path": [
@@ -40403,7 +40475,7 @@
                 "objective-c",
                 "swift"
               ],
-              "updated": "2026-06-25T14:49:53Z",
+              "updated": "2026-07-04T04:10:02Z",
               "pushed": "2024-05-09T12:55:22Z",
               "awesome": true,
               "path": [
@@ -40424,13 +40496,32 @@
               "sourceRepo": "vsouza/awesome-ios",
               "depth": 2,
               "children": [],
-              "stars": 0,
-              "forks": 0,
+              "stars": 1201,
+              "forks": 164,
               "language": null,
-              "license": null,
-              "topics": [],
-              "updated": null,
-              "pushed": null,
+              "license": "MIT",
+              "topics": [
+                "awesome-ios",
+                "awesome-list",
+                "developer-tools",
+                "interview",
+                "interview-answers",
+                "interview-practice",
+                "interview-preparation",
+                "interview-questions",
+                "interview-test-task",
+                "ios",
+                "ios-interview",
+                "ios-sdk",
+                "ios-swift",
+                "ios11",
+                "macos",
+                "objective-c",
+                "swift",
+                "xcode"
+              ],
+              "updated": "2026-07-05T00:30:10Z",
+              "pushed": "2023-06-01T02:03:08Z",
               "awesome": true,
               "path": [
                 "iOS",
@@ -40450,13 +40541,32 @@
               "sourceRepo": "vsouza/awesome-ios",
               "depth": 2,
               "children": [],
-              "stars": 0,
-              "forks": 0,
+              "stars": 49447,
+              "forks": 2614,
               "language": null,
-              "license": null,
-              "topics": [],
-              "updated": null,
-              "pushed": null,
+              "license": "CC0-1.0",
+              "topics": [
+                "applications",
+                "apps",
+                "awesome",
+                "awesome-list",
+                "c",
+                "c-plus-plus",
+                "hacktoberfest",
+                "javascript",
+                "mac",
+                "macos",
+                "macos-application",
+                "macosx",
+                "objective-c",
+                "open-source",
+                "opensource",
+                "python",
+                "ruby",
+                "swift"
+              ],
+              "updated": "2026-07-05T05:55:56Z",
+              "pushed": "2026-04-15T22:47:24Z",
               "awesome": true,
               "path": [
                 "iOS",
@@ -40476,13 +40586,17 @@
               "sourceRepo": "vsouza/awesome-ios",
               "depth": 2,
               "children": [],
-              "stars": 0,
-              "forks": 0,
+              "stars": 763,
+              "forks": 86,
               "language": null,
               "license": null,
-              "topics": [],
-              "updated": null,
-              "pushed": null,
+              "topics": [
+                "awesome",
+                "collection",
+                "gist"
+              ],
+              "updated": "2026-06-29T00:21:52Z",
+              "pushed": "2025-06-24T13:38:45Z",
               "awesome": true,
               "path": [
                 "iOS",
@@ -40502,13 +40616,22 @@
               "sourceRepo": "vsouza/awesome-ios",
               "depth": 2,
               "children": [],
-              "stars": 0,
-              "forks": 0,
+              "stars": 686,
+              "forks": 85,
               "language": null,
-              "license": null,
-              "topics": [],
-              "updated": null,
-              "pushed": null,
+              "license": "MIT",
+              "topics": [
+                "awesome",
+                "awesome-list",
+                "books",
+                "ios",
+                "ios-book",
+                "learning",
+                "swift",
+                "swift-book"
+              ],
+              "updated": "2026-07-04T10:10:36Z",
+              "pushed": "2026-07-04T10:10:32Z",
               "awesome": true,
               "path": [
                 "iOS",
@@ -40528,13 +40651,26 @@
               "sourceRepo": "vsouza/awesome-ios",
               "depth": 2,
               "children": [],
-              "stars": 0,
-              "forks": 0,
-              "language": null,
-              "license": null,
-              "topics": [],
-              "updated": null,
-              "pushed": null,
+              "stars": 847,
+              "forks": 49,
+              "language": "Swift",
+              "license": "MIT",
+              "topics": [
+                "apple",
+                "awesome",
+                "awesome-list",
+                "awesome-readme",
+                "ios",
+                "ios-app",
+                "ios-swift",
+                "swift",
+                "swift5",
+                "useful-knowledge",
+                "usefull",
+                "usefull-materials"
+              ],
+              "updated": "2026-07-04T19:51:17Z",
+              "pushed": "2025-07-27T04:43:00Z",
               "awesome": true,
               "path": [
                 "iOS",
@@ -40554,13 +40690,13 @@
               "sourceRepo": "vsouza/awesome-ios",
               "depth": 2,
               "children": [],
-              "stars": 0,
-              "forks": 0,
+              "stars": 254,
+              "forks": 32,
               "language": null,
-              "license": null,
+              "license": "NOASSERTION",
               "topics": [],
-              "updated": null,
-              "pushed": null,
+              "updated": "2026-06-19T00:02:18Z",
+              "pushed": "2020-04-02T14:36:05Z",
               "awesome": true,
               "path": [
                 "iOS",
@@ -40644,6 +40780,32 @@
                 "iOS",
                 "Other Awesome Lists",
                 "Curated-Resources-for-Learning-Swift"
+              ],
+              "parentId": "root-platforms-ios-other-awesome-lists"
+            },
+            {
+              "id": "root-platforms-ios-other-awesome-lists-doloffer-guide",
+              "title": "Doloffer Guide",
+              "kind": "link",
+              "repo": "",
+              "url": "https://github.com/vsouza/awesome-ios/blob/HEAD/github.com/Doloffer-g/guide",
+              "description": "DolOffer Official Affiliate & Creator Resources",
+              "external": false,
+              "sourceRepo": "vsouza/awesome-ios",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "iOS",
+                "Other Awesome Lists",
+                "Doloffer Guide"
               ],
               "parentId": "root-platforms-ios-other-awesome-lists"
             },
@@ -49648,13 +49810,24 @@
                   "sourceRepo": "vsouza/awesome-ios",
                   "depth": 3,
                   "children": [],
-                  "stars": 0,
-                  "forks": 0,
-                  "language": null,
-                  "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
+                  "stars": 745,
+                  "forks": 123,
+                  "language": "Swift",
+                  "license": "MIT",
+                  "topics": [
+                    "cocoapods",
+                    "font",
+                    "font-awesome",
+                    "font-icons",
+                    "icons",
+                    "ios",
+                    "swift",
+                    "swift-3",
+                    "swift-library",
+                    "xcode"
+                  ],
+                  "updated": "2026-06-30T05:22:37Z",
+                  "pushed": "2020-07-20T22:30:08Z",
                   "awesome": true,
                   "path": [
                     "iOS",
@@ -49675,13 +49848,22 @@
                   "sourceRepo": "vsouza/awesome-ios",
                   "depth": 3,
                   "children": [],
-                  "stars": 0,
-                  "forks": 0,
-                  "language": null,
-                  "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
+                  "stars": 1564,
+                  "forks": 261,
+                  "language": "Swift",
+                  "license": "MIT",
+                  "topics": [
+                    "carthage",
+                    "cocoapods",
+                    "font-awesome",
+                    "font-awesome-5",
+                    "ios",
+                    "macos",
+                    "swift",
+                    "tvos"
+                  ],
+                  "updated": "2026-06-30T05:50:05Z",
+                  "pushed": "2023-01-25T03:22:10Z",
                   "awesome": true,
                   "path": [
                     "iOS",
@@ -49702,12 +49884,12 @@
                   "sourceRepo": "vsouza/awesome-ios",
                   "depth": 3,
                   "children": [],
-                  "stars": 2803,
+                  "stars": 2802,
                   "forks": 307,
                   "language": "Objective-C",
                   "license": "MIT",
                   "topics": [],
-                  "updated": "2026-06-18T14:02:03Z",
+                  "updated": "2026-06-30T05:13:46Z",
                   "pushed": "2021-01-27T07:36:17Z",
                   "awesome": true,
                   "path": [
@@ -49810,13 +49992,13 @@
                   "sourceRepo": "vsouza/awesome-ios",
                   "depth": 3,
                   "children": [],
-                  "stars": 0,
-                  "forks": 0,
-                  "language": null,
+                  "stars": 1740,
+                  "forks": 254,
+                  "language": "Objective-C",
                   "license": null,
                   "topics": [],
-                  "updated": null,
-                  "pushed": null,
+                  "updated": "2026-06-30T05:14:01Z",
+                  "pushed": "2017-01-24T01:01:06Z",
                   "awesome": true,
                   "path": [
                     "iOS",
@@ -57991,13 +58173,19 @@
                   "sourceRepo": "vsouza/awesome-ios",
                   "depth": 3,
                   "children": [],
-                  "stars": 0,
-                  "forks": 0,
-                  "language": null,
-                  "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
+                  "stars": 157,
+                  "forks": 27,
+                  "language": "Swift",
+                  "license": "MIT",
+                  "topics": [
+                    "ios",
+                    "login-screen",
+                    "signup",
+                    "swift",
+                    "swift-image"
+                  ],
+                  "updated": "2026-02-22T16:06:55Z",
+                  "pushed": "2019-08-22T01:18:13Z",
                   "awesome": true,
                   "path": [
                     "iOS",
@@ -65252,13 +65440,22 @@
                   "sourceRepo": "vsouza/awesome-ios",
                   "depth": 3,
                   "children": [],
-                  "stars": 0,
-                  "forks": 0,
-                  "language": null,
-                  "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
+                  "stars": 235,
+                  "forks": 24,
+                  "language": "Swift",
+                  "license": "MIT",
+                  "topics": [
+                    "animation",
+                    "awesome",
+                    "ios",
+                    "swift",
+                    "swift-3",
+                    "swift3",
+                    "textfield",
+                    "uitextfield"
+                  ],
+                  "updated": "2026-02-26T10:09:34Z",
+                  "pushed": "2019-05-14T13:01:49Z",
                   "awesome": true,
                   "path": [
                     "iOS",
@@ -66615,13 +66812,25 @@
               "sourceRepo": "vsouza/awesome-ios",
               "depth": 2,
               "children": [],
-              "stars": 0,
-              "forks": 0,
-              "language": null,
-              "license": null,
-              "topics": [],
-              "updated": null,
-              "pushed": null,
+              "stars": 322,
+              "forks": 31,
+              "language": "Swift",
+              "license": "MIT",
+              "topics": [
+                "coach",
+                "education",
+                "gecco",
+                "ios",
+                "mark",
+                "markup",
+                "spotlight",
+                "swift",
+                "swift3",
+                "swiftywalkthrough",
+                "tutorial"
+              ],
+              "updated": "2026-07-02T07:59:21Z",
+              "pushed": "2021-08-09T22:17:40Z",
               "awesome": true,
               "path": [
                 "iOS",
@@ -69541,7 +69750,7 @@
               "sourceRepo": "vsouza/awesome-ios",
               "depth": 2,
               "children": [],
-              "stars": 5782,
+              "stars": 5781,
               "forks": 469,
               "language": null,
               "license": "MIT",
@@ -69551,7 +69760,7 @@
                 "swift",
                 "swift-education"
               ],
-              "updated": "2026-06-27T09:36:15Z",
+              "updated": "2026-07-04T09:07:30Z",
               "pushed": "2018-07-01T21:46:06Z",
               "awesome": true,
               "path": [
@@ -69572,7 +69781,7 @@
               "sourceRepo": "vsouza/awesome-ios",
               "depth": 2,
               "children": [],
-              "stars": 4380,
+              "stars": 4379,
               "forks": 343,
               "language": "Swift",
               "license": "NOASSERTION",
@@ -69589,7 +69798,7 @@
                 "swift3",
                 "swift4"
               ],
-              "updated": "2026-06-24T03:30:49Z",
+              "updated": "2026-06-29T20:51:45Z",
               "pushed": "2026-04-02T08:35:32Z",
               "awesome": true,
               "path": [
@@ -70525,13 +70734,18 @@
                   "sourceRepo": "vsouza/awesome-ios",
                   "depth": 3,
                   "children": [],
-                  "stars": 0,
-                  "forks": 0,
-                  "language": null,
-                  "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
+                  "stars": 128,
+                  "forks": 13,
+                  "language": "Shell",
+                  "license": "MIT",
+                  "topics": [
+                    "auto-increment",
+                    "semantic",
+                    "xcode",
+                    "xcode-scripts"
+                  ],
+                  "updated": "2026-03-17T11:36:48Z",
+                  "pushed": "2017-10-20T12:52:12Z",
                   "awesome": true,
                   "path": [
                     "iOS",
@@ -70708,7 +70922,7 @@
           "parentId": "root-platforms-ios"
         }
       ],
-      "stars": 52616,
+      "stars": 52669,
       "forks": 6978,
       "language": "Swift",
       "license": "MIT",
@@ -70727,7 +70941,7 @@
         "swift-library",
         "swift-programming"
       ],
-      "updated": "2026-06-28T10:02:55Z",
+      "updated": "2026-07-05T05:47:54Z",
       "pushed": "2026-06-24T14:58:10Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -76939,7 +77153,7 @@
                   "sourceRepo": "jstumpp/awesome-android",
                   "depth": 3,
                   "children": [],
-                  "stars": 12356,
+                  "stars": 12365,
                   "forks": 2289,
                   "language": null,
                   "license": "MIT",
@@ -76948,7 +77162,7 @@
                     "android-adb",
                     "android-debug-bridge"
                   ],
-                  "updated": "2026-06-27T07:13:52Z",
+                  "updated": "2026-07-05T03:50:25Z",
                   "pushed": "2024-12-18T09:31:14Z",
                   "awesome": true,
                   "path": [
@@ -80584,8 +80798,8 @@
           "parentId": "root-platforms-android"
         }
       ],
-      "stars": 12187,
-      "forks": 1763,
+      "stars": 12199,
+      "forks": 1765,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -80597,7 +80811,7 @@
         "awesome-list-awesome-list",
         "list"
       ],
-      "updated": "2026-06-28T10:06:50Z",
+      "updated": "2026-07-04T20:16:21Z",
       "pushed": "2025-10-27T08:14:07Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -80612,7 +80826,7 @@
       "kind": "repo",
       "repo": "weblancaster/awesome-iot-hybrid",
       "url": "https://github.com/weblancaster/awesome-iot-hybrid",
-      "description": "",
+      "description": "The missing awesome list - collection of awesome IoT and Hybrid Apps frameworks, tools, resources, videos and shiny things.",
       "external": false,
       "sourceRepo": "sindresorhus/awesome",
       "depth": 1,
@@ -82017,13 +82231,13 @@
           "parentId": "root-platforms-iot-and-hybrid-apps"
         }
       ],
-      "stars": 0,
-      "forks": 0,
+      "stars": 605,
+      "forks": 73,
       "language": null,
-      "license": null,
+      "license": "MIT",
       "topics": [],
-      "updated": null,
-      "pushed": null,
+      "updated": "2026-07-02T03:00:04Z",
+      "pushed": "2021-09-01T02:31:16Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -88999,8 +89213,8 @@
               "sourceRepo": "sindresorhus/awesome-electron",
               "depth": 2,
               "children": [],
-              "stars": 66082,
-              "forks": 6226,
+              "stars": 66142,
+              "forks": 6229,
               "language": null,
               "license": "CC0-1.0",
               "topics": [
@@ -89011,7 +89225,7 @@
                 "node",
                 "nodejs"
               ],
-              "updated": "2026-06-28T10:02:47Z",
+              "updated": "2026-07-05T05:55:26Z",
               "pushed": "2026-05-03T08:24:10Z",
               "awesome": true,
               "path": [
@@ -89027,18 +89241,18 @@
               "kind": "repo",
               "repo": "doyensec/awesome-electronjs-hacking",
               "url": "https://github.com/doyensec/awesome-electronjs-hacking",
-              "description": "",
+              "description": "A curated list of awesome resources about Electron.js (in)security",
               "external": false,
               "sourceRepo": "sindresorhus/awesome-electron",
               "depth": 2,
               "children": [],
-              "stars": 0,
-              "forks": 0,
+              "stars": 674,
+              "forks": 65,
               "language": null,
               "license": null,
               "topics": [],
-              "updated": null,
-              "pushed": null,
+              "updated": "2026-06-19T19:15:20Z",
+              "pushed": "2025-05-14T13:37:44Z",
               "awesome": true,
               "path": [
                 "Electron",
@@ -89063,8 +89277,8 @@
           "parentId": "root-platforms-electron"
         }
       ],
-      "stars": 27198,
-      "forks": 2060,
+      "stars": 27208,
+      "forks": 2061,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -89073,7 +89287,7 @@
         "electron",
         "list"
       ],
-      "updated": "2026-06-26T22:08:09Z",
+      "updated": "2026-07-04T18:06:02Z",
       "pushed": "2026-05-03T11:29:47Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -89248,13 +89462,22 @@
           "parentId": "root-platforms-cordova"
         }
       ],
-      "stars": 0,
-      "forks": 0,
-      "language": null,
+      "stars": 308,
+      "forks": 40,
+      "language": "Ruby",
       "license": null,
-      "topics": [],
-      "updated": null,
-      "pushed": null,
+      "topics": [
+        "awesome-list",
+        "cordova",
+        "cordova-libraries",
+        "framework7",
+        "ionic",
+        "kendo-ui",
+        "onsen-ui",
+        "phonegap"
+      ],
+      "updated": "2026-06-27T07:43:45Z",
+      "pushed": "2019-10-25T21:18:18Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -90559,7 +90782,7 @@
           "parentId": "root-platforms-react-native"
         }
       ],
-      "stars": 35693,
+      "stars": 35695,
       "forks": 4020,
       "language": "JavaScript",
       "license": null,
@@ -90569,7 +90792,7 @@
         "react",
         "react-native"
       ],
-      "updated": "2026-06-27T16:09:55Z",
+      "updated": "2026-07-05T06:00:18Z",
       "pushed": "2024-07-05T13:12:41Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -97298,7 +97521,7 @@
               "parentId": "root-platforms-linux-containers"
             }
           ],
-          "stars": 2073,
+          "stars": 2074,
           "forks": 181,
           "language": null,
           "license": "Apache-2.0",
@@ -97308,7 +97531,7 @@
             "containers",
             "linux-containers"
           ],
-          "updated": "2026-06-27T07:45:31Z",
+          "updated": "2026-07-02T02:59:59Z",
           "pushed": "2024-04-09T19:01:27Z",
           "awesome": true,
           "readmeStatus": "expanded",
@@ -108481,13 +108704,18 @@
               "parentId": "root-platforms-linux-arch-based-projects"
             }
           ],
-          "stars": 0,
-          "forks": 0,
-          "language": null,
-          "license": null,
-          "topics": [],
-          "updated": null,
-          "pushed": null,
+          "stars": 580,
+          "forks": 28,
+          "language": "HTML",
+          "license": "CC0-1.0",
+          "topics": [
+            "arch-linux",
+            "awesome",
+            "awesome-list",
+            "list"
+          ],
+          "updated": "2026-07-04T01:30:48Z",
+          "pushed": "2024-09-29T00:22:33Z",
           "awesome": true,
           "readmeStatus": "expanded",
           "path": [
@@ -113117,13 +113345,13 @@
                       "sourceRepo": "appimagecommunity/awesome-appimage",
                       "depth": 4,
                       "children": [],
-                      "stars": 0,
-                      "forks": 0,
+                      "stars": 57,
+                      "forks": 5,
                       "language": null,
                       "license": null,
                       "topics": [],
-                      "updated": null,
-                      "pushed": null,
+                      "updated": "2026-04-30T14:45:47Z",
+                      "pushed": "2024-10-22T12:16:35Z",
                       "awesome": true,
                       "path": [
                         "Linux",
@@ -113361,13 +113589,19 @@
               "parentId": "root-platforms-linux-appimage"
             }
           ],
-          "stars": 0,
-          "forks": 0,
+          "stars": 586,
+          "forks": 41,
           "language": null,
-          "license": null,
-          "topics": [],
-          "updated": null,
-          "pushed": null,
+          "license": "CC0-1.0",
+          "topics": [
+            "appimage",
+            "awesome",
+            "awesome-list",
+            "linux",
+            "package-creation"
+          ],
+          "updated": "2026-07-02T19:41:12Z",
+          "pushed": "2025-12-07T12:00:44Z",
           "awesome": true,
           "readmeStatus": "expanded",
           "path": [
@@ -114709,6 +114943,33 @@
                     "Omarchy",
                     "Themes",
                     "omarchy-forest-green-theme"
+                  ],
+                  "parentId": "root-platforms-linux-omarchy-themes"
+                },
+                {
+                  "id": "root-platforms-linux-omarchy-themes-omarchy-frutiger-aero",
+                  "title": "omarchy-frutiger-aero",
+                  "kind": "repo",
+                  "repo": "vectorg99/omarchy-frutiger-aero",
+                  "url": "https://github.com/vectorg99/omarchy-frutiger-aero",
+                  "description": "Frutiger Aero theme with 6 EWW desktop widgets, liquid glass aesthetics, celestial gradients, and light/dark support.",
+                  "external": false,
+                  "sourceRepo": "aorumbayev/awesome-omarchy",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Linux",
+                    "Omarchy",
+                    "Themes",
+                    "omarchy-frutiger-aero"
                   ],
                   "parentId": "root-platforms-linux-omarchy-themes"
                 },
@@ -116745,13 +117006,19 @@
                   "sourceRepo": "aorumbayev/awesome-omarchy",
                   "depth": 3,
                   "children": [],
-                  "stars": 0,
+                  "stars": 23,
                   "forks": 0,
-                  "language": null,
-                  "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
+                  "language": "Rust",
+                  "license": "MIT",
+                  "topics": [
+                    "awesome",
+                    "awesome-omarchy",
+                    "omarchy",
+                    "omarchy-theme",
+                    "tui"
+                  ],
+                  "updated": "2026-06-23T18:22:50Z",
+                  "pushed": "2026-02-16T04:15:45Z",
                   "awesome": true,
                   "path": [
                     "Linux",
@@ -118521,13 +118788,13 @@
                   "sourceRepo": "aorumbayev/awesome-omarchy",
                   "depth": 3,
                   "children": [],
-                  "stars": 0,
-                  "forks": 0,
+                  "stars": 122,
+                  "forks": 11,
                   "language": null,
                   "license": null,
                   "topics": [],
-                  "updated": null,
-                  "pushed": null,
+                  "updated": "2026-06-20T06:31:18Z",
+                  "pushed": "2025-11-24T12:09:44Z",
                   "awesome": true,
                   "path": [
                     "Linux",
@@ -118980,13 +119247,27 @@
               "parentId": "root-platforms-linux-omarchy"
             }
           ],
-          "stars": 0,
-          "forks": 0,
-          "language": null,
-          "license": null,
-          "topics": [],
-          "updated": null,
-          "pushed": null,
+          "stars": 386,
+          "forks": 32,
+          "language": "HTML",
+          "license": "CC0-1.0",
+          "topics": [
+            "archlinux",
+            "awesome",
+            "awesome-list",
+            "awesome-omarchy",
+            "dotfiles",
+            "hyprland",
+            "hyprland-config",
+            "omarchy",
+            "omarchy-theme",
+            "rice",
+            "walker",
+            "waybar",
+            "wayland"
+          ],
+          "updated": "2026-07-05T00:14:25Z",
+          "pushed": "2026-06-19T16:30:47Z",
           "awesome": true,
           "readmeStatus": "expanded",
           "path": [
@@ -120400,7 +120681,7 @@
               "parentId": "root-platforms-macos-screensavers"
             }
           ],
-          "stars": 4379,
+          "stars": 4384,
           "forks": 165,
           "language": null,
           "license": null,
@@ -120410,7 +120691,7 @@
             "list",
             "screensavers"
           ],
-          "updated": "2026-06-23T10:07:33Z",
+          "updated": "2026-07-04T18:42:51Z",
           "pushed": "2025-10-27T22:06:19Z",
           "awesome": true,
           "readmeStatus": "expanded",
@@ -122069,8 +122350,8 @@
               "parentId": "root-platforms-macos-apps"
             }
           ],
-          "stars": 106368,
-          "forks": 7941,
+          "stars": 106718,
+          "forks": 7983,
           "language": "Swift",
           "license": "CC0-1.0",
           "topics": [
@@ -122094,8 +122375,8 @@
             "macosx",
             "software"
           ],
-          "updated": "2026-06-28T10:02:34Z",
-          "pushed": "2026-06-27T01:19:34Z",
+          "updated": "2026-07-05T05:24:56Z",
+          "pushed": "2026-07-05T00:34:05Z",
           "awesome": true,
           "readmeStatus": "expanded",
           "path": [
@@ -122110,18 +122391,37 @@
           "kind": "repo",
           "repo": "serhii-londar/open-source-mac-os-apps",
           "url": "https://github.com/serhii-londar/open-source-mac-os-apps",
-          "description": "",
+          "description": "🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps",
           "external": false,
           "sourceRepo": "sindresorhus/awesome",
           "depth": 2,
           "children": [],
-          "stars": 0,
-          "forks": 0,
+          "stars": 49447,
+          "forks": 2614,
           "language": null,
-          "license": null,
-          "topics": [],
-          "updated": null,
-          "pushed": null,
+          "license": "CC0-1.0",
+          "topics": [
+            "applications",
+            "apps",
+            "awesome",
+            "awesome-list",
+            "c",
+            "c-plus-plus",
+            "hacktoberfest",
+            "javascript",
+            "mac",
+            "macos",
+            "macos-application",
+            "macosx",
+            "objective-c",
+            "open-source",
+            "opensource",
+            "python",
+            "ruby",
+            "swift"
+          ],
+          "updated": "2026-07-05T05:55:56Z",
+          "pushed": "2026-04-15T22:47:24Z",
           "awesome": false,
           "path": [
             "macOS",
@@ -122446,13 +122746,13 @@
           "parentId": "root-platforms-watchos"
         }
       ],
-      "stars": 0,
-      "forks": 0,
-      "language": null,
+      "stars": 499,
+      "forks": 41,
+      "language": "Ruby",
       "license": null,
       "topics": [],
-      "updated": null,
-      "pushed": null,
+      "updated": "2026-06-27T07:47:40Z",
+      "pushed": "2018-07-05T22:52:02Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -122866,7 +123166,7 @@
       "kind": "repo",
       "repo": "mailtoharshit/awesome-salesforce",
       "url": "https://github.com/mailtoharshit/awesome-salesforce",
-      "description": "",
+      "description": "A curated list of delightful Salesforce Platform Resources",
       "external": false,
       "sourceRepo": "sindresorhus/awesome",
       "depth": 1,
@@ -123519,13 +123819,13 @@
           "parentId": "root-platforms-salesforce"
         }
       ],
-      "stars": 0,
-      "forks": 0,
+      "stars": 794,
+      "forks": 203,
       "language": null,
       "license": null,
       "topics": [],
-      "updated": null,
-      "pushed": null,
+      "updated": "2026-07-03T17:12:21Z",
+      "pushed": "2023-07-20T13:55:57Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -125887,7 +126187,7 @@
           "parentId": "root-platforms-amazon-web-services"
         }
       ],
-      "stars": 14072,
+      "stars": 14083,
       "forks": 1903,
       "language": "Python",
       "license": "NOASSERTION",
@@ -125913,7 +126213,7 @@
         "s3",
         "serverless"
       ],
-      "updated": "2026-06-27T22:06:37Z",
+      "updated": "2026-07-03T10:39:40Z",
       "pushed": "2024-03-12T09:29:54Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -127388,13 +127688,22 @@
               "parentId": "root-platforms-windows-powertoys-run-plugins"
             }
           ],
-          "stars": 0,
-          "forks": 0,
+          "stars": 585,
+          "forks": 25,
           "language": null,
-          "license": null,
-          "topics": [],
-          "updated": null,
-          "pushed": null,
+          "license": "CC0-1.0",
+          "topics": [
+            "awesome",
+            "awesome-list",
+            "list",
+            "microsoft-powertoys",
+            "plugins",
+            "powertoys",
+            "powertoys-run",
+            "powertoys-run-plugin"
+          ],
+          "updated": "2026-07-03T12:17:52Z",
+          "pushed": "2025-09-08T21:25:03Z",
           "awesome": true,
           "readmeStatus": "expanded",
           "path": [
@@ -128289,8 +128598,8 @@
           "parentId": "root-platforms-windows"
         }
       ],
-      "stars": 2537,
-      "forks": 178,
+      "stars": 2553,
+      "forks": 182,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -128299,7 +128608,7 @@
         "microsoft",
         "windows"
       ],
-      "updated": "2026-06-28T05:40:56Z",
+      "updated": "2026-07-04T11:41:52Z",
       "pushed": "2026-06-20T01:05:48Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -130994,7 +131303,7 @@
           "parentId": "root-platforms-ipfs"
         }
       ],
-      "stars": 4586,
+      "stars": 4587,
       "forks": 547,
       "language": "JavaScript",
       "license": "CC0-1.0",
@@ -131004,7 +131313,7 @@
         "awesome-list",
         "ipfs"
       ],
-      "updated": "2026-06-27T11:52:04Z",
+      "updated": "2026-07-04T17:38:07Z",
       "pushed": "2025-11-13T12:41:43Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -133373,13 +133682,17 @@
           "parentId": "root-platforms-fuse"
         }
       ],
-      "stars": 0,
-      "forks": 0,
+      "stars": 361,
+      "forks": 51,
       "language": null,
       "license": null,
-      "topics": [],
-      "updated": null,
-      "pushed": null,
+      "topics": [
+        "awesome",
+        "fuse",
+        "norway"
+      ],
+      "updated": "2026-06-27T07:51:29Z",
+      "pushed": "2019-02-25T19:19:14Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -134448,13 +134761,19 @@
           "parentId": "root-platforms-heroku"
         }
       ],
-      "stars": 0,
-      "forks": 0,
+      "stars": 320,
+      "forks": 35,
       "language": null,
       "license": null,
-      "topics": [],
-      "updated": null,
-      "pushed": null,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "heroku",
+        "list",
+        "paas"
+      ],
+      "updated": "2026-06-27T07:51:49Z",
+      "pushed": "2021-07-06T18:57:23Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -138763,6 +139082,32 @@
               "parentId": "root-platforms-raspberry-pi-projects"
             },
             {
+              "id": "root-platforms-raspberry-pi-projects-nanobot-ai-chat-robot",
+              "title": "NanoBot AI Chat Robot",
+              "kind": "repo",
+              "repo": "samartzidis/nanobot",
+              "url": "https://github.com/samartzidis/nanobot",
+              "description": "Raspberry Pi powered AI chat robot, ideal for education and teaching assistance.",
+              "external": false,
+              "sourceRepo": "thibmaek/awesome-raspberry-pi",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Raspberry Pi",
+                "Projects",
+                "NanoBot AI Chat Robot"
+              ],
+              "parentId": "root-platforms-raspberry-pi-projects"
+            },
+            {
               "id": "root-platforms-raspberry-pi-projects-nerves-project",
               "title": "Nerves Project",
               "kind": "link",
@@ -142690,8 +143035,8 @@
           "parentId": "root-platforms-raspberry-pi"
         }
       ],
-      "stars": 16544,
-      "forks": 1125,
+      "stars": 16571,
+      "forks": 1128,
       "language": "Shell",
       "license": "NOASSERTION",
       "topics": [
@@ -142702,8 +143047,8 @@
         "resources",
         "rpi"
       ],
-      "updated": "2026-06-28T01:31:37Z",
-      "pushed": "2026-06-01T07:14:24Z",
+      "updated": "2026-07-05T04:42:10Z",
+      "pushed": "2026-06-29T20:22:10Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -146908,8 +147253,8 @@
               "sourceRepo": "jessetg/awesome-qt",
               "depth": 2,
               "children": [],
-              "stars": 71995,
-              "forks": 8303,
+              "stars": 72092,
+              "forks": 8308,
               "language": null,
               "license": "MIT",
               "topics": [
@@ -146926,8 +147271,8 @@
                 "programming-tutorial",
                 "resources"
               ],
-              "updated": "2026-06-28T09:51:07Z",
-              "pushed": "2026-05-31T09:43:24Z",
+              "updated": "2026-07-05T05:51:31Z",
+              "pushed": "2026-07-03T23:03:10Z",
               "awesome": true,
               "path": [
                 "Qt",
@@ -146973,7 +147318,7 @@
               "sourceRepo": "jessetg/awesome-qt",
               "depth": 2,
               "children": [],
-              "stars": 5394,
+              "stars": 5397,
               "forks": 488,
               "language": null,
               "license": "NOASSERTION",
@@ -146988,7 +147333,7 @@
                 "cmake-toolchains",
                 "list"
               ],
-              "updated": "2026-06-26T06:51:36Z",
+              "updated": "2026-07-03T09:09:43Z",
               "pushed": "2026-05-11T08:20:09Z",
               "awesome": true,
               "path": [
@@ -147009,7 +147354,7 @@
               "sourceRepo": "jessetg/awesome-qt",
               "depth": 2,
               "children": [],
-              "stars": 2414,
+              "stars": 2416,
               "forks": 185,
               "language": null,
               "license": null,
@@ -147026,7 +147371,7 @@
                 "opengl-tutorial",
                 "video-tutorial"
               ],
-              "updated": "2026-06-28T08:25:16Z",
+              "updated": "2026-07-05T04:15:03Z",
               "pushed": "2026-01-09T12:26:55Z",
               "awesome": true,
               "path": [
@@ -147052,13 +147397,20 @@
           "parentId": "root-platforms-qt"
         }
       ],
-      "stars": 0,
-      "forks": 0,
+      "stars": 1628,
+      "forks": 188,
       "language": null,
-      "license": null,
-      "topics": [],
-      "updated": null,
-      "pushed": null,
+      "license": "CC0-1.0",
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "list",
+        "qt",
+        "qt-applications",
+        "qt-framework"
+      ],
+      "updated": "2026-07-04T11:37:44Z",
+      "pushed": "2024-08-12T12:13:26Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -147706,7 +148058,7 @@
               "kind": "repo",
               "repo": "fregante/chrome-webstore-upload-cli",
               "url": "https://github.com/fregante/chrome-webstore-upload-cli",
-              "description": "Upload the extension to the Chrome Web Store via cli (or on Travis, automatically).",
+              "description": "Upload the extension to the Chrome Web Store via cli (or on GitHub Actions, automatically).",
               "external": false,
               "sourceRepo": "fregante/awesome-webextensions",
               "depth": 2,
@@ -147971,13 +148323,15 @@
               "sourceRepo": "fregante/awesome-webextensions",
               "depth": 2,
               "children": [],
-              "stars": 0,
-              "forks": 0,
-              "language": null,
-              "license": null,
-              "topics": [],
-              "updated": null,
-              "pushed": null,
+              "stars": 49,
+              "forks": 9,
+              "language": "JavaScript",
+              "license": "MIT",
+              "topics": [
+                "webextension"
+              ],
+              "updated": "2026-01-27T10:45:07Z",
+              "pushed": "2025-04-14T08:59:25Z",
               "awesome": true,
               "path": [
                 "WebExtensions",
@@ -148435,13 +148789,17 @@
           "parentId": "root-platforms-webextensions"
         }
       ],
-      "stars": 0,
-      "forks": 0,
+      "stars": 1495,
+      "forks": 92,
       "language": null,
-      "license": null,
-      "topics": [],
-      "updated": null,
-      "pushed": null,
+      "license": "CC0-1.0",
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "webext"
+      ],
+      "updated": "2026-07-04T14:57:33Z",
+      "pushed": "2026-07-04T06:48:00Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -149044,13 +149402,24 @@
           "parentId": "root-platforms-smart-tv"
         }
       ],
-      "stars": 0,
-      "forks": 0,
+      "stars": 1366,
+      "forks": 104,
       "language": null,
       "license": null,
-      "topics": [],
-      "updated": null,
-      "pushed": null,
+      "topics": [
+        "android-tv",
+        "apple-tv",
+        "awesome",
+        "awesome-list",
+        "chromecast",
+        "samsung-smart-tv",
+        "smart-tv",
+        "smarttv",
+        "tizen",
+        "webos-tv"
+      ],
+      "updated": "2026-07-05T04:04:38Z",
+      "pushed": "2026-06-14T09:17:58Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -155142,13 +155511,20 @@
                   "sourceRepo": "kazhnuz/awesome-gnome",
                   "depth": 3,
                   "children": [],
-                  "stars": 0,
-                  "forks": 0,
-                  "language": null,
-                  "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
+                  "stars": 1241,
+                  "forks": 56,
+                  "language": "Python",
+                  "license": "Unlicense",
+                  "topics": [
+                    "awesome",
+                    "awesome-list",
+                    "gnome",
+                    "gtk",
+                    "gtk3",
+                    "gtk4"
+                  ],
+                  "updated": "2026-07-02T05:26:27Z",
+                  "pushed": "2026-06-27T09:38:07Z",
                   "awesome": true,
                   "path": [
                     "GNOME",
@@ -155582,13 +155958,19 @@
           "parentId": "root-platforms-gnome"
         }
       ],
-      "stars": 0,
-      "forks": 0,
+      "stars": 1559,
+      "forks": 64,
       "language": null,
-      "license": null,
-      "topics": [],
-      "updated": null,
-      "pushed": null,
+      "license": "CC0-1.0",
+      "topics": [
+        "applications",
+        "awesome",
+        "awesome-list",
+        "gnome",
+        "gnome-shell-extension"
+      ],
+      "updated": "2026-07-04T13:22:49Z",
+      "pushed": "2025-12-27T16:49:32Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -157929,34 +158311,6 @@
                       "parentId": "root-platforms-kde-customization-plasma-desktop-extensions"
                     },
                     {
-                      "id": "root-platforms-kde-customization-plasma-desktop-extensions-latte-dock",
-                      "title": "Latte-Dock",
-                      "kind": "link",
-                      "repo": "",
-                      "url": "https://invent.kde.org/plasma/latte-dock",
-                      "description": "Latte is a dock based on Plasma frameworks that provides an elegant and intuitive experience for your tasks and plasmoids 📌.",
-                      "external": true,
-                      "sourceRepo": "francoism90/awesome-kde",
-                      "depth": 4,
-                      "children": [],
-                      "stars": 0,
-                      "forks": 0,
-                      "language": null,
-                      "license": null,
-                      "topics": [],
-                      "updated": null,
-                      "pushed": null,
-                      "awesome": false,
-                      "path": [
-                        "KDE",
-                        "Customization",
-                        "Plasma desktop",
-                        "Extensions",
-                        "Latte-Dock"
-                      ],
-                      "parentId": "root-platforms-kde-customization-plasma-desktop-extensions"
-                    },
-                    {
                       "id": "root-platforms-kde-customization-plasma-desktop-extensions-places-widget",
                       "title": "Places Widget",
                       "kind": "repo",
@@ -158065,6 +158419,90 @@
                         "Plasma desktop",
                         "Extensions",
                         "Karousel"
+                      ],
+                      "parentId": "root-platforms-kde-customization-plasma-desktop-extensions"
+                    },
+                    {
+                      "id": "root-platforms-kde-customization-plasma-desktop-extensions-kdoit",
+                      "title": "KDoit",
+                      "kind": "repo",
+                      "repo": "lubdhak7414/kdoit",
+                      "url": "https://github.com/lubdhak7414/kdoit",
+                      "description": "Lightweight to-do list plasmoid for KDE Plasma 6 with nested sublists, priorities, due dates, and UUID-based file sync.",
+                      "external": false,
+                      "sourceRepo": "francoism90/awesome-kde",
+                      "depth": 4,
+                      "children": [],
+                      "stars": 0,
+                      "forks": 0,
+                      "language": null,
+                      "license": null,
+                      "topics": [],
+                      "updated": null,
+                      "pushed": null,
+                      "awesome": false,
+                      "path": [
+                        "KDE",
+                        "Customization",
+                        "Plasma desktop",
+                        "Extensions",
+                        "KDoit"
+                      ],
+                      "parentId": "root-platforms-kde-customization-plasma-desktop-extensions"
+                    },
+                    {
+                      "id": "root-platforms-kde-customization-plasma-desktop-extensions-latte-dock",
+                      "title": "Latte-Dock",
+                      "kind": "link",
+                      "repo": "",
+                      "url": "https://invent.kde.org/plasma/latte-dock",
+                      "description": "Latte is a dock based on Plasma frameworks that provides an elegant and intuitive experience for your tasks and plasmoids for Plasma 5 📌. ⚠️ Unmaintained.",
+                      "external": true,
+                      "sourceRepo": "francoism90/awesome-kde",
+                      "depth": 4,
+                      "children": [],
+                      "stars": 0,
+                      "forks": 0,
+                      "language": null,
+                      "license": null,
+                      "topics": [],
+                      "updated": null,
+                      "pushed": null,
+                      "awesome": false,
+                      "path": [
+                        "KDE",
+                        "Customization",
+                        "Plasma desktop",
+                        "Extensions",
+                        "Latte-Dock"
+                      ],
+                      "parentId": "root-platforms-kde-customization-plasma-desktop-extensions"
+                    },
+                    {
+                      "id": "root-platforms-kde-customization-plasma-desktop-extensions-latte-dock-ng-is-a-wayland-first-dock-for-kde-plasma-6-5-that-provides-an-elegant-and-intuitive-experience-for-your-tasks-and-widgets",
+                      "title": "Latte Dock NG is a Wayland-first dock for KDE Plasma 6.5+ that provides an elegant and intuitive experience for your tasks and widgets.",
+                      "kind": "topic",
+                      "repo": "",
+                      "url": "",
+                      "description": "",
+                      "external": false,
+                      "sourceRepo": "francoism90/awesome-kde",
+                      "depth": 4,
+                      "children": [],
+                      "stars": 0,
+                      "forks": 0,
+                      "language": null,
+                      "license": null,
+                      "topics": [],
+                      "updated": null,
+                      "pushed": null,
+                      "awesome": false,
+                      "path": [
+                        "KDE",
+                        "Customization",
+                        "Plasma desktop",
+                        "Extensions",
+                        "Latte Dock NG is a Wayland-first dock for KDE Plasma 6.5+ that provides an elegant and intuitive experience for your tasks and widgets."
                       ],
                       "parentId": "root-platforms-kde-customization-plasma-desktop-extensions"
                     }
@@ -159983,13 +160421,23 @@
           "parentId": "root-platforms-kde"
         }
       ],
-      "stars": 0,
-      "forks": 0,
+      "stars": 794,
+      "forks": 23,
       "language": null,
-      "license": null,
-      "topics": [],
-      "updated": null,
-      "pushed": null,
+      "license": "CC0-1.0",
+      "topics": [
+        "applications",
+        "awesome",
+        "awesome-list",
+        "kde",
+        "kde-desktop",
+        "linux",
+        "plasma",
+        "qt",
+        "qt5"
+      ],
+      "updated": "2026-07-02T18:49:53Z",
+      "pushed": "2026-07-01T20:20:51Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -161580,8 +162028,8 @@
               "parentId": "root-platforms-net-core"
             }
           ],
-          "stars": 21305,
-          "forks": 2955,
+          "stars": 21314,
+          "forks": 2957,
           "language": "C#",
           "license": null,
           "topics": [
@@ -161592,7 +162040,7 @@
             "list",
             "microsoft"
           ],
-          "updated": "2026-06-27T07:34:17Z",
+          "updated": "2026-07-04T01:40:28Z",
           "pushed": "2026-02-27T03:26:22Z",
           "awesome": true,
           "readmeStatus": "expanded",
@@ -163341,13 +163789,23 @@
               "parentId": "root-platforms-net-roslyn"
             }
           ],
-          "stars": 0,
-          "forks": 0,
+          "stars": 734,
+          "forks": 60,
           "language": null,
           "license": null,
-          "topics": [],
-          "updated": null,
-          "pushed": null,
+          "topics": [
+            "awesome",
+            "awesome-list",
+            "code-generation",
+            "csharp",
+            "hacktoberfest",
+            "roslyn",
+            "roslyn-analyzer",
+            "roslyn-api",
+            "vbnet"
+          ],
+          "updated": "2026-06-27T07:53:36Z",
+          "pushed": "2024-01-16T06:01:24Z",
           "awesome": true,
           "readmeStatus": "expanded",
           "path": [
@@ -165913,8 +166371,8 @@
           "parentId": "root-platforms-net"
         }
       ],
-      "stars": 21435,
-      "forks": 2888,
+      "stars": 21447,
+      "forks": 2894,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -165925,7 +166383,7 @@
         "dotnet",
         "fsharp"
       ],
-      "updated": "2026-06-28T04:07:23Z",
+      "updated": "2026-07-04T08:36:26Z",
       "pushed": "2026-03-26T05:16:53Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -167427,13 +167885,20 @@
           "parentId": "root-platforms-digitalocean"
         }
       ],
-      "stars": 0,
-      "forks": 0,
+      "stars": 381,
+      "forks": 25,
       "language": null,
-      "license": null,
-      "topics": [],
-      "updated": null,
-      "pushed": null,
+      "license": "CC0-1.0",
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "cloud-computing",
+        "digitalocean",
+        "hacktoberfest",
+        "infrastructure"
+      ],
+      "updated": "2026-06-29T00:29:02Z",
+      "pushed": "2021-04-30T21:49:21Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -167795,12 +168260,12 @@
                   "sourceRepo": "solido/awesome-flutter",
                   "depth": 3,
                   "children": [],
-                  "stars": 2944,
+                  "stars": 2943,
                   "forks": 249,
                   "language": "Dart",
                   "license": null,
                   "topics": [],
-                  "updated": "2026-05-31T23:39:39Z",
+                  "updated": "2026-07-02T16:04:16Z",
                   "pushed": "2022-09-30T09:08:06Z",
                   "awesome": true,
                   "path": [
@@ -180027,13 +180492,18 @@
               "sourceRepo": "solido/awesome-flutter",
               "depth": 2,
               "children": [],
-              "stars": 0,
-              "forks": 0,
+              "stars": 209,
+              "forks": 11,
               "language": null,
-              "license": null,
-              "topics": [],
-              "updated": null,
-              "pushed": null,
+              "license": "NOASSERTION",
+              "topics": [
+                "awesome",
+                "dart",
+                "flutter",
+                "linux"
+              ],
+              "updated": "2026-07-03T19:12:08Z",
+              "pushed": "2024-06-27T07:18:18Z",
               "awesome": true,
               "path": [
                 "Flutter",
@@ -184218,8 +184688,8 @@
           "parentId": "root-platforms-flutter"
         }
       ],
-      "stars": 60422,
-      "forks": 6896,
+      "stars": 60482,
+      "forks": 6899,
       "language": "Dart",
       "license": null,
       "topics": [
@@ -184242,7 +184712,7 @@
         "reactive-programming",
         "resources"
       ],
-      "updated": "2026-06-28T10:06:45Z",
+      "updated": "2026-07-05T05:26:01Z",
       "pushed": "2026-04-21T19:06:09Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -192040,13 +192510,13 @@
               "sourceRepo": "frenck/awesome-home-assistant",
               "depth": 2,
               "children": [],
-              "stars": 0,
-              "forks": 0,
-              "language": null,
-              "license": null,
+              "stars": 340,
+              "forks": 48,
+              "language": "Python",
+              "license": "NOASSERTION",
               "topics": [],
-              "updated": null,
-              "pushed": null,
+              "updated": "2026-06-23T03:01:36Z",
+              "pushed": "2026-03-29T13:29:46Z",
               "awesome": true,
               "path": [
                 "Home Assistant",
@@ -196476,8 +196946,8 @@
               "sourceRepo": "frenck/awesome-home-assistant",
               "depth": 2,
               "children": [],
-              "stars": 3984,
-              "forks": 492,
+              "stars": 3996,
+              "forks": 495,
               "language": null,
               "license": "MIT",
               "topics": [
@@ -196489,8 +196959,8 @@
                 "internet-of-things",
                 "iot"
               ],
-              "updated": "2026-06-28T06:54:20Z",
-              "pushed": "2026-06-16T16:57:31Z",
+              "updated": "2026-07-04T18:43:28Z",
+              "pushed": "2026-07-04T18:04:19Z",
               "awesome": true,
               "path": [
                 "Home Assistant",
@@ -196510,8 +196980,8 @@
               "sourceRepo": "frenck/awesome-home-assistant",
               "depth": 2,
               "children": [],
-              "stars": 2358,
-              "forks": 275,
+              "stars": 2365,
+              "forks": 276,
               "language": null,
               "license": "CC0-1.0",
               "topics": [
@@ -196522,8 +196992,8 @@
                 "mqtt",
                 "smarthome"
               ],
-              "updated": "2026-06-27T19:55:14Z",
-              "pushed": "2026-06-26T14:59:00Z",
+              "updated": "2026-07-01T17:11:28Z",
+              "pushed": "2026-07-01T09:21:52Z",
               "awesome": true,
               "path": [
                 "Home Assistant",
@@ -196543,8 +197013,8 @@
               "sourceRepo": "frenck/awesome-home-assistant",
               "depth": 2,
               "children": [],
-              "stars": 301553,
-              "forks": 14042,
+              "stars": 302896,
+              "forks": 14123,
               "language": null,
               "license": "NOASSERTION",
               "topics": [
@@ -196557,8 +197027,8 @@
                 "self-hosted",
                 "selfhosted"
               ],
-              "updated": "2026-06-28T10:35:41Z",
-              "pushed": "2026-06-27T13:27:59Z",
+              "updated": "2026-07-05T06:00:35Z",
+              "pushed": "2026-07-04T18:42:06Z",
               "awesome": true,
               "path": [
                 "Home Assistant",
@@ -196605,8 +197075,8 @@
           "parentId": "root-platforms-home-assistant"
         }
       ],
-      "stars": 8186,
-      "forks": 417,
+      "stars": 8207,
+      "forks": 420,
       "language": "Python",
       "license": "CC-BY-4.0",
       "topics": [
@@ -196626,8 +197096,8 @@
         "internet-of-things",
         "smarthome"
       ],
-      "updated": "2026-06-28T02:28:48Z",
-      "pushed": "2026-06-26T07:30:10Z",
+      "updated": "2026-07-05T01:33:45Z",
+      "pushed": "2026-07-03T07:17:53Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -203736,13 +204206,20 @@
           "parentId": "root-platforms-ibm-cloud"
         }
       ],
-      "stars": 0,
-      "forks": 0,
-      "language": null,
-      "license": null,
-      "topics": [],
-      "updated": null,
-      "pushed": null,
+      "stars": 108,
+      "forks": 11,
+      "language": "HTML",
+      "license": "CC0-1.0",
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "bluemix",
+        "cloud-platform",
+        "ibm-bluemix",
+        "ibm-cloud"
+      ],
+      "updated": "2026-06-27T07:54:21Z",
+      "pushed": "2021-07-05T07:57:27Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -207298,13 +207775,23 @@
           "parentId": "root-platforms-firebase"
         }
       ],
-      "stars": 0,
-      "forks": 0,
+      "stars": 793,
+      "forks": 71,
       "language": null,
-      "license": null,
-      "topics": [],
-      "updated": null,
-      "pushed": null,
+      "license": "NOASSERTION",
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "cloud-functions",
+        "fcm",
+        "firebase",
+        "firestore",
+        "google-cloud",
+        "google-firebase",
+        "serverless"
+      ],
+      "updated": "2026-06-30T19:32:50Z",
+      "pushed": "2024-04-06T15:36:29Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -208336,13 +208823,21 @@
           "parentId": "root-platforms-adafruit-io"
         }
       ],
-      "stars": 0,
-      "forks": 0,
+      "stars": 92,
+      "forks": 8,
       "language": null,
       "license": null,
-      "topics": [],
-      "updated": null,
-      "pushed": null,
+      "topics": [
+        "adafruit",
+        "arduino",
+        "awesome",
+        "awesome-list",
+        "iot",
+        "mqtt",
+        "python"
+      ],
+      "updated": "2026-06-27T07:54:41Z",
+      "pushed": "2022-02-20T16:40:56Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -211321,13 +211816,21 @@
           "parentId": "root-platforms-cloudflare"
         }
       ],
-      "stars": 0,
-      "forks": 0,
+      "stars": 1172,
+      "forks": 94,
       "language": null,
-      "license": null,
-      "topics": [],
-      "updated": null,
-      "pushed": null,
+      "license": "CC0-1.0",
+      "topics": [
+        "awesome",
+        "awesome-cloudflare",
+        "awesome-list",
+        "cloudflare",
+        "cloudflare-worker",
+        "serverless",
+        "service-worker"
+      ],
+      "updated": "2026-07-04T14:39:16Z",
+      "pushed": "2026-01-29T17:40:03Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -213503,13 +214006,22 @@
           "parentId": "root-platforms-actions-on-google"
         }
       ],
-      "stars": 0,
-      "forks": 0,
+      "stars": 112,
+      "forks": 18,
       "language": null,
-      "license": null,
-      "topics": [],
-      "updated": null,
-      "pushed": null,
+      "license": "CC0-1.0",
+      "topics": [
+        "actions-on-google",
+        "actions-on-google-nodejs",
+        "actionsongoogle",
+        "aog",
+        "awesome",
+        "awesome-list",
+        "google-assistant",
+        "hacktoberfest"
+      ],
+      "updated": "2026-06-27T07:55:05Z",
+      "pushed": "2020-10-31T16:47:09Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -216485,8 +216997,8 @@
           "parentId": "root-platforms-esp"
         }
       ],
-      "stars": 2411,
-      "forks": 139,
+      "stars": 2515,
+      "forks": 148,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -216502,7 +217014,7 @@
         "micropython",
         "nodemcu"
       ],
-      "updated": "2026-06-27T17:10:35Z",
+      "updated": "2026-07-05T05:55:49Z",
       "pushed": "2026-05-09T14:45:25Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -218716,6 +219228,33 @@
                   "parentId": "root-platforms-deno-modules-utils"
                 },
                 {
+                  "id": "root-platforms-deno-modules-utils-csv-pipe",
+                  "title": "csv-pipe",
+                  "kind": "repo",
+                  "repo": "martsinlabs/csv-pipe",
+                  "url": "https://github.com/martsinlabs/csv-pipe",
+                  "description": "Typed, zero-dependency CSV parser and encoder for every runtime.",
+                  "external": false,
+                  "sourceRepo": "denolib/awesome-deno",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Deno",
+                    "Modules",
+                    "Utils",
+                    "csv-pipe"
+                  ],
+                  "parentId": "root-platforms-deno-modules-utils"
+                },
+                {
                   "id": "root-platforms-deno-modules-utils-deno-config",
                   "title": "deno-config",
                   "kind": "repo",
@@ -220453,32 +220992,6 @@
                 "Deno",
                 "Showcases",
                 "The Official Showcase"
-              ],
-              "parentId": "root-platforms-deno-showcases"
-            },
-            {
-              "id": "root-platforms-deno-showcases-usingdeno",
-              "title": "UsingDeno",
-              "kind": "link",
-              "repo": "",
-              "url": "https://usingdeno.com",
-              "description": "Curated list of Web Applications & Projects using Deno 🦕.",
-              "external": true,
-              "sourceRepo": "denolib/awesome-deno",
-              "depth": 2,
-              "children": [],
-              "stars": 0,
-              "forks": 0,
-              "language": null,
-              "license": null,
-              "topics": [],
-              "updated": null,
-              "pushed": null,
-              "awesome": false,
-              "path": [
-                "Deno",
-                "Showcases",
-                "UsingDeno"
               ],
               "parentId": "root-platforms-deno-showcases"
             }
@@ -223436,8 +223949,8 @@
           "parentId": "root-platforms-deno"
         }
       ],
-      "stars": 4409,
-      "forks": 247,
+      "stars": 4410,
+      "forks": 248,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -223445,7 +223958,7 @@
         "awesome-list",
         "deno"
       ],
-      "updated": "2026-06-28T01:55:44Z",
+      "updated": "2026-06-29T13:45:22Z",
       "pushed": "2026-06-26T00:24:57Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -227985,13 +228498,22 @@
           "parentId": "root-platforms-dos"
         }
       ],
-      "stars": 0,
-      "forks": 0,
+      "stars": 614,
+      "forks": 36,
       "language": null,
-      "license": null,
-      "topics": [],
-      "updated": null,
-      "pushed": null,
+      "license": "CC0-1.0",
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "dos",
+        "lists",
+        "ms-dos",
+        "resources",
+        "retrogaming",
+        "retroprogramming"
+      ],
+      "updated": "2026-07-03T22:41:20Z",
+      "pushed": "2025-08-25T18:30:42Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -228828,7 +229350,7 @@
           "parentId": "root-platforms-nix"
         }
       ],
-      "stars": 5239,
+      "stars": 5253,
       "forks": 201,
       "language": null,
       "license": "CC0-1.0",
@@ -228839,8 +229361,8 @@
         "nix",
         "nixos"
       ],
-      "updated": "2026-06-27T15:46:04Z",
-      "pushed": "2026-06-27T11:41:53Z",
+      "updated": "2026-07-04T22:21:54Z",
+      "pushed": "2026-07-04T00:14:32Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -228876,8 +229398,8 @@
               "url": "https://github.com/stn1slv/awesome-integration#ai-gateway",
               "children": [
                 {
-                  "id": "root-platforms-integration-projects-ai-gateway-agentgateway-3-2k",
-                  "title": "agentgateway (⭐3.2k)",
+                  "id": "root-platforms-integration-projects-ai-gateway-agentgateway-3-6k",
+                  "title": "agentgateway (⭐3.6k)",
                   "kind": "repo",
                   "repo": "agentgateway/agentgateway",
                   "url": "https://github.com/agentgateway/agentgateway",
@@ -228898,7 +229420,7 @@
                     "Integration",
                     "Projects",
                     "AI Gateway",
-                    "agentgateway (⭐3.2k)"
+                    "agentgateway (⭐3.6k)"
                   ],
                   "parentId": "root-platforms-integration-projects-ai-gateway"
                 },
@@ -228957,8 +229479,8 @@
                   "parentId": "root-platforms-integration-projects-ai-gateway"
                 },
                 {
-                  "id": "root-platforms-integration-projects-ai-gateway-litellm-50k",
-                  "title": "LiteLLM (⭐50k)",
+                  "id": "root-platforms-integration-projects-ai-gateway-litellm-52k",
+                  "title": "LiteLLM (⭐52k)",
                   "kind": "repo",
                   "repo": "berriai/litellm",
                   "url": "https://github.com/berriai/litellm",
@@ -228979,7 +229501,7 @@
                     "Integration",
                     "Projects",
                     "AI Gateway",
-                    "LiteLLM (⭐50k)"
+                    "LiteLLM (⭐52k)"
                   ],
                   "parentId": "root-platforms-integration-projects-ai-gateway"
                 },
@@ -229251,8 +229773,8 @@
                   "parentId": "root-platforms-integration-projects-api-management"
                 },
                 {
-                  "id": "root-platforms-integration-projects-api-management-gravitee-io-api-management-421",
-                  "title": "Gravitee.io API Management (⭐421)",
+                  "id": "root-platforms-integration-projects-api-management-gravitee-io-api-management-425",
+                  "title": "Gravitee.io API Management (⭐425)",
                   "kind": "repo",
                   "repo": "gravitee-io/gravitee-api-management",
                   "url": "https://github.com/gravitee-io/gravitee-api-management",
@@ -229273,7 +229795,7 @@
                     "Integration",
                     "Projects",
                     "API Management",
-                    "Gravitee.io API Management (⭐421)"
+                    "Gravitee.io API Management (⭐425)"
                   ],
                   "parentId": "root-platforms-integration-projects-api-management"
                 },
@@ -229494,8 +230016,8 @@
                   "parentId": "root-platforms-integration-projects-api-management"
                 },
                 {
-                  "id": "root-platforms-integration-projects-api-management-wso2-api-manager-986",
-                  "title": "WSO2 API Manager (⭐986)",
+                  "id": "root-platforms-integration-projects-api-management-wso2-api-manager-993",
+                  "title": "WSO2 API Manager (⭐993)",
                   "kind": "repo",
                   "repo": "wso2/product-apim",
                   "url": "https://github.com/wso2/product-apim",
@@ -229516,7 +230038,7 @@
                     "Integration",
                     "Projects",
                     "API Management",
-                    "WSO2 API Manager (⭐986)"
+                    "WSO2 API Manager (⭐993)"
                   ],
                   "parentId": "root-platforms-integration-projects-api-management"
                 },
@@ -230001,8 +230523,8 @@
                   "parentId": "root-platforms-integration-projects-api-documentation"
                 },
                 {
-                  "id": "root-platforms-integration-projects-api-documentation-openapi-explorer-349",
-                  "title": "OpenAPI Explorer (⭐349)",
+                  "id": "root-platforms-integration-projects-api-documentation-openapi-explorer-351",
+                  "title": "OpenAPI Explorer (⭐351)",
                   "kind": "repo",
                   "repo": "rhosys/openapi-explorer",
                   "url": "https://github.com/rhosys/openapi-explorer",
@@ -230023,7 +230545,7 @@
                     "Integration",
                     "Projects",
                     "API Documentation",
-                    "OpenAPI Explorer (⭐349)"
+                    "OpenAPI Explorer (⭐351)"
                   ],
                   "parentId": "root-platforms-integration-projects-api-documentation"
                 },
@@ -230271,8 +230793,8 @@
                   "parentId": "root-platforms-integration-projects-api-documentation"
                 },
                 {
-                  "id": "root-platforms-integration-projects-api-documentation-zudoku-543",
-                  "title": "Zudoku (⭐543)",
+                  "id": "root-platforms-integration-projects-api-documentation-zudoku-555",
+                  "title": "Zudoku (⭐555)",
                   "kind": "repo",
                   "repo": "zuplo/zudoku",
                   "url": "https://github.com/zuplo/zudoku",
@@ -230293,7 +230815,7 @@
                     "Integration",
                     "Projects",
                     "API Documentation",
-                    "Zudoku (⭐543)"
+                    "Zudoku (⭐555)"
                   ],
                   "parentId": "root-platforms-integration-projects-api-documentation"
                 }
@@ -230430,8 +230952,8 @@
                   "parentId": "root-platforms-integration-projects-api-gateway"
                 },
                 {
-                  "id": "root-platforms-integration-projects-api-gateway-envoy-gateway-2-7k",
-                  "title": "Envoy Gateway (⭐2.7k)",
+                  "id": "root-platforms-integration-projects-api-gateway-envoy-gateway-2-8k",
+                  "title": "Envoy Gateway (⭐2.8k)",
                   "kind": "repo",
                   "repo": "envoyproxy/gateway",
                   "url": "https://github.com/envoyproxy/gateway",
@@ -230452,13 +230974,13 @@
                     "Integration",
                     "Projects",
                     "API Gateway",
-                    "Envoy Gateway (⭐2.7k)"
+                    "Envoy Gateway (⭐2.8k)"
                   ],
                   "parentId": "root-platforms-integration-projects-api-gateway"
                 },
                 {
-                  "id": "root-platforms-integration-projects-api-gateway-gloo-edge-161",
-                  "title": "Gloo Edge (⭐161)",
+                  "id": "root-platforms-integration-projects-api-gateway-gloo-edge-164",
+                  "title": "Gloo Edge (⭐164)",
                   "kind": "repo",
                   "repo": "solo-io/gloo",
                   "url": "https://github.com/solo-io/gloo",
@@ -230479,13 +231001,13 @@
                     "Integration",
                     "Projects",
                     "API Gateway",
-                    "Gloo Edge (⭐161)"
+                    "Gloo Edge (⭐164)"
                   ],
                   "parentId": "root-platforms-integration-projects-api-gateway"
                 },
                 {
-                  "id": "root-platforms-integration-projects-api-gateway-higress-8-6k",
-                  "title": "Higress (⭐8.6k)",
+                  "id": "root-platforms-integration-projects-api-gateway-higress-8-7k",
+                  "title": "Higress (⭐8.7k)",
                   "kind": "repo",
                   "repo": "higress-group/higress",
                   "url": "https://github.com/higress-group/higress",
@@ -230506,7 +231028,7 @@
                     "Integration",
                     "Projects",
                     "API Gateway",
-                    "Higress (⭐8.6k)"
+                    "Higress (⭐8.7k)"
                   ],
                   "parentId": "root-platforms-integration-projects-api-gateway"
                 },
@@ -230708,8 +231230,8 @@
                   "depth": 3,
                   "children": [
                     {
-                      "id": "root-platforms-integration-projects-api-testing-api-clients-bruno-44k",
-                      "title": "Bruno (⭐44k)",
+                      "id": "root-platforms-integration-projects-api-testing-api-clients-bruno-45k",
+                      "title": "Bruno (⭐45k)",
                       "kind": "repo",
                       "repo": "usebruno/bruno",
                       "url": "https://github.com/usebruno/bruno",
@@ -230731,7 +231253,7 @@
                         "Projects",
                         "API Testing",
                         "API clients",
-                        "Bruno (⭐44k)"
+                        "Bruno (⭐45k)"
                       ],
                       "parentId": "root-platforms-integration-projects-api-testing-api-clients"
                     },
@@ -230932,8 +231454,8 @@
                       "parentId": "root-platforms-integration-projects-api-testing-api-clients"
                     },
                     {
-                      "id": "root-platforms-integration-projects-api-testing-api-clients-insomnia-38k",
-                      "title": "Insomnia (⭐38k)",
+                      "id": "root-platforms-integration-projects-api-testing-api-clients-insomnia-39k",
+                      "title": "Insomnia (⭐39k)",
                       "kind": "repo",
                       "repo": "kong/insomnia",
                       "url": "https://github.com/kong/insomnia",
@@ -230955,7 +231477,7 @@
                         "Projects",
                         "API Testing",
                         "API clients",
-                        "Insomnia (⭐38k)"
+                        "Insomnia (⭐39k)"
                       ],
                       "parentId": "root-platforms-integration-projects-api-testing-api-clients"
                     },
@@ -231268,8 +231790,8 @@
                       "parentId": "root-platforms-integration-projects-api-testing-contract-testing"
                     },
                     {
-                      "id": "root-platforms-integration-projects-api-testing-contract-testing-specmatic-381",
-                      "title": "Specmatic (⭐381)",
+                      "id": "root-platforms-integration-projects-api-testing-contract-testing-specmatic-385",
+                      "title": "Specmatic (⭐385)",
                       "kind": "repo",
                       "repo": "specmatic/specmatic",
                       "url": "https://github.com/specmatic/specmatic",
@@ -231291,13 +231813,13 @@
                         "Projects",
                         "API Testing",
                         "Contract testing",
-                        "Specmatic (⭐381)"
+                        "Specmatic (⭐385)"
                       ],
                       "parentId": "root-platforms-integration-projects-api-testing-contract-testing"
                     },
                     {
-                      "id": "root-platforms-integration-projects-api-testing-contract-testing-spring-cloud-contract-730",
-                      "title": "Spring Cloud Contract (⭐730)",
+                      "id": "root-platforms-integration-projects-api-testing-contract-testing-spring-cloud-contract-732",
+                      "title": "Spring Cloud Contract (⭐732)",
                       "kind": "repo",
                       "repo": "spring-cloud/spring-cloud-contract",
                       "url": "https://github.com/spring-cloud/spring-cloud-contract",
@@ -231319,7 +231841,7 @@
                         "Projects",
                         "API Testing",
                         "Contract testing",
-                        "Spring Cloud Contract (⭐730)"
+                        "Spring Cloud Contract (⭐732)"
                       ],
                       "parentId": "root-platforms-integration-projects-api-testing-contract-testing"
                     }
@@ -231352,8 +231874,8 @@
                   "depth": 3,
                   "children": [
                     {
-                      "id": "root-platforms-integration-projects-api-testing-mq-clients-jmstoolbox-228",
-                      "title": "JMSToolBox (⭐228)",
+                      "id": "root-platforms-integration-projects-api-testing-mq-clients-jmstoolbox-230",
+                      "title": "JMSToolBox (⭐230)",
                       "kind": "repo",
                       "repo": "jmstoolbox/jmstoolbox",
                       "url": "https://github.com/jmstoolbox/jmstoolbox",
@@ -231375,7 +231897,7 @@
                         "Projects",
                         "API Testing",
                         "MQ clients",
-                        "JMSToolBox (⭐228)"
+                        "JMSToolBox (⭐230)"
                       ],
                       "parentId": "root-platforms-integration-projects-api-testing-mq-clients"
                     },
@@ -231464,8 +231986,8 @@
                       "parentId": "root-platforms-integration-projects-api-testing-mq-clients"
                     },
                     {
-                      "id": "root-platforms-integration-projects-api-testing-mq-clients-service-bus-explorer-2-1k",
-                      "title": "Service Bus Explorer (⭐2.1k)",
+                      "id": "root-platforms-integration-projects-api-testing-mq-clients-service-bus-explorer-2-2k",
+                      "title": "Service Bus Explorer (⭐2.2k)",
                       "kind": "repo",
                       "repo": "paolosalvatori/servicebusexplorer",
                       "url": "https://github.com/paolosalvatori/servicebusexplorer",
@@ -231487,7 +232009,7 @@
                         "Projects",
                         "API Testing",
                         "MQ clients",
-                        "Service Bus Explorer (⭐2.1k)"
+                        "Service Bus Explorer (⭐2.2k)"
                       ],
                       "parentId": "root-platforms-integration-projects-api-testing-mq-clients"
                     }
@@ -231520,8 +232042,8 @@
                   "depth": 3,
                   "children": [
                     {
-                      "id": "root-platforms-integration-projects-api-testing-mocking-tools-hoverfly-2-4k",
-                      "title": "Hoverfly (⭐2.4k)",
+                      "id": "root-platforms-integration-projects-api-testing-mocking-tools-hoverfly-2-5k",
+                      "title": "Hoverfly (⭐2.5k)",
                       "kind": "repo",
                       "repo": "spectolabs/hoverfly",
                       "url": "https://github.com/spectolabs/hoverfly",
@@ -231543,7 +232065,7 @@
                         "Projects",
                         "API Testing",
                         "Mocking tools",
-                        "Hoverfly (⭐2.4k)"
+                        "Hoverfly (⭐2.5k)"
                       ],
                       "parentId": "root-platforms-integration-projects-api-testing-mocking-tools"
                     },
@@ -231604,8 +232126,8 @@
                       "parentId": "root-platforms-integration-projects-api-testing-mocking-tools"
                     },
                     {
-                      "id": "root-platforms-integration-projects-api-testing-mocking-tools-mock-service-worker-msw-17k",
-                      "title": "Mock Service Worker (MSW) (⭐17k)",
+                      "id": "root-platforms-integration-projects-api-testing-mocking-tools-mock-service-worker-msw-18k",
+                      "title": "Mock Service Worker (MSW) (⭐18k)",
                       "kind": "repo",
                       "repo": "mswjs/msw",
                       "url": "https://github.com/mswjs/msw",
@@ -231627,7 +232149,7 @@
                         "Projects",
                         "API Testing",
                         "Mocking tools",
-                        "Mock Service Worker (MSW) (⭐17k)"
+                        "Mock Service Worker (MSW) (⭐18k)"
                       ],
                       "parentId": "root-platforms-integration-projects-api-testing-mocking-tools"
                     },
@@ -231688,8 +232210,8 @@
                       "parentId": "root-platforms-integration-projects-api-testing-mocking-tools"
                     },
                     {
-                      "id": "root-platforms-integration-projects-api-testing-mocking-tools-mockoon-8-2k",
-                      "title": "Mockoon (⭐8.2k)",
+                      "id": "root-platforms-integration-projects-api-testing-mocking-tools-mockoon-8-3k",
+                      "title": "Mockoon (⭐8.3k)",
                       "kind": "repo",
                       "repo": "mockoon/mockoon",
                       "url": "https://github.com/mockoon/mockoon",
@@ -231711,13 +232233,13 @@
                         "Projects",
                         "API Testing",
                         "Mocking tools",
-                        "Mockoon (⭐8.2k)"
+                        "Mockoon (⭐8.3k)"
                       ],
                       "parentId": "root-platforms-integration-projects-api-testing-mocking-tools"
                     },
                     {
-                      "id": "root-platforms-integration-projects-api-testing-mocking-tools-mockserver-4-8k",
-                      "title": "MockServer (⭐4.8k)",
+                      "id": "root-platforms-integration-projects-api-testing-mocking-tools-mockserver-4-9k",
+                      "title": "MockServer (⭐4.9k)",
                       "kind": "repo",
                       "repo": "mock-server/mockserver",
                       "url": "https://github.com/mock-server/mockserver",
@@ -231739,7 +232261,7 @@
                         "Projects",
                         "API Testing",
                         "Mocking tools",
-                        "MockServer (⭐4.8k)"
+                        "MockServer (⭐4.9k)"
                       ],
                       "parentId": "root-platforms-integration-projects-api-testing-mocking-tools"
                     },
@@ -231884,8 +232406,8 @@
                       "parentId": "root-platforms-integration-projects-api-testing-testing-tools-and-frameworks"
                     },
                     {
-                      "id": "root-platforms-integration-projects-api-testing-testing-tools-and-frameworks-artillery-8-9k",
-                      "title": "Artillery (⭐8.9k)",
+                      "id": "root-platforms-integration-projects-api-testing-testing-tools-and-frameworks-artillery-9k",
+                      "title": "Artillery (⭐9k)",
                       "kind": "repo",
                       "repo": "artilleryio/artillery",
                       "url": "https://github.com/artilleryio/artillery",
@@ -231907,7 +232429,7 @@
                         "Projects",
                         "API Testing",
                         "Testing tools and frameworks",
-                        "Artillery (⭐8.9k)"
+                        "Artillery (⭐9k)"
                       ],
                       "parentId": "root-platforms-integration-projects-api-testing-testing-tools-and-frameworks"
                     },
@@ -232164,8 +232686,8 @@
                       "parentId": "root-platforms-integration-projects-api-testing-testing-tools-and-frameworks"
                     },
                     {
-                      "id": "root-platforms-integration-projects-api-testing-testing-tools-and-frameworks-schemathesis-3-3k",
-                      "title": "Schemathesis (⭐3.3k)",
+                      "id": "root-platforms-integration-projects-api-testing-testing-tools-and-frameworks-schemathesis-3-4k",
+                      "title": "Schemathesis (⭐3.4k)",
                       "kind": "repo",
                       "repo": "schemathesis/schemathesis",
                       "url": "https://github.com/schemathesis/schemathesis",
@@ -232187,7 +232709,7 @@
                         "Projects",
                         "API Testing",
                         "Testing tools and frameworks",
-                        "Schemathesis (⭐3.3k)"
+                        "Schemathesis (⭐3.4k)"
                       ],
                       "parentId": "root-platforms-integration-projects-api-testing-testing-tools-and-frameworks"
                     },
@@ -232288,8 +232810,8 @@
                   "parentId": "root-platforms-integration-projects-b2b-integration"
                 },
                 {
-                  "id": "root-platforms-integration-projects-b2b-integration-phase4-221",
-                  "title": "phase4 (⭐221)",
+                  "id": "root-platforms-integration-projects-b2b-integration-phase4-223",
+                  "title": "phase4 (⭐223)",
                   "kind": "repo",
                   "repo": "phax/phase4",
                   "url": "https://github.com/phax/phase4",
@@ -232310,7 +232832,7 @@
                     "Integration",
                     "Projects",
                     "B2B Integration",
-                    "phase4 (⭐221)"
+                    "phase4 (⭐223)"
                   ],
                   "parentId": "root-platforms-integration-projects-b2b-integration"
                 },
@@ -232528,8 +233050,8 @@
                   "parentId": "root-platforms-integration-projects-business-rules-engine"
                 },
                 {
-                  "id": "root-platforms-integration-projects-business-rules-engine-zen-engine-1-7k",
-                  "title": "ZEN Engine (⭐1.7k)",
+                  "id": "root-platforms-integration-projects-business-rules-engine-zen-engine-1-8k",
+                  "title": "ZEN Engine (⭐1.8k)",
                   "kind": "repo",
                   "repo": "gorules/zen",
                   "url": "https://github.com/gorules/zen",
@@ -232550,7 +233072,7 @@
                     "Integration",
                     "Projects",
                     "Business Rules Engine",
-                    "ZEN Engine (⭐1.7k)"
+                    "ZEN Engine (⭐1.8k)"
                   ],
                   "parentId": "root-platforms-integration-projects-business-rules-engine"
                 }
@@ -233059,8 +233581,8 @@
                   "parentId": "root-platforms-integration-projects-data-integration"
                 },
                 {
-                  "id": "root-platforms-integration-projects-data-integration-apache-seatunnel-9-3k",
-                  "title": "Apache SeaTunnel (⭐9.3k)",
+                  "id": "root-platforms-integration-projects-data-integration-apache-seatunnel-9-4k",
+                  "title": "Apache SeaTunnel (⭐9.4k)",
                   "kind": "repo",
                   "repo": "apache/seatunnel",
                   "url": "https://github.com/apache/seatunnel",
@@ -233081,7 +233603,7 @@
                     "Integration",
                     "Projects",
                     "Data Integration",
-                    "Apache SeaTunnel (⭐9.3k)"
+                    "Apache SeaTunnel (⭐9.4k)"
                   ],
                   "parentId": "root-platforms-integration-projects-data-integration"
                 },
@@ -233113,8 +233635,8 @@
                   "parentId": "root-platforms-integration-projects-data-integration"
                 },
                 {
-                  "id": "root-platforms-integration-projects-data-integration-conduit-600",
-                  "title": "Conduit (⭐600)",
+                  "id": "root-platforms-integration-projects-data-integration-conduit-601",
+                  "title": "Conduit (⭐601)",
                   "kind": "repo",
                   "repo": "conduitio/conduit",
                   "url": "https://github.com/conduitio/conduit",
@@ -233135,13 +233657,13 @@
                     "Integration",
                     "Projects",
                     "Data Integration",
-                    "Conduit (⭐600)"
+                    "Conduit (⭐601)"
                   ],
                   "parentId": "root-platforms-integration-projects-data-integration"
                 },
                 {
-                  "id": "root-platforms-integration-projects-data-integration-dlt-5-4k",
-                  "title": "dlt (⭐5.4k)",
+                  "id": "root-platforms-integration-projects-data-integration-dlt-5-5k",
+                  "title": "dlt (⭐5.5k)",
                   "kind": "repo",
                   "repo": "dlt-hub/dlt",
                   "url": "https://github.com/dlt-hub/dlt",
@@ -233162,13 +233684,13 @@
                     "Integration",
                     "Projects",
                     "Data Integration",
-                    "dlt (⭐5.4k)"
+                    "dlt (⭐5.5k)"
                   ],
                   "parentId": "root-platforms-integration-projects-data-integration"
                 },
                 {
-                  "id": "root-platforms-integration-projects-data-integration-estuary-flow-934",
-                  "title": "Estuary Flow (⭐934)",
+                  "id": "root-platforms-integration-projects-data-integration-estuary-flow-940",
+                  "title": "Estuary Flow (⭐940)",
                   "kind": "repo",
                   "repo": "estuary/flow",
                   "url": "https://github.com/estuary/flow",
@@ -233189,7 +233711,7 @@
                     "Integration",
                     "Projects",
                     "Data Integration",
-                    "Estuary Flow (⭐934)"
+                    "Estuary Flow (⭐940)"
                   ],
                   "parentId": "root-platforms-integration-projects-data-integration"
                 },
@@ -233569,8 +234091,8 @@
                   "parentId": "root-platforms-integration-projects-data-mapping-solution"
                 },
                 {
-                  "id": "root-platforms-integration-projects-data-mapping-solution-atlasmap-212",
-                  "title": "AtlasMap (⭐212)",
+                  "id": "root-platforms-integration-projects-data-mapping-solution-atlasmap-213",
+                  "title": "AtlasMap (⭐213)",
                   "kind": "repo",
                   "repo": "atlasmap/atlasmap",
                   "url": "https://github.com/atlasmap/atlasmap",
@@ -233591,7 +234113,7 @@
                     "Integration",
                     "Projects",
                     "Data Mapping Solution",
-                    "AtlasMap (⭐212)"
+                    "AtlasMap (⭐213)"
                   ],
                   "parentId": "root-platforms-integration-projects-data-mapping-solution"
                 },
@@ -233704,8 +234226,8 @@
                   "parentId": "root-platforms-integration-projects-data-mapping-solution"
                 },
                 {
-                  "id": "root-platforms-integration-projects-data-mapping-solution-kaoto-107",
-                  "title": "Kaoto (⭐107)",
+                  "id": "root-platforms-integration-projects-data-mapping-solution-kaoto-109",
+                  "title": "Kaoto (⭐109)",
                   "kind": "repo",
                   "repo": "kaotoio/kaoto",
                   "url": "https://github.com/kaotoio/kaoto",
@@ -233726,7 +234248,7 @@
                     "Integration",
                     "Projects",
                     "Data Mapping Solution",
-                    "Kaoto (⭐107)"
+                    "Kaoto (⭐109)"
                   ],
                   "parentId": "root-platforms-integration-projects-data-mapping-solution"
                 }
@@ -234025,8 +234547,8 @@
                   "parentId": "root-platforms-integration-projects-enterprise-service-bus"
                 },
                 {
-                  "id": "root-platforms-integration-projects-enterprise-service-bus-wso2-enterprise-integrator-398",
-                  "title": "WSO2 Enterprise Integrator (⭐398)",
+                  "id": "root-platforms-integration-projects-enterprise-service-bus-wso2-enterprise-integrator-399",
+                  "title": "WSO2 Enterprise Integrator (⭐399)",
                   "kind": "repo",
                   "repo": "wso2/product-ei",
                   "url": "https://github.com/wso2/product-ei",
@@ -234047,7 +234569,7 @@
                     "Integration",
                     "Projects",
                     "Enterprise Service Bus",
-                    "WSO2 Enterprise Integrator (⭐398)"
+                    "WSO2 Enterprise Integrator (⭐399)"
                   ],
                   "parentId": "root-platforms-integration-projects-enterprise-service-bus"
                 }
@@ -234370,8 +234892,8 @@
                   "parentId": "root-platforms-integration-projects-integration-platform-as-a-service"
                 },
                 {
-                  "id": "root-platforms-integration-projects-integration-platform-as-a-service-camel-k-919",
-                  "title": "Camel K (⭐919)",
+                  "id": "root-platforms-integration-projects-integration-platform-as-a-service-camel-k-923",
+                  "title": "Camel K (⭐923)",
                   "kind": "repo",
                   "repo": "apache/camel-k",
                   "url": "https://github.com/apache/camel-k",
@@ -234392,7 +234914,7 @@
                     "Integration",
                     "Projects",
                     "Integration Platform as a Service",
-                    "Camel K (⭐919)"
+                    "Camel K (⭐923)"
                   ],
                   "parentId": "root-platforms-integration-projects-integration-platform-as-a-service"
                 },
@@ -236059,8 +236581,8 @@
                   "parentId": "root-platforms-integration-projects-message-broker"
                 },
                 {
-                  "id": "root-platforms-integration-projects-message-broker-apache-iggy-4-3k",
-                  "title": "Apache Iggy (⭐4.3k)",
+                  "id": "root-platforms-integration-projects-message-broker-apache-iggy-4-4k",
+                  "title": "Apache Iggy (⭐4.4k)",
                   "kind": "repo",
                   "repo": "apache/iggy",
                   "url": "https://github.com/apache/iggy",
@@ -236081,13 +236603,13 @@
                     "Integration",
                     "Projects",
                     "Message Broker",
-                    "Apache Iggy (⭐4.3k)"
+                    "Apache Iggy (⭐4.4k)"
                   ],
                   "parentId": "root-platforms-integration-projects-message-broker"
                 },
                 {
-                  "id": "root-platforms-integration-projects-message-broker-apache-kafka-32k",
-                  "title": "Apache Kafka (⭐32k)",
+                  "id": "root-platforms-integration-projects-message-broker-apache-kafka-33k",
+                  "title": "Apache Kafka (⭐33k)",
                   "kind": "repo",
                   "repo": "apache/kafka",
                   "url": "https://github.com/apache/kafka",
@@ -236108,7 +236630,7 @@
                     "Integration",
                     "Projects",
                     "Message Broker",
-                    "Apache Kafka (⭐32k)"
+                    "Apache Kafka (⭐33k)"
                   ],
                   "parentId": "root-platforms-integration-projects-message-broker"
                 },
@@ -236140,8 +236662,8 @@
                   "parentId": "root-platforms-integration-projects-message-broker"
                 },
                 {
-                  "id": "root-platforms-integration-projects-message-broker-apache-qpid-70",
-                  "title": "Apache Qpid (⭐70)",
+                  "id": "root-platforms-integration-projects-message-broker-apache-qpid-71",
+                  "title": "Apache Qpid (⭐71)",
                   "kind": "repo",
                   "repo": "apache/qpid-broker-j",
                   "url": "https://github.com/apache/qpid-broker-j",
@@ -236162,7 +236684,7 @@
                     "Integration",
                     "Projects",
                     "Message Broker",
-                    "Apache Qpid (⭐70)"
+                    "Apache Qpid (⭐71)"
                   ],
                   "parentId": "root-platforms-integration-projects-message-broker"
                 },
@@ -236275,8 +236797,8 @@
                   "parentId": "root-platforms-integration-projects-message-broker"
                 },
                 {
-                  "id": "root-platforms-integration-projects-message-broker-eclipse-mosquitto-10k",
-                  "title": "Eclipse Mosquitto (⭐10k)",
+                  "id": "root-platforms-integration-projects-message-broker-eclipse-mosquitto-11k",
+                  "title": "Eclipse Mosquitto (⭐11k)",
                   "kind": "repo",
                   "repo": "eclipse/mosquitto",
                   "url": "https://github.com/eclipse/mosquitto",
@@ -236297,7 +236819,7 @@
                     "Integration",
                     "Projects",
                     "Message Broker",
-                    "Eclipse Mosquitto (⭐10k)"
+                    "Eclipse Mosquitto (⭐11k)"
                   ],
                   "parentId": "root-platforms-integration-projects-message-broker"
                 },
@@ -236437,8 +236959,8 @@
                   "parentId": "root-platforms-integration-projects-message-broker"
                 },
                 {
-                  "id": "root-platforms-integration-projects-message-broker-lavinmq-964",
-                  "title": "LavinMQ (⭐964)",
+                  "id": "root-platforms-integration-projects-message-broker-lavinmq-974",
+                  "title": "LavinMQ (⭐974)",
                   "kind": "repo",
                   "repo": "cloudamqp/lavinmq",
                   "url": "https://github.com/cloudamqp/lavinmq",
@@ -236459,7 +236981,7 @@
                     "Integration",
                     "Projects",
                     "Message Broker",
-                    "LavinMQ (⭐964)"
+                    "LavinMQ (⭐974)"
                   ],
                   "parentId": "root-platforms-integration-projects-message-broker"
                 },
@@ -236707,8 +237229,8 @@
                   "parentId": "root-platforms-integration-projects-message-broker"
                 },
                 {
-                  "id": "root-platforms-integration-projects-message-broker-vernemq-3-5k",
-                  "title": "VerneMQ (⭐3.5k)",
+                  "id": "root-platforms-integration-projects-message-broker-vernemq-3-6k",
+                  "title": "VerneMQ (⭐3.6k)",
                   "kind": "repo",
                   "repo": "vernemq/vernemq",
                   "url": "https://github.com/vernemq/vernemq",
@@ -236729,7 +237251,7 @@
                     "Integration",
                     "Projects",
                     "Message Broker",
-                    "VerneMQ (⭐3.5k)"
+                    "VerneMQ (⭐3.6k)"
                   ],
                   "parentId": "root-platforms-integration-projects-message-broker"
                 },
@@ -237025,8 +237547,8 @@
               "url": "https://github.com/stn1slv/awesome-integration#schema-registry",
               "children": [
                 {
-                  "id": "root-platforms-integration-projects-schema-registry-apicurio-registry-813",
-                  "title": "Apicurio Registry (⭐813)",
+                  "id": "root-platforms-integration-projects-schema-registry-apicurio-registry-820",
+                  "title": "Apicurio Registry (⭐820)",
                   "kind": "repo",
                   "repo": "apicurio/apicurio-registry",
                   "url": "https://github.com/apicurio/apicurio-registry",
@@ -237047,7 +237569,7 @@
                     "Integration",
                     "Projects",
                     "Schema Registry",
-                    "Apicurio Registry (⭐813)"
+                    "Apicurio Registry (⭐820)"
                   ],
                   "parentId": "root-platforms-integration-projects-schema-registry"
                 },
@@ -237133,8 +237655,8 @@
                   "parentId": "root-platforms-integration-projects-schema-registry"
                 },
                 {
-                  "id": "root-platforms-integration-projects-schema-registry-karapace-618",
-                  "title": "Karapace (⭐618)",
+                  "id": "root-platforms-integration-projects-schema-registry-karapace-619",
+                  "title": "Karapace (⭐619)",
                   "kind": "repo",
                   "repo": "aiven-open/karapace",
                   "url": "https://github.com/aiven-open/karapace",
@@ -237155,7 +237677,7 @@
                     "Integration",
                     "Projects",
                     "Schema Registry",
-                    "Karapace (⭐618)"
+                    "Karapace (⭐619)"
                   ],
                   "parentId": "root-platforms-integration-projects-schema-registry"
                 }
@@ -237184,8 +237706,8 @@
               "url": "https://github.com/stn1slv/awesome-integration#self-service-integration",
               "children": [
                 {
-                  "id": "root-platforms-integration-projects-self-service-integration-activepieces-22k",
-                  "title": "Activepieces (⭐22k)",
+                  "id": "root-platforms-integration-projects-self-service-integration-activepieces-23k",
+                  "title": "Activepieces (⭐23k)",
                   "kind": "repo",
                   "repo": "activepieces/activepieces",
                   "url": "https://github.com/activepieces/activepieces",
@@ -237206,7 +237728,7 @@
                     "Integration",
                     "Projects",
                     "Self-Service Integration",
-                    "Activepieces (⭐22k)"
+                    "Activepieces (⭐23k)"
                   ],
                   "parentId": "root-platforms-integration-projects-self-service-integration"
                 },
@@ -237346,8 +237868,8 @@
                   "parentId": "root-platforms-integration-projects-self-service-integration"
                 },
                 {
-                  "id": "root-platforms-integration-projects-self-service-integration-n8n-192k",
-                  "title": "n8n (⭐192k)",
+                  "id": "root-platforms-integration-projects-self-service-integration-n8n-194k",
+                  "title": "n8n (⭐194k)",
                   "kind": "repo",
                   "repo": "n8n-io/n8n",
                   "url": "https://github.com/n8n-io/n8n",
@@ -237368,7 +237890,7 @@
                     "Integration",
                     "Projects",
                     "Self-Service Integration",
-                    "n8n (⭐192k)"
+                    "n8n (⭐194k)"
                   ],
                   "parentId": "root-platforms-integration-projects-self-service-integration"
                 },
@@ -237640,8 +238162,8 @@
                   "parentId": "root-platforms-integration-projects-stream-processing"
                 },
                 {
-                  "id": "root-platforms-integration-projects-stream-processing-ksqldb-304",
-                  "title": "ksqlDB (⭐304)",
+                  "id": "root-platforms-integration-projects-stream-processing-ksqldb-308",
+                  "title": "ksqlDB (⭐308)",
                   "kind": "repo",
                   "repo": "confluentinc/ksql",
                   "url": "https://github.com/confluentinc/ksql",
@@ -237662,7 +238184,7 @@
                     "Integration",
                     "Projects",
                     "Stream Processing",
-                    "ksqlDB (⭐304)"
+                    "ksqlDB (⭐308)"
                   ],
                   "parentId": "root-platforms-integration-projects-stream-processing"
                 },
@@ -237694,8 +238216,8 @@
                   "parentId": "root-platforms-integration-projects-stream-processing"
                 },
                 {
-                  "id": "root-platforms-integration-projects-stream-processing-risingwave-9k",
-                  "title": "RisingWave (⭐9k)",
+                  "id": "root-platforms-integration-projects-stream-processing-risingwave-9-1k",
+                  "title": "RisingWave (⭐9.1k)",
                   "kind": "repo",
                   "repo": "risingwavelabs/risingwave",
                   "url": "https://github.com/risingwavelabs/risingwave",
@@ -237716,7 +238238,7 @@
                     "Integration",
                     "Projects",
                     "Stream Processing",
-                    "RisingWave (⭐9k)"
+                    "RisingWave (⭐9.1k)"
                   ],
                   "parentId": "root-platforms-integration-projects-stream-processing"
                 }
@@ -238120,8 +238642,8 @@
                   "parentId": "root-platforms-integration-projects-workflow-engine"
                 },
                 {
-                  "id": "root-platforms-integration-projects-workflow-engine-elsa-core-7-7k",
-                  "title": "Elsa Core (⭐7.7k)",
+                  "id": "root-platforms-integration-projects-workflow-engine-elsa-core-7-8k",
+                  "title": "Elsa Core (⭐7.8k)",
                   "kind": "repo",
                   "repo": "elsa-workflows/elsa-core",
                   "url": "https://github.com/elsa-workflows/elsa-core",
@@ -238142,7 +238664,7 @@
                     "Integration",
                     "Projects",
                     "Workflow Engine",
-                    "Elsa Core (⭐7.7k)"
+                    "Elsa Core (⭐7.8k)"
                   ],
                   "parentId": "root-platforms-integration-projects-workflow-engine"
                 },
@@ -238201,8 +238723,8 @@
                   "parentId": "root-platforms-integration-projects-workflow-engine"
                 },
                 {
-                  "id": "root-platforms-integration-projects-workflow-engine-inngest-5-4k",
-                  "title": "Inngest (⭐5.4k)",
+                  "id": "root-platforms-integration-projects-workflow-engine-inngest-5-5k",
+                  "title": "Inngest (⭐5.5k)",
                   "kind": "repo",
                   "repo": "inngest/inngest",
                   "url": "https://github.com/inngest/inngest",
@@ -238223,7 +238745,7 @@
                     "Integration",
                     "Projects",
                     "Workflow Engine",
-                    "Inngest (⭐5.4k)"
+                    "Inngest (⭐5.5k)"
                   ],
                   "parentId": "root-platforms-integration-projects-workflow-engine"
                 },
@@ -238282,8 +238804,8 @@
                   "parentId": "root-platforms-integration-projects-workflow-engine"
                 },
                 {
-                  "id": "root-platforms-integration-projects-workflow-engine-littlehorse-379",
-                  "title": "LittleHorse (⭐379)",
+                  "id": "root-platforms-integration-projects-workflow-engine-littlehorse-382",
+                  "title": "LittleHorse (⭐382)",
                   "kind": "repo",
                   "repo": "littlehorse-enterprises/littlehorse",
                   "url": "https://github.com/littlehorse-enterprises/littlehorse",
@@ -238304,7 +238826,7 @@
                     "Integration",
                     "Projects",
                     "Workflow Engine",
-                    "LittleHorse (⭐379)"
+                    "LittleHorse (⭐382)"
                   ],
                   "parentId": "root-platforms-integration-projects-workflow-engine"
                 },
@@ -238390,8 +238912,8 @@
                   "parentId": "root-platforms-integration-projects-workflow-engine"
                 },
                 {
-                  "id": "root-platforms-integration-projects-workflow-engine-temporal-20k",
-                  "title": "Temporal (⭐20k)",
+                  "id": "root-platforms-integration-projects-workflow-engine-temporal-21k",
+                  "title": "Temporal (⭐21k)",
                   "kind": "repo",
                   "repo": "temporalio/temporal",
                   "url": "https://github.com/temporalio/temporal",
@@ -238412,7 +238934,7 @@
                     "Integration",
                     "Projects",
                     "Workflow Engine",
-                    "Temporal (⭐20k)"
+                    "Temporal (⭐21k)"
                   ],
                   "parentId": "root-platforms-integration-projects-workflow-engine"
                 },
@@ -244980,8 +245502,8 @@
                   "parentId": "root-platforms-integration-resources-api-specification"
                 },
                 {
-                  "id": "root-platforms-integration-resources-api-specification-arazzo-specification-440",
-                  "title": "Arazzo Specification (⭐440)",
+                  "id": "root-platforms-integration-resources-api-specification-arazzo-specification-444",
+                  "title": "Arazzo Specification (⭐444)",
                   "kind": "repo",
                   "repo": "oai/arazzo-specification",
                   "url": "https://github.com/oai/arazzo-specification",
@@ -245002,7 +245524,7 @@
                     "Integration",
                     "Resources",
                     "API Specification",
-                    "Arazzo Specification (⭐440)"
+                    "Arazzo Specification (⭐444)"
                   ],
                   "parentId": "root-platforms-integration-resources-api-specification"
                 },
@@ -245034,8 +245556,8 @@
                   "parentId": "root-platforms-integration-resources-api-specification"
                 },
                 {
-                  "id": "root-platforms-integration-resources-api-specification-cloudevents-5-7k",
-                  "title": "CloudEvents (⭐5.7k)",
+                  "id": "root-platforms-integration-resources-api-specification-cloudevents-5-8k",
+                  "title": "CloudEvents (⭐5.8k)",
                   "kind": "repo",
                   "repo": "cloudevents/spec",
                   "url": "https://github.com/cloudevents/spec",
@@ -245056,7 +245578,7 @@
                     "Integration",
                     "Resources",
                     "API Specification",
-                    "CloudEvents (⭐5.7k)"
+                    "CloudEvents (⭐5.8k)"
                   ],
                   "parentId": "root-platforms-integration-resources-api-specification"
                 },
@@ -245169,8 +245691,8 @@
                   "parentId": "root-platforms-integration-resources-api-specification"
                 },
                 {
-                  "id": "root-platforms-integration-resources-api-specification-standard-webhooks-1-6k",
-                  "title": "Standard Webhooks (⭐1.6k)",
+                  "id": "root-platforms-integration-resources-api-specification-standard-webhooks-1-7k",
+                  "title": "Standard Webhooks (⭐1.7k)",
                   "kind": "repo",
                   "repo": "standard-webhooks/standard-webhooks",
                   "url": "https://github.com/standard-webhooks/standard-webhooks",
@@ -245191,7 +245713,7 @@
                     "Integration",
                     "Resources",
                     "API Specification",
-                    "Standard Webhooks (⭐1.6k)"
+                    "Standard Webhooks (⭐1.7k)"
                   ],
                   "parentId": "root-platforms-integration-resources-api-specification"
                 },
@@ -248135,8 +248657,8 @@
                   "depth": 3,
                   "children": [
                     {
-                      "id": "root-platforms-integration-resources-data-formats-json-ndjson-830",
-                      "title": "NDJSON (⭐830)",
+                      "id": "root-platforms-integration-resources-data-formats-json-ndjson-834",
+                      "title": "NDJSON (⭐834)",
                       "kind": "repo",
                       "repo": "ndjson/ndjson-spec",
                       "url": "https://github.com/ndjson/ndjson-spec",
@@ -248158,7 +248680,7 @@
                         "Resources",
                         "Data Formats",
                         "JSON",
-                        "NDJSON (⭐830)"
+                        "NDJSON (⭐834)"
                       ],
                       "parentId": "root-platforms-integration-resources-data-formats-json"
                     },
@@ -248317,8 +248839,8 @@
                   "parentId": "root-platforms-integration-resources-data-formats"
                 },
                 {
-                  "id": "root-platforms-integration-resources-data-formats-yaml-477",
-                  "title": "YAML (⭐477)",
+                  "id": "root-platforms-integration-resources-data-formats-yaml-482",
+                  "title": "YAML (⭐482)",
                   "kind": "repo",
                   "repo": "yaml/yaml-spec",
                   "url": "https://github.com/yaml/yaml-spec",
@@ -248339,7 +248861,7 @@
                     "Integration",
                     "Resources",
                     "Data Formats",
-                    "YAML (⭐477)"
+                    "YAML (⭐482)"
                   ],
                   "parentId": "root-platforms-integration-resources-data-formats"
                 }
@@ -249782,13 +250304,33 @@
           "parentId": "root-platforms-integration"
         }
       ],
-      "stars": 0,
-      "forks": 0,
-      "language": null,
-      "license": null,
-      "topics": [],
-      "updated": null,
-      "pushed": null,
+      "stars": 539,
+      "forks": 86,
+      "language": "Markdown",
+      "license": "CC0-1.0",
+      "topics": [
+        "api",
+        "api-design",
+        "apim",
+        "apimanagement",
+        "awesome",
+        "awesome-list",
+        "bpm",
+        "esb",
+        "etl",
+        "ipaas",
+        "json",
+        "markdown",
+        "messaging",
+        "mq",
+        "mulesoft",
+        "openapi",
+        "rest-api",
+        "testing",
+        "workflow"
+      ],
+      "updated": "2026-07-03T19:32:47Z",
+      "pushed": "2026-07-01T01:10:30Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -254615,13 +255157,21 @@
           "parentId": "root-platforms-node-red"
         }
       ],
-      "stars": 0,
-      "forks": 0,
+      "stars": 542,
+      "forks": 34,
       "language": null,
-      "license": null,
-      "topics": [],
-      "updated": null,
-      "pushed": null,
+      "license": "CC0-1.0",
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "community",
+        "hacktoberfest",
+        "node-red",
+        "node-red-contrib",
+        "nodered"
+      ],
+      "updated": "2026-07-01T02:51:40Z",
+      "pushed": "2023-02-23T06:12:18Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -257717,13 +258267,23 @@
                   "sourceRepo": "zenitysec/awesome-low-code",
                   "depth": 3,
                   "children": [],
-                  "stars": 0,
-                  "forks": 0,
+                  "stars": 112,
+                  "forks": 15,
                   "language": null,
-                  "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
+                  "license": "CC0-1.0",
+                  "topics": [
+                    "awesome",
+                    "awesome-list",
+                    "power-platform",
+                    "powerapps",
+                    "powerappscomponentframework",
+                    "powerbi",
+                    "powervirtualagent",
+                    "samples",
+                    "tutorials"
+                  ],
+                  "updated": "2026-04-14T11:35:38Z",
+                  "pushed": "2022-10-14T02:52:46Z",
                   "awesome": true,
                   "path": [
                     "Low Code",
@@ -257744,13 +258304,26 @@
                   "sourceRepo": "zenitysec/awesome-low-code",
                   "depth": 3,
                   "children": [],
-                  "stars": 0,
-                  "forks": 0,
+                  "stars": 410,
+                  "forks": 89,
                   "language": null,
-                  "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
+                  "license": "CC0-1.0",
+                  "topics": [
+                    "awesome",
+                    "awesome-list",
+                    "forms",
+                    "low-code",
+                    "low-code-development",
+                    "low-code-development-platform",
+                    "lowcode",
+                    "no-code",
+                    "nocode",
+                    "nocode-list",
+                    "website-builder",
+                    "workflow-automation"
+                  ],
+                  "updated": "2026-07-04T02:06:53Z",
+                  "pushed": "2026-05-24T08:27:41Z",
                   "awesome": true,
                   "path": [
                     "Low Code",
@@ -257792,13 +258365,26 @@
           "parentId": "root-platforms-low-code"
         }
       ],
-      "stars": 0,
-      "forks": 0,
+      "stars": 446,
+      "forks": 48,
       "language": null,
-      "license": null,
-      "topics": [],
-      "updated": null,
-      "pushed": null,
+      "license": "CC-BY-SA-4.0",
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "business-process-automation",
+        "citizen-developers",
+        "citizen-development",
+        "integration-platform",
+        "ipaas",
+        "low-code",
+        "low-code-development-platform",
+        "no-code",
+        "robotic-process-automation",
+        "rpa"
+      ],
+      "updated": "2026-06-20T19:26:13Z",
+      "pushed": "2026-04-05T09:39:58Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -262861,13 +263447,20 @@
               "sourceRepo": "riderx/awesome-capacitor",
               "depth": 2,
               "children": [],
-              "stars": 0,
-              "forks": 0,
-              "language": null,
-              "license": null,
-              "topics": [],
-              "updated": null,
-              "pushed": null,
+              "stars": 50,
+              "forks": 6,
+              "language": "Swift",
+              "license": "MIT",
+              "topics": [
+                "capacitor",
+                "capacitor-community",
+                "capacitor-ios",
+                "capacitor-plugin",
+                "capawesome",
+                "ios"
+              ],
+              "updated": "2026-05-24T09:38:50Z",
+              "pushed": "2023-04-01T07:18:36Z",
               "awesome": true,
               "path": [
                 "Capacitor",
@@ -262887,13 +263480,24 @@
               "sourceRepo": "riderx/awesome-capacitor",
               "depth": 2,
               "children": [],
-              "stars": 0,
-              "forks": 0,
-              "language": null,
-              "license": null,
-              "topics": [],
-              "updated": null,
-              "pushed": null,
+              "stars": 72,
+              "forks": 4,
+              "language": "Swift",
+              "license": "MIT",
+              "topics": [
+                "android",
+                "capacitor",
+                "capacitor-android",
+                "capacitor-community",
+                "capacitor-ios",
+                "capacitor-plugin",
+                "capawesome",
+                "ios",
+                "pwa",
+                "web"
+              ],
+              "updated": "2026-05-24T09:39:18Z",
+              "pushed": "2023-04-01T07:18:38Z",
               "awesome": true,
               "path": [
                 "Capacitor",
@@ -262913,13 +263517,23 @@
               "sourceRepo": "riderx/awesome-capacitor",
               "depth": 2,
               "children": [],
-              "stars": 0,
+              "stars": 6,
               "forks": 0,
-              "language": null,
-              "license": null,
-              "topics": [],
-              "updated": null,
-              "pushed": null,
+              "language": "Java",
+              "license": "MIT",
+              "topics": [
+                "android",
+                "capacitor",
+                "capacitor-android",
+                "capacitor-ios",
+                "capacitor-plugin",
+                "capawesome",
+                "ios",
+                "managed-configurations",
+                "mdm"
+              ],
+              "updated": "2026-02-11T18:00:55Z",
+              "pushed": "2023-04-01T07:18:43Z",
               "awesome": true,
               "path": [
                 "Capacitor",
@@ -262939,13 +263553,21 @@
               "sourceRepo": "riderx/awesome-capacitor",
               "depth": 2,
               "children": [],
-              "stars": 0,
+              "stars": 9,
               "forks": 0,
-              "language": null,
-              "license": null,
-              "topics": [],
-              "updated": null,
-              "pushed": null,
+              "language": "Java",
+              "license": "MIT",
+              "topics": [
+                "android",
+                "capacitor",
+                "capacitor-android",
+                "capacitor-community",
+                "capawesome",
+                "ios",
+                "photo-editor"
+              ],
+              "updated": "2023-10-14T17:42:10Z",
+              "pushed": "2023-04-01T07:18:44Z",
               "awesome": true,
               "path": [
                 "Capacitor",
@@ -266847,13 +267469,19 @@
           "parentId": "root-platforms-capacitor"
         }
       ],
-      "stars": 0,
-      "forks": 0,
-      "language": null,
-      "license": null,
-      "topics": [],
-      "updated": null,
-      "pushed": null,
+      "stars": 629,
+      "forks": 49,
+      "language": "HTML",
+      "license": "CC0-1.0",
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "capacitor",
+        "capacitor-plugin",
+        "ionic"
+      ],
+      "updated": "2026-06-29T13:44:35Z",
+      "pushed": "2026-06-29T17:43:15Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -272125,13 +272753,24 @@
               "sourceRepo": "esri/awesome-arcgis-developer",
               "depth": 2,
               "children": [],
-              "stars": 0,
-              "forks": 0,
-              "language": null,
-              "license": null,
-              "topics": [],
-              "updated": null,
-              "pushed": null,
+              "stars": 30,
+              "forks": 7,
+              "language": "HTML",
+              "license": "GPL-3.0",
+              "topics": [
+                "arcgis",
+                "arcgis-api",
+                "arcgis-desktop",
+                "arcgis-js",
+                "arcgis-js-api",
+                "arcgis-online",
+                "arcgis-runtime-sdk",
+                "arcgis-server",
+                "awesome",
+                "awesome-list"
+              ],
+              "updated": "2026-05-18T02:17:28Z",
+              "pushed": "2021-01-05T06:05:31Z",
               "awesome": true,
               "path": [
                 "ArcGIS Developer",
@@ -272151,13 +272790,22 @@
               "sourceRepo": "esri/awesome-arcgis-developer",
               "depth": 2,
               "children": [],
-              "stars": 0,
-              "forks": 0,
-              "language": null,
-              "license": null,
-              "topics": [],
-              "updated": null,
-              "pushed": null,
+              "stars": 1360,
+              "forks": 248,
+              "language": "HTML",
+              "license": "CC0-1.0",
+              "topics": [
+                "awesome",
+                "awesome-list",
+                "earth-observation",
+                "geospatial-data",
+                "google-earth-engine",
+                "remote-sensing",
+                "satellite-data",
+                "satellite-imagery"
+              ],
+              "updated": "2026-07-01T15:39:45Z",
+              "pushed": "2026-05-13T19:36:13Z",
               "awesome": true,
               "path": [
                 "ArcGIS Developer",
@@ -272177,7 +272825,7 @@
               "sourceRepo": "esri/awesome-arcgis-developer",
               "depth": 2,
               "children": [],
-              "stars": 2499,
+              "stars": 2506,
               "forks": 213,
               "language": null,
               "license": "CC0-1.0",
@@ -272187,7 +272835,7 @@
                 "geojson",
                 "list"
               ],
-              "updated": "2026-06-22T22:43:47Z",
+              "updated": "2026-07-03T17:59:11Z",
               "pushed": "2026-02-01T17:22:46Z",
               "awesome": true,
               "path": [
@@ -272208,8 +272856,8 @@
               "sourceRepo": "esri/awesome-arcgis-developer",
               "depth": 2,
               "children": [],
-              "stars": 5175,
-              "forks": 744,
+              "stars": 5184,
+              "forks": 746,
               "language": null,
               "license": "CC0-1.0",
               "topics": [
@@ -272229,8 +272877,8 @@
                 "spatial-analysis",
                 "spatial-data"
               ],
-              "updated": "2026-06-28T03:19:14Z",
-              "pushed": "2026-06-27T19:44:34Z",
+              "updated": "2026-07-04T18:33:35Z",
+              "pushed": "2026-07-03T20:28:34Z",
               "awesome": true,
               "path": [
                 "ArcGIS Developer",
@@ -272250,8 +272898,8 @@
               "sourceRepo": "esri/awesome-arcgis-developer",
               "depth": 2,
               "children": [],
-              "stars": 5407,
-              "forks": 820,
+              "stars": 5423,
+              "forks": 825,
               "language": null,
               "license": "MIT",
               "topics": [
@@ -272264,7 +272912,7 @@
                 "map",
                 "spatial-analysis"
               ],
-              "updated": "2026-06-27T20:02:48Z",
+              "updated": "2026-07-05T04:40:26Z",
               "pushed": "2026-04-29T14:33:34Z",
               "awesome": true,
               "path": [
@@ -272285,8 +272933,8 @@
               "sourceRepo": "esri/awesome-arcgis-developer",
               "depth": 2,
               "children": [],
-              "stars": 3598,
-              "forks": 400,
+              "stars": 3601,
+              "forks": 398,
               "language": "JavaScript",
               "license": "CC0-1.0",
               "topics": [
@@ -272299,7 +272947,7 @@
                 "json-dataset",
                 "list"
               ],
-              "updated": "2026-06-20T01:09:48Z",
+              "updated": "2026-07-03T23:09:45Z",
               "pushed": "2026-03-01T22:07:10Z",
               "awesome": true,
               "path": [
@@ -272320,8 +272968,8 @@
               "sourceRepo": "esri/awesome-arcgis-developer",
               "depth": 2,
               "children": [],
-              "stars": 1790,
-              "forks": 522,
+              "stars": 1796,
+              "forks": 521,
               "language": null,
               "license": "CC0-1.0",
               "topics": [
@@ -272346,7 +272994,7 @@
                 "simulation",
                 "subsurface"
               ],
-              "updated": "2026-06-27T08:46:08Z",
+              "updated": "2026-06-30T22:10:54Z",
               "pushed": "2026-05-26T11:55:08Z",
               "awesome": true,
               "path": [
@@ -272367,8 +273015,8 @@
               "sourceRepo": "esri/awesome-arcgis-developer",
               "depth": 2,
               "children": [],
-              "stars": 76119,
-              "forks": 11529,
+              "stars": 76583,
+              "forks": 11572,
               "language": null,
               "license": "MIT",
               "topics": [
@@ -272377,8 +273025,8 @@
                 "datasets",
                 "opendata"
               ],
-              "updated": "2026-06-28T09:56:06Z",
-              "pushed": "2026-06-24T15:14:15Z",
+              "updated": "2026-07-05T03:29:39Z",
+              "pushed": "2026-06-29T15:01:12Z",
               "awesome": true,
               "path": [
                 "ArcGIS Developer",
@@ -272398,8 +273046,8 @@
               "sourceRepo": "esri/awesome-arcgis-developer",
               "depth": 2,
               "children": [],
-              "stars": 2261,
-              "forks": 403,
+              "stars": 2265,
+              "forks": 402,
               "language": null,
               "license": null,
               "topics": [
@@ -272409,7 +273057,7 @@
                 "deep-learning",
                 "remote-sensing"
               ],
-              "updated": "2026-06-25T22:58:03Z",
+              "updated": "2026-07-02T10:00:00Z",
               "pushed": "2026-04-16T14:44:49Z",
               "awesome": true,
               "path": [
@@ -272430,8 +273078,8 @@
               "sourceRepo": "esri/awesome-arcgis-developer",
               "depth": 2,
               "children": [],
-              "stars": 3898,
-              "forks": 668,
+              "stars": 3903,
+              "forks": 669,
               "language": null,
               "license": "MIT",
               "topics": [
@@ -272444,7 +273092,7 @@
                 "remote-sensing",
                 "satellite-imagery"
               ],
-              "updated": "2026-06-24T19:01:21Z",
+              "updated": "2026-07-02T22:15:48Z",
               "pushed": "2022-07-14T18:02:46Z",
               "awesome": true,
               "path": [
@@ -272466,7 +273114,7 @@
               "depth": 2,
               "children": [],
               "stars": 10844,
-              "forks": 2470,
+              "forks": 2469,
               "language": null,
               "license": null,
               "topics": [
@@ -272475,7 +273123,7 @@
                 "evaluation",
                 "semantic-segmentation"
               ],
-              "updated": "2026-06-28T08:00:19Z",
+              "updated": "2026-07-03T15:02:02Z",
               "pushed": "2021-05-08T13:40:11Z",
               "awesome": true,
               "path": [
@@ -272496,13 +273144,13 @@
               "sourceRepo": "esri/awesome-arcgis-developer",
               "depth": 2,
               "children": [],
-              "stars": 2609,
+              "stars": 2611,
               "forks": 292,
               "language": null,
               "license": "CC0-1.0",
               "topics": [],
-              "updated": "2026-06-28T03:33:18Z",
-              "pushed": "2026-06-17T19:49:05Z",
+              "updated": "2026-07-04T16:35:50Z",
+              "pushed": "2026-06-29T14:32:51Z",
               "awesome": true,
               "path": [
                 "ArcGIS Developer",
@@ -274280,13 +274928,24 @@
               "sourceRepo": "dotintent/awesome-ble",
               "depth": 2,
               "children": [],
-              "stars": 0,
-              "forks": 0,
+              "stars": 604,
+              "forks": 60,
               "language": null,
               "license": null,
-              "topics": [],
-              "updated": null,
-              "pushed": null,
+              "topics": [
+                "awesome",
+                "awesome-list",
+                "ble",
+                "bluetooth",
+                "bluetooth-hacking",
+                "bluetooth-low-energy",
+                "bluetooth-security",
+                "penetration-testing",
+                "pentesting",
+                "security"
+              ],
+              "updated": "2026-07-03T21:28:45Z",
+              "pushed": "2025-10-03T22:06:03Z",
               "awesome": true,
               "path": [
                 "Bluetooth Low Energy",
@@ -274660,13 +275319,22 @@
           "parentId": "root-platforms-bluetooth-low-energy"
         }
       ],
-      "stars": 0,
-      "forks": 0,
+      "stars": 144,
+      "forks": 12,
       "language": null,
-      "license": null,
-      "topics": [],
-      "updated": null,
-      "pushed": null,
+      "license": "CC0-1.0",
+      "topics": [
+        "awesome",
+        "awesome-ble",
+        "awesome-list",
+        "awesome-readme",
+        "ble",
+        "bluetooth",
+        "bluetooth-le",
+        "bluetooth-low-energy"
+      ],
+      "updated": "2026-06-29T08:12:59Z",
+      "pushed": "2025-05-30T08:13:00Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -276266,13 +276934,25 @@
           "parentId": "root-platforms-uno-platform"
         }
       ],
-      "stars": 0,
-      "forks": 0,
+      "stars": 78,
+      "forks": 11,
       "language": null,
-      "license": null,
-      "topics": [],
-      "updated": null,
-      "pushed": null,
+      "license": "CC0-1.0",
+      "topics": [
+        "android",
+        "awesome",
+        "awesome-list",
+        "hacktoberfest",
+        "ios",
+        "linux",
+        "macos",
+        "uno-platform",
+        "uwp",
+        "webassembly",
+        "winappsdk"
+      ],
+      "updated": "2026-06-18T12:31:09Z",
+      "pushed": "2025-05-20T11:32:57Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -277854,13 +278534,23 @@
               "sourceRepo": "googlecloudplatform/awesome-google-cloud",
               "depth": 2,
               "children": [],
-              "stars": 0,
-              "forks": 0,
+              "stars": 793,
+              "forks": 71,
               "language": null,
-              "license": null,
-              "topics": [],
-              "updated": null,
-              "pushed": null,
+              "license": "NOASSERTION",
+              "topics": [
+                "awesome",
+                "awesome-list",
+                "cloud-functions",
+                "fcm",
+                "firebase",
+                "firestore",
+                "google-cloud",
+                "google-firebase",
+                "serverless"
+              ],
+              "updated": "2026-06-30T19:32:50Z",
+              "pushed": "2024-04-06T15:36:29Z",
               "awesome": true,
               "path": [
                 "Google Cloud",
@@ -277880,8 +278570,8 @@
               "sourceRepo": "googlecloudplatform/awesome-google-cloud",
               "depth": 2,
               "children": [],
-              "stars": 176596,
-              "forks": 13358,
+              "stars": 177182,
+              "forks": 13387,
               "language": "Go",
               "license": "MIT",
               "topics": [
@@ -277892,8 +278582,8 @@
                 "golang-library",
                 "hacktoberfest"
               ],
-              "updated": "2026-06-28T10:25:40Z",
-              "pushed": "2026-06-28T04:33:31Z",
+              "updated": "2026-07-05T05:40:32Z",
+              "pushed": "2026-07-03T21:09:53Z",
               "awesome": true,
               "path": [
                 "Google Cloud",
@@ -277913,8 +278603,8 @@
               "sourceRepo": "googlecloudplatform/awesome-google-cloud",
               "depth": 2,
               "children": [],
-              "stars": 16009,
-              "forks": 2467,
+              "stars": 16015,
+              "forks": 2471,
               "language": "Shell",
               "license": "NOASSERTION",
               "topics": [
@@ -277937,7 +278627,7 @@
                 "resource",
                 "schedule"
               ],
-              "updated": "2026-06-27T20:22:06Z",
+              "updated": "2026-07-04T05:09:25Z",
               "pushed": "2026-06-23T13:33:19Z",
               "awesome": true,
               "path": [
@@ -277958,12 +278648,12 @@
               "sourceRepo": "googlecloudplatform/awesome-google-cloud",
               "depth": 2,
               "children": [],
-              "stars": 17538,
+              "stars": 17541,
               "forks": 2979,
               "language": null,
               "license": "CC0-1.0",
               "topics": [],
-              "updated": "2026-06-27T11:52:10Z",
+              "updated": "2026-07-05T01:15:40Z",
               "pushed": "2026-02-08T17:13:47Z",
               "awesome": true,
               "path": [
@@ -277984,13 +278674,13 @@
               "sourceRepo": "googlecloudplatform/awesome-google-cloud",
               "depth": 2,
               "children": [],
-              "stars": 0,
-              "forks": 0,
+              "stars": 1194,
+              "forks": 401,
               "language": null,
-              "license": null,
+              "license": "NOASSERTION",
               "topics": [],
-              "updated": null,
-              "pushed": null,
+              "updated": "2026-06-22T01:49:28Z",
+              "pushed": "2021-02-17T07:36:52Z",
               "awesome": true,
               "path": [
                 "Google Cloud",
@@ -278010,13 +278700,13 @@
               "sourceRepo": "googlecloudplatform/awesome-google-cloud",
               "depth": 2,
               "children": [],
-              "stars": 0,
-              "forks": 0,
-              "language": null,
-              "license": null,
+              "stars": 118,
+              "forks": 12,
+              "language": "TypeScript",
+              "license": "MIT",
               "topics": [],
-              "updated": null,
-              "pushed": null,
+              "updated": "2026-06-18T15:54:41Z",
+              "pushed": "2026-03-06T20:30:43Z",
               "awesome": true,
               "path": [
                 "Google Cloud",
@@ -278036,13 +278726,19 @@
               "sourceRepo": "googlecloudplatform/awesome-google-cloud",
               "depth": 2,
               "children": [],
-              "stars": 0,
-              "forks": 0,
+              "stars": 55,
+              "forks": 5,
               "language": null,
-              "license": null,
-              "topics": [],
-              "updated": null,
-              "pushed": null,
+              "license": "MIT",
+              "topics": [
+                "awesome",
+                "awesome-list",
+                "bigtable",
+                "google-bigtable",
+                "google-cloud-platform"
+              ],
+              "updated": "2026-05-24T20:36:06Z",
+              "pushed": "2022-09-19T23:53:36Z",
               "awesome": true,
               "path": [
                 "Google Cloud",
@@ -278062,13 +278758,16 @@
               "sourceRepo": "googlecloudplatform/awesome-google-cloud",
               "depth": 2,
               "children": [],
-              "stars": 0,
-              "forks": 0,
+              "stars": 95,
+              "forks": 6,
               "language": null,
               "license": null,
-              "topics": [],
-              "updated": null,
-              "pushed": null,
+              "topics": [
+                "google-cloud",
+                "google-cloud-spanner"
+              ],
+              "updated": "2026-06-06T18:14:29Z",
+              "pushed": "2020-04-19T22:48:25Z",
               "awesome": true,
               "path": [
                 "Google Cloud",
@@ -278137,13 +278836,17 @@
           "parentId": "root-platforms-google-cloud"
         }
       ],
-      "stars": 0,
-      "forks": 0,
+      "stars": 911,
+      "forks": 177,
       "language": null,
-      "license": null,
-      "topics": [],
-      "updated": null,
-      "pushed": null,
+      "license": "CC-BY-4.0",
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "google-cloud"
+      ],
+      "updated": "2026-06-30T19:29:33Z",
+      "pushed": "2024-05-30T16:03:07Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -284169,13 +284872,20 @@
           "parentId": "root-platforms-backstage"
         }
       ],
-      "stars": 0,
-      "forks": 0,
+      "stars": 89,
+      "forks": 12,
       "language": null,
-      "license": null,
-      "topics": [],
-      "updated": null,
-      "pushed": null,
+      "license": "CC0-1.0",
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "backstage",
+        "developer-portal",
+        "developer-tools",
+        "idp"
+      ],
+      "updated": "2026-07-02T01:39:22Z",
+      "pushed": "2026-05-14T21:16:44Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [

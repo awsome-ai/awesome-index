@@ -1163,13 +1163,13 @@
           "parentId": "root-decentralized-systems-bitcoin"
         }
       ],
-      "stars": 0,
-      "forks": 0,
+      "stars": 1335,
+      "forks": 251,
       "language": null,
       "license": null,
       "topics": [],
-      "updated": null,
-      "pushed": null,
+      "updated": "2026-06-29T19:55:23Z",
+      "pushed": "2026-06-14T08:39:16Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -4426,13 +4426,16 @@
           "parentId": "root-decentralized-systems-ripple"
         }
       ],
-      "stars": 0,
-      "forks": 0,
+      "stars": 197,
+      "forks": 25,
       "language": null,
       "license": null,
-      "topics": [],
-      "updated": null,
-      "pushed": null,
+      "topics": [
+        "awesome",
+        "ripple"
+      ],
+      "updated": "2026-06-18T04:35:33Z",
+      "pushed": "2021-07-02T15:40:31Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -5691,13 +5694,18 @@
           "parentId": "root-decentralized-systems-non-financial-blockchain"
         }
       ],
-      "stars": 0,
-      "forks": 0,
+      "stars": 670,
+      "forks": 83,
       "language": null,
       "license": null,
-      "topics": [],
-      "updated": null,
-      "pushed": null,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "blockchain",
+        "list"
+      ],
+      "updated": "2026-06-27T17:11:40Z",
+      "pushed": "2020-10-12T09:05:29Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -8174,13 +8182,17 @@
           "parentId": "root-decentralized-systems-mastodon"
         }
       ],
-      "stars": 0,
-      "forks": 0,
-      "language": null,
-      "license": null,
-      "topics": [],
-      "updated": null,
-      "pushed": null,
+      "stars": 60,
+      "forks": 7,
+      "language": "Markdown",
+      "license": "CC0-1.0",
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "mastodon"
+      ],
+      "updated": "2026-07-03T16:05:22Z",
+      "pushed": "2026-06-22T20:39:37Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -10814,13 +10826,17 @@
           "parentId": "root-decentralized-systems-ethereum"
         }
       ],
-      "stars": 0,
-      "forks": 0,
+      "stars": 361,
+      "forks": 62,
       "language": null,
-      "license": null,
-      "topics": [],
-      "updated": null,
-      "pushed": null,
+      "license": "CC0-1.0",
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "ethereum"
+      ],
+      "updated": "2026-06-29T19:55:46Z",
+      "pushed": "2024-07-12T08:10:18Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -12324,13 +12340,19 @@
           "parentId": "root-decentralized-systems-blockchain-ai"
         }
       ],
-      "stars": 0,
-      "forks": 0,
+      "stars": 1140,
+      "forks": 221,
       "language": null,
       "license": null,
-      "topics": [],
-      "updated": null,
-      "pushed": null,
+      "topics": [
+        "artificial-intelligence",
+        "awesome",
+        "awesome-list",
+        "blockchain",
+        "machine-learning"
+      ],
+      "updated": "2026-06-30T19:16:18Z",
+      "pushed": "2026-02-06T19:23:10Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -18594,13 +18616,22 @@
           "parentId": "root-decentralized-systems-eosio"
         }
       ],
-      "stars": 0,
-      "forks": 0,
-      "language": null,
-      "license": null,
-      "topics": [],
-      "updated": null,
-      "pushed": null,
+      "stars": 84,
+      "forks": 22,
+      "language": "Shell",
+      "license": "CC0-1.0",
+      "topics": [
+        "awesome",
+        "awesome-eos",
+        "awesome-list",
+        "eos",
+        "eosio",
+        "eosio-blockchain",
+        "eosio-development",
+        "eosio-resources"
+      ],
+      "updated": "2026-06-16T16:00:48Z",
+      "pushed": "2026-03-25T22:41:44Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -24466,13 +24497,28 @@
           "parentId": "root-decentralized-systems-waves"
         }
       ],
-      "stars": 0,
-      "forks": 0,
+      "stars": 88,
+      "forks": 28,
       "language": null,
-      "license": null,
-      "topics": [],
-      "updated": null,
-      "pushed": null,
+      "license": "CC0-1.0",
+      "topics": [
+        "blockchain",
+        "cryptocurrency",
+        "dapp",
+        "dapps",
+        "defi",
+        "fintech",
+        "ride",
+        "smart-contract-tools",
+        "smart-contracts",
+        "smartcontracts",
+        "waves",
+        "wavesplatform",
+        "wavesprotocol",
+        "web3"
+      ],
+      "updated": "2026-06-16T16:00:50Z",
+      "pushed": "2020-10-05T14:05:48Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -32747,13 +32793,19 @@
           "parentId": "root-decentralized-systems-golem"
         }
       ],
-      "stars": 0,
-      "forks": 0,
+      "stars": 244,
+      "forks": 29,
       "language": null,
-      "license": null,
-      "topics": [],
-      "updated": null,
-      "pushed": null,
+      "license": "CC0-1.0",
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "golem",
+        "golem-network",
+        "golem-repositories"
+      ],
+      "updated": "2026-07-03T02:34:25Z",
+      "pushed": "2024-01-16T15:45:30Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -36330,13 +36382,16 @@
           "parentId": "root-decentralized-systems-stacks"
         }
       ],
-      "stars": 0,
-      "forks": 0,
+      "stars": 123,
+      "forks": 29,
       "language": null,
-      "license": null,
-      "topics": [],
-      "updated": null,
-      "pushed": null,
+      "license": "CC0-1.0",
+      "topics": [
+        "awesome",
+        "awesome-list"
+      ],
+      "updated": "2026-06-16T16:00:51Z",
+      "pushed": "2025-12-19T06:49:34Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -44486,13 +44541,19 @@
           "parentId": "root-decentralized-systems-zeronet"
         }
       ],
-      "stars": 0,
-      "forks": 0,
+      "stars": 115,
+      "forks": 11,
       "language": null,
-      "license": null,
-      "topics": [],
-      "updated": null,
-      "pushed": null,
+      "license": "CC0-1.0",
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "markdown",
+        "zeronet",
+        "zeronet-site"
+      ],
+      "updated": "2026-07-03T02:34:03Z",
+      "pushed": "2025-03-06T15:13:08Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -45210,13 +45271,19 @@
           "parentId": "root-decentralized-systems-cosmos-sdk"
         }
       ],
-      "stars": 0,
-      "forks": 0,
+      "stars": 597,
+      "forks": 170,
       "language": null,
-      "license": null,
-      "topics": [],
-      "updated": null,
-      "pushed": null,
+      "license": "CC0-1.0",
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "blockchain",
+        "cosmos",
+        "cosmos-sdk"
+      ],
+      "updated": "2026-06-22T12:26:36Z",
+      "pushed": "2026-04-13T09:03:12Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -49527,13 +49594,19 @@
           "parentId": "root-decentralized-systems-tor"
         }
       ],
-      "stars": 0,
-      "forks": 0,
+      "stars": 105,
+      "forks": 9,
       "language": null,
-      "license": null,
-      "topics": [],
-      "updated": null,
-      "pushed": null,
+      "license": "CC0-1.0",
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "awesome-tor",
+        "onion-routing",
+        "tor"
+      ],
+      "updated": "2026-07-03T02:35:13Z",
+      "pushed": "2026-06-20T14:39:32Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -49734,13 +49807,17 @@
           "parentId": "root-decentralized-systems-atproto"
         }
       ],
-      "stars": 0,
-      "forks": 0,
+      "stars": 70,
+      "forks": 6,
       "language": null,
-      "license": null,
-      "topics": [],
-      "updated": null,
-      "pushed": null,
+      "license": "CC0-1.0",
+      "topics": [
+        "atproto",
+        "awesome",
+        "awesome-list"
+      ],
+      "updated": "2026-07-03T02:36:21Z",
+      "pushed": "2026-06-21T19:33:09Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [

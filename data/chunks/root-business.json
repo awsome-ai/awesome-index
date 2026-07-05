@@ -12,7 +12,7 @@
       "kind": "repo",
       "repo": "opencompany/awesome-open-company",
       "url": "https://github.com/opencompany/awesome-open-company",
-      "description": "",
+      "description": "A community-curated list of awesome open companies.",
       "external": false,
       "sourceRepo": "sindresorhus/awesome",
       "depth": 1,
@@ -899,13 +899,13 @@
           "parentId": "root-business-open-companies"
         }
       ],
-      "stars": 0,
-      "forks": 0,
+      "stars": 1230,
+      "forks": 51,
       "language": null,
       "license": null,
       "topics": [],
-      "updated": null,
-      "pushed": null,
+      "updated": "2026-07-03T08:31:55Z",
+      "pushed": "2024-03-30T16:18:37Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -3616,13 +3616,13 @@
           "parentId": "root-business-okr-methodology"
         }
       ],
-      "stars": 0,
-      "forks": 0,
+      "stars": 1782,
+      "forks": 186,
       "language": null,
-      "license": null,
+      "license": "CC0-1.0",
       "topics": [],
-      "updated": null,
-      "pushed": null,
+      "updated": "2026-07-04T11:15:46Z",
+      "pushed": "2022-08-10T14:42:01Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -7264,8 +7264,8 @@
           "parentId": "root-business-indie"
         }
       ],
-      "stars": 11521,
-      "forks": 728,
+      "stars": 11540,
+      "forks": 729,
       "language": null,
       "license": "NOASSERTION",
       "topics": [
@@ -7279,7 +7279,7 @@
         "passive-income",
         "sideproject"
       ],
-      "updated": "2026-06-28T09:58:48Z",
+      "updated": "2026-07-04T18:24:15Z",
       "pushed": "2024-06-12T21:23:53Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -9491,13 +9491,20 @@
           "parentId": "root-business-clean-tech"
         }
       ],
-      "stars": 0,
-      "forks": 0,
+      "stars": 470,
+      "forks": 65,
       "language": null,
-      "license": null,
-      "topics": [],
-      "updated": null,
-      "pushed": null,
+      "license": "CC0-1.0",
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "clean-tech",
+        "climate-change",
+        "climate-change-mitigation",
+        "environment-friendly"
+      ],
+      "updated": "2026-06-28T10:32:14Z",
+      "pushed": "2026-03-13T09:14:23Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -15211,13 +15218,20 @@
           "parentId": "root-business-wardley-maps"
         }
       ],
-      "stars": 0,
-      "forks": 0,
-      "language": null,
-      "license": null,
-      "topics": [],
-      "updated": null,
-      "pushed": null,
+      "stars": 802,
+      "forks": 66,
+      "language": "HTML",
+      "license": "CC0-1.0",
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "simon-wardley",
+        "strategy",
+        "wardley-maps",
+        "wardleymaps"
+      ],
+      "updated": "2026-07-02T13:30:27Z",
+      "pushed": "2026-03-06T14:49:23Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -15921,13 +15935,18 @@
           "parentId": "root-business-social-enterprise"
         }
       ],
-      "stars": 0,
-      "forks": 0,
+      "stars": 144,
+      "forks": 8,
       "language": null,
-      "license": null,
-      "topics": [],
-      "updated": null,
-      "pushed": null,
+      "license": "CC-BY-SA-4.0",
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "social-enterprise",
+        "social-entrepreneurship"
+      ],
+      "updated": "2026-06-24T02:02:00Z",
+      "pushed": "2024-12-23T06:41:20Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -17818,13 +17837,19 @@
                   "sourceRepo": "kdeldycke/awesome-engineering-team-management",
                   "depth": 3,
                   "children": [],
-                  "stars": 0,
-                  "forks": 0,
+                  "stars": 1766,
+                  "forks": 244,
                   "language": null,
                   "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
+                  "topics": [
+                    "awesome",
+                    "awesome-list",
+                    "job-board",
+                    "jobs",
+                    "list"
+                  ],
+                  "updated": "2026-07-01T00:05:48Z",
+                  "pushed": "2026-04-20T13:14:02Z",
                   "awesome": true,
                   "path": [
                     "Engineering Team Management",
@@ -19569,13 +19594,18 @@
                   "sourceRepo": "kdeldycke/awesome-engineering-team-management",
                   "depth": 3,
                   "children": [],
-                  "stars": 0,
-                  "forks": 0,
+                  "stars": 621,
+                  "forks": 42,
                   "language": null,
-                  "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
+                  "license": "CC0-1.0",
+                  "topics": [
+                    "awesome-list",
+                    "bias",
+                    "hackerlaws",
+                    "mental-models"
+                  ],
+                  "updated": "2026-06-30T16:39:00Z",
+                  "pushed": "2024-03-04T14:31:04Z",
                   "awesome": true,
                   "path": [
                     "Engineering Team Management",
@@ -21472,8 +21502,8 @@
               "sourceRepo": "kdeldycke/awesome-engineering-team-management",
               "depth": 2,
               "children": [],
-              "stars": 46538,
-              "forks": 4652,
+              "stars": 46589,
+              "forks": 4665,
               "language": null,
               "license": null,
               "topics": [
@@ -21481,7 +21511,7 @@
                 "awesome-list",
                 "list"
               ],
-              "updated": "2026-06-28T09:27:14Z",
+              "updated": "2026-07-05T04:31:02Z",
               "pushed": "2026-05-08T22:48:54Z",
               "awesome": true,
               "path": [
@@ -21963,8 +21993,8 @@
               "sourceRepo": "kdeldycke/awesome-engineering-team-management",
               "depth": 2,
               "children": [],
-              "stars": 2221,
-              "forks": 202,
+              "stars": 2230,
+              "forks": 203,
               "language": "CSS",
               "license": "CC0-1.0",
               "topics": [
@@ -21974,7 +22004,7 @@
                 "product",
                 "product-management"
               ],
-              "updated": "2026-06-26T17:08:04Z",
+              "updated": "2026-07-04T15:13:53Z",
               "pushed": "2026-02-08T02:36:12Z",
               "awesome": true,
               "path": [
@@ -23844,13 +23874,13 @@
               "sourceRepo": "kdeldycke/awesome-engineering-team-management",
               "depth": 2,
               "children": [],
-              "stars": 0,
-              "forks": 0,
+              "stars": 1782,
+              "forks": 186,
               "language": null,
-              "license": null,
+              "license": "CC0-1.0",
               "topics": [],
-              "updated": null,
-              "pushed": null,
+              "updated": "2026-07-04T11:15:46Z",
+              "pushed": "2022-08-10T14:42:01Z",
               "awesome": true,
               "path": [
                 "Engineering Team Management",
@@ -27655,7 +27685,7 @@
           "parentId": "root-business-engineering-team-management"
         }
       ],
-      "stars": 2535,
+      "stars": 2539,
       "forks": 183,
       "language": null,
       "license": "CC0-1.0",
@@ -27681,7 +27711,7 @@
         "team-management",
         "transition"
       ],
-      "updated": "2026-06-25T09:59:12Z",
+      "updated": "2026-07-05T04:06:08Z",
       "pushed": "2026-04-27T19:17:59Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -28516,13 +28546,18 @@
           "parentId": "root-business-developer-first-products"
         }
       ],
-      "stars": 0,
-      "forks": 0,
+      "stars": 1714,
+      "forks": 324,
       "language": null,
-      "license": null,
-      "topics": [],
-      "updated": null,
-      "pushed": null,
+      "license": "NOASSERTION",
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "developer-first",
+        "developer-tools"
+      ],
+      "updated": "2026-07-03T19:06:09Z",
+      "pushed": "2026-07-02T08:39:56Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -33806,8 +33841,8 @@
               "sourceRepo": "kdeldycke/awesome-billing",
               "depth": 2,
               "children": [],
-              "stars": 2222,
-              "forks": 186,
+              "stars": 2230,
+              "forks": 185,
               "language": null,
               "license": "CC0-1.0",
               "topics": [
@@ -33832,7 +33867,7 @@
                 "webauthn",
                 "zero-trust"
               ],
-              "updated": "2026-06-28T04:08:38Z",
+              "updated": "2026-07-04T23:55:13Z",
               "pushed": "2026-06-21T13:44:00Z",
               "awesome": true,
               "path": [
@@ -33905,7 +33940,7 @@
               "sourceRepo": "kdeldycke/awesome-billing",
               "depth": 2,
               "children": [],
-              "stars": 1809,
+              "stars": 1812,
               "forks": 331,
               "language": "Python",
               "license": "CC0-1.0",
@@ -33931,7 +33966,7 @@
                 "logistic-regression",
                 "random-forest"
               ],
-              "updated": "2026-06-27T11:53:17Z",
+              "updated": "2026-07-04T13:06:29Z",
               "pushed": "2026-01-05T12:28:59Z",
               "awesome": true,
               "path": [
@@ -34279,13 +34314,21 @@
                   "sourceRepo": "kdeldycke/awesome-billing",
                   "depth": 3,
                   "children": [],
-                  "stars": 0,
-                  "forks": 0,
+                  "stars": 172,
+                  "forks": 28,
                   "language": null,
-                  "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
+                  "license": "CC0-1.0",
+                  "topics": [
+                    "awesome",
+                    "awesome-list",
+                    "credit-modeling",
+                    "credit-scoring",
+                    "financial-machine-learning",
+                    "reject-inference",
+                    "sample-selection"
+                  ],
+                  "updated": "2026-06-20T17:27:08Z",
+                  "pushed": "2024-02-01T21:37:04Z",
                   "awesome": true,
                   "path": [
                     "Billing",
@@ -36054,13 +36097,34 @@
           "parentId": "root-business-billing"
         }
       ],
-      "stars": 0,
-      "forks": 0,
+      "stars": 1300,
+      "forks": 96,
       "language": null,
-      "license": null,
-      "topics": [],
-      "updated": null,
-      "pushed": null,
+      "license": "CC0-1.0",
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "billing",
+        "cloud-billing",
+        "cost-forecast",
+        "cost-management",
+        "double-entry",
+        "fraud",
+        "invoicing",
+        "metering",
+        "payment-processing",
+        "pricing",
+        "pricing-strategy",
+        "product-catalog",
+        "saas-billing",
+        "subscription-billing",
+        "subscription-management",
+        "tax",
+        "usage-based-billing",
+        "vat"
+      ],
+      "updated": "2026-07-03T09:09:35Z",
+      "pushed": "2026-06-21T13:47:38Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -38026,13 +38090,19 @@
           "parentId": "root-business-engineering-strategy"
         }
       ],
-      "stars": 0,
-      "forks": 0,
+      "stars": 1348,
+      "forks": 61,
       "language": null,
-      "license": null,
-      "topics": [],
-      "updated": null,
-      "pushed": null,
+      "license": "CC0-1.0",
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "engineering-strategy",
+        "strategy",
+        "tech-strategy"
+      ],
+      "updated": "2026-06-30T19:12:58Z",
+      "pushed": "2026-02-27T11:26:47Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [

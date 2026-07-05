@@ -37485,13 +37485,16 @@
                   "sourceRepo": "rockerboo/awesome-neovim",
                   "depth": 3,
                   "children": [],
-                  "stars": 0,
-                  "forks": 0,
-                  "language": null,
-                  "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
+                  "stars": 62,
+                  "forks": 11,
+                  "language": "Nix",
+                  "license": "BSD-3-Clause",
+                  "topics": [
+                    "neovim-plugins",
+                    "nix-flake"
+                  ],
+                  "updated": "2026-07-04T18:23:33Z",
+                  "pushed": "2026-07-04T18:23:29Z",
                   "awesome": true,
                   "path": [
                     "Neovim",
@@ -38384,8 +38387,8 @@
           "parentId": "root-editors-neovim"
         }
       ],
-      "stars": 21065,
-      "forks": 1013,
+      "stars": 21095,
+      "forks": 1017,
       "language": "Shell",
       "license": "CC0-1.0",
       "topics": [
@@ -38395,8 +38398,8 @@
         "neovim-plugins",
         "nvim-lua"
       ],
-      "updated": "2026-06-28T09:20:50Z",
-      "pushed": "2026-06-26T21:13:30Z",
+      "updated": "2026-07-05T05:33:27Z",
+      "pushed": "2026-07-03T18:45:51Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -38415,7 +38418,7 @@
       "sourceRepo": "sindresorhus/awesome",
       "depth": 1,
       "children": [],
-      "stars": 9311,
+      "stars": 9314,
       "forks": 598,
       "language": null,
       "license": "Unlicense",
@@ -38423,10 +38426,10 @@
         "awesome-list",
         "emacs"
       ],
-      "updated": "2026-06-26T14:29:04Z",
+      "updated": "2026-07-03T18:43:41Z",
       "pushed": "2026-05-13T04:32:20Z",
       "awesome": true,
-      "readmeStatus": "missing",
+      "readmeStatus": "empty",
       "path": [
         "Emacs"
       ],
@@ -44894,8 +44897,8 @@
           "parentId": "root-editors-visual-studio-code"
         }
       ],
-      "stars": 28797,
-      "forks": 1394,
+      "stars": 28820,
+      "forks": 1396,
       "language": "JavaScript",
       "license": "CC0-1.0",
       "topics": [
@@ -44911,7 +44914,7 @@
         "vscode-extension",
         "vscode-theme"
       ],
-      "updated": "2026-06-28T06:37:34Z",
+      "updated": "2026-07-05T04:47:38Z",
       "pushed": "2026-06-21T09:36:55Z",
       "awesome": true,
       "readmeStatus": "expanded",

@@ -108,7 +108,7 @@
       "kind": "repo",
       "repo": "talater/awesome-book-authoring",
       "url": "https://github.com/talater/awesome-book-authoring",
-      "description": "",
+      "description": ":books: A collection of awesome resources for technical book authors",
       "external": false,
       "sourceRepo": "sindresorhus/awesome",
       "depth": 1,
@@ -1456,13 +1456,13 @@
           "parentId": "root-books-book-authoring"
         }
       ],
-      "stars": 0,
-      "forks": 0,
+      "stars": 410,
+      "forks": 24,
       "language": null,
-      "license": null,
+      "license": "CC0-1.0",
       "topics": [],
-      "updated": null,
-      "pushed": null,
+      "updated": "2026-06-26T08:03:52Z",
+      "pushed": "2019-12-06T20:37:21Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [

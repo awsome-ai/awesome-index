@@ -23,7 +23,7 @@
           "kind": "repo",
           "repo": "wbinnssmith/awesome-promises",
           "url": "https://github.com/wbinnssmith/awesome-promises",
-          "description": "",
+          "description": "A curated list of useful resources for JavaScript Promises",
           "external": false,
           "sourceRepo": "sindresorhus/awesome",
           "depth": 2,
@@ -293,13 +293,13 @@
               "parentId": "root-programming-languages-javascript-promises"
             }
           ],
-          "stars": 0,
-          "forks": 0,
+          "stars": 1735,
+          "forks": 121,
           "language": null,
-          "license": null,
+          "license": "CC0-1.0",
           "topics": [],
-          "updated": null,
-          "pushed": null,
+          "updated": "2026-07-01T05:50:20Z",
+          "pushed": "2023-12-15T08:38:32Z",
           "awesome": true,
           "readmeStatus": "expanded",
           "path": [
@@ -1967,13 +1967,27 @@
               "parentId": "root-programming-languages-javascript-standard-style"
             }
           ],
-          "stars": 0,
-          "forks": 0,
+          "stars": 408,
+          "forks": 34,
           "language": null,
           "license": null,
-          "topics": [],
-          "updated": null,
-          "pushed": null,
+          "topics": [
+            "awesome",
+            "awesome-list",
+            "development",
+            "ecmascript",
+            "es6",
+            "eslint",
+            "javascript",
+            "linter",
+            "list",
+            "nodejs",
+            "standard",
+            "static-code-analysis",
+            "style-guide"
+          ],
+          "updated": "2026-06-27T07:59:15Z",
+          "pushed": "2023-09-16T07:25:25Z",
           "awesome": true,
           "readmeStatus": "expanded",
           "path": [
@@ -2038,7 +2052,7 @@
           "kind": "repo",
           "repo": "kikobeats/awesome-network-js",
           "url": "https://github.com/kikobeats/awesome-network-js",
-          "description": "",
+          "description": "A :tophat: list of network layer resources written pure JS.",
           "external": false,
           "sourceRepo": "sindresorhus/awesome",
           "depth": 2,
@@ -2113,13 +2127,13 @@
               "parentId": "root-programming-languages-javascript-network-layer"
             }
           ],
-          "stars": 0,
-          "forks": 0,
+          "stars": 582,
+          "forks": 26,
           "language": null,
-          "license": null,
+          "license": "CC0-1.0",
           "topics": [],
-          "updated": null,
-          "pushed": null,
+          "updated": "2026-06-29T03:32:36Z",
+          "pushed": "2020-10-12T15:05:25Z",
           "awesome": true,
           "readmeStatus": "expanded",
           "path": [
@@ -2664,12 +2678,12 @@
               "parentId": "root-programming-languages-javascript-micro-npm-packages"
             }
           ],
-          "stars": 4623,
+          "stars": 4624,
           "forks": 455,
           "language": null,
           "license": "MIT",
           "topics": [],
-          "updated": "2026-06-27T08:00:13Z",
+          "updated": "2026-07-02T06:22:00Z",
           "pushed": "2023-12-18T13:25:02Z",
           "awesome": true,
           "readmeStatus": "expanded",
@@ -4512,13 +4526,23 @@
               "parentId": "root-programming-languages-javascript-mad-science-npm-packages"
             }
           ],
-          "stars": 0,
-          "forks": 0,
+          "stars": 1214,
+          "forks": 62,
           "language": null,
           "license": null,
-          "topics": [],
-          "updated": null,
-          "pushed": null,
+          "topics": [
+            "awesome",
+            "awesome-list",
+            "browser",
+            "browserify",
+            "javascript",
+            "lstm",
+            "mad-science",
+            "nodejs",
+            "npm"
+          ],
+          "updated": "2026-06-27T08:00:47Z",
+          "pushed": "2022-05-01T18:54:21Z",
           "awesome": true,
           "readmeStatus": "expanded",
           "path": [
@@ -8460,8 +8484,8 @@
                   "sourceRepo": "sindresorhus/awesome-npm",
                   "depth": 3,
                   "children": [],
-                  "stars": 66082,
-                  "forks": 6226,
+                  "stars": 66142,
+                  "forks": 6229,
                   "language": null,
                   "license": "CC0-1.0",
                   "topics": [
@@ -8472,7 +8496,7 @@
                     "node",
                     "nodejs"
                   ],
-                  "updated": "2026-06-28T10:02:47Z",
+                  "updated": "2026-07-05T05:55:26Z",
                   "pushed": "2026-05-03T08:24:10Z",
                   "awesome": true,
                   "path": [
@@ -8500,7 +8524,7 @@
               "parentId": "root-programming-languages-javascript-npm"
             }
           ],
-          "stars": 4720,
+          "stars": 4723,
           "forks": 282,
           "language": null,
           "license": "CC0-1.0",
@@ -8514,7 +8538,7 @@
             "package-manager",
             "yarn"
           ],
-          "updated": "2026-06-26T20:15:26Z",
+          "updated": "2026-07-04T09:24:59Z",
           "pushed": "2026-04-20T12:11:28Z",
           "awesome": true,
           "readmeStatus": "expanded",
@@ -9919,13 +9943,19 @@
               "parentId": "root-programming-languages-javascript-ava"
             }
           ],
-          "stars": 0,
-          "forks": 0,
+          "stars": 356,
+          "forks": 31,
           "language": null,
-          "license": null,
-          "topics": [],
-          "updated": null,
-          "pushed": null,
+          "license": "CC0-1.0",
+          "topics": [
+            "ava",
+            "awesome",
+            "awesome-list",
+            "list",
+            "nodejs"
+          ],
+          "updated": "2026-06-27T08:03:33Z",
+          "pushed": "2022-09-12T08:49:21Z",
           "awesome": true,
           "readmeStatus": "expanded",
           "path": [
@@ -17167,7 +17197,7 @@
             }
           ],
           "stars": 4737,
-          "forks": 249,
+          "forks": 248,
           "language": null,
           "license": "CC0-1.0",
           "topics": [
@@ -17176,7 +17206,7 @@
             "eslint",
             "list"
           ],
-          "updated": "2026-06-27T16:08:04Z",
+          "updated": "2026-07-04T16:53:38Z",
           "pushed": "2026-05-13T23:09:36Z",
           "awesome": true,
           "readmeStatus": "expanded",
@@ -17555,12 +17585,12 @@
               "parentId": "root-programming-languages-javascript-functional-programming"
             }
           ],
-          "stars": 6039,
+          "stars": 6036,
           "forks": 391,
           "language": null,
           "license": null,
           "topics": [],
-          "updated": "2026-06-27T20:12:05Z",
+          "updated": "2026-07-04T15:54:14Z",
           "pushed": "2026-01-15T19:55:47Z",
           "awesome": true,
           "readmeStatus": "expanded",
@@ -17576,7 +17606,7 @@
           "kind": "repo",
           "repo": "sindresorhus/awesome-observables",
           "url": "https://github.com/sindresorhus/awesome-observables",
-          "description": "",
+          "description": "Awesome Observable related stuff - An Observable is a collection that arrives over time.",
           "external": false,
           "sourceRepo": "sindresorhus/awesome",
           "depth": 2,
@@ -18203,8 +18233,8 @@
                   "sourceRepo": "sindresorhus/awesome-observables",
                   "depth": 3,
                   "children": [],
-                  "stars": 66082,
-                  "forks": 6226,
+                  "stars": 66142,
+                  "forks": 6229,
                   "language": null,
                   "license": "CC0-1.0",
                   "topics": [
@@ -18215,7 +18245,7 @@
                     "node",
                     "nodejs"
                   ],
-                  "updated": "2026-06-28T10:02:47Z",
+                  "updated": "2026-07-05T05:55:26Z",
                   "pushed": "2026-05-03T08:24:10Z",
                   "awesome": true,
                   "path": [
@@ -18243,13 +18273,19 @@
               "parentId": "root-programming-languages-javascript-observables"
             }
           ],
-          "stars": 0,
-          "forks": 0,
+          "stars": 351,
+          "forks": 15,
           "language": null,
-          "license": null,
-          "topics": [],
-          "updated": null,
-          "pushed": null,
+          "license": "CC0-1.0",
+          "topics": [
+            "awesome",
+            "awesome-list",
+            "javascript",
+            "list",
+            "observables"
+          ],
+          "updated": "2026-07-02T07:23:07Z",
+          "pushed": "2021-10-13T14:23:18Z",
           "awesome": true,
           "readmeStatus": "expanded",
           "path": [
@@ -19915,13 +19951,19 @@
               "parentId": "root-programming-languages-javascript-npm-scripts"
             }
           ],
-          "stars": 0,
-          "forks": 0,
+          "stars": 743,
+          "forks": 38,
           "language": null,
-          "license": null,
-          "topics": [],
-          "updated": null,
-          "pushed": null,
+          "license": "CC0-1.0",
+          "topics": [
+            "awesome",
+            "awesome-list",
+            "list",
+            "npm",
+            "task-runner"
+          ],
+          "updated": "2026-06-27T08:05:23Z",
+          "pushed": "2022-10-08T22:31:37Z",
           "awesome": true,
           "readmeStatus": "expanded",
           "path": [
@@ -21614,13 +21656,22 @@
               "parentId": "root-programming-languages-javascript-ponyfills"
             }
           ],
-          "stars": 0,
-          "forks": 0,
+          "stars": 66,
+          "forks": 3,
           "language": null,
-          "license": null,
-          "topics": [],
-          "updated": null,
-          "pushed": null,
+          "license": "CC0-1.0",
+          "topics": [
+            "awesome",
+            "awesome-list",
+            "ecmascript",
+            "javascript",
+            "node",
+            "nodejs",
+            "ponyfill",
+            "ponyfills"
+          ],
+          "updated": "2026-06-27T08:06:35Z",
+          "pushed": "2020-10-21T19:20:01Z",
           "awesome": true,
           "readmeStatus": "expanded",
           "path": [
@@ -23445,12 +23496,12 @@
           "parentId": "root-programming-languages-javascript"
         }
       ],
-      "stars": 34996,
-      "forks": 4532,
+      "stars": 34998,
+      "forks": 4533,
       "language": null,
       "license": null,
       "topics": [],
-      "updated": "2026-06-27T13:45:15Z",
+      "updated": "2026-07-05T05:55:40Z",
       "pushed": "2026-04-23T10:42:52Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -23481,7 +23532,7 @@
           "sourceRepo": "sindresorhus/awesome",
           "depth": 2,
           "children": [],
-          "stars": 5782,
+          "stars": 5781,
           "forks": 469,
           "language": null,
           "license": "MIT",
@@ -23491,7 +23542,7 @@
             "swift",
             "swift-education"
           ],
-          "updated": "2026-06-27T09:36:15Z",
+          "updated": "2026-07-04T09:07:30Z",
           "pushed": "2018-07-01T21:46:06Z",
           "awesome": true,
           "readmeStatus": "empty",
@@ -24179,7 +24230,7 @@
               "parentId": "root-programming-languages-swift-playgrounds"
             }
           ],
-          "stars": 4380,
+          "stars": 4379,
           "forks": 343,
           "language": "Swift",
           "license": "NOASSERTION",
@@ -24196,7 +24247,7 @@
             "swift3",
             "swift4"
           ],
-          "updated": "2026-06-24T03:30:49Z",
+          "updated": "2026-06-29T20:51:45Z",
           "pushed": "2026-04-02T08:35:32Z",
           "awesome": true,
           "readmeStatus": "expanded",
@@ -27559,8 +27610,8 @@
           "parentId": "root-programming-languages-swift"
         }
       ],
-      "stars": 26104,
-      "forks": 3127,
+      "stars": 26117,
+      "forks": 3132,
       "language": "Ruby",
       "license": "CC0-1.0",
       "topics": [
@@ -27578,7 +27629,7 @@
         "swift-language",
         "swift-library"
       ],
-      "updated": "2026-06-27T17:23:39Z",
+      "updated": "2026-07-04T19:52:54Z",
       "pushed": "2026-06-15T21:32:55Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -27863,7 +27914,7 @@
               "parentId": "root-programming-languages-python-asyncio"
             }
           ],
-          "stars": 5088,
+          "stars": 5089,
           "forks": 356,
           "language": null,
           "license": "NOASSERTION",
@@ -27876,7 +27927,7 @@
             "python",
             "python-asyncio"
           ],
-          "updated": "2026-06-27T10:47:25Z",
+          "updated": "2026-07-05T02:47:40Z",
           "pushed": "2025-12-01T14:19:00Z",
           "awesome": true,
           "readmeStatus": "expanded",
@@ -28424,13 +28475,17 @@
               "parentId": "root-programming-languages-python-scientific-audio"
             }
           ],
-          "stars": 0,
-          "forks": 0,
+          "stars": 1696,
+          "forks": 185,
           "language": null,
           "license": null,
-          "topics": [],
-          "updated": null,
-          "pushed": null,
+          "topics": [
+            "audio",
+            "awesome-list",
+            "python"
+          ],
+          "updated": "2026-07-03T14:28:38Z",
+          "pushed": "2026-06-11T16:45:13Z",
           "awesome": true,
           "readmeStatus": "expanded",
           "path": [
@@ -29482,13 +29537,22 @@
                   "sourceRepo": "adafruit/awesome-circuitpython",
                   "depth": 3,
                   "children": [],
-                  "stars": 0,
-                  "forks": 0,
+                  "stars": 354,
+                  "forks": 14,
                   "language": null,
-                  "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
+                  "license": "NOASSERTION",
+                  "topics": [
+                    "3d-printing",
+                    "adafruit",
+                    "awesome",
+                    "awesome-list",
+                    "circuitpython",
+                    "macropad",
+                    "macros",
+                    "rp2040"
+                  ],
+                  "updated": "2026-07-02T01:24:22Z",
+                  "pushed": "2026-03-27T19:04:05Z",
                   "awesome": true,
                   "path": [
                     "Python",
@@ -32609,13 +32673,22 @@
               "parentId": "root-programming-languages-python-circuitpython"
             }
           ],
-          "stars": 0,
-          "forks": 0,
+          "stars": 734,
+          "forks": 72,
           "language": null,
           "license": null,
-          "topics": [],
-          "updated": null,
-          "pushed": null,
+          "topics": [
+            "adafruit",
+            "awesome",
+            "awesome-list",
+            "circuitpython",
+            "embedded",
+            "iot",
+            "micropython",
+            "python"
+          ],
+          "updated": "2026-07-02T14:37:19Z",
+          "pushed": "2025-07-21T21:15:02Z",
           "awesome": true,
           "readmeStatus": "expanded",
           "path": [
@@ -33835,7 +33908,7 @@
               "parentId": "root-programming-languages-python-data-science"
             }
           ],
-          "stars": 3477,
+          "stars": 3485,
           "forks": 450,
           "language": null,
           "license": "CC-BY-4.0",
@@ -33852,7 +33925,7 @@
             "scikit-learn",
             "statistics"
           ],
-          "updated": "2026-06-27T15:59:07Z",
+          "updated": "2026-07-05T05:31:53Z",
           "pushed": "2026-04-13T07:15:05Z",
           "awesome": true,
           "readmeStatus": "expanded",
@@ -37929,8 +38002,8 @@
                   "sourceRepo": "typeddjango/awesome-python-typing",
                   "depth": 3,
                   "children": [],
-                  "stars": 305195,
-                  "forks": 28164,
+                  "stars": 306357,
+                  "forks": 28218,
                   "language": "Python",
                   "license": "NOASSERTION",
                   "topics": [
@@ -37941,8 +38014,8 @@
                     "python-libraries",
                     "python-tools"
                   ],
-                  "updated": "2026-06-28T10:06:59Z",
-                  "pushed": "2026-06-26T08:02:49Z",
+                  "updated": "2026-07-05T05:59:56Z",
+                  "pushed": "2026-07-01T06:52:30Z",
                   "awesome": true,
                   "path": [
                     "Python",
@@ -38023,8 +38096,8 @@
               "parentId": "root-programming-languages-python-typing"
             }
           ],
-          "stars": 1967,
-          "forks": 78,
+          "stars": 1962,
+          "forks": 77,
           "language": null,
           "license": "CC-BY-SA-4.0",
           "topics": [
@@ -38039,7 +38112,7 @@
             "python-stubs",
             "python-types"
           ],
-          "updated": "2026-06-27T19:03:44Z",
+          "updated": "2026-07-05T02:38:16Z",
           "pushed": "2026-06-19T06:03:10Z",
           "awesome": true,
           "readmeStatus": "expanded",
@@ -41709,8 +41782,8 @@
               "parentId": "root-programming-languages-python-micropython"
             }
           ],
-          "stars": 1789,
-          "forks": 218,
+          "stars": 1788,
+          "forks": 219,
           "language": "HTML",
           "license": "CC0-1.0",
           "topics": [
@@ -41719,7 +41792,7 @@
             "collection",
             "micropython"
           ],
-          "updated": "2026-06-27T11:20:20Z",
+          "updated": "2026-07-04T13:41:51Z",
           "pushed": "2026-03-19T02:59:06Z",
           "awesome": true,
           "readmeStatus": "expanded",
@@ -45913,7 +45986,7 @@
                           "sourceRepo": "vinta/awesome-python",
                           "depth": 5,
                           "children": [],
-                          "stars": 11155,
+                          "stars": 11152,
                           "forks": 1464,
                           "language": "Python",
                           "license": "CC0-1.0",
@@ -45922,7 +45995,7 @@
                             "awesome-list",
                             "django"
                           ],
-                          "updated": "2026-06-28T09:23:17Z",
+                          "updated": "2026-07-05T00:52:18Z",
                           "pushed": "2026-06-25T14:47:09Z",
                           "awesome": true,
                           "path": [
@@ -45984,7 +46057,7 @@
                             "flask",
                             "flask-resources"
                           ],
-                          "updated": "2026-06-25T20:33:43Z",
+                          "updated": "2026-07-05T00:54:06Z",
                           "pushed": "2024-08-18T10:42:06Z",
                           "awesome": true,
                           "path": [
@@ -46032,18 +46105,18 @@
                           "kind": "repo",
                           "repo": "uralbash/awesome-pyramid",
                           "url": "https://github.com/uralbash/awesome-pyramid",
-                          "description": "",
+                          "description": "A curated list of awesome Pyramid apps, projects and resources.",
                           "external": false,
                           "sourceRepo": "vinta/awesome-python",
                           "depth": 5,
                           "children": [],
-                          "stars": 0,
-                          "forks": 0,
+                          "stars": 574,
+                          "forks": 56,
                           "language": null,
                           "license": null,
                           "topics": [],
-                          "updated": null,
-                          "pushed": null,
+                          "updated": "2026-07-05T00:55:50Z",
+                          "pushed": "2021-07-08T12:28:10Z",
                           "awesome": true,
                           "path": [
                             "Python",
@@ -46090,18 +46163,23 @@
                           "kind": "repo",
                           "repo": "amosgyamfi/awesome-fasthtml",
                           "url": "https://github.com/amosgyamfi/awesome-fasthtml",
-                          "description": "",
+                          "description": "Awesome and Best FastHTML Resources For Python Developers",
                           "external": false,
                           "sourceRepo": "vinta/awesome-python",
                           "depth": 5,
                           "children": [],
-                          "stars": 0,
-                          "forks": 0,
-                          "language": null,
+                          "stars": 82,
+                          "forks": 8,
+                          "language": "Python",
                           "license": null,
-                          "topics": [],
-                          "updated": null,
-                          "pushed": null,
+                          "topics": [
+                            "fasthtml",
+                            "htmx",
+                            "python",
+                            "python3"
+                          ],
+                          "updated": "2026-05-26T05:41:10Z",
+                          "pushed": "2024-09-08T18:40:33Z",
                           "awesome": true,
                           "path": [
                             "Python",
@@ -48871,7 +48949,7 @@
                           "sourceRepo": "vinta/awesome-python",
                           "depth": 5,
                           "children": [],
-                          "stars": 3048,
+                          "stars": 3049,
                           "forks": 165,
                           "language": "Python",
                           "license": null,
@@ -48885,7 +48963,7 @@
                             "rdbms",
                             "sqlalchemy"
                           ],
-                          "updated": "2026-06-18T03:27:29Z",
+                          "updated": "2026-07-01T13:01:21Z",
                           "pushed": "2026-06-08T08:36:57Z",
                           "awesome": true,
                           "path": [
@@ -52723,7 +52801,7 @@
                       "sourceRepo": "vinta/awesome-python",
                       "depth": 4,
                       "children": [],
-                      "stars": 4633,
+                      "stars": 4636,
                       "forks": 462,
                       "language": null,
                       "license": "CC-BY-SA-4.0",
@@ -52742,8 +52820,8 @@
                         "python",
                         "visualization"
                       ],
-                      "updated": "2026-06-27T01:38:43Z",
-                      "pushed": "2026-06-28T00:15:27Z",
+                      "updated": "2026-07-04T09:25:53Z",
+                      "pushed": "2026-07-05T00:14:38Z",
                       "awesome": true,
                       "path": [
                         "Python",
@@ -53045,18 +53123,29 @@
                           "kind": "repo",
                           "repo": "dmytrolitvinov/awesome-flake8-extensions",
                           "url": "https://github.com/dmytrolitvinov/awesome-flake8-extensions",
-                          "description": "",
+                          "description": ":octocat: A curated awesome list of flake8 extensions. Feel free to contribute! :mortar_board:",
                           "external": false,
                           "sourceRepo": "vinta/awesome-python",
                           "depth": 5,
                           "children": [],
-                          "stars": 0,
-                          "forks": 0,
+                          "stars": 1276,
+                          "forks": 52,
                           "language": null,
-                          "license": null,
-                          "topics": [],
-                          "updated": null,
-                          "pushed": null,
+                          "license": "NOASSERTION",
+                          "topics": [
+                            "awesome",
+                            "awesome-list",
+                            "code-quality",
+                            "collections",
+                            "flake8",
+                            "flake8-extensions",
+                            "flake8-plugins",
+                            "hacktoberfest",
+                            "hacktoberfest-accepted",
+                            "python"
+                          ],
+                          "updated": "2026-07-03T12:06:07Z",
+                          "pushed": "2026-06-19T06:08:53Z",
                           "awesome": true,
                           "path": [
                             "Python",
@@ -53603,18 +53692,26 @@
                           "kind": "repo",
                           "repo": "augustogoulart/awesome-pytest",
                           "url": "https://github.com/augustogoulart/awesome-pytest",
-                          "description": "",
+                          "description": "A curated list of awesome pytest resources",
                           "external": false,
                           "sourceRepo": "vinta/awesome-python",
                           "depth": 5,
                           "children": [],
-                          "stars": 0,
-                          "forks": 0,
+                          "stars": 570,
+                          "forks": 64,
                           "language": null,
                           "license": null,
-                          "topics": [],
-                          "updated": null,
-                          "pushed": null,
+                          "topics": [
+                            "awesome",
+                            "digitalocean",
+                            "hacktoberfest",
+                            "open-source",
+                            "pytest",
+                            "python",
+                            "testing"
+                          ],
+                          "updated": "2026-07-05T00:13:52Z",
+                          "pushed": "2026-06-24T17:41:32Z",
                           "awesome": true,
                           "path": [
                             "Python",
@@ -55141,18 +55238,27 @@
                       "kind": "repo",
                       "repo": "ygzgxyz/awesome-sphinxdoc",
                       "url": "https://github.com/ygzgxyz/awesome-sphinxdoc",
-                      "description": "",
+                      "description": "Awesome Sphinxdoc is a curated collection of valuable resources for Sphinx",
                       "external": false,
                       "sourceRepo": "vinta/awesome-python",
                       "depth": 4,
                       "children": [],
-                      "stars": 0,
-                      "forks": 0,
-                      "language": null,
-                      "license": null,
-                      "topics": [],
-                      "updated": null,
-                      "pushed": null,
+                      "stars": 975,
+                      "forks": 76,
+                      "language": "HTML",
+                      "license": "NOASSERTION",
+                      "topics": [
+                        "awesome",
+                        "awesome-list",
+                        "documentation",
+                        "python",
+                        "sphinx",
+                        "sphinx-doc",
+                        "sphinx-documentation",
+                        "sphinx-extension"
+                      ],
+                      "updated": "2026-06-06T12:50:26Z",
+                      "pushed": "2025-10-07T13:10:32Z",
                       "awesome": true,
                       "path": [
                         "Python",
@@ -61412,7 +61518,7 @@
                       "sourceRepo": "vinta/awesome-python",
                       "depth": 4,
                       "children": [],
-                      "stars": 5088,
+                      "stars": 5089,
                       "forks": 356,
                       "language": null,
                       "license": "NOASSERTION",
@@ -61425,7 +61531,7 @@
                         "python",
                         "python-asyncio"
                       ],
-                      "updated": "2026-06-27T10:47:25Z",
+                      "updated": "2026-07-05T02:47:40Z",
                       "pushed": "2025-12-01T14:19:00Z",
                       "awesome": true,
                       "path": [
@@ -63543,8 +63649,8 @@
           "parentId": "root-programming-languages-python"
         }
       ],
-      "stars": 305195,
-      "forks": 28164,
+      "stars": 306357,
+      "forks": 28218,
       "language": "Python",
       "license": "NOASSERTION",
       "topics": [
@@ -63555,8 +63661,8 @@
         "python-libraries",
         "python-tools"
       ],
-      "updated": "2026-06-28T10:06:59Z",
-      "pushed": "2026-06-26T08:02:49Z",
+      "updated": "2026-07-05T05:59:56Z",
+      "pushed": "2026-07-01T06:52:30Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -64960,13 +65066,22 @@
               "parentId": "root-programming-languages-rust-pest"
             }
           ],
-          "stars": 0,
-          "forks": 0,
+          "stars": 145,
+          "forks": 11,
           "language": null,
-          "license": null,
-          "topics": [],
-          "updated": null,
-          "pushed": null,
+          "license": "CC0-1.0",
+          "topics": [
+            "awesome",
+            "awesome-list",
+            "awesome-lists",
+            "list",
+            "parsing",
+            "peg",
+            "pest",
+            "rust"
+          ],
+          "updated": "2026-06-02T18:51:27Z",
+          "pushed": "2025-10-11T09:12:45Z",
           "awesome": true,
           "readmeStatus": "expanded",
           "path": [
@@ -67556,16 +67671,16 @@
           "parentId": "root-programming-languages-rust"
         }
       ],
-      "stars": 58050,
-      "forks": 3442,
+      "stars": 58165,
+      "forks": 3460,
       "language": "Rust",
       "license": "CC0-1.0",
       "topics": [
         "awesome",
         "rust"
       ],
-      "updated": "2026-06-28T10:02:52Z",
-      "pushed": "2026-06-26T12:46:52Z",
+      "updated": "2026-07-05T05:46:47Z",
+      "pushed": "2026-07-02T20:25:30Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -68489,12 +68604,12 @@
           "parentId": "root-programming-languages-haskell"
         }
       ],
-      "stars": 3283,
+      "stars": 3284,
       "forks": 175,
       "language": "Haskell",
       "license": null,
       "topics": [],
-      "updated": "2026-06-28T07:27:51Z",
+      "updated": "2026-07-05T01:30:18Z",
       "pushed": "2023-04-13T20:54:30Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -68509,7 +68624,7 @@
       "kind": "repo",
       "repo": "passy/awesome-purescript",
       "url": "https://github.com/passy/awesome-purescript",
-      "description": "",
+      "description": "A curation of awesome PureScript libraries, resources and shiny things.",
       "external": false,
       "sourceRepo": "sindresorhus/awesome",
       "depth": 1,
@@ -70805,13 +70920,18 @@
           "parentId": "root-programming-languages-purescript"
         }
       ],
-      "stars": 0,
-      "forks": 0,
+      "stars": 483,
+      "forks": 23,
       "language": null,
       "license": null,
-      "topics": [],
-      "updated": null,
-      "pushed": null,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "list",
+        "purescript"
+      ],
+      "updated": "2026-06-27T10:57:39Z",
+      "pushed": "2022-11-30T07:57:32Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -150855,13 +150975,13 @@
               "sourceRepo": "avelino/awesome-go",
               "depth": 2,
               "children": [],
-              "stars": 0,
-              "forks": 0,
+              "stars": 524,
+              "forks": 28,
               "language": null,
-              "license": null,
+              "license": "MIT",
               "topics": [],
-              "updated": null,
-              "pushed": null,
+              "updated": "2026-06-23T21:45:10Z",
+              "pushed": "2021-07-13T14:14:28Z",
               "awesome": true,
               "path": [
                 "Go",
@@ -150881,8 +151001,8 @@
               "sourceRepo": "avelino/awesome-go",
               "depth": 2,
               "children": [],
-              "stars": 46538,
-              "forks": 4652,
+              "stars": 46589,
+              "forks": 4665,
               "language": null,
               "license": null,
               "topics": [
@@ -150890,7 +151010,7 @@
                 "awesome-list",
                 "list"
               ],
-              "updated": "2026-06-28T09:27:14Z",
+              "updated": "2026-07-05T04:31:02Z",
               "pushed": "2026-05-08T22:48:54Z",
               "awesome": true,
               "path": [
@@ -150911,12 +151031,12 @@
               "sourceRepo": "avelino/awesome-go",
               "depth": 2,
               "children": [],
-              "stars": 33509,
-              "forks": 3605,
+              "stars": 33530,
+              "forks": 3604,
               "language": "Ruby",
               "license": null,
               "topics": [],
-              "updated": "2026-06-28T09:45:17Z",
+              "updated": "2026-07-04T19:59:57Z",
               "pushed": "2024-06-02T22:46:41Z",
               "awesome": true,
               "path": [
@@ -150937,13 +151057,13 @@
               "sourceRepo": "avelino/awesome-go",
               "depth": 2,
               "children": [],
-              "stars": 0,
-              "forks": 0,
-              "language": null,
-              "license": null,
+              "stars": 27,
+              "forks": 5,
+              "language": "Go",
+              "license": "MIT",
               "topics": [],
-              "updated": null,
-              "pushed": null,
+              "updated": "2026-02-27T12:00:21Z",
+              "pushed": "2022-08-25T21:12:44Z",
               "awesome": true,
               "path": [
                 "Go",
@@ -153121,8 +153241,8 @@
           "parentId": "root-programming-languages-go"
         }
       ],
-      "stars": 176596,
-      "forks": 13358,
+      "stars": 177182,
+      "forks": 13387,
       "language": "Go",
       "license": "MIT",
       "topics": [
@@ -153133,8 +153253,8 @@
         "golang-library",
         "hacktoberfest"
       ],
-      "updated": "2026-06-28T10:25:40Z",
-      "pushed": "2026-06-28T04:33:31Z",
+      "updated": "2026-07-05T05:40:32Z",
+      "pushed": "2026-07-03T21:09:53Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -153510,13 +153630,18 @@
               "parentId": "root-programming-languages-scala-scala-native"
             }
           ],
-          "stars": 0,
-          "forks": 0,
+          "stars": 275,
+          "forks": 19,
           "language": null,
           "license": null,
-          "topics": [],
-          "updated": null,
-          "pushed": null,
+          "topics": [
+            "awesome",
+            "awesome-list",
+            "libraries",
+            "scala-native"
+          ],
+          "updated": "2026-06-01T20:20:35Z",
+          "pushed": "2025-06-05T10:35:07Z",
           "awesome": true,
           "readmeStatus": "expanded",
           "path": [
@@ -154604,7 +154729,7 @@
           "parentId": "root-programming-languages-scala"
         }
       ],
-      "stars": 9227,
+      "stars": 9226,
       "forks": 1261,
       "language": "Python",
       "license": "Apache-2.0",
@@ -154615,7 +154740,7 @@
         "scala-library",
         "scalajs"
       ],
-      "updated": "2026-06-27T10:57:56Z",
+      "updated": "2026-07-03T05:55:19Z",
       "pushed": "2024-09-20T08:21:10Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -157122,8 +157247,8 @@
           "parentId": "root-programming-languages-ruby"
         }
       ],
-      "stars": 14095,
-      "forks": 1758,
+      "stars": 14097,
+      "forks": 1760,
       "language": null,
       "license": null,
       "topics": [
@@ -157134,8 +157259,8 @@
         "ruby",
         "ruby-libraries"
       ],
-      "updated": "2026-06-25T20:27:49Z",
-      "pushed": "2026-06-23T10:29:03Z",
+      "updated": "2026-07-04T16:07:36Z",
+      "pushed": "2026-07-03T08:00:56Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -158389,8 +158514,8 @@
           "parentId": "root-programming-languages-clojure"
         }
       ],
-      "stars": 2825,
-      "forks": 217,
+      "stars": 2826,
+      "forks": 216,
       "language": "Clojure",
       "license": null,
       "topics": [
@@ -158398,7 +158523,7 @@
         "clojure",
         "hacktoberfest"
       ],
-      "updated": "2026-06-21T14:36:22Z",
+      "updated": "2026-07-03T05:38:01Z",
       "pushed": "2026-04-07T14:27:20Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -158413,7 +158538,7 @@
       "kind": "repo",
       "repo": "hantuzun/awesome-clojurescript",
       "url": "https://github.com/hantuzun/awesome-clojurescript",
-      "description": "",
+      "description": "A community driven list of ClojureScript frameworks, libraries and wrappers.",
       "external": false,
       "sourceRepo": "sindresorhus/awesome",
       "depth": 1,
@@ -163108,13 +163233,29 @@
           "parentId": "root-programming-languages-clojurescript"
         }
       ],
-      "stars": 0,
-      "forks": 0,
+      "stars": 1086,
+      "forks": 61,
       "language": null,
-      "license": null,
-      "topics": [],
-      "updated": null,
-      "pushed": null,
+      "license": "CC0-1.0",
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "clj",
+        "clojure",
+        "clojurescript",
+        "clojurescript-developers",
+        "clojurescript-frameworks",
+        "clojurescript-library",
+        "clojurescript-wrapper",
+        "data-visualization",
+        "hiccup",
+        "javascript",
+        "list",
+        "react",
+        "reagent"
+      ],
+      "updated": "2026-06-27T10:59:20Z",
+      "pushed": "2024-03-10T22:26:15Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -165224,12 +165365,12 @@
           "parentId": "root-programming-languages-elixir"
         }
       ],
-      "stars": 13147,
-      "forks": 1187,
+      "stars": 13149,
+      "forks": 1189,
       "language": "Elixir",
       "license": "MIT",
       "topics": [],
-      "updated": "2026-06-27T01:27:55Z",
+      "updated": "2026-07-04T20:20:53Z",
       "pushed": "2025-10-12T18:06:13Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -166361,7 +166502,7 @@
       "kind": "repo",
       "repo": "drobakowski/awesome-erlang",
       "url": "https://github.com/drobakowski/awesome-erlang",
-      "description": "",
+      "description": "A curated list of awesome Erlang libraries, resources and shiny things.",
       "external": false,
       "sourceRepo": "sindresorhus/awesome",
       "depth": 1,
@@ -167137,13 +167278,19 @@
           "parentId": "root-programming-languages-erlang"
         }
       ],
-      "stars": 0,
-      "forks": 0,
+      "stars": 1704,
+      "forks": 208,
       "language": null,
       "license": null,
-      "topics": [],
-      "updated": null,
-      "pushed": null,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "erlang",
+        "erlang-library",
+        "lists"
+      ],
+      "updated": "2026-06-30T19:09:10Z",
+      "pushed": "2022-11-17T23:40:26Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -169725,7 +169872,7 @@
                       "sourceRepo": "lewisjellis/awesome-lua",
                       "depth": 4,
                       "children": [],
-                      "stars": 4418,
+                      "stars": 4428,
                       "forks": 242,
                       "language": "PowerShell",
                       "license": "CC0-1.0",
@@ -169736,7 +169883,7 @@
                         "love2d",
                         "lua"
                       ],
-                      "updated": "2026-06-27T16:58:18Z",
+                      "updated": "2026-07-04T20:05:04Z",
                       "pushed": "2026-06-18T20:27:08Z",
                       "awesome": true,
                       "path": [
@@ -170538,12 +170685,12 @@
                   "sourceRepo": "lewisjellis/awesome-lua",
                   "depth": 3,
                   "children": [],
-                  "stars": 2481,
+                  "stars": 2482,
                   "forks": 263,
                   "language": null,
                   "license": null,
                   "topics": [],
-                  "updated": "2026-06-25T09:59:14Z",
+                  "updated": "2026-07-04T11:49:37Z",
                   "pushed": "2026-05-26T11:49:23Z",
                   "awesome": true,
                   "path": [
@@ -174466,12 +174613,12 @@
           "parentId": "root-programming-languages-lua"
         }
       ],
-      "stars": 4526,
+      "stars": 4528,
       "forks": 344,
       "language": null,
       "license": null,
       "topics": [],
-      "updated": "2026-06-28T06:40:01Z",
+      "updated": "2026-07-03T17:38:58Z",
       "pushed": "2024-08-11T17:32:00Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -176054,8 +176201,8 @@
           "parentId": "root-programming-languages-c-c"
         }
       ],
-      "stars": 71995,
-      "forks": 8303,
+      "stars": 72092,
+      "forks": 8308,
       "language": null,
       "license": "MIT",
       "topics": [
@@ -176072,8 +176219,8 @@
         "programming-tutorial",
         "resources"
       ],
-      "updated": "2026-06-28T09:51:07Z",
-      "pushed": "2026-05-31T09:43:24Z",
+      "updated": "2026-07-05T05:51:31Z",
+      "pushed": "2026-07-03T23:03:10Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -176098,7 +176245,7 @@
           "kind": "repo",
           "repo": "iamericfletcher/awesome-r-learning-resources",
           "url": "https://github.com/iamericfletcher/awesome-r-learning-resources",
-          "description": "",
+          "description": "A curated collection of free resources to help deepen your understanding of the R programming language. Updated regularly. Contributions encouraged via pull request (see contributing.md).",
           "external": false,
           "sourceRepo": "sindresorhus/awesome",
           "depth": 2,
@@ -176647,13 +176794,19 @@
                       "sourceRepo": "iamericfletcher/awesome-r-learning-resources",
                       "depth": 4,
                       "children": [],
-                      "stars": 0,
-                      "forks": 0,
-                      "language": null,
-                      "license": null,
-                      "topics": [],
-                      "updated": null,
-                      "pushed": null,
+                      "stars": 866,
+                      "forks": 147,
+                      "language": "R",
+                      "license": "CC0-1.0",
+                      "topics": [
+                        "awesome",
+                        "awesome-list",
+                        "rshiny",
+                        "rstudio",
+                        "shiny"
+                      ],
+                      "updated": "2026-06-27T23:00:56Z",
+                      "pushed": "2022-10-07T09:07:26Z",
                       "awesome": true,
                       "path": [
                         "R",
@@ -177033,13 +177186,19 @@
                       "sourceRepo": "iamericfletcher/awesome-r-learning-resources",
                       "depth": 4,
                       "children": [],
-                      "stars": 0,
-                      "forks": 0,
+                      "stars": 1756,
+                      "forks": 179,
                       "language": null,
                       "license": null,
-                      "topics": [],
-                      "updated": null,
-                      "pushed": null,
+                      "topics": [
+                        "data-visualization",
+                        "geoms",
+                        "ggplot2",
+                        "ggplot2-themes",
+                        "scales"
+                      ],
+                      "updated": "2026-07-02T09:56:49Z",
+                      "pushed": "2026-06-24T20:22:26Z",
                       "awesome": true,
                       "path": [
                         "R",
@@ -180333,13 +180492,20 @@
               "parentId": "root-programming-languages-r-learning"
             }
           ],
-          "stars": 0,
-          "forks": 0,
+          "stars": 649,
+          "forks": 105,
           "language": null,
-          "license": null,
-          "topics": [],
-          "updated": null,
-          "pushed": null,
+          "license": "CC0-1.0",
+          "topics": [
+            "awesome",
+            "awesome-list",
+            "data-science",
+            "learning-resources",
+            "r",
+            "resources"
+          ],
+          "updated": "2026-06-30T19:36:42Z",
+          "pushed": "2024-12-19T14:10:24Z",
           "awesome": true,
           "readmeStatus": "expanded",
           "path": [
@@ -181325,8 +181491,8 @@
           "parentId": "root-programming-languages-r"
         }
       ],
-      "stars": 6477,
-      "forks": 1513,
+      "stars": 6481,
+      "forks": 1514,
       "language": "R",
       "license": null,
       "topics": [
@@ -181338,7 +181504,7 @@
         "r",
         "rstats"
       ],
-      "updated": "2026-06-25T16:47:14Z",
+      "updated": "2026-07-04T18:31:51Z",
       "pushed": "2025-09-18T16:46:19Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -181353,7 +181519,7 @@
       "kind": "repo",
       "repo": "dlang-community/awesome-d",
       "url": "https://github.com/dlang-community/awesome-d",
-      "description": "",
+      "description": "  A curated list of awesome D documents, frameworks, libraries and software. Inspired by awesome-python.",
       "external": false,
       "sourceRepo": "sindresorhus/awesome",
       "depth": 1,
@@ -182441,13 +182607,15 @@
           "parentId": "root-programming-languages-d"
         }
       ],
-      "stars": 0,
-      "forks": 0,
-      "language": null,
+      "stars": 755,
+      "forks": 92,
+      "language": "D",
       "license": null,
-      "topics": [],
-      "updated": null,
-      "pushed": null,
+      "topics": [
+        "dlang"
+      ],
+      "updated": "2026-06-28T00:08:33Z",
+      "pushed": "2026-06-28T00:08:29Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -182472,7 +182640,7 @@
           "kind": "repo",
           "repo": "gustavbertram/awesome-common-lisp-learning",
           "url": "https://github.com/gustavbertram/awesome-common-lisp-learning",
-          "description": "",
+          "description": "A curated list of awesome Common Lisp learning resources",
           "external": false,
           "sourceRepo": "sindresorhus/awesome",
           "depth": 2,
@@ -184665,13 +184833,17 @@
               "parentId": "root-programming-languages-common-lisp-learning"
             }
           ],
-          "stars": 0,
-          "forks": 0,
+          "stars": 240,
+          "forks": 14,
           "language": null,
-          "license": null,
-          "topics": [],
-          "updated": null,
-          "pushed": null,
+          "license": "CC-BY-4.0",
+          "topics": [
+            "awesome",
+            "awesome-list",
+            "common-lisp"
+          ],
+          "updated": "2026-06-27T11:01:00Z",
+          "pushed": "2023-10-04T12:25:11Z",
           "awesome": true,
           "readmeStatus": "expanded",
           "path": [
@@ -187782,8 +187954,8 @@
           "parentId": "root-programming-languages-common-lisp"
         }
       ],
-      "stars": 2950,
-      "forks": 217,
+      "stars": 2951,
+      "forks": 216,
       "language": "Makefile",
       "license": "NOASSERTION",
       "topics": [
@@ -187794,7 +187966,7 @@
         "lisp",
         "quicklisp"
       ],
-      "updated": "2026-06-28T09:21:04Z",
+      "updated": "2026-07-03T21:24:40Z",
       "pushed": "2026-06-28T09:21:00Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -187809,7 +187981,7 @@
       "kind": "repo",
       "repo": "hachiojipm/awesome-perl",
       "url": "https://github.com/hachiojipm/awesome-perl",
-      "description": "",
+      "description": "A curated list of awesome Perl frameworks and libraries. Come on Pull Requests!",
       "external": false,
       "sourceRepo": "sindresorhus/awesome",
       "depth": 1,
@@ -189036,13 +189208,13 @@
           "parentId": "root-programming-languages-perl"
         }
       ],
-      "stars": 0,
-      "forks": 0,
-      "language": null,
-      "license": null,
+      "stars": 706,
+      "forks": 102,
+      "language": "Perl",
+      "license": "MIT",
       "topics": [],
-      "updated": null,
-      "pushed": null,
+      "updated": "2026-06-27T11:01:37Z",
+      "pushed": "2024-08-07T13:32:26Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -189056,7 +189228,7 @@
       "kind": "repo",
       "repo": "kdabir/awesome-groovy",
       "url": "https://github.com/kdabir/awesome-groovy",
-      "description": "",
+      "description": "A curated list of awesome groovy libraries, frameworks and resources",
       "external": false,
       "sourceRepo": "sindresorhus/awesome",
       "depth": 1,
@@ -189636,13 +189808,18 @@
           "parentId": "root-programming-languages-groovy"
         }
       ],
-      "stars": 0,
-      "forks": 0,
-      "language": null,
-      "license": null,
-      "topics": [],
-      "updated": null,
-      "pushed": null,
+      "stars": 739,
+      "forks": 102,
+      "language": "Groovy",
+      "license": "MIT",
+      "topics": [
+        "awesome",
+        "groovy",
+        "language",
+        "list"
+      ],
+      "updated": "2026-06-27T11:01:44Z",
+      "pushed": "2024-10-26T11:25:42Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -190212,7 +190389,7 @@
           "parentId": "root-programming-languages-dart"
         }
       ],
-      "stars": 2483,
+      "stars": 2484,
       "forks": 217,
       "language": null,
       "license": null,
@@ -190223,7 +190400,7 @@
         "dart-frameworks",
         "list"
       ],
-      "updated": "2026-06-23T22:02:54Z",
+      "updated": "2026-07-02T21:09:32Z",
       "pushed": "2026-05-24T14:40:26Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -190249,7 +190426,7 @@
           "kind": "repo",
           "repo": "eleventigers/awesome-rxjava",
           "url": "https://github.com/eleventigers/awesome-rxjava",
-          "description": "",
+          "description": "Useful resources for working with RxJava",
           "external": false,
           "sourceRepo": "sindresorhus/awesome",
           "depth": 2,
@@ -190416,13 +190593,20 @@
               "parentId": "root-programming-languages-java-rxjava"
             }
           ],
-          "stars": 0,
-          "forks": 0,
+          "stars": 307,
+          "forks": 30,
           "language": null,
           "license": null,
-          "topics": [],
-          "updated": null,
-          "pushed": null,
+          "topics": [
+            "android",
+            "awesome",
+            "awesome-list",
+            "java",
+            "lists",
+            "rxjava"
+          ],
+          "updated": "2026-06-27T11:01:59Z",
+          "pushed": "2019-01-09T23:16:56Z",
           "awesome": true,
           "readmeStatus": "expanded",
           "path": [
@@ -192028,13 +192212,34 @@
                   "sourceRepo": "hstsethi/awesome-j2me",
                   "depth": 3,
                   "children": [],
-                  "stars": 0,
-                  "forks": 0,
-                  "language": null,
-                  "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
+                  "stars": 125,
+                  "forks": 6,
+                  "language": "Java",
+                  "license": "CC0-1.0",
+                  "topics": [
+                    "awesome",
+                    "awesome-list",
+                    "cpp",
+                    "eikon",
+                    "epoc",
+                    "flash",
+                    "flash-lite",
+                    "hacktoberfest",
+                    "j2me",
+                    "midp",
+                    "n-gage",
+                    "ngage",
+                    "nokia",
+                    "qt",
+                    "s40",
+                    "s60",
+                    "sony-ericsson",
+                    "symbian",
+                    "symbiancpp",
+                    "uiq"
+                  ],
+                  "updated": "2026-07-01T16:07:21Z",
+                  "pushed": "2026-05-17T09:58:48Z",
                   "awesome": true,
                   "path": [
                     "Java",
@@ -192955,13 +193160,34 @@
               "parentId": "root-programming-languages-java-j2me"
             }
           ],
-          "stars": 0,
-          "forks": 0,
-          "language": null,
-          "license": null,
-          "topics": [],
-          "updated": null,
-          "pushed": null,
+          "stars": 383,
+          "forks": 13,
+          "language": "Java",
+          "license": "CC0-1.0",
+          "topics": [
+            "awesome",
+            "awesome-list",
+            "cldc",
+            "dumbphone",
+            "hacktoberfest",
+            "j2me",
+            "j2me-emulator",
+            "j2me-platform",
+            "java",
+            "java-platform",
+            "javame",
+            "keypad",
+            "midlet",
+            "midp",
+            "nokia",
+            "resources",
+            "retrogaming",
+            "s40",
+            "samsung",
+            "symbian"
+          ],
+          "updated": "2026-06-30T20:52:27Z",
+          "pushed": "2026-06-08T11:06:02Z",
           "awesome": true,
           "readmeStatus": "expanded",
           "path": [
@@ -217522,18 +217748,23 @@
                   "kind": "repo",
                   "repo": "gunnarmorling/awesome-annotation-processing",
                   "url": "https://github.com/gunnarmorling/awesome-annotation-processing",
-                  "description": "",
+                  "description": "A curated list of resources related to the Java annotation processing API (JSR 269)",
                   "external": false,
                   "sourceRepo": "akullpp/awesome-java",
                   "depth": 3,
                   "children": [],
-                  "stars": 0,
-                  "forks": 0,
+                  "stars": 538,
+                  "forks": 50,
                   "language": null,
-                  "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
+                  "license": "NOASSERTION",
+                  "topics": [
+                    "annotation-processing",
+                    "annotation-processor",
+                    "awesome-list",
+                    "java"
+                  ],
+                  "updated": "2026-06-01T11:23:20Z",
+                  "pushed": "2024-11-16T12:02:19Z",
                   "awesome": true,
                   "path": [
                     "Java",
@@ -217549,18 +217780,39 @@
                   "kind": "repo",
                   "repo": "neomatrix369/awesome-graal",
                   "url": "https://github.com/neomatrix369/awesome-graal",
-                  "description": "",
+                  "description": "A curated list of awesome resources for Graal, GraalVM, Truffle and related topics",
                   "external": false,
                   "sourceRepo": "akullpp/awesome-java",
                   "depth": 3,
                   "children": [],
-                  "stars": 0,
-                  "forks": 0,
-                  "language": null,
-                  "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
+                  "stars": 369,
+                  "forks": 28,
+                  "language": "Shell",
+                  "license": "NOASSERTION",
+                  "topics": [
+                    "aot",
+                    "ast",
+                    "fastr",
+                    "graal",
+                    "graalvm",
+                    "graalvm-updater",
+                    "hacktoberfest",
+                    "high-performance",
+                    "interpreter",
+                    "jit",
+                    "jruby",
+                    "jvm-languages",
+                    "languages",
+                    "llvm",
+                    "machine-code",
+                    "optimised",
+                    "polyglot",
+                    "sulong",
+                    "truffle",
+                    "truffleruby"
+                  ],
+                  "updated": "2026-05-16T08:19:48Z",
+                  "pushed": "2023-02-15T18:09:31Z",
                   "awesome": true,
                   "path": [
                     "Java",
@@ -217576,18 +217828,22 @@
                   "kind": "repo",
                   "repo": "ksoichiro/awesome-gradle",
                   "url": "https://github.com/ksoichiro/awesome-gradle",
-                  "description": "",
+                  "description": "A curated list of awesome Gradle plugins and resources for a better development workflow automation.",
                   "external": false,
                   "sourceRepo": "akullpp/awesome-java",
                   "depth": 3,
                   "children": [],
-                  "stars": 0,
-                  "forks": 0,
+                  "stars": 486,
+                  "forks": 47,
                   "language": null,
                   "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
+                  "topics": [
+                    "awesome",
+                    "awesome-list",
+                    "gradle"
+                  ],
+                  "updated": "2026-05-19T19:06:52Z",
+                  "pushed": "2023-10-08T12:49:58Z",
                   "awesome": true,
                   "path": [
                     "Java",
@@ -217630,18 +217886,39 @@
                   "kind": "repo",
                   "repo": "hstsethi/awesome-j2me",
                   "url": "https://github.com/hstsethi/awesome-j2me",
-                  "description": "",
+                  "description": "Awesome list about everything related to J2ME. Documentation, academic papers, tutorials, communities, IDEs, SDKs, emulators, apps, video games.",
                   "external": false,
                   "sourceRepo": "akullpp/awesome-java",
                   "depth": 3,
                   "children": [],
-                  "stars": 0,
-                  "forks": 0,
-                  "language": null,
-                  "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
+                  "stars": 383,
+                  "forks": 13,
+                  "language": "Java",
+                  "license": "CC0-1.0",
+                  "topics": [
+                    "awesome",
+                    "awesome-list",
+                    "cldc",
+                    "dumbphone",
+                    "hacktoberfest",
+                    "j2me",
+                    "j2me-emulator",
+                    "j2me-platform",
+                    "java",
+                    "java-platform",
+                    "javame",
+                    "keypad",
+                    "midlet",
+                    "midp",
+                    "nokia",
+                    "resources",
+                    "retrogaming",
+                    "s40",
+                    "samsung",
+                    "symbian"
+                  ],
+                  "updated": "2026-06-30T20:52:27Z",
+                  "pushed": "2026-06-08T11:06:02Z",
                   "awesome": true,
                   "path": [
                     "Java",
@@ -217662,8 +217939,8 @@
                   "sourceRepo": "akullpp/awesome-java",
                   "depth": 3,
                   "children": [],
-                  "stars": 3359,
-                  "forks": 459,
+                  "stars": 3363,
+                  "forks": 457,
                   "language": null,
                   "license": "NOASSERTION",
                   "topics": [
@@ -217674,7 +217951,7 @@
                     "javafx-frameworks",
                     "javafx-library"
                   ],
-                  "updated": "2026-06-20T08:07:27Z",
+                  "updated": "2026-07-05T02:10:47Z",
                   "pushed": "2026-05-18T18:22:15Z",
                   "awesome": true,
                   "path": [
@@ -217723,8 +218000,8 @@
                   "sourceRepo": "akullpp/awesome-java",
                   "depth": 3,
                   "children": [],
-                  "stars": 14392,
-                  "forks": 1851,
+                  "stars": 14395,
+                  "forks": 1854,
                   "language": null,
                   "license": "CC0-1.0",
                   "topics": [
@@ -217734,7 +218011,7 @@
                     "microservices",
                     "microservices-architecture"
                   ],
-                  "updated": "2026-06-28T07:47:05Z",
+                  "updated": "2026-07-04T20:17:37Z",
                   "pushed": "2026-06-10T15:05:12Z",
                   "awesome": true,
                   "path": [
@@ -217757,14 +218034,14 @@
                   "depth": 3,
                   "children": [],
                   "stars": 3896,
-                  "forks": 445,
+                  "forks": 444,
                   "language": null,
                   "license": "CC0-1.0",
                   "topics": [
                     "awesome",
                     "rest"
                   ],
-                  "updated": "2026-06-28T02:34:31Z",
+                  "updated": "2026-07-03T17:28:44Z",
                   "pushed": "2026-05-13T08:22:14Z",
                   "awesome": true,
                   "path": [
@@ -217781,18 +218058,22 @@
                   "kind": "repo",
                   "repo": "christian-bromann/awesome-selenium",
                   "url": "https://github.com/christian-bromann/awesome-selenium",
-                  "description": "",
+                  "description": "A curated list of delightful Selenium resources.",
                   "external": false,
                   "sourceRepo": "akullpp/awesome-java",
                   "depth": 3,
                   "children": [],
-                  "stars": 0,
-                  "forks": 0,
+                  "stars": 1130,
+                  "forks": 172,
                   "language": null,
-                  "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
+                  "license": "CC0-1.0",
+                  "topics": [
+                    "awesome",
+                    "awesome-list",
+                    "list"
+                  ],
+                  "updated": "2026-07-04T15:29:59Z",
+                  "pushed": "2026-03-17T19:57:25Z",
                   "awesome": true,
                   "path": [
                     "Java",
@@ -220036,15 +220317,15 @@
           "parentId": "root-programming-languages-java"
         }
       ],
-      "stars": 48327,
-      "forks": 7689,
+      "stars": 48377,
+      "forks": 7690,
       "language": null,
       "license": "NOASSERTION",
       "topics": [
         "awesome",
         "awesome-list"
       ],
-      "updated": "2026-06-28T09:16:48Z",
+      "updated": "2026-07-05T05:56:07Z",
       "pushed": "2026-06-26T05:57:12Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -231587,7 +231868,7 @@
         }
       ],
       "stars": 3095,
-      "forks": 176,
+      "forks": 177,
       "language": null,
       "license": null,
       "topics": [
@@ -231596,7 +231877,7 @@
         "programming-language",
         "resources"
       ],
-      "updated": "2026-06-27T23:17:37Z",
+      "updated": "2026-07-03T06:37:48Z",
       "pushed": "2026-06-15T10:36:54Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -231611,7 +231892,7 @@
       "kind": "repo",
       "repo": "seancoyne/awesome-coldfusion",
       "url": "https://github.com/seancoyne/awesome-coldfusion",
-      "description": "",
+      "description": "A curated list of awesome ColdFusion frameworks, libraries and software.",
       "external": false,
       "sourceRepo": "sindresorhus/awesome",
       "depth": 1,
@@ -231903,13 +232184,17 @@
           "parentId": "root-programming-languages-coldfusion"
         }
       ],
-      "stars": 0,
-      "forks": 0,
+      "stars": 122,
+      "forks": 39,
       "language": null,
-      "license": null,
-      "topics": [],
-      "updated": null,
-      "pushed": null,
+      "license": "NOASSERTION",
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "list"
+      ],
+      "updated": "2026-06-27T11:02:30Z",
+      "pushed": "2021-12-29T14:53:49Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -231923,7 +232208,7 @@
       "kind": "repo",
       "repo": "rabbiabram/awesome-fortran",
       "url": "https://github.com/rabbiabram/awesome-fortran",
-      "description": "",
+      "description": "Awesome list of Fortran libs",
       "external": false,
       "sourceRepo": "sindresorhus/awesome",
       "depth": 1,
@@ -232347,13 +232632,13 @@
           "parentId": "root-programming-languages-fortran"
         }
       ],
-      "stars": 0,
-      "forks": 0,
+      "stars": 411,
+      "forks": 61,
       "language": null,
-      "license": null,
+      "license": "MIT",
       "topics": [],
-      "updated": null,
-      "pushed": null,
+      "updated": "2026-07-02T15:15:05Z",
+      "pushed": "2026-07-02T15:12:44Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -237598,13 +237883,26 @@
               "parentId": "root-programming-languages-php-composer"
             }
           ],
-          "stars": 0,
-          "forks": 0,
+          "stars": 905,
+          "forks": 60,
           "language": null,
-          "license": null,
-          "topics": [],
-          "updated": null,
-          "pushed": null,
+          "license": "CC0-1.0",
+          "topics": [
+            "awesome",
+            "awesome-list",
+            "composer",
+            "composer-best-practices",
+            "composer-installers",
+            "composer-packages",
+            "composer-plugin",
+            "composer-tutorial",
+            "dependency-manager",
+            "list",
+            "packagist",
+            "php"
+          ],
+          "updated": "2026-06-25T15:04:45Z",
+          "pushed": "2026-06-25T15:04:17Z",
           "awesome": true,
           "readmeStatus": "expanded",
           "path": [
@@ -239418,8 +239716,8 @@
           "parentId": "root-programming-languages-php"
         }
       ],
-      "stars": 32585,
-      "forks": 5137,
+      "stars": 32592,
+      "forks": 5138,
       "language": null,
       "license": "WTFPL",
       "topics": [
@@ -239431,7 +239729,7 @@
         "php-installation",
         "php-library"
       ],
-      "updated": "2026-06-27T14:33:55Z",
+      "updated": "2026-07-05T00:08:42Z",
       "pushed": "2026-06-10T08:57:56Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -241573,7 +241871,7 @@
           "parentId": "root-programming-languages-pascal"
         }
       ],
-      "stars": 2070,
+      "stars": 2069,
       "forks": 404,
       "language": "Pascal",
       "license": "CC0-1.0",
@@ -241586,7 +241884,7 @@
         "list",
         "pascal-language"
       ],
-      "updated": "2026-06-24T01:12:33Z",
+      "updated": "2026-07-01T09:15:53Z",
       "pushed": "2026-02-27T16:04:57Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -242949,12 +243247,12 @@
           "parentId": "root-programming-languages-autohotkey"
         }
       ],
-      "stars": 3044,
-      "forks": 279,
+      "stars": 3050,
+      "forks": 278,
       "language": null,
       "license": null,
       "topics": [],
-      "updated": "2026-06-26T20:35:33Z",
+      "updated": "2026-07-04T15:02:48Z",
       "pushed": "2023-01-24T23:51:33Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -242969,7 +243267,7 @@
       "kind": "repo",
       "repo": "j2team/awesome-autoit",
       "url": "https://github.com/j2team/awesome-autoit",
-      "description": "",
+      "description": ":star: A curated list of awesome UDFs, example scripts, tools and useful resources for AutoIt.",
       "external": false,
       "sourceRepo": "sindresorhus/awesome",
       "depth": 1,
@@ -251739,13 +252037,22 @@
           "parentId": "root-programming-languages-autoit"
         }
       ],
-      "stars": 0,
-      "forks": 0,
+      "stars": 923,
+      "forks": 167,
       "language": null,
       "license": null,
-      "topics": [],
-      "updated": null,
-      "pushed": null,
+      "topics": [
+        "autoit",
+        "autoit-script",
+        "awesome",
+        "awesome-list",
+        "list",
+        "programming-language",
+        "scripting-language",
+        "udf"
+      ],
+      "updated": "2026-06-27T11:03:48Z",
+      "pushed": "2022-08-21T12:04:57Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -253096,8 +253403,8 @@
         "list",
         "shards"
       ],
-      "updated": "2026-06-18T10:25:54Z",
-      "pushed": "2026-06-16T13:01:14Z",
+      "updated": "2026-07-04T19:57:16Z",
+      "pushed": "2026-07-02T19:56:56Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -253293,7 +253600,7 @@
           "parentId": "root-programming-languages-cmake"
         }
       ],
-      "stars": 5394,
+      "stars": 5397,
       "forks": 488,
       "language": null,
       "license": "NOASSERTION",
@@ -253308,7 +253615,7 @@
         "cmake-toolchains",
         "list"
       ],
-      "updated": "2026-06-26T06:51:36Z",
+      "updated": "2026-07-03T09:09:43Z",
       "pushed": "2026-05-11T08:20:09Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -255422,13 +255729,24 @@
           "parentId": "root-programming-languages-actionscript-3"
         }
       ],
-      "stars": 0,
-      "forks": 0,
+      "stars": 274,
+      "forks": 49,
       "language": null,
-      "license": null,
-      "topics": [],
-      "updated": null,
-      "pushed": null,
+      "license": "CC-BY-SA-4.0",
+      "topics": [
+        "actionscript",
+        "actionscript3",
+        "adobe-air",
+        "adobe-flash",
+        "adobe-flash-player",
+        "air-native-extensions",
+        "ane",
+        "as3",
+        "awesome",
+        "awesome-list"
+      ],
+      "updated": "2026-06-27T11:04:01Z",
+      "pushed": "2022-11-12T14:41:28Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -255751,13 +256069,20 @@
           "parentId": "root-programming-languages-idris"
         }
       ],
-      "stars": 0,
-      "forks": 0,
-      "language": null,
+      "stars": 414,
+      "forks": 18,
+      "language": "Idris",
       "license": null,
-      "topics": [],
-      "updated": null,
-      "pushed": null,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "functional-programming",
+        "haskell",
+        "idris",
+        "type-driven-development"
+      ],
+      "updated": "2026-06-27T11:04:19Z",
+      "pushed": "2020-02-20T19:56:12Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -269125,13 +269450,25 @@
           "parentId": "root-programming-languages-ada-spark"
         }
       ],
-      "stars": 0,
-      "forks": 0,
+      "stars": 843,
+      "forks": 88,
       "language": null,
-      "license": null,
-      "topics": [],
-      "updated": null,
-      "pushed": null,
+      "license": "CC0-1.0",
+      "topics": [
+        "ada",
+        "ada-binding",
+        "ada-framework",
+        "ada-language",
+        "ada-library",
+        "ada-programs",
+        "awesome",
+        "awesome-list",
+        "gnat",
+        "spark",
+        "spark-ada"
+      ],
+      "updated": "2026-07-04T18:00:14Z",
+      "pushed": "2026-05-31T14:03:49Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -270900,13 +271237,20 @@
           "parentId": "root-programming-languages-q"
         }
       ],
-      "stars": 0,
-      "forks": 0,
+      "stars": 180,
+      "forks": 27,
       "language": null,
-      "license": null,
-      "topics": [],
-      "updated": null,
-      "pushed": null,
+      "license": "Unlicense",
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "q-sharp",
+        "qsharp",
+        "quantum-computing",
+        "quantum-programming"
+      ],
+      "updated": "2026-06-27T11:04:40Z",
+      "pushed": "2022-08-11T16:16:35Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -272536,13 +272880,23 @@
           "parentId": "root-programming-languages-imba"
         }
       ],
-      "stars": 0,
-      "forks": 0,
+      "stars": 141,
+      "forks": 14,
       "language": null,
-      "license": null,
-      "topics": [],
-      "updated": null,
-      "pushed": null,
+      "license": "NOASSERTION",
+      "topics": [
+        "awesome",
+        "awesome-imba",
+        "awesome-list",
+        "awesomeness",
+        "hacktoberfest",
+        "hacktoberfest-accepted",
+        "hacktoberfest2021",
+        "imba",
+        "javascript"
+      ],
+      "updated": "2026-06-27T11:04:48Z",
+      "pushed": "2021-10-18T21:18:46Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -290760,7 +291114,7 @@
           "parentId": "root-programming-languages-v"
         }
       ],
-      "stars": 2090,
+      "stars": 2091,
       "forks": 140,
       "language": null,
       "license": "CC0-1.0",
@@ -290769,8 +291123,8 @@
         "awesome-list",
         "v"
       ],
-      "updated": "2026-06-26T03:18:29Z",
-      "pushed": "2026-06-26T03:18:24Z",
+      "updated": "2026-07-02T23:57:17Z",
+      "pushed": "2026-07-02T23:57:13Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -290829,18 +291183,21 @@
               "kind": "repo",
               "repo": "mystenlabs/awesome-move",
               "url": "https://github.com/mystenlabs/awesome-move",
-              "description": "",
+              "description": "Code and content from the Move community.",
               "external": false,
               "sourceRepo": "mystenlabs/awesome-move",
               "depth": 2,
               "children": [],
-              "stars": 0,
-              "forks": 0,
+              "stars": 1498,
+              "forks": 270,
               "language": null,
-              "license": null,
-              "topics": [],
-              "updated": null,
-              "pushed": null,
+              "license": "CC-BY-4.0",
+              "topics": [
+                "awesome",
+                "awesome-list"
+              ],
+              "updated": "2026-07-01T09:03:13Z",
+              "pushed": "2024-08-14T10:01:34Z",
               "awesome": true,
               "path": [
                 "Move",
@@ -295471,13 +295828,16 @@
           "parentId": "root-programming-languages-move"
         }
       ],
-      "stars": 0,
-      "forks": 0,
+      "stars": 1498,
+      "forks": 270,
       "language": null,
-      "license": null,
-      "topics": [],
-      "updated": null,
-      "pushed": null,
+      "license": "CC-BY-4.0",
+      "topics": [
+        "awesome",
+        "awesome-list"
+      ],
+      "updated": "2026-07-01T09:03:13Z",
+      "pushed": "2024-08-14T10:01:34Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -295629,13 +295989,19 @@
           "parentId": "root-programming-languages-esolangs"
         }
       ],
-      "stars": 0,
-      "forks": 0,
+      "stars": 590,
+      "forks": 41,
       "language": null,
-      "license": null,
-      "topics": [],
-      "updated": null,
-      "pushed": null,
+      "license": "CC0-1.0",
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "esolang",
+        "esoteric",
+        "list"
+      ],
+      "updated": "2026-07-01T09:10:22Z",
+      "pushed": "2026-03-17T09:39:27Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -302030,13 +302396,20 @@
           "parentId": "root-programming-languages-vba"
         }
       ],
-      "stars": 0,
-      "forks": 0,
+      "stars": 610,
+      "forks": 70,
       "language": null,
-      "license": null,
-      "topics": [],
-      "updated": null,
-      "pushed": null,
+      "license": "NOASSERTION",
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "vb6",
+        "vba",
+        "visual-basic-6",
+        "visual-basic-for-applications"
+      ],
+      "updated": "2026-06-20T01:31:35Z",
+      "pushed": "2026-06-01T15:48:15Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -307741,8 +308114,8 @@
                   "sourceRepo": "fsprojects/awesome-fsharp",
                   "depth": 3,
                   "children": [],
-                  "stars": 21435,
-                  "forks": 2888,
+                  "stars": 21447,
+                  "forks": 2894,
                   "language": null,
                   "license": "CC0-1.0",
                   "topics": [
@@ -307753,7 +308126,7 @@
                     "dotnet",
                     "fsharp"
                   ],
-                  "updated": "2026-06-28T04:07:23Z",
+                  "updated": "2026-07-04T08:36:26Z",
                   "pushed": "2026-03-26T05:16:53Z",
                   "awesome": true,
                   "path": [
@@ -308408,13 +308781,18 @@
           "parentId": "root-programming-languages-f"
         }
       ],
-      "stars": 0,
-      "forks": 0,
-      "language": null,
-      "license": null,
-      "topics": [],
-      "updated": null,
-      "pushed": null,
+      "stars": 1425,
+      "forks": 109,
+      "language": "F#",
+      "license": "CC0-1.0",
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "dotnet",
+        "fsharp"
+      ],
+      "updated": "2026-06-30T21:11:35Z",
+      "pushed": "2026-03-21T15:21:56Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [

@@ -311,7 +311,7 @@
           "parentId": "root-media-fonts"
         }
       ],
-      "stars": 2017,
+      "stars": 2021,
       "forks": 1016,
       "language": null,
       "license": null,
@@ -325,7 +325,7 @@
         "list",
         "programming-fonts"
       ],
-      "updated": "2026-06-28T03:43:32Z",
+      "updated": "2026-07-03T09:17:33Z",
       "pushed": "2026-06-22T23:03:47Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -885,7 +885,7 @@
           "parentId": "root-media-stock-resources"
         }
       ],
-      "stars": 14302,
+      "stars": 14317,
       "forks": 803,
       "language": "Ruby",
       "license": "CC0-1.0",
@@ -905,7 +905,7 @@
         "templates",
         "weather-icons"
       ],
-      "updated": "2026-06-28T08:14:10Z",
+      "updated": "2026-07-05T01:30:06Z",
       "pushed": "2026-02-11T22:01:53Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -2881,13 +2881,17 @@
           "parentId": "root-media-gif"
         }
       ],
-      "stars": 0,
-      "forks": 0,
+      "stars": 690,
+      "forks": 57,
       "language": null,
-      "license": null,
-      "topics": [],
-      "updated": null,
-      "pushed": null,
+      "license": "CC0-1.0",
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "gif"
+      ],
+      "updated": "2026-07-01T04:59:37Z",
+      "pushed": "2026-05-17T03:17:16Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -4327,7 +4331,7 @@
       "language": null,
       "license": "NOASSERTION",
       "topics": [],
-      "updated": "2026-06-28T05:03:56Z",
+      "updated": "2026-07-02T15:55:16Z",
       "pushed": "2025-10-29T00:26:24Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -9621,12 +9625,12 @@
           "parentId": "root-media-audio-visualization"
         }
       ],
-      "stars": 5037,
+      "stars": 5038,
       "forks": 342,
       "language": "Shell",
       "license": null,
       "topics": [],
-      "updated": "2026-06-26T17:57:45Z",
+      "updated": "2026-07-03T14:09:25Z",
       "pushed": "2026-01-06T15:11:17Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -9641,7 +9645,7 @@
       "kind": "repo",
       "repo": "ebu/awesome-broadcasting",
       "url": "https://github.com/ebu/awesome-broadcasting",
-      "description": "",
+      "description": "A curated list of amazingly awesome open source resources related to broadcast technologies",
       "external": false,
       "sourceRepo": "sindresorhus/awesome",
       "depth": 1,
@@ -10263,13 +10267,17 @@
           "parentId": "root-media-broadcasting"
         }
       ],
-      "stars": 0,
-      "forks": 0,
+      "stars": 1747,
+      "forks": 218,
       "language": null,
-      "license": null,
-      "topics": [],
-      "updated": null,
-      "pushed": null,
+      "license": "NOASSERTION",
+      "topics": [
+        "awesome-list",
+        "broadcast",
+        "broadcasting"
+      ],
+      "updated": "2026-07-03T13:09:35Z",
+      "pushed": "2026-04-29T10:25:42Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -11965,13 +11973,17 @@
           "parentId": "root-media-pixel-art"
         }
       ],
-      "stars": 0,
-      "forks": 0,
+      "stars": 1223,
+      "forks": 49,
       "language": null,
-      "license": null,
-      "topics": [],
-      "updated": null,
-      "pushed": null,
+      "license": "CC0-1.0",
+      "topics": [
+        "awesome-list",
+        "hacktoberfest",
+        "pixel-art"
+      ],
+      "updated": "2026-06-28T04:04:23Z",
+      "pushed": "2026-05-18T14:17:04Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -12931,13 +12943,18 @@
           "parentId": "root-media-ffmpeg"
         }
       ],
-      "stars": 0,
-      "forks": 0,
+      "stars": 1176,
+      "forks": 79,
       "language": null,
       "license": null,
-      "topics": [],
-      "updated": null,
-      "pushed": null,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "ffmpeg",
+        "fluent-ffmpeg"
+      ],
+      "updated": "2026-07-04T04:54:13Z",
+      "pushed": "2025-08-09T15:39:11Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -13235,8 +13252,8 @@
               "sourceRepo": "notlmn/awesome-icons",
               "depth": 2,
               "children": [],
-              "stars": 76698,
-              "forks": 12202,
+              "stars": 76715,
+              "forks": 12210,
               "language": "JavaScript",
               "license": "NOASSERTION",
               "topics": [
@@ -13248,7 +13265,7 @@
                 "svg-sprites",
                 "webfont"
               ],
-              "updated": "2026-06-28T10:29:07Z",
+              "updated": "2026-07-05T04:46:17Z",
               "pushed": "2026-06-25T22:05:50Z",
               "awesome": true,
               "path": [
@@ -14384,13 +14401,20 @@
           "parentId": "root-media-icons"
         }
       ],
-      "stars": 0,
-      "forks": 0,
+      "stars": 973,
+      "forks": 55,
       "language": null,
-      "license": null,
-      "topics": [],
-      "updated": null,
-      "pushed": null,
+      "license": "CC0-1.0",
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "free-svg-icons",
+        "icon-set",
+        "icons",
+        "logo"
+      ],
+      "updated": "2026-07-03T09:17:45Z",
+      "pushed": "2026-02-10T09:23:45Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -16166,13 +16190,25 @@
               "sourceRepo": "stingalleman/awesome-audiovisual",
               "depth": 2,
               "children": [],
-              "stars": 0,
-              "forks": 0,
-              "language": null,
-              "license": null,
-              "topics": [],
-              "updated": null,
-              "pushed": null,
+              "stars": 1745,
+              "forks": 98,
+              "language": "Makefile",
+              "license": "NOASSERTION",
+              "topics": [
+                "audio",
+                "free-software",
+                "ladspa",
+                "lighting",
+                "linux",
+                "list",
+                "lv2",
+                "production",
+                "software",
+                "video",
+                "vst"
+              ],
+              "updated": "2026-07-04T08:29:32Z",
+              "pushed": "2026-05-06T17:41:00Z",
               "awesome": true,
               "path": [
                 "Audiovisual",
@@ -16554,13 +16590,20 @@
           "parentId": "root-media-audiovisual"
         }
       ],
-      "stars": 0,
-      "forks": 0,
+      "stars": 260,
+      "forks": 21,
       "language": null,
-      "license": null,
-      "topics": [],
-      "updated": null,
-      "pushed": null,
+      "license": "CC0-1.0",
+      "topics": [
+        "audio-processing",
+        "audiovisual",
+        "awesome",
+        "awesome-list",
+        "dmx",
+        "video-processing"
+      ],
+      "updated": "2026-07-01T21:57:15Z",
+      "pushed": "2024-07-01T10:13:28Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -18012,13 +18055,20 @@
           "parentId": "root-media-vlc"
         }
       ],
-      "stars": 0,
-      "forks": 0,
+      "stars": 286,
+      "forks": 11,
       "language": null,
-      "license": null,
-      "topics": [],
-      "updated": null,
-      "pushed": null,
+      "license": "CC0-1.0",
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "libvlc",
+        "multimedia",
+        "videolan",
+        "vlc"
+      ],
+      "updated": "2026-07-02T18:43:46Z",
+      "pushed": "2026-03-18T04:20:17Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -18780,13 +18830,23 @@
           "parentId": "root-media-audio-over-ip"
         }
       ],
-      "stars": 0,
-      "forks": 0,
+      "stars": 136,
+      "forks": 9,
       "language": null,
-      "license": null,
-      "topics": [],
-      "updated": null,
-      "pushed": null,
+      "license": "CC0-1.0",
+      "topics": [
+        "aes67",
+        "audio",
+        "audio-over-ip",
+        "awesome",
+        "awesome-list",
+        "dante",
+        "layer3",
+        "network",
+        "smpte-2110"
+      ],
+      "updated": "2026-07-03T18:27:37Z",
+      "pushed": "2026-02-27T11:28:09Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [

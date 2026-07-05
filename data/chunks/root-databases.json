@@ -12,7 +12,7 @@
       "kind": "repo",
       "repo": "numetriclabz/awesome-db",
       "url": "https://github.com/numetriclabz/awesome-db",
-      "description": "",
+      "description": "A curated list of amazingly awesome database libraries, resources and shiny things by https://www.numetriclabz.com/",
       "external": false,
       "sourceRepo": "sindresorhus/awesome",
       "depth": 1,
@@ -243,13 +243,13 @@
           "parentId": "root-databases-database"
         }
       ],
-      "stars": 0,
-      "forks": 0,
+      "stars": 1372,
+      "forks": 178,
       "language": null,
       "license": null,
       "topics": [],
-      "updated": null,
-      "pushed": null,
+      "updated": "2026-07-01T18:36:24Z",
+      "pushed": "2024-03-04T12:40:15Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -3481,12 +3481,12 @@
           "parentId": "root-databases-mysql"
         }
       ],
-      "stars": 2584,
-      "forks": 404,
+      "stars": 2589,
+      "forks": 403,
       "language": "Python",
       "license": "NOASSERTION",
       "topics": [],
-      "updated": "2026-06-24T23:05:20Z",
+      "updated": "2026-07-03T06:19:25Z",
       "pushed": "2026-04-21T05:52:38Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -3506,7 +3506,7 @@
       "sourceRepo": "sindresorhus/awesome",
       "depth": 1,
       "children": [],
-      "stars": 3048,
+      "stars": 3049,
       "forks": 165,
       "language": "Python",
       "license": null,
@@ -3520,10 +3520,10 @@
         "rdbms",
         "sqlalchemy"
       ],
-      "updated": "2026-06-18T03:27:29Z",
+      "updated": "2026-07-01T13:01:21Z",
       "pushed": "2026-06-08T08:36:57Z",
       "awesome": true,
-      "readmeStatus": "missing",
+      "readmeStatus": "empty",
       "path": [
         "SQLAlchemy"
       ],
@@ -3535,7 +3535,7 @@
       "kind": "repo",
       "repo": "mark-rushakoff/awesome-influxdb",
       "url": "https://github.com/mark-rushakoff/awesome-influxdb",
-      "description": "",
+      "description": "A curated list of awesome projects, libraries, tools, etc. related to InfluxDB",
       "external": false,
       "sourceRepo": "sindresorhus/awesome",
       "depth": 1,
@@ -4047,13 +4047,18 @@
           "parentId": "root-databases-influxdb"
         }
       ],
-      "stars": 0,
-      "forks": 0,
+      "stars": 818,
+      "forks": 62,
       "language": null,
       "license": null,
-      "topics": [],
-      "updated": null,
-      "pushed": null,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "influxdb",
+        "list"
+      ],
+      "updated": "2026-06-01T21:22:40Z",
+      "pushed": "2024-05-08T14:04:39Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -4067,7 +4072,7 @@
       "kind": "repo",
       "repo": "neueda/awesome-neo4j",
       "url": "https://github.com/neueda/awesome-neo4j",
-      "description": "",
+      "description": "A curated list of Neo4j resources.",
       "external": false,
       "sourceRepo": "sindresorhus/awesome",
       "depth": 1,
@@ -5211,13 +5216,13 @@
           "parentId": "root-databases-neo4j"
         }
       ],
-      "stars": 0,
-      "forks": 0,
+      "stars": 563,
+      "forks": 83,
       "language": null,
       "license": null,
       "topics": [],
-      "updated": null,
-      "pushed": null,
+      "updated": "2026-07-01T20:46:38Z",
+      "pushed": "2020-12-09T06:58:51Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -11136,7 +11141,7 @@
           "parentId": "root-databases-mongodb"
         }
       ],
-      "stars": 2644,
+      "stars": 2645,
       "forks": 345,
       "language": null,
       "license": null,
@@ -11147,7 +11152,7 @@
         "mongodb",
         "mongodb-resources"
       ],
-      "updated": "2026-06-28T07:59:51Z",
+      "updated": "2026-06-30T19:02:53Z",
       "pushed": "2026-06-18T18:09:52Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -15166,13 +15171,22 @@
           "parentId": "root-databases-tinkerpop"
         }
       ],
-      "stars": 0,
-      "forks": 0,
+      "stars": 191,
+      "forks": 28,
       "language": null,
-      "license": null,
-      "topics": [],
-      "updated": null,
-      "pushed": null,
+      "license": "CC0-1.0",
+      "topics": [
+        "apache-tinkerpop",
+        "awesome",
+        "awesome-list",
+        "list",
+        "tinkerpop",
+        "tinkerpop-libraries",
+        "tinkerpop2",
+        "tinkerpop3"
+      ],
+      "updated": "2026-06-18T03:30:02Z",
+      "pushed": "2021-06-29T16:53:21Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -15819,8 +15833,8 @@
           "parentId": "root-databases-postgresql"
         }
       ],
-      "stars": 11971,
-      "forks": 979,
+      "stars": 11978,
+      "forks": 981,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -15828,7 +15842,7 @@
         "postgres",
         "postgresql"
       ],
-      "updated": "2026-06-28T02:21:20Z",
+      "updated": "2026-07-04T16:35:49Z",
       "pushed": "2026-05-21T14:10:48Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -18045,13 +18059,20 @@
           "parentId": "root-databases-couchdb"
         }
       ],
-      "stars": 0,
-      "forks": 0,
+      "stars": 193,
+      "forks": 16,
       "language": null,
       "license": null,
-      "topics": [],
-      "updated": null,
-      "pushed": null,
+      "topics": [
+        "awesome",
+        "best-practices",
+        "cloudant",
+        "couchdb",
+        "couchdb-chat",
+        "couchdb-wiki"
+      ],
+      "updated": "2026-07-02T03:04:02Z",
+      "pushed": "2023-05-09T01:05:01Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -18565,13 +18586,17 @@
           "parentId": "root-databases-hbase"
         }
       ],
-      "stars": 0,
-      "forks": 0,
+      "stars": 178,
+      "forks": 41,
       "language": null,
-      "license": null,
-      "topics": [],
-      "updated": null,
-      "pushed": null,
+      "license": "CC0-1.0",
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "hbase"
+      ],
+      "updated": "2026-06-01T21:21:53Z",
+      "pushed": "2026-05-18T01:23:25Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -19948,13 +19973,24 @@
           "parentId": "root-databases-nosql-guides"
         }
       ],
-      "stars": 0,
-      "forks": 0,
+      "stars": 301,
+      "forks": 30,
       "language": null,
-      "license": null,
-      "topics": [],
-      "updated": null,
-      "pushed": null,
+      "license": "CC0-1.0",
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "brewer-theorem",
+        "databases",
+        "graph-databases",
+        "learning-nosql",
+        "nosql",
+        "nosql-databases",
+        "nosql-guides",
+        "relational-databases"
+      ],
+      "updated": "2026-06-27T11:23:04Z",
+      "pushed": "2022-03-29T18:21:38Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -29570,8 +29606,8 @@
           "parentId": "root-databases-database-tools"
         }
       ],
-      "stars": 5227,
-      "forks": 458,
+      "stars": 5232,
+      "forks": 459,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -29585,7 +29621,7 @@
         "sql-client",
         "visualization"
       ],
-      "updated": "2026-06-26T19:01:32Z",
+      "updated": "2026-07-04T18:33:30Z",
       "pushed": "2026-05-21T15:18:32Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -38632,13 +38668,20 @@
           "parentId": "root-databases-cassandra"
         }
       ],
-      "stars": 0,
-      "forks": 0,
-      "language": null,
-      "license": null,
-      "topics": [],
-      "updated": null,
-      "pushed": null,
+      "stars": 319,
+      "forks": 61,
+      "language": "HTML",
+      "license": "CC0-1.0",
+      "topics": [
+        "apache",
+        "awesome",
+        "awesome-list",
+        "cassandra",
+        "datastax",
+        "dse"
+      ],
+      "updated": "2026-06-29T01:20:11Z",
+      "pushed": "2023-05-02T17:04:55Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -40425,13 +40468,17 @@
           "parentId": "root-databases-supabase"
         }
       ],
-      "stars": 0,
-      "forks": 0,
+      "stars": 472,
+      "forks": 51,
       "language": null,
-      "license": null,
-      "topics": [],
-      "updated": null,
-      "pushed": null,
+      "license": "CC0-1.0",
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "supabase"
+      ],
+      "updated": "2026-07-02T03:04:55Z",
+      "pushed": "2026-05-10T10:02:59Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -43354,13 +43401,18 @@
           "parentId": "root-databases-pocketbase"
         }
       ],
-      "stars": 0,
-      "forks": 0,
+      "stars": 1190,
+      "forks": 69,
       "language": null,
-      "license": null,
-      "topics": [],
-      "updated": null,
-      "pushed": null,
+      "license": "CC0-1.0",
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "golang",
+        "pocketbase"
+      ],
+      "updated": "2026-07-01T09:27:36Z",
+      "pushed": "2026-06-18T05:23:53Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -45098,13 +45150,18 @@
           "parentId": "root-databases-neon"
         }
       ],
-      "stars": 0,
-      "forks": 0,
+      "stars": 29,
+      "forks": 3,
       "language": null,
-      "license": null,
-      "topics": [],
-      "updated": null,
-      "pushed": null,
+      "license": "CC0-1.0",
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "neon-postgres",
+        "postgres-database"
+      ],
+      "updated": "2026-06-01T21:20:00Z",
+      "pushed": "2024-07-29T10:26:37Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
