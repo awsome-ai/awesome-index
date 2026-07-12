@@ -557,12 +557,12 @@
           "parentId": "root-development-environment-dev-env"
         }
       ],
-      "stars": 3299,
-      "forks": 203,
+      "stars": 3306,
+      "forks": 204,
       "language": null,
       "license": null,
       "topics": [],
-      "updated": "2026-07-04T23:13:38Z",
+      "updated": "2026-07-12T01:19:08Z",
       "pushed": "2024-07-29T13:08:35Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -3030,8 +3030,8 @@
           "parentId": "root-development-environment-dotfiles"
         }
       ],
-      "stars": 10722,
-      "forks": 366,
+      "stars": 10739,
+      "forks": 369,
       "language": null,
       "license": null,
       "topics": [
@@ -3046,7 +3046,7 @@
         "tools",
         "zsh"
       ],
-      "updated": "2026-07-05T01:31:52Z",
+      "updated": "2026-07-11T16:04:41Z",
       "pushed": "2026-06-30T07:21:56Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -3381,8 +3381,8 @@
           "parentId": "root-development-environment-shell"
         }
       ],
-      "stars": 37211,
-      "forks": 2537,
+      "stars": 37252,
+      "forks": 2543,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -3395,7 +3395,7 @@
         "shell",
         "zsh"
       ],
-      "updated": "2026-07-05T01:51:01Z",
+      "updated": "2026-07-12T02:26:36Z",
       "pushed": "2025-08-28T14:40:51Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -8965,6 +8965,33 @@
                     "Productivity",
                     "Note Taking, Lists, Task Management",
                     "epiq"
+                  ],
+                  "parentId": "root-development-environment-command-line-apps-productivity-note-taking-lists-task-management"
+                },
+                {
+                  "id": "root-development-environment-command-line-apps-productivity-note-taking-lists-task-management-feeling",
+                  "title": "feeling",
+                  "kind": "repo",
+                  "repo": "qiz-li/feeling",
+                  "url": "https://github.com/qiz-li/feeling",
+                  "description": "Mood tracker that visualizes your emotional patterns over time.",
+                  "external": false,
+                  "sourceRepo": "agarrharr/awesome-cli-apps",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Command-Line Apps",
+                    "Productivity",
+                    "Note Taking, Lists, Task Management",
+                    "feeling"
                   ],
                   "parentId": "root-development-environment-command-line-apps-productivity-note-taking-lists-task-management"
                 }
@@ -15185,6 +15212,33 @@
                     "croc"
                   ],
                   "parentId": "root-development-environment-command-line-apps-files-and-directories-file-sync-sharing"
+                },
+                {
+                  "id": "root-development-environment-command-line-apps-files-and-directories-file-sync-sharing-filecast",
+                  "title": "filecast",
+                  "kind": "repo",
+                  "repo": "gistrec/filecast",
+                  "url": "https://github.com/gistrec/filecast",
+                  "description": "Fast file transfer to multiple machines on your LAN.",
+                  "external": false,
+                  "sourceRepo": "agarrharr/awesome-cli-apps",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Command-Line Apps",
+                    "Files and Directories",
+                    "File Sync/Sharing",
+                    "filecast"
+                  ],
+                  "parentId": "root-development-environment-command-line-apps-files-and-directories-file-sync-sharing"
                 }
               ],
               "stars": 0,
@@ -16918,6 +16972,33 @@
                     "Version Control",
                     "GitHub",
                     "git-labelmaker"
+                  ],
+                  "parentId": "root-development-environment-command-line-apps-version-control-github"
+                },
+                {
+                  "id": "root-development-environment-command-line-apps-version-control-github-gitfetch",
+                  "title": "gitfetch",
+                  "kind": "repo",
+                  "repo": "matars/gitfetch",
+                  "url": "https://github.com/matars/gitfetch",
+                  "description": "Neofetch-style stats of your git forge.",
+                  "external": false,
+                  "sourceRepo": "agarrharr/awesome-cli-apps",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Command-Line Apps",
+                    "Version Control",
+                    "GitHub",
+                    "gitfetch"
                   ],
                   "parentId": "root-development-environment-command-line-apps-version-control-github"
                 }
@@ -18851,8 +18932,8 @@
               "sourceRepo": "agarrharr/awesome-cli-apps",
               "depth": 2,
               "children": [],
-              "stars": 2542,
-              "forks": 214,
+              "stars": 2550,
+              "forks": 225,
               "language": "Python",
               "license": null,
               "topics": [
@@ -18868,7 +18949,7 @@
                 "terminal-based",
                 "tui"
               ],
-              "updated": "2026-07-03T19:43:31Z",
+              "updated": "2026-07-11T16:10:31Z",
               "pushed": "2026-06-08T16:48:01Z",
               "awesome": true,
               "path": [
@@ -19019,7 +19100,7 @@
               "sourceRepo": "agarrharr/awesome-cli-apps",
               "depth": 2,
               "children": [],
-              "stars": 2177,
+              "stars": 2179,
               "forks": 123,
               "language": null,
               "license": null,
@@ -19037,7 +19118,7 @@
                 "lists",
                 "resources"
               ],
-              "updated": "2026-07-02T14:27:33Z",
+              "updated": "2026-07-11T11:02:06Z",
               "pushed": "2024-10-15T07:18:48Z",
               "awesome": true,
               "path": [
@@ -19089,8 +19170,8 @@
           "parentId": "root-development-environment-command-line-apps"
         }
       ],
-      "stars": 19905,
-      "forks": 1419,
+      "stars": 19950,
+      "forks": 1440,
       "language": "Shell",
       "license": null,
       "topics": [
@@ -19100,8 +19181,8 @@
         "cli-app",
         "list"
       ],
-      "updated": "2026-07-05T01:28:54Z",
-      "pushed": "2026-07-02T10:28:26Z",
+      "updated": "2026-07-11T20:50:00Z",
+      "pushed": "2026-07-08T11:04:32Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -28017,6 +28098,32 @@
               "parentId": "root-development-environment-zsh-plugins-plugins"
             },
             {
+              "id": "root-development-environment-zsh-plugins-plugins-autofix",
+              "title": "autofix",
+              "kind": "repo",
+              "repo": "dexterbed/zsh-autofix",
+              "url": "https://github.com/dexterbed/zsh-autofix",
+              "description": "When a command fails, captures its stderr and asks a local Ollama model for a fix, shown as ghost-text you can accept with Tab. Silent on success.",
+              "external": false,
+              "sourceRepo": "unixorn/awesome-zsh-plugins",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "ZSH Plugins",
+                "Plugins",
+                "autofix"
+              ],
+              "parentId": "root-development-environment-zsh-plugins-plugins"
+            },
+            {
               "id": "root-development-environment-zsh-plugins-plugins-autojump",
               "title": "autojump",
               "kind": "repo",
@@ -30379,32 +30486,6 @@
                 "ZSH Plugins",
                 "Plugins",
                 "cmd-status"
-              ],
-              "parentId": "root-development-environment-zsh-plugins-plugins"
-            },
-            {
-              "id": "root-development-environment-zsh-plugins-plugins-cmd-time",
-              "title": "cmd-time",
-              "kind": "repo",
-              "repo": "tomfromberlin/zsh-cmd-time",
-              "url": "https://github.com/tomfromberlin/zsh-cmd-time",
-              "description": "Collects the execution time of commands and exports the result to a variable that can be used elsewhere. It is similar to the built-in REPORTTIME function, but it is also slightly different. Unlike when you set REPORTTIME, it considers user and sytem time, not just CPU time.",
-              "external": false,
-              "sourceRepo": "unixorn/awesome-zsh-plugins",
-              "depth": 2,
-              "children": [],
-              "stars": 0,
-              "forks": 0,
-              "language": null,
-              "license": null,
-              "topics": [],
-              "updated": null,
-              "pushed": null,
-              "awesome": false,
-              "path": [
-                "ZSH Plugins",
-                "Plugins",
-                "cmd-time"
               ],
               "parentId": "root-development-environment-zsh-plugins-plugins"
             },
@@ -38335,6 +38416,32 @@
                 "ZSH Plugins",
                 "Plugins",
                 "host-switch"
+              ],
+              "parentId": "root-development-environment-zsh-plugins-plugins"
+            },
+            {
+              "id": "root-development-environment-zsh-plugins-plugins-how2",
+              "title": "how2",
+              "kind": "repo",
+              "repo": "yizhixiaokong/how2",
+              "url": "https://github.com/yizhixiaokong/how2",
+              "description": "Quickly inspect aliases, functions, and docs of oh-my-zsh plugins, with tab completion.",
+              "external": false,
+              "sourceRepo": "unixorn/awesome-zsh-plugins",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "ZSH Plugins",
+                "Plugins",
+                "how2"
               ],
               "parentId": "root-development-environment-zsh-plugins-plugins"
             },
@@ -48063,6 +48170,32 @@
               "parentId": "root-development-environment-zsh-plugins-plugins"
             },
             {
+              "id": "root-development-environment-zsh-plugins-plugins-shui",
+              "title": "shui",
+              "kind": "repo",
+              "repo": "kud/shui",
+              "url": "https://github.com/kud/shui",
+              "description": "Fluid terminal UI for ZSH — a design system for the shell",
+              "external": false,
+              "sourceRepo": "unixorn/awesome-zsh-plugins",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "ZSH Plugins",
+                "Plugins",
+                "shui"
+              ],
+              "parentId": "root-development-environment-zsh-plugins-plugins"
+            },
+            {
               "id": "root-development-environment-zsh-plugins-plugins-simpleserver",
               "title": "simpleserver",
               "kind": "repo",
@@ -51413,6 +51546,32 @@
                 "ZSH Plugins",
                 "Plugins",
                 "uvenv"
+              ],
+              "parentId": "root-development-environment-zsh-plugins-plugins"
+            },
+            {
+              "id": "root-development-environment-zsh-plugins-plugins-v",
+              "title": "v",
+              "kind": "repo",
+              "repo": "teaveloper/v",
+              "url": "https://github.com/teaveloper/v",
+              "description": "An editor wrapper around a fast file finder.",
+              "external": false,
+              "sourceRepo": "unixorn/awesome-zsh-plugins",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "ZSH Plugins",
+                "Plugins",
+                "v"
               ],
               "parentId": "root-development-environment-zsh-plugins-plugins"
             },
@@ -64489,6 +64648,32 @@
               "parentId": "root-development-environment-zsh-plugins-themes"
             },
             {
+              "id": "root-development-environment-zsh-plugins-themes-bluebird",
+              "title": "bluebird",
+              "kind": "repo",
+              "repo": "bedirisinghe/bluebird-prompt",
+              "url": "https://github.com/bedirisinghe/bluebird-prompt",
+              "description": "A lightweight ZSH prompt featuring a clean Powerline-style design and Nerd Font support. Includes decorators for username, current directory, and git branch.",
+              "external": false,
+              "sourceRepo": "unixorn/awesome-zsh-plugins",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "ZSH Plugins",
+                "Themes",
+                "bluebird"
+              ],
+              "parentId": "root-development-environment-zsh-plugins-themes"
+            },
+            {
               "id": "root-development-environment-zsh-plugins-themes-bluehigh",
               "title": "bluehigh",
               "kind": "repo",
@@ -70751,6 +70936,32 @@
                 "ZSH Plugins",
                 "Themes",
                 "gorchak"
+              ],
+              "parentId": "root-development-environment-zsh-plugins-themes"
+            },
+            {
+              "id": "root-development-environment-zsh-plugins-themes-gozilla-lite",
+              "title": "gozilla-lite",
+              "kind": "repo",
+              "repo": "jannik-el/gozilla-lite",
+              "url": "https://github.com/jannik-el/gozilla-lite",
+              "description": "Based on oh-my-zsh's built-in gozilla theme. Includes decorators for the current directory, git branch, and a live git status in the right-hand prompt.",
+              "external": false,
+              "sourceRepo": "unixorn/awesome-zsh-plugins",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "ZSH Plugins",
+                "Themes",
+                "gozilla-lite"
               ],
               "parentId": "root-development-environment-zsh-plugins-themes"
             },
@@ -90437,12 +90648,12 @@
                   "sourceRepo": "unixorn/awesome-zsh-plugins",
                   "depth": 3,
                   "children": [],
-                  "stars": 3299,
-                  "forks": 203,
+                  "stars": 3306,
+                  "forks": 204,
                   "language": null,
                   "license": null,
                   "topics": [],
-                  "updated": "2026-07-04T23:13:38Z",
+                  "updated": "2026-07-12T01:19:08Z",
                   "pushed": "2024-07-29T13:08:35Z",
                   "awesome": true,
                   "path": [
@@ -90666,8 +90877,8 @@
           "parentId": "root-development-environment-zsh-plugins"
         }
       ],
-      "stars": 17806,
-      "forks": 601,
+      "stars": 17829,
+      "forks": 604,
       "language": "Shell",
       "license": "BSD-3-Clause",
       "topics": [
@@ -90685,8 +90896,8 @@
         "zsh-prompt",
         "zsh-theme"
       ],
-      "updated": "2026-07-05T01:29:22Z",
-      "pushed": "2026-07-04T13:55:21Z",
+      "updated": "2026-07-11T21:51:25Z",
+      "pushed": "2026-07-11T13:10:45Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -92212,7 +92423,7 @@
               "parentId": "root-development-environment-github-browser-extensions"
             }
           ],
-          "stars": 3273,
+          "stars": 3276,
           "forks": 203,
           "language": "JavaScript",
           "license": null,
@@ -92225,7 +92436,7 @@
             "github-extension",
             "list"
           ],
-          "updated": "2026-07-04T04:32:46Z",
+          "updated": "2026-07-11T04:37:37Z",
           "pushed": "2024-08-18T20:11:31Z",
           "awesome": true,
           "readmeStatus": "expanded",
@@ -94886,7 +95097,7 @@
               "sourceRepo": "phillipadsmith/awesome-github",
               "depth": 2,
               "children": [],
-              "stars": 3273,
+              "stars": 3276,
               "forks": 203,
               "language": "JavaScript",
               "license": null,
@@ -94899,7 +95110,7 @@
                 "github-extension",
                 "list"
               ],
-              "updated": "2026-07-04T04:32:46Z",
+              "updated": "2026-07-11T04:37:37Z",
               "pushed": "2024-08-18T20:11:31Z",
               "awesome": true,
               "path": [
@@ -95832,12 +96043,12 @@
           "parentId": "root-development-environment-github"
         }
       ],
-      "stars": 967,
-      "forks": 118,
+      "stars": 968,
+      "forks": 119,
       "language": null,
       "license": "CC0-1.0",
       "topics": [],
-      "updated": "2026-06-29T08:02:12Z",
+      "updated": "2026-07-10T01:19:43Z",
       "pushed": "2024-03-04T15:57:12Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -100916,7 +101127,7 @@
           "parentId": "root-development-environment-git-add-ons"
         }
       ],
-      "stars": 2177,
+      "stars": 2179,
       "forks": 123,
       "language": null,
       "license": null,
@@ -100934,7 +101145,7 @@
         "lists",
         "resources"
       ],
-      "updated": "2026-07-02T14:27:33Z",
+      "updated": "2026-07-11T11:02:06Z",
       "pushed": "2024-10-15T07:18:48Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -100982,7 +101193,7 @@
                   "depth": 3,
                   "children": [],
                   "stars": 1170,
-                  "forks": 57,
+                  "forks": 58,
                   "language": "Shell",
                   "license": "NOASSERTION",
                   "topics": [
@@ -100994,7 +101205,7 @@
                     "hooks",
                     "script"
                   ],
-                  "updated": "2026-07-02T14:28:31Z",
+                  "updated": "2026-07-06T07:37:54Z",
                   "pushed": "2026-03-25T23:23:08Z",
                   "awesome": true,
                   "path": [
@@ -101041,7 +101252,7 @@
                   "depth": 3,
                   "children": [],
                   "stars": 1170,
-                  "forks": 57,
+                  "forks": 58,
                   "language": "Shell",
                   "license": "NOASSERTION",
                   "topics": [
@@ -101053,7 +101264,7 @@
                     "hooks",
                     "script"
                   ],
-                  "updated": "2026-07-02T14:28:31Z",
+                  "updated": "2026-07-06T07:37:54Z",
                   "pushed": "2026-03-25T23:23:08Z",
                   "awesome": true,
                   "path": [
@@ -101076,7 +101287,7 @@
                   "depth": 3,
                   "children": [],
                   "stars": 1170,
-                  "forks": 57,
+                  "forks": 58,
                   "language": "Shell",
                   "license": "NOASSERTION",
                   "topics": [
@@ -101088,7 +101299,7 @@
                     "hooks",
                     "script"
                   ],
-                  "updated": "2026-07-02T14:28:31Z",
+                  "updated": "2026-07-06T07:37:54Z",
                   "pushed": "2026-03-25T23:23:08Z",
                   "awesome": true,
                   "path": [
@@ -101135,7 +101346,7 @@
                   "depth": 3,
                   "children": [],
                   "stars": 1170,
-                  "forks": 57,
+                  "forks": 58,
                   "language": "Shell",
                   "license": "NOASSERTION",
                   "topics": [
@@ -101147,7 +101358,7 @@
                     "hooks",
                     "script"
                   ],
-                  "updated": "2026-07-02T14:28:31Z",
+                  "updated": "2026-07-06T07:37:54Z",
                   "pushed": "2026-03-25T23:23:08Z",
                   "awesome": true,
                   "path": [
@@ -101194,7 +101405,7 @@
                   "depth": 3,
                   "children": [],
                   "stars": 1170,
-                  "forks": 57,
+                  "forks": 58,
                   "language": "Shell",
                   "license": "NOASSERTION",
                   "topics": [
@@ -101206,7 +101417,7 @@
                     "hooks",
                     "script"
                   ],
-                  "updated": "2026-07-02T14:28:31Z",
+                  "updated": "2026-07-06T07:37:54Z",
                   "pushed": "2026-03-25T23:23:08Z",
                   "awesome": true,
                   "path": [
@@ -101229,7 +101440,7 @@
                   "depth": 3,
                   "children": [],
                   "stars": 1170,
-                  "forks": 57,
+                  "forks": 58,
                   "language": "Shell",
                   "license": "NOASSERTION",
                   "topics": [
@@ -101241,7 +101452,7 @@
                     "hooks",
                     "script"
                   ],
-                  "updated": "2026-07-02T14:28:31Z",
+                  "updated": "2026-07-06T07:37:54Z",
                   "pushed": "2026-03-25T23:23:08Z",
                   "awesome": true,
                   "path": [
@@ -101264,7 +101475,7 @@
                   "depth": 3,
                   "children": [],
                   "stars": 1170,
-                  "forks": 57,
+                  "forks": 58,
                   "language": "Shell",
                   "license": "NOASSERTION",
                   "topics": [
@@ -101276,7 +101487,7 @@
                     "hooks",
                     "script"
                   ],
-                  "updated": "2026-07-02T14:28:31Z",
+                  "updated": "2026-07-06T07:37:54Z",
                   "pushed": "2026-03-25T23:23:08Z",
                   "awesome": true,
                   "path": [
@@ -101299,7 +101510,7 @@
                   "depth": 3,
                   "children": [],
                   "stars": 1170,
-                  "forks": 57,
+                  "forks": 58,
                   "language": "Shell",
                   "license": "NOASSERTION",
                   "topics": [
@@ -101311,7 +101522,7 @@
                     "hooks",
                     "script"
                   ],
-                  "updated": "2026-07-02T14:28:31Z",
+                  "updated": "2026-07-06T07:37:54Z",
                   "pushed": "2026-03-25T23:23:08Z",
                   "awesome": true,
                   "path": [
@@ -101334,7 +101545,7 @@
                   "depth": 3,
                   "children": [],
                   "stars": 1170,
-                  "forks": 57,
+                  "forks": 58,
                   "language": "Shell",
                   "license": "NOASSERTION",
                   "topics": [
@@ -101346,7 +101557,7 @@
                     "hooks",
                     "script"
                   ],
-                  "updated": "2026-07-02T14:28:31Z",
+                  "updated": "2026-07-06T07:37:54Z",
                   "pushed": "2026-03-25T23:23:08Z",
                   "awesome": true,
                   "path": [
@@ -101393,7 +101604,7 @@
                   "depth": 3,
                   "children": [],
                   "stars": 1170,
-                  "forks": 57,
+                  "forks": 58,
                   "language": "Shell",
                   "license": "NOASSERTION",
                   "topics": [
@@ -101405,7 +101616,7 @@
                     "hooks",
                     "script"
                   ],
-                  "updated": "2026-07-02T14:28:31Z",
+                  "updated": "2026-07-06T07:37:54Z",
                   "pushed": "2026-03-25T23:23:08Z",
                   "awesome": true,
                   "path": [
@@ -101428,7 +101639,7 @@
                   "depth": 3,
                   "children": [],
                   "stars": 1170,
-                  "forks": 57,
+                  "forks": 58,
                   "language": "Shell",
                   "license": "NOASSERTION",
                   "topics": [
@@ -101440,7 +101651,7 @@
                     "hooks",
                     "script"
                   ],
-                  "updated": "2026-07-02T14:28:31Z",
+                  "updated": "2026-07-06T07:37:54Z",
                   "pushed": "2026-03-25T23:23:08Z",
                   "awesome": true,
                   "path": [
@@ -101487,7 +101698,7 @@
                   "depth": 3,
                   "children": [],
                   "stars": 1170,
-                  "forks": 57,
+                  "forks": 58,
                   "language": "Shell",
                   "license": "NOASSERTION",
                   "topics": [
@@ -101499,7 +101710,7 @@
                     "hooks",
                     "script"
                   ],
-                  "updated": "2026-07-02T14:28:31Z",
+                  "updated": "2026-07-06T07:37:54Z",
                   "pushed": "2026-03-25T23:23:08Z",
                   "awesome": true,
                   "path": [
@@ -101546,7 +101757,7 @@
                   "depth": 3,
                   "children": [],
                   "stars": 1170,
-                  "forks": 57,
+                  "forks": 58,
                   "language": "Shell",
                   "license": "NOASSERTION",
                   "topics": [
@@ -101558,7 +101769,7 @@
                     "hooks",
                     "script"
                   ],
-                  "updated": "2026-07-02T14:28:31Z",
+                  "updated": "2026-07-06T07:37:54Z",
                   "pushed": "2026-03-25T23:23:08Z",
                   "awesome": true,
                   "path": [
@@ -101605,7 +101816,7 @@
                   "depth": 3,
                   "children": [],
                   "stars": 1170,
-                  "forks": 57,
+                  "forks": 58,
                   "language": "Shell",
                   "license": "NOASSERTION",
                   "topics": [
@@ -101617,7 +101828,7 @@
                     "hooks",
                     "script"
                   ],
-                  "updated": "2026-07-02T14:28:31Z",
+                  "updated": "2026-07-06T07:37:54Z",
                   "pushed": "2026-03-25T23:23:08Z",
                   "awesome": true,
                   "path": [
@@ -101664,7 +101875,7 @@
                   "depth": 3,
                   "children": [],
                   "stars": 1170,
-                  "forks": 57,
+                  "forks": 58,
                   "language": "Shell",
                   "license": "NOASSERTION",
                   "topics": [
@@ -101676,7 +101887,7 @@
                     "hooks",
                     "script"
                   ],
-                  "updated": "2026-07-02T14:28:31Z",
+                  "updated": "2026-07-06T07:37:54Z",
                   "pushed": "2026-03-25T23:23:08Z",
                   "awesome": true,
                   "path": [
@@ -102305,7 +102516,7 @@
         }
       ],
       "stars": 1170,
-      "forks": 57,
+      "forks": 58,
       "language": "Shell",
       "license": "NOASSERTION",
       "topics": [
@@ -102317,7 +102528,7 @@
         "hooks",
         "script"
       ],
-      "updated": "2026-07-02T14:28:31Z",
+      "updated": "2026-07-06T07:37:54Z",
       "pushed": "2026-03-25T23:23:08Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -102774,7 +102985,7 @@
           "parentId": "root-development-environment-ssh"
         }
       ],
-      "stars": 2810,
+      "stars": 2815,
       "forks": 181,
       "language": null,
       "license": "CC0-1.0",
@@ -102791,7 +103002,7 @@
         "ssh-keys",
         "ssh-keyscan"
       ],
-      "updated": "2026-07-02T16:04:19Z",
+      "updated": "2026-07-10T16:08:17Z",
       "pushed": "2023-08-10T10:15:24Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -102924,8 +103135,8 @@
           "parentId": "root-development-environment-hyper"
         }
       ],
-      "stars": 10971,
-      "forks": 373,
+      "stars": 10976,
+      "forks": 374,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -102936,7 +103147,7 @@
         "terminal",
         "zeit"
       ],
-      "updated": "2026-07-05T01:31:25Z",
+      "updated": "2026-07-11T16:29:42Z",
       "pushed": "2022-09-20T08:52:39Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -110437,8 +110648,8 @@
                     "squash",
                     "workflow"
                   ],
-                  "updated": "2026-05-30T22:02:31Z",
-                  "pushed": "2026-07-01T13:26:02Z",
+                  "updated": "2026-07-11T10:13:00Z",
+                  "pushed": "2026-07-11T10:12:54Z",
                   "awesome": true,
                   "path": [
                     "GitHub Actions",
@@ -114921,8 +115132,8 @@
           "parentId": "root-development-environment-github-actions"
         }
       ],
-      "stars": 27988,
-      "forks": 1685,
+      "stars": 28013,
+      "forks": 1696,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -114935,7 +115146,7 @@
         "github",
         "github-actions"
       ],
-      "updated": "2026-07-05T03:16:50Z",
+      "updated": "2026-07-12T02:27:05Z",
       "pushed": "2024-09-01T20:32:39Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -116061,6 +116272,32 @@
               "parentId": "root-development-environment-wezterm-themes"
             },
             {
+              "id": "root-development-environment-wezterm-themes-tomauskasz-electric-control-room-wez",
+              "title": "Tomauskasz/electric-control-room.wez",
+              "kind": "repo",
+              "repo": "tomauskasz/electric-control-room.wez",
+              "url": "https://github.com/tomauskasz/electric-control-room.wez",
+              "description": "Animated electric control-room theme with layered APNG background effects.",
+              "external": false,
+              "sourceRepo": "michaelbrusegard/awesome-wezterm",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "WezTerm",
+                "Themes",
+                "Tomauskasz/electric-control-room.wez"
+              ],
+              "parentId": "root-development-environment-wezterm-themes"
+            },
+            {
               "id": "root-development-environment-wezterm-themes-willytop8-wezterm-window-tint",
               "title": "willytop8/Wezterm-Window-Tint",
               "kind": "repo",
@@ -116541,8 +116778,8 @@
           "parentId": "root-development-environment-wezterm"
         }
       ],
-      "stars": 673,
-      "forks": 28,
+      "stars": 689,
+      "forks": 29,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -116553,8 +116790,8 @@
         "wezterm-lua",
         "wezterm-plugin"
       ],
-      "updated": "2026-07-05T01:03:28Z",
-      "pushed": "2026-06-14T08:21:47Z",
+      "updated": "2026-07-12T03:48:32Z",
+      "pushed": "2026-07-10T22:09:56Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [

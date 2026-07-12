@@ -1021,8 +1021,8 @@
       "sourceRepo": "sindresorhus/awesome",
       "depth": 1,
       "children": [],
-      "stars": 76583,
-      "forks": 11572,
+      "stars": 76882,
+      "forks": 11600,
       "language": null,
       "license": "MIT",
       "topics": [
@@ -1031,8 +1031,8 @@
         "datasets",
         "opendata"
       ],
-      "updated": "2026-07-05T03:29:39Z",
-      "pushed": "2026-06-29T15:01:12Z",
+      "updated": "2026-07-12T04:42:41Z",
+      "pushed": "2026-07-09T20:50:53Z",
       "awesome": true,
       "readmeStatus": "empty",
       "path": [
@@ -3507,6 +3507,33 @@
                     "chDB"
                   ],
                   "parentId": "root-big-data-data-engineering-databases-other"
+                },
+                {
+                  "id": "root-big-data-data-engineering-databases-other-zvec",
+                  "title": "zvec",
+                  "kind": "repo",
+                  "repo": "alibaba/zvec",
+                  "url": "https://github.com/alibaba/zvec",
+                  "description": "An embedded vector database for on-device RAG and edge AI, the SQLite of vector databases.",
+                  "external": false,
+                  "sourceRepo": "igorbarinov/awesome-data-engineering",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Data Engineering",
+                    "Databases",
+                    "Other",
+                    "zvec"
+                  ],
+                  "parentId": "root-big-data-data-engineering-databases-other"
                 }
               ],
               "stars": 0,
@@ -3723,6 +3750,32 @@
                 "Data Engineering",
                 "Data Ingestion",
                 "Enrich.sh"
+              ],
+              "parentId": "root-big-data-data-engineering-data-ingestion"
+            },
+            {
+              "id": "root-big-data-data-engineering-data-ingestion-enrich-companies",
+              "title": "enrich-companies",
+              "kind": "repo",
+              "repo": "alessandro114/enrich-companies",
+              "url": "https://github.com/alessandro114/enrich-companies",
+              "description": "CLI tool to enrich CSV files with company data (financials, contacts, metadata) from 250M+ company records. Available on npm.",
+              "external": false,
+              "sourceRepo": "igorbarinov/awesome-data-engineering",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Data Engineering",
+                "Data Ingestion",
+                "enrich-companies"
               ],
               "parentId": "root-big-data-data-engineering-data-ingestion"
             },
@@ -7450,6 +7503,32 @@
                 "Dekart"
               ],
               "parentId": "root-big-data-data-engineering-charts-and-dashboards"
+            },
+            {
+              "id": "root-big-data-data-engineering-charts-and-dashboards-lunapad",
+              "title": "LunaPad",
+              "kind": "link",
+              "repo": "",
+              "url": "https://lunapad.dev/",
+              "description": "Open-source analytics notebook for reusable SQL workflows, interactive reports, and AI-assisted data exploration.",
+              "external": true,
+              "sourceRepo": "igorbarinov/awesome-data-engineering",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Data Engineering",
+                "Charts and Dashboards",
+                "LunaPad"
+              ],
+              "parentId": "root-big-data-data-engineering-charts-and-dashboards"
             }
           ],
           "stars": 0,
@@ -7480,7 +7559,7 @@
               "kind": "link",
               "repo": "",
               "url": "https://bonnard.dev/",
-              "description": "Agent-native semantic layer with governed metrics, React SDK, and multi-warehouse support. Connects AI agents and dashboards to a single source of truth.",
+              "description": "Governed, multi-tenant MCP access to your customers' data. Turn your warehouse, dbt, or semantic layer into a secure, per-customer MCP for AI agents.",
               "external": true,
               "sourceRepo": "igorbarinov/awesome-data-engineering",
               "depth": 2,
@@ -8017,6 +8096,32 @@
                 "Data Engineering",
                 "Workflow",
                 "PACE"
+              ],
+              "parentId": "root-big-data-data-engineering-workflow"
+            },
+            {
+              "id": "root-big-data-data-engineering-workflow-onequery",
+              "title": "OneQuery",
+              "kind": "repo",
+              "repo": "wordbricks/onequery",
+              "url": "https://github.com/wordbricks/onequery",
+              "description": "Self-hosted gateway for safe, auditable queries for agents across approved data sources.",
+              "external": false,
+              "sourceRepo": "igorbarinov/awesome-data-engineering",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Data Engineering",
+                "Workflow",
+                "OneQuery"
               ],
               "parentId": "root-big-data-data-engineering-workflow"
             },
@@ -9144,6 +9249,33 @@
                     "Mindweave Synthetic Business Data"
                   ],
                   "parentId": "root-big-data-data-engineering-datasets-data-dumps"
+                },
+                {
+                  "id": "root-big-data-data-engineering-datasets-data-dumps-latam-synth",
+                  "title": "LatAm Synth",
+                  "kind": "link",
+                  "repo": "",
+                  "url": "https://apify.com/jmendozapuche/latam-synth",
+                  "description": "Synthetic financial savings behavior generator for Latin America: users, savings goals, and transactions calibrated on 506K real records (2015–2024). Reproducible by seed, 100% synthetic.",
+                  "external": true,
+                  "sourceRepo": "igorbarinov/awesome-data-engineering",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Data Engineering",
+                    "Datasets",
+                    "Data Dumps",
+                    "LatAm Synth"
+                  ],
+                  "parentId": "root-big-data-data-engineering-datasets-data-dumps"
                 }
               ],
               "stars": 0,
@@ -9429,6 +9561,55 @@
           "path": [
             "Data Engineering",
             "Profiling"
+          ],
+          "parentId": "root-big-data-data-engineering"
+        },
+        {
+          "id": "root-big-data-data-engineering-schema",
+          "title": "Schema",
+          "kind": "section",
+          "sourceRepo": "igorbarinov/awesome-data-engineering",
+          "depth": 1,
+          "url": "https://github.com/igorbarinov/awesome-data-engineering#schema",
+          "children": [
+            {
+              "id": "root-big-data-data-engineering-schema-schemacrawler",
+              "title": "SchemaCrawler",
+              "kind": "link",
+              "repo": "",
+              "url": "https://www.schemacrawler.com/",
+              "description": "Open-source and free relational database schema discovery and comprehension tool. Documents and diagrams relational database schemas from your Java programs, build tools and the command line. Find database design issues with lint, and write scripts against the database. Includes an MCP Server for use by AI agents.",
+              "external": true,
+              "sourceRepo": "igorbarinov/awesome-data-engineering",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Data Engineering",
+                "Schema",
+                "SchemaCrawler"
+              ],
+              "parentId": "root-big-data-data-engineering-schema"
+            }
+          ],
+          "stars": 0,
+          "forks": 0,
+          "language": null,
+          "license": null,
+          "topics": [],
+          "updated": null,
+          "pushed": null,
+          "awesome": false,
+          "path": [
+            "Data Engineering",
+            "Schema"
           ],
           "parentId": "root-big-data-data-engineering"
         },
@@ -10344,16 +10525,16 @@
           "parentId": "root-big-data-data-engineering"
         }
       ],
-      "stars": 8823,
-      "forks": 1556,
+      "stars": 8855,
+      "forks": 1565,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
         "awesome",
         "awesome-list"
       ],
-      "updated": "2026-07-04T18:29:22Z",
-      "pushed": "2026-06-22T11:37:13Z",
+      "updated": "2026-07-12T03:53:56Z",
+      "pushed": "2026-07-06T12:17:28Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -14020,7 +14201,7 @@
           "parentId": "root-big-data-streaming"
         }
       ],
-      "stars": 2994,
+      "stars": 2996,
       "forks": 319,
       "language": null,
       "license": null,
@@ -14030,8 +14211,8 @@
         "list",
         "stream-processing"
       ],
-      "updated": "2026-07-03T13:01:10Z",
-      "pushed": "2026-07-04T19:16:22Z",
+      "updated": "2026-07-07T01:34:37Z",
+      "pushed": "2026-07-11T19:05:59Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -14881,7 +15062,7 @@
           "parentId": "root-big-data-apache-spark"
         }
       ],
-      "stars": 1884,
+      "stars": 1885,
       "forks": 346,
       "language": "Shell",
       "license": "CC0-1.0",
@@ -14891,7 +15072,7 @@
         "pyspark",
         "sparkr"
       ],
-      "updated": "2026-07-04T20:58:24Z",
+      "updated": "2026-07-08T19:28:33Z",
       "pushed": "2026-02-27T08:06:58Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -16636,7 +16817,7 @@
                       "depth": 4,
                       "children": [],
                       "stars": 21,
-                      "forks": 6,
+                      "forks": 5,
                       "language": null,
                       "license": "CC0-1.0",
                       "topics": [
@@ -34911,7 +35092,7 @@
               "sourceRepo": "briatte/awesome-network-analysis",
               "depth": 2,
               "children": [],
-              "stars": 4802,
+              "stars": 4800,
               "forks": 726,
               "language": "Python",
               "license": "CC0-1.0",
@@ -34937,7 +35118,7 @@
                 "structural-attention",
                 "weisfeiler-lehman"
               ],
-              "updated": "2026-06-24T12:05:13Z",
+              "updated": "2026-07-11T06:08:31Z",
               "pushed": "2023-03-18T12:10:08Z",
               "awesome": true,
               "path": [
@@ -34958,7 +35139,7 @@
               "sourceRepo": "briatte/awesome-network-analysis",
               "depth": 2,
               "children": [],
-              "stars": 2444,
+              "stars": 2443,
               "forks": 358,
               "language": "Python",
               "license": "CC0-1.0",
@@ -34984,7 +35165,7 @@
                 "social-network",
                 "unsupervised-learning"
               ],
-              "updated": "2026-06-26T02:37:04Z",
+              "updated": "2026-07-08T12:36:37Z",
               "pushed": "2025-12-20T17:06:00Z",
               "awesome": true,
               "path": [
@@ -38178,8 +38359,8 @@
           "parentId": "root-big-data-network-analysis"
         }
       ],
-      "stars": 4072,
-      "forks": 636,
+      "stars": 4076,
+      "forks": 638,
       "language": "R",
       "license": null,
       "topics": [
@@ -38199,7 +38380,7 @@
         "social-network-analysis",
         "social-networks"
       ],
-      "updated": "2026-07-04T02:40:42Z",
+      "updated": "2026-07-07T14:03:39Z",
       "pushed": "2026-04-17T18:25:35Z",
       "awesome": true,
       "readmeStatus": "expanded",

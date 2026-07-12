@@ -243,12 +243,12 @@
           "parentId": "root-databases-database"
         }
       ],
-      "stars": 1372,
+      "stars": 1374,
       "forks": 178,
       "language": null,
       "license": null,
       "topics": [],
-      "updated": "2026-07-01T18:36:24Z",
+      "updated": "2026-07-08T00:40:12Z",
       "pushed": "2024-03-04T12:40:15Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -3481,12 +3481,12 @@
           "parentId": "root-databases-mysql"
         }
       ],
-      "stars": 2589,
+      "stars": 2590,
       "forks": 403,
       "language": "Python",
       "license": "NOASSERTION",
       "topics": [],
-      "updated": "2026-07-03T06:19:25Z",
+      "updated": "2026-07-11T09:14:44Z",
       "pushed": "2026-04-21T05:52:38Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -3506,7 +3506,7 @@
       "sourceRepo": "sindresorhus/awesome",
       "depth": 1,
       "children": [],
-      "stars": 3049,
+      "stars": 3051,
       "forks": 165,
       "language": "Python",
       "license": null,
@@ -3520,7 +3520,7 @@
         "rdbms",
         "sqlalchemy"
       ],
-      "updated": "2026-07-01T13:01:21Z",
+      "updated": "2026-07-08T21:42:37Z",
       "pushed": "2026-06-08T08:36:57Z",
       "awesome": true,
       "readmeStatus": "empty",
@@ -9789,6 +9789,33 @@
               "url": "https://github.com/ramnes/awesome-mongodb#development",
               "children": [
                 {
+                  "id": "root-databases-mongodb-tools-development-argon",
+                  "title": "Argon",
+                  "kind": "repo",
+                  "repo": "argon-lab/argon",
+                  "url": "https://github.com/argon-lab/argon",
+                  "description": "Git-style branching, time travel, and merge; create disposable database sandboxes for tests and AI agents",
+                  "external": false,
+                  "sourceRepo": "ramnes/awesome-mongodb",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "MongoDB",
+                    "Tools",
+                    "Development",
+                    "Argon"
+                  ],
+                  "parentId": "root-databases-mongodb-tools-development"
+                },
+                {
                   "id": "root-databases-mongodb-tools-development-c-analyzer",
                   "title": "C# Analyzer",
                   "kind": "repo",
@@ -11141,7 +11168,7 @@
           "parentId": "root-databases-mongodb"
         }
       ],
-      "stars": 2645,
+      "stars": 2647,
       "forks": 345,
       "language": null,
       "license": null,
@@ -11152,8 +11179,8 @@
         "mongodb",
         "mongodb-resources"
       ],
-      "updated": "2026-06-30T19:02:53Z",
-      "pushed": "2026-06-18T18:09:52Z",
+      "updated": "2026-07-11T17:26:08Z",
+      "pushed": "2026-07-08T23:00:17Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -15833,8 +15860,8 @@
           "parentId": "root-databases-postgresql"
         }
       ],
-      "stars": 11978,
-      "forks": 981,
+      "stars": 11985,
+      "forks": 982,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -15842,7 +15869,7 @@
         "postgres",
         "postgresql"
       ],
-      "updated": "2026-07-04T16:35:49Z",
+      "updated": "2026-07-11T12:42:16Z",
       "pushed": "2026-05-21T14:10:48Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -18059,7 +18086,7 @@
           "parentId": "root-databases-couchdb"
         }
       ],
-      "stars": 193,
+      "stars": 194,
       "forks": 16,
       "language": null,
       "license": null,
@@ -18071,7 +18098,7 @@
         "couchdb-chat",
         "couchdb-wiki"
       ],
-      "updated": "2026-07-02T03:04:02Z",
+      "updated": "2026-07-06T15:58:29Z",
       "pushed": "2023-05-09T01:05:01Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -18586,7 +18613,7 @@
           "parentId": "root-databases-hbase"
         }
       ],
-      "stars": 178,
+      "stars": 180,
       "forks": 41,
       "language": null,
       "license": "CC0-1.0",
@@ -18595,7 +18622,7 @@
         "awesome-list",
         "hbase"
       ],
-      "updated": "2026-06-01T21:21:53Z",
+      "updated": "2026-07-06T09:41:29Z",
       "pushed": "2026-05-18T01:23:25Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -29606,8 +29633,8 @@
           "parentId": "root-databases-database-tools"
         }
       ],
-      "stars": 5232,
-      "forks": 459,
+      "stars": 5239,
+      "forks": 460,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -29621,7 +29648,7 @@
         "sql-client",
         "visualization"
       ],
-      "updated": "2026-07-04T18:33:30Z",
+      "updated": "2026-07-09T18:02:42Z",
       "pushed": "2026-05-21T15:18:32Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -40468,7 +40495,7 @@
           "parentId": "root-databases-supabase"
         }
       ],
-      "stars": 472,
+      "stars": 473,
       "forks": 51,
       "language": null,
       "license": "CC0-1.0",
@@ -40477,8 +40504,8 @@
         "awesome-list",
         "supabase"
       ],
-      "updated": "2026-07-02T03:04:55Z",
-      "pushed": "2026-05-10T10:02:59Z",
+      "updated": "2026-07-09T07:05:37Z",
+      "pushed": "2026-07-09T07:05:28Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -40860,32 +40887,6 @@
                 "PocketBase",
                 "Major Community Projects",
                 "pocketpages.dev"
-              ],
-              "parentId": "root-databases-pocketbase-major-community-projects"
-            },
-            {
-              "id": "root-databases-pocketbase-major-community-projects-pocodex-dev",
-              "title": "pocodex.dev",
-              "kind": "link",
-              "repo": "",
-              "url": "https://pocodex.dev",
-              "description": "The unofficial PocketBase plugin repository and code exchange.",
-              "external": true,
-              "sourceRepo": "benallfree/awesome-pocketbase",
-              "depth": 2,
-              "children": [],
-              "stars": 0,
-              "forks": 0,
-              "language": null,
-              "license": null,
-              "topics": [],
-              "updated": null,
-              "pushed": null,
-              "awesome": false,
-              "path": [
-                "PocketBase",
-                "Major Community Projects",
-                "pocodex.dev"
               ],
               "parentId": "root-databases-pocketbase-major-community-projects"
             },
@@ -43401,7 +43402,7 @@
           "parentId": "root-databases-pocketbase"
         }
       ],
-      "stars": 1190,
+      "stars": 1191,
       "forks": 69,
       "language": null,
       "license": "CC0-1.0",
@@ -43411,8 +43412,8 @@
         "golang",
         "pocketbase"
       ],
-      "updated": "2026-07-01T09:27:36Z",
-      "pushed": "2026-06-18T05:23:53Z",
+      "updated": "2026-07-08T22:07:00Z",
+      "pushed": "2026-07-08T22:06:56Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [

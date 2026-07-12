@@ -3489,12 +3489,12 @@
           "parentId": "root-gaming-game-talks"
         }
       ],
-      "stars": 1174,
+      "stars": 1175,
       "forks": 52,
       "language": null,
       "license": "MIT",
       "topics": [],
-      "updated": "2026-07-01T09:10:09Z",
+      "updated": "2026-07-09T23:43:35Z",
       "pushed": "2024-05-09T00:58:26Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -6181,6 +6181,33 @@
               "url": "https://github.com/godotengine/awesome-godot#godot-4",
               "children": [
                 {
+                  "id": "root-gaming-godot-demos-godot-4-gato-godot-accessibility-toolkit",
+                  "title": "GATO: Godot Accessibility Toolkit",
+                  "kind": "repo",
+                  "repo": "nokorpo/gato-godot-accessibility-toolkit",
+                  "url": "https://github.com/nokorpo/gato-godot-accessibility-toolkit",
+                  "description": "A collection of demos and addons to promote accessibility in Godot games.",
+                  "external": false,
+                  "sourceRepo": "godotengine/awesome-godot",
+                  "depth": 4,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Godot",
+                    "Demos",
+                    "Godot 4",
+                    "GATO: Godot Accessibility Toolkit"
+                  ],
+                  "parentId": "root-gaming-godot-demos-godot-4"
+                },
+                {
                   "id": "root-gaming-godot-demos-godot-4-godot-demo-projects",
                   "title": "Godot Demo Projects",
                   "kind": "repo",
@@ -7270,6 +7297,33 @@
                   "parentId": "root-gaming-godot-plugins-and-scripts-godot-4"
                 },
                 {
+                  "id": "root-gaming-godot-plugins-and-scripts-godot-4-gato-godot-accessibility-toolkit",
+                  "title": "GATO: Godot Accessibility Toolkit",
+                  "kind": "repo",
+                  "repo": "nokorpo/gato-godot-accessibility-toolkit",
+                  "url": "https://github.com/nokorpo/gato-godot-accessibility-toolkit",
+                  "description": "A collection of demos and addons to promote accessibility in Godot games.",
+                  "external": false,
+                  "sourceRepo": "godotengine/awesome-godot",
+                  "depth": 4,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Godot",
+                    "Plugins and scripts",
+                    "Godot 4",
+                    "GATO: Godot Accessibility Toolkit"
+                  ],
+                  "parentId": "root-gaming-godot-plugins-and-scripts-godot-4"
+                },
+                {
                   "id": "root-gaming-godot-plugins-and-scripts-godot-4-gdgifexporter",
                   "title": "GDGIFExporter",
                   "kind": "repo",
@@ -7374,6 +7428,33 @@
                     "Plugins and scripts",
                     "Godot 4",
                     "GedisQueue"
+                  ],
+                  "parentId": "root-gaming-godot-plugins-and-scripts-godot-4"
+                },
+                {
+                  "id": "root-gaming-godot-plugins-and-scripts-godot-4-goblend",
+                  "title": "Goblend",
+                  "kind": "repo",
+                  "repo": "togira123/goblend-export-addon",
+                  "url": "https://github.com/togira123/goblend-export-addon",
+                  "description": "Export Blender scenes to Godot with one click, including materials, collisions and nested scenes.",
+                  "external": false,
+                  "sourceRepo": "godotengine/awesome-godot",
+                  "depth": 4,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Godot",
+                    "Plugins and scripts",
+                    "Godot 4",
+                    "Goblend"
                   ],
                   "parentId": "root-gaming-godot-plugins-and-scripts-godot-4"
                 },
@@ -13610,8 +13691,8 @@
           "parentId": "root-gaming-godot"
         }
       ],
-      "stars": 10302,
-      "forks": 558,
+      "stars": 10353,
+      "forks": 563,
       "language": null,
       "license": "CC-BY-4.0",
       "topics": [
@@ -13621,8 +13702,8 @@
         "godot",
         "godot-engine"
       ],
-      "updated": "2026-07-05T05:35:43Z",
-      "pushed": "2026-06-24T02:32:05Z",
+      "updated": "2026-07-12T05:14:26Z",
+      "pushed": "2026-07-09T00:49:17Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -15185,6 +15266,33 @@
                     "Browser-Based",
                     "Arcade",
                     "Save The Forest"
+                  ],
+                  "parentId": "root-gaming-open-source-games-browser-based-arcade"
+                },
+                {
+                  "id": "root-gaming-open-source-games-browser-based-arcade-skalp",
+                  "title": "SKALP",
+                  "kind": "repo",
+                  "repo": "amudotcom-byte/skalp",
+                  "url": "https://github.com/amudotcom-byte/skalp",
+                  "description": "60-second trading-floor reflex game. Go long or short, ride the chart, close before it reverses — and don't get liquidated.",
+                  "external": false,
+                  "sourceRepo": "michelpereira/awesome-open-source-games",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Open Source Games",
+                    "Browser-Based",
+                    "Arcade",
+                    "SKALP"
                   ],
                   "parentId": "root-gaming-open-source-games-browser-based-arcade"
                 },
@@ -20492,6 +20600,33 @@
                   "parentId": "root-gaming-open-source-games-native-sandbox"
                 },
                 {
+                  "id": "root-gaming-open-source-games-native-sandbox-blocks-beyond-the-stars",
+                  "title": "Blocks Beyond the Stars",
+                  "kind": "repo",
+                  "repo": "marceld23/blocksbeyondthestars",
+                  "url": "https://github.com/marceld23/blocksbeyondthestars",
+                  "description": "Block-based 3D space crafting sandbox with procedurally generated planets, block-by-block ship & base building and self-hostable multiplayer (Unity client, .NET server).",
+                  "external": false,
+                  "sourceRepo": "michelpereira/awesome-open-source-games",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Open Source Games",
+                    "Native",
+                    "Sandbox",
+                    "Blocks Beyond the Stars"
+                  ],
+                  "parentId": "root-gaming-open-source-games-native-sandbox"
+                },
+                {
                   "id": "root-gaming-open-source-games-native-sandbox-craft",
                   "title": "Craft",
                   "kind": "repo",
@@ -25545,8 +25680,8 @@
           "parentId": "root-gaming-open-source-games"
         }
       ],
-      "stars": 2884,
-      "forks": 251,
+      "stars": 2898,
+      "forks": 253,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -25555,8 +25690,8 @@
         "games",
         "opensource"
       ],
-      "updated": "2026-07-05T00:45:34Z",
-      "pushed": "2026-05-30T13:39:18Z",
+      "updated": "2026-07-12T04:09:58Z",
+      "pushed": "2026-07-10T10:01:27Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -26016,8 +26151,8 @@
           "parentId": "root-gaming-unity"
         }
       ],
-      "stars": 7095,
-      "forks": 735,
+      "stars": 7100,
+      "forks": 734,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -26025,7 +26160,7 @@
         "game-development",
         "unity"
       ],
-      "updated": "2026-07-04T08:21:14Z",
+      "updated": "2026-07-10T06:24:27Z",
       "pushed": "2025-01-22T15:47:15Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -26050,7 +26185,7 @@
       "language": null,
       "license": "CC0-1.0",
       "topics": [],
-      "updated": "2026-06-28T21:13:54Z",
+      "updated": "2026-07-12T04:12:05Z",
       "pushed": "2020-11-20T11:48:24Z",
       "awesome": true,
       "readmeStatus": "empty",
@@ -26665,7 +26800,7 @@
           "parentId": "root-gaming-l-ve"
         }
       ],
-      "stars": 4428,
+      "stars": 4436,
       "forks": 242,
       "language": "PowerShell",
       "license": "CC0-1.0",
@@ -26676,7 +26811,7 @@
         "love2d",
         "lua"
       ],
-      "updated": "2026-07-04T20:05:04Z",
+      "updated": "2026-07-09T13:02:37Z",
       "pushed": "2026-06-18T20:27:08Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -29493,7 +29628,7 @@
           "parentId": "root-gaming-pico-8"
         }
       ],
-      "stars": 3039,
+      "stars": 3043,
       "forks": 103,
       "language": null,
       "license": "CC0-1.0",
@@ -29512,7 +29647,7 @@
         "pico-8",
         "pico8"
       ],
-      "updated": "2026-07-05T02:16:29Z",
+      "updated": "2026-07-10T17:33:51Z",
       "pushed": "2026-02-18T12:35:47Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -40627,7 +40762,7 @@
           "parentId": "root-gaming-game-boy-development"
         }
       ],
-      "stars": 4465,
+      "stars": 4470,
       "forks": 192,
       "language": null,
       "license": "NOASSERTION",
@@ -40652,7 +40787,7 @@
         "retrogaming",
         "tools"
       ],
-      "updated": "2026-07-04T15:51:56Z",
+      "updated": "2026-07-11T14:35:33Z",
       "pushed": "2026-06-13T16:22:36Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -45381,12 +45516,12 @@
               "sourceRepo": "stetso/awesome-gideros",
               "depth": 2,
               "children": [],
-              "stars": 4528,
+              "stars": 4527,
               "forks": 344,
               "language": null,
               "license": null,
               "topics": [],
-              "updated": "2026-07-03T17:38:58Z",
+              "updated": "2026-07-12T03:25:06Z",
               "pushed": "2024-08-11T17:32:00Z",
               "awesome": true,
               "path": [
@@ -45407,7 +45542,7 @@
               "sourceRepo": "stetso/awesome-gideros",
               "depth": 2,
               "children": [],
-              "stars": 4428,
+              "stars": 4436,
               "forks": 242,
               "language": "PowerShell",
               "license": "CC0-1.0",
@@ -45418,7 +45553,7 @@
                 "love2d",
                 "lua"
               ],
-              "updated": "2026-07-04T20:05:04Z",
+              "updated": "2026-07-09T13:02:37Z",
               "pushed": "2026-06-18T20:27:08Z",
               "awesome": true,
               "path": [
@@ -49821,8 +49956,8 @@
           "parentId": "root-gaming-minecraft"
         }
       ],
-      "stars": 627,
-      "forks": 40,
+      "stars": 628,
+      "forks": 39,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -49830,7 +49965,7 @@
         "awesome-list",
         "minecraft"
       ],
-      "updated": "2026-07-03T21:53:40Z",
+      "updated": "2026-07-10T13:14:28Z",
       "pushed": "2025-08-23T13:16:01Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -53546,12 +53681,12 @@
                   "sourceRepo": "tomodachi94/awesome-computercraft",
                   "depth": 3,
                   "children": [],
-                  "stars": 4528,
+                  "stars": 4527,
                   "forks": 344,
                   "language": null,
                   "license": null,
                   "topics": [],
-                  "updated": "2026-07-03T17:38:58Z",
+                  "updated": "2026-07-12T03:25:06Z",
                   "pushed": "2024-08-11T17:32:00Z",
                   "awesome": true,
                   "path": [
@@ -53605,8 +53740,8 @@
                   "language": null,
                   "license": null,
                   "topics": [],
-                  "updated": "2026-06-25T09:06:19Z",
-                  "pushed": "2026-06-25T09:06:14Z",
+                  "updated": "2026-07-11T21:43:02Z",
+                  "pushed": "2026-07-11T21:42:58Z",
                   "awesome": true,
                   "path": [
                     "ComputerCraft",
@@ -53854,7 +53989,7 @@
           "parentId": "root-gaming-computercraft"
         }
       ],
-      "stars": 310,
+      "stars": 313,
       "forks": 18,
       "language": "Just",
       "license": "CC-BY-SA-4.0",
@@ -53865,7 +54000,7 @@
         "computercraft-tweaked",
         "minecraft"
       ],
-      "updated": "2026-07-04T19:26:10Z",
+      "updated": "2026-07-09T22:07:59Z",
       "pushed": "2026-07-01T11:40:58Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -53885,7 +54020,7 @@
       "sourceRepo": "sindresorhus/awesome",
       "depth": 1,
       "children": [],
-      "stars": 1089,
+      "stars": 1091,
       "forks": 81,
       "language": null,
       "license": "CC-BY-4.0",
@@ -53900,7 +54035,7 @@
         "game",
         "games"
       ],
-      "updated": "2026-07-04T18:10:52Z",
+      "updated": "2026-07-09T23:24:45Z",
       "pushed": "2026-06-09T00:26:13Z",
       "awesome": false,
       "path": [
@@ -54717,7 +54852,7 @@
         }
       ],
       "stars": 421,
-      "forks": 18,
+      "forks": 19,
       "language": "Haxe",
       "license": "CC0-1.0",
       "topics": [
@@ -57380,12 +57515,12 @@
               "sourceRepo": "rafaskb/awesome-libgdx",
               "depth": 2,
               "children": [],
-              "stars": 1174,
+              "stars": 1175,
               "forks": 52,
               "language": null,
               "license": "MIT",
               "topics": [],
-              "updated": "2026-07-01T09:10:09Z",
+              "updated": "2026-07-09T23:43:35Z",
               "pushed": "2024-05-09T00:58:26Z",
               "awesome": true,
               "path": [
@@ -57406,16 +57541,16 @@
               "sourceRepo": "rafaskb/awesome-libgdx",
               "depth": 2,
               "children": [],
-              "stars": 48377,
-              "forks": 7690,
+              "stars": 48445,
+              "forks": 7699,
               "language": null,
               "license": "NOASSERTION",
               "topics": [
                 "awesome",
                 "awesome-list"
               ],
-              "updated": "2026-07-05T05:56:07Z",
-              "pushed": "2026-06-26T05:57:12Z",
+              "updated": "2026-07-12T04:46:45Z",
+              "pushed": "2026-07-06T09:15:11Z",
               "awesome": true,
               "path": [
                 "libGDX",
@@ -57513,8 +57648,8 @@
               "sourceRepo": "rafaskb/awesome-libgdx",
               "depth": 2,
               "children": [],
-              "stars": 3050,
-              "forks": 187,
+              "stars": 3057,
+              "forks": 188,
               "language": null,
               "license": "CC-BY-SA-4.0",
               "topics": [
@@ -57524,8 +57659,8 @@
                 "game-development",
                 "game-programming"
               ],
-              "updated": "2026-07-04T10:08:06Z",
-              "pushed": "2026-03-21T00:45:34Z",
+              "updated": "2026-07-11T01:33:53Z",
+              "pushed": "2026-07-07T19:10:59Z",
               "awesome": true,
               "path": [
                 "libGDX",
@@ -57550,7 +57685,7 @@
           "parentId": "root-gaming-libgdx"
         }
       ],
-      "stars": 1262,
+      "stars": 1263,
       "forks": 83,
       "language": null,
       "license": "CC0-1.0",
@@ -57559,7 +57694,7 @@
         "awesome-list",
         "libgdx"
       ],
-      "updated": "2026-06-30T19:14:33Z",
+      "updated": "2026-07-10T19:39:25Z",
       "pushed": "2024-12-03T21:43:58Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -63556,7 +63691,7 @@
           "parentId": "root-gaming-playcanvas"
         }
       ],
-      "stars": 463,
+      "stars": 467,
       "forks": 58,
       "language": null,
       "license": "CC0-1.0",
@@ -63566,7 +63701,7 @@
         "playcanvas",
         "webgl"
       ],
-      "updated": "2026-07-03T05:58:00Z",
+      "updated": "2026-07-12T00:25:57Z",
       "pushed": "2026-06-25T15:24:14Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -72397,8 +72532,8 @@
           "parentId": "root-gaming-game-remakes"
         }
       ],
-      "stars": 1396,
-      "forks": 68,
+      "stars": 1400,
+      "forks": 69,
       "language": null,
       "license": "CC-BY-SA-4.0",
       "topics": [
@@ -72409,7 +72544,7 @@
         "games",
         "remake"
       ],
-      "updated": "2026-07-03T21:53:55Z",
+      "updated": "2026-07-11T17:57:51Z",
       "pushed": "2026-06-25T15:45:22Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -76015,8 +76150,8 @@
               "sourceRepo": "flame-engine/awesome-flame",
               "depth": 2,
               "children": [],
-              "stars": 1367,
-              "forks": 116,
+              "stars": 1370,
+              "forks": 117,
               "language": null,
               "license": "CC0-1.0",
               "topics": [
@@ -76029,7 +76164,7 @@
                 "lists",
                 "resources"
               ],
-              "updated": "2026-07-04T14:07:09Z",
+              "updated": "2026-07-09T05:59:41Z",
               "pushed": "2026-07-02T10:11:31Z",
               "awesome": true,
               "path": [
@@ -76050,8 +76185,8 @@
               "sourceRepo": "flame-engine/awesome-flame",
               "depth": 2,
               "children": [],
-              "stars": 1367,
-              "forks": 116,
+              "stars": 1370,
+              "forks": 117,
               "language": null,
               "license": "CC0-1.0",
               "topics": [
@@ -76064,7 +76199,7 @@
                 "lists",
                 "resources"
               ],
-              "updated": "2026-07-04T14:07:09Z",
+              "updated": "2026-07-09T05:59:41Z",
               "pushed": "2026-07-02T10:11:31Z",
               "awesome": true,
               "path": [
@@ -76090,8 +76225,8 @@
           "parentId": "root-gaming-flame"
         }
       ],
-      "stars": 1367,
-      "forks": 116,
+      "stars": 1370,
+      "forks": 117,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -76104,7 +76239,7 @@
         "lists",
         "resources"
       ],
-      "updated": "2026-07-04T14:07:09Z",
+      "updated": "2026-07-09T05:59:41Z",
       "pushed": "2026-07-02T10:11:31Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -78128,8 +78263,8 @@
           "parentId": "root-gaming-discord-communities"
         }
       ],
-      "stars": 3534,
-      "forks": 219,
+      "stars": 3541,
+      "forks": 218,
       "language": "Python",
       "license": "CC-BY-4.0",
       "topics": [
@@ -78142,7 +78277,7 @@
         "game-development",
         "web"
       ],
-      "updated": "2026-07-03T09:58:17Z",
+      "updated": "2026-07-12T02:06:15Z",
       "pushed": "2026-04-25T19:09:39Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -79724,8 +79859,8 @@
           "parentId": "root-gaming-games-of-coding"
         }
       ],
-      "stars": 2118,
-      "forks": 103,
+      "stars": 2121,
+      "forks": 104,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -79736,7 +79871,7 @@
         "programming-language",
         "robocode"
       ],
-      "updated": "2026-06-30T19:06:14Z",
+      "updated": "2026-07-11T01:15:30Z",
       "pushed": "2026-03-25T03:16:25Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -80875,7 +81010,7 @@
           "parentId": "root-gaming-esports"
         }
       ],
-      "stars": 103,
+      "stars": 104,
       "forks": 9,
       "language": null,
       "license": "CC0-1.0",
@@ -80884,7 +81019,7 @@
         "awesome-list",
         "esports"
       ],
-      "updated": "2026-07-03T12:54:17Z",
+      "updated": "2026-07-12T01:37:01Z",
       "pushed": "2025-06-10T12:03:15Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -83825,6 +83960,33 @@
                     "Learning",
                     "Computer Graphics",
                     "📚 Physically-Based Rendering"
+                  ],
+                  "parentId": "root-gaming-game-engine-development-learning-computer-graphics"
+                },
+                {
+                  "id": "root-gaming-game-engine-development-learning-computer-graphics-books-real-time-rendering-fourth-edition",
+                  "title": "📚 Real-Time Rendering, Fourth Edition",
+                  "kind": "topic",
+                  "repo": "",
+                  "url": "",
+                  "description": "Complete reference on 3D interactive computer graphics.",
+                  "external": false,
+                  "sourceRepo": "stevinz/awesome-game-engine-dev",
+                  "depth": 5,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Game Engine Development",
+                    "Learning",
+                    "Computer Graphics",
+                    "📚 Real-Time Rendering, Fourth Edition"
                   ],
                   "parentId": "root-gaming-game-engine-development-learning-computer-graphics"
                 },
@@ -87452,6 +87614,33 @@
                   "parentId": "root-gaming-game-engine-development-libraries-c"
                 },
                 {
+                  "id": "root-gaming-game-engine-development-libraries-c-c-game-framework-corange",
+                  "title": "🎉 Corange",
+                  "kind": "topic",
+                  "repo": "",
+                  "url": "",
+                  "description": "Pure C game engine.",
+                  "external": false,
+                  "sourceRepo": "stevinz/awesome-game-engine-dev",
+                  "depth": 5,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Game Engine Development",
+                    "Libraries",
+                    "C",
+                    "🎉 Corange"
+                  ],
+                  "parentId": "root-gaming-game-engine-development-libraries-c"
+                },
+                {
                   "id": "root-gaming-game-engine-development-libraries-c-c-game-framework-dome",
                   "title": "🎉 DOME",
                   "kind": "topic",
@@ -90122,6 +90311,33 @@
                   "parentId": "root-gaming-game-engine-development-libraries-c-2"
                 },
                 {
+                  "id": "root-gaming-game-engine-development-libraries-c-c-game-engine-w-editor-echo",
+                  "title": "🎉 Echo",
+                  "kind": "topic",
+                  "repo": "",
+                  "url": "",
+                  "description": "Cross-platform 2D/3D game engine.",
+                  "external": false,
+                  "sourceRepo": "stevinz/awesome-game-engine-dev",
+                  "depth": 5,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Game Engine Development",
+                    "Libraries",
+                    "C++",
+                    "🎉 Echo"
+                  ],
+                  "parentId": "root-gaming-game-engine-development-libraries-c-2"
+                },
+                {
                   "id": "root-gaming-game-engine-development-libraries-c-c-game-engine-w-editor-enigma",
                   "title": "🔒 Enigma",
                   "kind": "topic",
@@ -92417,6 +92633,33 @@
                   "parentId": "root-gaming-game-engine-development-libraries-c-2"
                 },
                 {
+                  "id": "root-gaming-game-engine-development-libraries-c-c-graphics-trinity",
+                  "title": "🎉 trinity",
+                  "kind": "topic",
+                  "repo": "",
+                  "url": "",
+                  "description": "Rendering engine for the Carbon Game Engine.",
+                  "external": false,
+                  "sourceRepo": "stevinz/awesome-game-engine-dev",
+                  "depth": 5,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Game Engine Development",
+                    "Libraries",
+                    "C++",
+                    "🎉 trinity"
+                  ],
+                  "parentId": "root-gaming-game-engine-development-libraries-c-2"
+                },
+                {
                   "id": "root-gaming-game-engine-development-libraries-c-c-graphics-tungsten",
                   "title": "🎉 Tungsten",
                   "kind": "topic",
@@ -93520,6 +93763,33 @@
                     "Libraries",
                     "C++",
                     "🎉 Box2D"
+                  ],
+                  "parentId": "root-gaming-game-engine-development-libraries-c-2"
+                },
+                {
+                  "id": "root-gaming-game-engine-development-libraries-c-c-physics-box3d",
+                  "title": "🎉 Box3D",
+                  "kind": "topic",
+                  "repo": "",
+                  "url": "",
+                  "description": "3D physics engine for games by the maker of Box2D.",
+                  "external": false,
+                  "sourceRepo": "stevinz/awesome-game-engine-dev",
+                  "depth": 5,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Game Engine Development",
+                    "Libraries",
+                    "C++",
+                    "🎉 Box3D"
                   ],
                   "parentId": "root-gaming-game-engine-development-libraries-c-2"
                 },
@@ -95029,6 +95299,33 @@
                     "Libraries",
                     "C#",
                     "🌎 Blazor"
+                  ],
+                  "parentId": "root-gaming-game-engine-development-libraries-c-3"
+                },
+                {
+                  "id": "root-gaming-game-engine-development-libraries-c-c-cross-platform-h5",
+                  "title": "🎉 h5",
+                  "kind": "topic",
+                  "repo": "",
+                  "url": "",
+                  "description": "Next generation C# to JavaScript compiler.",
+                  "external": false,
+                  "sourceRepo": "stevinz/awesome-game-engine-dev",
+                  "depth": 5,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Game Engine Development",
+                    "Libraries",
+                    "C#",
+                    "🎉 h5"
                   ],
                   "parentId": "root-gaming-game-engine-development-libraries-c-3"
                 },
@@ -99146,6 +99443,60 @@
                   "parentId": "root-gaming-game-engine-development-libraries-java"
                 },
                 {
+                  "id": "root-gaming-game-engine-development-libraries-java-java-game-engine-w-editor",
+                  "title": "Java: Game Engine w/Editor",
+                  "kind": "topic",
+                  "repo": "",
+                  "url": "",
+                  "description": "",
+                  "external": false,
+                  "sourceRepo": "stevinz/awesome-game-engine-dev",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Game Engine Development",
+                    "Libraries",
+                    "Java",
+                    "Java: Game Engine w/Editor"
+                  ],
+                  "parentId": "root-gaming-game-engine-development-libraries-java"
+                },
+                {
+                  "id": "root-gaming-game-engine-development-libraries-java-java-game-engine-w-editor-alice-3",
+                  "title": "🎉 Alice 3",
+                  "kind": "topic",
+                  "repo": "",
+                  "url": "",
+                  "description": "Block-based 3D engine to teach programming and animation, by Carnegie Mellon.",
+                  "external": false,
+                  "sourceRepo": "stevinz/awesome-game-engine-dev",
+                  "depth": 5,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Game Engine Development",
+                    "Libraries",
+                    "Java",
+                    "🎉 Alice 3"
+                  ],
+                  "parentId": "root-gaming-game-engine-development-libraries-java"
+                },
+                {
                   "id": "root-gaming-game-engine-development-libraries-java-java-game-framework",
                   "title": "Java: Game Framework",
                   "kind": "topic",
@@ -101168,6 +101519,33 @@
                   "parentId": "root-gaming-game-engine-development-libraries-javascript"
                 },
                 {
+                  "id": "root-gaming-game-engine-development-libraries-javascript-javascript-game-engine-w-editor-carrots",
+                  "title": "🎉 Carrots",
+                  "kind": "topic",
+                  "repo": "",
+                  "url": "",
+                  "description": "Open-source 2D/3D game engine forked from GDevelop.",
+                  "external": false,
+                  "sourceRepo": "stevinz/awesome-game-engine-dev",
+                  "depth": 5,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Game Engine Development",
+                    "Libraries",
+                    "JavaScript",
+                    "🎉 Carrots"
+                  ],
+                  "parentId": "root-gaming-game-engine-development-libraries-javascript"
+                },
+                {
                   "id": "root-gaming-game-engine-development-libraries-javascript-javascript-game-engine-w-editor-cocos-creator",
                   "title": "🎉 Cocos Creator",
                   "kind": "topic",
@@ -101254,7 +101632,7 @@
                   "kind": "topic",
                   "repo": "",
                   "url": "",
-                  "description": "Full-featured 2D game development. [Website]",
+                  "description": "Full-featured 2D/3D/multiplayer game development. [Website]",
                   "external": false,
                   "sourceRepo": "stevinz/awesome-game-engine-dev",
                   "depth": 5,
@@ -102244,6 +102622,33 @@
                     "Libraries",
                     "JavaScript",
                     "🎉 Pts"
+                  ],
+                  "parentId": "root-gaming-game-engine-development-libraries-javascript"
+                },
+                {
+                  "id": "root-gaming-game-engine-development-libraries-javascript-javascript-graphics-puzzlescript",
+                  "title": "🎉 PuzzleScript",
+                  "kind": "topic",
+                  "repo": "",
+                  "url": "",
+                  "description": "Puzzle game engine, by the maker of bfxr. [Awesome]",
+                  "external": false,
+                  "sourceRepo": "stevinz/awesome-game-engine-dev",
+                  "depth": 5,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Game Engine Development",
+                    "Libraries",
+                    "JavaScript",
+                    "🎉 PuzzleScript"
                   ],
                   "parentId": "root-gaming-game-engine-development-libraries-javascript"
                 },
@@ -104516,6 +104921,33 @@
                   "parentId": "root-gaming-game-engine-development-libraries-javascript"
                 },
                 {
+                  "id": "root-gaming-game-engine-development-libraries-javascript-javascript-physics-box3d-wasm",
+                  "title": "🎉 box3d-wasm",
+                  "kind": "topic",
+                  "repo": "",
+                  "url": "",
+                  "description": "Box3D to ported as WebAssembly.",
+                  "external": false,
+                  "sourceRepo": "stevinz/awesome-game-engine-dev",
+                  "depth": 5,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Game Engine Development",
+                    "Libraries",
+                    "JavaScript",
+                    "🎉 box3d-wasm"
+                  ],
+                  "parentId": "root-gaming-game-engine-development-libraries-javascript"
+                },
+                {
                   "id": "root-gaming-game-engine-development-libraries-javascript-javascript-physics-cannon-es",
                   "title": "🎉 Cannon-es",
                   "kind": "topic",
@@ -106051,7 +106483,7 @@
                   "kind": "topic",
                   "repo": "",
                   "url": "",
-                  "description": "Full stack web apps with nothing but Python.",
+                  "description": "Full-stack web apps with nothing but Python.",
                   "external": false,
                   "sourceRepo": "stevinz/awesome-game-engine-dev",
                   "depth": 5,
@@ -112868,6 +113300,33 @@
                   "parentId": "root-gaming-game-engine-development-tools-software-animation-software"
                 },
                 {
+                  "id": "root-gaming-game-engine-development-tools-software-animation-software-facefx",
+                  "title": "💰 FaceFX",
+                  "kind": "topic",
+                  "repo": "",
+                  "url": "",
+                  "description": "Leading provider of audio-based facial animation.",
+                  "external": false,
+                  "sourceRepo": "stevinz/awesome-game-engine-dev",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Game Engine Development",
+                    "Tools / Software",
+                    "Animation Software",
+                    "💰 FaceFX"
+                  ],
+                  "parentId": "root-gaming-game-engine-development-tools-software-animation-software"
+                },
+                {
                   "id": "root-gaming-game-engine-development-tools-software-animation-software-mixamo",
                   "title": "💸 Mixamo",
                   "kind": "topic",
@@ -113351,6 +113810,33 @@
                   "parentId": "root-gaming-game-engine-development-tools-software-audio-tools"
                 },
                 {
+                  "id": "root-gaming-game-engine-development-tools-software-audio-tools-sound-effects-sfxr",
+                  "title": "🆓 sfxr",
+                  "kind": "topic",
+                  "repo": "",
+                  "url": "",
+                  "description": "The original tiny sound effects tool.",
+                  "external": false,
+                  "sourceRepo": "stevinz/awesome-game-engine-dev",
+                  "depth": 5,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Game Engine Development",
+                    "Tools / Software",
+                    "Audio Tools",
+                    "🆓 sfxr"
+                  ],
+                  "parentId": "root-gaming-game-engine-development-tools-software-audio-tools"
+                },
+                {
                   "id": "root-gaming-game-engine-development-tools-software-audio-tools-sound-effects-zzfx",
                   "title": "🆓 ZzFX",
                   "kind": "topic",
@@ -113821,6 +114307,33 @@
                     "Tools / Software",
                     "Level Editors",
                     "💰 Crocotile 3D"
+                  ],
+                  "parentId": "root-gaming-game-engine-development-tools-software-level-editors"
+                },
+                {
+                  "id": "root-gaming-game-engine-development-tools-software-level-editors-cygon",
+                  "title": "💰 Cygon",
+                  "kind": "topic",
+                  "repo": "",
+                  "url": "",
+                  "description": "Fast and easy game environment prototyping.",
+                  "external": false,
+                  "sourceRepo": "stevinz/awesome-game-engine-dev",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Game Engine Development",
+                    "Tools / Software",
+                    "Level Editors",
+                    "💰 Cygon"
                   ],
                   "parentId": "root-gaming-game-engine-development-tools-software-level-editors"
                 },
@@ -115812,7 +116325,7 @@
           "parentId": "root-gaming-game-engine-development"
         }
       ],
-      "stars": 1383,
+      "stars": 1385,
       "forks": 101,
       "language": null,
       "license": "CC0-1.0",
@@ -115835,8 +116348,8 @@
         "shaders",
         "tools"
       ],
-      "updated": "2026-07-05T04:01:04Z",
-      "pushed": "2026-06-16T22:52:37Z",
+      "updated": "2026-07-11T11:20:28Z",
+      "pushed": "2026-07-10T18:41:39Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -116038,36 +116551,7 @@
                   "external": false,
                   "sourceRepo": "bytecauldron/awesome-gamemaker",
                   "depth": 3,
-                  "children": [
-                    {
-                      "id": "root-gaming-gamemaker-getting-started-recommendations-for-pixel-art-aseprite-is-a-popular-alternative-to-the-native-sprite-editor-aseprite-s-source-code-can-be-compiled-for-free",
-                      "title": "Aseprite's source code can be compiled for free.",
-                      "kind": "topic",
-                      "repo": "",
-                      "url": "",
-                      "description": "",
-                      "external": false,
-                      "sourceRepo": "bytecauldron/awesome-gamemaker",
-                      "depth": 4,
-                      "children": [],
-                      "stars": 0,
-                      "forks": 0,
-                      "language": null,
-                      "license": null,
-                      "topics": [],
-                      "updated": null,
-                      "pushed": null,
-                      "awesome": false,
-                      "path": [
-                        "GameMaker",
-                        "Getting Started",
-                        "Recommendations",
-                        "For pixel art, Aseprite is a popular alternative to the native sprite editor. 💸",
-                        "Aseprite's source code can be compiled for free."
-                      ],
-                      "parentId": "root-gaming-gamemaker-getting-started-recommendations-for-pixel-art-aseprite-is-a-popular-alternative-to-the-native-sprite-editor"
-                    }
-                  ],
+                  "children": [],
                   "stars": 0,
                   "forks": 0,
                   "language": null,
@@ -116081,6 +116565,33 @@
                     "Getting Started",
                     "Recommendations",
                     "For pixel art, Aseprite is a popular alternative to the native sprite editor. 💸"
+                  ],
+                  "parentId": "root-gaming-gamemaker-getting-started-recommendations"
+                },
+                {
+                  "id": "root-gaming-gamemaker-getting-started-recommendations-aseprite-s-source-code",
+                  "title": "Aseprite's source code",
+                  "kind": "repo",
+                  "repo": "aseprite/aseprite",
+                  "url": "https://github.com/aseprite/aseprite",
+                  "description": "Can be compiled for free.",
+                  "external": false,
+                  "sourceRepo": "bytecauldron/awesome-gamemaker",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "GameMaker",
+                    "Getting Started",
+                    "Recommendations",
+                    "Aseprite's source code"
                   ],
                   "parentId": "root-gaming-gamemaker-getting-started-recommendations"
                 },
@@ -116827,6 +117338,32 @@
           "url": "https://github.com/bytecauldron/awesome-gamemaker#native-extensions",
           "children": [
             {
+              "id": "root-gaming-gamemaker-native-extensions-gm-extensiongenerator",
+              "title": "GM-ExtensionGenerator",
+              "kind": "repo",
+              "repo": "yoyogames/gm-extensiongenerator",
+              "url": "https://github.com/yoyogames/gm-extensiongenerator",
+              "description": "Official, schema-driven code generator for native extensions.",
+              "external": false,
+              "sourceRepo": "bytecauldron/awesome-gamemaker",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "GameMaker",
+                "Native Extensions",
+                "GM-ExtensionGenerator"
+              ],
+              "parentId": "root-gaming-gamemaker-native-extensions"
+            },
+            {
               "id": "root-gaming-gamemaker-native-extensions-zlib-functions",
               "title": "zlib functions",
               "kind": "link",
@@ -117013,7 +117550,7 @@
               "title": "Video Player Extension",
               "kind": "link",
               "repo": "",
-              "url": "https://forum.yoyogames.com/index.php?threads/video-player-for-windows-macos-and-ubuntu.77882/",
+              "url": "https://forum.gamemaker.io/index.php?threads/video-player-for-windows-macos-and-ubuntu.77882/",
               "description": "Play videos. However, the latest version of GMS has video support.",
               "external": true,
               "sourceRepo": "bytecauldron/awesome-gamemaker",
@@ -117039,7 +117576,7 @@
               "title": "GMESCAPI",
               "kind": "link",
               "repo": "",
-              "url": "https://marketplace.yoyogames.com/assets/9529/gmescapi",
+              "url": "https://marketplace.gamemaker.io/assets/9529/gmescapi",
               "description": "Webcam capture.",
               "external": true,
               "sourceRepo": "bytecauldron/awesome-gamemaker",
@@ -117274,7 +117811,7 @@
               "kind": "repo",
               "repo": "sidorakh/wasm-bridge",
               "url": "https://github.com/sidorakh/wasm-bridge",
-              "description": "A way to use JS extensions in GX/WASM games.",
+              "description": "A way to use JS extensions in GX/WebAssembly games.",
               "external": false,
               "sourceRepo": "bytecauldron/awesome-gamemaker",
               "depth": 2,
@@ -117396,12 +117933,12 @@
           "url": "https://github.com/bytecauldron/awesome-gamemaker#timing",
           "children": [
             {
-              "id": "root-gaming-gamemaker-timing-iota",
-              "title": "Iota",
+              "id": "root-gaming-gamemaker-timing-dolater",
+              "title": "DoLater",
               "kind": "repo",
-              "repo": "jujuadams/iota",
-              "url": "https://github.com/jujuadams/iota",
-              "description": "Lightweight timestep library.",
+              "repo": "jujuadams/dolater",
+              "url": "https://github.com/jujuadams/dolater",
+              "description": "Deferred code execution improving on the native calllater() function.",
               "external": false,
               "sourceRepo": "bytecauldron/awesome-gamemaker",
               "depth": 2,
@@ -117417,7 +117954,7 @@
               "path": [
                 "GameMaker",
                 "Timing",
-                "Iota"
+                "DoLater"
               ],
               "parentId": "root-gaming-gamemaker-timing"
             },
@@ -117531,7 +118068,7 @@
               "kind": "repo",
               "repo": "nommiin/timers",
               "url": "https://github.com/nommiin/timers",
-              "description": "Timer methods based on setTimeout and setInterval from JS.",
+              "description": "Interval-based timing methods modeled after JS's setTimeout and setInterval.",
               "external": false,
               "sourceRepo": "bytecauldron/awesome-gamemaker",
               "depth": 2,
@@ -118558,6 +119095,58 @@
                 "GMLiteSearch"
               ],
               "parentId": "root-gaming-gamemaker-utilities"
+            },
+            {
+              "id": "root-gaming-gamemaker-utilities-iota",
+              "title": "Iota",
+              "kind": "repo",
+              "repo": "jujuadams/iota",
+              "url": "https://github.com/jujuadams/iota",
+              "description": "Lightweight timestep library.",
+              "external": false,
+              "sourceRepo": "bytecauldron/awesome-gamemaker",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "GameMaker",
+                "Utilities",
+                "Iota"
+              ],
+              "parentId": "root-gaming-gamemaker-utilities"
+            },
+            {
+              "id": "root-gaming-gamemaker-utilities-gmvex",
+              "title": "GMVex",
+              "kind": "repo",
+              "repo": "erkan612/gmvex",
+              "url": "https://github.com/erkan612/gmvex",
+              "description": "Vector graphics framework with SVG support, TrueType font rendering, path boolean operations and fill/stroke rendering.",
+              "external": false,
+              "sourceRepo": "bytecauldron/awesome-gamemaker",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "GameMaker",
+                "Utilities",
+                "GMVex"
+              ],
+              "parentId": "root-gaming-gamemaker-utilities"
             }
           ],
           "stars": 0,
@@ -118918,58 +119507,6 @@
               "parentId": "root-gaming-gamemaker-debugging"
             },
             {
-              "id": "root-gaming-gamemaker-debugging-olympus",
-              "title": "Olympus",
-              "kind": "repo",
-              "repo": "bscotch/olympus",
-              "url": "https://github.com/bscotch/olympus",
-              "description": "Testing Framework.",
-              "external": false,
-              "sourceRepo": "bytecauldron/awesome-gamemaker",
-              "depth": 2,
-              "children": [],
-              "stars": 0,
-              "forks": 0,
-              "language": null,
-              "license": null,
-              "topics": [],
-              "updated": null,
-              "pushed": null,
-              "awesome": false,
-              "path": [
-                "GameMaker",
-                "Debugging",
-                "Olympus"
-              ],
-              "parentId": "root-gaming-gamemaker-debugging"
-            },
-            {
-              "id": "root-gaming-gamemaker-debugging-crispy",
-              "title": "Crispy",
-              "kind": "repo",
-              "repo": "bfrymire/crispy",
-              "url": "https://github.com/bfrymire/crispy",
-              "description": "Unit testing in GameMaker.",
-              "external": false,
-              "sourceRepo": "bytecauldron/awesome-gamemaker",
-              "depth": 2,
-              "children": [],
-              "stars": 0,
-              "forks": 0,
-              "language": null,
-              "license": null,
-              "topics": [],
-              "updated": null,
-              "pushed": null,
-              "awesome": false,
-              "path": [
-                "GameMaker",
-                "Debugging",
-                "Crispy"
-              ],
-              "parentId": "root-gaming-gamemaker-debugging"
-            },
-            {
               "id": "root-gaming-gamemaker-debugging-snitch",
               "title": "Snitch",
               "kind": "repo",
@@ -119018,32 +119555,6 @@
                 "GameMaker",
                 "Debugging",
                 "DeerLog"
-              ],
-              "parentId": "root-gaming-gamemaker-debugging"
-            },
-            {
-              "id": "root-gaming-gamemaker-debugging-gms2-test",
-              "title": "gms2-test",
-              "kind": "repo",
-              "repo": "pmarincak/gms2-test",
-              "url": "https://github.com/pmarincak/gms2-test",
-              "description": "Unit testing framework.",
-              "external": false,
-              "sourceRepo": "bytecauldron/awesome-gamemaker",
-              "depth": 2,
-              "children": [],
-              "stars": 0,
-              "forks": 0,
-              "language": null,
-              "license": null,
-              "topics": [],
-              "updated": null,
-              "pushed": null,
-              "awesome": false,
-              "path": [
-                "GameMaker",
-                "Debugging",
-                "gms2-test"
               ],
               "parentId": "root-gaming-gamemaker-debugging"
             },
@@ -119254,6 +119765,136 @@
                 "Lookout"
               ],
               "parentId": "root-gaming-gamemaker-debugging"
+            },
+            {
+              "id": "root-gaming-gamemaker-debugging-olympus",
+              "title": "Olympus",
+              "kind": "repo",
+              "repo": "bscotch/olympus",
+              "url": "https://github.com/bscotch/olympus",
+              "description": "Testing Framework.",
+              "external": false,
+              "sourceRepo": "bytecauldron/awesome-gamemaker",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "GameMaker",
+                "Debugging",
+                "Olympus"
+              ],
+              "parentId": "root-gaming-gamemaker-debugging"
+            },
+            {
+              "id": "root-gaming-gamemaker-debugging-ganary",
+              "title": "Ganary",
+              "kind": "repo",
+              "repo": "bscotch/ganary",
+              "url": "https://github.com/bscotch/ganary",
+              "description": "Uses Olympus to perform regression tests.",
+              "external": false,
+              "sourceRepo": "bytecauldron/awesome-gamemaker",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "GameMaker",
+                "Debugging",
+                "Ganary"
+              ],
+              "parentId": "root-gaming-gamemaker-debugging"
+            },
+            {
+              "id": "root-gaming-gamemaker-debugging-gm-verrific",
+              "title": "gm-verrific",
+              "kind": "repo",
+              "repo": "alphish/gm-verrific",
+              "url": "https://github.com/alphish/gm-verrific",
+              "description": "The ultimate automated testing framework.",
+              "external": false,
+              "sourceRepo": "bytecauldron/awesome-gamemaker",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "GameMaker",
+                "Debugging",
+                "gm-verrific"
+              ],
+              "parentId": "root-gaming-gamemaker-debugging"
+            },
+            {
+              "id": "root-gaming-gamemaker-debugging-gms2-test",
+              "title": "gms2-test",
+              "kind": "repo",
+              "repo": "pmarincak/gms2-test",
+              "url": "https://github.com/pmarincak/gms2-test",
+              "description": "Unit testing framework.",
+              "external": false,
+              "sourceRepo": "bytecauldron/awesome-gamemaker",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "GameMaker",
+                "Debugging",
+                "gms2-test"
+              ],
+              "parentId": "root-gaming-gamemaker-debugging"
+            },
+            {
+              "id": "root-gaming-gamemaker-debugging-crispy",
+              "title": "Crispy",
+              "kind": "repo",
+              "repo": "bfrymire/crispy",
+              "url": "https://github.com/bfrymire/crispy",
+              "description": "Unit testing in GameMaker.",
+              "external": false,
+              "sourceRepo": "bytecauldron/awesome-gamemaker",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "GameMaker",
+                "Debugging",
+                "Crispy"
+              ],
+              "parentId": "root-gaming-gamemaker-debugging"
             }
           ],
           "stars": 0,
@@ -119301,6 +119942,32 @@
                 "GameMaker",
                 "Input Handling",
                 "Input"
+              ],
+              "parentId": "root-gaming-gamemaker-input-handling"
+            },
+            {
+              "id": "root-gaming-gamemaker-input-handling-inputtouch",
+              "title": "InputTouch",
+              "kind": "repo",
+              "repo": "alubj/inputtouch",
+              "url": "https://github.com/alubj/inputtouch",
+              "description": "Touch controls plugin for Input.",
+              "external": false,
+              "sourceRepo": "bytecauldron/awesome-gamemaker",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "GameMaker",
+                "Input Handling",
+                "InputTouch"
               ],
               "parentId": "root-gaming-gamemaker-input-handling"
             },
@@ -120522,7 +121189,7 @@
               "title": "On Slopes and Grids",
               "kind": "link",
               "repo": "",
-              "url": "https://forum.yoyogames.com/index.php?threads/on-slopes-and-grids-subpixel-perfect-topdown-movement-and-collision-line-without-objects.4073/",
+              "url": "https://forum.gamemaker.io/index.php?threads/on-slopes-and-grids-subpixel-perfect-topdown-movement-and-collision-line-without-objects.4073/",
               "description": "A tutorial to implement 45° slopes.",
               "external": true,
               "sourceRepo": "bytecauldron/awesome-gamemaker",
@@ -122481,7 +123148,7 @@
               "kind": "link",
               "repo": "",
               "url": "https://terohannula.itch.io/jump-flooding-algorithm",
-              "description": "Jump Flooding Algorithm for GameMaker made with shaders.",
+              "description": "GML implementation of the jump flooding algorithm, using shaders.",
               "external": true,
               "sourceRepo": "bytecauldron/awesome-gamemaker",
               "depth": 2,
@@ -122507,7 +123174,7 @@
               "kind": "repo",
               "repo": "grisgram/gml-outline-shader-drawer",
               "url": "https://github.com/grisgram/gml-outline-shader-drawer",
-              "description": "Outline shader.",
+              "description": "Draws outlines around sprites using a shader.",
               "external": false,
               "sourceRepo": "bytecauldron/awesome-gamemaker",
               "depth": 2,
@@ -122737,7 +123404,7 @@
               "title": "ColMesh",
               "kind": "link",
               "repo": "",
-              "url": "https://forum.yoyogames.com/index.php?threads/colmesh-3d-collisions-made-easy.82765/",
+              "url": "https://forum.gamemaker.io/index.php?threads/colmesh-3d-collisions-made-easy.82765/",
               "description": "3D Collision Library from TheSnidr.",
               "external": true,
               "sourceRepo": "bytecauldron/awesome-gamemaker",
@@ -122971,7 +123638,7 @@
               "title": "sPart",
               "kind": "link",
               "repo": "",
-              "url": "https://marketplace.yoyogames.com/assets/7299/spart-3d-particle-system",
+              "url": "https://marketplace.gamemaker.io/assets/7299/spart-3d-particle-system",
               "description": "3D Particle System from TheSnidr.",
               "external": true,
               "sourceRepo": "bytecauldron/awesome-gamemaker",
@@ -122998,7 +123665,7 @@
               "kind": "link",
               "repo": "",
               "url": "https://dragonite.itch.io/terrain",
-              "description": "Terrain editor. Exports to gm models, obj, or vertex buffers.",
+              "description": "Exports terrain to GM models, obj, or vertex buffers.",
               "external": true,
               "sourceRepo": "bytecauldron/awesome-gamemaker",
               "depth": 2,
@@ -123768,7 +124435,7 @@
               "title": "NekoPresence",
               "kind": "link",
               "repo": "",
-              "url": "https://marketplace.yoyogames.com/assets/9526/nekopresence",
+              "url": "https://marketplace.gamemaker.io/assets/9526/nekopresence",
               "description": "Oops, all Discord integration.",
               "external": true,
               "sourceRepo": "bytecauldron/awesome-gamemaker",
@@ -123925,7 +124592,7 @@
               "kind": "repo",
               "repo": "alubj/github.gml",
               "url": "https://github.com/alubj/github.gml",
-              "description": "GitHub REST API",
+              "description": "GitHub REST API.",
               "external": false,
               "sourceRepo": "bytecauldron/awesome-gamemaker",
               "depth": 2,
@@ -126036,32 +126703,10 @@
             "Special Thanks"
           ],
           "parentId": "root-gaming-gamemaker"
-        },
-        {
-          "id": "root-gaming-gamemaker-gamemaker-keybindings",
-          "title": "GameMaker Keybindings",
-          "kind": "section",
-          "sourceRepo": "bytecauldron/awesome-gamemaker",
-          "depth": 1,
-          "url": "https://github.com/bytecauldron/awesome-gamemaker#gamemaker-keybindings",
-          "children": [],
-          "stars": 0,
-          "forks": 0,
-          "language": null,
-          "license": null,
-          "topics": [],
-          "updated": null,
-          "pushed": null,
-          "awesome": false,
-          "path": [
-            "GameMaker",
-            "GameMaker Keybindings"
-          ],
-          "parentId": "root-gaming-gamemaker"
         }
       ],
-      "stars": 478,
-      "forks": 34,
+      "stars": 483,
+      "forks": 35,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -126074,8 +126719,8 @@
         "gamemaker-studio-2",
         "games"
       ],
-      "updated": "2026-07-03T21:23:28Z",
-      "pushed": "2026-06-30T17:59:20Z",
+      "updated": "2026-07-10T03:23:19Z",
+      "pushed": "2026-07-07T22:41:47Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -128863,7 +129508,7 @@
           "parentId": "root-gaming-game-production"
         }
       ],
-      "stars": 212,
+      "stars": 214,
       "forks": 8,
       "language": null,
       "license": "CC0-1.0",
@@ -128875,7 +129520,7 @@
         "production",
         "project-management"
       ],
-      "updated": "2026-07-03T04:27:45Z",
+      "updated": "2026-07-09T13:29:56Z",
       "pushed": "2026-05-04T10:46:17Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -137035,7 +137680,7 @@
           "parentId": "root-gaming-babylon-js"
         }
       ],
-      "stars": 351,
+      "stars": 352,
       "forks": 25,
       "language": null,
       "license": "CC0-1.0",
@@ -137047,7 +137692,7 @@
         "webgl",
         "webgpu"
       ],
-      "updated": "2026-07-05T03:26:17Z",
+      "updated": "2026-07-06T10:10:07Z",
       "pushed": "2026-01-22T03:03:14Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -139537,8 +140182,8 @@
           "parentId": "root-gaming-roblox"
         }
       ],
-      "stars": 64,
-      "forks": 6,
+      "stars": 66,
+      "forks": 7,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -139549,7 +140194,7 @@
         "luau",
         "roblox"
       ],
-      "updated": "2026-07-01T20:39:32Z",
+      "updated": "2026-07-09T23:46:25Z",
       "pushed": "2026-06-23T00:32:39Z",
       "awesome": true,
       "readmeStatus": "expanded",

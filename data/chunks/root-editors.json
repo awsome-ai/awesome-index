@@ -2452,6 +2452,33 @@
                     "Kurama622/clean-diagnostic"
                   ],
                   "parentId": "root-editors-neovim-lsp-diagnostics"
+                },
+                {
+                  "id": "root-editors-neovim-lsp-diagnostics-tumillanino-semgrep-nvim",
+                  "title": "tumillanino/semgrep.nvim",
+                  "kind": "repo",
+                  "repo": "tumillanino/semgrep.nvim",
+                  "url": "https://github.com/tumillanino/semgrep.nvim",
+                  "description": "Lightweight Semgrep static analysis integration to catch bugs and vulnerabilities.",
+                  "external": false,
+                  "sourceRepo": "rockerboo/awesome-neovim",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Neovim",
+                    "LSP",
+                    "Diagnostics",
+                    "tumillanino/semgrep.nvim"
+                  ],
+                  "parentId": "root-editors-neovim-lsp-diagnostics"
                 }
               ],
               "stars": 0,
@@ -6264,6 +6291,33 @@
                     "Programming Languages Support",
                     "Web Development",
                     "ankushbhagats/liveserver.nvim"
+                  ],
+                  "parentId": "root-editors-neovim-programming-languages-support-web-development"
+                },
+                {
+                  "id": "root-editors-neovim-programming-languages-support-web-development-harukikuri-viteenv-nvim",
+                  "title": "harukikuri/viteenv.nvim",
+                  "kind": "repo",
+                  "repo": "harukikuri/viteenv.nvim",
+                  "url": "https://github.com/harukikuri/viteenv.nvim",
+                  "description": "Shows the effective value of import.meta.env variables inline per mode, resolved by your project's own Vite.",
+                  "external": false,
+                  "sourceRepo": "rockerboo/awesome-neovim",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Neovim",
+                    "Programming Languages Support",
+                    "Web Development",
+                    "harukikuri/viteenv.nvim"
                   ],
                   "parentId": "root-editors-neovim-programming-languages-support-web-development"
                 }
@@ -24759,6 +24813,32 @@
                 "negativo/nx-nvim"
               ],
               "parentId": "root-editors-neovim-code-runner"
+            },
+            {
+              "id": "root-editors-neovim-code-runner-lewistg-pesto-nvim",
+              "title": "lewistg/pesto.nvim",
+              "kind": "repo",
+              "repo": "lewistg/pesto.nvim",
+              "url": "https://github.com/lewistg/pesto.nvim",
+              "description": "- Bazel integration through its Build Event Protocol to find, fetch, and parse error logs for failed build actions, including logs stored remotely.",
+              "external": false,
+              "sourceRepo": "rockerboo/awesome-neovim",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Neovim",
+                "Code Runner",
+                "lewistg/pesto.nvim"
+              ],
+              "parentId": "root-editors-neovim-code-runner"
             }
           ],
           "stars": 0,
@@ -37485,7 +37565,7 @@
                   "sourceRepo": "rockerboo/awesome-neovim",
                   "depth": 3,
                   "children": [],
-                  "stars": 62,
+                  "stars": 63,
                   "forks": 11,
                   "language": "Nix",
                   "license": "BSD-3-Clause",
@@ -37493,8 +37573,8 @@
                     "neovim-plugins",
                     "nix-flake"
                   ],
-                  "updated": "2026-07-04T18:23:33Z",
-                  "pushed": "2026-07-04T18:23:29Z",
+                  "updated": "2026-07-11T18:15:33Z",
+                  "pushed": "2026-07-11T18:15:26Z",
                   "awesome": true,
                   "path": [
                     "Neovim",
@@ -38171,7 +38251,7 @@
               "sourceRepo": "rockerboo/awesome-neovim",
               "depth": 2,
               "children": [],
-              "stars": 2124,
+              "stars": 2126,
               "forks": 142,
               "language": null,
               "license": "MIT",
@@ -38179,7 +38259,7 @@
                 "awesome",
                 "vim"
               ],
-              "updated": "2026-06-24T23:40:36Z",
+              "updated": "2026-07-07T14:18:23Z",
               "pushed": "2025-06-06T18:42:55Z",
               "awesome": true,
               "path": [
@@ -38387,8 +38467,8 @@
           "parentId": "root-editors-neovim"
         }
       ],
-      "stars": 21095,
-      "forks": 1017,
+      "stars": 21137,
+      "forks": 1020,
       "language": "Shell",
       "license": "CC0-1.0",
       "topics": [
@@ -38398,8 +38478,8 @@
         "neovim-plugins",
         "nvim-lua"
       ],
-      "updated": "2026-07-05T05:33:27Z",
-      "pushed": "2026-07-03T18:45:51Z",
+      "updated": "2026-07-12T05:04:55Z",
+      "pushed": "2026-07-11T14:07:30Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -38418,7 +38498,7 @@
       "sourceRepo": "sindresorhus/awesome",
       "depth": 1,
       "children": [],
-      "stars": 9314,
+      "stars": 9322,
       "forks": 598,
       "language": null,
       "license": "Unlicense",
@@ -38426,7 +38506,7 @@
         "awesome-list",
         "emacs"
       ],
-      "updated": "2026-07-03T18:43:41Z",
+      "updated": "2026-07-12T02:17:12Z",
       "pushed": "2026-05-13T04:32:20Z",
       "awesome": true,
       "readmeStatus": "empty",
@@ -44897,8 +44977,8 @@
           "parentId": "root-editors-visual-studio-code"
         }
       ],
-      "stars": 28820,
-      "forks": 1396,
+      "stars": 28849,
+      "forks": 1400,
       "language": "JavaScript",
       "license": "CC0-1.0",
       "topics": [
@@ -44914,7 +44994,7 @@
         "vscode-extension",
         "vscode-theme"
       ],
-      "updated": "2026-07-05T04:47:38Z",
+      "updated": "2026-07-11T21:37:28Z",
       "pushed": "2026-06-21T09:36:55Z",
       "awesome": true,
       "readmeStatus": "expanded",
