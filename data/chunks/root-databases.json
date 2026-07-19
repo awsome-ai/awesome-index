@@ -243,12 +243,12 @@
           "parentId": "root-databases-database"
         }
       ],
-      "stars": 1374,
-      "forks": 178,
+      "stars": 1375,
+      "forks": 179,
       "language": null,
       "license": null,
       "topics": [],
-      "updated": "2026-07-08T00:40:12Z",
+      "updated": "2026-07-13T14:14:52Z",
       "pushed": "2024-03-04T12:40:15Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -1894,8 +1894,8 @@
               "id": "root-databases-mysql-development-coverme",
               "title": "coverme",
               "kind": "repo",
-              "repo": "verizonconnect/database-development",
-              "url": "https://github.com/verizonconnect/database-development",
+              "repo": "verizonconnect/cover_me",
+              "url": "https://github.com/verizonconnect/cover_me",
               "description": "code coverage tool for mysql stored procedures and functions",
               "external": false,
               "sourceRepo": "shlomi-noach/awesome-mysql",
@@ -3481,13 +3481,13 @@
           "parentId": "root-databases-mysql"
         }
       ],
-      "stars": 2590,
+      "stars": 2594,
       "forks": 403,
       "language": "Python",
       "license": "NOASSERTION",
       "topics": [],
-      "updated": "2026-07-11T09:14:44Z",
-      "pushed": "2026-04-21T05:52:38Z",
+      "updated": "2026-07-18T20:50:45Z",
+      "pushed": "2026-07-14T06:11:52Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -3506,8 +3506,8 @@
       "sourceRepo": "sindresorhus/awesome",
       "depth": 1,
       "children": [],
-      "stars": 3051,
-      "forks": 165,
+      "stars": 3050,
+      "forks": 166,
       "language": "Python",
       "license": null,
       "topics": [
@@ -3520,7 +3520,7 @@
         "rdbms",
         "sqlalchemy"
       ],
-      "updated": "2026-07-08T21:42:37Z",
+      "updated": "2026-07-13T16:51:29Z",
       "pushed": "2026-06-08T08:36:57Z",
       "awesome": true,
       "readmeStatus": "empty",
@@ -11168,7 +11168,7 @@
           "parentId": "root-databases-mongodb"
         }
       ],
-      "stars": 2647,
+      "stars": 2649,
       "forks": 345,
       "language": null,
       "license": null,
@@ -11179,7 +11179,7 @@
         "mongodb",
         "mongodb-resources"
       ],
-      "updated": "2026-07-11T17:26:08Z",
+      "updated": "2026-07-15T15:14:38Z",
       "pushed": "2026-07-08T23:00:17Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -15860,8 +15860,8 @@
           "parentId": "root-databases-postgresql"
         }
       ],
-      "stars": 11985,
-      "forks": 982,
+      "stars": 11998,
+      "forks": 981,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -15869,7 +15869,7 @@
         "postgres",
         "postgresql"
       ],
-      "updated": "2026-07-11T12:42:16Z",
+      "updated": "2026-07-18T11:48:42Z",
       "pushed": "2026-05-21T14:10:48Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -29633,8 +29633,8 @@
           "parentId": "root-databases-database-tools"
         }
       ],
-      "stars": 5239,
-      "forks": 460,
+      "stars": 5248,
+      "forks": 464,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -29648,7 +29648,7 @@
         "sql-client",
         "visualization"
       ],
-      "updated": "2026-07-09T18:02:42Z",
+      "updated": "2026-07-18T16:49:08Z",
       "pushed": "2026-05-21T15:18:32Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -40325,6 +40325,32 @@
                 "How to Implement RBAC (Role-Based Access Control) in Supabase"
               ],
               "parentId": "root-databases-supabase-integration-guides"
+            },
+            {
+              "id": "root-databases-supabase-integration-guides-integrate-clerk-with-supabase",
+              "title": "Integrate Clerk with Supabase",
+              "kind": "link",
+              "repo": "",
+              "url": "https://clerk.com/docs/guides/development/integrations/databases/supabase",
+              "description": "Official guide for using Clerk as the auth provider for Supabase, including RLS policies.",
+              "external": true,
+              "sourceRepo": "lyqht/awesome-supabase",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Supabase",
+                "Integration Guides",
+                "Integrate Clerk with Supabase"
+              ],
+              "parentId": "root-databases-supabase-integration-guides"
             }
           ],
           "stars": 0,
@@ -40495,8 +40521,8 @@
           "parentId": "root-databases-supabase"
         }
       ],
-      "stars": 473,
-      "forks": 51,
+      "stars": 474,
+      "forks": 57,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -40504,8 +40530,8 @@
         "awesome-list",
         "supabase"
       ],
-      "updated": "2026-07-09T07:05:37Z",
-      "pushed": "2026-07-09T07:05:28Z",
+      "updated": "2026-07-19T02:12:27Z",
+      "pushed": "2026-07-19T02:12:23Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -43402,8 +43428,8 @@
           "parentId": "root-databases-pocketbase"
         }
       ],
-      "stars": 1191,
-      "forks": 69,
+      "stars": 1192,
+      "forks": 70,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -43412,7 +43438,7 @@
         "golang",
         "pocketbase"
       ],
-      "updated": "2026-07-08T22:07:00Z",
+      "updated": "2026-07-14T08:07:40Z",
       "pushed": "2026-07-08T22:06:56Z",
       "awesome": true,
       "readmeStatus": "expanded",

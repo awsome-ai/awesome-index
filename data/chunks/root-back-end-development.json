@@ -5748,7 +5748,7 @@
         "flask",
         "flask-resources"
       ],
-      "updated": "2026-07-11T05:31:37Z",
+      "updated": "2026-07-16T09:26:54Z",
       "pushed": "2026-05-13T13:35:25Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -15619,8 +15619,8 @@
               "sourceRepo": "veggiemonk/awesome-docker",
               "depth": 2,
               "children": [],
-              "stars": 45807,
-              "forks": 8243,
+              "stars": 45868,
+              "forks": 8250,
               "language": "HTML",
               "license": "CC0-1.0",
               "topics": [
@@ -15628,8 +15628,8 @@
                 "awesome-list",
                 "docker-compose"
               ],
-              "updated": "2026-07-12T05:04:11Z",
-              "pushed": "2026-07-08T17:45:12Z",
+              "updated": "2026-07-19T04:42:05Z",
+              "pushed": "2026-07-16T00:45:48Z",
               "awesome": true,
               "path": [
                 "Docker",
@@ -15649,7 +15649,7 @@
               "sourceRepo": "veggiemonk/awesome-docker",
               "depth": 2,
               "children": [],
-              "stars": 16023,
+              "stars": 16029,
               "forks": 2473,
               "language": "Shell",
               "license": "NOASSERTION",
@@ -15673,7 +15673,7 @@
                 "resource",
                 "schedule"
               ],
-              "updated": "2026-07-11T04:11:28Z",
+              "updated": "2026-07-19T00:07:59Z",
               "pushed": "2026-06-23T13:33:19Z",
               "awesome": true,
               "path": [
@@ -16020,7 +16020,7 @@
               "title": "GUI Apps with Docker",
               "kind": "link",
               "repo": "",
-              "url": "http://fabiorehm.com/blog/2014/09/11/running-gui-apps-with-docker/",
+              "url": "https://fabiorehm.com/blog/2014/09/11/running-gui-apps-with-docker/",
               "description": "",
               "external": true,
               "sourceRepo": "veggiemonk/awesome-docker",
@@ -17314,8 +17314,8 @@
           "parentId": "root-back-end-development-docker"
         }
       ],
-      "stars": 36414,
-      "forks": 3337,
+      "stars": 36465,
+      "forks": 3339,
       "language": null,
       "license": "Apache-2.0",
       "topics": [
@@ -17338,8 +17338,8 @@
         "moby",
         "tools"
       ],
-      "updated": "2026-07-12T04:46:10Z",
-      "pushed": "2026-07-08T15:33:48Z",
+      "updated": "2026-07-19T03:03:02Z",
+      "pushed": "2026-07-18T10:10:05Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -24412,7 +24412,7 @@
           "parentId": "root-back-end-development-cakephp"
         }
       ],
-      "stars": 934,
+      "stars": 935,
       "forks": 228,
       "language": null,
       "license": "WTFPL",
@@ -24420,7 +24420,7 @@
         "awesome",
         "awesome-list"
       ],
-      "updated": "2026-07-11T12:25:11Z",
+      "updated": "2026-07-18T12:25:09Z",
       "pushed": "2026-05-26T14:01:08Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -25952,7 +25952,7 @@
                   "sourceRepo": "fukuball/awesome-laravel-education",
                   "depth": 3,
                   "children": [],
-                  "stars": 13083,
+                  "stars": 13080,
                   "forks": 2346,
                   "language": null,
                   "license": null,
@@ -25961,7 +25961,7 @@
                     "laravel",
                     "php"
                   ],
-                  "updated": "2026-07-11T12:25:10Z",
+                  "updated": "2026-07-18T06:28:14Z",
                   "pushed": "2024-07-03T15:59:36Z",
                   "awesome": true,
                   "path": [
@@ -25983,8 +25983,8 @@
                   "sourceRepo": "fukuball/awesome-laravel-education",
                   "depth": 3,
                   "children": [],
-                  "stars": 32612,
-                  "forks": 5143,
+                  "stars": 32622,
+                  "forks": 5147,
                   "language": null,
                   "license": "WTFPL",
                   "topics": [
@@ -25996,8 +25996,8 @@
                     "php-installation",
                     "php-library"
                   ],
-                  "updated": "2026-07-12T03:32:28Z",
-                  "pushed": "2026-06-10T08:57:56Z",
+                  "updated": "2026-07-18T14:30:54Z",
+                  "pushed": "2026-07-13T19:44:57Z",
                   "awesome": true,
                   "path": [
                     "Laravel",
@@ -32023,7 +32023,7 @@
             }
           ],
           "stars": 399,
-          "forks": 62,
+          "forks": 61,
           "language": "PHP",
           "license": "MIT",
           "topics": [
@@ -32899,7 +32899,7 @@
           "parentId": "root-back-end-development-laravel"
         }
       ],
-      "stars": 13083,
+      "stars": 13080,
       "forks": 2346,
       "language": null,
       "license": null,
@@ -32908,7 +32908,7 @@
         "laravel",
         "php"
       ],
-      "updated": "2026-07-11T12:25:10Z",
+      "updated": "2026-07-18T06:28:14Z",
       "pushed": "2024-07-03T15:59:36Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -41570,6 +41570,32 @@
               "parentId": "root-back-end-development-rails-gems"
             },
             {
+              "id": "root-back-end-development-rails-gems-activeadminprism",
+              "title": "activeadminprism",
+              "kind": "repo",
+              "repo": "ramlaxmanyadav/active_admin_prism",
+              "url": "https://github.com/ramlaxmanyadav/active_admin_prism",
+              "description": "An ActiveAdmin theme that replaces the default top navigation with a collapsible left sidebar, restyling panels, tables & Formtastic forms into a modern card-based look. :redcircle:",
+              "external": false,
+              "sourceRepo": "gramantin/awesome-rails",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Rails",
+                "Gems",
+                "activeadminprism"
+              ],
+              "parentId": "root-back-end-development-rails-gems"
+            },
+            {
               "id": "root-back-end-development-rails-gems-activedecorator",
               "title": "activedecorator",
               "kind": "repo",
@@ -44453,6 +44479,32 @@
               "parentId": "root-back-end-development-rails-starters-boilerplates"
             },
             {
+              "id": "root-back-end-development-rails-starters-boilerplates-prismdemo",
+              "title": "prismdemo",
+              "kind": "repo",
+              "repo": "ramlaxmanyadav/prism_demo",
+              "url": "https://github.com/ramlaxmanyadav/prism_demo",
+              "description": "Sample app for testing and previewing the Prism ActiveAdmin theme; a minimal Rails app pre-wired with activeadminprism and seeded with dummy data.",
+              "external": false,
+              "sourceRepo": "gramantin/awesome-rails",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Rails",
+                "Starters/Boilerplates",
+                "prismdemo"
+              ],
+              "parentId": "root-back-end-development-rails-starters-boilerplates"
+            },
+            {
               "id": "root-back-end-development-rails-starters-boilerplates-rails-blocks",
               "title": "Rails Blocks",
               "kind": "link",
@@ -45114,8 +45166,8 @@
           "parentId": "root-back-end-development-rails"
         }
       ],
-      "stars": 3917,
-      "forks": 440,
+      "stars": 3920,
+      "forks": 441,
       "language": null,
       "license": "MIT",
       "topics": [
@@ -45124,8 +45176,8 @@
         "opensource-apps",
         "rails"
       ],
-      "updated": "2026-07-10T15:33:59Z",
-      "pushed": "2026-07-03T06:45:35Z",
+      "updated": "2026-07-18T22:26:52Z",
+      "pushed": "2026-07-16T06:54:45Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -45788,7 +45840,7 @@
         }
       ],
       "stars": 612,
-      "forks": 107,
+      "forks": 106,
       "language": "Ruby",
       "license": "MIT",
       "topics": [
@@ -46479,7 +46531,7 @@
           "parentId": "root-back-end-development-kubernetes"
         }
       ],
-      "stars": 16023,
+      "stars": 16029,
       "forks": 2473,
       "language": "Shell",
       "license": "NOASSERTION",
@@ -46503,7 +46555,7 @@
         "resource",
         "schedule"
       ],
-      "updated": "2026-07-11T04:11:28Z",
+      "updated": "2026-07-19T00:07:59Z",
       "pushed": "2026-06-23T13:33:19Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -53189,6 +53241,32 @@
               "parentId": "root-back-end-development-terraform-community"
             },
             {
+              "id": "root-back-end-development-terraform-community-the-ultimate-terraform-cheatsheet-for-devops-engineers",
+              "title": "The Ultimate Terraform Cheatsheet for DevOps Engineers",
+              "kind": "link",
+              "repo": "",
+              "url": "https://atulcodes.hashnode.dev/ultimate-terraform-cheatsheet-devops",
+              "description": "",
+              "external": true,
+              "sourceRepo": "shuaibiyy/awesome-terraform",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Terraform",
+                "Community",
+                "The Ultimate Terraform Cheatsheet for DevOps Engineers"
+              ],
+              "parentId": "root-back-end-development-terraform-community"
+            },
+            {
               "id": "root-back-end-development-terraform-community-terragrunt-reference-architecture-skull",
               "title": "Terragrunt Reference Architecture :skull:",
               "kind": "topic",
@@ -57058,6 +57136,32 @@
               "parentId": "root-back-end-development-terraform-self-hosted-registries"
             },
             {
+              "id": "root-back-end-development-terraform-self-hosted-registries-terramantle-dev",
+              "title": "terramantle.dev",
+              "kind": "link",
+              "repo": "",
+              "url": "https://terramantle.dev",
+              "description": "A registry that focuses on module & state insights, tackling dependency management",
+              "external": true,
+              "sourceRepo": "shuaibiyy/awesome-terraform",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Terraform",
+                "Self-Hosted Registries",
+                "terramantle.dev"
+              ],
+              "parentId": "root-back-end-development-terraform-self-hosted-registries"
+            },
+            {
               "id": "root-back-end-development-terraform-self-hosted-registries-terrareg",
               "title": "Terrareg",
               "kind": "repo",
@@ -57207,6 +57311,32 @@
                 "Terraform",
                 "Managed Registries",
                 "cloudsmith"
+              ],
+              "parentId": "root-back-end-development-terraform-managed-registries"
+            },
+            {
+              "id": "root-back-end-development-terraform-managed-registries-terramantle",
+              "title": "Terramantle",
+              "kind": "link",
+              "repo": "",
+              "url": "https://terramantle.dev",
+              "description": "A private Terraform/OpenTofu registry with deep module insights, dependency mapping, and state visibility.",
+              "external": true,
+              "sourceRepo": "shuaibiyy/awesome-terraform",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Terraform",
+                "Managed Registries",
+                "Terramantle"
               ],
               "parentId": "root-back-end-development-terraform-managed-registries"
             }
@@ -60867,6 +60997,32 @@
                 "Terraform",
                 "Tools",
                 "ReleaseRun Terraform Security Scanner"
+              ],
+              "parentId": "root-back-end-development-terraform-tools"
+            },
+            {
+              "id": "root-back-end-development-terraform-tools-shieldly",
+              "title": "Shieldly",
+              "kind": "repo",
+              "repo": "shieldly-io/cli",
+              "url": "https://github.com/shieldly-io/cli",
+              "description": "AI-powered security analysis for Terraform-generated IAM policies and CloudFormation, explaining why a permission is risky and how to fix it. Free tier, CLI and GitHub Action.",
+              "external": false,
+              "sourceRepo": "shuaibiyy/awesome-terraform",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Terraform",
+                "Tools",
+                "Shieldly"
               ],
               "parentId": "root-back-end-development-terraform-tools"
             },
@@ -67405,7 +67561,7 @@
           "parentId": "root-back-end-development-vapor"
         }
       ],
-      "stars": 1282,
+      "stars": 1284,
       "forks": 66,
       "language": "Ruby",
       "license": "CC0-1.0",
@@ -67416,7 +67572,7 @@
         "swift",
         "vapor"
       ],
-      "updated": "2026-07-03T18:50:55Z",
+      "updated": "2026-07-15T17:30:52Z",
       "pushed": "2023-10-14T17:45:31Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -68177,8 +68333,8 @@
               "sourceRepo": "ucg8j/awesome-dash",
               "depth": 2,
               "children": [],
-              "stars": 47961,
-              "forks": 3795,
+              "stars": 48009,
+              "forks": 3798,
               "language": null,
               "license": "CC0-1.0",
               "topics": [
@@ -68188,7 +68344,7 @@
                 "react-component",
                 "react-components"
               ],
-              "updated": "2026-07-12T04:34:57Z",
+              "updated": "2026-07-19T05:15:19Z",
               "pushed": "2026-01-26T16:36:45Z",
               "awesome": true,
               "path": [
@@ -68209,8 +68365,8 @@
               "sourceRepo": "ucg8j/awesome-dash",
               "depth": 2,
               "children": [],
-              "stars": 73910,
-              "forks": 7596,
+              "stars": 74008,
+              "forks": 7600,
               "language": null,
               "license": null,
               "topics": [
@@ -68225,7 +68381,7 @@
                 "tutorial",
                 "typescript"
               ],
-              "updated": "2026-07-12T05:10:12Z",
+              "updated": "2026-07-19T05:13:56Z",
               "pushed": "2026-06-02T08:27:23Z",
               "awesome": true,
               "path": [
@@ -69582,7 +69738,7 @@
           "parentId": "root-back-end-development-dash"
         }
       ],
-      "stars": 2263,
+      "stars": 2264,
       "forks": 262,
       "language": "Python",
       "license": "CC0-1.0",
@@ -69592,7 +69748,7 @@
         "plotly",
         "python"
       ],
-      "updated": "2026-07-03T14:02:34Z",
+      "updated": "2026-07-13T19:32:54Z",
       "pushed": "2024-12-30T09:48:42Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -74994,14 +75150,14 @@
                   "sourceRepo": "mjhea0/awesome-fastapi",
                   "depth": 3,
                   "children": [],
-                  "stars": 1610,
+                  "stars": 1613,
                   "forks": 142,
                   "language": "TypeScript",
                   "license": null,
                   "topics": [
                     "fastapi"
                   ],
-                  "updated": "2026-07-10T17:11:01Z",
+                  "updated": "2026-07-18T17:39:13Z",
                   "pushed": "2026-07-09T00:57:20Z",
                   "awesome": true,
                   "path": [
@@ -75798,8 +75954,8 @@
           "parentId": "root-back-end-development-fastapi"
         }
       ],
-      "stars": 11512,
-      "forks": 871,
+      "stars": 11528,
+      "forks": 875,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -75808,7 +75964,7 @@
         "fastapi",
         "starlette"
       ],
-      "updated": "2026-07-11T22:52:23Z",
+      "updated": "2026-07-19T04:04:58Z",
       "pushed": "2026-06-24T17:30:19Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -79887,7 +80043,7 @@
               "sourceRepo": "kdeldycke/awesome-iam",
               "depth": 2,
               "children": [],
-              "stars": 116,
+              "stars": 118,
               "forks": 25,
               "language": "HTML",
               "license": "CC0-1.0",
@@ -79908,7 +80064,7 @@
                 "openidconnect",
                 "security"
               ],
-              "updated": "2026-07-08T14:17:15Z",
+              "updated": "2026-07-16T06:45:06Z",
               "pushed": "2026-05-30T15:22:23Z",
               "awesome": true,
               "path": [
@@ -80963,7 +81119,7 @@
               "sourceRepo": "kdeldycke/awesome-iam",
               "depth": 2,
               "children": [],
-              "stars": 1304,
+              "stars": 1312,
               "forks": 97,
               "language": null,
               "license": "CC0-1.0",
@@ -80989,7 +81145,7 @@
                 "usage-based-billing",
                 "vat"
               ],
-              "updated": "2026-07-10T06:39:10Z",
+              "updated": "2026-07-18T16:43:45Z",
               "pushed": "2026-06-21T13:47:38Z",
               "awesome": true,
               "path": [
@@ -81495,8 +81651,8 @@
                   "sourceRepo": "kdeldycke/awesome-iam",
                   "depth": 3,
                   "children": [],
-                  "stars": 10441,
-                  "forks": 1794,
+                  "stars": 10464,
+                  "forks": 1800,
                   "language": null,
                   "license": "Apache-2.0",
                   "topics": [
@@ -81505,7 +81661,7 @@
                     "hacktoberfest",
                     "security"
                   ],
-                  "updated": "2026-07-12T02:26:52Z",
+                  "updated": "2026-07-18T22:42:48Z",
                   "pushed": "2026-05-31T10:54:05Z",
                   "awesome": true,
                   "path": [
@@ -81848,8 +82004,8 @@
                   "sourceRepo": "kdeldycke/awesome-iam",
                   "depth": 3,
                   "children": [],
-                  "stars": 1413,
-                  "forks": 126,
+                  "stars": 1415,
+                  "forks": 127,
                   "language": "JavaScript",
                   "license": "MIT",
                   "topics": [
@@ -81866,7 +82022,7 @@
                     "crack-captcha",
                     "image-captcha"
                   ],
-                  "updated": "2026-07-10T15:55:36Z",
+                  "updated": "2026-07-16T06:11:29Z",
                   "pushed": "2026-04-17T22:10:48Z",
                   "awesome": true,
                   "path": [
@@ -83602,8 +83758,8 @@
           "parentId": "root-back-end-development-iam"
         }
       ],
-      "stars": 2235,
-      "forks": 184,
+      "stars": 2241,
+      "forks": 185,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -83628,7 +83784,7 @@
         "webauthn",
         "zero-trust"
       ],
-      "updated": "2026-07-10T15:36:03Z",
+      "updated": "2026-07-18T16:43:47Z",
       "pushed": "2026-06-21T13:44:00Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -84567,8 +84723,8 @@
           "parentId": "root-back-end-development-slim"
         }
       ],
-      "stars": 47,
-      "forks": 3,
+      "stars": 48,
+      "forks": 4,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -84588,7 +84744,7 @@
         "slim4",
         "slimphp"
       ],
-      "updated": "2026-07-06T09:13:22Z",
+      "updated": "2026-07-16T11:50:21Z",
       "pushed": "2026-04-27T22:22:11Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -88548,7 +88704,7 @@
           "parentId": "root-back-end-development-fiber"
         }
       ],
-      "stars": 821,
+      "stars": 823,
       "forks": 56,
       "language": null,
       "license": "MIT",
@@ -88560,7 +88716,7 @@
         "middleware",
         "recipes"
       ],
-      "updated": "2026-07-10T08:02:53Z",
+      "updated": "2026-07-13T08:38:35Z",
       "pushed": "2026-06-22T12:18:15Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -89581,7 +89737,7 @@
               "sourceRepo": "devopshivehq/awesome-kustomize",
               "depth": 2,
               "children": [],
-              "stars": 16023,
+              "stars": 16029,
               "forks": 2473,
               "language": "Shell",
               "license": "NOASSERTION",
@@ -89605,7 +89761,7 @@
                 "resource",
                 "schedule"
               ],
-              "updated": "2026-07-11T04:11:28Z",
+              "updated": "2026-07-19T00:07:59Z",
               "pushed": "2026-06-23T13:33:19Z",
               "awesome": true,
               "path": [
@@ -89626,7 +89782,7 @@
               "sourceRepo": "devopshivehq/awesome-kustomize",
               "depth": 2,
               "children": [],
-              "stars": 1005,
+              "stars": 1006,
               "forks": 70,
               "language": null,
               "license": "CC0-1.0",
@@ -89636,7 +89792,7 @@
                 "kubectl-plugins",
                 "kubernetes"
               ],
-              "updated": "2026-07-05T07:20:00Z",
+              "updated": "2026-07-13T18:35:34Z",
               "pushed": "2025-11-05T14:35:56Z",
               "awesome": true,
               "path": [
@@ -89657,8 +89813,8 @@
               "sourceRepo": "devopshivehq/awesome-kustomize",
               "depth": 2,
               "children": [],
-              "stars": 1106,
-              "forks": 118,
+              "stars": 1107,
+              "forks": 119,
               "language": null,
               "license": "NOASSERTION",
               "topics": [
@@ -89669,7 +89825,7 @@
                 "k8s",
                 "kuberenetes"
               ],
-              "updated": "2026-07-10T08:00:02Z",
+              "updated": "2026-07-12T21:12:56Z",
               "pushed": "2026-05-16T21:05:30Z",
               "awesome": true,
               "path": [
@@ -92692,8 +92848,8 @@
         "opentofu",
         "tofu"
       ],
-      "updated": "2026-07-08T05:21:07Z",
-      "pushed": "2026-07-09T17:40:20Z",
+      "updated": "2026-07-15T15:39:17Z",
+      "pushed": "2026-07-15T15:37:50Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [

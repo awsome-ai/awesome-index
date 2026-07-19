@@ -627,12 +627,12 @@
           "parentId": "root-theory-talks"
         }
       ],
-      "stars": 6190,
+      "stars": 6192,
       "forks": 417,
       "language": null,
       "license": null,
       "topics": [],
-      "updated": "2026-07-11T22:24:54Z",
+      "updated": "2026-07-18T16:59:40Z",
       "pushed": "2026-06-25T14:00:39Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -3611,8 +3611,8 @@
                   "sourceRepo": "gaerae/awesome-algorithms-education",
                   "depth": 3,
                   "children": [],
-                  "stars": 14053,
-                  "forks": 2619,
+                  "stars": 14062,
+                  "forks": 2618,
                   "language": null,
                   "license": "CC-BY-4.0",
                   "topics": [
@@ -3629,7 +3629,7 @@
                     "quora",
                     "reference-materials"
                   ],
-                  "updated": "2026-07-11T12:12:30Z",
+                  "updated": "2026-07-19T03:39:19Z",
                   "pushed": "2024-12-08T09:40:58Z",
                   "awesome": true,
                   "path": [
@@ -3732,13 +3732,13 @@
                   "sourceRepo": "gaerae/awesome-algorithms-education",
                   "depth": 3,
                   "children": [],
-                  "stars": 73325,
-                  "forks": 15535,
+                  "stars": 73589,
+                  "forks": 15553,
                   "language": "Python",
                   "license": "NOASSERTION",
                   "topics": [],
-                  "updated": "2026-07-12T05:08:52Z",
-                  "pushed": "2026-07-11T19:59:19Z",
+                  "updated": "2026-07-19T01:20:24Z",
+                  "pushed": "2026-07-14T13:00:59Z",
                   "awesome": true,
                   "path": [
                     "Algorithms",
@@ -3900,7 +3900,7 @@
               "parentId": "root-theory-algorithms-education"
             }
           ],
-          "stars": 884,
+          "stars": 886,
           "forks": 64,
           "language": null,
           "license": null,
@@ -3912,7 +3912,7 @@
             "education",
             "programming"
           ],
-          "updated": "2026-07-09T08:19:14Z",
+          "updated": "2026-07-16T06:52:04Z",
           "pushed": "2022-11-15T12:24:33Z",
           "awesome": true,
           "readmeStatus": "expanded",
@@ -4356,7 +4356,7 @@
               "sourceRepo": "tayllan/awesome-algorithms",
               "depth": 2,
               "children": [],
-              "stars": 1180,
+              "stars": 1178,
               "forks": 68,
               "language": "Python",
               "license": "CC0-1.0",
@@ -4370,7 +4370,7 @@
                 "theoretical-computer-science",
                 "theory-of-computation"
               ],
-              "updated": "2026-07-12T01:07:15Z",
+              "updated": "2026-07-18T07:38:09Z",
               "pushed": "2026-01-30T20:06:12Z",
               "awesome": true,
               "path": [
@@ -4391,8 +4391,8 @@
               "sourceRepo": "tayllan/awesome-algorithms",
               "depth": 2,
               "children": [],
-              "stars": 15860,
-              "forks": 1569,
+              "stars": 15900,
+              "forks": 1575,
               "language": "Python",
               "license": null,
               "topics": [
@@ -4402,7 +4402,7 @@
                 "list",
                 "mathematics"
               ],
-              "updated": "2026-07-12T02:51:41Z",
+              "updated": "2026-07-18T17:21:21Z",
               "pushed": "2026-05-19T10:05:56Z",
               "awesome": true,
               "path": [
@@ -4428,12 +4428,12 @@
           "parentId": "root-theory-algorithms"
         }
       ],
-      "stars": 25362,
-      "forks": 2960,
+      "stars": 25386,
+      "forks": 2962,
       "language": null,
       "license": null,
       "topics": [],
-      "updated": "2026-07-12T04:46:59Z",
+      "updated": "2026-07-19T05:20:56Z",
       "pushed": "2026-04-18T15:06:58Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -4479,7 +4479,7 @@
       "children": [
         {
           "id": "root-theory-artificial-intelligence-learn",
-          "title": "📚 Learn",
+          "title": "Learn",
           "kind": "section",
           "sourceRepo": "owainlewis/awesome-artificial-intelligence",
           "depth": 1,
@@ -4494,8 +4494,8 @@
               "url": "https://github.com/owainlewis/awesome-artificial-intelligence#books",
               "children": [
                 {
-                  "id": "root-theory-artificial-intelligence-learn-books-designing-machine-learning-systems-scalable-maintainable-ml-pipelines-chip-huyen",
-                  "title": "Designing Machine Learning Systems — Scalable, maintainable ML pipelines (Chip Huyen).",
+                  "id": "root-theory-artificial-intelligence-learn-books-artificial-intelligence-a-modern-approach-the-broad-reference-for-classical-ai-including-search-reasoning-planning-learning-and-robotics",
+                  "title": "Artificial Intelligence: A Modern Approach: The broad reference for classical AI, including search, reasoning, planning, learning, and robotics.",
                   "kind": "topic",
                   "repo": "",
                   "url": "",
@@ -4514,15 +4514,15 @@
                   "awesome": false,
                   "path": [
                     "Artificial Intelligence",
-                    "📚 Learn",
+                    "Learn",
                     "Books",
-                    "Designing Machine Learning Systems — Scalable, maintainable ML pipelines (Chip Huyen)."
+                    "Artificial Intelligence: A Modern Approach: The broad reference for classical AI, including search, reasoning, planning, learning, and robotics."
                   ],
                   "parentId": "root-theory-artificial-intelligence-learn-books"
                 },
                 {
-                  "id": "root-theory-artificial-intelligence-learn-books-ai-engineering-end-to-end-ai-product-building-chip-huyen",
-                  "title": "AI Engineering — End-to-end AI product building (Chip Huyen).",
+                  "id": "root-theory-artificial-intelligence-learn-books-reinforcement-learning-an-introduction-sutton-and-barto-s-foundational-treatment-of-reinforcement-learning-concepts-and-algorithms",
+                  "title": "Reinforcement Learning: An Introduction: Sutton and Barto's foundational treatment of reinforcement learning concepts and algorithms.",
                   "kind": "topic",
                   "repo": "",
                   "url": "",
@@ -4541,15 +4541,15 @@
                   "awesome": false,
                   "path": [
                     "Artificial Intelligence",
-                    "📚 Learn",
+                    "Learn",
                     "Books",
-                    "AI Engineering — End-to-end AI product building (Chip Huyen)."
+                    "Reinforcement Learning: An Introduction: Sutton and Barto's foundational treatment of reinforcement learning concepts and algorithms."
                   ],
                   "parentId": "root-theory-artificial-intelligence-learn-books"
                 },
                 {
-                  "id": "root-theory-artificial-intelligence-learn-books-build-a-large-language-model-from-scratch-transformers-in-raw-pytorch-layer-by-layer-sebastian-raschka",
-                  "title": "Build a Large Language Model from Scratch — Transformers in raw PyTorch, layer by layer (Sebastian Raschka).",
+                  "id": "root-theory-artificial-intelligence-learn-books-designing-machine-learning-systems-scalable-maintainable-machine-learning-systems-by-chip-huyen",
+                  "title": "Designing Machine Learning Systems: Scalable, maintainable machine learning systems by Chip Huyen.",
                   "kind": "topic",
                   "repo": "",
                   "url": "",
@@ -4568,15 +4568,15 @@
                   "awesome": false,
                   "path": [
                     "Artificial Intelligence",
-                    "📚 Learn",
+                    "Learn",
                     "Books",
-                    "Build a Large Language Model from Scratch — Transformers in raw PyTorch, layer by layer (Sebastian Raschka)."
+                    "Designing Machine Learning Systems: Scalable, maintainable machine learning systems by Chip Huyen."
                   ],
                   "parentId": "root-theory-artificial-intelligence-learn-books"
                 },
                 {
-                  "id": "root-theory-artificial-intelligence-learn-books-hands-on-large-language-models-visual-practical-guide-to-llm-applications-jay-alammar-maarten-grootendorst",
-                  "title": "Hands-On Large Language Models — Visual + practical guide to LLM applications (Jay Alammar, Maarten Grootendorst).",
+                  "id": "root-theory-artificial-intelligence-learn-books-ai-engineering-building-applications-with-foundation-models-by-chip-huyen",
+                  "title": "AI Engineering: Building applications with foundation models by Chip Huyen.",
                   "kind": "topic",
                   "repo": "",
                   "url": "",
@@ -4595,15 +4595,15 @@
                   "awesome": false,
                   "path": [
                     "Artificial Intelligence",
-                    "📚 Learn",
+                    "Learn",
                     "Books",
-                    "Hands-On Large Language Models — Visual + practical guide to LLM applications (Jay Alammar, Maarten Grootendorst)."
+                    "AI Engineering: Building applications with foundation models by Chip Huyen."
                   ],
                   "parentId": "root-theory-artificial-intelligence-learn-books"
                 },
                 {
-                  "id": "root-theory-artificial-intelligence-learn-books-llm-engineer-s-handbook-production-llmops-fine-tuning-quantization-serving-labonne-iusztin",
-                  "title": "LLM Engineer's Handbook — Production LLMOps: fine-tuning, quantization, serving (Labonne, Iusztin).",
+                  "id": "root-theory-artificial-intelligence-learn-books-build-a-large-language-model-from-scratch-implement-transformers-in-pytorch-with-sebastian-raschka",
+                  "title": "Build a Large Language Model from Scratch: Implement transformers in PyTorch with Sebastian Raschka.",
                   "kind": "topic",
                   "repo": "",
                   "url": "",
@@ -4622,15 +4622,15 @@
                   "awesome": false,
                   "path": [
                     "Artificial Intelligence",
-                    "📚 Learn",
+                    "Learn",
                     "Books",
-                    "LLM Engineer's Handbook — Production LLMOps: fine-tuning, quantization, serving (Labonne, Iusztin)."
+                    "Build a Large Language Model from Scratch: Implement transformers in PyTorch with Sebastian Raschka."
                   ],
                   "parentId": "root-theory-artificial-intelligence-learn-books"
                 },
                 {
-                  "id": "root-theory-artificial-intelligence-learn-books-the-100-page-language-models-book-concise-math-grounded-path-from-n-grams-to-transformers-andriy-burkov",
-                  "title": "The 100-Page Language Models Book — Concise, math-grounded path from n-grams to transformers (Andriy Burkov).",
+                  "id": "root-theory-artificial-intelligence-learn-books-hands-on-large-language-models-a-visual-and-practical-guide-by-jay-alammar-and-maarten-grootendorst",
+                  "title": "Hands-On Large Language Models: A visual and practical guide by Jay Alammar and Maarten Grootendorst.",
                   "kind": "topic",
                   "repo": "",
                   "url": "",
@@ -4649,15 +4649,15 @@
                   "awesome": false,
                   "path": [
                     "Artificial Intelligence",
-                    "📚 Learn",
+                    "Learn",
                     "Books",
-                    "The 100-Page Language Models Book — Concise, math-grounded path from n-grams to transformers (Andriy Burkov)."
+                    "Hands-On Large Language Models: A visual and practical guide by Jay Alammar and Maarten Grootendorst."
                   ],
                   "parentId": "root-theory-artificial-intelligence-learn-books"
                 },
                 {
-                  "id": "root-theory-artificial-intelligence-learn-books-generative-deep-learning-2nd-edition-gans-vaes-diffusion-models-david-foster",
-                  "title": "Generative Deep Learning (2nd Edition) — GANs, VAEs, diffusion models (David Foster).",
+                  "id": "root-theory-artificial-intelligence-learn-books-llm-engineer-s-handbook-llmops-fine-tuning-serving-and-production-workflows",
+                  "title": "LLM Engineer's Handbook: LLMOps, fine-tuning, serving, and production workflows.",
                   "kind": "topic",
                   "repo": "",
                   "url": "",
@@ -4676,15 +4676,15 @@
                   "awesome": false,
                   "path": [
                     "Artificial Intelligence",
-                    "📚 Learn",
+                    "Learn",
                     "Books",
-                    "Generative Deep Learning (2nd Edition) — GANs, VAEs, diffusion models (David Foster)."
+                    "LLM Engineer's Handbook: LLMOps, fine-tuning, serving, and production workflows."
                   ],
                   "parentId": "root-theory-artificial-intelligence-learn-books"
                 },
                 {
-                  "id": "root-theory-artificial-intelligence-learn-books-artificial-intelligence-a-modern-approach-the-canonical-ai-theory-text-russell-norvig",
-                  "title": "Artificial Intelligence: A Modern Approach — The canonical AI theory text (Russell, Norvig).",
+                  "id": "root-theory-artificial-intelligence-learn-books-the-100-page-language-models-book-a-concise-technical-introduction-by-andriy-burkov",
+                  "title": "The 100-Page Language Models Book: A concise, technical introduction by Andriy Burkov.",
                   "kind": "topic",
                   "repo": "",
                   "url": "",
@@ -4703,15 +4703,15 @@
                   "awesome": false,
                   "path": [
                     "Artificial Intelligence",
-                    "📚 Learn",
+                    "Learn",
                     "Books",
-                    "Artificial Intelligence: A Modern Approach — The canonical AI theory text (Russell, Norvig)."
+                    "The 100-Page Language Models Book: A concise, technical introduction by Andriy Burkov."
                   ],
                   "parentId": "root-theory-artificial-intelligence-learn-books"
                 },
                 {
-                  "id": "root-theory-artificial-intelligence-learn-books-deep-learning-mathematical-foundations-of-neural-networks-goodfellow-bengio-courville",
-                  "title": "Deep Learning — Mathematical foundations of neural networks (Goodfellow, Bengio, Courville).",
+                  "id": "root-theory-artificial-intelligence-learn-books-deep-learning-mathematical-foundations-by-ian-goodfellow-yoshua-bengio-and-aaron-courville",
+                  "title": "Deep Learning: Mathematical foundations by Ian Goodfellow, Yoshua Bengio, and Aaron Courville.",
                   "kind": "topic",
                   "repo": "",
                   "url": "",
@@ -4730,15 +4730,15 @@
                   "awesome": false,
                   "path": [
                     "Artificial Intelligence",
-                    "📚 Learn",
+                    "Learn",
                     "Books",
-                    "Deep Learning — Mathematical foundations of neural networks (Goodfellow, Bengio, Courville)."
+                    "Deep Learning: Mathematical foundations by Ian Goodfellow, Yoshua Bengio, and Aaron Courville."
                   ],
                   "parentId": "root-theory-artificial-intelligence-learn-books"
                 },
                 {
-                  "id": "root-theory-artificial-intelligence-learn-books-deep-learning-foundations-and-concepts-bishop-s-2024-update-probability-grounded-modern-dl-bishop-and-bishop",
-                  "title": "Deep Learning: Foundations and Concepts — Bishop's 2024 update; probability-grounded modern DL (Bishop & Bishop).",
+                  "id": "root-theory-artificial-intelligence-learn-books-deep-learning-foundations-and-concepts-a-probability-grounded-treatment-by-christopher-and-hugh-bishop",
+                  "title": "Deep Learning: Foundations and Concepts: A probability-grounded treatment by Christopher and Hugh Bishop.",
                   "kind": "topic",
                   "repo": "",
                   "url": "",
@@ -4757,15 +4757,15 @@
                   "awesome": false,
                   "path": [
                     "Artificial Intelligence",
-                    "📚 Learn",
+                    "Learn",
                     "Books",
-                    "Deep Learning: Foundations and Concepts — Bishop's 2024 update; probability-grounded modern DL (Bishop & Bishop)."
+                    "Deep Learning: Foundations and Concepts: A probability-grounded treatment by Christopher and Hugh Bishop."
                   ],
                   "parentId": "root-theory-artificial-intelligence-learn-books"
                 },
                 {
-                  "id": "root-theory-artificial-intelligence-learn-books-understanding-deep-learning-math-intuition-python-notebooks-simon-prince",
-                  "title": "Understanding Deep Learning — Math + intuition + Python notebooks (Simon Prince).",
+                  "id": "root-theory-artificial-intelligence-learn-books-understanding-deep-learning-theory-intuition-and-practical-notebooks-by-simon-prince",
+                  "title": "Understanding Deep Learning: Theory, intuition, and practical notebooks by Simon Prince.",
                   "kind": "topic",
                   "repo": "",
                   "url": "",
@@ -4784,15 +4784,15 @@
                   "awesome": false,
                   "path": [
                     "Artificial Intelligence",
-                    "📚 Learn",
+                    "Learn",
                     "Books",
-                    "Understanding Deep Learning — Math + intuition + Python notebooks (Simon Prince)."
+                    "Understanding Deep Learning: Theory, intuition, and practical notebooks by Simon Prince."
                   ],
                   "parentId": "root-theory-artificial-intelligence-learn-books"
                 },
                 {
-                  "id": "root-theory-artificial-intelligence-learn-books-speech-and-language-processing-3rd-edition-the-nlp-reference-kept-current-through-the-deep-learning-era-jurafsky-martin",
-                  "title": "Speech and Language Processing (3rd Edition) — The NLP reference, kept current through the deep learning era (Jurafsky, Martin).",
+                  "id": "root-theory-artificial-intelligence-learn-books-speech-and-language-processing-the-continuously-updated-nlp-reference-by-dan-jurafsky-and-james-martin",
+                  "title": "Speech and Language Processing: The continuously updated NLP reference by Dan Jurafsky and James Martin.",
                   "kind": "topic",
                   "repo": "",
                   "url": "",
@@ -4811,36 +4811,9 @@
                   "awesome": false,
                   "path": [
                     "Artificial Intelligence",
-                    "📚 Learn",
+                    "Learn",
                     "Books",
-                    "Speech and Language Processing (3rd Edition) — The NLP reference, kept current through the deep learning era (Jurafsky, Martin)."
-                  ],
-                  "parentId": "root-theory-artificial-intelligence-learn-books"
-                },
-                {
-                  "id": "root-theory-artificial-intelligence-learn-books-reinforcement-learning-an-introduction-2nd-edition-rl-foundations-sutton-barto",
-                  "title": "Reinforcement Learning: An Introduction (2nd Edition) — RL foundations (Sutton, Barto).",
-                  "kind": "topic",
-                  "repo": "",
-                  "url": "",
-                  "description": "",
-                  "external": false,
-                  "sourceRepo": "owainlewis/awesome-artificial-intelligence",
-                  "depth": 3,
-                  "children": [],
-                  "stars": 0,
-                  "forks": 0,
-                  "language": null,
-                  "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
-                  "awesome": false,
-                  "path": [
-                    "Artificial Intelligence",
-                    "📚 Learn",
-                    "Books",
-                    "Reinforcement Learning: An Introduction (2nd Edition) — RL foundations (Sutton, Barto)."
+                    "Speech and Language Processing: The continuously updated NLP reference by Dan Jurafsky and James Martin."
                   ],
                   "parentId": "root-theory-artificial-intelligence-learn-books"
                 }
@@ -4855,7 +4828,7 @@
               "awesome": false,
               "path": [
                 "Artificial Intelligence",
-                "📚 Learn",
+                "Learn",
                 "Books"
               ],
               "parentId": "root-theory-artificial-intelligence-learn"
@@ -4869,13 +4842,13 @@
               "url": "https://github.com/owainlewis/awesome-artificial-intelligence#courses",
               "children": [
                 {
-                  "id": "root-theory-artificial-intelligence-learn-courses-google-generative-ai-learning-path",
-                  "title": "Google Generative AI Learning Path",
-                  "kind": "link",
+                  "id": "root-theory-artificial-intelligence-learn-courses-hugging-face-llm-course-transformers-fine-tuning-datasets-and-modern-nlp-tooling",
+                  "title": "Hugging Face LLM Course: Transformers, fine-tuning, datasets, and modern NLP tooling.",
+                  "kind": "topic",
                   "repo": "",
-                  "url": "https://www.cloudskillsboost.google/paths/118",
+                  "url": "",
                   "description": "",
-                  "external": true,
+                  "external": false,
                   "sourceRepo": "owainlewis/awesome-artificial-intelligence",
                   "depth": 3,
                   "children": [],
@@ -4889,20 +4862,20 @@
                   "awesome": false,
                   "path": [
                     "Artificial Intelligence",
-                    "📚 Learn",
+                    "Learn",
                     "Courses",
-                    "Google Generative AI Learning Path"
+                    "Hugging Face LLM Course: Transformers, fine-tuning, datasets, and modern NLP tooling."
                   ],
                   "parentId": "root-theory-artificial-intelligence-learn-courses"
                 },
                 {
-                  "id": "root-theory-artificial-intelligence-learn-courses-hugging-face-llm-course",
-                  "title": "Hugging Face LLM Course",
-                  "kind": "link",
+                  "id": "root-theory-artificial-intelligence-learn-courses-full-stack-deep-learning-the-full-lifecycle-of-building-and-shipping-ai-products",
+                  "title": "Full Stack Deep Learning: The full lifecycle of building and shipping AI products.",
+                  "kind": "topic",
                   "repo": "",
-                  "url": "https://huggingface.co/learn/llm-course/chapter1/1",
+                  "url": "",
                   "description": "",
-                  "external": true,
+                  "external": false,
                   "sourceRepo": "owainlewis/awesome-artificial-intelligence",
                   "depth": 3,
                   "children": [],
@@ -4916,20 +4889,20 @@
                   "awesome": false,
                   "path": [
                     "Artificial Intelligence",
-                    "📚 Learn",
+                    "Learn",
                     "Courses",
-                    "Hugging Face LLM Course"
+                    "Full Stack Deep Learning: The full lifecycle of building and shipping AI products."
                   ],
                   "parentId": "root-theory-artificial-intelligence-learn-courses"
                 },
                 {
-                  "id": "root-theory-artificial-intelligence-learn-courses-fast-ai-practical-deep-learning",
-                  "title": "Fast.ai — Practical Deep Learning",
-                  "kind": "link",
+                  "id": "root-theory-artificial-intelligence-learn-courses-fast-ai-practical-deep-learning-a-code-first-introduction-to-deep-learning",
+                  "title": "Fast.ai Practical Deep Learning: A code-first introduction to deep learning.",
+                  "kind": "topic",
                   "repo": "",
-                  "url": "https://course.fast.ai/",
+                  "url": "",
                   "description": "",
-                  "external": true,
+                  "external": false,
                   "sourceRepo": "owainlewis/awesome-artificial-intelligence",
                   "depth": 3,
                   "children": [],
@@ -4943,20 +4916,20 @@
                   "awesome": false,
                   "path": [
                     "Artificial Intelligence",
-                    "📚 Learn",
+                    "Learn",
                     "Courses",
-                    "Fast.ai — Practical Deep Learning"
+                    "Fast.ai Practical Deep Learning: A code-first introduction to deep learning."
                   ],
                   "parentId": "root-theory-artificial-intelligence-learn-courses"
                 },
                 {
-                  "id": "root-theory-artificial-intelligence-learn-courses-stanford-cs324-large-language-models",
-                  "title": "Stanford CS324: Large Language Models",
-                  "kind": "link",
+                  "id": "root-theory-artificial-intelligence-learn-courses-karpathy-s-neural-networks-zero-to-hero-build-neural-networks-and-language-models-from-first-principles",
+                  "title": "Karpathy's Neural Networks: Zero to Hero: Build neural networks and language models from first principles.",
+                  "kind": "topic",
                   "repo": "",
-                  "url": "https://stanford-cs324.github.io/winter2022/",
+                  "url": "",
                   "description": "",
-                  "external": true,
+                  "external": false,
                   "sourceRepo": "owainlewis/awesome-artificial-intelligence",
                   "depth": 3,
                   "children": [],
@@ -4970,20 +4943,20 @@
                   "awesome": false,
                   "path": [
                     "Artificial Intelligence",
-                    "📚 Learn",
+                    "Learn",
                     "Courses",
-                    "Stanford CS324: Large Language Models"
+                    "Karpathy's Neural Networks: Zero to Hero: Build neural networks and language models from first principles."
                   ],
                   "parentId": "root-theory-artificial-intelligence-learn-courses"
                 },
                 {
-                  "id": "root-theory-artificial-intelligence-learn-courses-full-stack-deep-learning",
-                  "title": "Full Stack Deep Learning",
-                  "kind": "link",
+                  "id": "root-theory-artificial-intelligence-learn-courses-stanford-cs336-language-modeling-from-scratch-build-language-models-from-data-preparation-through-evaluation-and-deployment",
+                  "title": "Stanford CS336: Language Modeling from Scratch: Build language models from data preparation through evaluation and deployment.",
+                  "kind": "topic",
                   "repo": "",
-                  "url": "https://fullstackdeeplearning.com/",
+                  "url": "",
                   "description": "",
-                  "external": true,
+                  "external": false,
                   "sourceRepo": "owainlewis/awesome-artificial-intelligence",
                   "depth": 3,
                   "children": [],
@@ -4997,20 +4970,20 @@
                   "awesome": false,
                   "path": [
                     "Artificial Intelligence",
-                    "📚 Learn",
+                    "Learn",
                     "Courses",
-                    "Full Stack Deep Learning"
+                    "Stanford CS336: Language Modeling from Scratch: Build language models from data preparation through evaluation and deployment."
                   ],
                   "parentId": "root-theory-artificial-intelligence-learn-courses"
                 },
                 {
-                  "id": "root-theory-artificial-intelligence-learn-courses-mit-6-s191-intro-to-deep-learning",
-                  "title": "MIT 6.S191: Intro to Deep Learning",
-                  "kind": "link",
+                  "id": "root-theory-artificial-intelligence-learn-courses-mit-6-s191-introduction-to-deep-learning-deep-learning-foundations-and-applications",
+                  "title": "MIT 6.S191: Introduction to Deep Learning: Deep learning foundations and applications.",
+                  "kind": "topic",
                   "repo": "",
-                  "url": "https://introtodeeplearning.com/",
+                  "url": "",
                   "description": "",
-                  "external": true,
+                  "external": false,
                   "sourceRepo": "owainlewis/awesome-artificial-intelligence",
                   "depth": 3,
                   "children": [],
@@ -5024,20 +4997,20 @@
                   "awesome": false,
                   "path": [
                     "Artificial Intelligence",
-                    "📚 Learn",
+                    "Learn",
                     "Courses",
-                    "MIT 6.S191: Intro to Deep Learning"
+                    "MIT 6.S191: Introduction to Deep Learning: Deep learning foundations and applications."
                   ],
                   "parentId": "root-theory-artificial-intelligence-learn-courses"
                 },
                 {
-                  "id": "root-theory-artificial-intelligence-learn-courses-deeplearning-ai-short-courses",
-                  "title": "DeepLearning.AI Short Courses",
-                  "kind": "link",
+                  "id": "root-theory-artificial-intelligence-learn-courses-google-generative-ai-learning-path-an-introductory-path-through-generative-ai-concepts-and-google-cloud-tooling",
+                  "title": "Google Generative AI Learning Path: An introductory path through generative AI concepts and Google Cloud tooling.",
+                  "kind": "topic",
                   "repo": "",
-                  "url": "https://learn.deeplearning.ai/",
+                  "url": "",
                   "description": "",
-                  "external": true,
+                  "external": false,
                   "sourceRepo": "owainlewis/awesome-artificial-intelligence",
                   "depth": 3,
                   "children": [],
@@ -5051,20 +5024,20 @@
                   "awesome": false,
                   "path": [
                     "Artificial Intelligence",
-                    "📚 Learn",
+                    "Learn",
                     "Courses",
-                    "DeepLearning.AI Short Courses"
+                    "Google Generative AI Learning Path: An introductory path through generative AI concepts and Google Cloud tooling."
                   ],
                   "parentId": "root-theory-artificial-intelligence-learn-courses"
                 },
                 {
-                  "id": "root-theory-artificial-intelligence-learn-courses-google-deepmind-introduction-to-reinforcement-learning",
-                  "title": "Google DeepMind — Introduction to Reinforcement Learning",
-                  "kind": "link",
+                  "id": "root-theory-artificial-intelligence-learn-courses-deeplearning-ai-short-courses-focused-courses-on-current-generative-ai-engineering-techniques",
+                  "title": "DeepLearning.AI Short Courses: Focused courses on current generative AI engineering techniques.",
+                  "kind": "topic",
                   "repo": "",
-                  "url": "https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ",
+                  "url": "",
                   "description": "",
-                  "external": true,
+                  "external": false,
                   "sourceRepo": "owainlewis/awesome-artificial-intelligence",
                   "depth": 3,
                   "children": [],
@@ -5078,20 +5051,20 @@
                   "awesome": false,
                   "path": [
                     "Artificial Intelligence",
-                    "📚 Learn",
+                    "Learn",
                     "Courses",
-                    "Google DeepMind — Introduction to Reinforcement Learning"
+                    "DeepLearning.AI Short Courses: Focused courses on current generative AI engineering techniques."
                   ],
                   "parentId": "root-theory-artificial-intelligence-learn-courses"
                 },
                 {
-                  "id": "root-theory-artificial-intelligence-learn-courses-karpathy-neural-networks-zero-to-hero",
-                  "title": "Karpathy — Neural Networks: Zero to Hero",
-                  "kind": "link",
+                  "id": "root-theory-artificial-intelligence-learn-courses-made-with-ml-an-open-course-on-designing-developing-deploying-and-iterating-on-production-ml-systems",
+                  "title": "Made With ML: An open course on designing, developing, deploying, and iterating on production ML systems.",
+                  "kind": "topic",
                   "repo": "",
-                  "url": "https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ",
+                  "url": "",
                   "description": "",
-                  "external": true,
+                  "external": false,
                   "sourceRepo": "owainlewis/awesome-artificial-intelligence",
                   "depth": 3,
                   "children": [],
@@ -5105,9 +5078,9 @@
                   "awesome": false,
                   "path": [
                     "Artificial Intelligence",
-                    "📚 Learn",
+                    "Learn",
                     "Courses",
-                    "Karpathy — Neural Networks: Zero to Hero"
+                    "Made With ML: An open course on designing, developing, deploying, and iterating on production ML systems."
                   ],
                   "parentId": "root-theory-artificial-intelligence-learn-courses"
                 }
@@ -5122,22 +5095,22 @@
               "awesome": false,
               "path": [
                 "Artificial Intelligence",
-                "📚 Learn",
+                "Learn",
                 "Courses"
               ],
               "parentId": "root-theory-artificial-intelligence-learn"
             },
             {
-              "id": "root-theory-artificial-intelligence-learn-landmark-papers",
-              "title": "Landmark Papers",
+              "id": "root-theory-artificial-intelligence-learn-foundational-papers",
+              "title": "Foundational papers",
               "kind": "section",
               "sourceRepo": "owainlewis/awesome-artificial-intelligence",
               "depth": 2,
-              "url": "https://github.com/owainlewis/awesome-artificial-intelligence#landmark-papers",
+              "url": "https://github.com/owainlewis/awesome-artificial-intelligence#foundational-papers",
               "children": [
                 {
-                  "id": "root-theory-artificial-intelligence-learn-landmark-papers-attention-is-all-you-need-transformer-architecture",
-                  "title": "Attention Is All You Need — Transformer architecture.",
+                  "id": "root-theory-artificial-intelligence-learn-foundational-papers-attention-is-all-you-need-introduced-the-transformer-architecture",
+                  "title": "Attention Is All You Need: Introduced the Transformer architecture.",
                   "kind": "topic",
                   "repo": "",
                   "url": "",
@@ -5156,15 +5129,15 @@
                   "awesome": false,
                   "path": [
                     "Artificial Intelligence",
-                    "📚 Learn",
-                    "Landmark Papers",
-                    "Attention Is All You Need — Transformer architecture."
+                    "Learn",
+                    "Foundational papers",
+                    "Attention Is All You Need: Introduced the Transformer architecture."
                   ],
-                  "parentId": "root-theory-artificial-intelligence-learn-landmark-papers"
+                  "parentId": "root-theory-artificial-intelligence-learn-foundational-papers"
                 },
                 {
-                  "id": "root-theory-artificial-intelligence-learn-landmark-papers-scaling-laws-for-neural-language-models-model-data-compute-scaling",
-                  "title": "Scaling Laws for Neural Language Models — Model/data/compute scaling.",
+                  "id": "root-theory-artificial-intelligence-learn-foundational-papers-scaling-laws-for-neural-language-models-explored-relationships-between-model-performance-data-and-compute",
+                  "title": "Scaling Laws for Neural Language Models: Explored relationships between model performance, data, and compute.",
                   "kind": "topic",
                   "repo": "",
                   "url": "",
@@ -5183,15 +5156,15 @@
                   "awesome": false,
                   "path": [
                     "Artificial Intelligence",
-                    "📚 Learn",
-                    "Landmark Papers",
-                    "Scaling Laws for Neural Language Models — Model/data/compute scaling."
+                    "Learn",
+                    "Foundational papers",
+                    "Scaling Laws for Neural Language Models: Explored relationships between model performance, data, and compute."
                   ],
-                  "parentId": "root-theory-artificial-intelligence-learn-landmark-papers"
+                  "parentId": "root-theory-artificial-intelligence-learn-foundational-papers"
                 },
                 {
-                  "id": "root-theory-artificial-intelligence-learn-landmark-papers-language-models-are-few-shot-learners-gpt-3-capabilities",
-                  "title": "Language Models are Few-Shot Learners — GPT-3 capabilities.",
+                  "id": "root-theory-artificial-intelligence-learn-foundational-papers-training-compute-optimal-large-language-models-showed-how-model-size-and-training-data-should-scale-together-under-a-compute-budget",
+                  "title": "Training Compute-Optimal Large Language Models: Showed how model size and training data should scale together under a compute budget.",
                   "kind": "topic",
                   "repo": "",
                   "url": "",
@@ -5210,15 +5183,15 @@
                   "awesome": false,
                   "path": [
                     "Artificial Intelligence",
-                    "📚 Learn",
-                    "Landmark Papers",
-                    "Language Models are Few-Shot Learners — GPT-3 capabilities."
+                    "Learn",
+                    "Foundational papers",
+                    "Training Compute-Optimal Large Language Models: Showed how model size and training data should scale together under a compute budget."
                   ],
-                  "parentId": "root-theory-artificial-intelligence-learn-landmark-papers"
+                  "parentId": "root-theory-artificial-intelligence-learn-foundational-papers"
                 },
                 {
-                  "id": "root-theory-artificial-intelligence-learn-landmark-papers-constitutional-ai-safer-model-alignment",
-                  "title": "Constitutional AI — Safer model alignment.",
+                  "id": "root-theory-artificial-intelligence-learn-foundational-papers-language-models-are-few-shot-learners-demonstrated-in-context-learning-at-scale",
+                  "title": "Language Models are Few-Shot Learners: Demonstrated in-context learning at scale.",
                   "kind": "topic",
                   "repo": "",
                   "url": "",
@@ -5237,11 +5210,173 @@
                   "awesome": false,
                   "path": [
                     "Artificial Intelligence",
-                    "📚 Learn",
-                    "Landmark Papers",
-                    "Constitutional AI — Safer model alignment."
+                    "Learn",
+                    "Foundational papers",
+                    "Language Models are Few-Shot Learners: Demonstrated in-context learning at scale."
                   ],
-                  "parentId": "root-theory-artificial-intelligence-learn-landmark-papers"
+                  "parentId": "root-theory-artificial-intelligence-learn-foundational-papers"
+                },
+                {
+                  "id": "root-theory-artificial-intelligence-learn-foundational-papers-retrieval-augmented-generation-combined-parametric-language-models-with-external-retrieval-for-knowledge-intensive-tasks",
+                  "title": "Retrieval-Augmented Generation: Combined parametric language models with external retrieval for knowledge-intensive tasks.",
+                  "kind": "topic",
+                  "repo": "",
+                  "url": "",
+                  "description": "",
+                  "external": false,
+                  "sourceRepo": "owainlewis/awesome-artificial-intelligence",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Artificial Intelligence",
+                    "Learn",
+                    "Foundational papers",
+                    "Retrieval-Augmented Generation: Combined parametric language models with external retrieval for knowledge-intensive tasks."
+                  ],
+                  "parentId": "root-theory-artificial-intelligence-learn-foundational-papers"
+                },
+                {
+                  "id": "root-theory-artificial-intelligence-learn-foundational-papers-lora-introduced-low-rank-adaptation-for-parameter-efficient-model-fine-tuning",
+                  "title": "LoRA: Introduced low-rank adaptation for parameter-efficient model fine-tuning.",
+                  "kind": "topic",
+                  "repo": "",
+                  "url": "",
+                  "description": "",
+                  "external": false,
+                  "sourceRepo": "owainlewis/awesome-artificial-intelligence",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Artificial Intelligence",
+                    "Learn",
+                    "Foundational papers",
+                    "LoRA: Introduced low-rank adaptation for parameter-efficient model fine-tuning."
+                  ],
+                  "parentId": "root-theory-artificial-intelligence-learn-foundational-papers"
+                },
+                {
+                  "id": "root-theory-artificial-intelligence-learn-foundational-papers-training-language-models-to-follow-instructions-with-human-feedback-established-the-instruction-tuning-and-rlhf-recipe-used-by-instructgpt",
+                  "title": "Training Language Models to Follow Instructions with Human Feedback: Established the instruction tuning and RLHF recipe used by InstructGPT.",
+                  "kind": "topic",
+                  "repo": "",
+                  "url": "",
+                  "description": "",
+                  "external": false,
+                  "sourceRepo": "owainlewis/awesome-artificial-intelligence",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Artificial Intelligence",
+                    "Learn",
+                    "Foundational papers",
+                    "Training Language Models to Follow Instructions with Human Feedback: Established the instruction tuning and RLHF recipe used by InstructGPT."
+                  ],
+                  "parentId": "root-theory-artificial-intelligence-learn-foundational-papers"
+                },
+                {
+                  "id": "root-theory-artificial-intelligence-learn-foundational-papers-react-combined-reasoning-traces-with-actions-for-tool-using-language-model-agents",
+                  "title": "ReAct: Combined reasoning traces with actions for tool-using language-model agents.",
+                  "kind": "topic",
+                  "repo": "",
+                  "url": "",
+                  "description": "",
+                  "external": false,
+                  "sourceRepo": "owainlewis/awesome-artificial-intelligence",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Artificial Intelligence",
+                    "Learn",
+                    "Foundational papers",
+                    "ReAct: Combined reasoning traces with actions for tool-using language-model agents."
+                  ],
+                  "parentId": "root-theory-artificial-intelligence-learn-foundational-papers"
+                },
+                {
+                  "id": "root-theory-artificial-intelligence-learn-foundational-papers-constitutional-ai-a-method-for-training-helpful-and-harmless-ai-assistants-using-written-principles",
+                  "title": "Constitutional AI: A method for training helpful and harmless AI assistants using written principles.",
+                  "kind": "topic",
+                  "repo": "",
+                  "url": "",
+                  "description": "",
+                  "external": false,
+                  "sourceRepo": "owainlewis/awesome-artificial-intelligence",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Artificial Intelligence",
+                    "Learn",
+                    "Foundational papers",
+                    "Constitutional AI: A method for training helpful and harmless AI assistants using written principles."
+                  ],
+                  "parentId": "root-theory-artificial-intelligence-learn-foundational-papers"
+                },
+                {
+                  "id": "root-theory-artificial-intelligence-learn-foundational-papers-direct-preference-optimization-reframed-preference-alignment-as-a-simple-classification-objective-without-explicit-reward-modelling",
+                  "title": "Direct Preference Optimization: Reframed preference alignment as a simple classification objective without explicit reward modelling.",
+                  "kind": "topic",
+                  "repo": "",
+                  "url": "",
+                  "description": "",
+                  "external": false,
+                  "sourceRepo": "owainlewis/awesome-artificial-intelligence",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Artificial Intelligence",
+                    "Learn",
+                    "Foundational papers",
+                    "Direct Preference Optimization: Reframed preference alignment as a simple classification objective without explicit reward modelling."
+                  ],
+                  "parentId": "root-theory-artificial-intelligence-learn-foundational-papers"
                 }
               ],
               "stars": 0,
@@ -5254,8 +5389,8 @@
               "awesome": false,
               "path": [
                 "Artificial Intelligence",
-                "📚 Learn",
-                "Landmark Papers"
+                "Learn",
+                "Foundational papers"
               ],
               "parentId": "root-theory-artificial-intelligence-learn"
             }
@@ -5270,29 +5405,29 @@
           "awesome": false,
           "path": [
             "Artificial Intelligence",
-            "📚 Learn"
+            "Learn"
           ],
           "parentId": "root-theory-artificial-intelligence"
         },
         {
-          "id": "root-theory-artificial-intelligence-build",
-          "title": "🛠 Build",
+          "id": "root-theory-artificial-intelligence-build-ai-systems",
+          "title": "Build AI systems",
           "kind": "section",
           "sourceRepo": "owainlewis/awesome-artificial-intelligence",
           "depth": 1,
-          "url": "https://github.com/owainlewis/awesome-artificial-intelligence#build",
+          "url": "https://github.com/owainlewis/awesome-artificial-intelligence#build-ai-systems",
           "children": [
             {
-              "id": "root-theory-artificial-intelligence-build-guides-and-playbooks",
-              "title": "Guides & Playbooks",
+              "id": "root-theory-artificial-intelligence-build-ai-systems-guides-and-playbooks",
+              "title": "Guides and playbooks",
               "kind": "section",
               "sourceRepo": "owainlewis/awesome-artificial-intelligence",
               "depth": 2,
               "url": "https://github.com/owainlewis/awesome-artificial-intelligence#guides-and-playbooks",
               "children": [
                 {
-                  "id": "root-theory-artificial-intelligence-build-guides-and-playbooks-building-effective-agents-anthropic-patterns-pitfalls-and-tradeoffs-for-designing-ai-agents",
-                  "title": "Building Effective Agents (Anthropic) — ⭐ Patterns, pitfalls, and tradeoffs for designing AI agents.",
+                  "id": "root-theory-artificial-intelligence-build-ai-systems-guides-and-playbooks-building-effective-agents-anthropic-s-practical-patterns-and-tradeoffs-for-agentic-systems",
+                  "title": "Building Effective Agents: Anthropic's practical patterns and tradeoffs for agentic systems.",
                   "kind": "topic",
                   "repo": "",
                   "url": "",
@@ -5311,15 +5446,15 @@
                   "awesome": false,
                   "path": [
                     "Artificial Intelligence",
-                    "🛠 Build",
-                    "Guides & Playbooks",
-                    "Building Effective Agents (Anthropic) — ⭐ Patterns, pitfalls, and tradeoffs for designing AI agents."
+                    "Build AI systems",
+                    "Guides and playbooks",
+                    "Building Effective Agents: Anthropic's practical patterns and tradeoffs for agentic systems."
                   ],
-                  "parentId": "root-theory-artificial-intelligence-build-guides-and-playbooks"
+                  "parentId": "root-theory-artificial-intelligence-build-ai-systems-guides-and-playbooks"
                 },
                 {
-                  "id": "root-theory-artificial-intelligence-build-guides-and-playbooks-openai-agents-guide-practical-guide-on-building-agents",
-                  "title": "OpenAI Agents Guide — Practical guide on building agents.",
+                  "id": "root-theory-artificial-intelligence-build-ai-systems-guides-and-playbooks-a-practical-guide-to-building-agents-openai-s-guide-to-models-tools-instructions-orchestration-and-guardrails",
+                  "title": "A Practical Guide to Building Agents: OpenAI's guide to models, tools, instructions, orchestration, and guardrails.",
                   "kind": "topic",
                   "repo": "",
                   "url": "",
@@ -5338,119 +5473,11 @@
                   "awesome": false,
                   "path": [
                     "Artificial Intelligence",
-                    "🛠 Build",
-                    "Guides & Playbooks",
-                    "OpenAI Agents Guide — Practical guide on building agents."
+                    "Build AI systems",
+                    "Guides and playbooks",
+                    "A Practical Guide to Building Agents: OpenAI's guide to models, tools, instructions, orchestration, and guardrails."
                   ],
-                  "parentId": "root-theory-artificial-intelligence-build-guides-and-playbooks"
-                },
-                {
-                  "id": "root-theory-artificial-intelligence-build-guides-and-playbooks-google-ai-agents-paper-practical-guide-to-building-ai-agents-from-google",
-                  "title": "Google AI Agents Paper — Practical guide to building AI agents from Google.",
-                  "kind": "topic",
-                  "repo": "",
-                  "url": "",
-                  "description": "",
-                  "external": false,
-                  "sourceRepo": "owainlewis/awesome-artificial-intelligence",
-                  "depth": 3,
-                  "children": [],
-                  "stars": 0,
-                  "forks": 0,
-                  "language": null,
-                  "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
-                  "awesome": false,
-                  "path": [
-                    "Artificial Intelligence",
-                    "🛠 Build",
-                    "Guides & Playbooks",
-                    "Google AI Agents Paper — Practical guide to building AI agents from Google."
-                  ],
-                  "parentId": "root-theory-artificial-intelligence-build-guides-and-playbooks"
-                },
-                {
-                  "id": "root-theory-artificial-intelligence-build-guides-and-playbooks-google-agents-companion-paper-companion-guide-from-google",
-                  "title": "Google Agents Companion Paper — Companion guide from Google.",
-                  "kind": "topic",
-                  "repo": "",
-                  "url": "",
-                  "description": "",
-                  "external": false,
-                  "sourceRepo": "owainlewis/awesome-artificial-intelligence",
-                  "depth": 3,
-                  "children": [],
-                  "stars": 0,
-                  "forks": 0,
-                  "language": null,
-                  "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
-                  "awesome": false,
-                  "path": [
-                    "Artificial Intelligence",
-                    "🛠 Build",
-                    "Guides & Playbooks",
-                    "Google Agents Companion Paper — Companion guide from Google."
-                  ],
-                  "parentId": "root-theory-artificial-intelligence-build-guides-and-playbooks"
-                },
-                {
-                  "id": "root-theory-artificial-intelligence-build-guides-and-playbooks-openai-cookbook-example-code-recipes-and-best-practices-for-working-with-openai-apis",
-                  "title": "OpenAI Cookbook — Example code, recipes, and best practices for working with OpenAI APIs.",
-                  "kind": "topic",
-                  "repo": "",
-                  "url": "",
-                  "description": "",
-                  "external": false,
-                  "sourceRepo": "owainlewis/awesome-artificial-intelligence",
-                  "depth": 3,
-                  "children": [],
-                  "stars": 0,
-                  "forks": 0,
-                  "language": null,
-                  "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
-                  "awesome": false,
-                  "path": [
-                    "Artificial Intelligence",
-                    "🛠 Build",
-                    "Guides & Playbooks",
-                    "OpenAI Cookbook — Example code, recipes, and best practices for working with OpenAI APIs."
-                  ],
-                  "parentId": "root-theory-artificial-intelligence-build-guides-and-playbooks"
-                },
-                {
-                  "id": "root-theory-artificial-intelligence-build-guides-and-playbooks-llm-engineer-handbook-a-goldmine-of-useful-links-for-ai-engineers",
-                  "title": "LLM Engineer Handbook — A goldmine of useful links for AI engineers.",
-                  "kind": "topic",
-                  "repo": "",
-                  "url": "",
-                  "description": "",
-                  "external": false,
-                  "sourceRepo": "owainlewis/awesome-artificial-intelligence",
-                  "depth": 3,
-                  "children": [],
-                  "stars": 0,
-                  "forks": 0,
-                  "language": null,
-                  "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
-                  "awesome": false,
-                  "path": [
-                    "Artificial Intelligence",
-                    "🛠 Build",
-                    "Guides & Playbooks",
-                    "LLM Engineer Handbook — A goldmine of useful links for AI engineers."
-                  ],
-                  "parentId": "root-theory-artificial-intelligence-build-guides-and-playbooks"
+                  "parentId": "root-theory-artificial-intelligence-build-ai-systems-guides-and-playbooks"
                 }
               ],
               "stars": 0,
@@ -5463,22 +5490,22 @@
               "awesome": false,
               "path": [
                 "Artificial Intelligence",
-                "🛠 Build",
-                "Guides & Playbooks"
+                "Build AI systems",
+                "Guides and playbooks"
               ],
-              "parentId": "root-theory-artificial-intelligence-build"
+              "parentId": "root-theory-artificial-intelligence-build-ai-systems"
             },
             {
-              "id": "root-theory-artificial-intelligence-build-frameworks",
-              "title": "Frameworks",
+              "id": "root-theory-artificial-intelligence-build-ai-systems-llm-application-engineering",
+              "title": "LLM application engineering",
               "kind": "section",
               "sourceRepo": "owainlewis/awesome-artificial-intelligence",
               "depth": 2,
-              "url": "https://github.com/owainlewis/awesome-artificial-intelligence#frameworks",
+              "url": "https://github.com/owainlewis/awesome-artificial-intelligence#llm-application-engineering",
               "children": [
                 {
-                  "id": "root-theory-artificial-intelligence-build-frameworks-pocketflow-extremely-minimalist-ai-agent-framework-in-just-100-lines-of-code-fantastic-way-to-learn",
-                  "title": "PocketFlow — Extremely minimalist AI agent framework in just 100 lines of code. Fantastic way to learn.",
+                  "id": "root-theory-artificial-intelligence-build-ai-systems-llm-application-engineering-openai-cookbook-code-examples-for-structured-outputs-tool-use-retrieval-evals-and-other-llm-application-patterns",
+                  "title": "OpenAI Cookbook: Code examples for structured outputs, tool use, retrieval, evals, and other LLM application patterns.",
                   "kind": "topic",
                   "repo": "",
                   "url": "",
@@ -5497,15 +5524,15 @@
                   "awesome": false,
                   "path": [
                     "Artificial Intelligence",
-                    "🛠 Build",
-                    "Frameworks",
-                    "PocketFlow — Extremely minimalist AI agent framework in just 100 lines of code. Fantastic way to learn."
+                    "Build AI systems",
+                    "LLM application engineering",
+                    "OpenAI Cookbook: Code examples for structured outputs, tool use, retrieval, evals, and other LLM application patterns."
                   ],
-                  "parentId": "root-theory-artificial-intelligence-build-frameworks"
+                  "parentId": "root-theory-artificial-intelligence-build-ai-systems-llm-application-engineering"
                 },
                 {
-                  "id": "root-theory-artificial-intelligence-build-frameworks-google-adk-google-s-agent-development-kit-python-java-great-local-development-experience-a2a-mcp",
-                  "title": "Google ADK — Google's Agent Development Kit (Python, Java). Great local development experience + A2A + MCP.",
+                  "id": "root-theory-artificial-intelligence-build-ai-systems-llm-application-engineering-anthropic-prompt-engineering-techniques-for-defining-success-criteria-testing-prompts-and-improving-model-behaviour",
+                  "title": "Anthropic Prompt Engineering: Techniques for defining success criteria, testing prompts, and improving model behaviour.",
                   "kind": "topic",
                   "repo": "",
                   "url": "",
@@ -5524,15 +5551,15 @@
                   "awesome": false,
                   "path": [
                     "Artificial Intelligence",
-                    "🛠 Build",
-                    "Frameworks",
-                    "Google ADK — Google's Agent Development Kit (Python, Java). Great local development experience + A2A + MCP."
+                    "Build AI systems",
+                    "LLM application engineering",
+                    "Anthropic Prompt Engineering: Techniques for defining success criteria, testing prompts, and improving model behaviour."
                   ],
-                  "parentId": "root-theory-artificial-intelligence-build-frameworks"
+                  "parentId": "root-theory-artificial-intelligence-build-ai-systems-llm-application-engineering"
                 },
                 {
-                  "id": "root-theory-artificial-intelligence-build-frameworks-pydantic-ai-typed-structured-llm-orchestration-framework-built-on-pydantic-models-for-safe-predictable-outputs",
-                  "title": "Pydantic-AI — Typed, structured LLM orchestration framework built on Pydantic models for safe, predictable outputs.",
+                  "id": "root-theory-artificial-intelligence-build-ai-systems-llm-application-engineering-effective-context-engineering-for-ai-agents-how-to-select-structure-and-manage-the-context-available-to-long-running-agents",
+                  "title": "Effective Context Engineering for AI Agents: How to select, structure, and manage the context available to long-running agents.",
                   "kind": "topic",
                   "repo": "",
                   "url": "",
@@ -5551,15 +5578,15 @@
                   "awesome": false,
                   "path": [
                     "Artificial Intelligence",
-                    "🛠 Build",
-                    "Frameworks",
-                    "Pydantic-AI — Typed, structured LLM orchestration framework built on Pydantic models for safe, predictable outputs."
+                    "Build AI systems",
+                    "LLM application engineering",
+                    "Effective Context Engineering for AI Agents: How to select, structure, and manage the context available to long-running agents."
                   ],
-                  "parentId": "root-theory-artificial-intelligence-build-frameworks"
+                  "parentId": "root-theory-artificial-intelligence-build-ai-systems-llm-application-engineering"
                 },
                 {
-                  "id": "root-theory-artificial-intelligence-build-frameworks-langgraph-build-multi-agent-workflows-with-stateful-graphs-on-top-of-langchain",
-                  "title": "LangGraph — Build multi-agent workflows with stateful graphs on top of LangChain.",
+                  "id": "root-theory-artificial-intelligence-build-ai-systems-llm-application-engineering-12-factor-agents-practical-principles-for-building-controllable-llm-applications-around-deterministic-software",
+                  "title": "12-Factor Agents: Practical principles for building controllable LLM applications around deterministic software.",
                   "kind": "topic",
                   "repo": "",
                   "url": "",
@@ -5578,15 +5605,15 @@
                   "awesome": false,
                   "path": [
                     "Artificial Intelligence",
-                    "🛠 Build",
-                    "Frameworks",
-                    "LangGraph — Build multi-agent workflows with stateful graphs on top of LangChain."
+                    "Build AI systems",
+                    "LLM application engineering",
+                    "12-Factor Agents: Practical principles for building controllable LLM applications around deterministic software."
                   ],
-                  "parentId": "root-theory-artificial-intelligence-build-frameworks"
+                  "parentId": "root-theory-artificial-intelligence-build-ai-systems-llm-application-engineering"
                 },
                 {
-                  "id": "root-theory-artificial-intelligence-build-frameworks-crewai-agent-orchestration-with-structured-tasks-and-human-in-the-loop-controls",
-                  "title": "CrewAI — Agent orchestration with structured tasks and human-in-the-loop controls.",
+                  "id": "root-theory-artificial-intelligence-build-ai-systems-llm-application-engineering-owasp-top-10-for-llm-applications-risks-and-mitigations-for-developing-and-deploying-generative-ai-applications",
+                  "title": "OWASP Top 10 for LLM Applications: Risks and mitigations for developing and deploying generative AI applications.",
                   "kind": "topic",
                   "repo": "",
                   "url": "",
@@ -5605,119 +5632,11 @@
                   "awesome": false,
                   "path": [
                     "Artificial Intelligence",
-                    "🛠 Build",
-                    "Frameworks",
-                    "CrewAI — Agent orchestration with structured tasks and human-in-the-loop controls."
+                    "Build AI systems",
+                    "LLM application engineering",
+                    "OWASP Top 10 for LLM Applications: Risks and mitigations for developing and deploying generative AI applications."
                   ],
-                  "parentId": "root-theory-artificial-intelligence-build-frameworks"
-                },
-                {
-                  "id": "root-theory-artificial-intelligence-build-frameworks-autogen-microsoft-s-framework-for-multi-agent-conversation-and-collaboration",
-                  "title": "AutoGen — Microsoft's framework for multi-agent conversation and collaboration.",
-                  "kind": "topic",
-                  "repo": "",
-                  "url": "",
-                  "description": "",
-                  "external": false,
-                  "sourceRepo": "owainlewis/awesome-artificial-intelligence",
-                  "depth": 3,
-                  "children": [],
-                  "stars": 0,
-                  "forks": 0,
-                  "language": null,
-                  "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
-                  "awesome": false,
-                  "path": [
-                    "Artificial Intelligence",
-                    "🛠 Build",
-                    "Frameworks",
-                    "AutoGen — Microsoft's framework for multi-agent conversation and collaboration."
-                  ],
-                  "parentId": "root-theory-artificial-intelligence-build-frameworks"
-                },
-                {
-                  "id": "root-theory-artificial-intelligence-build-frameworks-llamaindex-data-framework-for-ingesting-indexing-and-querying-private-data-with-llms",
-                  "title": "LlamaIndex — Data framework for ingesting, indexing, and querying private data with LLMs.",
-                  "kind": "topic",
-                  "repo": "",
-                  "url": "",
-                  "description": "",
-                  "external": false,
-                  "sourceRepo": "owainlewis/awesome-artificial-intelligence",
-                  "depth": 3,
-                  "children": [],
-                  "stars": 0,
-                  "forks": 0,
-                  "language": null,
-                  "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
-                  "awesome": false,
-                  "path": [
-                    "Artificial Intelligence",
-                    "🛠 Build",
-                    "Frameworks",
-                    "LlamaIndex — Data framework for ingesting, indexing, and querying private data with LLMs."
-                  ],
-                  "parentId": "root-theory-artificial-intelligence-build-frameworks"
-                },
-                {
-                  "id": "root-theory-artificial-intelligence-build-frameworks-haystack-open-source-search-rag-framework-with-modular-pipelines",
-                  "title": "Haystack — Open-source search/RAG framework with modular pipelines.",
-                  "kind": "topic",
-                  "repo": "",
-                  "url": "",
-                  "description": "",
-                  "external": false,
-                  "sourceRepo": "owainlewis/awesome-artificial-intelligence",
-                  "depth": 3,
-                  "children": [],
-                  "stars": 0,
-                  "forks": 0,
-                  "language": null,
-                  "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
-                  "awesome": false,
-                  "path": [
-                    "Artificial Intelligence",
-                    "🛠 Build",
-                    "Frameworks",
-                    "Haystack — Open-source search/RAG framework with modular pipelines."
-                  ],
-                  "parentId": "root-theory-artificial-intelligence-build-frameworks"
-                },
-                {
-                  "id": "root-theory-artificial-intelligence-build-frameworks-docling-great-library-for-ingesting-any-kind-of-document-for-rag",
-                  "title": "Docling — Great library for ingesting any kind of document for RAG ⭐",
-                  "kind": "topic",
-                  "repo": "",
-                  "url": "",
-                  "description": "",
-                  "external": false,
-                  "sourceRepo": "owainlewis/awesome-artificial-intelligence",
-                  "depth": 3,
-                  "children": [],
-                  "stars": 0,
-                  "forks": 0,
-                  "language": null,
-                  "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
-                  "awesome": false,
-                  "path": [
-                    "Artificial Intelligence",
-                    "🛠 Build",
-                    "Frameworks",
-                    "Docling — Great library for ingesting any kind of document for RAG ⭐"
-                  ],
-                  "parentId": "root-theory-artificial-intelligence-build-frameworks"
+                  "parentId": "root-theory-artificial-intelligence-build-ai-systems-llm-application-engineering"
                 }
               ],
               "stars": 0,
@@ -5730,22 +5649,22 @@
               "awesome": false,
               "path": [
                 "Artificial Intelligence",
-                "🛠 Build",
-                "Frameworks"
+                "Build AI systems",
+                "LLM application engineering"
               ],
-              "parentId": "root-theory-artificial-intelligence-build"
+              "parentId": "root-theory-artificial-intelligence-build-ai-systems"
             },
             {
-              "id": "root-theory-artificial-intelligence-build-evals",
-              "title": "Evals",
+              "id": "root-theory-artificial-intelligence-build-ai-systems-agent-frameworks",
+              "title": "Agent frameworks",
               "kind": "section",
               "sourceRepo": "owainlewis/awesome-artificial-intelligence",
               "depth": 2,
-              "url": "https://github.com/owainlewis/awesome-artificial-intelligence#evals",
+              "url": "https://github.com/owainlewis/awesome-artificial-intelligence#agent-frameworks",
               "children": [
                 {
-                  "id": "root-theory-artificial-intelligence-build-evals-openai-evals-openai-s-framework-for-writing-evals",
-                  "title": "OpenAI Evals — OpenAI's framework for writing evals.",
+                  "id": "root-theory-artificial-intelligence-build-ai-systems-agent-frameworks-pydantic-ai-typed-agent-development-built-around-pydantic",
+                  "title": "Pydantic AI: Typed agent development built around Pydantic.",
                   "kind": "topic",
                   "repo": "",
                   "url": "",
@@ -5764,11 +5683,119 @@
                   "awesome": false,
                   "path": [
                     "Artificial Intelligence",
-                    "🛠 Build",
-                    "Evals",
-                    "OpenAI Evals — OpenAI's framework for writing evals."
+                    "Build AI systems",
+                    "Agent frameworks",
+                    "Pydantic AI: Typed agent development built around Pydantic."
                   ],
-                  "parentId": "root-theory-artificial-intelligence-build-evals"
+                  "parentId": "root-theory-artificial-intelligence-build-ai-systems-agent-frameworks"
+                },
+                {
+                  "id": "root-theory-artificial-intelligence-build-ai-systems-agent-frameworks-langgraph-low-level-orchestration-for-long-running-stateful-agents",
+                  "title": "LangGraph: Low-level orchestration for long-running, stateful agents.",
+                  "kind": "topic",
+                  "repo": "",
+                  "url": "",
+                  "description": "",
+                  "external": false,
+                  "sourceRepo": "owainlewis/awesome-artificial-intelligence",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Artificial Intelligence",
+                    "Build AI systems",
+                    "Agent frameworks",
+                    "LangGraph: Low-level orchestration for long-running, stateful agents."
+                  ],
+                  "parentId": "root-theory-artificial-intelligence-build-ai-systems-agent-frameworks"
+                },
+                {
+                  "id": "root-theory-artificial-intelligence-build-ai-systems-agent-frameworks-openai-agents-sdk-a-small-sdk-for-tools-handoffs-guardrails-tracing-and-agent-orchestration",
+                  "title": "OpenAI Agents SDK: A small SDK for tools, handoffs, guardrails, tracing, and agent orchestration.",
+                  "kind": "topic",
+                  "repo": "",
+                  "url": "",
+                  "description": "",
+                  "external": false,
+                  "sourceRepo": "owainlewis/awesome-artificial-intelligence",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Artificial Intelligence",
+                    "Build AI systems",
+                    "Agent frameworks",
+                    "OpenAI Agents SDK: A small SDK for tools, handoffs, guardrails, tracing, and agent orchestration."
+                  ],
+                  "parentId": "root-theory-artificial-intelligence-build-ai-systems-agent-frameworks"
+                },
+                {
+                  "id": "root-theory-artificial-intelligence-build-ai-systems-agent-frameworks-google-agent-development-kit-google-s-framework-for-developing-and-evaluating-agents",
+                  "title": "Google Agent Development Kit: Google's framework for developing and evaluating agents.",
+                  "kind": "topic",
+                  "repo": "",
+                  "url": "",
+                  "description": "",
+                  "external": false,
+                  "sourceRepo": "owainlewis/awesome-artificial-intelligence",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Artificial Intelligence",
+                    "Build AI systems",
+                    "Agent frameworks",
+                    "Google Agent Development Kit: Google's framework for developing and evaluating agents."
+                  ],
+                  "parentId": "root-theory-artificial-intelligence-build-ai-systems-agent-frameworks"
+                },
+                {
+                  "id": "root-theory-artificial-intelligence-build-ai-systems-agent-frameworks-microsoft-agent-framework-microsoft-s-successor-to-autogen-and-semantic-kernel-for-agents-and-graph-based-workflows",
+                  "title": "Microsoft Agent Framework: Microsoft's successor to AutoGen and Semantic Kernel for agents and graph-based workflows.",
+                  "kind": "topic",
+                  "repo": "",
+                  "url": "",
+                  "description": "",
+                  "external": false,
+                  "sourceRepo": "owainlewis/awesome-artificial-intelligence",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Artificial Intelligence",
+                    "Build AI systems",
+                    "Agent frameworks",
+                    "Microsoft Agent Framework: Microsoft's successor to AutoGen and Semantic Kernel for agents and graph-based workflows."
+                  ],
+                  "parentId": "root-theory-artificial-intelligence-build-ai-systems-agent-frameworks"
                 }
               ],
               "stars": 0,
@@ -5781,22 +5808,22 @@
               "awesome": false,
               "path": [
                 "Artificial Intelligence",
-                "🛠 Build",
-                "Evals"
+                "Build AI systems",
+                "Agent frameworks"
               ],
-              "parentId": "root-theory-artificial-intelligence-build"
+              "parentId": "root-theory-artificial-intelligence-build-ai-systems"
             },
             {
-              "id": "root-theory-artificial-intelligence-build-ides",
-              "title": "IDEs",
+              "id": "root-theory-artificial-intelligence-build-ai-systems-durable-and-asynchronous-agents",
+              "title": "Durable and asynchronous agents",
               "kind": "section",
               "sourceRepo": "owainlewis/awesome-artificial-intelligence",
               "depth": 2,
-              "url": "https://github.com/owainlewis/awesome-artificial-intelligence#ides",
+              "url": "https://github.com/owainlewis/awesome-artificial-intelligence#durable-and-asynchronous-agents",
               "children": [
                 {
-                  "id": "root-theory-artificial-intelligence-build-ides-cursor-llm-powered-ide-for-multi-file-edits-and-codebase-aware-chat",
-                  "title": "Cursor — LLM-powered IDE for multi-file edits and codebase-aware chat.",
+                  "id": "root-theory-artificial-intelligence-build-ai-systems-durable-and-asynchronous-agents-effective-harnesses-for-long-running-agents-patterns-for-agents-that-make-progress-across-multiple-context-windows-and-recover-from-failure",
+                  "title": "Effective Harnesses for Long-Running Agents: Patterns for agents that make progress across multiple context windows and recover from failure.",
                   "kind": "topic",
                   "repo": "",
                   "url": "",
@@ -5815,15 +5842,15 @@
                   "awesome": false,
                   "path": [
                     "Artificial Intelligence",
-                    "🛠 Build",
-                    "IDEs",
-                    "Cursor — LLM-powered IDE for multi-file edits and codebase-aware chat."
+                    "Build AI systems",
+                    "Durable and asynchronous agents",
+                    "Effective Harnesses for Long-Running Agents: Patterns for agents that make progress across multiple context windows and recover from failure."
                   ],
-                  "parentId": "root-theory-artificial-intelligence-build-ides"
+                  "parentId": "root-theory-artificial-intelligence-build-ai-systems-durable-and-asynchronous-agents"
                 },
                 {
-                  "id": "root-theory-artificial-intelligence-build-ides-github-copilot-in-ide-code-completion-chat-and-refactors",
-                  "title": "GitHub Copilot — In-IDE code completion, chat, and refactors.",
+                  "id": "root-theory-artificial-intelligence-build-ai-systems-durable-and-asynchronous-agents-running-agents-lifecycle-session-exception-and-durable-execution-patterns-in-the-openai-agents-sdk",
+                  "title": "Running Agents: Lifecycle, session, exception, and durable-execution patterns in the OpenAI Agents SDK.",
                   "kind": "topic",
                   "repo": "",
                   "url": "",
@@ -5842,11 +5869,65 @@
                   "awesome": false,
                   "path": [
                     "Artificial Intelligence",
-                    "🛠 Build",
-                    "IDEs",
-                    "GitHub Copilot — In-IDE code completion, chat, and refactors."
+                    "Build AI systems",
+                    "Durable and asynchronous agents",
+                    "Running Agents: Lifecycle, session, exception, and durable-execution patterns in the OpenAI Agents SDK."
                   ],
-                  "parentId": "root-theory-artificial-intelligence-build-ides"
+                  "parentId": "root-theory-artificial-intelligence-build-ai-systems-durable-and-asynchronous-agents"
+                },
+                {
+                  "id": "root-theory-artificial-intelligence-build-ai-systems-durable-and-asynchronous-agents-human-in-the-loop-pause-inspect-approve-reject-and-resume-tool-calls-without-losing-agent-state",
+                  "title": "Human-in-the-Loop: Pause, inspect, approve, reject, and resume tool calls without losing agent state.",
+                  "kind": "topic",
+                  "repo": "",
+                  "url": "",
+                  "description": "",
+                  "external": false,
+                  "sourceRepo": "owainlewis/awesome-artificial-intelligence",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Artificial Intelligence",
+                    "Build AI systems",
+                    "Durable and asynchronous agents",
+                    "Human-in-the-Loop: Pause, inspect, approve, reject, and resume tool calls without losing agent state."
+                  ],
+                  "parentId": "root-theory-artificial-intelligence-build-ai-systems-durable-and-asynchronous-agents"
+                },
+                {
+                  "id": "root-theory-artificial-intelligence-build-ai-systems-durable-and-asynchronous-agents-gemini-and-temporal-durable-agent-a-concrete-implementation-of-durable-execution-retries-and-human-approval-for-an-agent-workflow",
+                  "title": "Gemini and Temporal Durable Agent: A concrete implementation of durable execution, retries, and human approval for an agent workflow.",
+                  "kind": "topic",
+                  "repo": "",
+                  "url": "",
+                  "description": "",
+                  "external": false,
+                  "sourceRepo": "owainlewis/awesome-artificial-intelligence",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Artificial Intelligence",
+                    "Build AI systems",
+                    "Durable and asynchronous agents",
+                    "Gemini and Temporal Durable Agent: A concrete implementation of durable execution, retries, and human approval for an agent workflow."
+                  ],
+                  "parentId": "root-theory-artificial-intelligence-build-ai-systems-durable-and-asynchronous-agents"
                 }
               ],
               "stars": 0,
@@ -5859,10 +5940,352 @@
               "awesome": false,
               "path": [
                 "Artificial Intelligence",
-                "🛠 Build",
-                "IDEs"
+                "Build AI systems",
+                "Durable and asynchronous agents"
               ],
-              "parentId": "root-theory-artificial-intelligence-build"
+              "parentId": "root-theory-artificial-intelligence-build-ai-systems"
+            },
+            {
+              "id": "root-theory-artificial-intelligence-build-ai-systems-retrieval-and-data",
+              "title": "Retrieval and data",
+              "kind": "section",
+              "sourceRepo": "owainlewis/awesome-artificial-intelligence",
+              "depth": 2,
+              "url": "https://github.com/owainlewis/awesome-artificial-intelligence#retrieval-and-data",
+              "children": [
+                {
+                  "id": "root-theory-artificial-intelligence-build-ai-systems-retrieval-and-data-llamaindex-data-ingestion-indexing-retrieval-and-agent-workflows",
+                  "title": "LlamaIndex: Data ingestion, indexing, retrieval, and agent workflows.",
+                  "kind": "topic",
+                  "repo": "",
+                  "url": "",
+                  "description": "",
+                  "external": false,
+                  "sourceRepo": "owainlewis/awesome-artificial-intelligence",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Artificial Intelligence",
+                    "Build AI systems",
+                    "Retrieval and data",
+                    "LlamaIndex: Data ingestion, indexing, retrieval, and agent workflows."
+                  ],
+                  "parentId": "root-theory-artificial-intelligence-build-ai-systems-retrieval-and-data"
+                },
+                {
+                  "id": "root-theory-artificial-intelligence-build-ai-systems-retrieval-and-data-haystack-modular-pipelines-for-retrieval-and-generative-ai-applications",
+                  "title": "Haystack: Modular pipelines for retrieval and generative AI applications.",
+                  "kind": "topic",
+                  "repo": "",
+                  "url": "",
+                  "description": "",
+                  "external": false,
+                  "sourceRepo": "owainlewis/awesome-artificial-intelligence",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Artificial Intelligence",
+                    "Build AI systems",
+                    "Retrieval and data",
+                    "Haystack: Modular pipelines for retrieval and generative AI applications."
+                  ],
+                  "parentId": "root-theory-artificial-intelligence-build-ai-systems-retrieval-and-data"
+                },
+                {
+                  "id": "root-theory-artificial-intelligence-build-ai-systems-retrieval-and-data-docling-document-parsing-and-conversion-for-ai-applications",
+                  "title": "Docling: Document parsing and conversion for AI applications.",
+                  "kind": "topic",
+                  "repo": "",
+                  "url": "",
+                  "description": "",
+                  "external": false,
+                  "sourceRepo": "owainlewis/awesome-artificial-intelligence",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Artificial Intelligence",
+                    "Build AI systems",
+                    "Retrieval and data",
+                    "Docling: Document parsing and conversion for AI applications."
+                  ],
+                  "parentId": "root-theory-artificial-intelligence-build-ai-systems-retrieval-and-data"
+                }
+              ],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Artificial Intelligence",
+                "Build AI systems",
+                "Retrieval and data"
+              ],
+              "parentId": "root-theory-artificial-intelligence-build-ai-systems"
+            },
+            {
+              "id": "root-theory-artificial-intelligence-build-ai-systems-evals-and-reliability",
+              "title": "Evals and reliability",
+              "kind": "section",
+              "sourceRepo": "owainlewis/awesome-artificial-intelligence",
+              "depth": 2,
+              "url": "https://github.com/owainlewis/awesome-artificial-intelligence#evals-and-reliability",
+              "children": [
+                {
+                  "id": "root-theory-artificial-intelligence-build-ai-systems-evals-and-reliability-demystifying-evals-for-ai-agents-a-practical-method-for-building-task-suites-graders-transcripts-and-evaluation-harnesses",
+                  "title": "Demystifying Evals for AI Agents: A practical method for building task suites, graders, transcripts, and evaluation harnesses.",
+                  "kind": "topic",
+                  "repo": "",
+                  "url": "",
+                  "description": "",
+                  "external": false,
+                  "sourceRepo": "owainlewis/awesome-artificial-intelligence",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Artificial Intelligence",
+                    "Build AI systems",
+                    "Evals and reliability",
+                    "Demystifying Evals for AI Agents: A practical method for building task suites, graders, transcripts, and evaluation harnesses."
+                  ],
+                  "parentId": "root-theory-artificial-intelligence-build-ai-systems-evals-and-reliability"
+                },
+                {
+                  "id": "root-theory-artificial-intelligence-build-ai-systems-evals-and-reliability-openai-evals-an-open-source-framework-and-registry-for-evaluating-language-models-and-systems",
+                  "title": "OpenAI Evals: An open-source framework and registry for evaluating language models and systems.",
+                  "kind": "topic",
+                  "repo": "",
+                  "url": "",
+                  "description": "",
+                  "external": false,
+                  "sourceRepo": "owainlewis/awesome-artificial-intelligence",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Artificial Intelligence",
+                    "Build AI systems",
+                    "Evals and reliability",
+                    "OpenAI Evals: An open-source framework and registry for evaluating language models and systems."
+                  ],
+                  "parentId": "root-theory-artificial-intelligence-build-ai-systems-evals-and-reliability"
+                },
+                {
+                  "id": "root-theory-artificial-intelligence-build-ai-systems-evals-and-reliability-promptfoo-test-cases-assertions-model-comparisons-and-red-team-checks-for-llm-applications",
+                  "title": "Promptfoo: Test cases, assertions, model comparisons, and red-team checks for LLM applications.",
+                  "kind": "topic",
+                  "repo": "",
+                  "url": "",
+                  "description": "",
+                  "external": false,
+                  "sourceRepo": "owainlewis/awesome-artificial-intelligence",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Artificial Intelligence",
+                    "Build AI systems",
+                    "Evals and reliability",
+                    "Promptfoo: Test cases, assertions, model comparisons, and red-team checks for LLM applications."
+                  ],
+                  "parentId": "root-theory-artificial-intelligence-build-ai-systems-evals-and-reliability"
+                },
+                {
+                  "id": "root-theory-artificial-intelligence-build-ai-systems-evals-and-reliability-ragas-evaluation-and-experimentation-for-retrieval-and-generative-ai-applications",
+                  "title": "Ragas: Evaluation and experimentation for retrieval and generative AI applications.",
+                  "kind": "topic",
+                  "repo": "",
+                  "url": "",
+                  "description": "",
+                  "external": false,
+                  "sourceRepo": "owainlewis/awesome-artificial-intelligence",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Artificial Intelligence",
+                    "Build AI systems",
+                    "Evals and reliability",
+                    "Ragas: Evaluation and experimentation for retrieval and generative AI applications."
+                  ],
+                  "parentId": "root-theory-artificial-intelligence-build-ai-systems-evals-and-reliability"
+                }
+              ],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Artificial Intelligence",
+                "Build AI systems",
+                "Evals and reliability"
+              ],
+              "parentId": "root-theory-artificial-intelligence-build-ai-systems"
+            },
+            {
+              "id": "root-theory-artificial-intelligence-build-ai-systems-deployment-and-observability",
+              "title": "Deployment and observability",
+              "kind": "section",
+              "sourceRepo": "owainlewis/awesome-artificial-intelligence",
+              "depth": 2,
+              "url": "https://github.com/owainlewis/awesome-artificial-intelligence#deployment-and-observability",
+              "children": [
+                {
+                  "id": "root-theory-artificial-intelligence-build-ai-systems-deployment-and-observability-langfuse-tracing-evaluation-prompt-management-and-metrics-for-llm-applications",
+                  "title": "Langfuse: Tracing, evaluation, prompt management, and metrics for LLM applications.",
+                  "kind": "topic",
+                  "repo": "",
+                  "url": "",
+                  "description": "",
+                  "external": false,
+                  "sourceRepo": "owainlewis/awesome-artificial-intelligence",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Artificial Intelligence",
+                    "Build AI systems",
+                    "Deployment and observability",
+                    "Langfuse: Tracing, evaluation, prompt management, and metrics for LLM applications."
+                  ],
+                  "parentId": "root-theory-artificial-intelligence-build-ai-systems-deployment-and-observability"
+                },
+                {
+                  "id": "root-theory-artificial-intelligence-build-ai-systems-deployment-and-observability-vllm-an-inference-and-serving-engine-for-language-models",
+                  "title": "vLLM: An inference and serving engine for language models.",
+                  "kind": "topic",
+                  "repo": "",
+                  "url": "",
+                  "description": "",
+                  "external": false,
+                  "sourceRepo": "owainlewis/awesome-artificial-intelligence",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Artificial Intelligence",
+                    "Build AI systems",
+                    "Deployment and observability",
+                    "vLLM: An inference and serving engine for language models."
+                  ],
+                  "parentId": "root-theory-artificial-intelligence-build-ai-systems-deployment-and-observability"
+                },
+                {
+                  "id": "root-theory-artificial-intelligence-build-ai-systems-deployment-and-observability-litellm-a-model-gateway-and-unified-interface-for-multiple-model-providers",
+                  "title": "LiteLLM: A model gateway and unified interface for multiple model providers.",
+                  "kind": "topic",
+                  "repo": "",
+                  "url": "",
+                  "description": "",
+                  "external": false,
+                  "sourceRepo": "owainlewis/awesome-artificial-intelligence",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Artificial Intelligence",
+                    "Build AI systems",
+                    "Deployment and observability",
+                    "LiteLLM: A model gateway and unified interface for multiple model providers."
+                  ],
+                  "parentId": "root-theory-artificial-intelligence-build-ai-systems-deployment-and-observability"
+                }
+              ],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Artificial Intelligence",
+                "Build AI systems",
+                "Deployment and observability"
+              ],
+              "parentId": "root-theory-artificial-intelligence-build-ai-systems"
             }
           ],
           "stars": 0,
@@ -5875,29 +6298,29 @@
           "awesome": false,
           "path": [
             "Artificial Intelligence",
-            "🛠 Build"
+            "Build AI systems"
           ],
           "parentId": "root-theory-artificial-intelligence"
         },
         {
-          "id": "root-theory-artificial-intelligence-agents",
-          "title": "🤖 Agents",
+          "id": "root-theory-artificial-intelligence-agentic-software-engineering",
+          "title": "Agentic software engineering",
           "kind": "section",
           "sourceRepo": "owainlewis/awesome-artificial-intelligence",
           "depth": 1,
-          "url": "https://github.com/owainlewis/awesome-artificial-intelligence#agents",
+          "url": "https://github.com/owainlewis/awesome-artificial-intelligence#agentic-software-engineering",
           "children": [
             {
-              "id": "root-theory-artificial-intelligence-agents-coding",
-              "title": "Coding",
+              "id": "root-theory-artificial-intelligence-agentic-software-engineering-coding-agents",
+              "title": "Coding agents",
               "kind": "section",
               "sourceRepo": "owainlewis/awesome-artificial-intelligence",
               "depth": 2,
-              "url": "https://github.com/owainlewis/awesome-artificial-intelligence#coding",
+              "url": "https://github.com/owainlewis/awesome-artificial-intelligence#coding-agents",
               "children": [
                 {
-                  "id": "root-theory-artificial-intelligence-agents-coding-claude-code-anthropic-s-cli-agent-multi-file-codebase-refactoring-with-long-context",
-                  "title": "Claude Code — Anthropic's CLI agent; multi-file codebase refactoring with long context.",
+                  "id": "root-theory-artificial-intelligence-agentic-software-engineering-coding-agents-claude-code-a-terminal-agent-with-hooks-subagents-skills-and-repository-level-instructions",
+                  "title": "Claude Code: A terminal agent with hooks, subagents, skills, and repository-level instructions.",
                   "kind": "topic",
                   "repo": "",
                   "url": "",
@@ -5916,15 +6339,15 @@
                   "awesome": false,
                   "path": [
                     "Artificial Intelligence",
-                    "🤖 Agents",
-                    "Coding",
-                    "Claude Code — Anthropic's CLI agent; multi-file codebase refactoring with long context."
+                    "Agentic software engineering",
+                    "Coding agents",
+                    "Claude Code: A terminal agent with hooks, subagents, skills, and repository-level instructions."
                   ],
-                  "parentId": "root-theory-artificial-intelligence-agents-coding"
+                  "parentId": "root-theory-artificial-intelligence-agentic-software-engineering-coding-agents"
                 },
                 {
-                  "id": "root-theory-artificial-intelligence-agents-coding-codex-cli-openai-s-rust-based-local-terminal-agent-lightweight-and-fast",
-                  "title": "Codex CLI — OpenAI's Rust-based local terminal agent; lightweight and fast.",
+                  "id": "root-theory-artificial-intelligence-agentic-software-engineering-coding-agents-codex-cli-an-open-source-terminal-agent-with-sandbox-and-approval-controls",
+                  "title": "Codex CLI: An open-source terminal agent with sandbox and approval controls.",
                   "kind": "topic",
                   "repo": "",
                   "url": "",
@@ -5943,15 +6366,15 @@
                   "awesome": false,
                   "path": [
                     "Artificial Intelligence",
-                    "🤖 Agents",
-                    "Coding",
-                    "Codex CLI — OpenAI's Rust-based local terminal agent; lightweight and fast."
+                    "Agentic software engineering",
+                    "Coding agents",
+                    "Codex CLI: An open-source terminal agent with sandbox and approval controls."
                   ],
-                  "parentId": "root-theory-artificial-intelligence-agents-coding"
+                  "parentId": "root-theory-artificial-intelligence-agentic-software-engineering-coding-agents"
                 },
                 {
-                  "id": "root-theory-artificial-intelligence-agents-coding-gemini-cli-google-s-official-open-source-terminal-agent-long-context-repo-exploration",
-                  "title": "Gemini CLI — Google's official open-source terminal agent; long-context repo exploration.",
+                  "id": "root-theory-artificial-intelligence-agentic-software-engineering-coding-agents-gemini-cli-an-open-source-terminal-agent-built-around-gemini-and-extensible-tools",
+                  "title": "Gemini CLI: An open-source terminal agent built around Gemini and extensible tools.",
                   "kind": "topic",
                   "repo": "",
                   "url": "",
@@ -5970,15 +6393,15 @@
                   "awesome": false,
                   "path": [
                     "Artificial Intelligence",
-                    "🤖 Agents",
-                    "Coding",
-                    "Gemini CLI — Google's official open-source terminal agent; long-context repo exploration."
+                    "Agentic software engineering",
+                    "Coding agents",
+                    "Gemini CLI: An open-source terminal agent built around Gemini and extensible tools."
                   ],
-                  "parentId": "root-theory-artificial-intelligence-agents-coding"
+                  "parentId": "root-theory-artificial-intelligence-agentic-software-engineering-coding-agents"
                 },
                 {
-                  "id": "root-theory-artificial-intelligence-agents-coding-cursor-cli-cursor-s-terminal-native-agent-with-sandboxed-permissions",
-                  "title": "Cursor CLI — Cursor's terminal-native agent with sandboxed permissions.",
+                  "id": "root-theory-artificial-intelligence-agentic-software-engineering-coding-agents-cursor-cli-a-terminal-agent-connected-to-cursor-s-editor-and-cloud-workflows",
+                  "title": "Cursor CLI: A terminal agent connected to Cursor's editor and cloud workflows.",
                   "kind": "topic",
                   "repo": "",
                   "url": "",
@@ -5997,15 +6420,15 @@
                   "awesome": false,
                   "path": [
                     "Artificial Intelligence",
-                    "🤖 Agents",
-                    "Coding",
-                    "Cursor CLI — Cursor's terminal-native agent with sandboxed permissions."
+                    "Agentic software engineering",
+                    "Coding agents",
+                    "Cursor CLI: A terminal agent connected to Cursor's editor and cloud workflows."
                   ],
-                  "parentId": "root-theory-artificial-intelligence-agents-coding"
+                  "parentId": "root-theory-artificial-intelligence-agentic-software-engineering-coding-agents"
                 },
                 {
-                  "id": "root-theory-artificial-intelligence-agents-coding-aider-git-integrated-pair-programming-with-surgical-edits-and-undo",
-                  "title": "Aider — Git-integrated pair programming with surgical edits and undo.",
+                  "id": "root-theory-artificial-intelligence-agentic-software-engineering-coding-agents-github-copilot-coding-agent-an-asynchronous-agent-that-works-from-github-issues-and-opens-pull-requests",
+                  "title": "GitHub Copilot coding agent: An asynchronous agent that works from GitHub issues and opens pull requests.",
                   "kind": "topic",
                   "repo": "",
                   "url": "",
@@ -6024,15 +6447,15 @@
                   "awesome": false,
                   "path": [
                     "Artificial Intelligence",
-                    "🤖 Agents",
-                    "Coding",
-                    "Aider — Git-integrated pair programming with surgical edits and undo."
+                    "Agentic software engineering",
+                    "Coding agents",
+                    "GitHub Copilot coding agent: An asynchronous agent that works from GitHub issues and opens pull requests."
                   ],
-                  "parentId": "root-theory-artificial-intelligence-agents-coding"
+                  "parentId": "root-theory-artificial-intelligence-agentic-software-engineering-coding-agents"
                 },
                 {
-                  "id": "root-theory-artificial-intelligence-agents-coding-opencode-provider-agnostic-terminal-harness-with-a-strong-tui",
-                  "title": "OpenCode — Provider-agnostic terminal harness with a strong TUI.",
+                  "id": "root-theory-artificial-intelligence-agentic-software-engineering-coding-agents-aider-an-open-source-pair-programmer-with-git-integration-and-broad-model-support",
+                  "title": "Aider: An open-source pair programmer with Git integration and broad model support.",
                   "kind": "topic",
                   "repo": "",
                   "url": "",
@@ -6051,15 +6474,15 @@
                   "awesome": false,
                   "path": [
                     "Artificial Intelligence",
-                    "🤖 Agents",
-                    "Coding",
-                    "OpenCode — Provider-agnostic terminal harness with a strong TUI."
+                    "Agentic software engineering",
+                    "Coding agents",
+                    "Aider: An open-source pair programmer with Git integration and broad model support."
                   ],
-                  "parentId": "root-theory-artificial-intelligence-agents-coding"
+                  "parentId": "root-theory-artificial-intelligence-agentic-software-engineering-coding-agents"
                 },
                 {
-                  "id": "root-theory-artificial-intelligence-agents-coding-openhands-open-source-autonomous-swe-platform-browser-shell-editor-loop",
-                  "title": "OpenHands — Open-source autonomous SWE platform; browser + shell + editor loop.",
+                  "id": "root-theory-artificial-intelligence-agentic-software-engineering-coding-agents-opencode-an-open-source-provider-independent-terminal-agent-with-a-client-server-architecture",
+                  "title": "OpenCode: An open-source, provider-independent terminal agent with a client-server architecture.",
                   "kind": "topic",
                   "repo": "",
                   "url": "",
@@ -6078,15 +6501,15 @@
                   "awesome": false,
                   "path": [
                     "Artificial Intelligence",
-                    "🤖 Agents",
-                    "Coding",
-                    "OpenHands — Open-source autonomous SWE platform; browser + shell + editor loop."
+                    "Agentic software engineering",
+                    "Coding agents",
+                    "OpenCode: An open-source, provider-independent terminal agent with a client-server architecture."
                   ],
-                  "parentId": "root-theory-artificial-intelligence-agents-coding"
+                  "parentId": "root-theory-artificial-intelligence-agentic-software-engineering-coding-agents"
                 },
                 {
-                  "id": "root-theory-artificial-intelligence-agents-coding-cline-open-source-agentic-ide-extension-with-strong-multi-provider-support",
-                  "title": "Cline — Open-source agentic IDE extension with strong multi-provider support.",
+                  "id": "root-theory-artificial-intelligence-agentic-software-engineering-coding-agents-openhands-an-open-source-platform-for-running-software-development-agents-locally-or-in-the-cloud",
+                  "title": "OpenHands: An open-source platform for running software development agents locally or in the cloud.",
                   "kind": "topic",
                   "repo": "",
                   "url": "",
@@ -6105,15 +6528,15 @@
                   "awesome": false,
                   "path": [
                     "Artificial Intelligence",
-                    "🤖 Agents",
-                    "Coding",
-                    "Cline — Open-source agentic IDE extension with strong multi-provider support."
+                    "Agentic software engineering",
+                    "Coding agents",
+                    "OpenHands: An open-source platform for running software development agents locally or in the cloud."
                   ],
-                  "parentId": "root-theory-artificial-intelligence-agents-coding"
+                  "parentId": "root-theory-artificial-intelligence-agentic-software-engineering-coding-agents"
                 },
                 {
-                  "id": "root-theory-artificial-intelligence-agents-coding-continue-open-source-ide-cli-assistant-with-source-controlled-rules",
-                  "title": "Continue — Open-source IDE + CLI assistant with source-controlled rules.",
+                  "id": "root-theory-artificial-intelligence-agentic-software-engineering-coding-agents-cline-an-open-source-coding-agent-available-as-an-editor-extension-cli-and-sdk",
+                  "title": "Cline: An open-source coding agent available as an editor extension, CLI, and SDK.",
                   "kind": "topic",
                   "repo": "",
                   "url": "",
@@ -6132,15 +6555,15 @@
                   "awesome": false,
                   "path": [
                     "Artificial Intelligence",
-                    "🤖 Agents",
-                    "Coding",
-                    "Continue — Open-source IDE + CLI assistant with source-controlled rules."
+                    "Agentic software engineering",
+                    "Coding agents",
+                    "Cline: An open-source coding agent available as an editor extension, CLI, and SDK."
                   ],
-                  "parentId": "root-theory-artificial-intelligence-agents-coding"
+                  "parentId": "root-theory-artificial-intelligence-agentic-software-engineering-coding-agents"
                 },
                 {
-                  "id": "root-theory-artificial-intelligence-agents-coding-goose-block-s-extensible-mcp-driven-local-agent",
-                  "title": "Goose — Block's extensible, MCP-driven local agent.",
+                  "id": "root-theory-artificial-intelligence-agentic-software-engineering-coding-agents-continue-open-source-coding-agents-for-ide-and-ci-workflows-with-source-controlled-configuration",
+                  "title": "Continue: Open-source coding agents for IDE and CI workflows with source-controlled configuration.",
                   "kind": "topic",
                   "repo": "",
                   "url": "",
@@ -6159,200 +6582,11 @@
                   "awesome": false,
                   "path": [
                     "Artificial Intelligence",
-                    "🤖 Agents",
-                    "Coding",
-                    "Goose — Block's extensible, MCP-driven local agent."
+                    "Agentic software engineering",
+                    "Coding agents",
+                    "Continue: Open-source coding agents for IDE and CI workflows with source-controlled configuration."
                   ],
-                  "parentId": "root-theory-artificial-intelligence-agents-coding"
-                },
-                {
-                  "id": "root-theory-artificial-intelligence-agents-coding-factory-droid-benchmark-leading-multi-model-harness-with-byok-local-execution",
-                  "title": "Factory Droid — Benchmark-leading multi-model harness with BYOK local execution.",
-                  "kind": "topic",
-                  "repo": "",
-                  "url": "",
-                  "description": "",
-                  "external": false,
-                  "sourceRepo": "owainlewis/awesome-artificial-intelligence",
-                  "depth": 3,
-                  "children": [],
-                  "stars": 0,
-                  "forks": 0,
-                  "language": null,
-                  "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
-                  "awesome": false,
-                  "path": [
-                    "Artificial Intelligence",
-                    "🤖 Agents",
-                    "Coding",
-                    "Factory Droid — Benchmark-leading multi-model harness with BYOK local execution."
-                  ],
-                  "parentId": "root-theory-artificial-intelligence-agents-coding"
-                },
-                {
-                  "id": "root-theory-artificial-intelligence-agents-coding-amp-sourcegraph-s-commercial-agentic-coding-tool-with-strong-product-ux",
-                  "title": "Amp — Sourcegraph's commercial agentic coding tool with strong product UX.",
-                  "kind": "topic",
-                  "repo": "",
-                  "url": "",
-                  "description": "",
-                  "external": false,
-                  "sourceRepo": "owainlewis/awesome-artificial-intelligence",
-                  "depth": 3,
-                  "children": [],
-                  "stars": 0,
-                  "forks": 0,
-                  "language": null,
-                  "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
-                  "awesome": false,
-                  "path": [
-                    "Artificial Intelligence",
-                    "🤖 Agents",
-                    "Coding",
-                    "Amp — Sourcegraph's commercial agentic coding tool with strong product UX."
-                  ],
-                  "parentId": "root-theory-artificial-intelligence-agents-coding"
-                },
-                {
-                  "id": "root-theory-artificial-intelligence-agents-coding-mistral-vibe-mistral-s-agentic-coding-cli-powered-by-devstral",
-                  "title": "Mistral Vibe — Mistral's agentic coding CLI, powered by Devstral.",
-                  "kind": "topic",
-                  "repo": "",
-                  "url": "",
-                  "description": "",
-                  "external": false,
-                  "sourceRepo": "owainlewis/awesome-artificial-intelligence",
-                  "depth": 3,
-                  "children": [],
-                  "stars": 0,
-                  "forks": 0,
-                  "language": null,
-                  "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
-                  "awesome": false,
-                  "path": [
-                    "Artificial Intelligence",
-                    "🤖 Agents",
-                    "Coding",
-                    "Mistral Vibe — Mistral's agentic coding CLI, powered by Devstral."
-                  ],
-                  "parentId": "root-theory-artificial-intelligence-agents-coding"
-                },
-                {
-                  "id": "root-theory-artificial-intelligence-agents-coding-qwen-code-alibaba-s-terminal-coding-agent-optimized-for-qwen-models",
-                  "title": "Qwen Code — Alibaba's terminal coding agent, optimized for Qwen models.",
-                  "kind": "topic",
-                  "repo": "",
-                  "url": "",
-                  "description": "",
-                  "external": false,
-                  "sourceRepo": "owainlewis/awesome-artificial-intelligence",
-                  "depth": 3,
-                  "children": [],
-                  "stars": 0,
-                  "forks": 0,
-                  "language": null,
-                  "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
-                  "awesome": false,
-                  "path": [
-                    "Artificial Intelligence",
-                    "🤖 Agents",
-                    "Coding",
-                    "Qwen Code — Alibaba's terminal coding agent, optimized for Qwen models."
-                  ],
-                  "parentId": "root-theory-artificial-intelligence-agents-coding"
-                },
-                {
-                  "id": "root-theory-artificial-intelligence-agents-coding-pi-highly-customizable-terminal-harness-minimal-base-prompt-extension-driven",
-                  "title": "Pi — Highly customizable terminal harness; minimal base prompt, extension-driven.",
-                  "kind": "topic",
-                  "repo": "",
-                  "url": "",
-                  "description": "",
-                  "external": false,
-                  "sourceRepo": "owainlewis/awesome-artificial-intelligence",
-                  "depth": 3,
-                  "children": [],
-                  "stars": 0,
-                  "forks": 0,
-                  "language": null,
-                  "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
-                  "awesome": false,
-                  "path": [
-                    "Artificial Intelligence",
-                    "🤖 Agents",
-                    "Coding",
-                    "Pi — Highly customizable terminal harness; minimal base prompt, extension-driven."
-                  ],
-                  "parentId": "root-theory-artificial-intelligence-agents-coding"
-                },
-                {
-                  "id": "root-theory-artificial-intelligence-agents-coding-nanocoder-private-local-first-agent-for-ollama-and-lm-studio",
-                  "title": "Nanocoder — Private, local-first agent for Ollama and LM Studio.",
-                  "kind": "topic",
-                  "repo": "",
-                  "url": "",
-                  "description": "",
-                  "external": false,
-                  "sourceRepo": "owainlewis/awesome-artificial-intelligence",
-                  "depth": 3,
-                  "children": [],
-                  "stars": 0,
-                  "forks": 0,
-                  "language": null,
-                  "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
-                  "awesome": false,
-                  "path": [
-                    "Artificial Intelligence",
-                    "🤖 Agents",
-                    "Coding",
-                    "Nanocoder — Private, local-first agent for Ollama and LM Studio."
-                  ],
-                  "parentId": "root-theory-artificial-intelligence-agents-coding"
-                },
-                {
-                  "id": "root-theory-artificial-intelligence-agents-coding-kilo-cli-multi-mode-agent-with-a-unified-gateway-to-500-models",
-                  "title": "Kilo CLI — Multi-mode agent with a unified gateway to 500+ models.",
-                  "kind": "topic",
-                  "repo": "",
-                  "url": "",
-                  "description": "",
-                  "external": false,
-                  "sourceRepo": "owainlewis/awesome-artificial-intelligence",
-                  "depth": 3,
-                  "children": [],
-                  "stars": 0,
-                  "forks": 0,
-                  "language": null,
-                  "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
-                  "awesome": false,
-                  "path": [
-                    "Artificial Intelligence",
-                    "🤖 Agents",
-                    "Coding",
-                    "Kilo CLI — Multi-mode agent with a unified gateway to 500+ models."
-                  ],
-                  "parentId": "root-theory-artificial-intelligence-agents-coding"
+                  "parentId": "root-theory-artificial-intelligence-agentic-software-engineering-coding-agents"
                 }
               ],
               "stars": 0,
@@ -6365,10 +6599,115 @@
               "awesome": false,
               "path": [
                 "Artificial Intelligence",
-                "🤖 Agents",
-                "Coding"
+                "Agentic software engineering",
+                "Coding agents"
               ],
-              "parentId": "root-theory-artificial-intelligence-agents"
+              "parentId": "root-theory-artificial-intelligence-agentic-software-engineering"
+            },
+            {
+              "id": "root-theory-artificial-intelligence-agentic-software-engineering-software-factories-and-agent-orchestration",
+              "title": "Software factories and agent orchestration",
+              "kind": "section",
+              "sourceRepo": "owainlewis/awesome-artificial-intelligence",
+              "depth": 2,
+              "url": "https://github.com/owainlewis/awesome-artificial-intelligence#software-factories-and-agent-orchestration",
+              "children": [
+                {
+                  "id": "root-theory-artificial-intelligence-agentic-software-engineering-software-factories-and-agent-orchestration-harness-engineering-openai-s-field-report-on-building-software-with-coding-agents-repository-constraints-automated-checks-and-human-steering",
+                  "title": "Harness Engineering: OpenAI's field report on building software with coding agents, repository constraints, automated checks, and human steering.",
+                  "kind": "topic",
+                  "repo": "",
+                  "url": "",
+                  "description": "",
+                  "external": false,
+                  "sourceRepo": "owainlewis/awesome-artificial-intelligence",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Artificial Intelligence",
+                    "Agentic software engineering",
+                    "Software factories and agent orchestration",
+                    "Harness Engineering: OpenAI's field report on building software with coding agents, repository constraints, automated checks, and human steering."
+                  ],
+                  "parentId": "root-theory-artificial-intelligence-agentic-software-engineering-software-factories-and-agent-orchestration"
+                },
+                {
+                  "id": "root-theory-artificial-intelligence-agentic-software-engineering-software-factories-and-agent-orchestration-codex-orchestration-with-symphony-a-reference-architecture-that-turns-project-work-into-isolated-observable-coding-agent-runs",
+                  "title": "Codex Orchestration with Symphony: A reference architecture that turns project work into isolated, observable coding-agent runs.",
+                  "kind": "topic",
+                  "repo": "",
+                  "url": "",
+                  "description": "",
+                  "external": false,
+                  "sourceRepo": "owainlewis/awesome-artificial-intelligence",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Artificial Intelligence",
+                    "Agentic software engineering",
+                    "Software factories and agent orchestration",
+                    "Codex Orchestration with Symphony: A reference architecture that turns project work into isolated, observable coding-agent runs."
+                  ],
+                  "parentId": "root-theory-artificial-intelligence-agentic-software-engineering-software-factories-and-agent-orchestration"
+                },
+                {
+                  "id": "root-theory-artificial-intelligence-agentic-software-engineering-software-factories-and-agent-orchestration-how-we-built-our-multi-agent-research-system-production-lessons-on-orchestrator-worker-agents-parallel-search-evaluation-and-operational-reliability",
+                  "title": "How We Built Our Multi-Agent Research System: Production lessons on orchestrator-worker agents, parallel search, evaluation, and operational reliability.",
+                  "kind": "topic",
+                  "repo": "",
+                  "url": "",
+                  "description": "",
+                  "external": false,
+                  "sourceRepo": "owainlewis/awesome-artificial-intelligence",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Artificial Intelligence",
+                    "Agentic software engineering",
+                    "Software factories and agent orchestration",
+                    "How We Built Our Multi-Agent Research System: Production lessons on orchestrator-worker agents, parallel search, evaluation, and operational reliability."
+                  ],
+                  "parentId": "root-theory-artificial-intelligence-agentic-software-engineering-software-factories-and-agent-orchestration"
+                }
+              ],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Artificial Intelligence",
+                "Agentic software engineering",
+                "Software factories and agent orchestration"
+              ],
+              "parentId": "root-theory-artificial-intelligence-agentic-software-engineering"
             }
           ],
           "stars": 0,
@@ -6381,960 +6720,14 @@
           "awesome": false,
           "path": [
             "Artificial Intelligence",
-            "🤖 Agents"
-          ],
-          "parentId": "root-theory-artificial-intelligence"
-        },
-        {
-          "id": "root-theory-artificial-intelligence-models",
-          "title": "🧠 Models",
-          "kind": "section",
-          "sourceRepo": "owainlewis/awesome-artificial-intelligence",
-          "depth": 1,
-          "url": "https://github.com/owainlewis/awesome-artificial-intelligence#models",
-          "children": [
-            {
-              "id": "root-theory-artificial-intelligence-models-language",
-              "title": "💬 Language",
-              "kind": "section",
-              "sourceRepo": "owainlewis/awesome-artificial-intelligence",
-              "depth": 2,
-              "url": "https://github.com/owainlewis/awesome-artificial-intelligence#language",
-              "children": [
-                {
-                  "id": "root-theory-artificial-intelligence-models-language-chatgpt-best-for-general-reasoning-tool-use-and-the-broadest-ecosystem",
-                  "title": "ChatGPT — Best for general reasoning, tool use, and the broadest ecosystem.",
-                  "kind": "topic",
-                  "repo": "",
-                  "url": "",
-                  "description": "",
-                  "external": false,
-                  "sourceRepo": "owainlewis/awesome-artificial-intelligence",
-                  "depth": 3,
-                  "children": [],
-                  "stars": 0,
-                  "forks": 0,
-                  "language": null,
-                  "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
-                  "awesome": false,
-                  "path": [
-                    "Artificial Intelligence",
-                    "🧠 Models",
-                    "💬 Language",
-                    "ChatGPT — Best for general reasoning, tool use, and the broadest ecosystem."
-                  ],
-                  "parentId": "root-theory-artificial-intelligence-models-language"
-                },
-                {
-                  "id": "root-theory-artificial-intelligence-models-language-claude-best-for-long-context-analysis-coding-and-structured-thinking",
-                  "title": "Claude — Best for long-context analysis, coding, and structured thinking.",
-                  "kind": "topic",
-                  "repo": "",
-                  "url": "",
-                  "description": "",
-                  "external": false,
-                  "sourceRepo": "owainlewis/awesome-artificial-intelligence",
-                  "depth": 3,
-                  "children": [],
-                  "stars": 0,
-                  "forks": 0,
-                  "language": null,
-                  "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
-                  "awesome": false,
-                  "path": [
-                    "Artificial Intelligence",
-                    "🧠 Models",
-                    "💬 Language",
-                    "Claude — Best for long-context analysis, coding, and structured thinking."
-                  ],
-                  "parentId": "root-theory-artificial-intelligence-models-language"
-                },
-                {
-                  "id": "root-theory-artificial-intelligence-models-language-gemini-best-for-multimodal-tasks-and-google-ecosystem-integration",
-                  "title": "Gemini — Best for multimodal tasks and Google ecosystem integration.",
-                  "kind": "topic",
-                  "repo": "",
-                  "url": "",
-                  "description": "",
-                  "external": false,
-                  "sourceRepo": "owainlewis/awesome-artificial-intelligence",
-                  "depth": 3,
-                  "children": [],
-                  "stars": 0,
-                  "forks": 0,
-                  "language": null,
-                  "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
-                  "awesome": false,
-                  "path": [
-                    "Artificial Intelligence",
-                    "🧠 Models",
-                    "💬 Language",
-                    "Gemini — Best for multimodal tasks and Google ecosystem integration."
-                  ],
-                  "parentId": "root-theory-artificial-intelligence-models-language"
-                },
-                {
-                  "id": "root-theory-artificial-intelligence-models-language-grok-best-for-real-time-information-via-x-and-very-long-context",
-                  "title": "Grok — Best for real-time information via X and very long context.",
-                  "kind": "topic",
-                  "repo": "",
-                  "url": "",
-                  "description": "",
-                  "external": false,
-                  "sourceRepo": "owainlewis/awesome-artificial-intelligence",
-                  "depth": 3,
-                  "children": [],
-                  "stars": 0,
-                  "forks": 0,
-                  "language": null,
-                  "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
-                  "awesome": false,
-                  "path": [
-                    "Artificial Intelligence",
-                    "🧠 Models",
-                    "💬 Language",
-                    "Grok — Best for real-time information via X and very long context."
-                  ],
-                  "parentId": "root-theory-artificial-intelligence-models-language"
-                },
-                {
-                  "id": "root-theory-artificial-intelligence-models-language-llama-best-open-weight-family-for-self-hosting-and-fine-tuning",
-                  "title": "Llama — Best open-weight family for self-hosting and fine-tuning.",
-                  "kind": "topic",
-                  "repo": "",
-                  "url": "",
-                  "description": "",
-                  "external": false,
-                  "sourceRepo": "owainlewis/awesome-artificial-intelligence",
-                  "depth": 3,
-                  "children": [],
-                  "stars": 0,
-                  "forks": 0,
-                  "language": null,
-                  "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
-                  "awesome": false,
-                  "path": [
-                    "Artificial Intelligence",
-                    "🧠 Models",
-                    "💬 Language",
-                    "Llama — Best open-weight family for self-hosting and fine-tuning."
-                  ],
-                  "parentId": "root-theory-artificial-intelligence-models-language"
-                },
-                {
-                  "id": "root-theory-artificial-intelligence-models-language-mistral-best-for-lightweight-high-performance-open-weight-models",
-                  "title": "Mistral — Best for lightweight, high-performance open-weight models.",
-                  "kind": "topic",
-                  "repo": "",
-                  "url": "",
-                  "description": "",
-                  "external": false,
-                  "sourceRepo": "owainlewis/awesome-artificial-intelligence",
-                  "depth": 3,
-                  "children": [],
-                  "stars": 0,
-                  "forks": 0,
-                  "language": null,
-                  "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
-                  "awesome": false,
-                  "path": [
-                    "Artificial Intelligence",
-                    "🧠 Models",
-                    "💬 Language",
-                    "Mistral — Best for lightweight, high-performance open-weight models."
-                  ],
-                  "parentId": "root-theory-artificial-intelligence-models-language"
-                },
-                {
-                  "id": "root-theory-artificial-intelligence-models-language-deepseek-best-for-cost-efficient-reasoning-with-open-weights",
-                  "title": "DeepSeek — Best for cost-efficient reasoning with open weights.",
-                  "kind": "topic",
-                  "repo": "",
-                  "url": "",
-                  "description": "",
-                  "external": false,
-                  "sourceRepo": "owainlewis/awesome-artificial-intelligence",
-                  "depth": 3,
-                  "children": [],
-                  "stars": 0,
-                  "forks": 0,
-                  "language": null,
-                  "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
-                  "awesome": false,
-                  "path": [
-                    "Artificial Intelligence",
-                    "🧠 Models",
-                    "💬 Language",
-                    "DeepSeek — Best for cost-efficient reasoning with open weights."
-                  ],
-                  "parentId": "root-theory-artificial-intelligence-models-language"
-                },
-                {
-                  "id": "root-theory-artificial-intelligence-models-language-qwen-best-for-multilingual-and-chinese-first-applications",
-                  "title": "Qwen — Best for multilingual and Chinese-first applications.",
-                  "kind": "topic",
-                  "repo": "",
-                  "url": "",
-                  "description": "",
-                  "external": false,
-                  "sourceRepo": "owainlewis/awesome-artificial-intelligence",
-                  "depth": 3,
-                  "children": [],
-                  "stars": 0,
-                  "forks": 0,
-                  "language": null,
-                  "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
-                  "awesome": false,
-                  "path": [
-                    "Artificial Intelligence",
-                    "🧠 Models",
-                    "💬 Language",
-                    "Qwen — Best for multilingual and Chinese-first applications."
-                  ],
-                  "parentId": "root-theory-artificial-intelligence-models-language"
-                },
-                {
-                  "id": "root-theory-artificial-intelligence-models-language-kimi-best-for-long-context-instruction-following",
-                  "title": "Kimi — Best for long-context instruction following.",
-                  "kind": "topic",
-                  "repo": "",
-                  "url": "",
-                  "description": "",
-                  "external": false,
-                  "sourceRepo": "owainlewis/awesome-artificial-intelligence",
-                  "depth": 3,
-                  "children": [],
-                  "stars": 0,
-                  "forks": 0,
-                  "language": null,
-                  "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
-                  "awesome": false,
-                  "path": [
-                    "Artificial Intelligence",
-                    "🧠 Models",
-                    "💬 Language",
-                    "Kimi — Best for long-context instruction following."
-                  ],
-                  "parentId": "root-theory-artificial-intelligence-models-language"
-                },
-                {
-                  "id": "root-theory-artificial-intelligence-models-language-glm-frontier-tier-chinese-model-with-open-weights",
-                  "title": "GLM — Frontier-tier Chinese model with open weights.",
-                  "kind": "topic",
-                  "repo": "",
-                  "url": "",
-                  "description": "",
-                  "external": false,
-                  "sourceRepo": "owainlewis/awesome-artificial-intelligence",
-                  "depth": 3,
-                  "children": [],
-                  "stars": 0,
-                  "forks": 0,
-                  "language": null,
-                  "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
-                  "awesome": false,
-                  "path": [
-                    "Artificial Intelligence",
-                    "🧠 Models",
-                    "💬 Language",
-                    "GLM — Frontier-tier Chinese model with open weights."
-                  ],
-                  "parentId": "root-theory-artificial-intelligence-models-language"
-                },
-                {
-                  "id": "root-theory-artificial-intelligence-models-language-cohere-best-for-enterprise-llms-with-strong-retrieval-augmented-generation-apis",
-                  "title": "Cohere — Best for enterprise LLMs with strong retrieval-augmented generation APIs.",
-                  "kind": "topic",
-                  "repo": "",
-                  "url": "",
-                  "description": "",
-                  "external": false,
-                  "sourceRepo": "owainlewis/awesome-artificial-intelligence",
-                  "depth": 3,
-                  "children": [],
-                  "stars": 0,
-                  "forks": 0,
-                  "language": null,
-                  "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
-                  "awesome": false,
-                  "path": [
-                    "Artificial Intelligence",
-                    "🧠 Models",
-                    "💬 Language",
-                    "Cohere — Best for enterprise LLMs with strong retrieval-augmented generation APIs."
-                  ],
-                  "parentId": "root-theory-artificial-intelligence-models-language"
-                }
-              ],
-              "stars": 0,
-              "forks": 0,
-              "language": null,
-              "license": null,
-              "topics": [],
-              "updated": null,
-              "pushed": null,
-              "awesome": false,
-              "path": [
-                "Artificial Intelligence",
-                "🧠 Models",
-                "💬 Language"
-              ],
-              "parentId": "root-theory-artificial-intelligence-models"
-            },
-            {
-              "id": "root-theory-artificial-intelligence-models-image",
-              "title": "🖼 Image",
-              "kind": "section",
-              "sourceRepo": "owainlewis/awesome-artificial-intelligence",
-              "depth": 2,
-              "url": "https://github.com/owainlewis/awesome-artificial-intelligence#image",
-              "children": [
-                {
-                  "id": "root-theory-artificial-intelligence-models-image-gpt-image-openai-s-integrated-image-generation-with-near-perfect-text-rendering",
-                  "title": "GPT Image — OpenAI's integrated image generation with near-perfect text rendering.",
-                  "kind": "topic",
-                  "repo": "",
-                  "url": "",
-                  "description": "",
-                  "external": false,
-                  "sourceRepo": "owainlewis/awesome-artificial-intelligence",
-                  "depth": 3,
-                  "children": [],
-                  "stars": 0,
-                  "forks": 0,
-                  "language": null,
-                  "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
-                  "awesome": false,
-                  "path": [
-                    "Artificial Intelligence",
-                    "🧠 Models",
-                    "🖼 Image",
-                    "GPT Image — OpenAI's integrated image generation with near-perfect text rendering."
-                  ],
-                  "parentId": "root-theory-artificial-intelligence-models-image"
-                },
-                {
-                  "id": "root-theory-artificial-intelligence-models-image-midjourney-artistic-and-photorealistic-images",
-                  "title": "Midjourney — Artistic and photorealistic images.",
-                  "kind": "topic",
-                  "repo": "",
-                  "url": "",
-                  "description": "",
-                  "external": false,
-                  "sourceRepo": "owainlewis/awesome-artificial-intelligence",
-                  "depth": 3,
-                  "children": [],
-                  "stars": 0,
-                  "forks": 0,
-                  "language": null,
-                  "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
-                  "awesome": false,
-                  "path": [
-                    "Artificial Intelligence",
-                    "🧠 Models",
-                    "🖼 Image",
-                    "Midjourney — Artistic and photorealistic images."
-                  ],
-                  "parentId": "root-theory-artificial-intelligence-models-image"
-                },
-                {
-                  "id": "root-theory-artificial-intelligence-models-image-adobe-firefly-integrated-into-creative-cloud-commercial-safe",
-                  "title": "Adobe Firefly — Integrated into Creative Cloud; commercial-safe.",
-                  "kind": "topic",
-                  "repo": "",
-                  "url": "",
-                  "description": "",
-                  "external": false,
-                  "sourceRepo": "owainlewis/awesome-artificial-intelligence",
-                  "depth": 3,
-                  "children": [],
-                  "stars": 0,
-                  "forks": 0,
-                  "language": null,
-                  "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
-                  "awesome": false,
-                  "path": [
-                    "Artificial Intelligence",
-                    "🧠 Models",
-                    "🖼 Image",
-                    "Adobe Firefly — Integrated into Creative Cloud; commercial-safe."
-                  ],
-                  "parentId": "root-theory-artificial-intelligence-models-image"
-                },
-                {
-                  "id": "root-theory-artificial-intelligence-models-image-ideogram-precise-legible-text-in-generated-images",
-                  "title": "Ideogram — Precise, legible text in generated images.",
-                  "kind": "topic",
-                  "repo": "",
-                  "url": "",
-                  "description": "",
-                  "external": false,
-                  "sourceRepo": "owainlewis/awesome-artificial-intelligence",
-                  "depth": 3,
-                  "children": [],
-                  "stars": 0,
-                  "forks": 0,
-                  "language": null,
-                  "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
-                  "awesome": false,
-                  "path": [
-                    "Artificial Intelligence",
-                    "🧠 Models",
-                    "🖼 Image",
-                    "Ideogram — Precise, legible text in generated images."
-                  ],
-                  "parentId": "root-theory-artificial-intelligence-models-image"
-                },
-                {
-                  "id": "root-theory-artificial-intelligence-models-image-flux-high-res-prompt-editable-open-weight-images",
-                  "title": "Flux — High-res, prompt-editable, open-weight images.",
-                  "kind": "topic",
-                  "repo": "",
-                  "url": "",
-                  "description": "",
-                  "external": false,
-                  "sourceRepo": "owainlewis/awesome-artificial-intelligence",
-                  "depth": 3,
-                  "children": [],
-                  "stars": 0,
-                  "forks": 0,
-                  "language": null,
-                  "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
-                  "awesome": false,
-                  "path": [
-                    "Artificial Intelligence",
-                    "🧠 Models",
-                    "🖼 Image",
-                    "Flux — High-res, prompt-editable, open-weight images."
-                  ],
-                  "parentId": "root-theory-artificial-intelligence-models-image"
-                }
-              ],
-              "stars": 0,
-              "forks": 0,
-              "language": null,
-              "license": null,
-              "topics": [],
-              "updated": null,
-              "pushed": null,
-              "awesome": false,
-              "path": [
-                "Artificial Intelligence",
-                "🧠 Models",
-                "🖼 Image"
-              ],
-              "parentId": "root-theory-artificial-intelligence-models"
-            },
-            {
-              "id": "root-theory-artificial-intelligence-models-video",
-              "title": "🎥 Video",
-              "kind": "section",
-              "sourceRepo": "owainlewis/awesome-artificial-intelligence",
-              "depth": 2,
-              "url": "https://github.com/owainlewis/awesome-artificial-intelligence#video",
-              "children": [
-                {
-                  "id": "root-theory-artificial-intelligence-models-video-google-veo-high-quality-video-with-synchronized-audio",
-                  "title": "Google Veo — High-quality video with synchronized audio.",
-                  "kind": "topic",
-                  "repo": "",
-                  "url": "",
-                  "description": "",
-                  "external": false,
-                  "sourceRepo": "owainlewis/awesome-artificial-intelligence",
-                  "depth": 3,
-                  "children": [],
-                  "stars": 0,
-                  "forks": 0,
-                  "language": null,
-                  "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
-                  "awesome": false,
-                  "path": [
-                    "Artificial Intelligence",
-                    "🧠 Models",
-                    "🎥 Video",
-                    "Google Veo — High-quality video with synchronized audio."
-                  ],
-                  "parentId": "root-theory-artificial-intelligence-models-video"
-                },
-                {
-                  "id": "root-theory-artificial-intelligence-models-video-runway-video-editing-generation-with-granular-creative-control",
-                  "title": "Runway — Video editing + generation with granular creative control.",
-                  "kind": "topic",
-                  "repo": "",
-                  "url": "",
-                  "description": "",
-                  "external": false,
-                  "sourceRepo": "owainlewis/awesome-artificial-intelligence",
-                  "depth": 3,
-                  "children": [],
-                  "stars": 0,
-                  "forks": 0,
-                  "language": null,
-                  "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
-                  "awesome": false,
-                  "path": [
-                    "Artificial Intelligence",
-                    "🧠 Models",
-                    "🎥 Video",
-                    "Runway — Video editing + generation with granular creative control."
-                  ],
-                  "parentId": "root-theory-artificial-intelligence-models-video"
-                },
-                {
-                  "id": "root-theory-artificial-intelligence-models-video-kling-cinematic-realistic-video-generation",
-                  "title": "Kling — Cinematic, realistic video generation.",
-                  "kind": "topic",
-                  "repo": "",
-                  "url": "",
-                  "description": "",
-                  "external": false,
-                  "sourceRepo": "owainlewis/awesome-artificial-intelligence",
-                  "depth": 3,
-                  "children": [],
-                  "stars": 0,
-                  "forks": 0,
-                  "language": null,
-                  "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
-                  "awesome": false,
-                  "path": [
-                    "Artificial Intelligence",
-                    "🧠 Models",
-                    "🎥 Video",
-                    "Kling — Cinematic, realistic video generation."
-                  ],
-                  "parentId": "root-theory-artificial-intelligence-models-video"
-                }
-              ],
-              "stars": 0,
-              "forks": 0,
-              "language": null,
-              "license": null,
-              "topics": [],
-              "updated": null,
-              "pushed": null,
-              "awesome": false,
-              "path": [
-                "Artificial Intelligence",
-                "🧠 Models",
-                "🎥 Video"
-              ],
-              "parentId": "root-theory-artificial-intelligence-models"
-            },
-            {
-              "id": "root-theory-artificial-intelligence-models-audio",
-              "title": "🎙 Audio",
-              "kind": "section",
-              "sourceRepo": "owainlewis/awesome-artificial-intelligence",
-              "depth": 2,
-              "url": "https://github.com/owainlewis/awesome-artificial-intelligence#audio",
-              "children": [
-                {
-                  "id": "root-theory-artificial-intelligence-models-audio-elevenlabs-high-quality-text-to-speech-and-voice-cloning",
-                  "title": "ElevenLabs — High-quality text-to-speech and voice cloning.",
-                  "kind": "topic",
-                  "repo": "",
-                  "url": "",
-                  "description": "",
-                  "external": false,
-                  "sourceRepo": "owainlewis/awesome-artificial-intelligence",
-                  "depth": 3,
-                  "children": [],
-                  "stars": 0,
-                  "forks": 0,
-                  "language": null,
-                  "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
-                  "awesome": false,
-                  "path": [
-                    "Artificial Intelligence",
-                    "🧠 Models",
-                    "🎙 Audio",
-                    "ElevenLabs — High-quality text-to-speech and voice cloning."
-                  ],
-                  "parentId": "root-theory-artificial-intelligence-models-audio"
-                },
-                {
-                  "id": "root-theory-artificial-intelligence-models-audio-suno-ai-music-from-text-prompts",
-                  "title": "Suno — AI music from text prompts.",
-                  "kind": "topic",
-                  "repo": "",
-                  "url": "",
-                  "description": "",
-                  "external": false,
-                  "sourceRepo": "owainlewis/awesome-artificial-intelligence",
-                  "depth": 3,
-                  "children": [],
-                  "stars": 0,
-                  "forks": 0,
-                  "language": null,
-                  "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
-                  "awesome": false,
-                  "path": [
-                    "Artificial Intelligence",
-                    "🧠 Models",
-                    "🎙 Audio",
-                    "Suno — AI music from text prompts."
-                  ],
-                  "parentId": "root-theory-artificial-intelligence-models-audio"
-                }
-              ],
-              "stars": 0,
-              "forks": 0,
-              "language": null,
-              "license": null,
-              "topics": [],
-              "updated": null,
-              "pushed": null,
-              "awesome": false,
-              "path": [
-                "Artificial Intelligence",
-                "🧠 Models",
-                "🎙 Audio"
-              ],
-              "parentId": "root-theory-artificial-intelligence-models"
-            },
-            {
-              "id": "root-theory-artificial-intelligence-models-compare",
-              "title": "📊 Compare",
-              "kind": "section",
-              "sourceRepo": "owainlewis/awesome-artificial-intelligence",
-              "depth": 2,
-              "url": "https://github.com/owainlewis/awesome-artificial-intelligence#compare",
-              "children": [
-                {
-                  "id": "root-theory-artificial-intelligence-models-compare-openrouter-unified-api-live-pricing-across-300-models",
-                  "title": "OpenRouter — Unified API + live pricing across 300 models.",
-                  "kind": "topic",
-                  "repo": "",
-                  "url": "",
-                  "description": "",
-                  "external": false,
-                  "sourceRepo": "owainlewis/awesome-artificial-intelligence",
-                  "depth": 3,
-                  "children": [],
-                  "stars": 0,
-                  "forks": 0,
-                  "language": null,
-                  "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
-                  "awesome": false,
-                  "path": [
-                    "Artificial Intelligence",
-                    "🧠 Models",
-                    "📊 Compare",
-                    "OpenRouter — Unified API + live pricing across 300 models."
-                  ],
-                  "parentId": "root-theory-artificial-intelligence-models-compare"
-                },
-                {
-                  "id": "root-theory-artificial-intelligence-models-compare-lmarena-human-preference-elo-rankings-for-text-image-and-video",
-                  "title": "LMArena — Human-preference Elo rankings for text, image, and video.",
-                  "kind": "topic",
-                  "repo": "",
-                  "url": "",
-                  "description": "",
-                  "external": false,
-                  "sourceRepo": "owainlewis/awesome-artificial-intelligence",
-                  "depth": 3,
-                  "children": [],
-                  "stars": 0,
-                  "forks": 0,
-                  "language": null,
-                  "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
-                  "awesome": false,
-                  "path": [
-                    "Artificial Intelligence",
-                    "🧠 Models",
-                    "📊 Compare",
-                    "LMArena — Human-preference Elo rankings for text, image, and video."
-                  ],
-                  "parentId": "root-theory-artificial-intelligence-models-compare"
-                },
-                {
-                  "id": "root-theory-artificial-intelligence-models-compare-artificial-analysis-speed-price-and-quality-benchmarks-across-providers",
-                  "title": "Artificial Analysis — Speed, price, and quality benchmarks across providers.",
-                  "kind": "topic",
-                  "repo": "",
-                  "url": "",
-                  "description": "",
-                  "external": false,
-                  "sourceRepo": "owainlewis/awesome-artificial-intelligence",
-                  "depth": 3,
-                  "children": [],
-                  "stars": 0,
-                  "forks": 0,
-                  "language": null,
-                  "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
-                  "awesome": false,
-                  "path": [
-                    "Artificial Intelligence",
-                    "🧠 Models",
-                    "📊 Compare",
-                    "Artificial Analysis — Speed, price, and quality benchmarks across providers."
-                  ],
-                  "parentId": "root-theory-artificial-intelligence-models-compare"
-                }
-              ],
-              "stars": 0,
-              "forks": 0,
-              "language": null,
-              "license": null,
-              "topics": [],
-              "updated": null,
-              "pushed": null,
-              "awesome": false,
-              "path": [
-                "Artificial Intelligence",
-                "🧠 Models",
-                "📊 Compare"
-              ],
-              "parentId": "root-theory-artificial-intelligence-models"
-            }
-          ],
-          "stars": 0,
-          "forks": 0,
-          "language": null,
-          "license": null,
-          "topics": [],
-          "updated": null,
-          "pushed": null,
-          "awesome": false,
-          "path": [
-            "Artificial Intelligence",
-            "🧠 Models"
-          ],
-          "parentId": "root-theory-artificial-intelligence"
-        },
-        {
-          "id": "root-theory-artificial-intelligence-follow",
-          "title": "📡 Follow",
-          "kind": "section",
-          "sourceRepo": "owainlewis/awesome-artificial-intelligence",
-          "depth": 1,
-          "url": "https://github.com/owainlewis/awesome-artificial-intelligence#follow",
-          "children": [
-            {
-              "id": "root-theory-artificial-intelligence-follow-newsletters",
-              "title": "Newsletters",
-              "kind": "section",
-              "sourceRepo": "owainlewis/awesome-artificial-intelligence",
-              "depth": 2,
-              "url": "https://github.com/owainlewis/awesome-artificial-intelligence#newsletters",
-              "children": [
-                {
-                  "id": "root-theory-artificial-intelligence-follow-newsletters-the-rundown-ai",
-                  "title": "The Rundown AI",
-                  "kind": "link",
-                  "repo": "",
-                  "url": "https://www.therundown.ai/",
-                  "description": "",
-                  "external": true,
-                  "sourceRepo": "owainlewis/awesome-artificial-intelligence",
-                  "depth": 3,
-                  "children": [],
-                  "stars": 0,
-                  "forks": 0,
-                  "language": null,
-                  "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
-                  "awesome": false,
-                  "path": [
-                    "Artificial Intelligence",
-                    "📡 Follow",
-                    "Newsletters",
-                    "The Rundown AI"
-                  ],
-                  "parentId": "root-theory-artificial-intelligence-follow-newsletters"
-                },
-                {
-                  "id": "root-theory-artificial-intelligence-follow-newsletters-alphasignal",
-                  "title": "AlphaSignal",
-                  "kind": "link",
-                  "repo": "",
-                  "url": "https://alphasignal.ai/",
-                  "description": "",
-                  "external": true,
-                  "sourceRepo": "owainlewis/awesome-artificial-intelligence",
-                  "depth": 3,
-                  "children": [],
-                  "stars": 0,
-                  "forks": 0,
-                  "language": null,
-                  "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
-                  "awesome": false,
-                  "path": [
-                    "Artificial Intelligence",
-                    "📡 Follow",
-                    "Newsletters",
-                    "AlphaSignal"
-                  ],
-                  "parentId": "root-theory-artificial-intelligence-follow-newsletters"
-                },
-                {
-                  "id": "root-theory-artificial-intelligence-follow-newsletters-superhuman-ai",
-                  "title": "Superhuman AI",
-                  "kind": "link",
-                  "repo": "",
-                  "url": "https://www.superhuman.ai/",
-                  "description": "",
-                  "external": true,
-                  "sourceRepo": "owainlewis/awesome-artificial-intelligence",
-                  "depth": 3,
-                  "children": [],
-                  "stars": 0,
-                  "forks": 0,
-                  "language": null,
-                  "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
-                  "awesome": false,
-                  "path": [
-                    "Artificial Intelligence",
-                    "📡 Follow",
-                    "Newsletters",
-                    "Superhuman AI"
-                  ],
-                  "parentId": "root-theory-artificial-intelligence-follow-newsletters"
-                },
-                {
-                  "id": "root-theory-artificial-intelligence-follow-newsletters-ai-engineer",
-                  "title": "AI Engineer",
-                  "kind": "link",
-                  "repo": "",
-                  "url": "https://newsletter.owainlewis.com",
-                  "description": "",
-                  "external": true,
-                  "sourceRepo": "owainlewis/awesome-artificial-intelligence",
-                  "depth": 3,
-                  "children": [],
-                  "stars": 0,
-                  "forks": 0,
-                  "language": null,
-                  "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
-                  "awesome": false,
-                  "path": [
-                    "Artificial Intelligence",
-                    "📡 Follow",
-                    "Newsletters",
-                    "AI Engineer"
-                  ],
-                  "parentId": "root-theory-artificial-intelligence-follow-newsletters"
-                }
-              ],
-              "stars": 0,
-              "forks": 0,
-              "language": null,
-              "license": null,
-              "topics": [],
-              "updated": null,
-              "pushed": null,
-              "awesome": false,
-              "path": [
-                "Artificial Intelligence",
-                "📡 Follow",
-                "Newsletters"
-              ],
-              "parentId": "root-theory-artificial-intelligence-follow"
-            }
-          ],
-          "stars": 0,
-          "forks": 0,
-          "language": null,
-          "license": null,
-          "topics": [],
-          "updated": null,
-          "pushed": null,
-          "awesome": false,
-          "path": [
-            "Artificial Intelligence",
-            "📡 Follow"
+            "Agentic software engineering"
           ],
           "parentId": "root-theory-artificial-intelligence"
         }
       ],
-      "stars": 15217,
-      "forks": 2397,
-      "language": null,
+      "stars": 15297,
+      "forks": 2411,
+      "language": "Python",
       "license": "MIT",
       "topics": [
         "ai",
@@ -7349,8 +6742,8 @@
         "statistical-learning",
         "unsupervised-learning"
       ],
-      "updated": "2026-07-12T04:12:31Z",
-      "pushed": "2026-07-05T20:31:55Z",
+      "updated": "2026-07-19T03:11:53Z",
+      "pushed": "2026-07-18T06:04:04Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -8103,8 +7496,8 @@
           "parentId": "root-theory-competitive-programming"
         }
       ],
-      "stars": 14053,
-      "forks": 2619,
+      "stars": 14062,
+      "forks": 2618,
       "language": null,
       "license": "CC-BY-4.0",
       "topics": [
@@ -8121,7 +7514,7 @@
         "quora",
         "reference-materials"
       ],
-      "updated": "2026-07-11T12:12:30Z",
+      "updated": "2026-07-19T03:39:19Z",
       "pushed": "2024-12-08T09:40:58Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -9414,8 +8807,8 @@
           "parentId": "root-theory-math"
         }
       ],
-      "stars": 15860,
-      "forks": 1569,
+      "stars": 15900,
+      "forks": 1575,
       "language": "Python",
       "license": null,
       "topics": [
@@ -9425,7 +8818,7 @@
         "list",
         "mathematics"
       ],
-      "updated": "2026-07-12T02:51:41Z",
+      "updated": "2026-07-18T17:21:21Z",
       "pushed": "2026-05-19T10:05:56Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -9464,7 +8857,7 @@
               "sourceRepo": "passy/awesome-recursion-schemes",
               "depth": 2,
               "children": [],
-              "stars": 1301,
+              "stars": 1302,
               "forks": 57,
               "language": null,
               "license": null,
@@ -9473,7 +8866,7 @@
                 "catamorphisms",
                 "recursion-schemes"
               ],
-              "updated": "2026-06-22T19:03:49Z",
+              "updated": "2026-07-18T07:26:50Z",
               "pushed": "2024-04-25T20:21:03Z",
               "awesome": true,
               "path": [
@@ -10833,7 +10226,7 @@
           "parentId": "root-theory-recursion-schemes"
         }
       ],
-      "stars": 1301,
+      "stars": 1302,
       "forks": 57,
       "language": null,
       "license": null,
@@ -10842,7 +10235,7 @@
         "catamorphisms",
         "recursion-schemes"
       ],
-      "updated": "2026-06-22T19:03:49Z",
+      "updated": "2026-07-18T07:26:50Z",
       "pushed": "2024-04-25T20:21:03Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -17639,7 +17032,7 @@
               "sourceRepo": "sellisd/awesome-complexity",
               "depth": 2,
               "children": [],
-              "stars": 4076,
+              "stars": 4078,
               "forks": 638,
               "language": "R",
               "license": null,
@@ -17660,7 +17053,7 @@
                 "social-network-analysis",
                 "social-networks"
               ],
-              "updated": "2026-07-07T14:03:39Z",
+              "updated": "2026-07-18T07:47:45Z",
               "pushed": "2026-04-17T18:25:35Z",
               "awesome": true,
               "path": [
@@ -17681,8 +17074,8 @@
               "sourceRepo": "sellisd/awesome-complexity",
               "depth": 2,
               "children": [],
-              "stars": 284,
-              "forks": 19,
+              "stars": 287,
+              "forks": 20,
               "language": null,
               "license": "CC0-1.0",
               "topics": [
@@ -17690,7 +17083,7 @@
                 "awesome-list",
                 "complex-systems"
               ],
-              "updated": "2026-07-09T04:50:29Z",
+              "updated": "2026-07-18T01:32:31Z",
               "pushed": "2025-03-20T20:52:07Z",
               "awesome": true,
               "path": [
@@ -18051,8 +17444,8 @@
           "parentId": "root-theory-complex-systems"
         }
       ],
-      "stars": 284,
-      "forks": 19,
+      "stars": 287,
+      "forks": 20,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -18060,7 +17453,7 @@
         "awesome-list",
         "complex-systems"
       ],
-      "updated": "2026-07-09T04:50:29Z",
+      "updated": "2026-07-18T01:32:31Z",
       "pushed": "2025-03-20T20:52:07Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -20384,7 +19777,7 @@
           "parentId": "root-theory-vlm-architectures"
         }
       ],
-      "stars": 1281,
+      "stars": 1284,
       "forks": 55,
       "language": "Markdown",
       "license": "CC0-1.0",
@@ -20404,7 +19797,7 @@
         "vision-language-model",
         "vlm"
       ],
-      "updated": "2026-07-10T16:44:52Z",
+      "updated": "2026-07-17T06:54:02Z",
       "pushed": "2026-01-11T19:01:15Z",
       "awesome": true,
       "readmeStatus": "expanded",

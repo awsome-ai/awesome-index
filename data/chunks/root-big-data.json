@@ -1021,8 +1021,8 @@
       "sourceRepo": "sindresorhus/awesome",
       "depth": 1,
       "children": [],
-      "stars": 76882,
-      "forks": 11600,
+      "stars": 77252,
+      "forks": 11654,
       "language": null,
       "license": "MIT",
       "topics": [
@@ -1031,8 +1031,8 @@
         "datasets",
         "opendata"
       ],
-      "updated": "2026-07-12T04:42:41Z",
-      "pushed": "2026-07-09T20:50:53Z",
+      "updated": "2026-07-19T02:58:18Z",
+      "pushed": "2026-07-13T21:46:55Z",
       "awesome": true,
       "readmeStatus": "empty",
       "path": [
@@ -1536,12 +1536,12 @@
           "parentId": "root-big-data-hadoop"
         }
       ],
-      "stars": 1117,
+      "stars": 1116,
       "forks": 254,
       "language": null,
       "license": null,
       "topics": [],
-      "updated": "2026-06-30T02:16:24Z",
+      "updated": "2026-07-17T01:03:59Z",
       "pushed": "2024-05-07T19:21:33Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -5040,6 +5040,32 @@
                 "Rawbbit"
               ],
               "parentId": "root-big-data-data-engineering-data-ingestion"
+            },
+            {
+              "id": "root-big-data-data-engineering-data-ingestion-faucet-stream",
+              "title": "faucet-stream",
+              "kind": "repo",
+              "repo": "pawansikawat/faucet-stream",
+              "url": "https://github.com/pawansikawat/faucet-stream",
+              "description": "Config-driven data-movement platform for Rust with pluggable source and sink connectors, running ETL, CDC, and streaming pipelines declaratively from YAML or embedded as a library.",
+              "external": false,
+              "sourceRepo": "igorbarinov/awesome-data-engineering",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Data Engineering",
+                "Data Ingestion",
+                "faucet-stream"
+              ],
+              "parentId": "root-big-data-data-engineering-data-ingestion"
             }
           ],
           "stars": 0,
@@ -5741,6 +5767,32 @@
                 "Data Engineering",
                 "Serialization format",
                 "PFC-JSONL"
+              ],
+              "parentId": "root-big-data-data-engineering-serialization-format"
+            },
+            {
+              "id": "root-big-data-data-engineering-serialization-format-parquetkit",
+              "title": "ParquetKit",
+              "kind": "link",
+              "repo": "",
+              "url": "https://parquetkit.com",
+              "description": "Browser-based viewer, SQL workbench and converter for Parquet files powered by DuckDB-WASM. Fully client-side, no upload.",
+              "external": true,
+              "sourceRepo": "igorbarinov/awesome-data-engineering",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Data Engineering",
+                "Serialization format",
+                "ParquetKit"
               ],
               "parentId": "root-big-data-data-engineering-serialization-format"
             }
@@ -7576,6 +7628,32 @@
                 "Data Engineering",
                 "Workflow",
                 "Bonnard"
+              ],
+              "parentId": "root-big-data-data-engineering-workflow"
+            },
+            {
+              "id": "root-big-data-data-engineering-workflow-nika",
+              "title": "Nika",
+              "kind": "repo",
+              "repo": "supernovae-st/nika",
+              "url": "https://github.com/supernovae-st/nika",
+              "description": "Intent-as-code workflow engine for AI data pipelines: reviewable YAML DAGs statically checked (schema, permits, cost floor) before execution, with tamper-evident run traces.",
+              "external": false,
+              "sourceRepo": "igorbarinov/awesome-data-engineering",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Data Engineering",
+                "Workflow",
+                "Nika"
               ],
               "parentId": "root-big-data-data-engineering-workflow"
             },
@@ -10525,16 +10603,16 @@
           "parentId": "root-big-data-data-engineering"
         }
       ],
-      "stars": 8855,
-      "forks": 1565,
+      "stars": 8872,
+      "forks": 1572,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
         "awesome",
         "awesome-list"
       ],
-      "updated": "2026-07-12T03:53:56Z",
-      "pushed": "2026-07-06T12:17:28Z",
+      "updated": "2026-07-19T03:43:14Z",
+      "pushed": "2026-07-18T15:19:21Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -12775,6 +12853,32 @@
               "parentId": "root-big-data-streaming-data-pipeline"
             },
             {
+              "id": "root-big-data-streaming-data-pipeline-faucet-stream-rust",
+              "title": "faucet-stream [Rust]",
+              "kind": "topic",
+              "repo": "",
+              "url": "",
+              "description": "Config-driven data-movement platform for ETL, CDC, and streaming: pluggable source and sink connectors, run declaratively from YAML by a single binary or embedded as a Rust library.",
+              "external": false,
+              "sourceRepo": "manuzhang/awesome-streaming",
+              "depth": 3,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Streaming",
+                "Data Pipeline",
+                "faucet-stream [Rust]"
+              ],
+              "parentId": "root-big-data-streaming-data-pipeline"
+            },
+            {
               "id": "root-big-data-streaming-data-pipeline-flume-java",
               "title": "flume [Java]",
               "kind": "topic",
@@ -14201,8 +14305,8 @@
           "parentId": "root-big-data-streaming"
         }
       ],
-      "stars": 2996,
-      "forks": 319,
+      "stars": 2999,
+      "forks": 320,
       "language": null,
       "license": null,
       "topics": [
@@ -14211,8 +14315,8 @@
         "list",
         "stream-processing"
       ],
-      "updated": "2026-07-07T01:34:37Z",
-      "pushed": "2026-07-11T19:05:59Z",
+      "updated": "2026-07-18T12:32:27Z",
+      "pushed": "2026-07-18T19:07:00Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -17762,7 +17866,7 @@
           "parentId": "root-big-data-splunk"
         }
       ],
-      "stars": 158,
+      "stars": 157,
       "forks": 18,
       "language": null,
       "license": "CC0-1.0",
@@ -17772,7 +17876,7 @@
         "splunk",
         "splunk-resources"
       ],
-      "updated": "2026-06-21T15:03:33Z",
+      "updated": "2026-07-17T01:02:54Z",
       "pushed": "2020-09-11T03:50:06Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -35092,7 +35196,7 @@
               "sourceRepo": "briatte/awesome-network-analysis",
               "depth": 2,
               "children": [],
-              "stars": 4800,
+              "stars": 4799,
               "forks": 726,
               "language": "Python",
               "license": "CC0-1.0",
@@ -35118,7 +35222,7 @@
                 "structural-attention",
                 "weisfeiler-lehman"
               ],
-              "updated": "2026-07-11T06:08:31Z",
+              "updated": "2026-07-17T19:29:34Z",
               "pushed": "2023-03-18T12:10:08Z",
               "awesome": true,
               "path": [
@@ -35139,7 +35243,7 @@
               "sourceRepo": "briatte/awesome-network-analysis",
               "depth": 2,
               "children": [],
-              "stars": 2443,
+              "stars": 2445,
               "forks": 358,
               "language": "Python",
               "license": "CC0-1.0",
@@ -35165,7 +35269,7 @@
                 "social-network",
                 "unsupervised-learning"
               ],
-              "updated": "2026-07-08T12:36:37Z",
+              "updated": "2026-07-13T22:58:59Z",
               "pushed": "2025-12-20T17:06:00Z",
               "awesome": true,
               "path": [
@@ -38359,7 +38463,7 @@
           "parentId": "root-big-data-network-analysis"
         }
       ],
-      "stars": 4076,
+      "stars": 4078,
       "forks": 638,
       "language": "R",
       "license": null,
@@ -38380,7 +38484,7 @@
         "social-network-analysis",
         "social-networks"
       ],
-      "updated": "2026-07-07T14:03:39Z",
+      "updated": "2026-07-18T07:47:45Z",
       "pushed": "2026-04-17T18:25:35Z",
       "awesome": true,
       "readmeStatus": "expanded",

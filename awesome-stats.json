@@ -1,75 +1,75 @@
 {
-  "generatedAt": "2026-07-12T05:31:23.224Z",
+  "generatedAt": "2026-07-19T05:24:38.483Z",
   "rootRepo": "sindresorhus/awesome",
   "categories": [
     {
       "id": "root-platforms",
       "title": "Platforms",
-      "count": 10869,
-      "repos": 5160,
+      "count": 10874,
+      "repos": 5165,
       "awesomeLists": 129,
-      "leaves": 9494,
-      "stars": 1924548,
+      "leaves": 9499,
+      "stars": 1929279,
       "chunk": "data/chunks/root-platforms.json"
     },
     {
       "id": "root-programming-languages",
       "title": "Programming Languages",
-      "count": 11891,
-      "repos": 5859,
+      "count": 11925,
+      "repos": 5895,
       "awesomeLists": 108,
-      "leaves": 10509,
-      "stars": 1527281,
+      "leaves": 10543,
+      "stars": 1531364,
       "chunk": "data/chunks/root-programming-languages.json"
     },
     {
       "id": "root-front-end-development",
       "title": "Front-End Development",
-      "count": 9476,
-      "repos": 3580,
+      "count": 9483,
+      "repos": 3582,
       "awesomeLists": 105,
-      "leaves": 8207,
-      "stars": 610877,
+      "leaves": 8214,
+      "stars": 611802,
       "chunk": "data/chunks/root-front-end-development.json"
     },
     {
       "id": "root-back-end-development",
       "title": "Back-End Development",
-      "count": 3651,
-      "repos": 1618,
+      "count": 3657,
+      "repos": 1621,
       "awesomeLists": 48,
-      "leaves": 3172,
-      "stars": 365174,
+      "leaves": 3178,
+      "stars": 365526,
       "chunk": "data/chunks/root-back-end-development.json"
     },
     {
       "id": "root-computer-science",
       "title": "Computer Science",
-      "count": 5484,
-      "repos": 857,
+      "count": 5485,
+      "repos": 858,
       "awesomeLists": 122,
-      "leaves": 4625,
-      "stars": 1501337,
+      "leaves": 4626,
+      "stars": 1506227,
       "chunk": "data/chunks/root-computer-science.json"
     },
     {
       "id": "root-big-data",
       "title": "Big Data",
-      "count": 1466,
-      "repos": 223,
+      "count": 1470,
+      "repos": 225,
       "awesomeLists": 13,
-      "leaves": 1327,
-      "stars": 103332,
+      "leaves": 1331,
+      "stars": 103723,
       "chunk": "data/chunks/root-big-data.json"
     },
     {
       "id": "root-theory",
       "title": "Theory",
-      "count": 811,
+      "count": 788,
       "repos": 32,
       "awesomeLists": 19,
-      "leaves": 692,
-      "stars": 190631,
+      "leaves": 673,
+      "stars": 191112,
       "chunk": "data/chunks/root-theory.json"
     },
     {
@@ -79,37 +79,37 @@
       "repos": 6,
       "awesomeLists": 1,
       "leaves": 46,
-      "stars": 410,
+      "stars": 413,
       "chunk": "data/chunks/root-books.json"
     },
     {
       "id": "root-editors",
       "title": "Editors",
-      "count": 1751,
-      "repos": 1374,
+      "count": 1759,
+      "repos": 1382,
       "awesomeLists": 5,
-      "leaves": 1627,
-      "stars": 61497,
+      "leaves": 1635,
+      "stars": 61551,
       "chunk": "data/chunks/root-editors.json"
     },
     {
       "id": "root-gaming",
       "title": "Gaming",
-      "count": 5335,
-      "repos": 1852,
+      "count": 5360,
+      "repos": 1870,
       "awesomeLists": 42,
-      "leaves": 4770,
-      "stars": 118622,
+      "leaves": 4795,
+      "stars": 118810,
       "chunk": "data/chunks/root-gaming.json"
     },
     {
       "id": "root-development-environment",
       "title": "Development Environment",
-      "count": 4495,
-      "repos": 3491,
+      "count": 4497,
+      "repos": 3493,
       "awesomeLists": 40,
-      "leaves": 4241,
-      "stars": 175343,
+      "leaves": 4243,
+      "stars": 175575,
       "chunk": "data/chunks/root-development-environment.json"
     },
     {
@@ -119,17 +119,17 @@
       "repos": 5,
       "awesomeLists": 5,
       "leaves": 960,
-      "stars": 12170,
+      "stars": 12193,
       "chunk": "data/chunks/root-entertainment.json"
     },
     {
       "id": "root-databases",
       "title": "Databases",
-      "count": 1740,
+      "count": 1741,
       "repos": 777,
       "awesomeLists": 17,
-      "leaves": 1458,
-      "stars": 31145,
+      "leaves": 1459,
+      "stars": 31175,
       "chunk": "data/chunks/root-databases.json"
     },
     {
@@ -139,7 +139,7 @@
       "repos": 177,
       "awesomeLists": 15,
       "leaves": 634,
-      "stars": 108664,
+      "stars": 108737,
       "chunk": "data/chunks/root-media.json"
     },
     {
@@ -149,17 +149,17 @@
       "repos": 132,
       "awesomeLists": 18,
       "leaves": 766,
-      "stars": 65772,
+      "stars": 65939,
       "chunk": "data/chunks/root-learn.json"
     },
     {
       "id": "root-security",
       "title": "Security",
-      "count": 4844,
-      "repos": 1118,
+      "count": 4852,
+      "repos": 1119,
       "awesomeLists": 88,
-      "leaves": 4246,
-      "stars": 784026,
+      "leaves": 4254,
+      "stars": 786684,
       "chunk": "data/chunks/root-security.json"
     },
     {
@@ -175,11 +175,11 @@
     {
       "id": "root-hardware",
       "title": "Hardware",
-      "count": 1223,
-      "repos": 159,
+      "count": 1224,
+      "repos": 160,
       "awesomeLists": 19,
-      "leaves": 994,
-      "stars": 44410,
+      "leaves": 995,
+      "stars": 44530,
       "chunk": "data/chunks/root-hardware.json"
     },
     {
@@ -189,7 +189,7 @@
       "repos": 89,
       "awesomeLists": 19,
       "leaves": 1231,
-      "stars": 80268,
+      "stars": 80457,
       "chunk": "data/chunks/root-business.json"
     },
     {
@@ -199,7 +199,7 @@
       "repos": 72,
       "awesomeLists": 11,
       "leaves": 391,
-      "stars": 145722,
+      "stars": 145977,
       "chunk": "data/chunks/root-work.json"
     },
     {
@@ -209,7 +209,7 @@
       "repos": 158,
       "awesomeLists": 11,
       "leaves": 381,
-      "stars": 12547,
+      "stars": 12574,
       "chunk": "data/chunks/root-networking.json"
     },
     {
@@ -219,7 +219,7 @@
       "repos": 584,
       "awesomeLists": 18,
       "leaves": 1557,
-      "stars": 5202,
+      "stars": 5219,
       "chunk": "data/chunks/root-decentralized-systems.json"
     },
     {
@@ -229,7 +229,7 @@
       "repos": 88,
       "awesomeLists": 21,
       "leaves": 881,
-      "stars": 103270,
+      "stars": 103736,
       "chunk": "data/chunks/root-health-and-social-science.json"
     },
     {
@@ -245,21 +245,21 @@
     {
       "id": "root-testing",
       "title": "Testing",
-      "count": 1380,
-      "repos": 513,
-      "awesomeLists": 35,
-      "leaves": 1163,
-      "stars": 560070,
+      "count": 1388,
+      "repos": 518,
+      "awesomeLists": 36,
+      "leaves": 1171,
+      "stars": 560182,
       "chunk": "data/chunks/root-testing.json"
     },
     {
       "id": "root-miscellaneous",
       "title": "Miscellaneous",
-      "count": 15888,
-      "repos": 4240,
-      "awesomeLists": 831,
-      "leaves": 13695,
-      "stars": 5876712,
+      "count": 15908,
+      "repos": 4245,
+      "awesomeLists": 832,
+      "leaves": 13714,
+      "stars": 5890725,
       "chunk": "data/chunks/root-miscellaneous.json"
     },
     {
@@ -269,25 +269,25 @@
       "repos": 2,
       "awesomeLists": 2,
       "leaves": 28,
-      "stars": 1279,
+      "stars": 1284,
       "chunk": "data/chunks/root-related.json"
     }
   ],
   "totals": {
     "categories": 27,
-    "nodes": 89926,
-    "repos": 32632,
-    "awesomeLists": 1756,
-    "leaves": 78253,
-    "stars": 14412037,
+    "nodes": 90033,
+    "repos": 32721,
+    "awesomeLists": 1758,
+    "leaves": 78363,
+    "stars": 14446522,
     "maxTreeDepth": 7,
     "maxRecursionDepth": 3,
     "expandedReadmes": 613,
     "missingReadmes": 0
   },
   "readmes": {
-    "total": 909,
-    "fetched": 906,
+    "total": 911,
+    "fetched": 908,
     "cached": 0,
     "missing": 3
   }

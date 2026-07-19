@@ -152,32 +152,6 @@
               "parentId": "root-editors-neovim-plugin-manager"
             },
             {
-              "id": "root-editors-neovim-plugin-manager-ntbbloodbath-cheovim",
-              "title": "NTBBloodbath/cheovim",
-              "kind": "repo",
-              "repo": "ntbbloodbath/cheovim",
-              "url": "https://github.com/ntbbloodbath/cheovim",
-              "description": "A configuration switcher written in Lua. Inspired by chemacs.",
-              "external": false,
-              "sourceRepo": "rockerboo/awesome-neovim",
-              "depth": 2,
-              "children": [],
-              "stars": 0,
-              "forks": 0,
-              "language": null,
-              "license": null,
-              "topics": [],
-              "updated": null,
-              "pushed": null,
-              "awesome": false,
-              "path": [
-                "Neovim",
-                "Plugin Manager",
-                "NTBBloodbath/cheovim"
-              ],
-              "parentId": "root-editors-neovim-plugin-manager"
-            },
-            {
               "id": "root-editors-neovim-plugin-manager-folke-lazy-nvim",
               "title": "folke/lazy.nvim",
               "kind": "repo",
@@ -5449,6 +5423,32 @@
                 "Neovim",
                 "Programming Languages Support",
                 "simonwinther/cppman.nvim"
+              ],
+              "parentId": "root-editors-neovim-programming-languages-support"
+            },
+            {
+              "id": "root-editors-neovim-programming-languages-support-redpierrot-ballerina-nvim",
+              "title": "redpierrot/ballerina.nvim",
+              "kind": "repo",
+              "repo": "redpierrot/ballerina.nvim",
+              "url": "https://github.com/redpierrot/ballerina.nvim",
+              "description": "Syntax highlighting, LSP, debugging, package-aware format-on-save, auto-indent, and bal run/test/build commands for the Ballerina language.",
+              "external": false,
+              "sourceRepo": "rockerboo/awesome-neovim",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Neovim",
+                "Programming Languages Support",
+                "redpierrot/ballerina.nvim"
               ],
               "parentId": "root-editors-neovim-programming-languages-support"
             },
@@ -10921,6 +10921,32 @@
                 "adriancmiranda/glimpse.nvim"
               ],
               "parentId": "root-editors-neovim-file-explorer"
+            },
+            {
+              "id": "root-editors-neovim-file-explorer-ingur-fzf-oil-nvim",
+              "title": "ingur/fzf-oil.nvim",
+              "kind": "repo",
+              "repo": "ingur/fzf-oil.nvim",
+              "url": "https://github.com/ingur/fzf-oil.nvim",
+              "description": "A tiny file browser with seamless toggling between fzf-lua and oil.nvim.",
+              "external": false,
+              "sourceRepo": "rockerboo/awesome-neovim",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Neovim",
+                "File Explorer",
+                "ingur/fzf-oil.nvim"
+              ],
+              "parentId": "root-editors-neovim-file-explorer"
             }
           ],
           "stars": 0,
@@ -12548,6 +12574,32 @@
                 "Neovim",
                 "Color",
                 "leolaurindo/tunnelvision.nvim"
+              ],
+              "parentId": "root-editors-neovim-color"
+            },
+            {
+              "id": "root-editors-neovim-color-cxwx-shadowmyname-nvim",
+              "title": "cxwx/shadowMyName.nvim",
+              "kind": "repo",
+              "repo": "cxwx/shadowmyname.nvim",
+              "url": "https://github.com/cxwx/shadowmyname.nvim",
+              "description": "Redact sensitive words such as your username, tokens, phone numbers and more when recording your screen.",
+              "external": false,
+              "sourceRepo": "rockerboo/awesome-neovim",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Neovim",
+                "Color",
+                "cxwx/shadowMyName.nvim"
               ],
               "parentId": "root-editors-neovim-color"
             }
@@ -16397,6 +16449,32 @@
               "parentId": "root-editors-neovim-colorscheme"
             },
             {
+              "id": "root-editors-neovim-colorscheme-ntk148v-lauds",
+              "title": "ntk148v/lauds",
+              "kind": "repo",
+              "repo": "ntk148v/lauds",
+              "url": "https://github.com/ntk148v/lauds",
+              "description": "[TS][Lua] Paper-light color theme for prose and code — warm off-white paper, terracotta orange, deep mint.",
+              "external": false,
+              "sourceRepo": "rockerboo/awesome-neovim",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Neovim",
+                "Colorscheme",
+                "ntk148v/lauds"
+              ],
+              "parentId": "root-editors-neovim-colorscheme"
+            },
+            {
               "id": "root-editors-neovim-colorscheme-colorscheme-creation",
               "title": "Colorscheme Creation",
               "kind": "section",
@@ -16698,6 +16776,33 @@
                     "Colorscheme",
                     "Colorscheme Creation",
                     "RRethy/base16-nvim"
+                  ],
+                  "parentId": "root-editors-neovim-colorscheme-colorscheme-creation"
+                },
+                {
+                  "id": "root-editors-neovim-colorscheme-colorscheme-creation-senal-d-a-gunaratna-matugen-nvim",
+                  "title": "Senal-D-A-Gunaratna/matugen.nvim",
+                  "kind": "repo",
+                  "repo": "senal-d-a-gunaratna/matugen.nvim",
+                  "url": "https://github.com/senal-d-a-gunaratna/matugen.nvim",
+                  "description": "Material You colorscheme generator using an external template system. Supports Tree-sitter, LSP, and Lua.",
+                  "external": false,
+                  "sourceRepo": "rockerboo/awesome-neovim",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Neovim",
+                    "Colorscheme",
+                    "Colorscheme Creation",
+                    "Senal-D-A-Gunaratna/matugen.nvim"
                   ],
                   "parentId": "root-editors-neovim-colorscheme-colorscheme-creation"
                 }
@@ -24839,6 +24944,32 @@
                 "lewistg/pesto.nvim"
               ],
               "parentId": "root-editors-neovim-code-runner"
+            },
+            {
+              "id": "root-editors-neovim-code-runner-wsdjeg-tasks-nvim",
+              "title": "wsdjeg/tasks.nvim",
+              "kind": "repo",
+              "repo": "wsdjeg/tasks.nvim",
+              "url": "https://github.com/wsdjeg/tasks.nvim",
+              "description": "A tasks manager that integrates with external tools, inspired by VSCode's tasks-manager.",
+              "external": false,
+              "sourceRepo": "rockerboo/awesome-neovim",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Neovim",
+                "Code Runner",
+                "wsdjeg/tasks.nvim"
+              ],
+              "parentId": "root-editors-neovim-code-runner"
             }
           ],
           "stars": 0,
@@ -31594,6 +31725,32 @@
               "parentId": "root-editors-neovim-editing-support"
             },
             {
+              "id": "root-editors-neovim-editing-support-ntk148v-yankdown-nvim",
+              "title": "ntk148v/yankdown.nvim",
+              "kind": "repo",
+              "repo": "ntk148v/yankdown.nvim",
+              "url": "https://github.com/ntk148v/yankdown.nvim",
+              "description": "Paste rich clipboard content as clean Markdown.",
+              "external": false,
+              "sourceRepo": "rockerboo/awesome-neovim",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Neovim",
+                "Editing Support",
+                "ntk148v/yankdown.nvim"
+              ],
+              "parentId": "root-editors-neovim-editing-support"
+            },
+            {
               "id": "root-editors-neovim-editing-support-comment",
               "title": "Comment",
               "kind": "section",
@@ -32057,6 +32214,33 @@
                     "Editing Support",
                     "Comment",
                     "georgeharker/comment-tasks.nvim"
+                  ],
+                  "parentId": "root-editors-neovim-editing-support-comment"
+                },
+                {
+                  "id": "root-editors-neovim-editing-support-comment-celeste3z-celestecomment-nvim",
+                  "title": "celeste3z/celestecomment.nvim",
+                  "kind": "repo",
+                  "repo": "celeste3z/celeste_comment.nvim",
+                  "url": "https://github.com/celeste3z/celeste_comment.nvim",
+                  "description": "VSCode-style commenting plugin with support for line and block comments, and textobjects.",
+                  "external": false,
+                  "sourceRepo": "rockerboo/awesome-neovim",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Neovim",
+                    "Editing Support",
+                    "Comment",
+                    "celeste3z/celestecomment.nvim"
                   ],
                   "parentId": "root-editors-neovim-editing-support-comment"
                 }
@@ -35731,6 +35915,33 @@
                   "parentId": "root-editors-neovim-workflow-stats-tracking"
                 },
                 {
+                  "id": "root-editors-neovim-workflow-stats-tracking-yal212-pomodoro-nvim",
+                  "title": "yal212/pomodoro.nvim",
+                  "kind": "repo",
+                  "repo": "yal212/pomodoro.nvim",
+                  "url": "https://github.com/yal212/pomodoro.nvim",
+                  "description": "Focus-first Pomodoro timer with automatic work, break cycles, session statistics, and a distraction-free focus mode.",
+                  "external": false,
+                  "sourceRepo": "rockerboo/awesome-neovim",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Neovim",
+                    "Workflow",
+                    "Stats Tracking",
+                    "yal212/pomodoro.nvim"
+                  ],
+                  "parentId": "root-editors-neovim-workflow-stats-tracking"
+                },
+                {
                   "id": "root-editors-neovim-workflow-stats-tracking-gaborvecsei-usage-tracker-nvim",
                   "title": "gaborvecsei/usage-tracker.nvim",
                   "kind": "repo",
@@ -37565,7 +37776,7 @@
                   "sourceRepo": "rockerboo/awesome-neovim",
                   "depth": 3,
                   "children": [],
-                  "stars": 63,
+                  "stars": 64,
                   "forks": 11,
                   "language": "Nix",
                   "license": "BSD-3-Clause",
@@ -37573,8 +37784,8 @@
                     "neovim-plugins",
                     "nix-flake"
                   ],
-                  "updated": "2026-07-11T18:15:33Z",
-                  "pushed": "2026-07-11T18:15:26Z",
+                  "updated": "2026-07-18T18:19:40Z",
+                  "pushed": "2026-07-18T18:19:37Z",
                   "awesome": true,
                   "path": [
                     "Neovim",
@@ -38251,15 +38462,15 @@
               "sourceRepo": "rockerboo/awesome-neovim",
               "depth": 2,
               "children": [],
-              "stars": 2126,
-              "forks": 142,
+              "stars": 2125,
+              "forks": 143,
               "language": null,
               "license": "MIT",
               "topics": [
                 "awesome",
                 "vim"
               ],
-              "updated": "2026-07-07T14:18:23Z",
+              "updated": "2026-07-17T06:42:06Z",
               "pushed": "2025-06-06T18:42:55Z",
               "awesome": true,
               "path": [
@@ -38467,8 +38678,8 @@
           "parentId": "root-editors-neovim"
         }
       ],
-      "stars": 21137,
-      "forks": 1020,
+      "stars": 21157,
+      "forks": 1028,
       "language": "Shell",
       "license": "CC0-1.0",
       "topics": [
@@ -38478,8 +38689,8 @@
         "neovim-plugins",
         "nvim-lua"
       ],
-      "updated": "2026-07-12T05:04:55Z",
-      "pushed": "2026-07-11T14:07:30Z",
+      "updated": "2026-07-19T04:43:15Z",
+      "pushed": "2026-07-18T15:25:43Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -38498,7 +38709,7 @@
       "sourceRepo": "sindresorhus/awesome",
       "depth": 1,
       "children": [],
-      "stars": 9322,
+      "stars": 9329,
       "forks": 598,
       "language": null,
       "license": "Unlicense",
@@ -38506,7 +38717,7 @@
         "awesome-list",
         "emacs"
       ],
-      "updated": "2026-07-12T02:17:12Z",
+      "updated": "2026-07-19T02:55:34Z",
       "pushed": "2026-05-13T04:32:20Z",
       "awesome": true,
       "readmeStatus": "empty",
@@ -44977,8 +45188,8 @@
           "parentId": "root-editors-visual-studio-code"
         }
       ],
-      "stars": 28849,
-      "forks": 1400,
+      "stars": 28876,
+      "forks": 1402,
       "language": "JavaScript",
       "license": "CC0-1.0",
       "topics": [
@@ -44994,7 +45205,7 @@
         "vscode-extension",
         "vscode-theme"
       ],
-      "updated": "2026-07-11T21:37:28Z",
+      "updated": "2026-07-19T03:31:42Z",
       "pushed": "2026-06-21T09:36:55Z",
       "awesome": true,
       "readmeStatus": "expanded",
