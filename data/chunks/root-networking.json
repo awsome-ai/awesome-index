@@ -544,7 +544,7 @@
         "sdn",
         "switch"
       ],
-      "updated": "2026-07-15T12:39:43Z",
+      "updated": "2026-07-23T00:23:36Z",
       "pushed": "2024-07-15T14:47:47Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -609,12 +609,12 @@
           "parentId": "root-networking-pcaptools"
         }
       ],
-      "stars": 3408,
-      "forks": 478,
+      "stars": 3409,
+      "forks": 480,
       "language": null,
       "license": "CC0-1.0",
       "topics": [],
-      "updated": "2026-07-15T13:02:53Z",
+      "updated": "2026-07-24T04:20:49Z",
       "pushed": "2025-09-03T07:24:40Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -3759,8 +3759,8 @@
               "sourceRepo": "rtckit/awesome-rtc",
               "depth": 2,
               "children": [],
-              "stars": 546,
-              "forks": 52,
+              "stars": 547,
+              "forks": 53,
               "language": null,
               "license": "CC0-1.0",
               "topics": [
@@ -3778,7 +3778,7 @@
                 "volte",
                 "webrtc"
               ],
-              "updated": "2026-07-13T04:04:49Z",
+              "updated": "2026-07-22T12:45:30Z",
               "pushed": "2026-06-30T08:25:18Z",
               "awesome": true,
               "path": [
@@ -3799,7 +3799,7 @@
               "sourceRepo": "rtckit/awesome-rtc",
               "depth": 2,
               "children": [],
-              "stars": 904,
+              "stars": 906,
               "forks": 158,
               "language": "Shell",
               "license": "CC0-1.0",
@@ -3809,7 +3809,7 @@
                 "awesome-lists",
                 "resources"
               ],
-              "updated": "2026-07-13T15:16:20Z",
+              "updated": "2026-07-26T04:18:03Z",
               "pushed": "2026-02-03T11:09:03Z",
               "awesome": true,
               "path": [
@@ -3830,8 +3830,8 @@
               "sourceRepo": "rtckit/awesome-rtc",
               "depth": 2,
               "children": [],
-              "stars": 3935,
-              "forks": 667,
+              "stars": 3946,
+              "forks": 666,
               "language": null,
               "license": null,
               "topics": [
@@ -3844,7 +3844,7 @@
                 "rogue-bts",
                 "sdr"
               ],
-              "updated": "2026-07-18T22:50:08Z",
+              "updated": "2026-07-25T17:56:26Z",
               "pushed": "2026-03-21T11:14:33Z",
               "awesome": true,
               "path": [
@@ -3865,13 +3865,13 @@
               "sourceRepo": "rtckit/awesome-rtc",
               "depth": 2,
               "children": [],
-              "stars": 968,
-              "forks": 208,
+              "stars": 973,
+              "forks": 209,
               "language": "Python",
               "license": "MIT",
               "topics": [],
-              "updated": "2026-07-18T08:11:43Z",
-              "pushed": "2026-07-18T08:11:39Z",
+              "updated": "2026-07-24T20:24:27Z",
+              "pushed": "2026-07-22T22:10:37Z",
               "awesome": true,
               "path": [
                 "Real-Time Communications",
@@ -3944,7 +3944,7 @@
           "parentId": "root-networking-real-time-communications"
         }
       ],
-      "stars": 489,
+      "stars": 491,
       "forks": 44,
       "language": null,
       "license": "CC0-1.0",
@@ -3959,7 +3959,7 @@
         "voip",
         "webrtc"
       ],
-      "updated": "2026-07-18T12:50:17Z",
+      "updated": "2026-07-24T04:21:06Z",
       "pushed": "2026-05-18T19:39:18Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -8530,7 +8530,7 @@
           "parentId": "root-networking-snmp"
         }
       ],
-      "stars": 190,
+      "stars": 191,
       "forks": 12,
       "language": null,
       "license": "CC0-1.0",
@@ -8539,7 +8539,7 @@
         "awesome-list",
         "snmp"
       ],
-      "updated": "2026-07-17T08:51:45Z",
+      "updated": "2026-07-24T04:22:50Z",
       "pushed": "2026-03-30T11:47:03Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -9828,7 +9828,7 @@
           "parentId": "root-networking-scapy"
         }
       ],
-      "stars": 360,
+      "stars": 363,
       "forks": 48,
       "language": null,
       "license": "CC-BY-4.0",
@@ -9837,7 +9837,7 @@
         "awesome-list",
         "scapy"
       ],
-      "updated": "2026-07-17T09:29:20Z",
+      "updated": "2026-07-24T04:23:14Z",
       "pushed": "2025-06-09T20:16:19Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -11868,7 +11868,7 @@
           "parentId": "root-networking-cilium"
         }
       ],
-      "stars": 98,
+      "stars": 99,
       "forks": 11,
       "language": null,
       "license": "CC0-1.0",
@@ -11878,7 +11878,7 @@
         "cilium",
         "ebpf"
       ],
-      "updated": "2026-06-06T05:35:12Z",
+      "updated": "2026-07-24T04:23:29Z",
       "pushed": "2024-10-22T22:44:22Z",
       "awesome": true,
       "readmeStatus": "expanded",

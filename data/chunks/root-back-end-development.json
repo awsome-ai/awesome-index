@@ -5738,8 +5738,8 @@
           "parentId": "root-back-end-development-flask"
         }
       ],
-      "stars": 1749,
-      "forks": 171,
+      "stars": 1750,
+      "forks": 172,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -5748,7 +5748,7 @@
         "flask",
         "flask-resources"
       ],
-      "updated": "2026-07-16T09:26:54Z",
+      "updated": "2026-07-25T16:06:05Z",
       "pushed": "2026-05-13T13:35:25Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -6867,6 +6867,33 @@
                   "parentId": "root-back-end-development-docker-building-images-base-images"
                 },
                 {
+                  "id": "root-back-end-development-docker-building-images-base-images-pglayers",
+                  "title": "pglayers",
+                  "kind": "repo",
+                  "repo": "pglayers/pglayers",
+                  "url": "https://github.com/pglayers/pglayers",
+                  "description": "Pre-built PostgreSQL extensions as composable Docker layers. 50+ extensions, ready-to-use combined images (full, Azure-compatible).",
+                  "external": false,
+                  "sourceRepo": "veggiemonk/awesome-docker",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Docker",
+                    "Building Images",
+                    "Base Images",
+                    "pglayers"
+                  ],
+                  "parentId": "root-back-end-development-docker-building-images-base-images"
+                },
+                {
                   "id": "root-back-end-development-docker-building-images-base-images-wolfi",
                   "title": "Wolfi",
                   "kind": "repo",
@@ -6968,6 +6995,33 @@
                     "Building Images",
                     "Dockerfile",
                     "Dockershelf"
+                  ],
+                  "parentId": "root-back-end-development-docker-building-images-dockerfile"
+                },
+                {
+                  "id": "root-back-end-development-docker-building-images-dockerfile-dofigen",
+                  "title": "Dofigen",
+                  "kind": "repo",
+                  "repo": "lenra-io/dofigen",
+                  "url": "https://github.com/lenra-io/dofigen",
+                  "description": "A Dockerfile generator using a simplified description in YAML or JSON format.",
+                  "external": false,
+                  "sourceRepo": "veggiemonk/awesome-docker",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Docker",
+                    "Building Images",
+                    "Dockerfile",
+                    "Dofigen"
                   ],
                   "parentId": "root-back-end-development-docker-building-images-dockerfile"
                 },
@@ -8005,6 +8059,33 @@
                     "Image Lifecycle",
                     "Image Scanning & SBOM",
                     "Anchor Enterprise"
+                  ],
+                  "parentId": "root-back-end-development-docker-image-lifecycle-image-scanning-and-sbom"
+                },
+                {
+                  "id": "root-back-end-development-docker-image-lifecycle-image-scanning-and-sbom-bomlens",
+                  "title": "BomLens",
+                  "kind": "repo",
+                  "repo": "sktelecom/bomlens",
+                  "url": "https://github.com/sktelecom/bomlens",
+                  "description": "Scan container images (plus source, binaries, and firmware) into CycloneDX SBOMs with vulnerability, license, and notice reports. Ships as a single Docker image with a web UI.",
+                  "external": false,
+                  "sourceRepo": "veggiemonk/awesome-docker",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Docker",
+                    "Image Lifecycle",
+                    "Image Scanning & SBOM",
+                    "BomLens"
                   ],
                   "parentId": "root-back-end-development-docker-image-lifecycle-image-scanning-and-sbom"
                 },
@@ -9258,6 +9339,33 @@
                     "Running Containers",
                     "Deployment & Platforms",
                     "Mesosphere DC/OS Platform"
+                  ],
+                  "parentId": "root-back-end-development-docker-running-containers-deployment-and-platforms"
+                },
+                {
+                  "id": "root-back-end-development-docker-running-containers-deployment-and-platforms-openrun",
+                  "title": "OpenRun",
+                  "kind": "repo",
+                  "repo": "openrundev/openrun",
+                  "url": "https://github.com/openrundev/openrun",
+                  "description": "Builds, deploys, proxies, authenticates and auto-pauses web apps with Docker or Kubernetes.",
+                  "external": false,
+                  "sourceRepo": "veggiemonk/awesome-docker",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Docker",
+                    "Running Containers",
+                    "Deployment & Platforms",
+                    "OpenRun"
                   ],
                   "parentId": "root-back-end-development-docker-running-containers-deployment-and-platforms"
                 },
@@ -10772,6 +10880,32 @@
               "parentId": "root-back-end-development-docker-observability"
             },
             {
+              "id": "root-back-end-development-docker-observability-infracanvas",
+              "title": "InfraCanvas",
+              "kind": "repo",
+              "repo": "bytestrix/infracanvas",
+              "url": "https://github.com/bytestrix/infracanvas",
+              "description": "Live visual map of containers, pods, volumes, and networks on any Linux server. Single binary, WebSocket-powered live updates.",
+              "external": false,
+              "sourceRepo": "veggiemonk/awesome-docker",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Docker",
+                "Observability",
+                "InfraCanvas"
+              ],
+              "parentId": "root-back-end-development-docker-observability"
+            },
+            {
               "id": "root-back-end-development-docker-observability-maintenant",
               "title": "Maintenant",
               "kind": "repo",
@@ -11025,6 +11159,32 @@
                 "Docker",
                 "Security",
                 "Checkov"
+              ],
+              "parentId": "root-back-end-development-docker-security"
+            },
+            {
+              "id": "root-back-end-development-docker-security-compose-lint",
+              "title": "compose-lint",
+              "kind": "repo",
+              "repo": "tmatens/compose-lint",
+              "url": "https://github.com/tmatens/compose-lint",
+              "description": "Lints Docker Compose files for security misconfigurations — privileged containers, unpinned images, Docker socket mounts, plaintext credentials — grounded in OWASP and the CIS Docker Benchmark.",
+              "external": false,
+              "sourceRepo": "veggiemonk/awesome-docker",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Docker",
+                "Security",
+                "compose-lint"
               ],
               "parentId": "root-back-end-development-docker-security"
             },
@@ -11825,6 +11985,33 @@
                     "User Interfaces",
                     "Terminal",
                     "DockTUI"
+                  ],
+                  "parentId": "root-back-end-development-docker-user-interfaces-terminal"
+                },
+                {
+                  "id": "root-back-end-development-docker-user-interfaces-terminal-dockup",
+                  "title": "dockup",
+                  "kind": "repo",
+                  "repo": "paulo-amaral/dockup",
+                  "url": "https://github.com/paulo-amaral/dockup",
+                  "description": "TUI to install, harden and maintain container runtimes: Docker Engine + Compose v2, NVIDIA Container Toolkit, Podman and Apple container, with a CIS-inspired security audit.",
+                  "external": false,
+                  "sourceRepo": "veggiemonk/awesome-docker",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Docker",
+                    "User Interfaces",
+                    "Terminal",
+                    "dockup"
                   ],
                   "parentId": "root-back-end-development-docker-user-interfaces-terminal"
                 },
@@ -15619,8 +15806,8 @@
               "sourceRepo": "veggiemonk/awesome-docker",
               "depth": 2,
               "children": [],
-              "stars": 45868,
-              "forks": 8250,
+              "stars": 45922,
+              "forks": 8255,
               "language": "HTML",
               "license": "CC0-1.0",
               "topics": [
@@ -15628,8 +15815,8 @@
                 "awesome-list",
                 "docker-compose"
               ],
-              "updated": "2026-07-19T04:42:05Z",
-              "pushed": "2026-07-16T00:45:48Z",
+              "updated": "2026-07-26T04:49:17Z",
+              "pushed": "2026-07-25T00:41:35Z",
               "awesome": true,
               "path": [
                 "Docker",
@@ -15649,8 +15836,8 @@
               "sourceRepo": "veggiemonk/awesome-docker",
               "depth": 2,
               "children": [],
-              "stars": 16029,
-              "forks": 2473,
+              "stars": 16032,
+              "forks": 2474,
               "language": "Shell",
               "license": "NOASSERTION",
               "topics": [
@@ -15673,7 +15860,7 @@
                 "resource",
                 "schedule"
               ],
-              "updated": "2026-07-19T00:07:59Z",
+              "updated": "2026-07-26T01:00:40Z",
               "pushed": "2026-06-23T13:33:19Z",
               "awesome": true,
               "path": [
@@ -17314,8 +17501,8 @@
           "parentId": "root-back-end-development-docker"
         }
       ],
-      "stars": 36465,
-      "forks": 3339,
+      "stars": 36525,
+      "forks": 3346,
       "language": null,
       "license": "Apache-2.0",
       "topics": [
@@ -17338,8 +17525,8 @@
         "moby",
         "tools"
       ],
-      "updated": "2026-07-19T03:03:02Z",
-      "pushed": "2026-07-18T10:10:05Z",
+      "updated": "2026-07-26T01:06:20Z",
+      "pushed": "2026-07-22T15:33:41Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -17601,7 +17788,7 @@
           "parentId": "root-back-end-development-vagrant"
         }
       ],
-      "stars": 628,
+      "stars": 626,
       "forks": 57,
       "language": null,
       "license": null,
@@ -17612,7 +17799,7 @@
         "vagrant",
         "vagrant-resources"
       ],
-      "updated": "2026-07-10T19:07:16Z",
+      "updated": "2026-07-22T07:10:06Z",
       "pushed": "2020-10-08T13:38:09Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -18360,7 +18547,7 @@
         }
       ],
       "stars": 574,
-      "forks": 56,
+      "forks": 55,
       "language": null,
       "license": null,
       "topics": [],
@@ -24413,7 +24600,7 @@
         }
       ],
       "stars": 935,
-      "forks": 228,
+      "forks": 227,
       "language": null,
       "license": "WTFPL",
       "topics": [
@@ -25465,7 +25652,7 @@
         }
       ],
       "stars": 1570,
-      "forks": 224,
+      "forks": 223,
       "language": null,
       "license": null,
       "topics": [],
@@ -25952,8 +26139,8 @@
                   "sourceRepo": "fukuball/awesome-laravel-education",
                   "depth": 3,
                   "children": [],
-                  "stars": 13080,
-                  "forks": 2346,
+                  "stars": 13083,
+                  "forks": 2344,
                   "language": null,
                   "license": null,
                   "topics": [
@@ -25961,7 +26148,7 @@
                     "laravel",
                     "php"
                   ],
-                  "updated": "2026-07-18T06:28:14Z",
+                  "updated": "2026-07-24T04:06:13Z",
                   "pushed": "2024-07-03T15:59:36Z",
                   "awesome": true,
                   "path": [
@@ -25983,8 +26170,8 @@
                   "sourceRepo": "fukuball/awesome-laravel-education",
                   "depth": 3,
                   "children": [],
-                  "stars": 32622,
-                  "forks": 5147,
+                  "stars": 32626,
+                  "forks": 5145,
                   "language": null,
                   "license": "WTFPL",
                   "topics": [
@@ -25996,7 +26183,7 @@
                     "php-installation",
                     "php-library"
                   ],
-                  "updated": "2026-07-18T14:30:54Z",
+                  "updated": "2026-07-25T15:10:48Z",
                   "pushed": "2026-07-13T19:44:57Z",
                   "awesome": true,
                   "path": [
@@ -32022,7 +32209,7 @@
               "parentId": "root-back-end-development-laravel-education"
             }
           ],
-          "stars": 399,
+          "stars": 400,
           "forks": 61,
           "language": "PHP",
           "license": "MIT",
@@ -32031,7 +32218,7 @@
             "laravel",
             "laravel-documentation"
           ],
-          "updated": "2026-07-09T02:49:52Z",
+          "updated": "2026-07-25T21:45:05Z",
           "pushed": "2022-09-03T03:48:45Z",
           "awesome": true,
           "readmeStatus": "expanded",
@@ -32899,8 +33086,8 @@
           "parentId": "root-back-end-development-laravel"
         }
       ],
-      "stars": 13080,
-      "forks": 2346,
+      "stars": 13083,
+      "forks": 2344,
       "language": null,
       "license": null,
       "topics": [
@@ -32908,7 +33095,7 @@
         "laravel",
         "php"
       ],
-      "updated": "2026-07-18T06:28:14Z",
+      "updated": "2026-07-24T04:06:13Z",
       "pushed": "2024-07-03T15:59:36Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -33634,12 +33821,12 @@
               "parentId": "root-back-end-development-rails-gems"
             }
           ],
-          "stars": 2812,
+          "stars": 2811,
           "forks": 280,
           "language": "Ruby",
           "license": null,
           "topics": [],
-          "updated": "2026-06-25T20:27:45Z",
+          "updated": "2026-07-21T17:11:34Z",
           "pushed": "2024-03-12T22:04:35Z",
           "awesome": true,
           "readmeStatus": "expanded",
@@ -45176,7 +45363,7 @@
         "opensource-apps",
         "rails"
       ],
-      "updated": "2026-07-18T22:26:52Z",
+      "updated": "2026-07-23T13:24:07Z",
       "pushed": "2026-07-16T06:54:45Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -46531,8 +46718,8 @@
           "parentId": "root-back-end-development-kubernetes"
         }
       ],
-      "stars": 16029,
-      "forks": 2473,
+      "stars": 16032,
+      "forks": 2474,
       "language": "Shell",
       "license": "NOASSERTION",
       "topics": [
@@ -46555,7 +46742,7 @@
         "resource",
         "schedule"
       ],
-      "updated": "2026-07-19T00:07:59Z",
+      "updated": "2026-07-26T01:00:40Z",
       "pushed": "2026-06-23T13:33:19Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -49911,7 +50098,7 @@
           "parentId": "root-back-end-development-serverless-framework"
         }
       ],
-      "stars": 2153,
+      "stars": 2152,
       "forks": 239,
       "language": null,
       "license": "MIT",
@@ -49923,7 +50110,7 @@
         "serverless-functions",
         "serverless-plugin"
       ],
-      "updated": "2026-07-11T04:41:29Z",
+      "updated": "2026-07-24T16:45:55Z",
       "pushed": "2022-11-23T08:57:07Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -53329,7 +53516,7 @@
               "sourceRepo": "shuaibiyy/awesome-terraform",
               "depth": 2,
               "children": [],
-              "stars": 138,
+              "stars": 139,
               "forks": 6,
               "language": null,
               "license": "CC0-1.0",
@@ -53344,7 +53531,7 @@
                 "terraform",
                 "terraform-compliance"
               ],
-              "updated": "2026-06-23T12:25:33Z",
+              "updated": "2026-07-20T17:31:08Z",
               "pushed": "2026-06-18T18:07:20Z",
               "awesome": true,
               "path": [
@@ -68333,8 +68520,8 @@
               "sourceRepo": "ucg8j/awesome-dash",
               "depth": 2,
               "children": [],
-              "stars": 48009,
-              "forks": 3798,
+              "stars": 48060,
+              "forks": 3812,
               "language": null,
               "license": "CC0-1.0",
               "topics": [
@@ -68344,7 +68531,7 @@
                 "react-component",
                 "react-components"
               ],
-              "updated": "2026-07-19T05:15:19Z",
+              "updated": "2026-07-26T01:06:08Z",
               "pushed": "2026-01-26T16:36:45Z",
               "awesome": true,
               "path": [
@@ -68365,8 +68552,8 @@
               "sourceRepo": "ucg8j/awesome-dash",
               "depth": 2,
               "children": [],
-              "stars": 74008,
-              "forks": 7600,
+              "stars": 74093,
+              "forks": 7602,
               "language": null,
               "license": null,
               "topics": [
@@ -68381,8 +68568,8 @@
                 "tutorial",
                 "typescript"
               ],
-              "updated": "2026-07-19T05:13:56Z",
-              "pushed": "2026-06-02T08:27:23Z",
+              "updated": "2026-07-26T01:05:37Z",
+              "pushed": "2026-07-20T07:31:52Z",
               "awesome": true,
               "path": [
                 "Dash",
@@ -75150,15 +75337,15 @@
                   "sourceRepo": "mjhea0/awesome-fastapi",
                   "depth": 3,
                   "children": [],
-                  "stars": 1613,
+                  "stars": 1612,
                   "forks": 142,
                   "language": "TypeScript",
                   "license": null,
                   "topics": [
                     "fastapi"
                   ],
-                  "updated": "2026-07-18T17:39:13Z",
-                  "pushed": "2026-07-09T00:57:20Z",
+                  "updated": "2026-07-26T00:53:52Z",
+                  "pushed": "2026-07-26T00:53:47Z",
                   "awesome": true,
                   "path": [
                     "FastAPI",
@@ -75954,8 +76141,8 @@
           "parentId": "root-back-end-development-fastapi"
         }
       ],
-      "stars": 11528,
-      "forks": 875,
+      "stars": 11550,
+      "forks": 874,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -75964,7 +76151,7 @@
         "fastapi",
         "starlette"
       ],
-      "updated": "2026-07-19T04:04:58Z",
+      "updated": "2026-07-25T20:06:06Z",
       "pushed": "2026-06-24T17:30:19Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -80043,8 +80230,8 @@
               "sourceRepo": "kdeldycke/awesome-iam",
               "depth": 2,
               "children": [],
-              "stars": 118,
-              "forks": 25,
+              "stars": 119,
+              "forks": 26,
               "language": "HTML",
               "license": "CC0-1.0",
               "topics": [
@@ -80064,7 +80251,7 @@
                 "openidconnect",
                 "security"
               ],
-              "updated": "2026-07-16T06:45:06Z",
+              "updated": "2026-07-25T23:56:20Z",
               "pushed": "2026-05-30T15:22:23Z",
               "awesome": true,
               "path": [
@@ -81119,8 +81306,8 @@
               "sourceRepo": "kdeldycke/awesome-iam",
               "depth": 2,
               "children": [],
-              "stars": 1312,
-              "forks": 97,
+              "stars": 1314,
+              "forks": 99,
               "language": null,
               "license": "CC0-1.0",
               "topics": [
@@ -81145,7 +81332,7 @@
                 "usage-based-billing",
                 "vat"
               ],
-              "updated": "2026-07-18T16:43:45Z",
+              "updated": "2026-07-24T20:50:51Z",
               "pushed": "2026-06-21T13:47:38Z",
               "awesome": true,
               "path": [
@@ -81651,8 +81838,8 @@
                   "sourceRepo": "kdeldycke/awesome-iam",
                   "depth": 3,
                   "children": [],
-                  "stars": 10464,
-                  "forks": 1800,
+                  "stars": 10484,
+                  "forks": 1808,
                   "language": null,
                   "license": "Apache-2.0",
                   "topics": [
@@ -81661,7 +81848,7 @@
                     "hacktoberfest",
                     "security"
                   ],
-                  "updated": "2026-07-18T22:42:48Z",
+                  "updated": "2026-07-26T00:26:06Z",
                   "pushed": "2026-05-31T10:54:05Z",
                   "awesome": true,
                   "path": [
@@ -82004,7 +82191,7 @@
                   "sourceRepo": "kdeldycke/awesome-iam",
                   "depth": 3,
                   "children": [],
-                  "stars": 1415,
+                  "stars": 1416,
                   "forks": 127,
                   "language": "JavaScript",
                   "license": "MIT",
@@ -82022,7 +82209,7 @@
                     "crack-captcha",
                     "image-captcha"
                   ],
-                  "updated": "2026-07-16T06:11:29Z",
+                  "updated": "2026-07-25T16:28:10Z",
                   "pushed": "2026-04-17T22:10:48Z",
                   "awesome": true,
                   "path": [
@@ -83758,7 +83945,7 @@
           "parentId": "root-back-end-development-iam"
         }
       ],
-      "stars": 2241,
+      "stars": 2243,
       "forks": 185,
       "language": null,
       "license": "CC0-1.0",
@@ -83784,7 +83971,7 @@
         "webauthn",
         "zero-trust"
       ],
-      "updated": "2026-07-18T16:43:47Z",
+      "updated": "2026-07-21T12:36:23Z",
       "pushed": "2026-06-21T13:44:00Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -88704,7 +88891,7 @@
           "parentId": "root-back-end-development-fiber"
         }
       ],
-      "stars": 823,
+      "stars": 827,
       "forks": 56,
       "language": null,
       "license": "MIT",
@@ -88716,8 +88903,8 @@
         "middleware",
         "recipes"
       ],
-      "updated": "2026-07-13T08:38:35Z",
-      "pushed": "2026-06-22T12:18:15Z",
+      "updated": "2026-07-25T05:16:34Z",
+      "pushed": "2026-07-21T06:04:00Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -89737,8 +89924,8 @@
               "sourceRepo": "devopshivehq/awesome-kustomize",
               "depth": 2,
               "children": [],
-              "stars": 16029,
-              "forks": 2473,
+              "stars": 16032,
+              "forks": 2474,
               "language": "Shell",
               "license": "NOASSERTION",
               "topics": [
@@ -89761,7 +89948,7 @@
                 "resource",
                 "schedule"
               ],
-              "updated": "2026-07-19T00:07:59Z",
+              "updated": "2026-07-26T01:00:40Z",
               "pushed": "2026-06-23T13:33:19Z",
               "awesome": true,
               "path": [
@@ -91574,6 +91761,33 @@
                   "parentId": "root-back-end-development-opentofu-tools-platforms"
                 },
                 {
+                  "id": "root-back-end-development-opentofu-tools-platforms-terramantle",
+                  "title": "Terramantle",
+                  "kind": "link",
+                  "repo": "",
+                  "url": "https://terramantle.dev",
+                  "description": "Free hosted module, state backend and private registry that maps module and provider dependencies and surfaces security, drift, and usage insights across your workspaces.",
+                  "external": true,
+                  "sourceRepo": "virtualroot/awesome-opentofu",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "OpenTofu",
+                    "Tools",
+                    "Platforms",
+                    "Terramantle"
+                  ],
+                  "parentId": "root-back-end-development-opentofu-tools-platforms"
+                },
+                {
                   "id": "root-back-end-development-opentofu-tools-platforms-tofutf",
                   "title": "tofutf",
                   "kind": "repo",
@@ -92834,8 +93048,8 @@
           "parentId": "root-back-end-development-opentofu"
         }
       ],
-      "stars": 201,
-      "forks": 21,
+      "stars": 202,
+      "forks": 22,
       "language": "SCSS",
       "license": "CC0-1.0",
       "topics": [
@@ -92848,8 +93062,8 @@
         "opentofu",
         "tofu"
       ],
-      "updated": "2026-07-15T15:39:17Z",
-      "pushed": "2026-07-15T15:37:50Z",
+      "updated": "2026-07-24T15:45:19Z",
+      "pushed": "2026-07-24T15:41:59Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -95615,7 +95829,7 @@
         "awesome",
         "awesome-list"
       ],
-      "updated": "2026-07-09T16:04:54Z",
+      "updated": "2026-07-23T20:56:17Z",
       "pushed": "2025-04-21T17:00:08Z",
       "awesome": true,
       "readmeStatus": "expanded",

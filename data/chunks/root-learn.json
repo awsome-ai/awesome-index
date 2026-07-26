@@ -258,12 +258,12 @@
           "parentId": "root-learn-cli-workshoppers"
         }
       ],
-      "stars": 2249,
+      "stars": 2252,
       "forks": 66,
       "language": null,
       "license": null,
       "topics": [],
-      "updated": "2026-07-19T01:26:19Z",
+      "updated": "2026-07-26T05:26:58Z",
       "pushed": "2021-03-03T04:05:01Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -462,8 +462,8 @@
           "parentId": "root-learn-speaking"
         }
       ],
-      "stars": 1956,
-      "forks": 602,
+      "stars": 1960,
+      "forks": 601,
       "language": null,
       "license": "MIT",
       "topics": [
@@ -474,7 +474,7 @@
         "speaking",
         "speaking-resources"
       ],
-      "updated": "2026-07-14T18:23:23Z",
+      "updated": "2026-07-25T11:56:39Z",
       "pushed": "2023-11-20T16:21:54Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -6194,7 +6194,7 @@
           "parentId": "root-learn-computer-history"
         }
       ],
-      "stars": 2941,
+      "stars": 2946,
       "forks": 159,
       "language": null,
       "license": null,
@@ -6208,7 +6208,7 @@
         "list",
         "video"
       ],
-      "updated": "2026-07-18T07:41:02Z",
+      "updated": "2026-07-25T23:50:29Z",
       "pushed": "2023-02-01T09:01:45Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -6295,7 +6295,7 @@
           "parentId": "root-learn-programming-for-kids"
         }
       ],
-      "stars": 1203,
+      "stars": 1204,
       "forks": 92,
       "language": null,
       "license": "CC0-1.0",
@@ -6306,7 +6306,7 @@
         "list",
         "teach-kids"
       ],
-      "updated": "2026-07-14T18:23:47Z",
+      "updated": "2026-07-21T09:57:52Z",
       "pushed": "2024-11-15T03:27:51Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -6326,8 +6326,8 @@
       "sourceRepo": "sindresorhus/awesome",
       "depth": 1,
       "children": [],
-      "stars": 245,
-      "forks": 34,
+      "stars": 247,
+      "forks": 36,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -6352,7 +6352,7 @@
         "stem",
         "technology"
       ],
-      "updated": "2026-07-18T00:09:09Z",
+      "updated": "2026-07-26T02:02:28Z",
       "pushed": "2026-05-05T19:45:05Z",
       "awesome": true,
       "readmeStatus": "empty",
@@ -7966,7 +7966,7 @@
           "parentId": "root-learn-educational-games"
         }
       ],
-      "stars": 1143,
+      "stars": 1146,
       "forks": 79,
       "language": null,
       "license": "MIT",
@@ -7975,7 +7975,7 @@
         "education",
         "games"
       ],
-      "updated": "2026-07-18T00:26:45Z",
+      "updated": "2026-07-24T15:59:37Z",
       "pushed": "2024-04-08T06:32:51Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -9869,8 +9869,8 @@
           "parentId": "root-learn-javascript-learning"
         }
       ],
-      "stars": 5821,
-      "forks": 606,
+      "stars": 5825,
+      "forks": 604,
       "language": null,
       "license": "NOASSERTION",
       "topics": [
@@ -9881,7 +9881,7 @@
         "learning",
         "resources"
       ],
-      "updated": "2026-07-19T03:45:51Z",
+      "updated": "2026-07-24T03:10:59Z",
       "pushed": "2026-02-01T20:52:43Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -11317,7 +11317,7 @@
           "parentId": "root-learn-css-learning"
         }
       ],
-      "stars": 3837,
+      "stars": 3839,
       "forks": 270,
       "language": null,
       "license": "NOASSERTION",
@@ -11329,7 +11329,7 @@
         "learning",
         "resources"
       ],
-      "updated": "2026-07-18T18:31:58Z",
+      "updated": "2026-07-24T03:17:40Z",
       "pushed": "2026-02-01T00:22:35Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -16646,8 +16646,8 @@
           "parentId": "root-learn-product-management"
         }
       ],
-      "stars": 2261,
-      "forks": 208,
+      "stars": 2274,
+      "forks": 209,
       "language": "CSS",
       "license": "CC0-1.0",
       "topics": [
@@ -16657,7 +16657,7 @@
         "product",
         "product-management"
       ],
-      "updated": "2026-07-18T08:33:28Z",
+      "updated": "2026-07-25T20:24:30Z",
       "pushed": "2026-02-08T02:36:12Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -17581,6 +17581,32 @@
               "parentId": "root-learn-roadmaps-ai-machine-learning-data-science"
             },
             {
+              "id": "root-learn-roadmaps-ai-machine-learning-data-science-ai-governance-and-gtm-career-roadmaps",
+              "title": "AI, Governance & GTM Career Roadmaps",
+              "kind": "repo",
+              "repo": "hardik-369/roadmap",
+              "url": "https://github.com/hardik-369/roadmap",
+              "description": "Free zero-budget job-ready roadmaps for AI Engineer, AI Governance Specialist, and GTM Engineer roles.",
+              "external": false,
+              "sourceRepo": "liuchong/awesome-roadmaps",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Roadmaps",
+                "AI / Machine Learning / Data Science",
+                "AI, Governance & GTM Career Roadmaps"
+              ],
+              "parentId": "root-learn-roadmaps-ai-machine-learning-data-science"
+            },
+            {
               "id": "root-learn-roadmaps-ai-machine-learning-data-science-data-analyst-roadmap",
               "title": "Data Analyst Roadmap",
               "kind": "repo",
@@ -17733,6 +17759,32 @@
                 "Roadmaps",
                 "AI / Machine Learning / Data Science",
                 "Deep Learning Roadmap"
+              ],
+              "parentId": "root-learn-roadmaps-ai-machine-learning-data-science"
+            },
+            {
+              "id": "root-learn-roadmaps-ai-machine-learning-data-science-forward-deployed-engineer-roadmap",
+              "title": "Forward Deployed Engineer Roadmap",
+              "kind": "repo",
+              "repo": "thecoder8890/forward-deployed-engineer-roadmap",
+              "url": "https://github.com/thecoder8890/forward-deployed-engineer-roadmap",
+              "description": "Roadmap of a Forward Deployed Engineer who partners with customers to design, build, and deploy production-ready enterprise systems.",
+              "external": false,
+              "sourceRepo": "liuchong/awesome-roadmaps",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Roadmaps",
+                "AI / Machine Learning / Data Science",
+                "Forward Deployed Engineer Roadmap"
               ],
               "parentId": "root-learn-roadmaps-ai-machine-learning-data-science"
             },
@@ -17923,8 +17975,8 @@
               "sourceRepo": "liuchong/awesome-roadmaps",
               "depth": 2,
               "children": [],
-              "stars": 2134,
-              "forks": 361,
+              "stars": 2137,
+              "forks": 362,
               "language": null,
               "license": "CC0-1.0",
               "topics": [
@@ -17940,7 +17992,7 @@
                 "software-testing",
                 "testing"
               ],
-              "updated": "2026-07-15T11:33:36Z",
+              "updated": "2026-07-26T05:04:08Z",
               "pushed": "2026-06-04T11:08:57Z",
               "awesome": true,
               "path": [
@@ -18226,15 +18278,64 @@
           "parentId": "root-learn-roadmaps"
         },
         {
-          "id": "root-learn-roadmaps-articles",
-          "title": "Articles",
+          "id": "root-learn-roadmaps-tools-and-resources",
+          "title": "Tools & Resources",
           "kind": "section",
           "sourceRepo": "liuchong/awesome-roadmaps",
           "depth": 1,
-          "url": "https://github.com/liuchong/awesome-roadmaps#articles",
+          "url": "https://github.com/liuchong/awesome-roadmaps#tools-and-resources",
           "children": [
             {
-              "id": "root-learn-roadmaps-articles-a-roadmap-to-become-a-better-android-developer",
+              "id": "root-learn-roadmaps-tools-and-resources-tutorialsearch",
+              "title": "TutorialSearch",
+              "kind": "link",
+              "repo": "",
+              "url": "https://tutorialsearch.io/?q=roadmaps",
+              "description": "Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.",
+              "external": true,
+              "sourceRepo": "liuchong/awesome-roadmaps",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Roadmaps",
+                "Tools & Resources",
+                "TutorialSearch"
+              ],
+              "parentId": "root-learn-roadmaps-tools-and-resources"
+            }
+          ],
+          "stars": 0,
+          "forks": 0,
+          "language": null,
+          "license": null,
+          "topics": [],
+          "updated": null,
+          "pushed": null,
+          "awesome": false,
+          "path": [
+            "Roadmaps",
+            "Tools & Resources"
+          ],
+          "parentId": "root-learn-roadmaps"
+        },
+        {
+          "id": "root-learn-roadmaps-articles-and-books",
+          "title": "Articles & Books",
+          "kind": "section",
+          "sourceRepo": "liuchong/awesome-roadmaps",
+          "depth": 1,
+          "url": "https://github.com/liuchong/awesome-roadmaps#articles-and-books",
+          "children": [
+            {
+              "id": "root-learn-roadmaps-articles-and-books-a-roadmap-to-become-a-better-android-developer",
               "title": "A Roadmap To Become A Better Android Developer",
               "kind": "link",
               "repo": "",
@@ -18254,13 +18355,39 @@
               "awesome": false,
               "path": [
                 "Roadmaps",
-                "Articles",
+                "Articles & Books",
                 "A Roadmap To Become A Better Android Developer"
               ],
-              "parentId": "root-learn-roadmaps-articles"
+              "parentId": "root-learn-roadmaps-articles-and-books"
             },
             {
-              "id": "root-learn-roadmaps-articles-backend-developer-roadmap",
+              "id": "root-learn-roadmaps-articles-and-books-ai-agents-in-depth",
+              "title": "AI Agents in Depth",
+              "kind": "repo",
+              "repo": "bojieli/ai-agent-book",
+              "url": "https://github.com/bojieli/ai-agent-book",
+              "description": "Open-source book on AI agent design and engineering, with bilingual (Chinese/English) text and per-chapter code covering context engineering, tools, evaluation, and multi-agent systems.",
+              "external": false,
+              "sourceRepo": "liuchong/awesome-roadmaps",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Roadmaps",
+                "Articles & Books",
+                "AI Agents in Depth"
+              ],
+              "parentId": "root-learn-roadmaps-articles-and-books"
+            },
+            {
+              "id": "root-learn-roadmaps-articles-and-books-backend-developer-roadmap",
               "title": "Backend Developer Roadmap",
               "kind": "link",
               "repo": "",
@@ -18280,13 +18407,13 @@
               "awesome": false,
               "path": [
                 "Roadmaps",
-                "Articles",
+                "Articles & Books",
                 "Backend Developer Roadmap"
               ],
-              "parentId": "root-learn-roadmaps-articles"
+              "parentId": "root-learn-roadmaps-articles-and-books"
             },
             {
-              "id": "root-learn-roadmaps-articles-building-effective-agents",
+              "id": "root-learn-roadmaps-articles-and-books-building-effective-agents",
               "title": "Building Effective Agents",
               "kind": "link",
               "repo": "",
@@ -18306,13 +18433,13 @@
               "awesome": false,
               "path": [
                 "Roadmaps",
-                "Articles",
+                "Articles & Books",
                 "Building Effective Agents"
               ],
-              "parentId": "root-learn-roadmaps-articles"
+              "parentId": "root-learn-roadmaps-articles-and-books"
             },
             {
-              "id": "root-learn-roadmaps-articles-cybersecurity-roadmap",
+              "id": "root-learn-roadmaps-articles-and-books-cybersecurity-roadmap",
               "title": "Cybersecurity Roadmap",
               "kind": "link",
               "repo": "",
@@ -18332,13 +18459,13 @@
               "awesome": false,
               "path": [
                 "Roadmaps",
-                "Articles",
+                "Articles & Books",
                 "Cybersecurity Roadmap"
               ],
-              "parentId": "root-learn-roadmaps-articles"
+              "parentId": "root-learn-roadmaps-articles-and-books"
             },
             {
-              "id": "root-learn-roadmaps-articles-data-analytics-roadmap",
+              "id": "root-learn-roadmaps-articles-and-books-data-analytics-roadmap",
               "title": "Data Analytics Roadmap",
               "kind": "link",
               "repo": "",
@@ -18358,13 +18485,13 @@
               "awesome": false,
               "path": [
                 "Roadmaps",
-                "Articles",
+                "Articles & Books",
                 "Data Analytics Roadmap"
               ],
-              "parentId": "root-learn-roadmaps-articles"
+              "parentId": "root-learn-roadmaps-articles-and-books"
             },
             {
-              "id": "root-learn-roadmaps-articles-effective-context-engineering-for-ai-agents",
+              "id": "root-learn-roadmaps-articles-and-books-effective-context-engineering-for-ai-agents",
               "title": "Effective Context Engineering for AI Agents",
               "kind": "link",
               "repo": "",
@@ -18384,13 +18511,13 @@
               "awesome": false,
               "path": [
                 "Roadmaps",
-                "Articles",
+                "Articles & Books",
                 "Effective Context Engineering for AI Agents"
               ],
-              "parentId": "root-learn-roadmaps-articles"
+              "parentId": "root-learn-roadmaps-articles-and-books"
             },
             {
-              "id": "root-learn-roadmaps-articles-full-stack-developer-roadmap",
+              "id": "root-learn-roadmaps-articles-and-books-full-stack-developer-roadmap",
               "title": "Full Stack Developer Roadmap",
               "kind": "link",
               "repo": "",
@@ -18410,13 +18537,13 @@
               "awesome": false,
               "path": [
                 "Roadmaps",
-                "Articles",
+                "Articles & Books",
                 "Full Stack Developer Roadmap"
               ],
-              "parentId": "root-learn-roadmaps-articles"
+              "parentId": "root-learn-roadmaps-articles-and-books"
             },
             {
-              "id": "root-learn-roadmaps-articles-java-full-stack-developer-roadmap",
+              "id": "root-learn-roadmaps-articles-and-books-java-full-stack-developer-roadmap",
               "title": "Java Full Stack Developer Roadmap",
               "kind": "link",
               "repo": "",
@@ -18436,13 +18563,13 @@
               "awesome": false,
               "path": [
                 "Roadmaps",
-                "Articles",
+                "Articles & Books",
                 "Java Full Stack Developer Roadmap"
               ],
-              "parentId": "root-learn-roadmaps-articles"
+              "parentId": "root-learn-roadmaps-articles-and-books"
             },
             {
-              "id": "root-learn-roadmaps-articles-sql-roadmap",
+              "id": "root-learn-roadmaps-articles-and-books-sql-roadmap",
               "title": "SQL Roadmap",
               "kind": "link",
               "repo": "",
@@ -18462,13 +18589,13 @@
               "awesome": false,
               "path": [
                 "Roadmaps",
-                "Articles",
+                "Articles & Books",
                 "SQL Roadmap"
               ],
-              "parentId": "root-learn-roadmaps-articles"
+              "parentId": "root-learn-roadmaps-articles-and-books"
             },
             {
-              "id": "root-learn-roadmaps-articles-the-vm-lifecycle-how-we-got-here-and-where-we-re-going",
+              "id": "root-learn-roadmaps-articles-and-books-the-vm-lifecycle-how-we-got-here-and-where-we-re-going",
               "title": "The VM Lifecycle: How We Got Here, and Where We're Going",
               "kind": "link",
               "repo": "",
@@ -18488,10 +18615,10 @@
               "awesome": false,
               "path": [
                 "Roadmaps",
-                "Articles",
+                "Articles & Books",
                 "The VM Lifecycle: How We Got Here, and Where We're Going"
               ],
-              "parentId": "root-learn-roadmaps-articles"
+              "parentId": "root-learn-roadmaps-articles-and-books"
             }
           ],
           "stars": 0,
@@ -18504,13 +18631,13 @@
           "awesome": false,
           "path": [
             "Roadmaps",
-            "Articles"
+            "Articles & Books"
           ],
           "parentId": "root-learn-roadmaps"
         }
       ],
-      "stars": 7154,
-      "forks": 475,
+      "stars": 7173,
+      "forks": 474,
       "language": null,
       "license": "NOASSERTION",
       "topics": [
@@ -18520,8 +18647,8 @@
         "resources",
         "roadmap"
       ],
-      "updated": "2026-07-19T03:44:22Z",
-      "pushed": "2026-07-07T18:18:19Z",
+      "updated": "2026-07-25T21:12:17Z",
+      "pushed": "2026-07-19T16:54:14Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -19015,8 +19142,8 @@
           "parentId": "root-learn-youtubers"
         }
       ],
-      "stars": 7558,
-      "forks": 492,
+      "stars": 7573,
+      "forks": 491,
       "language": "Markdown",
       "license": "CC0-1.0",
       "topics": [
@@ -19026,8 +19153,8 @@
         "youtube",
         "youtubers"
       ],
-      "updated": "2026-07-19T03:44:06Z",
-      "pushed": "2026-06-05T15:52:05Z",
+      "updated": "2026-07-26T05:30:59Z",
+      "pushed": "2026-07-25T08:47:37Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -21282,7 +21409,7 @@
                   "sourceRepo": "dribdat/awesome-hackathon",
                   "depth": 3,
                   "children": [],
-                  "stars": 21197,
+                  "stars": 21227,
                   "forks": 3956,
                   "language": null,
                   "license": null,
@@ -21292,7 +21419,7 @@
                     "list",
                     "readme"
                   ],
-                  "updated": "2026-07-19T03:36:57Z",
+                  "updated": "2026-07-25T15:12:58Z",
                   "pushed": "2026-07-05T13:39:55Z",
                   "awesome": true,
                   "path": [
@@ -22357,7 +22484,7 @@
           "parentId": "root-learn-hackathon"
         }
       ],
-      "stars": 274,
+      "stars": 279,
       "forks": 21,
       "language": null,
       "license": "CC0-1.0",
@@ -22367,7 +22494,7 @@
         "hackathon",
         "hackathons"
       ],
-      "updated": "2026-07-18T17:13:47Z",
+      "updated": "2026-07-23T12:21:29Z",
       "pushed": "2026-05-05T17:45:20Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -23460,8 +23587,8 @@
           "parentId": "root-learn-certificates"
         }
       ],
-      "stars": 5054,
-      "forks": 421,
+      "stars": 5382,
+      "forks": 450,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -23476,7 +23603,7 @@
         "free",
         "hacktoberfest"
       ],
-      "updated": "2026-07-19T04:22:17Z",
+      "updated": "2026-07-26T05:17:34Z",
       "pushed": "2026-06-30T15:46:25Z",
       "awesome": true,
       "readmeStatus": "expanded",

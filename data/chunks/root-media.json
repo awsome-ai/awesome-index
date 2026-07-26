@@ -311,8 +311,8 @@
           "parentId": "root-media-fonts"
         }
       ],
-      "stars": 2032,
-      "forks": 1019,
+      "stars": 2036,
+      "forks": 1020,
       "language": null,
       "license": null,
       "topics": [
@@ -325,8 +325,8 @@
         "list",
         "programming-fonts"
       ],
-      "updated": "2026-07-16T18:19:40Z",
-      "pushed": "2026-06-22T23:03:47Z",
+      "updated": "2026-07-26T05:01:22Z",
+      "pushed": "2026-07-26T05:01:07Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -885,8 +885,8 @@
           "parentId": "root-media-stock-resources"
         }
       ],
-      "stars": 14366,
-      "forks": 807,
+      "stars": 14390,
+      "forks": 809,
       "language": "Ruby",
       "license": "CC0-1.0",
       "topics": [
@@ -905,7 +905,7 @@
         "templates",
         "weather-icons"
       ],
-      "updated": "2026-07-18T23:35:20Z",
+      "updated": "2026-07-26T04:43:40Z",
       "pushed": "2026-02-11T22:01:53Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -4326,12 +4326,12 @@
           "parentId": "root-media-open-source-documents"
         }
       ],
-      "stars": 2268,
+      "stars": 2275,
       "forks": 164,
       "language": null,
       "license": "NOASSERTION",
       "topics": [],
-      "updated": "2026-07-18T23:28:43Z",
+      "updated": "2026-07-25T23:01:01Z",
       "pushed": "2025-10-29T00:26:24Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -9625,12 +9625,12 @@
           "parentId": "root-media-audio-visualization"
         }
       ],
-      "stars": 5047,
-      "forks": 342,
+      "stars": 5052,
+      "forks": 343,
       "language": "Shell",
       "license": null,
       "topics": [],
-      "updated": "2026-07-18T23:25:37Z",
+      "updated": "2026-07-23T01:44:07Z",
       "pushed": "2026-01-06T15:11:17Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -10267,8 +10267,8 @@
           "parentId": "root-media-broadcasting"
         }
       ],
-      "stars": 1752,
-      "forks": 219,
+      "stars": 1758,
+      "forks": 220,
       "language": null,
       "license": "NOASSERTION",
       "topics": [
@@ -10276,7 +10276,7 @@
         "broadcast",
         "broadcasting"
       ],
-      "updated": "2026-07-17T19:41:17Z",
+      "updated": "2026-07-25T08:20:52Z",
       "pushed": "2026-04-29T10:25:42Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -11973,8 +11973,8 @@
           "parentId": "root-media-pixel-art"
         }
       ],
-      "stars": 1225,
-      "forks": 49,
+      "stars": 1228,
+      "forks": 50,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -11982,7 +11982,7 @@
         "hacktoberfest",
         "pixel-art"
       ],
-      "updated": "2026-07-17T00:23:37Z",
+      "updated": "2026-07-24T13:36:41Z",
       "pushed": "2026-05-18T14:17:04Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -12943,7 +12943,7 @@
           "parentId": "root-media-ffmpeg"
         }
       ],
-      "stars": 1173,
+      "stars": 1175,
       "forks": 82,
       "language": null,
       "license": null,
@@ -12953,7 +12953,7 @@
         "ffmpeg",
         "fluent-ffmpeg"
       ],
-      "updated": "2026-07-13T01:03:00Z",
+      "updated": "2026-07-21T17:17:16Z",
       "pushed": "2025-08-09T15:39:11Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -13252,8 +13252,8 @@
               "sourceRepo": "notlmn/awesome-icons",
               "depth": 2,
               "children": [],
-              "stars": 76759,
-              "forks": 12196,
+              "stars": 76787,
+              "forks": 12186,
               "language": "JavaScript",
               "license": "NOASSERTION",
               "topics": [
@@ -13265,7 +13265,7 @@
                 "svg-sprites",
                 "webfont"
               ],
-              "updated": "2026-07-19T04:29:21Z",
+              "updated": "2026-07-26T02:43:57Z",
               "pushed": "2026-07-15T18:15:53Z",
               "awesome": true,
               "path": [
@@ -14024,6 +14024,32 @@
           "url": "https://github.com/notlmn/awesome-icons#special",
           "children": [
             {
+              "id": "root-media-icons-special-geoicons",
+              "title": "GeoIcons",
+              "kind": "repo",
+              "repo": "getgeoicons/geoicons",
+              "url": "https://github.com/getgeoicons/geoicons",
+              "description": "Geographic map icons as tree-shakable SVG components. (Website)",
+              "external": false,
+              "sourceRepo": "notlmn/awesome-icons",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Icons",
+                "Special",
+                "GeoIcons"
+              ],
+              "parentId": "root-media-icons-special"
+            },
+            {
               "id": "root-media-icons-special-flag-kit",
               "title": "Flag Kit",
               "kind": "repo",
@@ -14401,7 +14427,7 @@
           "parentId": "root-media-icons"
         }
       ],
-      "stars": 977,
+      "stars": 980,
       "forks": 55,
       "language": null,
       "license": "CC0-1.0",
@@ -14413,8 +14439,8 @@
         "icons",
         "logo"
       ],
-      "updated": "2026-07-14T22:46:43Z",
-      "pushed": "2026-02-10T09:23:45Z",
+      "updated": "2026-07-26T04:48:46Z",
+      "pushed": "2026-07-19T19:40:19Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -15140,6 +15166,33 @@
                     "REAPER"
                   ],
                   "parentId": "root-media-audiovisual-audio-audio-software"
+                },
+                {
+                  "id": "root-media-audiovisual-audio-audio-software-voicetoinstrument-com",
+                  "title": "voicetoinstrument.com",
+                  "kind": "link",
+                  "repo": "",
+                  "url": "https://voicetoinstrument.com",
+                  "description": "Convert voice to instrumental tracks using AI",
+                  "external": true,
+                  "sourceRepo": "stingalleman/awesome-audiovisual",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Audiovisual",
+                    "Audio",
+                    "Audio Software",
+                    "voicetoinstrument.com"
+                  ],
+                  "parentId": "root-media-audiovisual-audio-audio-software"
                 }
               ],
               "stars": 0,
@@ -15329,6 +15382,58 @@
                 "Audiovisual",
                 "Tools",
                 "Ontime"
+              ],
+              "parentId": "root-media-audiovisual-tools"
+            },
+            {
+              "id": "root-media-audiovisual-tools-remove-audio-free-browser-based-audio-remover-for-video-files-uses-webassembly-for-local-processing-no-uploads-needed-supports-batch-mode-for-up-to-20-clips",
+              "title": "Remove Audio — Free, browser-based audio remover for video files. Uses WebAssembly for local processing, no uploads needed. Supports batch mode for up to 20 clips.",
+              "kind": "topic",
+              "repo": "",
+              "url": "",
+              "description": "",
+              "external": false,
+              "sourceRepo": "stingalleman/awesome-audiovisual",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Audiovisual",
+                "Tools",
+                "Remove Audio — Free, browser-based audio remover for video files. Uses WebAssembly for local processing, no uploads needed. Supports batch mode for up to 20 clips."
+              ],
+              "parentId": "root-media-audiovisual-tools"
+            },
+            {
+              "id": "root-media-audiovisual-tools-runcue",
+              "title": "RunCue",
+              "kind": "link",
+              "repo": "",
+              "url": "https://runcue.fly.dev/",
+              "description": "⚠ not free Browser-based timer for webinar producers with separate control, speaker, and audience links plus private cues.",
+              "external": true,
+              "sourceRepo": "stingalleman/awesome-audiovisual",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Audiovisual",
+                "Tools",
+                "RunCue"
               ],
               "parentId": "root-media-audiovisual-tools"
             },
@@ -16190,8 +16295,8 @@
               "sourceRepo": "stingalleman/awesome-audiovisual",
               "depth": 2,
               "children": [],
-              "stars": 1752,
-              "forks": 98,
+              "stars": 1755,
+              "forks": 99,
               "language": "Makefile",
               "license": "NOASSERTION",
               "topics": [
@@ -16207,7 +16312,7 @@
                 "video",
                 "vst"
               ],
-              "updated": "2026-07-18T13:38:26Z",
+              "updated": "2026-07-25T06:12:45Z",
               "pushed": "2026-07-12T21:40:58Z",
               "awesome": true,
               "path": [
@@ -16590,7 +16695,7 @@
           "parentId": "root-media-audiovisual"
         }
       ],
-      "stars": 261,
+      "stars": 263,
       "forks": 22,
       "language": null,
       "license": "CC0-1.0",
@@ -16602,8 +16707,8 @@
         "dmx",
         "video-processing"
       ],
-      "updated": "2026-07-17T13:54:42Z",
-      "pushed": "2024-07-01T10:13:28Z",
+      "updated": "2026-07-21T21:01:55Z",
+      "pushed": "2026-07-21T21:01:32Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -18067,7 +18172,7 @@
         "videolan",
         "vlc"
       ],
-      "updated": "2026-07-17T17:58:14Z",
+      "updated": "2026-07-24T13:31:27Z",
       "pushed": "2026-03-18T04:20:17Z",
       "awesome": true,
       "readmeStatus": "expanded",

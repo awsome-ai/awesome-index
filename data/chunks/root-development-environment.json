@@ -557,12 +557,12 @@
           "parentId": "root-development-environment-dev-env"
         }
       ],
-      "stars": 3314,
+      "stars": 3319,
       "forks": 204,
       "language": null,
       "license": null,
       "topics": [],
-      "updated": "2026-07-18T19:59:44Z",
+      "updated": "2026-07-25T20:32:55Z",
       "pushed": "2024-07-29T13:08:35Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -3030,8 +3030,8 @@
           "parentId": "root-development-environment-dotfiles"
         }
       ],
-      "stars": 10758,
-      "forks": 369,
+      "stars": 10771,
+      "forks": 371,
       "language": null,
       "license": null,
       "topics": [
@@ -3046,7 +3046,7 @@
         "tools",
         "zsh"
       ],
-      "updated": "2026-07-18T22:13:43Z",
+      "updated": "2026-07-25T21:57:41Z",
       "pushed": "2026-06-30T07:21:56Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -3381,8 +3381,8 @@
           "parentId": "root-development-environment-shell"
         }
       ],
-      "stars": 37299,
-      "forks": 2548,
+      "stars": 37333,
+      "forks": 2552,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -3395,7 +3395,7 @@
         "shell",
         "zsh"
       ],
-      "updated": "2026-07-18T23:21:56Z",
+      "updated": "2026-07-26T03:28:16Z",
       "pushed": "2025-08-28T14:40:51Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -3727,7 +3727,7 @@
                   "title": "moc",
                   "kind": "link",
                   "repo": "",
-                  "url": "http://moc.daper.net/",
+                  "url": "https://moc.daper.net/",
                   "description": "Console audio player for Linux/UNIX.",
                   "external": true,
                   "sourceRepo": "agarrharr/awesome-cli-apps",
@@ -4231,6 +4231,33 @@
                     "cinema"
                   ],
                   "parentId": "root-development-environment-command-line-apps-entertainment-video"
+                },
+                {
+                  "id": "root-development-environment-command-line-apps-entertainment-video-capcut-cli",
+                  "title": "capcut-cli",
+                  "kind": "repo",
+                  "repo": "renezander030/capcut-cli",
+                  "url": "https://github.com/renezander030/capcut-cli",
+                  "description": "Edit CapCut/JianYing projects.",
+                  "external": false,
+                  "sourceRepo": "agarrharr/awesome-cli-apps",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Command-Line Apps",
+                    "Entertainment",
+                    "Video",
+                    "capcut-cli"
+                  ],
+                  "parentId": "root-development-environment-command-line-apps-entertainment-video"
                 }
               ],
               "stars": 0,
@@ -4339,7 +4366,7 @@
                   "title": "Dwarf Fortress",
                   "kind": "link",
                   "repo": "",
-                  "url": "http://www.bay12games.com/dwarves/",
+                  "url": "https://www.bay12games.com/dwarves/",
                   "description": "Roguelike construction and management simulation.",
                   "external": true,
                   "sourceRepo": "agarrharr/awesome-cli-apps",
@@ -8992,6 +9019,33 @@
                     "Productivity",
                     "Note Taking, Lists, Task Management",
                     "feeling"
+                  ],
+                  "parentId": "root-development-environment-command-line-apps-productivity-note-taking-lists-task-management"
+                },
+                {
+                  "id": "root-development-environment-command-line-apps-productivity-note-taking-lists-task-management-confluence-cli",
+                  "title": "confluence-cli",
+                  "kind": "repo",
+                  "repo": "pchuri/confluence-cli",
+                  "url": "https://github.com/pchuri/confluence-cli",
+                  "description": "Confluence client.",
+                  "external": false,
+                  "sourceRepo": "agarrharr/awesome-cli-apps",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Command-Line Apps",
+                    "Productivity",
+                    "Note Taking, Lists, Task Management",
+                    "confluence-cli"
                   ],
                   "parentId": "root-development-environment-command-line-apps-productivity-note-taking-lists-task-management"
                 }
@@ -13674,7 +13728,7 @@
                   "title": "q",
                   "kind": "link",
                   "repo": "",
-                  "url": "http://harelba.github.io/q/",
+                  "url": "https://harelba.github.io/q/",
                   "description": "Execution of SQL-like queries on CSV/TSV/tabular text file.",
                   "external": true,
                   "sourceRepo": "agarrharr/awesome-cli-apps",
@@ -14487,6 +14541,33 @@
                     "Files and Directories",
                     "Disk Usage",
                     "NCDu"
+                  ],
+                  "parentId": "root-development-environment-command-line-apps-files-and-directories-disk-usage"
+                },
+                {
+                  "id": "root-development-environment-command-line-apps-files-and-directories-disk-usage-darya",
+                  "title": "darya",
+                  "kind": "repo",
+                  "repo": "mrkatebzadeh/darya",
+                  "url": "https://github.com/mrkatebzadeh/darya",
+                  "description": "A disk usage explorer TUI with live treemap.",
+                  "external": false,
+                  "sourceRepo": "agarrharr/awesome-cli-apps",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Command-Line Apps",
+                    "Files and Directories",
+                    "Disk Usage",
+                    "darya"
                   ],
                   "parentId": "root-development-environment-command-line-apps-files-and-directories-disk-usage"
                 }
@@ -18803,6 +18884,33 @@
                     "faf-cli"
                   ],
                   "parentId": "root-development-environment-command-line-apps-ai-agents"
+                },
+                {
+                  "id": "root-development-environment-command-line-apps-ai-agents-agentty",
+                  "title": "agentty",
+                  "kind": "repo",
+                  "repo": "1ay1/agentty",
+                  "url": "https://github.com/1ay1/agentty",
+                  "description": "C++ agent TUI.",
+                  "external": false,
+                  "sourceRepo": "agarrharr/awesome-cli-apps",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Command-Line Apps",
+                    "AI",
+                    "Agents",
+                    "agentty"
+                  ],
+                  "parentId": "root-development-environment-command-line-apps-ai-agents"
                 }
               ],
               "stars": 0,
@@ -18959,8 +19067,8 @@
               "sourceRepo": "agarrharr/awesome-cli-apps",
               "depth": 2,
               "children": [],
-              "stars": 2551,
-              "forks": 231,
+              "stars": 2561,
+              "forks": 242,
               "language": "Python",
               "license": null,
               "topics": [
@@ -18976,8 +19084,8 @@
                 "terminal-based",
                 "tui"
               ],
-              "updated": "2026-07-17T19:25:28Z",
-              "pushed": "2026-06-08T16:48:01Z",
+              "updated": "2026-07-25T19:04:45Z",
+              "pushed": "2026-07-21T09:43:34Z",
               "awesome": true,
               "path": [
                 "Command-Line Apps",
@@ -19127,7 +19235,7 @@
               "sourceRepo": "agarrharr/awesome-cli-apps",
               "depth": 2,
               "children": [],
-              "stars": 2180,
+              "stars": 2181,
               "forks": 124,
               "language": null,
               "license": null,
@@ -19145,7 +19253,7 @@
                 "lists",
                 "resources"
               ],
-              "updated": "2026-07-17T09:46:04Z",
+              "updated": "2026-07-25T16:33:15Z",
               "pushed": "2024-10-15T07:18:48Z",
               "awesome": true,
               "path": [
@@ -19197,8 +19305,8 @@
           "parentId": "root-development-environment-command-line-apps"
         }
       ],
-      "stars": 19987,
-      "forks": 1438,
+      "stars": 20026,
+      "forks": 1450,
       "language": "Shell",
       "license": null,
       "topics": [
@@ -19208,8 +19316,8 @@
         "cli-app",
         "list"
       ],
-      "updated": "2026-07-19T03:37:13Z",
-      "pushed": "2026-07-13T15:47:54Z",
+      "updated": "2026-07-26T03:44:49Z",
+      "pushed": "2026-07-22T12:20:04Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -24029,6 +24137,108 @@
           "url": "https://github.com/unixorn/awesome-zsh-plugins#setups",
           "children": [
             {
+              "id": "root-development-environment-zsh-plugins-setups-oh-my-zsh",
+              "title": "oh-my-zsh",
+              "kind": "section",
+              "sourceRepo": "unixorn/awesome-zsh-plugins",
+              "depth": 2,
+              "url": "https://github.com/unixorn/awesome-zsh-plugins#oh-my-zsh",
+              "children": [
+                {
+                  "id": "root-development-environment-zsh-plugins-setups-oh-my-zsh-master-oogway",
+                  "title": "master-oogway",
+                  "kind": "repo",
+                  "repo": "tomershay100/master-oogway",
+                  "url": "https://github.com/tomershay100/master-oogway",
+                  "description": "A complete zsh environment — dragon prompt theme, git aliases, fuzzy-finder functions, and 25 opt-in plugins — distributed as a standalone git repo",
+                  "external": false,
+                  "sourceRepo": "unixorn/awesome-zsh-plugins",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "ZSH Plugins",
+                    "Setups",
+                    "oh-my-zsh",
+                    "master-oogway"
+                  ],
+                  "parentId": "root-development-environment-zsh-plugins-setups-oh-my-zsh"
+                }
+              ],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "ZSH Plugins",
+                "Setups",
+                "oh-my-zsh"
+              ],
+              "parentId": "root-development-environment-zsh-plugins-setups"
+            },
+            {
+              "id": "root-development-environment-zsh-plugins-setups-raw-zsh",
+              "title": "Raw ZSH",
+              "kind": "section",
+              "sourceRepo": "unixorn/awesome-zsh-plugins",
+              "depth": 2,
+              "url": "https://github.com/unixorn/awesome-zsh-plugins#raw-zsh",
+              "children": [
+                {
+                  "id": "root-development-environment-zsh-plugins-setups-raw-zsh-kronuzsh",
+                  "title": "KronuZSH",
+                  "kind": "repo",
+                  "repo": "kronuz/kronuzsh",
+                  "url": "https://github.com/kronuz/kronuzsh",
+                  "description": "An opinionated, complete ZSH configuration—not a plugin intended to be sourced into an existing framework. It installs the standard ZSH runcoms and owns the shell options, history, completion, keybindings, plugins, and prompt they load.",
+                  "external": false,
+                  "sourceRepo": "unixorn/awesome-zsh-plugins",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "ZSH Plugins",
+                    "Setups",
+                    "Raw ZSH",
+                    "KronuZSH"
+                  ],
+                  "parentId": "root-development-environment-zsh-plugins-setups-raw-zsh"
+                }
+              ],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "ZSH Plugins",
+                "Setups",
+                "Raw ZSH"
+              ],
+              "parentId": "root-development-environment-zsh-plugins-setups"
+            },
+            {
               "id": "root-development-environment-zsh-plugins-setups-zgenom",
               "title": "zgenom",
               "kind": "section",
@@ -24434,12 +24644,12 @@
               "sourceRepo": "unixorn/awesome-zsh-plugins",
               "depth": 2,
               "children": [],
-              "stars": 2522,
+              "stars": 2523,
               "forks": 230,
               "language": "Shell",
               "license": "MIT",
               "topics": [],
-              "updated": "2026-07-02T14:13:16Z",
+              "updated": "2026-07-22T21:47:23Z",
               "pushed": "2024-01-16T06:56:48Z",
               "awesome": true,
               "path": [
@@ -24512,12 +24722,12 @@
               "sourceRepo": "unixorn/awesome-zsh-plugins",
               "depth": 2,
               "children": [],
-              "stars": 37,
+              "stars": 38,
               "forks": 5,
               "language": "Shell",
               "license": null,
               "topics": [],
-              "updated": "2026-01-23T16:28:46Z",
+              "updated": "2026-07-25T16:11:17Z",
               "pushed": "2015-02-20T15:11:25Z",
               "awesome": true,
               "path": [
@@ -31401,6 +31611,32 @@
               "parentId": "root-development-environment-zsh-plugins-plugins"
             },
             {
+              "id": "root-development-environment-zsh-plugins-plugins-create-ai-memory",
+              "title": "create-ai-memory",
+              "kind": "repo",
+              "repo": "rambaarde/create-ai-memory",
+              "url": "https://github.com/rambaarde/create-ai-memory",
+              "description": "Persistent, agent-agnostic session memory for AI coding CLIs; loads a Markdown vault of profile, project, and session context into ZSH launchers for Claude Code, Codex, Gemini, Cursor, and opencode.",
+              "external": false,
+              "sourceRepo": "unixorn/awesome-zsh-plugins",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "ZSH Plugins",
+                "Plugins",
+                "create-ai-memory"
+              ],
+              "parentId": "root-development-environment-zsh-plugins-plugins"
+            },
+            {
               "id": "root-development-environment-zsh-plugins-plugins-cros-auto-notify",
               "title": "cros-auto-notify",
               "kind": "repo",
@@ -33533,6 +33769,32 @@
               "parentId": "root-development-environment-zsh-plugins-plugins"
             },
             {
+              "id": "root-development-environment-zsh-plugins-plugins-execution-time",
+              "title": "execution-time",
+              "kind": "repo",
+              "repo": "gwangyi/execution-time",
+              "url": "https://github.com/gwangyi/execution-time",
+              "description": "automatically calculates the execution time of commands. If a command runs longer than a given threshold, it notifies you with the command's name (arg0), execution time, and exit code. Notifications are delivered via OSC Escape Sequences (OSC 9 and OSC 777), which are natively supported by modern terminal emulators like iTerm2, Windows Terminal, Kitty, WezTerm, foot, and urxvt to show native system notifications or an External Command (configured via ETNOTIFYCOMMAND), which is executed asynchronously in the background.",
+              "external": false,
+              "sourceRepo": "unixorn/awesome-zsh-plugins",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "ZSH Plugins",
+                "Plugins",
+                "execution-time"
+              ],
+              "parentId": "root-development-environment-zsh-plugins-plugins"
+            },
+            {
               "id": "root-development-environment-zsh-plugins-plugins-exercism",
               "title": "exercism",
               "kind": "repo",
@@ -34595,6 +34857,32 @@
                 "ZSH Plugins",
                 "Plugins",
                 "functional"
+              ],
+              "parentId": "root-development-environment-zsh-plugins-plugins"
+            },
+            {
+              "id": "root-development-environment-zsh-plugins-plugins-fuzzy-nav",
+              "title": "fuzzy-nav",
+              "kind": "repo",
+              "repo": "claw-h/fuzzy-nav",
+              "url": "https://github.com/claw-h/fuzzy-nav",
+              "description": "A high-speed, stateful Terminal User Interface (TUI) directory navigator and file browser built natively into ZSH, driven by fzf and fd.",
+              "external": false,
+              "sourceRepo": "unixorn/awesome-zsh-plugins",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "ZSH Plugins",
+                "Plugins",
+                "fuzzy-nav"
               ],
               "parentId": "root-development-environment-zsh-plugins-plugins"
             },
@@ -37797,6 +38085,32 @@
               "parentId": "root-development-environment-zsh-plugins-plugins"
             },
             {
+              "id": "root-development-environment-zsh-plugins-plugins-harnessd",
+              "title": "harnessd",
+              "kind": "repo",
+              "repo": "stump-wtf/zsh-harnessd",
+              "url": "https://github.com/stump-wtf/zsh-harnessd",
+              "description": "A small plugin that keeps long-running commands — agent CLIs, REPLs, watchers, anything — alive in detached tmux sessions, supervised by systemd (--user) on Linux or launchd on macOS, with one consistent set of verbs on both.",
+              "external": false,
+              "sourceRepo": "unixorn/awesome-zsh-plugins",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "ZSH Plugins",
+                "Plugins",
+                "harnessd"
+              ],
+              "parentId": "root-development-environment-zsh-plugins-plugins"
+            },
+            {
               "id": "root-development-environment-zsh-plugins-plugins-hbt",
               "title": "hbt",
               "kind": "repo",
@@ -40263,6 +40577,32 @@
                 "ZSH Plugins",
                 "Plugins",
                 "laravelx"
+              ],
+              "parentId": "root-development-environment-zsh-plugins-plugins"
+            },
+            {
+              "id": "root-development-environment-zsh-plugins-plugins-last-pwd",
+              "title": "last-pwd",
+              "kind": "repo",
+              "repo": "itssimmons/zsh-lastpwd",
+              "url": "https://github.com/itssimmons/zsh-lastpwd",
+              "description": "Remembers the last directory you were in and restores it the next time you open a terminal.",
+              "external": false,
+              "sourceRepo": "unixorn/awesome-zsh-plugins",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "ZSH Plugins",
+                "Plugins",
+                "last-pwd"
               ],
               "parentId": "root-development-environment-zsh-plugins-plugins"
             },
@@ -43539,6 +43879,32 @@
                 "ZSH Plugins",
                 "Plugins",
                 "org-hopper"
+              ],
+              "parentId": "root-development-environment-zsh-plugins-plugins"
+            },
+            {
+              "id": "root-development-environment-zsh-plugins-plugins-orthocal",
+              "title": "orthocal",
+              "kind": "repo",
+              "repo": "darthtrevino/omz-orthocal",
+              "url": "https://github.com/darthtrevino/omz-orthocal",
+              "description": "Displays today's Orthodox feast, saints, fasting, and scripture reading information in your ZSH prompt using the Orthocal.info API.",
+              "external": false,
+              "sourceRepo": "unixorn/awesome-zsh-plugins",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "ZSH Plugins",
+                "Plugins",
+                "orthocal"
               ],
               "parentId": "root-development-environment-zsh-plugins-plugins"
             },
@@ -58360,32 +58726,6 @@
               "parentId": "root-development-environment-zsh-plugins-completions"
             },
             {
-              "id": "root-development-environment-zsh-plugins-completions-helmfile",
-              "title": "helmfile",
-              "kind": "repo",
-              "repo": "downager/zsh-helmfile",
-              "url": "https://github.com/downager/zsh-helmfile",
-              "description": "Adds autocompletion for helm.",
-              "external": false,
-              "sourceRepo": "unixorn/awesome-zsh-plugins",
-              "depth": 2,
-              "children": [],
-              "stars": 0,
-              "forks": 0,
-              "language": null,
-              "license": null,
-              "topics": [],
-              "updated": null,
-              "pushed": null,
-              "awesome": false,
-              "path": [
-                "ZSH Plugins",
-                "Completions",
-                "helmfile"
-              ],
-              "parentId": "root-development-environment-zsh-plugins-completions"
-            },
-            {
               "id": "root-development-environment-zsh-plugins-completions-hledger",
               "title": "hledger",
               "kind": "repo",
@@ -65529,32 +65869,6 @@
                 "ZSH Plugins",
                 "Themes",
                 "buster"
-              ],
-              "parentId": "root-development-environment-zsh-plugins-themes"
-            },
-            {
-              "id": "root-development-environment-zsh-plugins-themes-cabovianco",
-              "title": "cabovianco",
-              "kind": "repo",
-              "repo": "cabovianco/cabovianco-zsh-theme",
-              "url": "https://github.com/cabovianco/cabovianco-zsh-theme",
-              "description": "Includes decorators for git status and current directory.",
-              "external": false,
-              "sourceRepo": "unixorn/awesome-zsh-plugins",
-              "depth": 2,
-              "children": [],
-              "stars": 0,
-              "forks": 0,
-              "language": null,
-              "license": null,
-              "topics": [],
-              "updated": null,
-              "pushed": null,
-              "awesome": false,
-              "path": [
-                "ZSH Plugins",
-                "Themes",
-                "cabovianco"
               ],
               "parentId": "root-development-environment-zsh-plugins-themes"
             },
@@ -85969,32 +86283,6 @@
               "parentId": "root-development-environment-zsh-plugins-themes"
             },
             {
-              "id": "root-development-environment-zsh-plugins-themes-themeraf",
-              "title": "themeraf",
-              "kind": "repo",
-              "repo": "oliver-svrcek/themeraf",
-              "url": "https://github.com/oliver-svrcek/themeraf",
-              "description": "Has decorators for username, last two directories in working directory path, git status, timestamp, last exit status and also name of active virtual environment.",
-              "external": false,
-              "sourceRepo": "unixorn/awesome-zsh-plugins",
-              "depth": 2,
-              "children": [],
-              "stars": 0,
-              "forks": 0,
-              "language": null,
-              "license": null,
-              "topics": [],
-              "updated": null,
-              "pushed": null,
-              "awesome": false,
-              "path": [
-                "ZSH Plugins",
-                "Themes",
-                "themeraf"
-              ],
-              "parentId": "root-development-environment-zsh-plugins-themes"
-            },
-            {
               "id": "root-development-environment-zsh-plugins-themes-theozera",
               "title": "theozera",
               "kind": "repo",
@@ -89538,12 +89826,12 @@
               "sourceRepo": "unixorn/awesome-zsh-plugins",
               "depth": 2,
               "children": [],
-              "stars": 2522,
+              "stars": 2523,
               "forks": 230,
               "language": "Shell",
               "license": "MIT",
               "topics": [],
-              "updated": "2026-07-02T14:13:16Z",
+              "updated": "2026-07-22T21:47:23Z",
               "pushed": "2024-01-16T06:56:48Z",
               "awesome": true,
               "path": [
@@ -89564,12 +89852,12 @@
               "sourceRepo": "unixorn/awesome-zsh-plugins",
               "depth": 2,
               "children": [],
-              "stars": 37,
+              "stars": 38,
               "forks": 5,
               "language": "Shell",
               "license": null,
               "topics": [],
-              "updated": "2026-01-23T16:28:46Z",
+              "updated": "2026-07-25T16:11:17Z",
               "pushed": "2015-02-20T15:11:25Z",
               "awesome": true,
               "path": [
@@ -90701,12 +90989,12 @@
                   "sourceRepo": "unixorn/awesome-zsh-plugins",
                   "depth": 3,
                   "children": [],
-                  "stars": 3314,
+                  "stars": 3319,
                   "forks": 204,
                   "language": null,
                   "license": null,
                   "topics": [],
-                  "updated": "2026-07-18T19:59:44Z",
+                  "updated": "2026-07-25T20:32:55Z",
                   "pushed": "2024-07-29T13:08:35Z",
                   "awesome": true,
                   "path": [
@@ -90930,7 +91218,7 @@
           "parentId": "root-development-environment-zsh-plugins"
         }
       ],
-      "stars": 17851,
+      "stars": 17865,
       "forks": 605,
       "language": "Shell",
       "license": "BSD-3-Clause",
@@ -90949,8 +91237,8 @@
         "zsh-prompt",
         "zsh-theme"
       ],
-      "updated": "2026-07-19T03:37:57Z",
-      "pushed": "2026-07-12T18:19:10Z",
+      "updated": "2026-07-26T03:14:15Z",
+      "pushed": "2026-07-23T14:13:31Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -92476,7 +92764,7 @@
               "parentId": "root-development-environment-github-browser-extensions"
             }
           ],
-          "stars": 3278,
+          "stars": 3279,
           "forks": 203,
           "language": "JavaScript",
           "license": null,
@@ -92489,7 +92777,7 @@
             "github-extension",
             "list"
           ],
-          "updated": "2026-07-18T10:56:26Z",
+          "updated": "2026-07-22T19:30:54Z",
           "pushed": "2024-08-18T20:11:31Z",
           "awesome": true,
           "readmeStatus": "expanded",
@@ -94226,7 +94514,7 @@
               "parentId": "root-development-environment-github-pinned-gists"
             }
           ],
-          "stars": 2098,
+          "stars": 2102,
           "forks": 94,
           "language": null,
           "license": null,
@@ -94235,7 +94523,7 @@
             "awesome-list",
             "pinned-gist"
           ],
-          "updated": "2026-07-16T11:53:51Z",
+          "updated": "2026-07-24T09:06:52Z",
           "pushed": "2025-08-05T04:12:43Z",
           "awesome": true,
           "readmeStatus": "expanded",
@@ -95150,7 +95438,7 @@
               "sourceRepo": "phillipadsmith/awesome-github",
               "depth": 2,
               "children": [],
-              "stars": 3278,
+              "stars": 3279,
               "forks": 203,
               "language": "JavaScript",
               "license": null,
@@ -95163,7 +95451,7 @@
                 "github-extension",
                 "list"
               ],
-              "updated": "2026-07-18T10:56:26Z",
+              "updated": "2026-07-22T19:30:54Z",
               "pushed": "2024-08-18T20:11:31Z",
               "awesome": true,
               "path": [
@@ -96096,12 +96384,12 @@
           "parentId": "root-development-environment-github"
         }
       ],
-      "stars": 969,
+      "stars": 970,
       "forks": 119,
       "language": null,
       "license": "CC0-1.0",
       "topics": [],
-      "updated": "2026-07-13T21:02:21Z",
+      "updated": "2026-07-19T13:21:55Z",
       "pushed": "2024-03-04T15:57:12Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -101180,7 +101468,7 @@
           "parentId": "root-development-environment-git-add-ons"
         }
       ],
-      "stars": 2180,
+      "stars": 2181,
       "forks": 124,
       "language": null,
       "license": null,
@@ -101198,7 +101486,7 @@
         "lists",
         "resources"
       ],
-      "updated": "2026-07-17T09:46:04Z",
+      "updated": "2026-07-25T16:33:15Z",
       "pushed": "2024-10-15T07:18:48Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -103038,7 +103326,7 @@
           "parentId": "root-development-environment-ssh"
         }
       ],
-      "stars": 2819,
+      "stars": 2816,
       "forks": 181,
       "language": null,
       "license": "CC0-1.0",
@@ -103055,7 +103343,7 @@
         "ssh-keys",
         "ssh-keyscan"
       ],
-      "updated": "2026-07-16T02:46:12Z",
+      "updated": "2026-07-24T04:24:19Z",
       "pushed": "2023-08-10T10:15:24Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -103188,8 +103476,8 @@
           "parentId": "root-development-environment-hyper"
         }
       ],
-      "stars": 10979,
-      "forks": 375,
+      "stars": 10980,
+      "forks": 374,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -103200,7 +103488,7 @@
         "terminal",
         "zeit"
       ],
-      "updated": "2026-07-18T20:06:48Z",
+      "updated": "2026-07-24T14:39:47Z",
       "pushed": "2022-09-20T08:52:39Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -115185,8 +115473,8 @@
           "parentId": "root-development-environment-github-actions"
         }
       ],
-      "stars": 28046,
-      "forks": 1713,
+      "stars": 28065,
+      "forks": 1724,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -115199,7 +115487,7 @@
         "github",
         "github-actions"
       ],
-      "updated": "2026-07-19T03:31:54Z",
+      "updated": "2026-07-26T05:19:59Z",
       "pushed": "2024-09-01T20:32:39Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -116831,7 +117119,7 @@
           "parentId": "root-development-environment-wezterm"
         }
       ],
-      "stars": 697,
+      "stars": 709,
       "forks": 30,
       "language": null,
       "license": "CC0-1.0",
@@ -116843,7 +117131,7 @@
         "wezterm-lua",
         "wezterm-plugin"
       ],
-      "updated": "2026-07-18T13:01:18Z",
+      "updated": "2026-07-25T15:46:59Z",
       "pushed": "2026-07-14T14:36:58Z",
       "awesome": true,
       "readmeStatus": "expanded",
