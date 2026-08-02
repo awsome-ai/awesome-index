@@ -515,32 +515,6 @@
               "parentId": "root-editors-neovim-lsp"
             },
             {
-              "id": "root-editors-neovim-lsp-nvim-lua-lsp-status-nvim",
-              "title": "nvim-lua/lsp-status.nvim",
-              "kind": "repo",
-              "repo": "nvim-lua/lsp-status.nvim",
-              "url": "https://github.com/nvim-lua/lsp-status.nvim",
-              "description": "This is a plugin/library for generating statusline components from the built-in LSP client.",
-              "external": false,
-              "sourceRepo": "rockerboo/awesome-neovim",
-              "depth": 2,
-              "children": [],
-              "stars": 0,
-              "forks": 0,
-              "language": null,
-              "license": null,
-              "topics": [],
-              "updated": null,
-              "pushed": null,
-              "awesome": false,
-              "path": [
-                "Neovim",
-                "LSP",
-                "nvim-lua/lsp-status.nvim"
-              ],
-              "parentId": "root-editors-neovim-lsp"
-            },
-            {
               "id": "root-editors-neovim-lsp-nvimdev-lspsaga-nvim",
               "title": "nvimdev/lspsaga.nvim",
               "kind": "repo",
@@ -2205,6 +2179,32 @@
               "parentId": "root-editors-neovim-lsp"
             },
             {
+              "id": "root-editors-neovim-lsp-senal-d-a-gunaratna-swapson-nvim",
+              "title": "Senal-D-A-Gunaratna/swapson.nvim",
+              "kind": "repo",
+              "repo": "senal-d-a-gunaratna/swapson.nvim",
+              "url": "https://github.com/senal-d-a-gunaratna/swapson.nvim",
+              "description": "Monkeypatches mason.nvim to route npm and pip installs through bun and uv, speeding up LSP and tool installation.",
+              "external": false,
+              "sourceRepo": "rockerboo/awesome-neovim",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Neovim",
+                "LSP",
+                "Senal-D-A-Gunaratna/swapson.nvim"
+              ],
+              "parentId": "root-editors-neovim-lsp"
+            },
+            {
               "id": "root-editors-neovim-lsp-crysthamus-nvim-file-operations",
               "title": "Crysthamus/nvim-file-operations",
               "kind": "repo",
@@ -3403,6 +3403,32 @@
               "parentId": "root-editors-neovim-ai"
             },
             {
+              "id": "root-editors-neovim-ai-teocns-neocursor-nvim",
+              "title": "teocns/neocursor.nvim",
+              "kind": "repo",
+              "repo": "teocns/neocursor.nvim",
+              "url": "https://github.com/teocns/neocursor.nvim",
+              "description": "Next-edit predictions, cursor jumps, and ghost text, all driven by an existing Cursor session instead of an API key.",
+              "external": false,
+              "sourceRepo": "rockerboo/awesome-neovim",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Neovim",
+                "AI",
+                "teocns/neocursor.nvim"
+              ],
+              "parentId": "root-editors-neovim-ai"
+            },
+            {
               "id": "root-editors-neovim-ai-ctchen222-openspec-nvim",
               "title": "ctchen222/openspec.nvim",
               "kind": "repo",
@@ -4543,6 +4569,32 @@
                 "Neovim",
                 "AI",
                 "taigrr/neocrush.nvim"
+              ],
+              "parentId": "root-editors-neovim-ai"
+            },
+            {
+              "id": "root-editors-neovim-ai-zgs225-pi2-nvim",
+              "title": "zgs225/pi2.nvim",
+              "kind": "repo",
+              "repo": "zgs225/pi2.nvim",
+              "url": "https://github.com/zgs225/pi2.nvim",
+              "description": "Frontend for the pi coding agent with in-editor chat, reviewed diffs, session-tree navigation, and extension prompts.",
+              "external": false,
+              "sourceRepo": "rockerboo/awesome-neovim",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Neovim",
+                "AI",
+                "zgs225/pi2.nvim"
               ],
               "parentId": "root-editors-neovim-ai"
             }
@@ -16606,6 +16658,58 @@
               "parentId": "root-editors-neovim-colorscheme"
             },
             {
+              "id": "root-editors-neovim-colorscheme-tan-wei-zimablue-nvim",
+              "title": "tan-wei/zimablue.nvim",
+              "kind": "repo",
+              "repo": "tan-wei/zimablue.nvim",
+              "url": "https://github.com/tan-wei/zimablue.nvim",
+              "description": "[TS][LSP][Lua] A dark Neovim colorscheme inspired by the iconic color from the Love, Death and Robots episode Zima Blue.",
+              "external": false,
+              "sourceRepo": "rockerboo/awesome-neovim",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Neovim",
+                "Colorscheme",
+                "tan-wei/zimablue.nvim"
+              ],
+              "parentId": "root-editors-neovim-colorscheme"
+            },
+            {
+              "id": "root-editors-neovim-colorscheme-mitander-flume-nvim",
+              "title": "mitander/flume.nvim",
+              "kind": "repo",
+              "repo": "mitander/flume.nvim",
+              "url": "https://github.com/mitander/flume.nvim",
+              "description": "[TS][LSP][L/D][Lua] Four-palette color system with consistent semantic roles and matching generated themes for terminal and developer tools.",
+              "external": false,
+              "sourceRepo": "rockerboo/awesome-neovim",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Neovim",
+                "Colorscheme",
+                "mitander/flume.nvim"
+              ],
+              "parentId": "root-editors-neovim-colorscheme"
+            },
+            {
               "id": "root-editors-neovim-colorscheme-colorscheme-creation",
               "title": "Colorscheme Creation",
               "kind": "section",
@@ -22071,6 +22175,32 @@
               "parentId": "root-editors-neovim-utility"
             },
             {
+              "id": "root-editors-neovim-utility-dpezto-chezmoi-template-nvim",
+              "title": "dpezto/chezmoi-template.nvim",
+              "kind": "repo",
+              "repo": "dpezto/chezmoi-template.nvim",
+              "url": "https://github.com/dpezto/chezmoi-template.nvim",
+              "description": "Edit chezmoi source files natively: target-language Tree-sitter injection, template-aware formatting, live preview, diagnostics and completion.",
+              "external": false,
+              "sourceRepo": "rockerboo/awesome-neovim",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Neovim",
+                "Utility",
+                "dpezto/chezmoi-template.nvim"
+              ],
+              "parentId": "root-editors-neovim-utility"
+            },
+            {
               "id": "root-editors-neovim-utility-csv-files",
               "title": "CSV Files",
               "kind": "section",
@@ -22430,6 +22560,32 @@
           "depth": 1,
           "url": "https://github.com/rockerboo/awesome-neovim#terminal-integration",
           "children": [
+            {
+              "id": "root-editors-neovim-terminal-integration-thelazycat00-termfile-nvim",
+              "title": "TheLazyCat00/termfile-nvim",
+              "kind": "repo",
+              "repo": "thelazycat00/termfile-nvim",
+              "url": "https://github.com/thelazycat00/termfile-nvim",
+              "description": "Turn files into persistent terminal sessions that flawlessly allow for background work.",
+              "external": false,
+              "sourceRepo": "rockerboo/awesome-neovim",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Neovim",
+                "Terminal Integration",
+                "TheLazyCat00/termfile-nvim"
+              ],
+              "parentId": "root-editors-neovim-terminal-integration"
+            },
             {
               "id": "root-editors-neovim-terminal-integration-thelazycat00-runner-nvim",
               "title": "TheLazyCat00/runner-nvim",
@@ -22843,6 +22999,32 @@
                 "Neovim",
                 "Terminal Integration",
                 "samjwill/nvim-unception"
+              ],
+              "parentId": "root-editors-neovim-terminal-integration"
+            },
+            {
+              "id": "root-editors-neovim-terminal-integration-senal-d-a-gunaratna-hyprfade-nvim",
+              "title": "Senal-D-A-Gunaratna/hyprfade.nvim",
+              "kind": "repo",
+              "repo": "senal-d-a-gunaratna/hyprfade.nvim",
+              "url": "https://github.com/senal-d-a-gunaratna/hyprfade.nvim",
+              "description": "When using Hyprland, fade the terminal window via hyprctl.",
+              "external": false,
+              "sourceRepo": "rockerboo/awesome-neovim",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Neovim",
+                "Terminal Integration",
+                "Senal-D-A-Gunaratna/hyprfade.nvim"
               ],
               "parentId": "root-editors-neovim-terminal-integration"
             },
@@ -31961,6 +32143,32 @@
               "parentId": "root-editors-neovim-editing-support"
             },
             {
+              "id": "root-editors-neovim-editing-support-chiarandini-smart-enter-nvim",
+              "title": "Chiarandini/smart-enter.nvim",
+              "kind": "repo",
+              "repo": "chiarandini/smart-enter.nvim",
+              "url": "https://github.com/chiarandini/smart-enter.nvim",
+              "description": "Context-aware newline that continues LaTeX environments, Markdown lists, and more.",
+              "external": false,
+              "sourceRepo": "rockerboo/awesome-neovim",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Neovim",
+                "Editing Support",
+                "Chiarandini/smart-enter.nvim"
+              ],
+              "parentId": "root-editors-neovim-editing-support"
+            },
+            {
               "id": "root-editors-neovim-editing-support-yaocccc-visual-multi-nvim",
               "title": "yaocccc/visual-multi.nvim",
               "kind": "repo",
@@ -38047,8 +38255,8 @@
                     "neovim-plugins",
                     "nix-flake"
                   ],
-                  "updated": "2026-07-25T18:18:18Z",
-                  "pushed": "2026-07-25T18:18:14Z",
+                  "updated": "2026-08-01T18:21:17Z",
+                  "pushed": "2026-08-01T18:21:13Z",
                   "awesome": true,
                   "path": [
                     "Neovim",
@@ -38725,7 +38933,7 @@
               "sourceRepo": "rockerboo/awesome-neovim",
               "depth": 2,
               "children": [],
-              "stars": 2121,
+              "stars": 2123,
               "forks": 144,
               "language": null,
               "license": "MIT",
@@ -38733,7 +38941,7 @@
                 "awesome",
                 "vim"
               ],
-              "updated": "2026-07-23T13:11:34Z",
+              "updated": "2026-07-31T12:24:24Z",
               "pushed": "2025-06-06T18:42:55Z",
               "awesome": true,
               "path": [
@@ -38941,8 +39149,8 @@
           "parentId": "root-editors-neovim"
         }
       ],
-      "stars": 21190,
-      "forks": 1031,
+      "stars": 21213,
+      "forks": 1035,
       "language": "Shell",
       "license": "CC0-1.0",
       "topics": [
@@ -38952,8 +39160,8 @@
         "neovim-plugins",
         "nvim-lua"
       ],
-      "updated": "2026-07-26T05:24:14Z",
-      "pushed": "2026-07-26T05:24:09Z",
+      "updated": "2026-08-02T04:04:57Z",
+      "pushed": "2026-08-01T23:55:41Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -38972,7 +39180,7 @@
       "sourceRepo": "sindresorhus/awesome",
       "depth": 1,
       "children": [],
-      "stars": 9336,
+      "stars": 9343,
       "forks": 599,
       "language": null,
       "license": "Unlicense",
@@ -38980,7 +39188,7 @@
         "awesome-list",
         "emacs"
       ],
-      "updated": "2026-07-25T05:32:49Z",
+      "updated": "2026-08-02T00:18:34Z",
       "pushed": "2026-05-13T04:32:20Z",
       "awesome": true,
       "readmeStatus": "empty",
@@ -45451,8 +45659,8 @@
           "parentId": "root-editors-visual-studio-code"
         }
       ],
-      "stars": 28910,
-      "forks": 1403,
+      "stars": 28919,
+      "forks": 1405,
       "language": "JavaScript",
       "license": "CC0-1.0",
       "topics": [
@@ -45468,7 +45676,7 @@
         "vscode-extension",
         "vscode-theme"
       ],
-      "updated": "2026-07-26T01:06:44Z",
+      "updated": "2026-08-01T22:58:45Z",
       "pushed": "2026-06-21T09:36:55Z",
       "awesome": true,
       "readmeStatus": "expanded",

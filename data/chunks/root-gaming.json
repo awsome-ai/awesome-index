@@ -3489,12 +3489,12 @@
           "parentId": "root-gaming-game-talks"
         }
       ],
-      "stars": 1176,
+      "stars": 1177,
       "forks": 52,
       "language": null,
       "license": "MIT",
       "topics": [],
-      "updated": "2026-07-25T06:58:22Z",
+      "updated": "2026-07-29T01:48:28Z",
       "pushed": "2024-05-09T00:58:26Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -13691,8 +13691,8 @@
           "parentId": "root-gaming-godot"
         }
       ],
-      "stars": 10442,
-      "forks": 570,
+      "stars": 10475,
+      "forks": 572,
       "language": null,
       "license": "CC-BY-4.0",
       "topics": [
@@ -13702,7 +13702,7 @@
         "godot",
         "godot-engine"
       ],
-      "updated": "2026-07-25T23:33:25Z",
+      "updated": "2026-08-02T00:17:26Z",
       "pushed": "2026-07-09T00:49:17Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -13838,6 +13838,33 @@
                     "Browser-Based",
                     "Boardgame",
                     "Desperate Gods"
+                  ],
+                  "parentId": "root-gaming-open-source-games-browser-based-boardgame"
+                },
+                {
+                  "id": "root-gaming-open-source-games-browser-based-boardgame-duet-veiled-dominion",
+                  "title": "Duet (Veiled Dominion)",
+                  "kind": "repo",
+                  "repo": "loptr-lab/duet-solo-hackathon",
+                  "url": "https://github.com/loptr-lab/duet-solo-hackathon",
+                  "description": "Open-source asymmetric chess variant with an inverted win condition — the game ends when your transformed piece loses control, not when your immobile king is threatened. Includes an AI opponent, remote multiplayer, and an optional fog-of-war mode.",
+                  "external": false,
+                  "sourceRepo": "michelpereira/awesome-open-source-games",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Open Source Games",
+                    "Browser-Based",
+                    "Boardgame",
+                    "Duet (Veiled Dominion)"
                   ],
                   "parentId": "root-gaming-open-source-games-browser-based-boardgame"
                 },
@@ -25680,8 +25707,8 @@
           "parentId": "root-gaming-open-source-games"
         }
       ],
-      "stars": 2960,
-      "forks": 255,
+      "stars": 2972,
+      "forks": 257,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -25690,8 +25717,8 @@
         "games",
         "opensource"
       ],
-      "updated": "2026-07-26T02:32:10Z",
-      "pushed": "2026-07-10T10:01:27Z",
+      "updated": "2026-08-01T20:03:06Z",
+      "pushed": "2026-07-27T13:27:40Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -26151,7 +26178,7 @@
           "parentId": "root-gaming-unity"
         }
       ],
-      "stars": 7104,
+      "stars": 7103,
       "forks": 735,
       "language": null,
       "license": "CC0-1.0",
@@ -26160,7 +26187,7 @@
         "game-development",
         "unity"
       ],
-      "updated": "2026-07-25T16:49:28Z",
+      "updated": "2026-08-01T14:54:56Z",
       "pushed": "2025-01-22T15:47:15Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -26180,12 +26207,12 @@
       "sourceRepo": "sindresorhus/awesome",
       "depth": 1,
       "children": [],
-      "stars": 521,
+      "stars": 523,
       "forks": 46,
       "language": null,
       "license": "CC0-1.0",
       "topics": [],
-      "updated": "2026-07-17T19:27:28Z",
+      "updated": "2026-07-30T02:41:38Z",
       "pushed": "2020-11-20T11:48:24Z",
       "awesome": true,
       "readmeStatus": "empty",
@@ -26800,7 +26827,7 @@
           "parentId": "root-gaming-l-ve"
         }
       ],
-      "stars": 4451,
+      "stars": 4456,
       "forks": 243,
       "language": "PowerShell",
       "license": "CC0-1.0",
@@ -26811,7 +26838,7 @@
         "love2d",
         "lua"
       ],
-      "updated": "2026-07-25T02:43:06Z",
+      "updated": "2026-07-31T21:44:42Z",
       "pushed": "2026-06-18T20:27:08Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -28734,11 +28761,11 @@
             {
               "id": "root-gaming-pico-8-libraries-parens-8",
               "title": "parens-8",
-              "kind": "repo",
-              "repo": "siapran/parens-8",
-              "url": "https://github.com/siapran/parens-8",
-              "description": "Bypass the Lua token limit with a tiny lisp interpreter/compiler.",
-              "external": false,
+              "kind": "link",
+              "repo": "",
+              "url": "https://codeberg.org/wellspring-labs/parens-8",
+              "description": "Bypass the Lua token limit with a tiny Lua interpreter/VM.",
+              "external": true,
               "sourceRepo": "pico-8/awesome-pico-8",
               "depth": 3,
               "children": [],
@@ -28760,11 +28787,11 @@
             {
               "id": "root-gaming-pico-8-libraries-p8-canvas",
               "title": "p8-canvas",
-              "kind": "repo",
-              "repo": "siapran/p8-canvas",
-              "url": "https://github.com/siapran/p8-canvas",
+              "kind": "link",
+              "repo": "",
+              "url": "https://codeberg.org/wellspring-labs/p8-canvas",
               "description": "A high performance infinite canvas/texture library.",
-              "external": false,
+              "external": true,
               "sourceRepo": "pico-8/awesome-pico-8",
               "depth": 3,
               "children": [],
@@ -29628,7 +29655,7 @@
           "parentId": "root-gaming-pico-8"
         }
       ],
-      "stars": 3051,
+      "stars": 3054,
       "forks": 103,
       "language": null,
       "license": "CC0-1.0",
@@ -29647,8 +29674,8 @@
         "pico-8",
         "pico8"
       ],
-      "updated": "2026-07-25T16:45:56Z",
-      "pushed": "2026-02-18T12:35:47Z",
+      "updated": "2026-08-01T23:32:48Z",
+      "pushed": "2026-07-28T13:25:56Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -40762,7 +40789,7 @@
           "parentId": "root-gaming-game-boy-development"
         }
       ],
-      "stars": 4475,
+      "stars": 4477,
       "forks": 194,
       "language": null,
       "license": "NOASSERTION",
@@ -40787,7 +40814,7 @@
         "retrogaming",
         "tools"
       ],
-      "updated": "2026-07-25T22:44:07Z",
+      "updated": "2026-08-01T13:19:49Z",
       "pushed": "2026-07-22T19:03:27Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -43629,7 +43656,7 @@
         "platform-game",
         "tutorial"
       ],
-      "updated": "2026-07-18T22:45:30Z",
+      "updated": "2026-07-31T08:18:21Z",
       "pushed": "2025-06-17T18:34:45Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -45516,12 +45543,12 @@
               "sourceRepo": "stetso/awesome-gideros",
               "depth": 2,
               "children": [],
-              "stars": 4539,
-              "forks": 344,
+              "stars": 4538,
+              "forks": 342,
               "language": null,
               "license": null,
               "topics": [],
-              "updated": "2026-07-24T11:03:20Z",
+              "updated": "2026-08-01T14:55:06Z",
               "pushed": "2024-08-11T17:32:00Z",
               "awesome": true,
               "path": [
@@ -45542,7 +45569,7 @@
               "sourceRepo": "stetso/awesome-gideros",
               "depth": 2,
               "children": [],
-              "stars": 4451,
+              "stars": 4456,
               "forks": 243,
               "language": "PowerShell",
               "license": "CC0-1.0",
@@ -45553,7 +45580,7 @@
                 "love2d",
                 "lua"
               ],
-              "updated": "2026-07-25T02:43:06Z",
+              "updated": "2026-07-31T21:44:42Z",
               "pushed": "2026-06-18T20:27:08Z",
               "awesome": true,
               "path": [
@@ -49956,8 +49983,8 @@
           "parentId": "root-gaming-minecraft"
         }
       ],
-      "stars": 637,
-      "forks": 44,
+      "stars": 636,
+      "forks": 46,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -49965,7 +49992,7 @@
         "awesome-list",
         "minecraft"
       ],
-      "updated": "2026-07-26T02:06:45Z",
+      "updated": "2026-08-01T07:21:10Z",
       "pushed": "2025-08-23T13:16:01Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -50130,6 +50157,33 @@
                     "Mods",
                     "Add-on mods",
                     "Advanced Peripherals"
+                  ],
+                  "parentId": "root-gaming-computercraft-mods-add-on-mods"
+                },
+                {
+                  "id": "root-gaming-computercraft-mods-add-on-mods-classic-peripherals",
+                  "title": "Classic Peripherals",
+                  "kind": "link",
+                  "repo": "",
+                  "url": "https://modrinth.com/mod/classicperipherals",
+                  "description": "A mod which adds various peripherals, including a Radio Tower (for long-range communication; Ender Modems are nerfed) and a Cryptographic Accelerator (providing methods for cryptographic operations).",
+                  "external": true,
+                  "sourceRepo": "tomodachi94/awesome-computercraft",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "ComputerCraft",
+                    "Mods",
+                    "Add-on mods",
+                    "Classic Peripherals"
                   ],
                   "parentId": "root-gaming-computercraft-mods-add-on-mods"
                 },
@@ -53681,12 +53735,12 @@
                   "sourceRepo": "tomodachi94/awesome-computercraft",
                   "depth": 3,
                   "children": [],
-                  "stars": 4539,
-                  "forks": 344,
+                  "stars": 4538,
+                  "forks": 342,
                   "language": null,
                   "license": null,
                   "topics": [],
-                  "updated": "2026-07-24T11:03:20Z",
+                  "updated": "2026-08-01T14:55:06Z",
                   "pushed": "2024-08-11T17:32:00Z",
                   "awesome": true,
                   "path": [
@@ -53735,13 +53789,13 @@
                   "sourceRepo": "tomodachi94/awesome-computercraft",
                   "depth": 3,
                   "children": [],
-                  "stars": 25,
+                  "stars": 28,
                   "forks": 2,
                   "language": null,
                   "license": null,
                   "topics": [],
-                  "updated": "2026-07-25T21:51:36Z",
-                  "pushed": "2026-07-25T21:51:32Z",
+                  "updated": "2026-08-01T08:53:51Z",
+                  "pushed": "2026-07-29T16:00:49Z",
                   "awesome": true,
                   "path": [
                     "ComputerCraft",
@@ -53989,7 +54043,7 @@
           "parentId": "root-gaming-computercraft"
         }
       ],
-      "stars": 314,
+      "stars": 315,
       "forks": 18,
       "language": "Just",
       "license": "CC-BY-SA-4.0",
@@ -54000,8 +54054,8 @@
         "computercraft-tweaked",
         "minecraft"
       ],
-      "updated": "2026-07-24T17:32:55Z",
-      "pushed": "2026-07-01T11:40:58Z",
+      "updated": "2026-08-01T08:54:04Z",
+      "pushed": "2026-08-01T10:19:44Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -54020,8 +54074,8 @@
       "sourceRepo": "sindresorhus/awesome",
       "depth": 1,
       "children": [],
-      "stars": 1096,
-      "forks": 82,
+      "stars": 1098,
+      "forks": 81,
       "language": null,
       "license": "CC-BY-4.0",
       "topics": [
@@ -54035,7 +54089,7 @@
         "game",
         "games"
       ],
-      "updated": "2026-07-26T03:35:34Z",
+      "updated": "2026-08-01T00:07:42Z",
       "pushed": "2026-06-09T00:26:13Z",
       "awesome": false,
       "path": [
@@ -57515,12 +57569,12 @@
               "sourceRepo": "rafaskb/awesome-libgdx",
               "depth": 2,
               "children": [],
-              "stars": 1176,
+              "stars": 1177,
               "forks": 52,
               "language": null,
               "license": "MIT",
               "topics": [],
-              "updated": "2026-07-25T06:58:22Z",
+              "updated": "2026-07-29T01:48:28Z",
               "pushed": "2024-05-09T00:58:26Z",
               "awesome": true,
               "path": [
@@ -57541,16 +57595,16 @@
               "sourceRepo": "rafaskb/awesome-libgdx",
               "depth": 2,
               "children": [],
-              "stars": 48555,
-              "forks": 7696,
+              "stars": 48613,
+              "forks": 7698,
               "language": null,
-              "license": "NOASSERTION",
+              "license": "CC-BY-SA-4.0",
               "topics": [
                 "awesome",
                 "awesome-list"
               ],
-              "updated": "2026-07-26T01:54:08Z",
-              "pushed": "2026-07-18T18:20:21Z",
+              "updated": "2026-08-02T04:37:13Z",
+              "pushed": "2026-07-28T12:14:25Z",
               "awesome": true,
               "path": [
                 "libGDX",
@@ -57648,8 +57702,8 @@
               "sourceRepo": "rafaskb/awesome-libgdx",
               "depth": 2,
               "children": [],
-              "stars": 3072,
-              "forks": 191,
+              "stars": 3078,
+              "forks": 194,
               "language": null,
               "license": "CC-BY-SA-4.0",
               "topics": [
@@ -57659,7 +57713,7 @@
                 "game-development",
                 "game-programming"
               ],
-              "updated": "2026-07-25T13:48:44Z",
+              "updated": "2026-08-01T19:17:05Z",
               "pushed": "2026-07-07T19:10:59Z",
               "awesome": true,
               "path": [
@@ -57685,7 +57739,7 @@
           "parentId": "root-gaming-libgdx"
         }
       ],
-      "stars": 1265,
+      "stars": 1270,
       "forks": 83,
       "language": null,
       "license": "CC0-1.0",
@@ -57694,7 +57748,7 @@
         "awesome-list",
         "libgdx"
       ],
-      "updated": "2026-07-21T06:20:52Z",
+      "updated": "2026-07-29T14:11:49Z",
       "pushed": "2024-12-03T21:43:58Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -63873,7 +63927,7 @@
           "parentId": "root-gaming-playcanvas"
         }
       ],
-      "stars": 472,
+      "stars": 473,
       "forks": 61,
       "language": null,
       "license": "CC0-1.0",
@@ -63883,7 +63937,7 @@
         "playcanvas",
         "webgl"
       ],
-      "updated": "2026-07-23T23:23:16Z",
+      "updated": "2026-07-30T16:38:00Z",
       "pushed": "2026-07-22T09:55:03Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -70749,6 +70803,84 @@
               "parentId": "root-gaming-game-remakes-strategy"
             },
             {
+              "id": "root-gaming-game-remakes-strategy-dungeonkeeper",
+              "title": "DungeonKeeper",
+              "kind": "repo",
+              "repo": "kamikitte/dungeonkeeper",
+              "url": "https://github.com/kamikitte/dungeonkeeper",
+              "description": "Dungeon Keeper C#",
+              "external": false,
+              "sourceRepo": "radek-sprta/awesome-game-remakes",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Game Remakes",
+                "Strategy",
+                "DungeonKeeper"
+              ],
+              "parentId": "root-gaming-game-remakes-strategy"
+            },
+            {
+              "id": "root-gaming-game-remakes-strategy-dungeonkeeperreborn",
+              "title": "DungeonKeeperReborn",
+              "kind": "repo",
+              "repo": "joko1977-ui/dungeonkeeperreborn",
+              "url": "https://github.com/joko1977-ui/dungeonkeeperreborn",
+              "description": "Dungeon Keeper Reborn in TypeScript",
+              "external": false,
+              "sourceRepo": "radek-sprta/awesome-game-remakes",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Game Remakes",
+                "Strategy",
+                "DungeonKeeperReborn"
+              ],
+              "parentId": "root-gaming-game-remakes-strategy"
+            },
+            {
+              "id": "root-gaming-game-remakes-strategy-dungeon-keeper-remake",
+              "title": "Dungeon Keeper Remake",
+              "kind": "repo",
+              "repo": "themperror/dungeon-keeper-remake",
+              "url": "https://github.com/themperror/dungeon-keeper-remake",
+              "description": "A modern remake of Dungeon Keeper",
+              "external": false,
+              "sourceRepo": "radek-sprta/awesome-game-remakes",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Game Remakes",
+                "Strategy",
+                "Dungeon Keeper Remake"
+              ],
+              "parentId": "root-gaming-game-remakes-strategy"
+            },
+            {
               "id": "root-gaming-game-remakes-strategy-evolution-rts",
               "title": "Evolution-RTS",
               "kind": "repo",
@@ -70953,6 +71085,32 @@
                 "Game Remakes",
                 "Strategy",
                 "GeneralsGameCode"
+              ],
+              "parentId": "root-gaming-game-remakes-strategy"
+            },
+            {
+              "id": "root-gaming-game-remakes-strategy-glkeeper",
+              "title": "GLKeeper",
+              "kind": "repo",
+              "repo": "codenamecpp/glkeeper",
+              "url": "https://github.com/codenamecpp/glkeeper",
+              "description": "Open Source Dungeon Keeper 2 Reimplementation",
+              "external": false,
+              "sourceRepo": "radek-sprta/awesome-game-remakes",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Game Remakes",
+                "Strategy",
+                "GLKeeper"
               ],
               "parentId": "root-gaming-game-remakes-strategy"
             },
@@ -71239,6 +71397,32 @@
                 "Game Remakes",
                 "Strategy",
                 "KeeperFX"
+              ],
+              "parentId": "root-gaming-game-remakes-strategy"
+            },
+            {
+              "id": "root-gaming-game-remakes-strategy-keeperfx-linux-alpha",
+              "title": "keeperfx-linux-alpha",
+              "kind": "repo",
+              "repo": "forkedintime/keeperfx-linux-alpha",
+              "url": "https://github.com/forkedintime/keeperfx-linux-alpha",
+              "description": "KeeperFX — Tux Edition · the native Linux build of KeeperFX (Dungeon Keeper). No Wine/Proton/DOSBox — one AppImage. Unofficial, community-maintained, re-synced with upstream.",
+              "external": false,
+              "sourceRepo": "radek-sprta/awesome-game-remakes",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Game Remakes",
+                "Strategy",
+                "keeperfx-linux-alpha"
               ],
               "parentId": "root-gaming-game-remakes-strategy"
             },
@@ -71603,6 +71787,32 @@
                 "Game Remakes",
                 "Strategy",
                 "Open Fodder"
+              ],
+              "parentId": "root-gaming-game-remakes-strategy"
+            },
+            {
+              "id": "root-gaming-game-remakes-strategy-openkeeper",
+              "title": "OpenKeeper",
+              "kind": "repo",
+              "repo": "tonihele/openkeeper",
+              "url": "https://github.com/tonihele/openkeeper",
+              "description": "Dungeon Keeper II remake in Java.",
+              "external": false,
+              "sourceRepo": "radek-sprta/awesome-game-remakes",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Game Remakes",
+                "Strategy",
+                "OpenKeeper"
               ],
               "parentId": "root-gaming-game-remakes-strategy"
             },
@@ -72201,6 +72411,136 @@
                 "Game Remakes",
                 "Strategy",
                 "permafrost-engine"
+              ],
+              "parentId": "root-gaming-game-remakes-strategy"
+            },
+            {
+              "id": "root-gaming-game-remakes-strategy-populous-reincarnated",
+              "title": "Populous: Reincarnated",
+              "kind": "link",
+              "repo": "",
+              "url": "https://www.popre.net/",
+              "description": "Populous Reincarnated",
+              "external": true,
+              "sourceRepo": "radek-sprta/awesome-game-remakes",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Game Remakes",
+                "Strategy",
+                "Populous: Reincarnated"
+              ],
+              "parentId": "root-gaming-game-remakes-strategy"
+            },
+            {
+              "id": "root-gaming-game-remakes-strategy-populous-the-beginning",
+              "title": "Populous The Beginning",
+              "kind": "repo",
+              "repo": "tylerthefox/populous-the-beginning-public",
+              "url": "https://github.com/tylerthefox/populous-the-beginning-public",
+              "description": "Open Repository For A Bullfrog Productions Game",
+              "external": false,
+              "sourceRepo": "radek-sprta/awesome-game-remakes",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Game Remakes",
+                "Strategy",
+                "Populous The Beginning"
+              ],
+              "parentId": "root-gaming-game-remakes-strategy"
+            },
+            {
+              "id": "root-gaming-game-remakes-strategy-popre-bug-tracker",
+              "title": "PopRE Bug Tracker",
+              "kind": "link",
+              "repo": "",
+              "url": "https://www.populous3.info/bugs/my_view_page.php",
+              "description": "Populous The Beginning Reincarnated Open Source Bug Tracker",
+              "external": true,
+              "sourceRepo": "radek-sprta/awesome-game-remakes",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Game Remakes",
+                "Strategy",
+                "PopRE Bug Tracker"
+              ],
+              "parentId": "root-gaming-game-remakes-strategy"
+            },
+            {
+              "id": "root-gaming-game-remakes-strategy-populous-the-beginning-multiverse",
+              "title": "Populous The Beginning - Multiverse",
+              "kind": "link",
+              "repo": "",
+              "url": "https://thebeginning.uk/multiverse/",
+              "description": "Populouse Multiverse Launcher",
+              "external": true,
+              "sourceRepo": "radek-sprta/awesome-game-remakes",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Game Remakes",
+                "Strategy",
+                "Populous The Beginning - Multiverse"
+              ],
+              "parentId": "root-gaming-game-remakes-strategy"
+            },
+            {
+              "id": "root-gaming-game-remakes-strategy-popresourceeditor",
+              "title": "PopResourceEditor",
+              "kind": "repo",
+              "repo": "toksisitee/popresourceeditor",
+              "url": "https://github.com/toksisitee/popresourceeditor",
+              "description": "Open-source asset editor and manager written in C++ for Bullfrog's Populous: The Beginning game, designed to preview, modify, and generate the game assets.",
+              "external": false,
+              "sourceRepo": "radek-sprta/awesome-game-remakes",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Game Remakes",
+                "Strategy",
+                "PopResourceEditor"
               ],
               "parentId": "root-gaming-game-remakes-strategy"
             },
@@ -73208,7 +73548,7 @@
           "parentId": "root-gaming-game-remakes"
         }
       ],
-      "stars": 1411,
+      "stars": 1417,
       "forks": 69,
       "language": null,
       "license": "CC-BY-SA-4.0",
@@ -73220,8 +73560,8 @@
         "games",
         "remake"
       ],
-      "updated": "2026-07-24T20:32:38Z",
-      "pushed": "2026-07-22T07:46:41Z",
+      "updated": "2026-08-01T23:53:44Z",
+      "pushed": "2026-08-01T23:53:40Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -76827,7 +77167,7 @@
               "depth": 2,
               "children": [],
               "stars": 1372,
-              "forks": 117,
+              "forks": 116,
               "language": null,
               "license": "CC0-1.0",
               "topics": [
@@ -76862,7 +77202,7 @@
               "depth": 2,
               "children": [],
               "stars": 1372,
-              "forks": 117,
+              "forks": 116,
               "language": null,
               "license": "CC0-1.0",
               "topics": [
@@ -76902,7 +77242,7 @@
         }
       ],
       "stars": 1372,
-      "forks": 117,
+      "forks": 116,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -78939,8 +79279,8 @@
           "parentId": "root-gaming-discord-communities"
         }
       ],
-      "stars": 3555,
-      "forks": 219,
+      "stars": 3562,
+      "forks": 217,
       "language": "Python",
       "license": "CC-BY-4.0",
       "topics": [
@@ -78953,7 +79293,7 @@
         "game-development",
         "web"
       ],
-      "updated": "2026-07-26T01:02:11Z",
+      "updated": "2026-08-01T20:48:59Z",
       "pushed": "2026-04-25T19:09:39Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -80535,7 +80875,7 @@
           "parentId": "root-gaming-games-of-coding"
         }
       ],
-      "stars": 2128,
+      "stars": 2129,
       "forks": 105,
       "language": null,
       "license": "CC0-1.0",
@@ -80547,7 +80887,7 @@
         "programming-language",
         "robocode"
       ],
-      "updated": "2026-07-26T03:40:31Z",
+      "updated": "2026-07-29T01:47:21Z",
       "pushed": "2026-03-25T03:16:25Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -117001,8 +117341,8 @@
           "parentId": "root-gaming-game-engine-development"
         }
       ],
-      "stars": 1389,
-      "forks": 104,
+      "stars": 1391,
+      "forks": 105,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -117024,7 +117364,7 @@
         "shaders",
         "tools"
       ],
-      "updated": "2026-07-23T20:19:30Z",
+      "updated": "2026-08-01T09:13:09Z",
       "pushed": "2026-07-10T18:41:39Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -127459,7 +127799,7 @@
           "parentId": "root-gaming-gamemaker"
         }
       ],
-      "stars": 486,
+      "stars": 492,
       "forks": 35,
       "language": null,
       "license": "CC0-1.0",
@@ -127473,7 +127813,7 @@
         "gamemaker-studio-2",
         "games"
       ],
-      "updated": "2026-07-20T20:02:59Z",
+      "updated": "2026-07-31T14:11:32Z",
       "pushed": "2026-07-20T20:01:46Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -140936,7 +141276,7 @@
           "parentId": "root-gaming-roblox"
         }
       ],
-      "stars": 69,
+      "stars": 72,
       "forks": 7,
       "language": null,
       "license": "CC0-1.0",
@@ -140948,7 +141288,7 @@
         "luau",
         "roblox"
       ],
-      "updated": "2026-07-25T01:50:32Z",
+      "updated": "2026-08-01T19:06:35Z",
       "pushed": "2026-06-23T00:32:39Z",
       "awesome": true,
       "readmeStatus": "expanded",

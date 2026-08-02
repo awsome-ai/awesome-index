@@ -557,12 +557,12 @@
           "parentId": "root-development-environment-dev-env"
         }
       ],
-      "stars": 3319,
+      "stars": 3321,
       "forks": 204,
       "language": null,
       "license": null,
       "topics": [],
-      "updated": "2026-07-25T20:32:55Z",
+      "updated": "2026-08-01T14:36:04Z",
       "pushed": "2024-07-29T13:08:35Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -1412,8 +1412,8 @@
           "url": "https://github.com/webpro/awesome-dotfiles#tools",
           "children": [
             {
-              "id": "root-development-environment-dotfiles-tools-ansible-51",
-              "title": "[Ansible][51]",
+              "id": "root-development-environment-dotfiles-tools-ansible-53",
+              "title": "[Ansible][53]",
               "kind": "topic",
               "repo": "",
               "url": "",
@@ -1433,13 +1433,13 @@
               "path": [
                 "Dotfiles",
                 "Tools",
-                "[Ansible][51]"
+                "[Ansible][53]"
               ],
               "parentId": "root-development-environment-dotfiles-tools"
             },
             {
-              "id": "root-development-environment-dotfiles-tools-chezmoi-52",
-              "title": "[chezmoi][52]",
+              "id": "root-development-environment-dotfiles-tools-chezmoi-54",
+              "title": "[chezmoi][54]",
               "kind": "topic",
               "repo": "",
               "url": "",
@@ -1459,39 +1459,13 @@
               "path": [
                 "Dotfiles",
                 "Tools",
-                "[chezmoi][52]"
+                "[chezmoi][54]"
               ],
               "parentId": "root-development-environment-dotfiles-tools"
             },
             {
-              "id": "root-development-environment-dotfiles-tools-comtrya-53",
-              "title": "[comtrya][53]",
-              "kind": "topic",
-              "repo": "",
-              "url": "",
-              "description": "Configuration management for localhost, written in Rust, for Linux, BSD, macOS, and Windows.",
-              "external": false,
-              "sourceRepo": "webpro/awesome-dotfiles",
-              "depth": 2,
-              "children": [],
-              "stars": 0,
-              "forks": 0,
-              "language": null,
-              "license": null,
-              "topics": [],
-              "updated": null,
-              "pushed": null,
-              "awesome": false,
-              "path": [
-                "Dotfiles",
-                "Tools",
-                "[comtrya][53]"
-              ],
-              "parentId": "root-development-environment-dotfiles-tools"
-            },
-            {
-              "id": "root-development-environment-dotfiles-tools-dotbot-54",
-              "title": "[dotbot][54]",
+              "id": "root-development-environment-dotfiles-tools-dotbot-55",
+              "title": "[dotbot][55]",
               "kind": "topic",
               "repo": "",
               "url": "",
@@ -1511,13 +1485,13 @@
               "path": [
                 "Dotfiles",
                 "Tools",
-                "[dotbot][54]"
+                "[dotbot][55]"
               ],
               "parentId": "root-development-environment-dotfiles-tools"
             },
             {
-              "id": "root-development-environment-dotfiles-tools-dotdrop-55",
-              "title": "[dotdrop][55]",
+              "id": "root-development-environment-dotfiles-tools-dotdrop-56",
+              "title": "[dotdrop][56]",
               "kind": "topic",
               "repo": "",
               "url": "",
@@ -1537,13 +1511,65 @@
               "path": [
                 "Dotfiles",
                 "Tools",
-                "[dotdrop][55]"
+                "[dotdrop][56]"
               ],
               "parentId": "root-development-environment-dotfiles-tools"
             },
             {
-              "id": "root-development-environment-dotfiles-tools-dotter-56",
-              "title": "[dotter][56]",
+              "id": "root-development-environment-dotfiles-tools-dotly-57",
+              "title": "[dotly][57]",
+              "kind": "topic",
+              "repo": "",
+              "url": "",
+              "description": "Modular Zsh-based dotfiles framework for macOS, Linux, and WSL.",
+              "external": false,
+              "sourceRepo": "webpro/awesome-dotfiles",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Dotfiles",
+                "Tools",
+                "[dotly][57]"
+              ],
+              "parentId": "root-development-environment-dotfiles-tools"
+            },
+            {
+              "id": "root-development-environment-dotfiles-tools-dotstate-58",
+              "title": "[DotState][58]",
+              "kind": "topic",
+              "repo": "",
+              "url": "",
+              "description": "Git-backed dotfile manager with profiles, automatic backups, and an interactive terminal interface.",
+              "external": false,
+              "sourceRepo": "webpro/awesome-dotfiles",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Dotfiles",
+                "Tools",
+                "[DotState][58]"
+              ],
+              "parentId": "root-development-environment-dotfiles-tools"
+            },
+            {
+              "id": "root-development-environment-dotfiles-tools-dotter-59",
+              "title": "[dotter][59]",
               "kind": "topic",
               "repo": "",
               "url": "",
@@ -1563,13 +1589,13 @@
               "path": [
                 "Dotfiles",
                 "Tools",
-                "[dotter][56]"
+                "[dotter][59]"
               ],
               "parentId": "root-development-environment-dotfiles-tools"
             },
             {
-              "id": "root-development-environment-dotfiles-tools-dots-57",
-              "title": "[dots][57]",
+              "id": "root-development-environment-dotfiles-tools-dots-60",
+              "title": "[dots][60]",
               "kind": "topic",
               "repo": "",
               "url": "",
@@ -1589,13 +1615,13 @@
               "path": [
                 "Dotfiles",
                 "Tools",
-                "[dots][57]"
+                "[dots][60]"
               ],
               "parentId": "root-development-environment-dotfiles-tools"
             },
             {
-              "id": "root-development-environment-dotfiles-tools-fisher-58",
-              "title": "[Fisher][58]",
+              "id": "root-development-environment-dotfiles-tools-fisher-61",
+              "title": "[Fisher][61]",
               "kind": "topic",
               "repo": "",
               "url": "",
@@ -1615,13 +1641,13 @@
               "path": [
                 "Dotfiles",
                 "Tools",
-                "[Fisher][58]"
+                "[Fisher][61]"
               ],
               "parentId": "root-development-environment-dotfiles-tools"
             },
             {
-              "id": "root-development-environment-dotfiles-tools-fresh-59",
-              "title": "[fresh][59]",
+              "id": "root-development-environment-dotfiles-tools-fresh-62",
+              "title": "[fresh][62]",
               "kind": "topic",
               "repo": "",
               "url": "",
@@ -1641,13 +1667,13 @@
               "path": [
                 "Dotfiles",
                 "Tools",
-                "[fresh][59]"
+                "[fresh][62]"
               ],
               "parentId": "root-development-environment-dotfiles-tools"
             },
             {
-              "id": "root-development-environment-dotfiles-tools-gnu-stow-60",
-              "title": "[GNU Stow][60]",
+              "id": "root-development-environment-dotfiles-tools-gnu-stow-63",
+              "title": "[GNU Stow][63]",
               "kind": "topic",
               "repo": "",
               "url": "",
@@ -1667,13 +1693,13 @@
               "path": [
                 "Dotfiles",
                 "Tools",
-                "[GNU Stow][60]"
+                "[GNU Stow][63]"
               ],
               "parentId": "root-development-environment-dotfiles-tools"
             },
             {
-              "id": "root-development-environment-dotfiles-tools-home-manager-61",
-              "title": "[home-manager][61]",
+              "id": "root-development-environment-dotfiles-tools-home-manager-64",
+              "title": "[home-manager][64]",
               "kind": "topic",
               "repo": "",
               "url": "",
@@ -1693,13 +1719,13 @@
               "path": [
                 "Dotfiles",
                 "Tools",
-                "[home-manager][61]"
+                "[home-manager][64]"
               ],
               "parentId": "root-development-environment-dotfiles-tools"
             },
             {
-              "id": "root-development-environment-dotfiles-tools-homeshick-62",
-              "title": "[homeshick][62]",
+              "id": "root-development-environment-dotfiles-tools-homeshick-65",
+              "title": "[homeshick][65]",
               "kind": "topic",
               "repo": "",
               "url": "",
@@ -1719,13 +1745,39 @@
               "path": [
                 "Dotfiles",
                 "Tools",
-                "[homeshick][62]"
+                "[homeshick][65]"
               ],
               "parentId": "root-development-environment-dotfiles-tools"
             },
             {
-              "id": "root-development-environment-dotfiles-tools-lnk-63",
-              "title": "[lnk][63]",
+              "id": "root-development-environment-dotfiles-tools-homesick-66",
+              "title": "[homesick][66]",
+              "kind": "topic",
+              "repo": "",
+              "url": "",
+              "description": "Clone and manage Git-based dotfiles repositories with symlinks.",
+              "external": false,
+              "sourceRepo": "webpro/awesome-dotfiles",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Dotfiles",
+                "Tools",
+                "[homesick][66]"
+              ],
+              "parentId": "root-development-environment-dotfiles-tools"
+            },
+            {
+              "id": "root-development-environment-dotfiles-tools-lnk-67",
+              "title": "[lnk][67]",
               "kind": "topic",
               "repo": "",
               "url": "",
@@ -1745,13 +1797,13 @@
               "path": [
                 "Dotfiles",
                 "Tools",
-                "[lnk][63]"
+                "[lnk][67]"
               ],
               "parentId": "root-development-environment-dotfiles-tools"
             },
             {
-              "id": "root-development-environment-dotfiles-tools-mackup-64",
-              "title": "[mackup][64]",
+              "id": "root-development-environment-dotfiles-tools-mackup-68",
+              "title": "[mackup][68]",
               "kind": "topic",
               "repo": "",
               "url": "",
@@ -1771,13 +1823,13 @@
               "path": [
                 "Dotfiles",
                 "Tools",
-                "[mackup][64]"
+                "[mackup][68]"
               ],
               "parentId": "root-development-environment-dotfiles-tools"
             },
             {
-              "id": "root-development-environment-dotfiles-tools-openboot-65",
-              "title": "[OpenBoot][65]",
+              "id": "root-development-environment-dotfiles-tools-openboot-69",
+              "title": "[OpenBoot][69]",
               "kind": "topic",
               "repo": "",
               "url": "",
@@ -1797,7 +1849,7 @@
               "path": [
                 "Dotfiles",
                 "Tools",
-                "[OpenBoot][65]"
+                "[OpenBoot][69]"
               ],
               "parentId": "root-development-environment-dotfiles-tools"
             },
@@ -1828,8 +1880,8 @@
               "parentId": "root-development-environment-dotfiles-tools"
             },
             {
-              "id": "root-development-environment-dotfiles-tools-rotz-66",
-              "title": "[rotz][66]",
+              "id": "root-development-environment-dotfiles-tools-rotz-70",
+              "title": "[rotz][70]",
               "kind": "topic",
               "repo": "",
               "url": "",
@@ -1849,13 +1901,13 @@
               "path": [
                 "Dotfiles",
                 "Tools",
-                "[rotz][66]"
+                "[rotz][70]"
               ],
               "parentId": "root-development-environment-dotfiles-tools"
             },
             {
-              "id": "root-development-environment-dotfiles-tools-themer-67",
-              "title": "[themer][67]",
+              "id": "root-development-environment-dotfiles-tools-themer-71",
+              "title": "[themer][71]",
               "kind": "topic",
               "repo": "",
               "url": "",
@@ -1875,13 +1927,13 @@
               "path": [
                 "Dotfiles",
                 "Tools",
-                "[themer][67]"
+                "[themer][71]"
               ],
               "parentId": "root-development-environment-dotfiles-tools"
             },
             {
-              "id": "root-development-environment-dotfiles-tools-toml-bombadil-68",
-              "title": "[toml-bombadil][68]",
+              "id": "root-development-environment-dotfiles-tools-toml-bombadil-72",
+              "title": "[toml-bombadil][72]",
               "kind": "topic",
               "repo": "",
               "url": "",
@@ -1901,13 +1953,39 @@
               "path": [
                 "Dotfiles",
                 "Tools",
-                "[toml-bombadil][68]"
+                "[toml-bombadil][72]"
               ],
               "parentId": "root-development-environment-dotfiles-tools"
             },
             {
-              "id": "root-development-environment-dotfiles-tools-xdg-ninja-69",
-              "title": "[xdg-ninja][69]",
+              "id": "root-development-environment-dotfiles-tools-tuckr-73",
+              "title": "[Tuckr][73]",
+              "kind": "topic",
+              "repo": "",
+              "url": "",
+              "description": "Cross-platform, Stow-style dotfile manager with groups, hooks, and deployment validation.",
+              "external": false,
+              "sourceRepo": "webpro/awesome-dotfiles",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Dotfiles",
+                "Tools",
+                "[Tuckr][73]"
+              ],
+              "parentId": "root-development-environment-dotfiles-tools"
+            },
+            {
+              "id": "root-development-environment-dotfiles-tools-xdg-ninja-74",
+              "title": "[xdg-ninja][74]",
               "kind": "topic",
               "repo": "",
               "url": "",
@@ -1927,13 +2005,13 @@
               "path": [
                 "Dotfiles",
                 "Tools",
-                "[xdg-ninja][69]"
+                "[xdg-ninja][74]"
               ],
               "parentId": "root-development-environment-dotfiles-tools"
             },
             {
-              "id": "root-development-environment-dotfiles-tools-yadm-70",
-              "title": "[yadm][70]",
+              "id": "root-development-environment-dotfiles-tools-yadm-75",
+              "title": "[yadm][75]",
               "kind": "topic",
               "repo": "",
               "url": "",
@@ -1953,13 +2031,13 @@
               "path": [
                 "Dotfiles",
                 "Tools",
-                "[yadm][70]"
+                "[yadm][75]"
               ],
               "parentId": "root-development-environment-dotfiles-tools"
             },
             {
-              "id": "root-development-environment-dotfiles-tools-yolk-71",
-              "title": "[yolk][71]",
+              "id": "root-development-environment-dotfiles-tools-yolk-76",
+              "title": "[yolk][76]",
               "kind": "topic",
               "repo": "",
               "url": "",
@@ -1979,7 +2057,7 @@
               "path": [
                 "Dotfiles",
                 "Tools",
-                "[yolk][71]"
+                "[yolk][76]"
               ],
               "parentId": "root-development-environment-dotfiles-tools"
             },
@@ -1992,8 +2070,8 @@
               "url": "https://github.com/webpro/awesome-dotfiles#macos",
               "children": [
                 {
-                  "id": "root-development-environment-dotfiles-tools-macos-dockutil-72",
-                  "title": "[dockutil][72]",
+                  "id": "root-development-environment-dotfiles-tools-macos-dockutil-77",
+                  "title": "[dockutil][77]",
                   "kind": "topic",
                   "repo": "",
                   "url": "",
@@ -2014,13 +2092,13 @@
                     "Dotfiles",
                     "Tools",
                     "macOS",
-                    "[dockutil][72]"
+                    "[dockutil][77]"
                   ],
                   "parentId": "root-development-environment-dotfiles-tools-macos"
                 },
                 {
-                  "id": "root-development-environment-dotfiles-tools-macos-mas-73",
-                  "title": "[mas][73]",
+                  "id": "root-development-environment-dotfiles-tools-macos-mas-78",
+                  "title": "[mas][78]",
                   "kind": "topic",
                   "repo": "",
                   "url": "",
@@ -2041,7 +2119,7 @@
                     "Dotfiles",
                     "Tools",
                     "macOS",
-                    "[mas][73]"
+                    "[mas][78]"
                   ],
                   "parentId": "root-development-environment-dotfiles-tools-macos"
                 }
@@ -2085,8 +2163,8 @@
           "url": "https://github.com/webpro/awesome-dotfiles#miscellaneous",
           "children": [
             {
-              "id": "root-development-environment-dotfiles-miscellaneous-dotfiles-github-io-74",
-              "title": "[dotfiles.github.io][74]",
+              "id": "root-development-environment-dotfiles-miscellaneous-dotfiles-github-io-79",
+              "title": "[dotfiles.github.io][79]",
               "kind": "topic",
               "repo": "",
               "url": "",
@@ -2106,13 +2184,13 @@
               "path": [
                 "Dotfiles",
                 "Miscellaneous",
-                "[dotfiles.github.io][74]"
+                "[dotfiles.github.io][79]"
               ],
               "parentId": "root-development-environment-dotfiles-miscellaneous"
             },
             {
-              "id": "root-development-environment-dotfiles-miscellaneous-filesystem-hierarchy-standard-75",
-              "title": "[Filesystem Hierarchy Standard][75]",
+              "id": "root-development-environment-dotfiles-miscellaneous-filesystem-hierarchy-standard-80",
+              "title": "[Filesystem Hierarchy Standard][80]",
               "kind": "topic",
               "repo": "",
               "url": "",
@@ -2132,17 +2210,17 @@
               "path": [
                 "Dotfiles",
                 "Miscellaneous",
-                "[Filesystem Hierarchy Standard][75]"
+                "[Filesystem Hierarchy Standard][80]"
               ],
               "parentId": "root-development-environment-dotfiles-miscellaneous"
             },
             {
-              "id": "root-development-environment-dotfiles-miscellaneous-xdg-base-directory-specification-76",
-              "title": "[XDG Base Directory Specification][76]",
+              "id": "root-development-environment-dotfiles-miscellaneous-xdg-base-directory-specification-81",
+              "title": "[XDG Base Directory Specification][81]",
               "kind": "topic",
               "repo": "",
               "url": "",
-              "description": "[Summary][77]",
+              "description": "[Summary][82]",
               "external": false,
               "sourceRepo": "webpro/awesome-dotfiles",
               "depth": 2,
@@ -2158,13 +2236,13 @@
               "path": [
                 "Dotfiles",
                 "Miscellaneous",
-                "[XDG Base Directory Specification][76]"
+                "[XDG Base Directory Specification][81]"
               ],
               "parentId": "root-development-environment-dotfiles-miscellaneous"
             },
             {
-              "id": "root-development-environment-dotfiles-miscellaneous-a-lesson-in-shortcuts-78",
-              "title": "[A lesson in shortcuts][78]",
+              "id": "root-development-environment-dotfiles-miscellaneous-a-lesson-in-shortcuts-83",
+              "title": "[A lesson in shortcuts][83]",
               "kind": "topic",
               "repo": "",
               "url": "",
@@ -2184,7 +2262,7 @@
               "path": [
                 "Dotfiles",
                 "Miscellaneous",
-                "[A lesson in shortcuts][78]"
+                "[A lesson in shortcuts][83]"
               ],
               "parentId": "root-development-environment-dotfiles-miscellaneous"
             }
@@ -2212,8 +2290,8 @@
           "url": "https://github.com/webpro/awesome-dotfiles#related-lists",
           "children": [
             {
-              "id": "root-development-environment-dotfiles-related-lists-awesome-dev-env-79",
-              "title": "[Awesome Dev Env][79]",
+              "id": "root-development-environment-dotfiles-related-lists-awesome-dev-env-84",
+              "title": "[Awesome Dev Env][84]",
               "kind": "topic",
               "repo": "",
               "url": "",
@@ -2233,13 +2311,13 @@
               "path": [
                 "Dotfiles",
                 "Related Lists",
-                "[Awesome Dev Env][79]"
+                "[Awesome Dev Env][84]"
               ],
               "parentId": "root-development-environment-dotfiles-related-lists"
             },
             {
-              "id": "root-development-environment-dotfiles-related-lists-awesome-fish-80",
-              "title": "[Awesome Fish][80]",
+              "id": "root-development-environment-dotfiles-related-lists-awesome-fish-85",
+              "title": "[Awesome Fish][85]",
               "kind": "topic",
               "repo": "",
               "url": "",
@@ -2259,13 +2337,13 @@
               "path": [
                 "Dotfiles",
                 "Related Lists",
-                "[Awesome Fish][80]"
+                "[Awesome Fish][85]"
               ],
               "parentId": "root-development-environment-dotfiles-related-lists"
             },
             {
-              "id": "root-development-environment-dotfiles-related-lists-awesome-shell-81",
-              "title": "[Awesome Shell][81]",
+              "id": "root-development-environment-dotfiles-related-lists-awesome-shell-86",
+              "title": "[Awesome Shell][86]",
               "kind": "topic",
               "repo": "",
               "url": "",
@@ -2285,13 +2363,13 @@
               "path": [
                 "Dotfiles",
                 "Related Lists",
-                "[Awesome Shell][81]"
+                "[Awesome Shell][86]"
               ],
               "parentId": "root-development-environment-dotfiles-related-lists"
             },
             {
-              "id": "root-development-environment-dotfiles-related-lists-awesome-sysadmin-82",
-              "title": "[Awesome Sysadmin][82]",
+              "id": "root-development-environment-dotfiles-related-lists-awesome-sysadmin-87",
+              "title": "[Awesome Sysadmin][87]",
               "kind": "topic",
               "repo": "",
               "url": "",
@@ -2311,13 +2389,13 @@
               "path": [
                 "Dotfiles",
                 "Related Lists",
-                "[Awesome Sysadmin][82]"
+                "[Awesome Sysadmin][87]"
               ],
               "parentId": "root-development-environment-dotfiles-related-lists"
             },
             {
-              "id": "root-development-environment-dotfiles-related-lists-awesome-zsh-plugins-83",
-              "title": "[Awesome Zsh Plugins][83]",
+              "id": "root-development-environment-dotfiles-related-lists-awesome-zsh-plugins-88",
+              "title": "[Awesome Zsh Plugins][88]",
               "kind": "topic",
               "repo": "",
               "url": "",
@@ -2337,13 +2415,13 @@
               "path": [
                 "Dotfiles",
                 "Related Lists",
-                "[Awesome Zsh Plugins][83]"
+                "[Awesome Zsh Plugins][88]"
               ],
               "parentId": "root-development-environment-dotfiles-related-lists"
             },
             {
-              "id": "root-development-environment-dotfiles-related-lists-terminals-are-sexy-84",
-              "title": "[Terminals Are Sexy][84]",
+              "id": "root-development-environment-dotfiles-related-lists-terminals-are-sexy-89",
+              "title": "[Terminals Are Sexy][89]",
               "kind": "topic",
               "repo": "",
               "url": "",
@@ -2363,7 +2441,7 @@
               "path": [
                 "Dotfiles",
                 "Related Lists",
-                "[Terminals Are Sexy][84]"
+                "[Terminals Are Sexy][89]"
               ],
               "parentId": "root-development-environment-dotfiles-related-lists"
             }
@@ -2391,8 +2469,8 @@
           "url": "https://github.com/webpro/awesome-dotfiles#archive-abandoned-projects",
           "children": [
             {
-              "id": "root-development-environment-dotfiles-archive-abandoned-projects-antigen-85",
-              "title": "[antigen][85]",
+              "id": "root-development-environment-dotfiles-archive-abandoned-projects-antigen-90",
+              "title": "[antigen][90]",
               "kind": "topic",
               "repo": "",
               "url": "",
@@ -2412,13 +2490,13 @@
               "path": [
                 "Dotfiles",
                 "Archive/abandoned projects",
-                "[antigen][85]"
+                "[antigen][90]"
               ],
               "parentId": "root-development-environment-dotfiles-archive-abandoned-projects"
             },
             {
-              "id": "root-development-environment-dotfiles-archive-abandoned-projects-bashdot-86",
-              "title": "[bashdot][86]",
+              "id": "root-development-environment-dotfiles-archive-abandoned-projects-bashdot-91",
+              "title": "[bashdot][91]",
               "kind": "topic",
               "repo": "",
               "url": "",
@@ -2438,13 +2516,13 @@
               "path": [
                 "Dotfiles",
                 "Archive/abandoned projects",
-                "[bashdot][86]"
+                "[bashdot][91]"
               ],
               "parentId": "root-development-environment-dotfiles-archive-abandoned-projects"
             },
             {
-              "id": "root-development-environment-dotfiles-archive-abandoned-projects-bashstrap-87",
-              "title": "[Bashstrap][87]",
+              "id": "root-development-environment-dotfiles-archive-abandoned-projects-bashstrap-92",
+              "title": "[Bashstrap][92]",
               "kind": "topic",
               "repo": "",
               "url": "",
@@ -2464,13 +2542,13 @@
               "path": [
                 "Dotfiles",
                 "Archive/abandoned projects",
-                "[Bashstrap][87]"
+                "[Bashstrap][92]"
               ],
               "parentId": "root-development-environment-dotfiles-archive-abandoned-projects"
             },
             {
-              "id": "root-development-environment-dotfiles-archive-abandoned-projects-battleschool-88",
-              "title": "[battleschool][88]",
+              "id": "root-development-environment-dotfiles-archive-abandoned-projects-battleschool-93",
+              "title": "[battleschool][93]",
               "kind": "topic",
               "repo": "",
               "url": "",
@@ -2490,13 +2568,13 @@
               "path": [
                 "Dotfiles",
                 "Archive/abandoned projects",
-                "[battleschool][88]"
+                "[battleschool][93]"
               ],
               "parentId": "root-development-environment-dotfiles-archive-abandoned-projects"
             },
             {
-              "id": "root-development-environment-dotfiles-archive-abandoned-projects-bork-89",
-              "title": "[Bork][89]",
+              "id": "root-development-environment-dotfiles-archive-abandoned-projects-bork-94",
+              "title": "[Bork][94]",
               "kind": "topic",
               "repo": "",
               "url": "",
@@ -2516,13 +2594,13 @@
               "path": [
                 "Dotfiles",
                 "Archive/abandoned projects",
-                "[Bork][89]"
+                "[Bork][94]"
               ],
               "parentId": "root-development-environment-dotfiles-archive-abandoned-projects"
             },
             {
-              "id": "root-development-environment-dotfiles-archive-abandoned-projects-cider-90",
-              "title": "[Cider][90]",
+              "id": "root-development-environment-dotfiles-archive-abandoned-projects-cider-95",
+              "title": "[Cider][95]",
               "kind": "topic",
               "repo": "",
               "url": "",
@@ -2542,13 +2620,13 @@
               "path": [
                 "Dotfiles",
                 "Archive/abandoned projects",
-                "[Cider][90]"
+                "[Cider][95]"
               ],
               "parentId": "root-development-environment-dotfiles-archive-abandoned-projects"
             },
             {
-              "id": "root-development-environment-dotfiles-archive-abandoned-projects-dev-setup-91",
-              "title": "[dev-setup][91]",
+              "id": "root-development-environment-dotfiles-archive-abandoned-projects-dev-setup-96",
+              "title": "[dev-setup][96]",
               "kind": "topic",
               "repo": "",
               "url": "",
@@ -2568,13 +2646,13 @@
               "path": [
                 "Dotfiles",
                 "Archive/abandoned projects",
-                "[dev-setup][91]"
+                "[dev-setup][96]"
               ],
               "parentId": "root-development-environment-dotfiles-archive-abandoned-projects"
             },
             {
-              "id": "root-development-environment-dotfiles-archive-abandoned-projects-dotbare-92",
-              "title": "[dotbare][92]",
+              "id": "root-development-environment-dotfiles-archive-abandoned-projects-dotbare-97",
+              "title": "[dotbare][97]",
               "kind": "topic",
               "repo": "",
               "url": "",
@@ -2594,13 +2672,13 @@
               "path": [
                 "Dotfiles",
                 "Archive/abandoned projects",
-                "[dotbare][92]"
+                "[dotbare][97]"
               ],
               "parentId": "root-development-environment-dotfiles-archive-abandoned-projects"
             },
             {
-              "id": "root-development-environment-dotfiles-archive-abandoned-projects-dotfiles-93",
-              "title": "[dotfiles][93]",
+              "id": "root-development-environment-dotfiles-archive-abandoned-projects-dotfiles-98",
+              "title": "[dotfiles][98]",
               "kind": "topic",
               "repo": "",
               "url": "",
@@ -2620,13 +2698,13 @@
               "path": [
                 "Dotfiles",
                 "Archive/abandoned projects",
-                "[dotfiles][93]"
+                "[dotfiles][98]"
               ],
               "parentId": "root-development-environment-dotfiles-archive-abandoned-projects"
             },
             {
-              "id": "root-development-environment-dotfiles-archive-abandoned-projects-dotstow-94",
-              "title": "[dotstow][94]",
+              "id": "root-development-environment-dotfiles-archive-abandoned-projects-dotstow-99",
+              "title": "[dotstow][99]",
               "kind": "topic",
               "repo": "",
               "url": "",
@@ -2646,13 +2724,13 @@
               "path": [
                 "Dotfiles",
                 "Archive/abandoned projects",
-                "[dotstow][94]"
+                "[dotstow][99]"
               ],
               "parentId": "root-development-environment-dotfiles-archive-abandoned-projects"
             },
             {
-              "id": "root-development-environment-dotfiles-archive-abandoned-projects-eduardo-s-dotfiles-95",
-              "title": "[Eduardo's dotfiles][95]",
+              "id": "root-development-environment-dotfiles-archive-abandoned-projects-eduardo-s-dotfiles-100",
+              "title": "[Eduardo's dotfiles][100]",
               "kind": "topic",
               "repo": "",
               "url": "",
@@ -2672,13 +2750,13 @@
               "path": [
                 "Dotfiles",
                 "Archive/abandoned projects",
-                "[Eduardo's dotfiles][95]"
+                "[Eduardo's dotfiles][100]"
               ],
               "parentId": "root-development-environment-dotfiles-archive-abandoned-projects"
             },
             {
-              "id": "root-development-environment-dotfiles-archive-abandoned-projects-ellipsis-96",
-              "title": "[ellipsis][96]",
+              "id": "root-development-environment-dotfiles-archive-abandoned-projects-ellipsis-101",
+              "title": "[ellipsis][101]",
               "kind": "topic",
               "repo": "",
               "url": "",
@@ -2698,13 +2776,13 @@
               "path": [
                 "Dotfiles",
                 "Archive/abandoned projects",
-                "[ellipsis][96]"
+                "[ellipsis][101]"
               ],
               "parentId": "root-development-environment-dotfiles-archive-abandoned-projects"
             },
             {
-              "id": "root-development-environment-dotfiles-archive-abandoned-projects-emplace-97",
-              "title": "[emplace][97]",
+              "id": "root-development-environment-dotfiles-archive-abandoned-projects-emplace-102",
+              "title": "[emplace][102]",
               "kind": "topic",
               "repo": "",
               "url": "",
@@ -2724,13 +2802,13 @@
               "path": [
                 "Dotfiles",
                 "Archive/abandoned projects",
-                "[emplace][97]"
+                "[emplace][102]"
               ],
               "parentId": "root-development-environment-dotfiles-archive-abandoned-projects"
             },
             {
-              "id": "root-development-environment-dotfiles-archive-abandoned-projects-holman-does-dotfiles-98",
-              "title": "[holman does dotfiles][98]",
+              "id": "root-development-environment-dotfiles-archive-abandoned-projects-kody-103",
+              "title": "[kody][103]",
               "kind": "topic",
               "repo": "",
               "url": "",
@@ -2750,13 +2828,13 @@
               "path": [
                 "Dotfiles",
                 "Archive/abandoned projects",
-                "[holman does dotfiles][98]"
+                "[kody][103]"
               ],
               "parentId": "root-development-environment-dotfiles-archive-abandoned-projects"
             },
             {
-              "id": "root-development-environment-dotfiles-archive-abandoned-projects-homesick-99",
-              "title": "[homesick][99]",
+              "id": "root-development-environment-dotfiles-archive-abandoned-projects-macos-defaults-104",
+              "title": "[macOS Defaults][104]",
               "kind": "topic",
               "repo": "",
               "url": "",
@@ -2776,13 +2854,13 @@
               "path": [
                 "Dotfiles",
                 "Archive/abandoned projects",
-                "[homesick][99]"
+                "[macOS Defaults][104]"
               ],
               "parentId": "root-development-environment-dotfiles-archive-abandoned-projects"
             },
             {
-              "id": "root-development-environment-dotfiles-archive-abandoned-projects-kevin-s-dotfiles-100",
-              "title": "[Kevin's dotfiles][100]",
+              "id": "root-development-environment-dotfiles-archive-abandoned-projects-osxc-105",
+              "title": "[osxc][105]",
               "kind": "topic",
               "repo": "",
               "url": "",
@@ -2802,13 +2880,13 @@
               "path": [
                 "Dotfiles",
                 "Archive/abandoned projects",
-                "[Kevin's dotfiles][100]"
+                "[osxc][105]"
               ],
               "parentId": "root-development-environment-dotfiles-archive-abandoned-projects"
             },
             {
-              "id": "root-development-environment-dotfiles-archive-abandoned-projects-kody-101",
-              "title": "[kody][101]",
+              "id": "root-development-environment-dotfiles-archive-abandoned-projects-pearl-106",
+              "title": "[Pearl][106]",
               "kind": "topic",
               "repo": "",
               "url": "",
@@ -2828,13 +2906,13 @@
               "path": [
                 "Dotfiles",
                 "Archive/abandoned projects",
-                "[kody][101]"
+                "[Pearl][106]"
               ],
               "parentId": "root-development-environment-dotfiles-archive-abandoned-projects"
             },
             {
-              "id": "root-development-environment-dotfiles-archive-abandoned-projects-macos-defaults-102",
-              "title": "[macOS Defaults][102]",
+              "id": "root-development-environment-dotfiles-archive-abandoned-projects-rkalis-s-dotfiles-107",
+              "title": "[rkalis's dotfiles][107]",
               "kind": "topic",
               "repo": "",
               "url": "",
@@ -2854,13 +2932,13 @@
               "path": [
                 "Dotfiles",
                 "Archive/abandoned projects",
-                "[macOS Defaults][102]"
+                "[rkalis's dotfiles][107]"
               ],
               "parentId": "root-development-environment-dotfiles-archive-abandoned-projects"
             },
             {
-              "id": "root-development-environment-dotfiles-archive-abandoned-projects-osxc-103",
-              "title": "[osxc][103]",
+              "id": "root-development-environment-dotfiles-archive-abandoned-projects-vcsh-108-article-109-article-110",
+              "title": "[vcsh][108] ([article][109], [article][110])",
               "kind": "topic",
               "repo": "",
               "url": "",
@@ -2880,13 +2958,13 @@
               "path": [
                 "Dotfiles",
                 "Archive/abandoned projects",
-                "[osxc][103]"
+                "[vcsh][108] ([article][109], [article][110])"
               ],
               "parentId": "root-development-environment-dotfiles-archive-abandoned-projects"
             },
             {
-              "id": "root-development-environment-dotfiles-archive-abandoned-projects-pearl-104",
-              "title": "[Pearl][104]",
+              "id": "root-development-environment-dotfiles-archive-abandoned-projects-yadr-111",
+              "title": "[YADR][111]",
               "kind": "topic",
               "repo": "",
               "url": "",
@@ -2906,13 +2984,13 @@
               "path": [
                 "Dotfiles",
                 "Archive/abandoned projects",
-                "[Pearl][104]"
+                "[YADR][111]"
               ],
               "parentId": "root-development-environment-dotfiles-archive-abandoned-projects"
             },
             {
-              "id": "root-development-environment-dotfiles-archive-abandoned-projects-rkalis-s-dotfiles-105",
-              "title": "[rkalis's dotfiles][105]",
+              "id": "root-development-environment-dotfiles-archive-abandoned-projects-zero-sh-112",
+              "title": "[Zero.sh][112]",
               "kind": "topic",
               "repo": "",
               "url": "",
@@ -2932,85 +3010,7 @@
               "path": [
                 "Dotfiles",
                 "Archive/abandoned projects",
-                "[rkalis's dotfiles][105]"
-              ],
-              "parentId": "root-development-environment-dotfiles-archive-abandoned-projects"
-            },
-            {
-              "id": "root-development-environment-dotfiles-archive-abandoned-projects-vcsh-106-article-107-article-108",
-              "title": "[vcsh][106] ([article][107], [article][108])",
-              "kind": "topic",
-              "repo": "",
-              "url": "",
-              "description": "",
-              "external": false,
-              "sourceRepo": "webpro/awesome-dotfiles",
-              "depth": 2,
-              "children": [],
-              "stars": 0,
-              "forks": 0,
-              "language": null,
-              "license": null,
-              "topics": [],
-              "updated": null,
-              "pushed": null,
-              "awesome": false,
-              "path": [
-                "Dotfiles",
-                "Archive/abandoned projects",
-                "[vcsh][106] ([article][107], [article][108])"
-              ],
-              "parentId": "root-development-environment-dotfiles-archive-abandoned-projects"
-            },
-            {
-              "id": "root-development-environment-dotfiles-archive-abandoned-projects-yadr-109",
-              "title": "[YADR][109]",
-              "kind": "topic",
-              "repo": "",
-              "url": "",
-              "description": "",
-              "external": false,
-              "sourceRepo": "webpro/awesome-dotfiles",
-              "depth": 2,
-              "children": [],
-              "stars": 0,
-              "forks": 0,
-              "language": null,
-              "license": null,
-              "topics": [],
-              "updated": null,
-              "pushed": null,
-              "awesome": false,
-              "path": [
-                "Dotfiles",
-                "Archive/abandoned projects",
-                "[YADR][109]"
-              ],
-              "parentId": "root-development-environment-dotfiles-archive-abandoned-projects"
-            },
-            {
-              "id": "root-development-environment-dotfiles-archive-abandoned-projects-zero-sh-110",
-              "title": "[Zero.sh][110]",
-              "kind": "topic",
-              "repo": "",
-              "url": "",
-              "description": "",
-              "external": false,
-              "sourceRepo": "webpro/awesome-dotfiles",
-              "depth": 2,
-              "children": [],
-              "stars": 0,
-              "forks": 0,
-              "language": null,
-              "license": null,
-              "topics": [],
-              "updated": null,
-              "pushed": null,
-              "awesome": false,
-              "path": [
-                "Dotfiles",
-                "Archive/abandoned projects",
-                "[Zero.sh][110]"
+                "[Zero.sh][112]"
               ],
               "parentId": "root-development-environment-dotfiles-archive-abandoned-projects"
             }
@@ -3030,8 +3030,8 @@
           "parentId": "root-development-environment-dotfiles"
         }
       ],
-      "stars": 10771,
-      "forks": 371,
+      "stars": 10777,
+      "forks": 370,
       "language": null,
       "license": null,
       "topics": [
@@ -3046,8 +3046,8 @@
         "tools",
         "zsh"
       ],
-      "updated": "2026-07-25T21:57:41Z",
-      "pushed": "2026-06-30T07:21:56Z",
+      "updated": "2026-08-01T21:15:57Z",
+      "pushed": "2026-07-26T07:05:04Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -3381,8 +3381,8 @@
           "parentId": "root-development-environment-shell"
         }
       ],
-      "stars": 37333,
-      "forks": 2552,
+      "stars": 37378,
+      "forks": 2554,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -3395,7 +3395,7 @@
         "shell",
         "zsh"
       ],
-      "updated": "2026-07-26T03:28:16Z",
+      "updated": "2026-08-02T01:55:15Z",
       "pushed": "2025-08-28T14:40:51Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -4016,6 +4016,33 @@
                     "Entertainment",
                     "Music",
                     "ytm-player"
+                  ],
+                  "parentId": "root-development-environment-command-line-apps-entertainment-music"
+                },
+                {
+                  "id": "root-development-environment-command-line-apps-entertainment-music-tunein-cli",
+                  "title": "tunein-cli",
+                  "kind": "repo",
+                  "repo": "tsirysndr/tunein-cli",
+                  "url": "https://github.com/tsirysndr/tunein-cli",
+                  "description": "TuneIn and Radio Browser client.",
+                  "external": false,
+                  "sourceRepo": "agarrharr/awesome-cli-apps",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Command-Line Apps",
+                    "Entertainment",
+                    "Music",
+                    "tunein-cli"
                   ],
                   "parentId": "root-development-environment-command-line-apps-entertainment-music"
                 }
@@ -16256,6 +16283,33 @@
                     "reflex"
                   ],
                   "parentId": "root-development-environment-command-line-apps-files-and-directories-search"
+                },
+                {
+                  "id": "root-development-environment-command-line-apps-files-and-directories-search-vexor",
+                  "title": "Vexor",
+                  "kind": "repo",
+                  "repo": "scarletkc/vexor",
+                  "url": "https://github.com/scarletkc/vexor",
+                  "description": "A semantic search engine for files and code.",
+                  "external": false,
+                  "sourceRepo": "agarrharr/awesome-cli-apps",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Command-Line Apps",
+                    "Files and Directories",
+                    "Search",
+                    "Vexor"
+                  ],
+                  "parentId": "root-development-environment-command-line-apps-files-and-directories-search"
                 }
               ],
               "stars": 0,
@@ -19067,8 +19121,8 @@
               "sourceRepo": "agarrharr/awesome-cli-apps",
               "depth": 2,
               "children": [],
-              "stars": 2561,
-              "forks": 242,
+              "stars": 2565,
+              "forks": 249,
               "language": "Python",
               "license": null,
               "topics": [
@@ -19084,8 +19138,8 @@
                 "terminal-based",
                 "tui"
               ],
-              "updated": "2026-07-25T19:04:45Z",
-              "pushed": "2026-07-21T09:43:34Z",
+              "updated": "2026-07-31T14:55:50Z",
+              "pushed": "2026-07-29T20:15:17Z",
               "awesome": true,
               "path": [
                 "Command-Line Apps",
@@ -19253,7 +19307,7 @@
                 "lists",
                 "resources"
               ],
-              "updated": "2026-07-25T16:33:15Z",
+              "updated": "2026-08-01T12:37:28Z",
               "pushed": "2024-10-15T07:18:48Z",
               "awesome": true,
               "path": [
@@ -19305,8 +19359,8 @@
           "parentId": "root-development-environment-command-line-apps"
         }
       ],
-      "stars": 20026,
-      "forks": 1450,
+      "stars": 20072,
+      "forks": 1456,
       "language": "Shell",
       "license": null,
       "topics": [
@@ -19316,8 +19370,8 @@
         "cli-app",
         "list"
       ],
-      "updated": "2026-07-26T03:44:49Z",
-      "pushed": "2026-07-22T12:20:04Z",
+      "updated": "2026-08-02T05:27:45Z",
+      "pushed": "2026-07-28T15:57:30Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -24649,7 +24703,7 @@
               "language": "Shell",
               "license": "MIT",
               "topics": [],
-              "updated": "2026-07-22T21:47:23Z",
+              "updated": "2026-07-29T06:15:35Z",
               "pushed": "2024-01-16T06:56:48Z",
               "awesome": true,
               "path": [
@@ -56885,7 +56939,7 @@
               "kind": "repo",
               "repo": "1160054/claude-code-zsh-completion",
               "url": "https://github.com/1160054/claude-code-zsh-completion",
-              "description": "Adds completions for Anthropic's Claude Code CLI with support for 120+ languages. Includes dynamic completion for MCP servers, plugins, and session IDs.",
+              "description": "Adds completions for Anthropic's Claude Code CLI. Sessions, MCP servers, agents, models and plugins are completed from your own configuration rather than a fixed list, and --resume labels each session with its first prompt. Localized into 120+ languages.",
               "external": false,
               "sourceRepo": "unixorn/awesome-zsh-plugins",
               "depth": 2,
@@ -89831,7 +89885,7 @@
               "language": "Shell",
               "license": "MIT",
               "topics": [],
-              "updated": "2026-07-22T21:47:23Z",
+              "updated": "2026-07-29T06:15:35Z",
               "pushed": "2024-01-16T06:56:48Z",
               "awesome": true,
               "path": [
@@ -90989,12 +91043,12 @@
                   "sourceRepo": "unixorn/awesome-zsh-plugins",
                   "depth": 3,
                   "children": [],
-                  "stars": 3319,
+                  "stars": 3321,
                   "forks": 204,
                   "language": null,
                   "license": null,
                   "topics": [],
-                  "updated": "2026-07-25T20:32:55Z",
+                  "updated": "2026-08-01T14:36:04Z",
                   "pushed": "2024-07-29T13:08:35Z",
                   "awesome": true,
                   "path": [
@@ -91218,8 +91272,8 @@
           "parentId": "root-development-environment-zsh-plugins"
         }
       ],
-      "stars": 17865,
-      "forks": 605,
+      "stars": 17887,
+      "forks": 606,
       "language": "Shell",
       "license": "BSD-3-Clause",
       "topics": [
@@ -91237,8 +91291,8 @@
         "zsh-prompt",
         "zsh-theme"
       ],
-      "updated": "2026-07-26T03:14:15Z",
-      "pushed": "2026-07-23T14:13:31Z",
+      "updated": "2026-08-02T00:19:56Z",
+      "pushed": "2026-07-27T01:22:21Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -92764,7 +92818,7 @@
               "parentId": "root-development-environment-github-browser-extensions"
             }
           ],
-          "stars": 3279,
+          "stars": 3281,
           "forks": 203,
           "language": "JavaScript",
           "license": null,
@@ -92777,7 +92831,7 @@
             "github-extension",
             "list"
           ],
-          "updated": "2026-07-22T19:30:54Z",
+          "updated": "2026-08-01T08:38:34Z",
           "pushed": "2024-08-18T20:11:31Z",
           "awesome": true,
           "readmeStatus": "expanded",
@@ -94515,7 +94569,7 @@
             }
           ],
           "stars": 2102,
-          "forks": 94,
+          "forks": 95,
           "language": null,
           "license": null,
           "topics": [
@@ -95438,7 +95492,7 @@
               "sourceRepo": "phillipadsmith/awesome-github",
               "depth": 2,
               "children": [],
-              "stars": 3279,
+              "stars": 3281,
               "forks": 203,
               "language": "JavaScript",
               "license": null,
@@ -95451,7 +95505,7 @@
                 "github-extension",
                 "list"
               ],
-              "updated": "2026-07-22T19:30:54Z",
+              "updated": "2026-08-01T08:38:34Z",
               "pushed": "2024-08-18T20:11:31Z",
               "awesome": true,
               "path": [
@@ -101486,7 +101540,7 @@
         "lists",
         "resources"
       ],
-      "updated": "2026-07-25T16:33:15Z",
+      "updated": "2026-08-01T12:37:28Z",
       "pushed": "2024-10-15T07:18:48Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -101533,7 +101587,7 @@
                   "sourceRepo": "compscilauren/awesome-git-hooks",
                   "depth": 3,
                   "children": [],
-                  "stars": 1172,
+                  "stars": 1175,
                   "forks": 58,
                   "language": "Shell",
                   "license": "NOASSERTION",
@@ -101546,7 +101600,7 @@
                     "hooks",
                     "script"
                   ],
-                  "updated": "2026-07-18T05:34:25Z",
+                  "updated": "2026-08-02T03:36:31Z",
                   "pushed": "2026-03-25T23:23:08Z",
                   "awesome": true,
                   "path": [
@@ -101592,7 +101646,7 @@
                   "sourceRepo": "compscilauren/awesome-git-hooks",
                   "depth": 3,
                   "children": [],
-                  "stars": 1172,
+                  "stars": 1175,
                   "forks": 58,
                   "language": "Shell",
                   "license": "NOASSERTION",
@@ -101605,7 +101659,7 @@
                     "hooks",
                     "script"
                   ],
-                  "updated": "2026-07-18T05:34:25Z",
+                  "updated": "2026-08-02T03:36:31Z",
                   "pushed": "2026-03-25T23:23:08Z",
                   "awesome": true,
                   "path": [
@@ -101627,7 +101681,7 @@
                   "sourceRepo": "compscilauren/awesome-git-hooks",
                   "depth": 3,
                   "children": [],
-                  "stars": 1172,
+                  "stars": 1175,
                   "forks": 58,
                   "language": "Shell",
                   "license": "NOASSERTION",
@@ -101640,7 +101694,7 @@
                     "hooks",
                     "script"
                   ],
-                  "updated": "2026-07-18T05:34:25Z",
+                  "updated": "2026-08-02T03:36:31Z",
                   "pushed": "2026-03-25T23:23:08Z",
                   "awesome": true,
                   "path": [
@@ -101686,7 +101740,7 @@
                   "sourceRepo": "compscilauren/awesome-git-hooks",
                   "depth": 3,
                   "children": [],
-                  "stars": 1172,
+                  "stars": 1175,
                   "forks": 58,
                   "language": "Shell",
                   "license": "NOASSERTION",
@@ -101699,7 +101753,7 @@
                     "hooks",
                     "script"
                   ],
-                  "updated": "2026-07-18T05:34:25Z",
+                  "updated": "2026-08-02T03:36:31Z",
                   "pushed": "2026-03-25T23:23:08Z",
                   "awesome": true,
                   "path": [
@@ -101745,7 +101799,7 @@
                   "sourceRepo": "compscilauren/awesome-git-hooks",
                   "depth": 3,
                   "children": [],
-                  "stars": 1172,
+                  "stars": 1175,
                   "forks": 58,
                   "language": "Shell",
                   "license": "NOASSERTION",
@@ -101758,7 +101812,7 @@
                     "hooks",
                     "script"
                   ],
-                  "updated": "2026-07-18T05:34:25Z",
+                  "updated": "2026-08-02T03:36:31Z",
                   "pushed": "2026-03-25T23:23:08Z",
                   "awesome": true,
                   "path": [
@@ -101780,7 +101834,7 @@
                   "sourceRepo": "compscilauren/awesome-git-hooks",
                   "depth": 3,
                   "children": [],
-                  "stars": 1172,
+                  "stars": 1175,
                   "forks": 58,
                   "language": "Shell",
                   "license": "NOASSERTION",
@@ -101793,7 +101847,7 @@
                     "hooks",
                     "script"
                   ],
-                  "updated": "2026-07-18T05:34:25Z",
+                  "updated": "2026-08-02T03:36:31Z",
                   "pushed": "2026-03-25T23:23:08Z",
                   "awesome": true,
                   "path": [
@@ -101815,7 +101869,7 @@
                   "sourceRepo": "compscilauren/awesome-git-hooks",
                   "depth": 3,
                   "children": [],
-                  "stars": 1172,
+                  "stars": 1175,
                   "forks": 58,
                   "language": "Shell",
                   "license": "NOASSERTION",
@@ -101828,7 +101882,7 @@
                     "hooks",
                     "script"
                   ],
-                  "updated": "2026-07-18T05:34:25Z",
+                  "updated": "2026-08-02T03:36:31Z",
                   "pushed": "2026-03-25T23:23:08Z",
                   "awesome": true,
                   "path": [
@@ -101850,7 +101904,7 @@
                   "sourceRepo": "compscilauren/awesome-git-hooks",
                   "depth": 3,
                   "children": [],
-                  "stars": 1172,
+                  "stars": 1175,
                   "forks": 58,
                   "language": "Shell",
                   "license": "NOASSERTION",
@@ -101863,7 +101917,7 @@
                     "hooks",
                     "script"
                   ],
-                  "updated": "2026-07-18T05:34:25Z",
+                  "updated": "2026-08-02T03:36:31Z",
                   "pushed": "2026-03-25T23:23:08Z",
                   "awesome": true,
                   "path": [
@@ -101885,7 +101939,7 @@
                   "sourceRepo": "compscilauren/awesome-git-hooks",
                   "depth": 3,
                   "children": [],
-                  "stars": 1172,
+                  "stars": 1175,
                   "forks": 58,
                   "language": "Shell",
                   "license": "NOASSERTION",
@@ -101898,7 +101952,7 @@
                     "hooks",
                     "script"
                   ],
-                  "updated": "2026-07-18T05:34:25Z",
+                  "updated": "2026-08-02T03:36:31Z",
                   "pushed": "2026-03-25T23:23:08Z",
                   "awesome": true,
                   "path": [
@@ -101944,7 +101998,7 @@
                   "sourceRepo": "compscilauren/awesome-git-hooks",
                   "depth": 3,
                   "children": [],
-                  "stars": 1172,
+                  "stars": 1175,
                   "forks": 58,
                   "language": "Shell",
                   "license": "NOASSERTION",
@@ -101957,7 +102011,7 @@
                     "hooks",
                     "script"
                   ],
-                  "updated": "2026-07-18T05:34:25Z",
+                  "updated": "2026-08-02T03:36:31Z",
                   "pushed": "2026-03-25T23:23:08Z",
                   "awesome": true,
                   "path": [
@@ -101979,7 +102033,7 @@
                   "sourceRepo": "compscilauren/awesome-git-hooks",
                   "depth": 3,
                   "children": [],
-                  "stars": 1172,
+                  "stars": 1175,
                   "forks": 58,
                   "language": "Shell",
                   "license": "NOASSERTION",
@@ -101992,7 +102046,7 @@
                     "hooks",
                     "script"
                   ],
-                  "updated": "2026-07-18T05:34:25Z",
+                  "updated": "2026-08-02T03:36:31Z",
                   "pushed": "2026-03-25T23:23:08Z",
                   "awesome": true,
                   "path": [
@@ -102038,7 +102092,7 @@
                   "sourceRepo": "compscilauren/awesome-git-hooks",
                   "depth": 3,
                   "children": [],
-                  "stars": 1172,
+                  "stars": 1175,
                   "forks": 58,
                   "language": "Shell",
                   "license": "NOASSERTION",
@@ -102051,7 +102105,7 @@
                     "hooks",
                     "script"
                   ],
-                  "updated": "2026-07-18T05:34:25Z",
+                  "updated": "2026-08-02T03:36:31Z",
                   "pushed": "2026-03-25T23:23:08Z",
                   "awesome": true,
                   "path": [
@@ -102097,7 +102151,7 @@
                   "sourceRepo": "compscilauren/awesome-git-hooks",
                   "depth": 3,
                   "children": [],
-                  "stars": 1172,
+                  "stars": 1175,
                   "forks": 58,
                   "language": "Shell",
                   "license": "NOASSERTION",
@@ -102110,7 +102164,7 @@
                     "hooks",
                     "script"
                   ],
-                  "updated": "2026-07-18T05:34:25Z",
+                  "updated": "2026-08-02T03:36:31Z",
                   "pushed": "2026-03-25T23:23:08Z",
                   "awesome": true,
                   "path": [
@@ -102156,7 +102210,7 @@
                   "sourceRepo": "compscilauren/awesome-git-hooks",
                   "depth": 3,
                   "children": [],
-                  "stars": 1172,
+                  "stars": 1175,
                   "forks": 58,
                   "language": "Shell",
                   "license": "NOASSERTION",
@@ -102169,7 +102223,7 @@
                     "hooks",
                     "script"
                   ],
-                  "updated": "2026-07-18T05:34:25Z",
+                  "updated": "2026-08-02T03:36:31Z",
                   "pushed": "2026-03-25T23:23:08Z",
                   "awesome": true,
                   "path": [
@@ -102215,7 +102269,7 @@
                   "sourceRepo": "compscilauren/awesome-git-hooks",
                   "depth": 3,
                   "children": [],
-                  "stars": 1172,
+                  "stars": 1175,
                   "forks": 58,
                   "language": "Shell",
                   "license": "NOASSERTION",
@@ -102228,7 +102282,7 @@
                     "hooks",
                     "script"
                   ],
-                  "updated": "2026-07-18T05:34:25Z",
+                  "updated": "2026-08-02T03:36:31Z",
                   "pushed": "2026-03-25T23:23:08Z",
                   "awesome": true,
                   "path": [
@@ -102856,7 +102910,7 @@
           "parentId": "root-development-environment-git-hooks"
         }
       ],
-      "stars": 1172,
+      "stars": 1175,
       "forks": 58,
       "language": "Shell",
       "license": "NOASSERTION",
@@ -102869,7 +102923,7 @@
         "hooks",
         "script"
       ],
-      "updated": "2026-07-18T05:34:25Z",
+      "updated": "2026-08-02T03:36:31Z",
       "pushed": "2026-03-25T23:23:08Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -103326,8 +103380,8 @@
           "parentId": "root-development-environment-ssh"
         }
       ],
-      "stars": 2816,
-      "forks": 181,
+      "stars": 2822,
+      "forks": 180,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -103343,7 +103397,7 @@
         "ssh-keys",
         "ssh-keyscan"
       ],
-      "updated": "2026-07-24T04:24:19Z",
+      "updated": "2026-07-31T22:44:25Z",
       "pushed": "2023-08-10T10:15:24Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -103476,7 +103530,7 @@
           "parentId": "root-development-environment-hyper"
         }
       ],
-      "stars": 10980,
+      "stars": 10982,
       "forks": 374,
       "language": null,
       "license": "CC0-1.0",
@@ -103488,7 +103542,7 @@
         "terminal",
         "zeit"
       ],
-      "updated": "2026-07-24T14:39:47Z",
+      "updated": "2026-08-01T17:09:36Z",
       "pushed": "2022-09-20T08:52:39Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -110989,8 +111043,8 @@
                     "squash",
                     "workflow"
                   ],
-                  "updated": "2026-07-11T10:13:00Z",
-                  "pushed": "2026-07-11T10:12:54Z",
+                  "updated": "2026-08-01T13:43:42Z",
+                  "pushed": "2026-08-01T13:43:38Z",
                   "awesome": true,
                   "path": [
                     "GitHub Actions",
@@ -115473,8 +115527,8 @@
           "parentId": "root-development-environment-github-actions"
         }
       ],
-      "stars": 28065,
-      "forks": 1724,
+      "stars": 28082,
+      "forks": 1737,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -115487,7 +115541,7 @@
         "github",
         "github-actions"
       ],
-      "updated": "2026-07-26T05:19:59Z",
+      "updated": "2026-08-02T03:47:56Z",
       "pushed": "2024-09-01T20:32:39Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -117119,7 +117173,7 @@
           "parentId": "root-development-environment-wezterm"
         }
       ],
-      "stars": 709,
+      "stars": 716,
       "forks": 30,
       "language": null,
       "license": "CC0-1.0",
@@ -117131,7 +117185,7 @@
         "wezterm-lua",
         "wezterm-plugin"
       ],
-      "updated": "2026-07-25T15:46:59Z",
+      "updated": "2026-08-01T23:41:03Z",
       "pushed": "2026-07-14T14:36:58Z",
       "awesome": true,
       "readmeStatus": "expanded",
