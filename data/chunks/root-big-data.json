@@ -1021,8 +1021,8 @@
       "sourceRepo": "sindresorhus/awesome",
       "depth": 1,
       "children": [],
-      "stars": 77894,
-      "forks": 11734,
+      "stars": 78010,
+      "forks": 11747,
       "language": null,
       "license": "MIT",
       "topics": [
@@ -1031,8 +1031,8 @@
         "datasets",
         "opendata"
       ],
-      "updated": "2026-08-02T03:46:15Z",
-      "pushed": "2026-07-30T20:21:12Z",
+      "updated": "2026-08-09T03:14:57Z",
+      "pushed": "2026-08-04T19:54:53Z",
       "awesome": true,
       "readmeStatus": "empty",
       "path": [
@@ -1536,12 +1536,12 @@
           "parentId": "root-big-data-hadoop"
         }
       ],
-      "stars": 1117,
+      "stars": 1116,
       "forks": 254,
       "language": null,
       "license": null,
       "topics": [],
-      "updated": "2026-07-23T23:25:47Z",
+      "updated": "2026-08-05T01:43:18Z",
       "pushed": "2024-05-07T19:21:33Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -10603,15 +10603,15 @@
           "parentId": "root-big-data-data-engineering"
         }
       ],
-      "stars": 8914,
-      "forks": 1582,
+      "stars": 8936,
+      "forks": 1587,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
         "awesome",
         "awesome-list"
       ],
-      "updated": "2026-08-02T00:55:46Z",
+      "updated": "2026-08-08T23:59:15Z",
       "pushed": "2026-07-18T15:19:21Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -11512,6 +11512,32 @@
                 "Streaming",
                 "Streaming Engine",
                 "Wallaroo [Python]"
+              ],
+              "parentId": "root-big-data-streaming-streaming-engine"
+            },
+            {
+              "id": "root-big-data-streaming-streaming-engine-wingfoil-rust-python-typescript",
+              "title": "Wingfoil [Rust/Python/TypeScript]",
+              "kind": "topic",
+              "repo": "",
+              "url": "",
+              "description": "Graph based stream processing engine for latency-critical systems such as electronic trading and real-time AI. The same calculation graph runs in interpreted, compiled or hybrid mode.",
+              "external": false,
+              "sourceRepo": "manuzhang/awesome-streaming",
+              "depth": 3,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Streaming",
+                "Streaming Engine",
+                "Wingfoil [Rust/Python/TypeScript]"
               ],
               "parentId": "root-big-data-streaming-streaming-engine"
             },
@@ -13214,6 +13240,32 @@
               "parentId": "root-big-data-streaming-online-machine-learning"
             },
             {
+              "id": "root-big-data-streaming-online-machine-learning-capymoa-python",
+              "title": "CapyMOA [Python]",
+              "kind": "topic",
+              "repo": "",
+              "url": "",
+              "description": "Efficient machine learning for data streams, covering classification, regression, clustering, anomaly detection, semi-supervised learning, online continual learning and drift detection.",
+              "external": false,
+              "sourceRepo": "manuzhang/awesome-streaming",
+              "depth": 3,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Streaming",
+                "Online Machine Learning",
+                "CapyMOA [Python]"
+              ],
+              "parentId": "root-big-data-streaming-online-machine-learning"
+            },
+            {
               "id": "root-big-data-streaming-online-machine-learning-datasketches-java",
               "title": "DataSketches [Java]",
               "kind": "topic",
@@ -14305,8 +14357,8 @@
           "parentId": "root-big-data-streaming"
         }
       ],
-      "stars": 3000,
-      "forks": 319,
+      "stars": 3001,
+      "forks": 320,
       "language": null,
       "license": null,
       "topics": [
@@ -14315,8 +14367,8 @@
         "list",
         "stream-processing"
       ],
-      "updated": "2026-07-31T20:25:24Z",
-      "pushed": "2026-08-01T19:10:04Z",
+      "updated": "2026-08-07T14:02:03Z",
+      "pushed": "2026-08-08T18:39:20Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -15176,7 +15228,7 @@
         "pyspark",
         "sparkr"
       ],
-      "updated": "2026-08-01T01:57:51Z",
+      "updated": "2026-08-05T01:43:40Z",
       "pushed": "2026-02-27T08:06:58Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -16162,7 +16214,7 @@
           "parentId": "root-big-data-qlik"
         }
       ],
-      "stars": 77,
+      "stars": 78,
       "forks": 8,
       "language": null,
       "license": "CC0-1.0",
@@ -16188,7 +16240,7 @@
         "reporting",
         "resources"
       ],
-      "updated": "2026-07-29T06:09:30Z",
+      "updated": "2026-08-03T23:41:15Z",
       "pushed": "2019-11-15T14:27:40Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -17866,7 +17918,7 @@
           "parentId": "root-big-data-splunk"
         }
       ],
-      "stars": 157,
+      "stars": 156,
       "forks": 18,
       "language": null,
       "license": "CC0-1.0",
@@ -17876,7 +17928,7 @@
         "splunk",
         "splunk-resources"
       ],
-      "updated": "2026-07-17T01:02:54Z",
+      "updated": "2026-08-04T14:51:23Z",
       "pushed": "2020-09-11T03:50:06Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -35243,7 +35295,7 @@
               "sourceRepo": "briatte/awesome-network-analysis",
               "depth": 2,
               "children": [],
-              "stars": 2446,
+              "stars": 2447,
               "forks": 357,
               "language": "Python",
               "license": "CC0-1.0",
@@ -35269,7 +35321,7 @@
                 "social-network",
                 "unsupervised-learning"
               ],
-              "updated": "2026-07-28T15:01:09Z",
+              "updated": "2026-08-05T09:15:05Z",
               "pushed": "2025-12-20T17:06:00Z",
               "awesome": true,
               "path": [
@@ -38463,7 +38515,7 @@
           "parentId": "root-big-data-network-analysis"
         }
       ],
-      "stars": 4088,
+      "stars": 4091,
       "forks": 637,
       "language": "R",
       "license": null,
@@ -38484,7 +38536,7 @@
         "social-network-analysis",
         "social-networks"
       ],
-      "updated": "2026-08-01T14:06:11Z",
+      "updated": "2026-08-07T20:19:49Z",
       "pushed": "2026-04-17T18:25:35Z",
       "awesome": true,
       "readmeStatus": "expanded",

@@ -258,12 +258,12 @@
           "parentId": "root-learn-cli-workshoppers"
         }
       ],
-      "stars": 2251,
+      "stars": 2256,
       "forks": 66,
       "language": null,
       "license": null,
       "topics": [],
-      "updated": "2026-07-31T19:01:27Z",
+      "updated": "2026-08-08T11:27:06Z",
       "pushed": "2021-03-03T04:05:01Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -462,7 +462,7 @@
           "parentId": "root-learn-speaking"
         }
       ],
-      "stars": 1960,
+      "stars": 1965,
       "forks": 603,
       "language": null,
       "license": "MIT",
@@ -474,7 +474,7 @@
         "speaking",
         "speaking-resources"
       ],
-      "updated": "2026-08-01T13:31:09Z",
+      "updated": "2026-08-08T03:18:43Z",
       "pushed": "2023-11-20T16:21:54Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -6194,7 +6194,7 @@
           "parentId": "root-learn-computer-history"
         }
       ],
-      "stars": 2951,
+      "stars": 2952,
       "forks": 158,
       "language": null,
       "license": null,
@@ -6208,7 +6208,7 @@
         "list",
         "video"
       ],
-      "updated": "2026-08-01T13:14:02Z",
+      "updated": "2026-08-07T20:54:36Z",
       "pushed": "2023-02-01T09:01:45Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -6295,8 +6295,8 @@
           "parentId": "root-learn-programming-for-kids"
         }
       ],
-      "stars": 1205,
-      "forks": 92,
+      "stars": 1206,
+      "forks": 93,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -6306,7 +6306,7 @@
         "list",
         "teach-kids"
       ],
-      "updated": "2026-07-28T03:40:05Z",
+      "updated": "2026-08-05T04:17:55Z",
       "pushed": "2024-11-15T03:27:51Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -6326,7 +6326,7 @@
       "sourceRepo": "sindresorhus/awesome",
       "depth": 1,
       "children": [],
-      "stars": 251,
+      "stars": 255,
       "forks": 37,
       "language": null,
       "license": "CC0-1.0",
@@ -6352,7 +6352,7 @@
         "stem",
         "technology"
       ],
-      "updated": "2026-07-31T06:40:37Z",
+      "updated": "2026-08-07T09:33:20Z",
       "pushed": "2026-05-05T19:45:05Z",
       "awesome": true,
       "readmeStatus": "empty",
@@ -7966,8 +7966,8 @@
           "parentId": "root-learn-educational-games"
         }
       ],
-      "stars": 1148,
-      "forks": 79,
+      "stars": 1151,
+      "forks": 80,
       "language": null,
       "license": "MIT",
       "topics": [
@@ -7975,7 +7975,7 @@
         "education",
         "games"
       ],
-      "updated": "2026-08-01T14:59:41Z",
+      "updated": "2026-08-06T18:33:03Z",
       "pushed": "2024-04-08T06:32:51Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -9869,7 +9869,7 @@
           "parentId": "root-learn-javascript-learning"
         }
       ],
-      "stars": 5826,
+      "stars": 5834,
       "forks": 603,
       "language": null,
       "license": "NOASSERTION",
@@ -9881,7 +9881,7 @@
         "learning",
         "resources"
       ],
-      "updated": "2026-08-02T05:28:35Z",
+      "updated": "2026-08-09T01:31:01Z",
       "pushed": "2026-02-01T20:52:43Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -11317,7 +11317,7 @@
           "parentId": "root-learn-css-learning"
         }
       ],
-      "stars": 3836,
+      "stars": 3842,
       "forks": 271,
       "language": null,
       "license": "NOASSERTION",
@@ -11329,7 +11329,7 @@
         "learning",
         "resources"
       ],
-      "updated": "2026-07-31T19:01:17Z",
+      "updated": "2026-08-09T01:30:49Z",
       "pushed": "2026-02-01T00:22:35Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -16646,7 +16646,7 @@
           "parentId": "root-learn-product-management"
         }
       ],
-      "stars": 2285,
+      "stars": 2301,
       "forks": 210,
       "language": "CSS",
       "license": "CC0-1.0",
@@ -16657,7 +16657,7 @@
         "product",
         "product-management"
       ],
-      "updated": "2026-08-01T19:51:14Z",
+      "updated": "2026-08-07T10:56:13Z",
       "pushed": "2026-02-08T02:36:12Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -17581,6 +17581,32 @@
               "parentId": "root-learn-roadmaps-ai-machine-learning-data-science"
             },
             {
+              "id": "root-learn-roadmaps-ai-machine-learning-data-science-ai-for-beginners",
+              "title": "AI for Beginners",
+              "kind": "repo",
+              "repo": "microsoft/ai-for-beginners",
+              "url": "https://github.com/microsoft/ai-for-beginners",
+              "description": "Beginner-friendly 12-week artificial intelligence curriculum with 24 ordered lessons, quizzes, labs, and practical notebooks covering symbolic AI, deep learning, computer vision, NLP, reinforcement learning, and AI ethics.",
+              "external": false,
+              "sourceRepo": "liuchong/awesome-roadmaps",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Roadmaps",
+                "AI / Machine Learning / Data Science",
+                "AI for Beginners"
+              ],
+              "parentId": "root-learn-roadmaps-ai-machine-learning-data-science"
+            },
+            {
               "id": "root-learn-roadmaps-ai-machine-learning-data-science-ai-governance-and-gtm-career-roadmaps",
               "title": "AI, Governance & GTM Career Roadmaps",
               "kind": "repo",
@@ -17975,8 +18001,8 @@
               "sourceRepo": "liuchong/awesome-roadmaps",
               "depth": 2,
               "children": [],
-              "stars": 2141,
-              "forks": 363,
+              "stars": 2146,
+              "forks": 365,
               "language": null,
               "license": "CC0-1.0",
               "topics": [
@@ -17992,7 +18018,7 @@
                 "software-testing",
                 "testing"
               ],
-              "updated": "2026-07-31T18:44:08Z",
+              "updated": "2026-08-08T23:12:38Z",
               "pushed": "2026-06-04T11:08:57Z",
               "awesome": true,
               "path": [
@@ -18636,7 +18662,7 @@
           "parentId": "root-learn-roadmaps"
         }
       ],
-      "stars": 7186,
+      "stars": 7199,
       "forks": 476,
       "language": null,
       "license": "NOASSERTION",
@@ -18647,8 +18673,8 @@
         "resources",
         "roadmap"
       ],
-      "updated": "2026-08-02T02:57:58Z",
-      "pushed": "2026-07-19T16:54:14Z",
+      "updated": "2026-08-08T09:07:56Z",
+      "pushed": "2026-08-03T13:48:51Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -19142,8 +19168,8 @@
           "parentId": "root-learn-youtubers"
         }
       ],
-      "stars": 7588,
-      "forks": 489,
+      "stars": 7648,
+      "forks": 494,
       "language": "Markdown",
       "license": "CC0-1.0",
       "topics": [
@@ -19153,8 +19179,8 @@
         "youtube",
         "youtubers"
       ],
-      "updated": "2026-08-02T04:59:31Z",
-      "pushed": "2026-07-25T08:47:37Z",
+      "updated": "2026-08-09T02:39:10Z",
+      "pushed": "2026-08-05T18:42:59Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -21409,8 +21435,8 @@
                   "sourceRepo": "dribdat/awesome-hackathon",
                   "depth": 3,
                   "children": [],
-                  "stars": 21254,
-                  "forks": 3958,
+                  "stars": 21285,
+                  "forks": 3959,
                   "language": null,
                   "license": null,
                   "topics": [
@@ -21419,7 +21445,7 @@
                     "list",
                     "readme"
                   ],
-                  "updated": "2026-08-01T22:37:13Z",
+                  "updated": "2026-08-08T22:41:50Z",
                   "pushed": "2026-07-27T16:54:15Z",
                   "awesome": true,
                   "path": [
@@ -22484,8 +22510,8 @@
           "parentId": "root-learn-hackathon"
         }
       ],
-      "stars": 283,
-      "forks": 22,
+      "stars": 286,
+      "forks": 23,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -22494,7 +22520,7 @@
         "hackathon",
         "hackathons"
       ],
-      "updated": "2026-08-01T13:33:03Z",
+      "updated": "2026-08-05T20:10:28Z",
       "pushed": "2026-05-05T17:45:20Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -23587,8 +23613,8 @@
           "parentId": "root-learn-certificates"
         }
       ],
-      "stars": 5447,
-      "forks": 455,
+      "stars": 5500,
+      "forks": 463,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -23603,7 +23629,7 @@
         "free",
         "hacktoberfest"
       ],
-      "updated": "2026-08-02T00:59:21Z",
+      "updated": "2026-08-09T00:43:02Z",
       "pushed": "2026-06-30T15:46:25Z",
       "awesome": true,
       "readmeStatus": "expanded",

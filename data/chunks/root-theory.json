@@ -627,12 +627,12 @@
           "parentId": "root-theory-talks"
         }
       ],
-      "stars": 6197,
+      "stars": 6198,
       "forks": 417,
       "language": null,
       "license": null,
       "topics": [],
-      "updated": "2026-08-01T16:07:32Z",
+      "updated": "2026-08-06T16:17:49Z",
       "pushed": "2026-06-25T14:00:39Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -3611,7 +3611,7 @@
                   "sourceRepo": "gaerae/awesome-algorithms-education",
                   "depth": 3,
                   "children": [],
-                  "stars": 14095,
+                  "stars": 14105,
                   "forks": 2621,
                   "language": null,
                   "license": "CC-BY-4.0",
@@ -3629,7 +3629,7 @@
                     "quora",
                     "reference-materials"
                   ],
-                  "updated": "2026-08-01T21:00:56Z",
+                  "updated": "2026-08-08T12:55:02Z",
                   "pushed": "2024-12-08T09:40:58Z",
                   "awesome": true,
                   "path": [
@@ -3732,13 +3732,13 @@
                   "sourceRepo": "gaerae/awesome-algorithms-education",
                   "depth": 3,
                   "children": [],
-                  "stars": 73833,
-                  "forks": 15583,
+                  "stars": 73956,
+                  "forks": 15604,
                   "language": "Python",
                   "license": "NOASSERTION",
                   "topics": [],
-                  "updated": "2026-08-02T04:39:44Z",
-                  "pushed": "2026-07-30T15:00:37Z",
+                  "updated": "2026-08-08T23:40:53Z",
+                  "pushed": "2026-08-06T18:03:02Z",
                   "awesome": true,
                   "path": [
                     "Algorithms",
@@ -3912,7 +3912,7 @@
             "education",
             "programming"
           ],
-          "updated": "2026-07-29T20:58:52Z",
+          "updated": "2026-08-07T04:44:17Z",
           "pushed": "2022-11-15T12:24:33Z",
           "awesome": true,
           "readmeStatus": "expanded",
@@ -4356,8 +4356,8 @@
               "sourceRepo": "tayllan/awesome-algorithms",
               "depth": 2,
               "children": [],
-              "stars": 1188,
-              "forks": 69,
+              "stars": 1195,
+              "forks": 70,
               "language": "Python",
               "license": "CC0-1.0",
               "topics": [
@@ -4370,7 +4370,7 @@
                 "theoretical-computer-science",
                 "theory-of-computation"
               ],
-              "updated": "2026-08-01T12:09:51Z",
+              "updated": "2026-08-06T13:35:33Z",
               "pushed": "2026-01-30T20:06:12Z",
               "awesome": true,
               "path": [
@@ -4391,8 +4391,8 @@
               "sourceRepo": "tayllan/awesome-algorithms",
               "depth": 2,
               "children": [],
-              "stars": 15993,
-              "forks": 1577,
+              "stars": 16029,
+              "forks": 1581,
               "language": "Python",
               "license": null,
               "topics": [
@@ -4402,7 +4402,7 @@
                 "list",
                 "mathematics"
               ],
-              "updated": "2026-08-02T04:59:13Z",
+              "updated": "2026-08-09T03:05:54Z",
               "pushed": "2026-05-19T10:05:56Z",
               "awesome": true,
               "path": [
@@ -4428,12 +4428,12 @@
           "parentId": "root-theory-algorithms"
         }
       ],
-      "stars": 25424,
+      "stars": 25439,
       "forks": 2960,
       "language": null,
       "license": null,
       "topics": [],
-      "updated": "2026-08-02T00:46:11Z",
+      "updated": "2026-08-08T23:26:45Z",
       "pushed": "2026-04-18T15:06:58Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -5682,6 +5682,84 @@
               "parentId": "root-theory-artificial-intelligence-build-ai-systems"
             },
             {
+              "id": "root-theory-artificial-intelligence-build-ai-systems-protocols-and-interoperability",
+              "title": "Protocols and interoperability",
+              "kind": "section",
+              "sourceRepo": "owainlewis/awesome-artificial-intelligence",
+              "depth": 2,
+              "url": "https://github.com/owainlewis/awesome-artificial-intelligence#protocols-and-interoperability",
+              "children": [
+                {
+                  "id": "root-theory-artificial-intelligence-build-ai-systems-protocols-and-interoperability-model-context-protocol-the-open-specification-for-connecting-ai-applications-to-external-tools-data-sources-prompts-and-interactive-apps",
+                  "title": "Model Context Protocol: The open specification for connecting AI applications to external tools, data sources, prompts, and interactive apps.",
+                  "kind": "topic",
+                  "repo": "",
+                  "url": "",
+                  "description": "",
+                  "external": false,
+                  "sourceRepo": "owainlewis/awesome-artificial-intelligence",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Artificial Intelligence",
+                    "Build AI systems",
+                    "Protocols and interoperability",
+                    "Model Context Protocol: The open specification for connecting AI applications to external tools, data sources, prompts, and interactive apps."
+                  ],
+                  "parentId": "root-theory-artificial-intelligence-build-ai-systems-protocols-and-interoperability"
+                },
+                {
+                  "id": "root-theory-artificial-intelligence-build-ai-systems-protocols-and-interoperability-agent2agent-protocol-a-vendor-neutral-specification-for-agent-discovery-task-delegation-streaming-asynchronous-updates-and-cross-platform-communication",
+                  "title": "Agent2Agent Protocol: A vendor-neutral specification for agent discovery, task delegation, streaming, asynchronous updates, and cross-platform communication.",
+                  "kind": "topic",
+                  "repo": "",
+                  "url": "",
+                  "description": "",
+                  "external": false,
+                  "sourceRepo": "owainlewis/awesome-artificial-intelligence",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Artificial Intelligence",
+                    "Build AI systems",
+                    "Protocols and interoperability",
+                    "Agent2Agent Protocol: A vendor-neutral specification for agent discovery, task delegation, streaming, asynchronous updates, and cross-platform communication."
+                  ],
+                  "parentId": "root-theory-artificial-intelligence-build-ai-systems-protocols-and-interoperability"
+                }
+              ],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Artificial Intelligence",
+                "Build AI systems",
+                "Protocols and interoperability"
+              ],
+              "parentId": "root-theory-artificial-intelligence-build-ai-systems"
+            },
+            {
               "id": "root-theory-artificial-intelligence-build-ai-systems-agent-frameworks",
               "title": "Agent frameworks",
               "kind": "section",
@@ -6803,8 +6881,8 @@
           "parentId": "root-theory-artificial-intelligence"
         }
       ],
-      "stars": 15616,
-      "forks": 2455,
+      "stars": 15708,
+      "forks": 2470,
       "language": "Python",
       "license": "MIT",
       "topics": [
@@ -6820,8 +6898,8 @@
         "statistical-learning",
         "unsupervised-learning"
       ],
-      "updated": "2026-08-02T04:48:35Z",
-      "pushed": "2026-07-27T11:32:16Z",
+      "updated": "2026-08-08T17:34:51Z",
+      "pushed": "2026-08-03T08:09:46Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -7574,7 +7652,7 @@
           "parentId": "root-theory-competitive-programming"
         }
       ],
-      "stars": 14095,
+      "stars": 14105,
       "forks": 2621,
       "language": null,
       "license": "CC-BY-4.0",
@@ -7592,7 +7670,7 @@
         "quora",
         "reference-materials"
       ],
-      "updated": "2026-08-01T21:00:56Z",
+      "updated": "2026-08-08T12:55:02Z",
       "pushed": "2024-12-08T09:40:58Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -8885,8 +8963,8 @@
           "parentId": "root-theory-math"
         }
       ],
-      "stars": 15993,
-      "forks": 1577,
+      "stars": 16029,
+      "forks": 1581,
       "language": "Python",
       "license": null,
       "topics": [
@@ -8896,7 +8974,7 @@
         "list",
         "mathematics"
       ],
-      "updated": "2026-08-02T04:59:13Z",
+      "updated": "2026-08-09T03:05:54Z",
       "pushed": "2026-05-19T10:05:56Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -8935,7 +9013,7 @@
               "sourceRepo": "passy/awesome-recursion-schemes",
               "depth": 2,
               "children": [],
-              "stars": 1303,
+              "stars": 1306,
               "forks": 57,
               "language": null,
               "license": null,
@@ -8944,7 +9022,7 @@
                 "catamorphisms",
                 "recursion-schemes"
               ],
-              "updated": "2026-07-22T13:04:37Z",
+              "updated": "2026-08-08T21:29:44Z",
               "pushed": "2024-04-25T20:21:03Z",
               "awesome": true,
               "path": [
@@ -10304,7 +10382,7 @@
           "parentId": "root-theory-recursion-schemes"
         }
       ],
-      "stars": 1303,
+      "stars": 1306,
       "forks": 57,
       "language": null,
       "license": null,
@@ -10313,7 +10391,7 @@
         "catamorphisms",
         "recursion-schemes"
       ],
-      "updated": "2026-07-22T13:04:37Z",
+      "updated": "2026-08-08T21:29:44Z",
       "pushed": "2024-04-25T20:21:03Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -17110,7 +17188,7 @@
               "sourceRepo": "sellisd/awesome-complexity",
               "depth": 2,
               "children": [],
-              "stars": 4088,
+              "stars": 4091,
               "forks": 637,
               "language": "R",
               "license": null,
@@ -17131,7 +17209,7 @@
                 "social-network-analysis",
                 "social-networks"
               ],
-              "updated": "2026-08-01T14:06:11Z",
+              "updated": "2026-08-07T20:19:49Z",
               "pushed": "2026-04-17T18:25:35Z",
               "awesome": true,
               "path": [
@@ -21137,7 +21215,7 @@
           "parentId": "root-theory-vlm-architectures"
         }
       ],
-      "stars": 1289,
+      "stars": 1296,
       "forks": 55,
       "language": "Markdown",
       "license": "CC0-1.0",
@@ -21163,7 +21241,7 @@
         "vision-language-models",
         "vlm"
       ],
-      "updated": "2026-08-01T16:54:18Z",
+      "updated": "2026-08-08T05:55:19Z",
       "pushed": "2026-07-31T21:58:54Z",
       "awesome": true,
       "readmeStatus": "expanded",

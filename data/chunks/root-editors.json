@@ -7394,6 +7394,33 @@
                     "kibi2/tirenvi.nvim"
                   ],
                   "parentId": "root-editors-neovim-programming-languages-support-markdown-and-latex"
+                },
+                {
+                  "id": "root-editors-neovim-programming-languages-support-markdown-and-latex-itsfernn-vimtex-follow",
+                  "title": "itsfernn/vimtex-follow",
+                  "kind": "repo",
+                  "repo": "itsfernn/vimtex-follow",
+                  "url": "https://github.com/itsfernn/vimtex-follow",
+                  "description": "Adds a toggleable \"follow mode\", synchronizing your PDF viewer with your cursor position.",
+                  "external": false,
+                  "sourceRepo": "rockerboo/awesome-neovim",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Neovim",
+                    "Programming Languages Support",
+                    "Markdown and LaTeX",
+                    "itsfernn/vimtex-follow"
+                  ],
+                  "parentId": "root-editors-neovim-programming-languages-support-markdown-and-latex"
                 }
               ],
               "stars": 0,
@@ -16554,6 +16581,32 @@
               "parentId": "root-editors-neovim-colorscheme"
             },
             {
+              "id": "root-editors-neovim-colorscheme-aejkatappaja-cendre",
+              "title": "Aejkatappaja/cendre",
+              "kind": "repo",
+              "repo": "aejkatappaja/cendre",
+              "url": "https://github.com/aejkatappaja/cendre",
+              "description": "[TS][LSP][Lua] Dark colorscheme with every hue computed from a wood fire's emission spectrum, plus matching ports for terminals and tools.",
+              "external": false,
+              "sourceRepo": "rockerboo/awesome-neovim",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Neovim",
+                "Colorscheme",
+                "Aejkatappaja/cendre"
+              ],
+              "parentId": "root-editors-neovim-colorscheme"
+            },
+            {
               "id": "root-editors-neovim-colorscheme-marekh19-meowsoot-nvim",
               "title": "marekh19/meowsoot.nvim",
               "kind": "repo",
@@ -16706,6 +16759,58 @@
                 "Neovim",
                 "Colorscheme",
                 "mitander/flume.nvim"
+              ],
+              "parentId": "root-editors-neovim-colorscheme"
+            },
+            {
+              "id": "root-editors-neovim-colorscheme-aadielpr-bono-nvim",
+              "title": "aadielpr/bono.nvim",
+              "kind": "repo",
+              "repo": "aadielpr/bono.nvim",
+              "url": "https://github.com/aadielpr/bono.nvim",
+              "description": "[TS][LSP][Lua] A warm muted colorscheme with cream (light) variants.",
+              "external": false,
+              "sourceRepo": "rockerboo/awesome-neovim",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Neovim",
+                "Colorscheme",
+                "aadielpr/bono.nvim"
+              ],
+              "parentId": "root-editors-neovim-colorscheme"
+            },
+            {
+              "id": "root-editors-neovim-colorscheme-art220-dancheong-nvim",
+              "title": "art220/dancheong.nvim",
+              "kind": "repo",
+              "repo": "art220/dancheong.nvim",
+              "url": "https://github.com/art220/dancheong.nvim",
+              "description": "[TS][LSP][L/D][Lua] Four variants drawn from dancheong, the 1,500-year-old Korean temple-painting palette, with every color contrast-gated at build time and a matching lualine theme.",
+              "external": false,
+              "sourceRepo": "rockerboo/awesome-neovim",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Neovim",
+                "Colorscheme",
+                "art220/dancheong.nvim"
               ],
               "parentId": "root-editors-neovim-colorscheme"
             },
@@ -19164,6 +19269,32 @@
                 "Neovim",
                 "Icon",
                 "stephansama/fzf-nerdfont.nvim"
+              ],
+              "parentId": "root-editors-neovim-icon"
+            },
+            {
+              "id": "root-editors-neovim-icon-mirsmog-real-icons-nvim",
+              "title": "Mirsmog/real-icons.nvim",
+              "kind": "repo",
+              "repo": "mirsmog/real-icons.nvim",
+              "url": "https://github.com/mirsmog/real-icons.nvim",
+              "description": "Renders PNG and SVG file icons in explorers, pickers, statuslines, and tablines through kitty's graphics protocol.",
+              "external": false,
+              "sourceRepo": "rockerboo/awesome-neovim",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Neovim",
+                "Icon",
+                "Mirsmog/real-icons.nvim"
               ],
               "parentId": "root-editors-neovim-icon"
             }
@@ -23441,6 +23572,32 @@
                 "Neovim",
                 "Terminal Integration",
                 "hawknewton/termyank.nvim"
+              ],
+              "parentId": "root-editors-neovim-terminal-integration"
+            },
+            {
+              "id": "root-editors-neovim-terminal-integration-jaimeibanezrivera-zj-theme",
+              "title": "jaimeibanezrivera/zj-theme",
+              "kind": "repo",
+              "repo": "jaimeibanezrivera/zj-theme",
+              "url": "https://github.com/jaimeibanezrivera/zj-theme",
+              "description": "Syncs zellij's theme to whatever colorscheme is active, live, no restart needed.",
+              "external": false,
+              "sourceRepo": "rockerboo/awesome-neovim",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Neovim",
+                "Terminal Integration",
+                "jaimeibanezrivera/zj-theme"
               ],
               "parentId": "root-editors-neovim-terminal-integration"
             }
@@ -34039,6 +34196,32 @@
               "parentId": "root-editors-neovim-session"
             },
             {
+              "id": "root-editors-neovim-session-dmshvedchenko-persist-nvim",
+              "title": "dmshvedchenko/persist.nvim",
+              "kind": "repo",
+              "repo": "dmshvedchenko/persist.nvim",
+              "url": "https://github.com/dmshvedchenko/persist.nvim",
+              "description": "Lightweight session persistence with interactive recovery of unnamed scratch buffers.",
+              "external": false,
+              "sourceRepo": "rockerboo/awesome-neovim",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Neovim",
+                "Session",
+                "dmshvedchenko/persist.nvim"
+              ],
+              "parentId": "root-editors-neovim-session"
+            },
+            {
               "id": "root-editors-neovim-session-shatur-neovim-session-manager",
               "title": "Shatur/neovim-session-manager",
               "kind": "repo",
@@ -38247,7 +38430,7 @@
                   "sourceRepo": "rockerboo/awesome-neovim",
                   "depth": 3,
                   "children": [],
-                  "stars": 64,
+                  "stars": 65,
                   "forks": 11,
                   "language": "Nix",
                   "license": "BSD-3-Clause",
@@ -38255,8 +38438,8 @@
                     "neovim-plugins",
                     "nix-flake"
                   ],
-                  "updated": "2026-08-01T18:21:17Z",
-                  "pushed": "2026-08-01T18:21:13Z",
+                  "updated": "2026-08-08T17:53:31Z",
+                  "pushed": "2026-08-08T17:53:26Z",
                   "awesome": true,
                   "path": [
                     "Neovim",
@@ -38933,7 +39116,7 @@
               "sourceRepo": "rockerboo/awesome-neovim",
               "depth": 2,
               "children": [],
-              "stars": 2123,
+              "stars": 2126,
               "forks": 144,
               "language": null,
               "license": "MIT",
@@ -38941,7 +39124,7 @@
                 "awesome",
                 "vim"
               ],
-              "updated": "2026-07-31T12:24:24Z",
+              "updated": "2026-08-05T06:58:41Z",
               "pushed": "2025-06-06T18:42:55Z",
               "awesome": true,
               "path": [
@@ -39149,8 +39332,8 @@
           "parentId": "root-editors-neovim"
         }
       ],
-      "stars": 21213,
-      "forks": 1035,
+      "stars": 21239,
+      "forks": 1038,
       "language": "Shell",
       "license": "CC0-1.0",
       "topics": [
@@ -39160,8 +39343,8 @@
         "neovim-plugins",
         "nvim-lua"
       ],
-      "updated": "2026-08-02T04:04:57Z",
-      "pushed": "2026-08-01T23:55:41Z",
+      "updated": "2026-08-08T11:04:33Z",
+      "pushed": "2026-08-08T00:21:33Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -39180,7 +39363,7 @@
       "sourceRepo": "sindresorhus/awesome",
       "depth": 1,
       "children": [],
-      "stars": 9343,
+      "stars": 9352,
       "forks": 599,
       "language": null,
       "license": "Unlicense",
@@ -39188,7 +39371,7 @@
         "awesome-list",
         "emacs"
       ],
-      "updated": "2026-08-02T00:18:34Z",
+      "updated": "2026-08-08T23:54:13Z",
       "pushed": "2026-05-13T04:32:20Z",
       "awesome": true,
       "readmeStatus": "empty",
@@ -45659,8 +45842,8 @@
           "parentId": "root-editors-visual-studio-code"
         }
       ],
-      "stars": 28919,
-      "forks": 1405,
+      "stars": 28940,
+      "forks": 1407,
       "language": "JavaScript",
       "license": "CC0-1.0",
       "topics": [
@@ -45676,7 +45859,7 @@
         "vscode-extension",
         "vscode-theme"
       ],
-      "updated": "2026-08-01T22:58:45Z",
+      "updated": "2026-08-09T03:03:51Z",
       "pushed": "2026-06-21T09:36:55Z",
       "awesome": true,
       "readmeStatus": "expanded",

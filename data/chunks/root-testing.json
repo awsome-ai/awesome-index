@@ -1205,6 +1205,33 @@
                   "parentId": "root-testing-testing-software-visual-testing"
                 },
                 {
+                  "id": "root-testing-testing-software-visual-testing-image-diff",
+                  "title": "Image Diff",
+                  "kind": "link",
+                  "repo": "",
+                  "url": "https://nutilz.com/image-diff",
+                  "description": "Free, browser-based pixel diff tool for comparing two images and highlighting exactly what changed, with an adjustable sensitivity threshold. No upload, no sign-up.",
+                  "external": true,
+                  "sourceRepo": "thejambo/awesome-testing",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Testing",
+                    "Software",
+                    "Visual Testing",
+                    "Image Diff"
+                  ],
+                  "parentId": "root-testing-testing-software-visual-testing"
+                },
+                {
                   "id": "root-testing-testing-software-visual-testing-lastest",
                   "title": "Lastest",
                   "kind": "link",
@@ -1796,33 +1823,6 @@
                   "parentId": "root-testing-testing-software-ui-and-end-to-end-testing"
                 },
                 {
-                  "id": "root-testing-testing-software-ui-and-end-to-end-testing-playwright-config-generator",
-                  "title": "Playwright Config Generator",
-                  "kind": "link",
-                  "repo": "",
-                  "url": "https://draftkit.co/dev-launch-pack/playwright-config-generator.html",
-                  "description": "Free browser-based generator that produces a ready-to-commit playwright.config.ts/.js/.mjs with browser projects (Chromium, Firefox, WebKit, mobile devices), retries, workers, trace/video/screenshots, webServer, and CI reporters. No signup.",
-                  "external": true,
-                  "sourceRepo": "thejambo/awesome-testing",
-                  "depth": 3,
-                  "children": [],
-                  "stars": 0,
-                  "forks": 0,
-                  "language": null,
-                  "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
-                  "awesome": false,
-                  "path": [
-                    "Testing",
-                    "Software",
-                    "UI & End-to-End Testing",
-                    "Playwright Config Generator"
-                  ],
-                  "parentId": "root-testing-testing-software-ui-and-end-to-end-testing"
-                },
-                {
                   "id": "root-testing-testing-software-ui-and-end-to-end-testing-qa-wolf",
                   "title": "QA Wolf",
                   "kind": "repo",
@@ -2110,6 +2110,33 @@
                     "Software",
                     "Test Data Management",
                     "Temp Mail 24"
+                  ],
+                  "parentId": "root-testing-testing-software-test-data-management"
+                },
+                {
+                  "id": "root-testing-testing-software-test-data-management-sms-florin",
+                  "title": "sms-florin",
+                  "kind": "link",
+                  "repo": "",
+                  "url": "https://flo-voice1.com",
+                  "description": "Rent a real UK phone number to receive SMS/OTP codes for testing verification flows (WhatsApp, Telegram, Google, and others). Ships a JS/TS SDK for CI/QA automation.",
+                  "external": true,
+                  "sourceRepo": "thejambo/awesome-testing",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Testing",
+                    "Software",
+                    "Test Data Management",
+                    "sms-florin"
                   ],
                   "parentId": "root-testing-testing-software-test-data-management"
                 },
@@ -4251,8 +4278,8 @@
                   "sourceRepo": "thejambo/awesome-testing",
                   "depth": 3,
                   "children": [],
-                  "stars": 27585,
-                  "forks": 643,
+                  "stars": 27608,
+                  "forks": 644,
                   "language": null,
                   "license": "CC0-1.0",
                   "topics": [
@@ -4277,8 +4304,8 @@
                     "unicode-characters",
                     "video-games"
                   ],
-                  "updated": "2026-08-01T22:59:18Z",
-                  "pushed": "2026-04-27T19:16:26Z",
+                  "updated": "2026-08-08T23:28:20Z",
+                  "pushed": "2026-08-08T04:49:29Z",
                   "awesome": true,
                   "path": [
                     "Testing",
@@ -4450,8 +4477,8 @@
                   "sourceRepo": "thejambo/awesome-testing",
                   "depth": 3,
                   "children": [],
-                  "stars": 7008,
-                  "forks": 803,
+                  "stars": 7014,
+                  "forks": 802,
                   "language": "PHP",
                   "license": "MIT",
                   "topics": [
@@ -4462,7 +4489,7 @@
                     "security",
                     "security-experts"
                   ],
-                  "updated": "2026-07-31T10:35:07Z",
+                  "updated": "2026-08-09T02:10:56Z",
                   "pushed": "2025-02-22T16:39:11Z",
                   "awesome": true,
                   "path": [
@@ -4484,8 +4511,8 @@
                   "sourceRepo": "thejambo/awesome-testing",
                   "depth": 3,
                   "children": [],
-                  "stars": 1129,
-                  "forks": 171,
+                  "stars": 1132,
+                  "forks": 172,
                   "language": null,
                   "license": "CC0-1.0",
                   "topics": [
@@ -4493,7 +4520,7 @@
                     "awesome-list",
                     "list"
                   ],
-                  "updated": "2026-08-01T09:30:20Z",
+                  "updated": "2026-08-05T19:03:23Z",
                   "pushed": "2026-03-17T19:57:25Z",
                   "awesome": true,
                   "path": [
@@ -4515,15 +4542,15 @@
                   "sourceRepo": "thejambo/awesome-testing",
                   "depth": 3,
                   "children": [],
-                  "stars": 14699,
-                  "forks": 2356,
+                  "stars": 14731,
+                  "forks": 2364,
                   "language": null,
                   "license": "MIT",
                   "topics": [
                     "awesome-list",
                     "security"
                   ],
-                  "updated": "2026-08-02T03:50:37Z",
+                  "updated": "2026-08-09T02:35:40Z",
                   "pushed": "2026-01-11T02:00:26Z",
                   "awesome": true,
                   "path": [
@@ -4572,7 +4599,7 @@
                   "sourceRepo": "thejambo/awesome-testing",
                   "depth": 3,
                   "children": [],
-                  "stars": 45,
+                  "stars": 52,
                   "forks": 25,
                   "language": null,
                   "license": "CC0-1.0",
@@ -4588,8 +4615,8 @@
                     "test-automation",
                     "test-generation"
                   ],
-                  "updated": "2026-07-31T05:42:14Z",
-                  "pushed": "2026-08-01T06:07:34Z",
+                  "updated": "2026-08-07T15:43:20Z",
+                  "pushed": "2026-08-08T06:07:38Z",
                   "awesome": true,
                   "path": [
                     "Testing",
@@ -4650,8 +4677,8 @@
                   "sourceRepo": "thejambo/awesome-testing",
                   "depth": 3,
                   "children": [],
-                  "stars": 801,
-                  "forks": 209,
+                  "stars": 806,
+                  "forks": 211,
                   "language": "HTML",
                   "license": "CC-BY-4.0",
                   "topics": [
@@ -4664,7 +4691,7 @@
                     "load-testing",
                     "performance-testing"
                   ],
-                  "updated": "2026-07-30T09:14:45Z",
+                  "updated": "2026-08-07T16:31:07Z",
                   "pushed": "2026-08-01T02:02:30Z",
                   "awesome": true,
                   "path": [
@@ -4686,8 +4713,8 @@
                   "sourceRepo": "thejambo/awesome-testing",
                   "depth": 3,
                   "children": [],
-                  "stars": 31,
-                  "forks": 11,
+                  "stars": 32,
+                  "forks": 12,
                   "language": null,
                   "license": "CC0-1.0",
                   "topics": [
@@ -4702,8 +4729,8 @@
                     "performance-testing",
                     "sre"
                   ],
-                  "updated": "2026-07-19T13:15:29Z",
-                  "pushed": "2026-07-17T14:28:00Z",
+                  "updated": "2026-08-06T13:40:56Z",
+                  "pushed": "2026-08-06T13:39:00Z",
                   "awesome": true,
                   "path": [
                     "Testing",
@@ -4751,7 +4778,7 @@
                   "sourceRepo": "thejambo/awesome-testing",
                   "depth": 3,
                   "children": [],
-                  "stars": 1,
+                  "stars": 3,
                   "forks": 0,
                   "language": "Python",
                   "license": "NOASSERTION",
@@ -4767,8 +4794,8 @@
                     "test-automation",
                     "testing"
                   ],
-                  "updated": "2026-08-01T00:39:12Z",
-                  "pushed": "2026-07-31T13:04:44Z",
+                  "updated": "2026-08-05T16:00:08Z",
+                  "pushed": "2026-08-05T15:59:25Z",
                   "awesome": true,
                   "path": [
                     "Testing",
@@ -5008,8 +5035,8 @@
           "parentId": "root-testing-testing"
         }
       ],
-      "stars": 2326,
-      "forks": 393,
+      "stars": 2332,
+      "forks": 399,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -5020,8 +5047,8 @@
         "tester",
         "testing"
       ],
-      "updated": "2026-08-02T03:57:11Z",
-      "pushed": "2026-07-28T19:40:14Z",
+      "updated": "2026-08-08T18:00:56Z",
+      "pushed": "2026-08-06T00:22:20Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -8856,8 +8883,8 @@
           "parentId": "root-testing-visual-regression-testing"
         }
       ],
-      "stars": 2406,
-      "forks": 243,
+      "stars": 2407,
+      "forks": 244,
       "language": null,
       "license": "CC-BY-SA-4.0",
       "topics": [
@@ -8866,7 +8893,7 @@
         "testing",
         "testing-tools"
       ],
-      "updated": "2026-07-30T20:23:26Z",
+      "updated": "2026-08-05T04:02:41Z",
       "pushed": "2026-05-27T21:49:39Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -12417,8 +12444,8 @@
           "parentId": "root-testing-selenium"
         }
       ],
-      "stars": 1129,
-      "forks": 171,
+      "stars": 1132,
+      "forks": 172,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -12426,7 +12453,7 @@
         "awesome-list",
         "list"
       ],
-      "updated": "2026-08-01T09:30:20Z",
+      "updated": "2026-08-05T19:03:23Z",
       "pushed": "2026-03-17T19:57:25Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -17088,7 +17115,7 @@
           "parentId": "root-testing-appium"
         }
       ],
-      "stars": 463,
+      "stars": 464,
       "forks": 141,
       "language": null,
       "license": null,
@@ -17103,7 +17130,7 @@
         "docker-appium",
         "inspector"
       ],
-      "updated": "2026-07-26T10:38:06Z",
+      "updated": "2026-08-03T15:28:34Z",
       "pushed": "2021-09-28T14:59:54Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -26578,7 +26605,7 @@
                   "sourceRepo": "aliesbelik/awesome-jmeter",
                   "depth": 3,
                   "children": [],
-                  "stars": 2323,
+                  "stars": 2322,
                   "forks": 407,
                   "language": null,
                   "license": "NOASSERTION",
@@ -26594,7 +26621,7 @@
                     "tla",
                     "verification"
                   ],
-                  "updated": "2026-07-31T09:44:44Z",
+                  "updated": "2026-08-07T20:55:09Z",
                   "pushed": "2023-02-01T15:23:18Z",
                   "awesome": true,
                   "path": [
@@ -26616,8 +26643,8 @@
                   "sourceRepo": "aliesbelik/awesome-jmeter",
                   "depth": 3,
                   "children": [],
-                  "stars": 2326,
-                  "forks": 393,
+                  "stars": 2332,
+                  "forks": 399,
                   "language": null,
                   "license": "CC0-1.0",
                   "topics": [
@@ -26628,8 +26655,8 @@
                     "tester",
                     "testing"
                   ],
-                  "updated": "2026-08-02T03:57:11Z",
-                  "pushed": "2026-07-28T19:40:14Z",
+                  "updated": "2026-08-08T18:00:56Z",
+                  "pushed": "2026-08-06T00:22:20Z",
                   "awesome": true,
                   "path": [
                     "JMeter",
@@ -26663,8 +26690,8 @@
                     "tsung",
                     "tsung-plugin"
                   ],
-                  "updated": "2026-07-01T09:58:13Z",
-                  "pushed": "2026-08-01T07:42:19Z",
+                  "updated": "2026-08-06T05:13:03Z",
+                  "pushed": "2026-08-06T05:12:45Z",
                   "awesome": true,
                   "path": [
                     "JMeter",
@@ -26723,7 +26750,7 @@
                   "depth": 3,
                   "children": [],
                   "stars": 771,
-                  "forks": 63,
+                  "forks": 64,
                   "language": null,
                   "license": "CC0-1.0",
                   "topics": [
@@ -26894,8 +26921,8 @@
           "parentId": "root-testing-jmeter"
         }
       ],
-      "stars": 801,
-      "forks": 209,
+      "stars": 806,
+      "forks": 211,
       "language": "HTML",
       "license": "CC-BY-4.0",
       "topics": [
@@ -26908,7 +26935,7 @@
         "load-testing",
         "performance-testing"
       ],
-      "updated": "2026-07-30T09:14:45Z",
+      "updated": "2026-08-07T16:31:07Z",
       "pushed": "2026-08-01T02:02:30Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -30323,7 +30350,7 @@
               "sourceRepo": "grafana/awesome-k6",
               "depth": 2,
               "children": [],
-              "stars": 3760,
+              "stars": 3764,
               "forks": 259,
               "language": null,
               "license": "MIT",
@@ -30347,7 +30374,7 @@
                 "testing",
                 "tools"
               ],
-              "updated": "2026-07-31T13:31:44Z",
+              "updated": "2026-08-06T06:27:56Z",
               "pushed": "2026-05-05T09:20:09Z",
               "awesome": true,
               "path": [
@@ -30374,7 +30401,7 @@
         }
       ],
       "stars": 771,
-      "forks": 63,
+      "forks": 64,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -32799,8 +32826,8 @@
           "parentId": "root-testing-playwright"
         }
       ],
-      "stars": 1539,
-      "forks": 265,
+      "stars": 1547,
+      "forks": 269,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -32812,7 +32839,7 @@
         "testing",
         "tests"
       ],
-      "updated": "2026-08-01T17:20:55Z",
+      "updated": "2026-08-06T16:41:10Z",
       "pushed": "2026-07-17T02:53:40Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -33078,8 +33105,8 @@
           "parentId": "root-testing-quality-assurance-roadmap"
         }
       ],
-      "stars": 2141,
-      "forks": 363,
+      "stars": 2146,
+      "forks": 365,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -33095,7 +33122,7 @@
         "software-testing",
         "testing"
       ],
-      "updated": "2026-07-31T18:44:08Z",
+      "updated": "2026-08-08T23:12:38Z",
       "pushed": "2026-06-04T11:08:57Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -35193,7 +35220,7 @@
                   "sourceRepo": "aliesbelik/awesome-gatling",
                   "depth": 3,
                   "children": [],
-                  "stars": 2323,
+                  "stars": 2322,
                   "forks": 407,
                   "language": null,
                   "license": "NOASSERTION",
@@ -35209,7 +35236,7 @@
                     "tla",
                     "verification"
                   ],
-                  "updated": "2026-07-31T09:44:44Z",
+                  "updated": "2026-08-07T20:55:09Z",
                   "pushed": "2023-02-01T15:23:18Z",
                   "awesome": true,
                   "path": [
@@ -35231,8 +35258,8 @@
                   "sourceRepo": "aliesbelik/awesome-gatling",
                   "depth": 3,
                   "children": [],
-                  "stars": 2326,
-                  "forks": 393,
+                  "stars": 2332,
+                  "forks": 399,
                   "language": null,
                   "license": "CC0-1.0",
                   "topics": [
@@ -35243,8 +35270,8 @@
                     "tester",
                     "testing"
                   ],
-                  "updated": "2026-08-02T03:57:11Z",
-                  "pushed": "2026-07-28T19:40:14Z",
+                  "updated": "2026-08-08T18:00:56Z",
+                  "pushed": "2026-08-06T00:22:20Z",
                   "awesome": true,
                   "path": [
                     "Gatling",
@@ -35265,8 +35292,8 @@
                   "sourceRepo": "aliesbelik/awesome-gatling",
                   "depth": 3,
                   "children": [],
-                  "stars": 801,
-                  "forks": 209,
+                  "stars": 806,
+                  "forks": 211,
                   "language": "HTML",
                   "license": "CC-BY-4.0",
                   "topics": [
@@ -35279,7 +35306,7 @@
                     "load-testing",
                     "performance-testing"
                   ],
-                  "updated": "2026-07-30T09:14:45Z",
+                  "updated": "2026-08-07T16:31:07Z",
                   "pushed": "2026-08-01T02:02:30Z",
                   "awesome": true,
                   "path": [
@@ -35314,8 +35341,8 @@
                     "tsung",
                     "tsung-plugin"
                   ],
-                  "updated": "2026-07-01T09:58:13Z",
-                  "pushed": "2026-08-01T07:42:19Z",
+                  "updated": "2026-08-06T05:13:03Z",
+                  "pushed": "2026-08-06T05:12:45Z",
                   "awesome": true,
                   "path": [
                     "Gatling",
@@ -35337,7 +35364,7 @@
                   "depth": 3,
                   "children": [],
                   "stars": 771,
-                  "forks": 63,
+                  "forks": 64,
                   "language": null,
                   "license": "CC0-1.0",
                   "topics": [
@@ -36759,8 +36786,8 @@
           "parentId": "root-testing-coderabbit"
         }
       ],
-      "stars": 456,
-      "forks": 62,
+      "stars": 469,
+      "forks": 65,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -36774,7 +36801,7 @@
         "generative-ai",
         "pull-requests"
       ],
-      "updated": "2026-08-01T12:40:38Z",
+      "updated": "2026-08-08T05:19:20Z",
       "pushed": "2026-06-25T11:38:15Z",
       "awesome": true,
       "readmeStatus": "expanded",

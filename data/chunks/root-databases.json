@@ -243,12 +243,12 @@
           "parentId": "root-databases-database"
         }
       ],
-      "stars": 1376,
+      "stars": 1377,
       "forks": 180,
       "language": null,
       "license": null,
       "topics": [],
-      "updated": "2026-07-30T02:00:26Z",
+      "updated": "2026-08-03T16:59:07Z",
       "pushed": "2024-03-04T12:40:15Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -3481,12 +3481,12 @@
           "parentId": "root-databases-mysql"
         }
       ],
-      "stars": 2599,
-      "forks": 405,
+      "stars": 2602,
+      "forks": 406,
       "language": "Python",
       "license": "NOASSERTION",
       "topics": [],
-      "updated": "2026-08-01T22:45:24Z",
+      "updated": "2026-08-08T20:28:28Z",
       "pushed": "2026-07-14T06:11:52Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -3507,7 +3507,7 @@
       "depth": 1,
       "children": [],
       "stars": 3051,
-      "forks": 165,
+      "forks": 166,
       "language": "Python",
       "license": null,
       "topics": [
@@ -3520,7 +3520,7 @@
         "rdbms",
         "sqlalchemy"
       ],
-      "updated": "2026-07-30T11:32:25Z",
+      "updated": "2026-08-05T03:58:16Z",
       "pushed": "2026-06-08T08:36:57Z",
       "awesome": true,
       "readmeStatus": "empty",
@@ -4047,7 +4047,7 @@
           "parentId": "root-databases-influxdb"
         }
       ],
-      "stars": 818,
+      "stars": 819,
       "forks": 62,
       "language": null,
       "license": null,
@@ -4057,7 +4057,7 @@
         "influxdb",
         "list"
       ],
-      "updated": "2026-06-01T21:22:40Z",
+      "updated": "2026-08-03T23:35:19Z",
       "pushed": "2024-05-08T14:04:39Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -5216,12 +5216,12 @@
           "parentId": "root-databases-neo4j"
         }
       ],
-      "stars": 563,
+      "stars": 565,
       "forks": 83,
       "language": null,
       "license": null,
       "topics": [],
-      "updated": "2026-07-01T20:46:38Z",
+      "updated": "2026-08-07T00:23:21Z",
       "pushed": "2020-12-09T06:58:51Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -6306,6 +6306,33 @@
               "depth": 2,
               "url": "https://github.com/ramnes/awesome-mongodb#c-net",
               "children": [
+                {
+                  "id": "root-databases-mongodb-libraries-c-net-fluentstorage",
+                  "title": "FluentStorage",
+                  "kind": "repo",
+                  "repo": "robinrodricks/fluentstorage",
+                  "url": "https://github.com/robinrodricks/fluentstorage",
+                  "description": ".NET polycloud storage framework which provides a unified API across 15+ providers, including MongoDB GridFS",
+                  "external": false,
+                  "sourceRepo": "ramnes/awesome-mongodb",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "MongoDB",
+                    "Libraries",
+                    "C#/.NET ###",
+                    "FluentStorage"
+                  ],
+                  "parentId": "root-databases-mongodb-libraries-c-net"
+                },
                 {
                   "id": "root-databases-mongodb-libraries-c-net-mongo-csharp-driver",
                   "title": "mongo-csharp-driver",
@@ -11168,8 +11195,8 @@
           "parentId": "root-databases-mongodb"
         }
       ],
-      "stars": 2654,
-      "forks": 346,
+      "stars": 2658,
+      "forks": 347,
       "language": null,
       "license": null,
       "topics": [
@@ -11179,8 +11206,8 @@
         "mongodb",
         "mongodb-resources"
       ],
-      "updated": "2026-08-01T17:53:24Z",
-      "pushed": "2026-07-08T23:00:17Z",
+      "updated": "2026-08-07T10:54:06Z",
+      "pushed": "2026-08-05T15:52:41Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -15860,8 +15887,8 @@
           "parentId": "root-databases-postgresql"
         }
       ],
-      "stars": 12026,
-      "forks": 990,
+      "stars": 12041,
+      "forks": 998,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -15869,7 +15896,7 @@
         "postgres",
         "postgresql"
       ],
-      "updated": "2026-08-01T21:48:48Z",
+      "updated": "2026-08-09T00:02:07Z",
       "pushed": "2026-05-21T14:10:48Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -20000,7 +20027,7 @@
           "parentId": "root-databases-nosql-guides"
         }
       ],
-      "stars": 301,
+      "stars": 302,
       "forks": 30,
       "language": null,
       "license": "CC0-1.0",
@@ -20016,7 +20043,7 @@
         "nosql-guides",
         "relational-databases"
       ],
-      "updated": "2026-06-27T11:23:04Z",
+      "updated": "2026-08-04T20:00:44Z",
       "pushed": "2022-03-29T18:21:38Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -29633,8 +29660,8 @@
           "parentId": "root-databases-database-tools"
         }
       ],
-      "stars": 5256,
-      "forks": 472,
+      "stars": 5260,
+      "forks": 473,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -29648,7 +29675,7 @@
         "sql-client",
         "visualization"
       ],
-      "updated": "2026-07-31T22:12:27Z",
+      "updated": "2026-08-07T22:37:04Z",
       "pushed": "2026-05-21T15:18:32Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -38707,7 +38734,7 @@
         "datastax",
         "dse"
       ],
-      "updated": "2026-06-29T01:20:11Z",
+      "updated": "2026-08-08T18:45:58Z",
       "pushed": "2023-05-02T17:04:55Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -43428,7 +43455,7 @@
           "parentId": "root-databases-pocketbase"
         }
       ],
-      "stars": 1192,
+      "stars": 1195,
       "forks": 68,
       "language": null,
       "license": "CC0-1.0",
@@ -43438,7 +43465,7 @@
         "golang",
         "pocketbase"
       ],
-      "updated": "2026-07-22T21:35:23Z",
+      "updated": "2026-08-06T11:37:59Z",
       "pushed": "2026-07-08T22:06:56Z",
       "awesome": true,
       "readmeStatus": "expanded",

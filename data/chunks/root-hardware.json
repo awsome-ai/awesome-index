@@ -238,14 +238,14 @@
           "parentId": "root-hardware-robotics"
         }
       ],
-      "stars": 6817,
-      "forks": 1049,
+      "stars": 6827,
+      "forks": 1050,
       "language": null,
       "license": "NOASSERTION",
       "topics": [
         "robotics"
       ],
-      "updated": "2026-08-01T20:08:55Z",
+      "updated": "2026-08-08T18:06:16Z",
       "pushed": "2024-09-22T20:24:10Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -3217,6 +3217,33 @@
                     "IoT DC3"
                   ],
                   "parentId": "root-hardware-internet-of-things-software-middlewares"
+                },
+                {
+                  "id": "root-hardware-internet-of-things-software-middlewares-devicechain",
+                  "title": "DeviceChain",
+                  "kind": "repo",
+                  "repo": "devicechain-io/devicechain",
+                  "url": "https://github.com/devicechain-io/devicechain",
+                  "description": "Apache-2.0 self-hosted IoT platform written in Go and React. Multi-tenant microservices on Kubernetes, with MQTT, Sparkplug B and LwM2M ingest, TimescaleDB time-series storage, a CEL-based rule engine driving alarms and outbound connectors (webhooks, MQTT, Kafka, cloud queues), versioned dashboards, and GraphQL APIs. (Docs)",
+                  "external": false,
+                  "sourceRepo": "hqarroum/awesome-iot",
+                  "depth": 4,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Internet of Things",
+                    "Software",
+                    "Middlewares",
+                    "DeviceChain"
+                  ],
+                  "parentId": "root-hardware-internet-of-things-software-middlewares"
                 }
               ],
               "stars": 0,
@@ -5803,8 +5830,8 @@
           "parentId": "root-hardware-internet-of-things"
         }
       ],
-      "stars": 4385,
-      "forks": 515,
+      "stars": 4447,
+      "forks": 520,
       "language": null,
       "license": "MIT",
       "topics": [
@@ -5816,8 +5843,8 @@
         "internet-of-things",
         "iot"
       ],
-      "updated": "2026-08-01T20:13:35Z",
-      "pushed": "2026-07-13T11:25:12Z",
+      "updated": "2026-08-08T22:13:07Z",
+      "pushed": "2026-08-05T16:18:11Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -10357,12 +10384,12 @@
               "sourceRepo": "kitspace/awesome-electronics",
               "depth": 2,
               "children": [],
-              "stars": 394,
+              "stars": 395,
               "forks": 34,
               "language": null,
               "license": "GPL-3.0",
               "topics": [],
-              "updated": "2026-07-20T14:59:35Z",
+              "updated": "2026-08-07T03:05:47Z",
               "pushed": "2017-05-25T21:45:38Z",
               "awesome": true,
               "path": [
@@ -10409,12 +10436,12 @@
               "sourceRepo": "kitspace/awesome-electronics",
               "depth": 2,
               "children": [],
-              "stars": 1001,
+              "stars": 1003,
               "forks": 115,
               "language": null,
               "license": null,
               "topics": [],
-              "updated": "2026-07-29T17:32:14Z",
+              "updated": "2026-08-07T17:47:03Z",
               "pushed": "2024-01-04T03:35:24Z",
               "awesome": true,
               "path": [
@@ -10525,7 +10552,7 @@
               "sourceRepo": "kitspace/awesome-electronics",
               "depth": 2,
               "children": [],
-              "stars": 999,
+              "stars": 1002,
               "forks": 45,
               "language": null,
               "license": "CC0-1.0",
@@ -10536,8 +10563,8 @@
                 "open-hardware",
                 "open-source-hardware"
               ],
-              "updated": "2026-08-02T01:13:47Z",
-              "pushed": "2026-05-27T12:17:02Z",
+              "updated": "2026-08-06T10:07:20Z",
+              "pushed": "2026-08-06T07:20:15Z",
               "awesome": true,
               "path": [
                 "Electronics",
@@ -10557,8 +10584,8 @@
               "sourceRepo": "kitspace/awesome-electronics",
               "depth": 2,
               "children": [],
-              "stars": 343,
-              "forks": 61,
+              "stars": 346,
+              "forks": 62,
               "language": null,
               "license": null,
               "topics": [
@@ -10566,7 +10593,7 @@
                 "open-source",
                 "power-electronics"
               ],
-              "updated": "2026-07-23T03:06:50Z",
+              "updated": "2026-08-07T06:17:22Z",
               "pushed": "2026-03-10T09:04:56Z",
               "awesome": true,
               "path": [
@@ -10719,8 +10746,8 @@
           "parentId": "root-hardware-electronics"
         }
       ],
-      "stars": 7970,
-      "forks": 528,
+      "stars": 7997,
+      "forks": 527,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -10733,7 +10760,7 @@
         "kicad",
         "pcb"
       ],
-      "updated": "2026-08-01T18:11:29Z",
+      "updated": "2026-08-09T00:30:21Z",
       "pushed": "2026-01-05T18:43:02Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -11128,7 +11155,7 @@
           "parentId": "root-hardware-bluetooth-beacons"
         }
       ],
-      "stars": 955,
+      "stars": 956,
       "forks": 110,
       "language": null,
       "license": null,
@@ -11140,7 +11167,7 @@
         "eddystone-url",
         "ibeacon"
       ],
-      "updated": "2026-07-17T10:04:43Z",
+      "updated": "2026-08-07T19:17:10Z",
       "pushed": "2019-05-03T11:40:22Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -19541,7 +19568,7 @@
               "sourceRepo": "beardicus/awesome-plotters",
               "depth": 2,
               "children": [],
-              "stars": 1837,
+              "stars": 1839,
               "forks": 105,
               "language": null,
               "license": null,
@@ -19555,7 +19582,7 @@
                 "vjing",
                 "vvvv"
               ],
-              "updated": "2026-07-31T21:44:25Z",
+              "updated": "2026-08-08T12:50:04Z",
               "pushed": "2024-06-04T08:35:54Z",
               "awesome": true,
               "path": [
@@ -19576,8 +19603,8 @@
               "sourceRepo": "beardicus/awesome-plotters",
               "depth": 2,
               "children": [],
-              "stars": 15138,
-              "forks": 963,
+              "stars": 15169,
+              "forks": 965,
               "language": "HTML",
               "license": null,
               "topics": [
@@ -19599,7 +19626,7 @@
                 "shaders",
                 "webgl"
               ],
-              "updated": "2026-08-02T03:08:18Z",
+              "updated": "2026-08-08T20:10:21Z",
               "pushed": "2026-07-21T15:01:30Z",
               "awesome": true,
               "path": [
@@ -19651,7 +19678,7 @@
           "parentId": "root-hardware-plotters"
         }
       ],
-      "stars": 1433,
+      "stars": 1436,
       "forks": 95,
       "language": null,
       "license": "CC0-1.0",
@@ -19670,7 +19697,7 @@
         "roland-plotters",
         "vector-graphics"
       ],
-      "updated": "2026-07-31T21:44:31Z",
+      "updated": "2026-08-07T16:59:02Z",
       "pushed": "2025-12-03T21:39:31Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -28926,7 +28953,7 @@
           "parentId": "root-hardware-lidar"
         }
       ],
-      "stars": 1314,
+      "stars": 1317,
       "forks": 130,
       "language": null,
       "license": "CC0-1.0",
@@ -28946,7 +28973,7 @@
         "szegyetem",
         "szenergy"
       ],
-      "updated": "2026-07-31T13:16:49Z",
+      "updated": "2026-08-08T04:44:05Z",
       "pushed": "2026-03-16T09:19:48Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -28973,7 +29000,100 @@
           "sourceRepo": "delftopenhardware/awesome-open-hardware",
           "depth": 1,
           "url": "https://github.com/delftopenhardware/awesome-open-hardware#projects",
-          "children": [],
+          "children": [
+            {
+              "id": "root-hardware-open-hardware-projects-automation-manufacturing-and-robotics",
+              "title": "Automation, Manufacturing, and Robotics",
+              "kind": "section",
+              "sourceRepo": "delftopenhardware/awesome-open-hardware",
+              "depth": 2,
+              "url": "https://github.com/delftopenhardware/awesome-open-hardware#automation-manufacturing-and-robotics",
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Open Hardware",
+                "Projects",
+                "Automation, Manufacturing, and Robotics"
+              ],
+              "parentId": "root-hardware-open-hardware-projects"
+            },
+            {
+              "id": "root-hardware-open-hardware-projects-consumer-devices",
+              "title": "Consumer Devices",
+              "kind": "section",
+              "sourceRepo": "delftopenhardware/awesome-open-hardware",
+              "depth": 2,
+              "url": "https://github.com/delftopenhardware/awesome-open-hardware#consumer-devices",
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Open Hardware",
+                "Projects",
+                "Consumer Devices"
+              ],
+              "parentId": "root-hardware-open-hardware-projects"
+            },
+            {
+              "id": "root-hardware-open-hardware-projects-development-boards",
+              "title": "Development Boards",
+              "kind": "section",
+              "sourceRepo": "delftopenhardware/awesome-open-hardware",
+              "depth": 2,
+              "url": "https://github.com/delftopenhardware/awesome-open-hardware#development-boards",
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Open Hardware",
+                "Projects",
+                "Development Boards"
+              ],
+              "parentId": "root-hardware-open-hardware-projects"
+            },
+            {
+              "id": "root-hardware-open-hardware-projects-scientific-instruments",
+              "title": "Scientific Instruments",
+              "kind": "section",
+              "sourceRepo": "delftopenhardware/awesome-open-hardware",
+              "depth": 2,
+              "url": "https://github.com/delftopenhardware/awesome-open-hardware#scientific-instruments",
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Open Hardware",
+                "Projects",
+                "Scientific Instruments"
+              ],
+              "parentId": "root-hardware-open-hardware-projects"
+            }
+          ],
           "stars": 0,
           "forks": 0,
           "language": null,
@@ -29187,7 +29307,7 @@
           "parentId": "root-hardware-open-hardware"
         }
       ],
-      "stars": 999,
+      "stars": 1002,
       "forks": 45,
       "language": null,
       "license": "CC0-1.0",
@@ -29198,8 +29318,8 @@
         "open-hardware",
         "open-source-hardware"
       ],
-      "updated": "2026-08-02T01:13:47Z",
-      "pushed": "2026-05-27T12:17:02Z",
+      "updated": "2026-08-06T10:07:20Z",
+      "pushed": "2026-08-06T07:20:15Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -31135,7 +31255,7 @@
           "parentId": "root-hardware-ads-b"
         }
       ],
-      "stars": 372,
+      "stars": 373,
       "forks": 33,
       "language": "HTML",
       "license": "CC0-1.0",
@@ -31147,7 +31267,7 @@
         "resources",
         "tools"
       ],
-      "updated": "2026-07-31T15:51:30Z",
+      "updated": "2026-08-03T17:37:57Z",
       "pushed": "2026-06-19T10:12:51Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -31962,8 +32082,8 @@
           "parentId": "root-hardware-flying-fpv"
         }
       ],
-      "stars": 683,
-      "forks": 65,
+      "stars": 685,
+      "forks": 66,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -31979,7 +32099,7 @@
         "uav",
         "vtol"
       ],
-      "updated": "2026-08-01T15:01:33Z",
+      "updated": "2026-08-07T14:13:52Z",
       "pushed": "2026-03-06T11:49:48Z",
       "awesome": true,
       "readmeStatus": "expanded",
