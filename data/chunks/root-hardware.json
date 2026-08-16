@@ -238,14 +238,14 @@
           "parentId": "root-hardware-robotics"
         }
       ],
-      "stars": 6827,
-      "forks": 1050,
+      "stars": 6938,
+      "forks": 1066,
       "language": null,
       "license": "NOASSERTION",
       "topics": [
         "robotics"
       ],
-      "updated": "2026-08-08T18:06:16Z",
+      "updated": "2026-08-16T02:55:47Z",
       "pushed": "2024-09-22T20:24:10Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -3513,6 +3513,33 @@
                   "parentId": "root-hardware-internet-of-things-software-libraries-and-tools"
                 },
                 {
+                  "id": "root-hardware-internet-of-things-software-libraries-and-tools-mqtt-acl-linter",
+                  "title": "MQTT ACL Linter",
+                  "kind": "repo",
+                  "repo": "visoar/mqtt-acl-linter",
+                  "url": "https://github.com/visoar/mqtt-acl-linter",
+                  "description": "Local-only MQTT topic ACL static analysis with optional RunMQTT policy checks.",
+                  "external": false,
+                  "sourceRepo": "hqarroum/awesome-iot",
+                  "depth": 4,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Internet of Things",
+                    "Software",
+                    "Libraries and Tools",
+                    "MQTT ACL Linter"
+                  ],
+                  "parentId": "root-hardware-internet-of-things-software-libraries-and-tools"
+                },
+                {
                   "id": "root-hardware-internet-of-things-software-libraries-and-tools-mqtt-explorer",
                   "title": "MQTT Explorer",
                   "kind": "link",
@@ -5830,8 +5857,8 @@
           "parentId": "root-hardware-internet-of-things"
         }
       ],
-      "stars": 4447,
-      "forks": 520,
+      "stars": 4463,
+      "forks": 521,
       "language": null,
       "license": "MIT",
       "topics": [
@@ -5843,8 +5870,8 @@
         "internet-of-things",
         "iot"
       ],
-      "updated": "2026-08-08T22:13:07Z",
-      "pushed": "2026-08-05T16:18:11Z",
+      "updated": "2026-08-15T08:51:30Z",
+      "pushed": "2026-08-10T11:02:29Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -10384,12 +10411,12 @@
               "sourceRepo": "kitspace/awesome-electronics",
               "depth": 2,
               "children": [],
-              "stars": 395,
+              "stars": 394,
               "forks": 34,
               "language": null,
               "license": "GPL-3.0",
               "topics": [],
-              "updated": "2026-08-07T03:05:47Z",
+              "updated": "2026-08-14T06:01:11Z",
               "pushed": "2017-05-25T21:45:38Z",
               "awesome": true,
               "path": [
@@ -10436,12 +10463,12 @@
               "sourceRepo": "kitspace/awesome-electronics",
               "depth": 2,
               "children": [],
-              "stars": 1003,
-              "forks": 115,
+              "stars": 1005,
+              "forks": 116,
               "language": null,
               "license": null,
               "topics": [],
-              "updated": "2026-08-07T17:47:03Z",
+              "updated": "2026-08-15T12:28:13Z",
               "pushed": "2024-01-04T03:35:24Z",
               "awesome": true,
               "path": [
@@ -10488,7 +10515,7 @@
               "sourceRepo": "kitspace/awesome-electronics",
               "depth": 2,
               "children": [],
-              "stars": 357,
+              "stars": 359,
               "forks": 22,
               "language": null,
               "license": null,
@@ -10499,7 +10526,7 @@
                 "icestorm",
                 "lattice-fpga"
               ],
-              "updated": "2026-07-23T11:42:44Z",
+              "updated": "2026-08-14T20:18:56Z",
               "pushed": "2026-07-09T19:00:55Z",
               "awesome": true,
               "path": [
@@ -10552,8 +10579,8 @@
               "sourceRepo": "kitspace/awesome-electronics",
               "depth": 2,
               "children": [],
-              "stars": 1002,
-              "forks": 45,
+              "stars": 1029,
+              "forks": 46,
               "language": null,
               "license": "CC0-1.0",
               "topics": [
@@ -10563,7 +10590,7 @@
                 "open-hardware",
                 "open-source-hardware"
               ],
-              "updated": "2026-08-06T10:07:20Z",
+              "updated": "2026-08-15T08:51:35Z",
               "pushed": "2026-08-06T07:20:15Z",
               "awesome": true,
               "path": [
@@ -10584,7 +10611,7 @@
               "sourceRepo": "kitspace/awesome-electronics",
               "depth": 2,
               "children": [],
-              "stars": 346,
+              "stars": 350,
               "forks": 62,
               "language": null,
               "license": null,
@@ -10593,7 +10620,7 @@
                 "open-source",
                 "power-electronics"
               ],
-              "updated": "2026-08-07T06:17:22Z",
+              "updated": "2026-08-14T14:16:28Z",
               "pushed": "2026-03-10T09:04:56Z",
               "awesome": true,
               "path": [
@@ -10746,7 +10773,7 @@
           "parentId": "root-hardware-electronics"
         }
       ],
-      "stars": 7997,
+      "stars": 8027,
       "forks": 527,
       "language": null,
       "license": "CC0-1.0",
@@ -10760,7 +10787,7 @@
         "kicad",
         "pcb"
       ],
-      "updated": "2026-08-09T00:30:21Z",
+      "updated": "2026-08-15T17:12:25Z",
       "pushed": "2026-01-05T18:43:02Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -11155,7 +11182,7 @@
           "parentId": "root-hardware-bluetooth-beacons"
         }
       ],
-      "stars": 956,
+      "stars": 958,
       "forks": 110,
       "language": null,
       "license": null,
@@ -11167,7 +11194,7 @@
         "eddystone-url",
         "ibeacon"
       ],
-      "updated": "2026-08-07T19:17:10Z",
+      "updated": "2026-08-13T22:03:30Z",
       "pushed": "2019-05-03T11:40:22Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -19568,8 +19595,8 @@
               "sourceRepo": "beardicus/awesome-plotters",
               "depth": 2,
               "children": [],
-              "stars": 1839,
-              "forks": 105,
+              "stars": 1838,
+              "forks": 106,
               "language": null,
               "license": null,
               "topics": [
@@ -19582,7 +19609,7 @@
                 "vjing",
                 "vvvv"
               ],
-              "updated": "2026-08-08T12:50:04Z",
+              "updated": "2026-08-11T16:52:44Z",
               "pushed": "2024-06-04T08:35:54Z",
               "awesome": true,
               "path": [
@@ -19603,8 +19630,8 @@
               "sourceRepo": "beardicus/awesome-plotters",
               "depth": 2,
               "children": [],
-              "stars": 15169,
-              "forks": 965,
+              "stars": 15196,
+              "forks": 968,
               "language": "HTML",
               "license": null,
               "topics": [
@@ -19626,7 +19653,7 @@
                 "shaders",
                 "webgl"
               ],
-              "updated": "2026-08-08T20:10:21Z",
+              "updated": "2026-08-16T02:04:33Z",
               "pushed": "2026-07-21T15:01:30Z",
               "awesome": true,
               "path": [
@@ -19678,7 +19705,7 @@
           "parentId": "root-hardware-plotters"
         }
       ],
-      "stars": 1436,
+      "stars": 1439,
       "forks": 95,
       "language": null,
       "license": "CC0-1.0",
@@ -19697,7 +19724,7 @@
         "roland-plotters",
         "vector-graphics"
       ],
-      "updated": "2026-08-07T16:59:02Z",
+      "updated": "2026-08-16T02:53:29Z",
       "pushed": "2025-12-03T21:39:31Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -28953,8 +28980,8 @@
           "parentId": "root-hardware-lidar"
         }
       ],
-      "stars": 1317,
-      "forks": 130,
+      "stars": 1321,
+      "forks": 131,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -28973,7 +29000,7 @@
         "szegyetem",
         "szenergy"
       ],
-      "updated": "2026-08-08T04:44:05Z",
+      "updated": "2026-08-15T07:27:13Z",
       "pushed": "2026-03-16T09:19:48Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -29307,8 +29334,8 @@
           "parentId": "root-hardware-open-hardware"
         }
       ],
-      "stars": 1002,
-      "forks": 45,
+      "stars": 1029,
+      "forks": 46,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -29318,7 +29345,7 @@
         "open-hardware",
         "open-source-hardware"
       ],
-      "updated": "2026-08-06T10:07:20Z",
+      "updated": "2026-08-15T08:51:35Z",
       "pushed": "2026-08-06T07:20:15Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -31255,7 +31282,7 @@
           "parentId": "root-hardware-ads-b"
         }
       ],
-      "stars": 373,
+      "stars": 374,
       "forks": 33,
       "language": "HTML",
       "license": "CC0-1.0",
@@ -31267,7 +31294,7 @@
         "resources",
         "tools"
       ],
-      "updated": "2026-08-03T17:37:57Z",
+      "updated": "2026-08-11T20:49:13Z",
       "pushed": "2026-06-19T10:12:51Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -32082,7 +32109,7 @@
           "parentId": "root-hardware-flying-fpv"
         }
       ],
-      "stars": 685,
+      "stars": 687,
       "forks": 66,
       "language": null,
       "license": "CC0-1.0",
@@ -32099,7 +32126,7 @@
         "uav",
         "vtol"
       ],
-      "updated": "2026-08-07T14:13:52Z",
+      "updated": "2026-08-15T23:08:03Z",
       "pushed": "2026-03-06T11:49:48Z",
       "awesome": true,
       "readmeStatus": "expanded",

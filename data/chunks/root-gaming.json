@@ -3489,12 +3489,12 @@
           "parentId": "root-gaming-game-talks"
         }
       ],
-      "stars": 1177,
+      "stars": 1179,
       "forks": 52,
       "language": null,
       "license": "MIT",
       "topics": [],
-      "updated": "2026-07-29T01:48:28Z",
+      "updated": "2026-08-10T14:18:22Z",
       "pushed": "2024-05-09T00:58:26Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -13691,8 +13691,8 @@
           "parentId": "root-gaming-godot"
         }
       ],
-      "stars": 10522,
-      "forks": 571,
+      "stars": 10558,
+      "forks": 573,
       "language": null,
       "license": "CC-BY-4.0",
       "topics": [
@@ -13702,7 +13702,7 @@
         "godot",
         "godot-engine"
       ],
-      "updated": "2026-08-09T03:03:31Z",
+      "updated": "2026-08-16T02:16:23Z",
       "pushed": "2026-07-09T00:49:17Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -13973,6 +13973,33 @@
                     "Browser-Based",
                     "Boardgame",
                     "Lichess"
+                  ],
+                  "parentId": "root-gaming-open-source-games-browser-based-boardgame"
+                },
+                {
+                  "id": "root-gaming-open-source-games-browser-based-boardgame-pip",
+                  "title": "Pip",
+                  "kind": "repo",
+                  "repo": "playpip/pip-web",
+                  "url": "https://github.com/playpip/pip-web",
+                  "description": "Single-player Texas Hold'em against AI opponents with distinct playing styles. Play money only. Runs in the browser, installs as a PWA and works offline. Built with Next.js and TypeScript.",
+                  "external": false,
+                  "sourceRepo": "michelpereira/awesome-open-source-games",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Open Source Games",
+                    "Browser-Based",
+                    "Boardgame",
+                    "Pip"
                   ],
                   "parentId": "root-gaming-open-source-games-browser-based-boardgame"
                 },
@@ -25761,8 +25788,8 @@
           "parentId": "root-gaming-open-source-games"
         }
       ],
-      "stars": 2995,
-      "forks": 261,
+      "stars": 3012,
+      "forks": 262,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -25771,8 +25798,8 @@
         "games",
         "opensource"
       ],
-      "updated": "2026-08-09T03:11:07Z",
-      "pushed": "2026-08-03T15:16:59Z",
+      "updated": "2026-08-15T15:49:48Z",
+      "pushed": "2026-08-14T16:33:49Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -26233,7 +26260,7 @@
         }
       ],
       "stars": 7102,
-      "forks": 736,
+      "forks": 738,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -26241,7 +26268,7 @@
         "game-development",
         "unity"
       ],
-      "updated": "2026-08-07T05:24:46Z",
+      "updated": "2026-08-13T16:14:50Z",
       "pushed": "2025-01-22T15:47:15Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -26261,12 +26288,12 @@
       "sourceRepo": "sindresorhus/awesome",
       "depth": 1,
       "children": [],
-      "stars": 523,
+      "stars": 524,
       "forks": 46,
       "language": null,
       "license": "CC0-1.0",
       "topics": [],
-      "updated": "2026-07-30T02:41:38Z",
+      "updated": "2026-08-14T22:10:07Z",
       "pushed": "2020-11-20T11:48:24Z",
       "awesome": true,
       "readmeStatus": "empty",
@@ -26881,8 +26908,8 @@
           "parentId": "root-gaming-l-ve"
         }
       ],
-      "stars": 4461,
-      "forks": 244,
+      "stars": 4467,
+      "forks": 242,
       "language": "PowerShell",
       "license": "CC0-1.0",
       "topics": [
@@ -26892,7 +26919,7 @@
         "love2d",
         "lua"
       ],
-      "updated": "2026-08-09T03:10:43Z",
+      "updated": "2026-08-15T16:04:43Z",
       "pushed": "2026-06-18T20:27:08Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -29709,7 +29736,7 @@
           "parentId": "root-gaming-pico-8"
         }
       ],
-      "stars": 3059,
+      "stars": 3065,
       "forks": 103,
       "language": null,
       "license": "CC0-1.0",
@@ -29728,7 +29755,7 @@
         "pico-8",
         "pico8"
       ],
-      "updated": "2026-08-07T10:30:25Z",
+      "updated": "2026-08-14T13:41:09Z",
       "pushed": "2026-07-28T13:25:56Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -40843,8 +40870,8 @@
           "parentId": "root-gaming-game-boy-development"
         }
       ],
-      "stars": 4481,
-      "forks": 194,
+      "stars": 4484,
+      "forks": 193,
       "language": null,
       "license": "NOASSERTION",
       "topics": [
@@ -40868,7 +40895,7 @@
         "retrogaming",
         "tools"
       ],
-      "updated": "2026-08-07T15:30:30Z",
+      "updated": "2026-08-14T13:26:31Z",
       "pushed": "2026-07-22T19:03:27Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -45597,12 +45624,12 @@
               "sourceRepo": "stetso/awesome-gideros",
               "depth": 2,
               "children": [],
-              "stars": 4546,
-              "forks": 342,
+              "stars": 4551,
+              "forks": 343,
               "language": null,
               "license": null,
               "topics": [],
-              "updated": "2026-08-08T22:52:16Z",
+              "updated": "2026-08-15T14:50:15Z",
               "pushed": "2024-08-11T17:32:00Z",
               "awesome": true,
               "path": [
@@ -45623,8 +45650,8 @@
               "sourceRepo": "stetso/awesome-gideros",
               "depth": 2,
               "children": [],
-              "stars": 4461,
-              "forks": 244,
+              "stars": 4467,
+              "forks": 242,
               "language": "PowerShell",
               "license": "CC0-1.0",
               "topics": [
@@ -45634,7 +45661,7 @@
                 "love2d",
                 "lua"
               ],
-              "updated": "2026-08-09T03:10:43Z",
+              "updated": "2026-08-15T16:04:43Z",
               "pushed": "2026-06-18T20:27:08Z",
               "awesome": true,
               "path": [
@@ -50037,8 +50064,8 @@
           "parentId": "root-gaming-minecraft"
         }
       ],
-      "stars": 639,
-      "forks": 46,
+      "stars": 640,
+      "forks": 47,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -50046,7 +50073,7 @@
         "awesome-list",
         "minecraft"
       ],
-      "updated": "2026-08-08T18:23:09Z",
+      "updated": "2026-08-15T02:00:36Z",
       "pushed": "2025-08-23T13:16:01Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -53816,12 +53843,12 @@
                   "sourceRepo": "tomodachi94/awesome-computercraft",
                   "depth": 3,
                   "children": [],
-                  "stars": 4546,
-                  "forks": 342,
+                  "stars": 4551,
+                  "forks": 343,
                   "language": null,
                   "license": null,
                   "topics": [],
-                  "updated": "2026-08-08T22:52:16Z",
+                  "updated": "2026-08-15T14:50:15Z",
                   "pushed": "2024-08-11T17:32:00Z",
                   "awesome": true,
                   "path": [
@@ -53870,13 +53897,13 @@
                   "sourceRepo": "tomodachi94/awesome-computercraft",
                   "depth": 3,
                   "children": [],
-                  "stars": 28,
+                  "stars": 29,
                   "forks": 2,
                   "language": null,
                   "license": null,
                   "topics": [],
-                  "updated": "2026-08-01T08:53:51Z",
-                  "pushed": "2026-07-29T16:00:49Z",
+                  "updated": "2026-08-14T15:21:04Z",
+                  "pushed": "2026-08-12T14:52:19Z",
                   "awesome": true,
                   "path": [
                     "ComputerCraft",
@@ -54124,7 +54151,7 @@
           "parentId": "root-gaming-computercraft"
         }
       ],
-      "stars": 317,
+      "stars": 318,
       "forks": 18,
       "language": "Just",
       "license": "CC-BY-SA-4.0",
@@ -54135,7 +54162,7 @@
         "computercraft-tweaked",
         "minecraft"
       ],
-      "updated": "2026-08-06T18:37:59Z",
+      "updated": "2026-08-14T15:11:02Z",
       "pushed": "2026-08-02T20:06:16Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -54155,7 +54182,7 @@
       "sourceRepo": "sindresorhus/awesome",
       "depth": 1,
       "children": [],
-      "stars": 1102,
+      "stars": 1106,
       "forks": 81,
       "language": null,
       "license": "CC-BY-4.0",
@@ -54170,7 +54197,7 @@
         "game",
         "games"
       ],
-      "updated": "2026-08-08T01:57:49Z",
+      "updated": "2026-08-12T10:37:05Z",
       "pushed": "2026-08-08T01:57:45Z",
       "awesome": false,
       "path": [
@@ -54986,7 +55013,7 @@
           "parentId": "root-gaming-haxe-game-development"
         }
       ],
-      "stars": 421,
+      "stars": 422,
       "forks": 19,
       "language": "Haxe",
       "license": "CC0-1.0",
@@ -55004,7 +55031,7 @@
         "list",
         "resources"
       ],
-      "updated": "2026-07-02T04:22:13Z",
+      "updated": "2026-08-10T02:36:34Z",
       "pushed": "2023-11-17T21:20:29Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -57650,12 +57677,12 @@
               "sourceRepo": "rafaskb/awesome-libgdx",
               "depth": 2,
               "children": [],
-              "stars": 1177,
+              "stars": 1179,
               "forks": 52,
               "language": null,
               "license": "MIT",
               "topics": [],
-              "updated": "2026-07-29T01:48:28Z",
+              "updated": "2026-08-10T14:18:22Z",
               "pushed": "2024-05-09T00:58:26Z",
               "awesome": true,
               "path": [
@@ -57676,7 +57703,7 @@
               "sourceRepo": "rafaskb/awesome-libgdx",
               "depth": 2,
               "children": [],
-              "stars": 48681,
+              "stars": 48748,
               "forks": 7701,
               "language": null,
               "license": "CC-BY-SA-4.0",
@@ -57684,8 +57711,8 @@
                 "awesome",
                 "awesome-list"
               ],
-              "updated": "2026-08-09T03:25:16Z",
-              "pushed": "2026-08-03T00:32:57Z",
+              "updated": "2026-08-16T02:57:50Z",
+              "pushed": "2026-08-10T00:17:55Z",
               "awesome": true,
               "path": [
                 "libGDX",
@@ -57783,8 +57810,8 @@
               "sourceRepo": "rafaskb/awesome-libgdx",
               "depth": 2,
               "children": [],
-              "stars": 3090,
-              "forks": 195,
+              "stars": 3101,
+              "forks": 196,
               "language": null,
               "license": "CC-BY-SA-4.0",
               "topics": [
@@ -57794,7 +57821,7 @@
                 "game-development",
                 "game-programming"
               ],
-              "updated": "2026-08-08T21:39:28Z",
+              "updated": "2026-08-15T15:17:54Z",
               "pushed": "2026-07-07T19:10:59Z",
               "awesome": true,
               "path": [
@@ -73655,7 +73682,7 @@
           "parentId": "root-gaming-game-remakes"
         }
       ],
-      "stars": 1426,
+      "stars": 1432,
       "forks": 67,
       "language": null,
       "license": "CC-BY-SA-4.0",
@@ -73667,7 +73694,7 @@
         "games",
         "remake"
       ],
-      "updated": "2026-08-08T17:08:37Z",
+      "updated": "2026-08-15T18:01:56Z",
       "pushed": "2026-08-01T23:53:40Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -77273,7 +77300,7 @@
               "sourceRepo": "flame-engine/awesome-flame",
               "depth": 2,
               "children": [],
-              "stars": 1376,
+              "stars": 1378,
               "forks": 116,
               "language": null,
               "license": "CC0-1.0",
@@ -77287,7 +77314,7 @@
                 "lists",
                 "resources"
               ],
-              "updated": "2026-08-07T08:57:52Z",
+              "updated": "2026-08-15T18:40:12Z",
               "pushed": "2026-07-02T10:11:31Z",
               "awesome": true,
               "path": [
@@ -77308,7 +77335,7 @@
               "sourceRepo": "flame-engine/awesome-flame",
               "depth": 2,
               "children": [],
-              "stars": 1376,
+              "stars": 1378,
               "forks": 116,
               "language": null,
               "license": "CC0-1.0",
@@ -77322,7 +77349,7 @@
                 "lists",
                 "resources"
               ],
-              "updated": "2026-08-07T08:57:52Z",
+              "updated": "2026-08-15T18:40:12Z",
               "pushed": "2026-07-02T10:11:31Z",
               "awesome": true,
               "path": [
@@ -77348,7 +77375,7 @@
           "parentId": "root-gaming-flame"
         }
       ],
-      "stars": 1376,
+      "stars": 1378,
       "forks": 116,
       "language": null,
       "license": "CC0-1.0",
@@ -77362,7 +77389,7 @@
         "lists",
         "resources"
       ],
-      "updated": "2026-08-07T08:57:52Z",
+      "updated": "2026-08-15T18:40:12Z",
       "pushed": "2026-07-02T10:11:31Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -79386,8 +79413,8 @@
           "parentId": "root-gaming-discord-communities"
         }
       ],
-      "stars": 3566,
-      "forks": 216,
+      "stars": 3572,
+      "forks": 214,
       "language": "Python",
       "license": "CC-BY-4.0",
       "topics": [
@@ -79400,7 +79427,7 @@
         "game-development",
         "web"
       ],
-      "updated": "2026-08-07T06:09:51Z",
+      "updated": "2026-08-15T18:18:03Z",
       "pushed": "2026-04-25T19:09:39Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -79648,7 +79675,7 @@
         }
       ],
       "stars": 248,
-      "forks": 13,
+      "forks": 12,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -80982,7 +81009,7 @@
           "parentId": "root-gaming-games-of-coding"
         }
       ],
-      "stars": 2134,
+      "stars": 2140,
       "forks": 105,
       "language": null,
       "license": "CC0-1.0",
@@ -80994,7 +81021,7 @@
         "programming-language",
         "robocode"
       ],
-      "updated": "2026-08-07T10:57:15Z",
+      "updated": "2026-08-15T06:31:24Z",
       "pushed": "2026-03-25T03:16:25Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -104969,7 +104996,7 @@
                   "kind": "topic",
                   "repo": "",
                   "url": "",
-                  "description": "WebGL particle system for Three.js. [Examples]",
+                  "description": "WebGL particle system for Three.js.",
                   "external": false,
                   "sourceRepo": "stevinz/awesome-game-engine-dev",
                   "depth": 5,
@@ -108594,6 +108621,87 @@
                   "parentId": "root-gaming-game-engine-development-libraries-rust"
                 },
                 {
+                  "id": "root-gaming-game-engine-development-libraries-rust-rust-docking",
+                  "title": "Rust: Docking",
+                  "kind": "topic",
+                  "repo": "",
+                  "url": "",
+                  "description": "",
+                  "external": false,
+                  "sourceRepo": "stevinz/awesome-game-engine-dev",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Game Engine Development",
+                    "Libraries",
+                    "Rust",
+                    "Rust: Docking"
+                  ],
+                  "parentId": "root-gaming-game-engine-development-libraries-rust"
+                },
+                {
+                  "id": "root-gaming-game-engine-development-libraries-rust-rust-docking-eguidock",
+                  "title": "🎉 eguidock",
+                  "kind": "topic",
+                  "repo": "",
+                  "url": "",
+                  "description": "Docking support for egui.",
+                  "external": false,
+                  "sourceRepo": "stevinz/awesome-game-engine-dev",
+                  "depth": 5,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Game Engine Development",
+                    "Libraries",
+                    "Rust",
+                    "🎉 eguidock"
+                  ],
+                  "parentId": "root-gaming-game-engine-development-libraries-rust"
+                },
+                {
+                  "id": "root-gaming-game-engine-development-libraries-rust-rust-docking-eguitiles",
+                  "title": "🎉 eguitiles",
+                  "kind": "topic",
+                  "repo": "",
+                  "url": "",
+                  "description": "Tiling layout engine for egui.",
+                  "external": false,
+                  "sourceRepo": "stevinz/awesome-game-engine-dev",
+                  "depth": 5,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Game Engine Development",
+                    "Libraries",
+                    "Rust",
+                    "🎉 eguitiles"
+                  ],
+                  "parentId": "root-gaming-game-engine-development-libraries-rust"
+                },
+                {
                   "id": "root-gaming-game-engine-development-libraries-rust-rust-game-engine-w-editor",
                   "title": "Rust: Game Engine w/Editor",
                   "kind": "topic",
@@ -108644,6 +108752,33 @@
                     "Libraries",
                     "Rust",
                     "🎉 Fyrox"
+                  ],
+                  "parentId": "root-gaming-game-engine-development-libraries-rust"
+                },
+                {
+                  "id": "root-gaming-game-engine-development-libraries-rust-rust-game-engine-w-editor-renzora-engine",
+                  "title": "🎉 Renzora Engine",
+                  "kind": "topic",
+                  "repo": "",
+                  "url": "",
+                  "description": "3D game engine and visual editor built on Bevy.",
+                  "external": false,
+                  "sourceRepo": "stevinz/awesome-game-engine-dev",
+                  "depth": 5,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Game Engine Development",
+                    "Libraries",
+                    "Rust",
+                    "🎉 Renzora Engine"
                   ],
                   "parentId": "root-gaming-game-engine-development-libraries-rust"
                 },
@@ -108914,6 +109049,33 @@
                     "Libraries",
                     "Rust",
                     "🎉 Miniquad"
+                  ],
+                  "parentId": "root-gaming-game-engine-development-libraries-rust"
+                },
+                {
+                  "id": "root-gaming-game-engine-development-libraries-rust-rust-graphics-three-d",
+                  "title": "🎉 three-d",
+                  "kind": "topic",
+                  "repo": "",
+                  "url": "",
+                  "description": "2D/3D renderer, makes it simple to draw stuff across platforms.",
+                  "external": false,
+                  "sourceRepo": "stevinz/awesome-game-engine-dev",
+                  "depth": 5,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Game Engine Development",
+                    "Libraries",
+                    "Rust",
+                    "🎉 three-d"
                   ],
                   "parentId": "root-gaming-game-engine-development-libraries-rust"
                 },
@@ -109200,6 +109362,435 @@
                 "Game Engine Development",
                 "Libraries",
                 "Rust"
+              ],
+              "parentId": "root-gaming-game-engine-development-libraries"
+            },
+            {
+              "id": "root-gaming-game-engine-development-libraries-swift",
+              "title": "Swift",
+              "kind": "section",
+              "sourceRepo": "stevinz/awesome-game-engine-dev",
+              "depth": 2,
+              "url": "https://github.com/stevinz/awesome-game-engine-dev#swift",
+              "children": [
+                {
+                  "id": "root-gaming-game-engine-development-libraries-swift-awesome-swift",
+                  "title": "📚 Awesome Swift",
+                  "kind": "topic",
+                  "repo": "",
+                  "url": "",
+                  "description": "Collaborative list of awesome Swift libraries and resources.",
+                  "external": false,
+                  "sourceRepo": "stevinz/awesome-game-engine-dev",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Game Engine Development",
+                    "Libraries",
+                    "Swift",
+                    "📚 Awesome Swift"
+                  ],
+                  "parentId": "root-gaming-game-engine-development-libraries-swift"
+                },
+                {
+                  "id": "root-gaming-game-engine-development-libraries-swift-swift",
+                  "title": "🌎 Swift",
+                  "kind": "topic",
+                  "repo": "",
+                  "url": "",
+                  "description": "Created by Apple to build apps for iOS, Mac, and other Apple devices.",
+                  "external": false,
+                  "sourceRepo": "stevinz/awesome-game-engine-dev",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Game Engine Development",
+                    "Libraries",
+                    "Swift",
+                    "🌎 Swift"
+                  ],
+                  "parentId": "root-gaming-game-engine-development-libraries-swift"
+                },
+                {
+                  "id": "root-gaming-game-engine-development-libraries-swift-swift-game-engine-w-editor",
+                  "title": "Swift: Game Engine w/Editor",
+                  "kind": "topic",
+                  "repo": "",
+                  "url": "",
+                  "description": "",
+                  "external": false,
+                  "sourceRepo": "stevinz/awesome-game-engine-dev",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Game Engine Development",
+                    "Libraries",
+                    "Swift",
+                    "Swift: Game Engine w/Editor"
+                  ],
+                  "parentId": "root-gaming-game-engine-development-libraries-swift"
+                },
+                {
+                  "id": "root-gaming-game-engine-development-libraries-swift-swift-game-engine-w-editor-untoldengine",
+                  "title": "🔒 UntoldEngine",
+                  "kind": "topic",
+                  "repo": "",
+                  "url": "",
+                  "description": "For high-performance spatial visualization apps.",
+                  "external": false,
+                  "sourceRepo": "stevinz/awesome-game-engine-dev",
+                  "depth": 5,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Game Engine Development",
+                    "Libraries",
+                    "Swift",
+                    "🔒 UntoldEngine"
+                  ],
+                  "parentId": "root-gaming-game-engine-development-libraries-swift"
+                },
+                {
+                  "id": "root-gaming-game-engine-development-libraries-swift-swift-game-framework",
+                  "title": "Swift: Game Framework",
+                  "kind": "topic",
+                  "repo": "",
+                  "url": "",
+                  "description": "",
+                  "external": false,
+                  "sourceRepo": "stevinz/awesome-game-engine-dev",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Game Engine Development",
+                    "Libraries",
+                    "Swift",
+                    "Swift: Game Framework"
+                  ],
+                  "parentId": "root-gaming-game-engine-development-libraries-swift"
+                },
+                {
+                  "id": "root-gaming-game-engine-development-libraries-swift-swift-game-framework-gateengine",
+                  "title": "🎉 GateEngine",
+                  "kind": "topic",
+                  "repo": "",
+                  "url": "",
+                  "description": "Cross-platform game engine that allows you to build 2D and 3D games.",
+                  "external": false,
+                  "sourceRepo": "stevinz/awesome-game-engine-dev",
+                  "depth": 5,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Game Engine Development",
+                    "Libraries",
+                    "Swift",
+                    "🎉 GateEngine"
+                  ],
+                  "parentId": "root-gaming-game-engine-development-libraries-swift"
+                },
+                {
+                  "id": "root-gaming-game-engine-development-libraries-swift-swift-game-framework-glide",
+                  "title": "🎉 Glide",
+                  "kind": "topic",
+                  "repo": "",
+                  "url": "",
+                  "description": "Engine for making 2D games with practical examples and tutorials.",
+                  "external": false,
+                  "sourceRepo": "stevinz/awesome-game-engine-dev",
+                  "depth": 5,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Game Engine Development",
+                    "Libraries",
+                    "Swift",
+                    "🎉 Glide"
+                  ],
+                  "parentId": "root-gaming-game-engine-development-libraries-swift"
+                },
+                {
+                  "id": "root-gaming-game-engine-development-libraries-swift-swift-game-framework-imagine-engine",
+                  "title": "🎉 Imagine Engine",
+                  "kind": "topic",
+                  "repo": "",
+                  "url": "",
+                  "description": "Fast 2D game engine for Apple's platforms.",
+                  "external": false,
+                  "sourceRepo": "stevinz/awesome-game-engine-dev",
+                  "depth": 5,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Game Engine Development",
+                    "Libraries",
+                    "Swift",
+                    "🎉 Imagine Engine"
+                  ],
+                  "parentId": "root-gaming-game-engine-development-libraries-swift"
+                },
+                {
+                  "id": "root-gaming-game-engine-development-libraries-swift-swift-game-framework-iris",
+                  "title": "🎉 Iris",
+                  "kind": "topic",
+                  "repo": "",
+                  "url": "",
+                  "description": "Minimal 2D game engine in Swift.",
+                  "external": false,
+                  "sourceRepo": "stevinz/awesome-game-engine-dev",
+                  "depth": 5,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Game Engine Development",
+                    "Libraries",
+                    "Swift",
+                    "🎉 Iris"
+                  ],
+                  "parentId": "root-gaming-game-engine-development-libraries-swift"
+                },
+                {
+                  "id": "root-gaming-game-engine-development-libraries-swift-swift-game-framework-octopuskit",
+                  "title": "🎉 OctopusKit",
+                  "kind": "topic",
+                  "repo": "",
+                  "url": "",
+                  "description": "2D ECS game engine for iOS, macOS, tvOS.",
+                  "external": false,
+                  "sourceRepo": "stevinz/awesome-game-engine-dev",
+                  "depth": 5,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Game Engine Development",
+                    "Libraries",
+                    "Swift",
+                    "🎉 OctopusKit"
+                  ],
+                  "parentId": "root-gaming-game-engine-development-libraries-swift"
+                },
+                {
+                  "id": "root-gaming-game-engine-development-libraries-swift-swift-gui",
+                  "title": "Swift: Gui",
+                  "kind": "topic",
+                  "repo": "",
+                  "url": "",
+                  "description": "",
+                  "external": false,
+                  "sourceRepo": "stevinz/awesome-game-engine-dev",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Game Engine Development",
+                    "Libraries",
+                    "Swift",
+                    "Swift: Gui"
+                  ],
+                  "parentId": "root-gaming-game-engine-development-libraries-swift"
+                },
+                {
+                  "id": "root-gaming-game-engine-development-libraries-swift-swift-gui-swiftui",
+                  "title": "🌎 SwiftUI",
+                  "kind": "topic",
+                  "repo": "",
+                  "url": "",
+                  "description": "Apple's modern, flagship GUI framework used to build across all Apple platforms.",
+                  "external": false,
+                  "sourceRepo": "stevinz/awesome-game-engine-dev",
+                  "depth": 5,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Game Engine Development",
+                    "Libraries",
+                    "Swift",
+                    "🌎 SwiftUI"
+                  ],
+                  "parentId": "root-gaming-game-engine-development-libraries-swift"
+                },
+                {
+                  "id": "root-gaming-game-engine-development-libraries-swift-swift-physics",
+                  "title": "Swift: Physics",
+                  "kind": "topic",
+                  "repo": "",
+                  "url": "",
+                  "description": "",
+                  "external": false,
+                  "sourceRepo": "stevinz/awesome-game-engine-dev",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Game Engine Development",
+                    "Libraries",
+                    "Swift",
+                    "Swift: Physics"
+                  ],
+                  "parentId": "root-gaming-game-engine-development-libraries-swift"
+                },
+                {
+                  "id": "root-gaming-game-engine-development-libraries-swift-swift-physics-jelloswift",
+                  "title": "🎉 JelloSwift",
+                  "kind": "topic",
+                  "repo": "",
+                  "url": "",
+                  "description": "Swift soft body physics engine.",
+                  "external": false,
+                  "sourceRepo": "stevinz/awesome-game-engine-dev",
+                  "depth": 5,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Game Engine Development",
+                    "Libraries",
+                    "Swift",
+                    "🎉 JelloSwift"
+                  ],
+                  "parentId": "root-gaming-game-engine-development-libraries-swift"
+                },
+                {
+                  "id": "root-gaming-game-engine-development-libraries-swift-swift-physics-spritekit-physics",
+                  "title": "🌎 SpriteKit Physics",
+                  "kind": "topic",
+                  "repo": "",
+                  "url": "",
+                  "description": "Getting started with physics.",
+                  "external": false,
+                  "sourceRepo": "stevinz/awesome-game-engine-dev",
+                  "depth": 5,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Game Engine Development",
+                    "Libraries",
+                    "Swift",
+                    "🌎 SpriteKit Physics"
+                  ],
+                  "parentId": "root-gaming-game-engine-development-libraries-swift"
+                }
+              ],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Game Engine Development",
+                "Libraries",
+                "Swift"
               ],
               "parentId": "root-gaming-game-engine-development-libraries"
             },
@@ -111598,33 +112189,6 @@
                   "parentId": "root-gaming-game-engine-development-specialty-topics-lighting-shadows"
                 },
                 {
-                  "id": "root-gaming-game-engine-development-specialty-topics-lighting-shadows-shadows-3d-screen-space-shadows",
-                  "title": "📚 Screen Space Shadows",
-                  "kind": "topic",
-                  "repo": "",
-                  "url": "",
-                  "description": "Great exploration of screen space shadows.",
-                  "external": false,
-                  "sourceRepo": "stevinz/awesome-game-engine-dev",
-                  "depth": 5,
-                  "children": [],
-                  "stars": 0,
-                  "forks": 0,
-                  "language": null,
-                  "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
-                  "awesome": false,
-                  "path": [
-                    "Game Engine Development",
-                    "Specialty Topics",
-                    "Lighting / Shadows",
-                    "📚 Screen Space Shadows"
-                  ],
-                  "parentId": "root-gaming-game-engine-development-specialty-topics-lighting-shadows"
-                },
-                {
                   "id": "root-gaming-game-engine-development-specialty-topics-lighting-shadows-shadows-3d-shadow-mapping",
                   "title": "📚 Shadow Mapping",
                   "kind": "topic",
@@ -112822,6 +113386,33 @@
                   "parentId": "root-gaming-game-engine-development-specialty-topics-shaders"
                 },
                 {
+                  "id": "root-gaming-game-engine-development-specialty-topics-shaders-shader-survival-guide",
+                  "title": "💰 Shader Survival Guide",
+                  "kind": "topic",
+                  "repo": "",
+                  "url": "",
+                  "description": "Intro to the world of shaders and VFX using Unity Shader Graph.",
+                  "external": false,
+                  "sourceRepo": "stevinz/awesome-game-engine-dev",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Game Engine Development",
+                    "Specialty Topics",
+                    "Shaders",
+                    "💰 Shader Survival Guide"
+                  ],
+                  "parentId": "root-gaming-game-engine-development-specialty-topics-shaders"
+                },
+                {
                   "id": "root-gaming-game-engine-development-specialty-topics-shaders-shadered",
                   "title": "🌎 SHADERed",
                   "kind": "topic",
@@ -113922,33 +114513,6 @@
                     "Specialty Topics",
                     "Signed Distance Fields",
                     "📚 CSG w/SDFs"
-                  ],
-                  "parentId": "root-gaming-game-engine-development-specialty-topics-signed-distance-fields"
-                },
-                {
-                  "id": "root-gaming-game-engine-development-specialty-topics-signed-distance-fields-basic-2d-sdfs",
-                  "title": "📚 Basic 2D SDFs",
-                  "kind": "topic",
-                  "repo": "",
-                  "url": "",
-                  "description": "Basics of rendering 2D shapes with SDFs in shaders.",
-                  "external": false,
-                  "sourceRepo": "stevinz/awesome-game-engine-dev",
-                  "depth": 3,
-                  "children": [],
-                  "stars": 0,
-                  "forks": 0,
-                  "language": null,
-                  "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
-                  "awesome": false,
-                  "path": [
-                    "Game Engine Development",
-                    "Specialty Topics",
-                    "Signed Distance Fields",
-                    "📚 Basic 2D SDFs"
                   ],
                   "parentId": "root-gaming-game-engine-development-specialty-topics-signed-distance-fields"
                 },
@@ -115151,7 +115715,7 @@
                   "kind": "topic",
                   "repo": "",
                   "url": "",
-                  "description": "Extract the exact palette from any sprite or image, export to GPL, ASE or hex. [Source]",
+                  "description": "Extract the palette from any sprite or image, export to GPL, ASE or hex. [Source]",
                   "external": false,
                   "sourceRepo": "stevinz/awesome-game-engine-dev",
                   "depth": 3,
@@ -117475,8 +118039,8 @@
           "parentId": "root-gaming-game-engine-development"
         }
       ],
-      "stars": 1396,
-      "forks": 106,
+      "stars": 1403,
+      "forks": 107,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -117498,8 +118062,8 @@
         "shaders",
         "tools"
       ],
-      "updated": "2026-08-08T16:09:39Z",
-      "pushed": "2026-08-06T23:36:57Z",
+      "updated": "2026-08-14T22:54:39Z",
+      "pushed": "2026-08-14T18:26:14Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -127947,7 +128511,7 @@
         "gamemaker-studio-2",
         "games"
       ],
-      "updated": "2026-08-08T21:28:05Z",
+      "updated": "2026-08-12T06:45:30Z",
       "pushed": "2026-07-20T20:01:46Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -130736,7 +131300,7 @@
           "parentId": "root-gaming-game-production"
         }
       ],
-      "stars": 217,
+      "stars": 219,
       "forks": 8,
       "language": null,
       "license": "CC0-1.0",
@@ -130748,7 +131312,7 @@
         "production",
         "project-management"
       ],
-      "updated": "2026-08-06T14:24:06Z",
+      "updated": "2026-08-15T23:19:57Z",
       "pushed": "2026-05-04T10:46:17Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -141410,8 +141974,8 @@
           "parentId": "root-gaming-roblox"
         }
       ],
-      "stars": 74,
-      "forks": 7,
+      "stars": 75,
+      "forks": 8,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -141422,7 +141986,7 @@
         "luau",
         "roblox"
       ],
-      "updated": "2026-08-03T10:17:38Z",
+      "updated": "2026-08-09T22:25:56Z",
       "pushed": "2026-06-23T00:32:39Z",
       "awesome": true,
       "readmeStatus": "expanded",

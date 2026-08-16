@@ -311,7 +311,7 @@
           "parentId": "root-media-fonts"
         }
       ],
-      "stars": 2041,
+      "stars": 2048,
       "forks": 1025,
       "language": null,
       "license": null,
@@ -325,7 +325,7 @@
         "list",
         "programming-fonts"
       ],
-      "updated": "2026-08-08T01:49:02Z",
+      "updated": "2026-08-16T02:05:53Z",
       "pushed": "2026-07-26T05:01:07Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -885,8 +885,8 @@
           "parentId": "root-media-stock-resources"
         }
       ],
-      "stars": 14414,
-      "forks": 811,
+      "stars": 14432,
+      "forks": 812,
       "language": "Ruby",
       "license": "CC0-1.0",
       "topics": [
@@ -905,7 +905,7 @@
         "templates",
         "weather-icons"
       ],
-      "updated": "2026-08-07T11:25:51Z",
+      "updated": "2026-08-15T21:15:02Z",
       "pushed": "2026-02-11T22:01:53Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -2881,7 +2881,7 @@
           "parentId": "root-media-gif"
         }
       ],
-      "stars": 693,
+      "stars": 695,
       "forks": 59,
       "language": null,
       "license": "CC0-1.0",
@@ -2890,7 +2890,7 @@
         "awesome-list",
         "gif"
       ],
-      "updated": "2026-08-06T05:38:20Z",
+      "updated": "2026-08-14T14:30:08Z",
       "pushed": "2026-05-17T03:17:16Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -4326,12 +4326,12 @@
           "parentId": "root-media-open-source-documents"
         }
       ],
-      "stars": 2309,
+      "stars": 2312,
       "forks": 164,
       "language": null,
       "license": "NOASSERTION",
       "topics": [],
-      "updated": "2026-08-05T19:02:43Z",
+      "updated": "2026-08-14T13:58:18Z",
       "pushed": "2025-10-29T00:26:24Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -4795,6 +4795,32 @@
           "depth": 1,
           "url": "https://github.com/willianjusten/awesome-audio-visualization#experiments",
           "children": [
+            {
+              "id": "root-media-audio-visualization-experiments-master-pro-audio-analyzer-suite",
+              "title": "Master Pro Audio Analyzer Suite",
+              "kind": "repo",
+              "repo": "varunmaurya-git/master-pro-audio-analyzer",
+              "url": "https://github.com/varunmaurya-git/master-pro-audio-analyzer",
+              "description": "100% private, client-side Web Audio analyzer with 8192-FFT Spectrogram, RTA, and Phase Scope.",
+              "external": false,
+              "sourceRepo": "willianjusten/awesome-audio-visualization",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Audio Visualization",
+                "Experiments",
+                "Master Pro Audio Analyzer Suite"
+              ],
+              "parentId": "root-media-audio-visualization-experiments"
+            },
             {
               "id": "root-media-audio-visualization-experiments-audible-visuals",
               "title": "Audible Visuals",
@@ -6484,6 +6510,58 @@
                 "osci-render"
               ],
               "parentId": "root-media-audio-visualization-experiments"
+            },
+            {
+              "id": "root-media-audio-visualization-experiments-nutilz-audio-waveform-generator",
+              "title": "Nutilz Audio Waveform Generator",
+              "kind": "link",
+              "repo": "",
+              "url": "https://nutilz.com/audio-waveform-generator",
+              "description": "Upload an MP3, WAV, OGG, M4A or FLAC file and instantly generate a customizable waveform visualization (bars, mirrored bars, or line) using the Web Audio API, downloadable as a PNG. Runs entirely in the browser, no upload.",
+              "external": true,
+              "sourceRepo": "willianjusten/awesome-audio-visualization",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Audio Visualization",
+                "Experiments",
+                "Nutilz Audio Waveform Generator"
+              ],
+              "parentId": "root-media-audio-visualization-experiments"
+            },
+            {
+              "id": "root-media-audio-visualization-experiments-djmirror-pulse",
+              "title": "DjMirror Pulse",
+              "kind": "link",
+              "repo": "",
+              "url": "https://djmirror.com/",
+              "description": "Real-time audio-reactive visuals and DMX lighting control for live DJ sets, as a standalone desktop application.",
+              "external": true,
+              "sourceRepo": "willianjusten/awesome-audio-visualization",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Audio Visualization",
+                "Experiments",
+                "DjMirror Pulse"
+              ],
+              "parentId": "root-media-audio-visualization-experiments"
             }
           ],
           "stars": 0,
@@ -8138,6 +8216,32 @@
           "url": "https://github.com/willianjusten/awesome-audio-visualization#people-to-follow",
           "children": [
             {
+              "id": "root-media-audio-visualization-people-to-follow-varun-maurya",
+              "title": "Varun Maurya",
+              "kind": "link",
+              "repo": "",
+              "url": "https://www.linkedin.com/in/maurya-varun/",
+              "description": "Cloud & Media Systems Engineer, Solutions Architect, Hybrid AV/IT Infrastructure, Live Events & Studio Post-Production Audio Engineer",
+              "external": true,
+              "sourceRepo": "willianjusten/awesome-audio-visualization",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Audio Visualization",
+                "People to Follow",
+                "Varun Maurya"
+              ],
+              "parentId": "root-media-audio-visualization-people-to-follow"
+            },
+            {
               "id": "root-media-audio-visualization-people-to-follow-aaron-koblin",
               "title": "Aaron Koblin",
               "kind": "link",
@@ -9625,13 +9729,13 @@
           "parentId": "root-media-audio-visualization"
         }
       ],
-      "stars": 5059,
-      "forks": 345,
+      "stars": 5060,
+      "forks": 347,
       "language": "Shell",
       "license": null,
       "topics": [],
-      "updated": "2026-08-08T22:55:15Z",
-      "pushed": "2026-01-06T15:11:17Z",
+      "updated": "2026-08-15T21:30:53Z",
+      "pushed": "2026-08-13T14:34:10Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -10268,7 +10372,7 @@
         }
       ],
       "stars": 1763,
-      "forks": 221,
+      "forks": 219,
       "language": null,
       "license": "NOASSERTION",
       "topics": [
@@ -12027,8 +12131,8 @@
           "parentId": "root-media-pixel-art"
         }
       ],
-      "stars": 1232,
-      "forks": 51,
+      "stars": 1235,
+      "forks": 53,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -12036,7 +12140,7 @@
         "hacktoberfest",
         "pixel-art"
       ],
-      "updated": "2026-08-08T02:13:10Z",
+      "updated": "2026-08-13T22:00:44Z",
       "pushed": "2026-08-06T14:12:28Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -12997,8 +13101,8 @@
           "parentId": "root-media-ffmpeg"
         }
       ],
-      "stars": 1179,
-      "forks": 82,
+      "stars": 1181,
+      "forks": 81,
       "language": null,
       "license": null,
       "topics": [
@@ -13007,7 +13111,7 @@
         "ffmpeg",
         "fluent-ffmpeg"
       ],
-      "updated": "2026-08-05T04:18:25Z",
+      "updated": "2026-08-12T12:38:41Z",
       "pushed": "2025-08-09T15:39:11Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -13306,8 +13410,8 @@
               "sourceRepo": "notlmn/awesome-icons",
               "depth": 2,
               "children": [],
-              "stars": 76822,
-              "forks": 12187,
+              "stars": 76842,
+              "forks": 12188,
               "language": "JavaScript",
               "license": "NOASSERTION",
               "topics": [
@@ -13319,7 +13423,7 @@
                 "svg-sprites",
                 "webfont"
               ],
-              "updated": "2026-08-09T00:32:19Z",
+              "updated": "2026-08-16T02:34:10Z",
               "pushed": "2026-07-15T18:15:53Z",
               "awesome": true,
               "path": [
@@ -14481,8 +14585,8 @@
           "parentId": "root-media-icons"
         }
       ],
-      "stars": 985,
-      "forks": 57,
+      "stars": 989,
+      "forks": 58,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -14493,7 +14597,7 @@
         "icons",
         "logo"
       ],
-      "updated": "2026-08-08T17:54:43Z",
+      "updated": "2026-08-14T14:31:21Z",
       "pushed": "2026-07-19T19:40:19Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -16349,8 +16453,8 @@
               "sourceRepo": "stingalleman/awesome-audiovisual",
               "depth": 2,
               "children": [],
-              "stars": 1763,
-              "forks": 100,
+              "stars": 1767,
+              "forks": 101,
               "language": "Makefile",
               "license": "NOASSERTION",
               "topics": [
@@ -16366,7 +16470,7 @@
                 "video",
                 "vst"
               ],
-              "updated": "2026-08-07T04:56:13Z",
+              "updated": "2026-08-12T23:49:06Z",
               "pushed": "2026-07-31T17:20:26Z",
               "awesome": true,
               "path": [
@@ -16749,8 +16853,8 @@
           "parentId": "root-media-audiovisual"
         }
       ],
-      "stars": 265,
-      "forks": 22,
+      "stars": 267,
+      "forks": 23,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -16761,7 +16865,7 @@
         "dmx",
         "video-processing"
       ],
-      "updated": "2026-08-03T01:04:51Z",
+      "updated": "2026-08-15T22:32:26Z",
       "pushed": "2026-07-21T21:01:32Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -18989,7 +19093,7 @@
           "parentId": "root-media-audio-over-ip"
         }
       ],
-      "stars": 146,
+      "stars": 147,
       "forks": 9,
       "language": null,
       "license": "CC0-1.0",
@@ -19004,7 +19108,7 @@
         "network",
         "smpte-2110"
       ],
-      "updated": "2026-07-29T08:06:37Z",
+      "updated": "2026-08-11T13:57:21Z",
       "pushed": "2026-02-27T11:28:09Z",
       "awesome": true,
       "readmeStatus": "expanded",

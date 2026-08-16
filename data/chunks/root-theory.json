@@ -627,12 +627,12 @@
           "parentId": "root-theory-talks"
         }
       ],
-      "stars": 6198,
-      "forks": 417,
+      "stars": 6197,
+      "forks": 416,
       "language": null,
       "license": null,
       "topics": [],
-      "updated": "2026-08-06T16:17:49Z",
+      "updated": "2026-08-15T19:01:07Z",
       "pushed": "2026-06-25T14:00:39Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -3611,8 +3611,8 @@
                   "sourceRepo": "gaerae/awesome-algorithms-education",
                   "depth": 3,
                   "children": [],
-                  "stars": 14105,
-                  "forks": 2621,
+                  "stars": 14116,
+                  "forks": 2618,
                   "language": null,
                   "license": "CC-BY-4.0",
                   "topics": [
@@ -3629,7 +3629,7 @@
                     "quora",
                     "reference-materials"
                   ],
-                  "updated": "2026-08-08T12:55:02Z",
+                  "updated": "2026-08-16T02:05:07Z",
                   "pushed": "2024-12-08T09:40:58Z",
                   "awesome": true,
                   "path": [
@@ -3732,13 +3732,13 @@
                   "sourceRepo": "gaerae/awesome-algorithms-education",
                   "depth": 3,
                   "children": [],
-                  "stars": 73956,
-                  "forks": 15604,
+                  "stars": 74046,
+                  "forks": 15614,
                   "language": "Python",
                   "license": "NOASSERTION",
                   "topics": [],
-                  "updated": "2026-08-08T23:40:53Z",
-                  "pushed": "2026-08-06T18:03:02Z",
+                  "updated": "2026-08-15T23:44:01Z",
+                  "pushed": "2026-08-11T21:49:59Z",
                   "awesome": true,
                   "path": [
                     "Algorithms",
@@ -3900,7 +3900,7 @@
               "parentId": "root-theory-algorithms-education"
             }
           ],
-          "stars": 893,
+          "stars": 900,
           "forks": 64,
           "language": null,
           "license": null,
@@ -3912,7 +3912,7 @@
             "education",
             "programming"
           ],
-          "updated": "2026-08-07T04:44:17Z",
+          "updated": "2026-08-13T21:35:38Z",
           "pushed": "2022-11-15T12:24:33Z",
           "awesome": true,
           "readmeStatus": "expanded",
@@ -4356,8 +4356,8 @@
               "sourceRepo": "tayllan/awesome-algorithms",
               "depth": 2,
               "children": [],
-              "stars": 1195,
-              "forks": 70,
+              "stars": 1196,
+              "forks": 71,
               "language": "Python",
               "license": "CC0-1.0",
               "topics": [
@@ -4370,7 +4370,7 @@
                 "theoretical-computer-science",
                 "theory-of-computation"
               ],
-              "updated": "2026-08-06T13:35:33Z",
+              "updated": "2026-08-11T14:50:40Z",
               "pushed": "2026-01-30T20:06:12Z",
               "awesome": true,
               "path": [
@@ -4391,10 +4391,10 @@
               "sourceRepo": "tayllan/awesome-algorithms",
               "depth": 2,
               "children": [],
-              "stars": 16029,
+              "stars": 16097,
               "forks": 1581,
               "language": "Python",
-              "license": null,
+              "license": "CC0-1.0",
               "topics": [
                 "awesome",
                 "awesome-list",
@@ -4402,8 +4402,8 @@
                 "list",
                 "mathematics"
               ],
-              "updated": "2026-08-09T03:05:54Z",
-              "pushed": "2026-05-19T10:05:56Z",
+              "updated": "2026-08-16T02:30:13Z",
+              "pushed": "2026-08-14T08:36:36Z",
               "awesome": true,
               "path": [
                 "Algorithms",
@@ -4428,12 +4428,12 @@
           "parentId": "root-theory-algorithms"
         }
       ],
-      "stars": 25439,
-      "forks": 2960,
+      "stars": 25454,
+      "forks": 2957,
       "language": null,
       "license": null,
       "topics": [],
-      "updated": "2026-08-08T23:26:45Z",
+      "updated": "2026-08-15T23:07:22Z",
       "pushed": "2026-04-18T15:06:58Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -4868,6 +4868,33 @@
               "depth": 2,
               "url": "https://github.com/owainlewis/awesome-artificial-intelligence#courses",
               "children": [
+                {
+                  "id": "root-theory-artificial-intelligence-learn-courses-ai-engineer-a-paid-program-for-agentic-coding-and-building-testing-and-shipping-production-ai-systems",
+                  "title": "AI Engineer: A paid program for agentic coding and building, testing, and shipping production AI systems.",
+                  "kind": "topic",
+                  "repo": "",
+                  "url": "",
+                  "description": "",
+                  "external": false,
+                  "sourceRepo": "owainlewis/awesome-artificial-intelligence",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Artificial Intelligence",
+                    "Learn",
+                    "Courses",
+                    "AI Engineer: A paid program for agentic coding and building, testing, and shipping production AI systems."
+                  ],
+                  "parentId": "root-theory-artificial-intelligence-learn-courses"
+                },
                 {
                   "id": "root-theory-artificial-intelligence-learn-courses-hugging-face-llm-course-transformers-fine-tuning-datasets-and-modern-nlp-tooling",
                   "title": "Hugging Face LLM Course: Transformers, fine-tuning, datasets, and modern NLP tooling.",
@@ -5503,6 +5530,33 @@
                     "Build AI systems",
                     "Guides and playbooks",
                     "A Practical Guide to Building Agents: OpenAI's guide to models, tools, instructions, orchestration, and guardrails."
+                  ],
+                  "parentId": "root-theory-artificial-intelligence-build-ai-systems-guides-and-playbooks"
+                },
+                {
+                  "id": "root-theory-artificial-intelligence-build-ai-systems-guides-and-playbooks-awesome-deepseek-agent-deepseek-s-official-setup-guides-for-integrating-its-models-with-coding-agents-including-claude-code-codex-cline-opencode-and-pi",
+                  "title": "Awesome DeepSeek Agent: DeepSeek's official setup guides for integrating its models with coding agents including Claude Code, Codex, Cline, OpenCode, and Pi.",
+                  "kind": "topic",
+                  "repo": "",
+                  "url": "",
+                  "description": "",
+                  "external": false,
+                  "sourceRepo": "owainlewis/awesome-artificial-intelligence",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Artificial Intelligence",
+                    "Build AI systems",
+                    "Guides and playbooks",
+                    "Awesome DeepSeek Agent: DeepSeek's official setup guides for integrating its models with coding agents including Claude Code, Codex, Cline, OpenCode, and Pi."
                   ],
                   "parentId": "root-theory-artificial-intelligence-build-ai-systems-guides-and-playbooks"
                 }
@@ -6391,57 +6445,6 @@
                 "Deployment and observability"
               ],
               "parentId": "root-theory-artificial-intelligence-build-ai-systems"
-            },
-            {
-              "id": "root-theory-artificial-intelligence-build-ai-systems-speech-and-audio",
-              "title": "Speech and audio",
-              "kind": "section",
-              "sourceRepo": "owainlewis/awesome-artificial-intelligence",
-              "depth": 2,
-              "url": "https://github.com/owainlewis/awesome-artificial-intelligence#speech-and-audio",
-              "children": [
-                {
-                  "id": "root-theory-artificial-intelligence-build-ai-systems-speech-and-audio-funasr-speech-recognition-toolkit-with-streaming-asr-vad-punctuation-speaker-diarization-and-openai-compatible-serving-for-voice-ai-applications",
-                  "title": "FunASR: Speech recognition toolkit with streaming ASR, VAD, punctuation, speaker diarization, and OpenAI-compatible serving for voice AI applications.",
-                  "kind": "topic",
-                  "repo": "",
-                  "url": "",
-                  "description": "",
-                  "external": false,
-                  "sourceRepo": "owainlewis/awesome-artificial-intelligence",
-                  "depth": 3,
-                  "children": [],
-                  "stars": 0,
-                  "forks": 0,
-                  "language": null,
-                  "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
-                  "awesome": false,
-                  "path": [
-                    "Artificial Intelligence",
-                    "Build AI systems",
-                    "Speech and audio",
-                    "FunASR: Speech recognition toolkit with streaming ASR, VAD, punctuation, speaker diarization, and OpenAI-compatible serving for voice AI applications."
-                  ],
-                  "parentId": "root-theory-artificial-intelligence-build-ai-systems-speech-and-audio"
-                }
-              ],
-              "stars": 0,
-              "forks": 0,
-              "language": null,
-              "license": null,
-              "topics": [],
-              "updated": null,
-              "pushed": null,
-              "awesome": false,
-              "path": [
-                "Artificial Intelligence",
-                "Build AI systems",
-                "Speech and audio"
-              ],
-              "parentId": "root-theory-artificial-intelligence-build-ai-systems"
             }
           ],
           "stars": 0,
@@ -6474,6 +6477,33 @@
               "depth": 2,
               "url": "https://github.com/owainlewis/awesome-artificial-intelligence#coding-agents",
               "children": [
+                {
+                  "id": "root-theory-artificial-intelligence-agentic-software-engineering-coding-agents-neo-an-open-source-workflow-first-terminal-coding-agent-with-subagents-skills-sandboxed-tools-and-multiple-model-providers",
+                  "title": "Neo: An open-source, workflow-first terminal coding agent with subagents, skills, sandboxed tools, and multiple model providers.",
+                  "kind": "topic",
+                  "repo": "",
+                  "url": "",
+                  "description": "",
+                  "external": false,
+                  "sourceRepo": "owainlewis/awesome-artificial-intelligence",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Artificial Intelligence",
+                    "Agentic software engineering",
+                    "Coding agents",
+                    "Neo: An open-source, workflow-first terminal coding agent with subagents, skills, sandboxed tools, and multiple model providers."
+                  ],
+                  "parentId": "root-theory-artificial-intelligence-agentic-software-engineering-coding-agents"
+                },
                 {
                   "id": "root-theory-artificial-intelligence-agentic-software-engineering-coding-agents-claude-code-a-terminal-agent-with-hooks-subagents-skills-and-repository-level-instructions",
                   "title": "Claude Code: A terminal agent with hooks, subagents, skills, and repository-level instructions.",
@@ -6761,6 +6791,57 @@
               "parentId": "root-theory-artificial-intelligence-agentic-software-engineering"
             },
             {
+              "id": "root-theory-artificial-intelligence-agentic-software-engineering-agent-skills-and-workflows",
+              "title": "Agent skills and workflows",
+              "kind": "section",
+              "sourceRepo": "owainlewis/awesome-artificial-intelligence",
+              "depth": 2,
+              "url": "https://github.com/owainlewis/awesome-artificial-intelligence#agent-skills-and-workflows",
+              "children": [
+                {
+                  "id": "root-theory-artificial-intelligence-agentic-software-engineering-agent-skills-and-workflows-blueprint-an-open-source-set-of-focused-agent-skills-for-designing-implementing-testing-reviewing-and-shipping-software-changes",
+                  "title": "Blueprint: An open-source set of focused agent skills for designing, implementing, testing, reviewing, and shipping software changes.",
+                  "kind": "topic",
+                  "repo": "",
+                  "url": "",
+                  "description": "",
+                  "external": false,
+                  "sourceRepo": "owainlewis/awesome-artificial-intelligence",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Artificial Intelligence",
+                    "Agentic software engineering",
+                    "Agent skills and workflows",
+                    "Blueprint: An open-source set of focused agent skills for designing, implementing, testing, reviewing, and shipping software changes."
+                  ],
+                  "parentId": "root-theory-artificial-intelligence-agentic-software-engineering-agent-skills-and-workflows"
+                }
+              ],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Artificial Intelligence",
+                "Agentic software engineering",
+                "Agent skills and workflows"
+              ],
+              "parentId": "root-theory-artificial-intelligence-agentic-software-engineering"
+            },
+            {
               "id": "root-theory-artificial-intelligence-agentic-software-engineering-software-factories-and-agent-orchestration",
               "title": "Software factories and agent orchestration",
               "kind": "section",
@@ -6881,8 +6962,8 @@
           "parentId": "root-theory-artificial-intelligence"
         }
       ],
-      "stars": 15708,
-      "forks": 2470,
+      "stars": 15800,
+      "forks": 2474,
       "language": "Python",
       "license": "MIT",
       "topics": [
@@ -6898,8 +6979,8 @@
         "statistical-learning",
         "unsupervised-learning"
       ],
-      "updated": "2026-08-08T17:34:51Z",
-      "pushed": "2026-08-03T08:09:46Z",
+      "updated": "2026-08-16T01:44:56Z",
+      "pushed": "2026-08-15T08:12:01Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -7652,8 +7733,8 @@
           "parentId": "root-theory-competitive-programming"
         }
       ],
-      "stars": 14105,
-      "forks": 2621,
+      "stars": 14116,
+      "forks": 2618,
       "language": null,
       "license": "CC-BY-4.0",
       "topics": [
@@ -7670,7 +7751,7 @@
         "quora",
         "reference-materials"
       ],
-      "updated": "2026-08-08T12:55:02Z",
+      "updated": "2026-08-16T02:05:07Z",
       "pushed": "2024-12-08T09:40:58Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -7691,262 +7772,20 @@
       "depth": 1,
       "children": [
         {
-          "id": "root-theory-math-learning-platforms",
-          "title": "Learning Platforms",
+          "id": "root-theory-math-start-here",
+          "title": "Start Here",
           "kind": "section",
           "sourceRepo": "rossant/awesome-math",
           "depth": 1,
-          "url": "https://github.com/rossant/awesome-math#learning-platforms",
-          "children": [],
-          "stars": 0,
-          "forks": 0,
-          "language": null,
-          "license": null,
-          "topics": [],
-          "updated": null,
-          "pushed": null,
-          "awesome": false,
-          "path": [
-            "Math",
-            "Learning Platforms"
-          ],
-          "parentId": "root-theory-math"
-        },
-        {
-          "id": "root-theory-math-learn-to-learn",
-          "title": "Learn to Learn",
-          "kind": "section",
-          "sourceRepo": "rossant/awesome-math",
-          "depth": 1,
-          "url": "https://github.com/rossant/awesome-math#learn-to-learn",
-          "children": [],
-          "stars": 0,
-          "forks": 0,
-          "language": null,
-          "license": null,
-          "topics": [],
-          "updated": null,
-          "pushed": null,
-          "awesome": false,
-          "path": [
-            "Math",
-            "Learn to Learn"
-          ],
-          "parentId": "root-theory-math"
-        },
-        {
-          "id": "root-theory-math-youtube-series",
-          "title": "Youtube Series",
-          "kind": "section",
-          "sourceRepo": "rossant/awesome-math",
-          "depth": 1,
-          "url": "https://github.com/rossant/awesome-math#youtube-series",
-          "children": [],
-          "stars": 0,
-          "forks": 0,
-          "language": null,
-          "license": null,
-          "topics": [],
-          "updated": null,
-          "pushed": null,
-          "awesome": false,
-          "path": [
-            "Math",
-            "Youtube Series"
-          ],
-          "parentId": "root-theory-math"
-        },
-        {
-          "id": "root-theory-math-tools",
-          "title": "Tools",
-          "kind": "section",
-          "sourceRepo": "rossant/awesome-math",
-          "depth": 1,
-          "url": "https://github.com/rossant/awesome-math#tools",
-          "children": [],
-          "stars": 0,
-          "forks": 0,
-          "language": null,
-          "license": null,
-          "topics": [],
-          "updated": null,
-          "pushed": null,
-          "awesome": false,
-          "path": [
-            "Math",
-            "Tools"
-          ],
-          "parentId": "root-theory-math"
-        },
-        {
-          "id": "root-theory-math-questions-and-answers",
-          "title": "Questions and Answers",
-          "kind": "section",
-          "sourceRepo": "rossant/awesome-math",
-          "depth": 1,
-          "url": "https://github.com/rossant/awesome-math#questions-and-answers",
-          "children": [],
-          "stars": 0,
-          "forks": 0,
-          "language": null,
-          "license": null,
-          "topics": [],
-          "updated": null,
-          "pushed": null,
-          "awesome": false,
-          "path": [
-            "Math",
-            "Questions and Answers"
-          ],
-          "parentId": "root-theory-math"
-        },
-        {
-          "id": "root-theory-math-encyclopedia",
-          "title": "Encyclopedia",
-          "kind": "section",
-          "sourceRepo": "rossant/awesome-math",
-          "depth": 1,
-          "url": "https://github.com/rossant/awesome-math#encyclopedia",
-          "children": [],
-          "stars": 0,
-          "forks": 0,
-          "language": null,
-          "license": null,
-          "topics": [],
-          "updated": null,
-          "pushed": null,
-          "awesome": false,
-          "path": [
-            "Math",
-            "Encyclopedia"
-          ],
-          "parentId": "root-theory-math"
-        },
-        {
-          "id": "root-theory-math-books",
-          "title": "Books",
-          "kind": "section",
-          "sourceRepo": "rossant/awesome-math",
-          "depth": 1,
-          "url": "https://github.com/rossant/awesome-math#books",
-          "children": [],
-          "stars": 0,
-          "forks": 0,
-          "language": null,
-          "license": null,
-          "topics": [],
-          "updated": null,
-          "pushed": null,
-          "awesome": false,
-          "path": [
-            "Math",
-            "Books"
-          ],
-          "parentId": "root-theory-math"
-        },
-        {
-          "id": "root-theory-math-magazines",
-          "title": "Magazines",
-          "kind": "section",
-          "sourceRepo": "rossant/awesome-math",
-          "depth": 1,
-          "url": "https://github.com/rossant/awesome-math#magazines",
-          "children": [],
-          "stars": 0,
-          "forks": 0,
-          "language": null,
-          "license": null,
-          "topics": [],
-          "updated": null,
-          "pushed": null,
-          "awesome": false,
-          "path": [
-            "Math",
-            "Magazines"
-          ],
-          "parentId": "root-theory-math"
-        },
-        {
-          "id": "root-theory-math-blogs",
-          "title": "Blogs",
-          "kind": "section",
-          "sourceRepo": "rossant/awesome-math",
-          "depth": 1,
-          "url": "https://github.com/rossant/awesome-math#blogs",
-          "children": [],
-          "stars": 0,
-          "forks": 0,
-          "language": null,
-          "license": null,
-          "topics": [],
-          "updated": null,
-          "pushed": null,
-          "awesome": false,
-          "path": [
-            "Math",
-            "Blogs"
-          ],
-          "parentId": "root-theory-math"
-        },
-        {
-          "id": "root-theory-math-meetings-and-conferences",
-          "title": "Meetings and Conferences",
-          "kind": "section",
-          "sourceRepo": "rossant/awesome-math",
-          "depth": 1,
-          "url": "https://github.com/rossant/awesome-math#meetings-and-conferences",
-          "children": [],
-          "stars": 0,
-          "forks": 0,
-          "language": null,
-          "license": null,
-          "topics": [],
-          "updated": null,
-          "pushed": null,
-          "awesome": false,
-          "path": [
-            "Math",
-            "Meetings and Conferences"
-          ],
-          "parentId": "root-theory-math"
-        },
-        {
-          "id": "root-theory-math-misc",
-          "title": "Misc",
-          "kind": "section",
-          "sourceRepo": "rossant/awesome-math",
-          "depth": 1,
-          "url": "https://github.com/rossant/awesome-math#misc",
-          "children": [],
-          "stars": 0,
-          "forks": 0,
-          "language": null,
-          "license": null,
-          "topics": [],
-          "updated": null,
-          "pushed": null,
-          "awesome": false,
-          "path": [
-            "Math",
-            "Misc"
-          ],
-          "parentId": "root-theory-math"
-        },
-        {
-          "id": "root-theory-math-foundations-of-mathematics",
-          "title": "Foundations of Mathematics",
-          "kind": "section",
-          "sourceRepo": "rossant/awesome-math",
-          "depth": 1,
-          "url": "https://github.com/rossant/awesome-math#foundations-of-mathematics",
+          "url": "https://github.com/rossant/awesome-math#start-here",
           "children": [
             {
-              "id": "root-theory-math-foundations-of-mathematics-transition-to-pure-rigour-math",
-              "title": "Transition To Pure Rigour Math",
+              "id": "root-theory-math-start-here-learning-platforms",
+              "title": "Learning Platforms",
               "kind": "section",
               "sourceRepo": "rossant/awesome-math",
               "depth": 2,
-              "url": "https://github.com/rossant/awesome-math#transition-to-pure-rigour-math",
+              "url": "https://github.com/rossant/awesome-math#learning-platforms",
               "children": [],
               "stars": 0,
               "forks": 0,
@@ -7958,18 +7797,18 @@
               "awesome": false,
               "path": [
                 "Math",
-                "Foundations of Mathematics",
-                "Transition To Pure Rigour Math"
+                "Start Here",
+                "Learning Platforms"
               ],
-              "parentId": "root-theory-math-foundations-of-mathematics"
+              "parentId": "root-theory-math-start-here"
             },
             {
-              "id": "root-theory-math-foundations-of-mathematics-set-theory",
-              "title": "Set Theory",
+              "id": "root-theory-math-start-here-proof-and-problem-solving",
+              "title": "Proof and Problem Solving",
               "kind": "section",
               "sourceRepo": "rossant/awesome-math",
               "depth": 2,
-              "url": "https://github.com/rossant/awesome-math#set-theory",
+              "url": "https://github.com/rossant/awesome-math#proof-and-problem-solving",
               "children": [],
               "stars": 0,
               "forks": 0,
@@ -7981,13 +7820,150 @@
               "awesome": false,
               "path": [
                 "Math",
-                "Foundations of Mathematics",
-                "Set Theory"
+                "Start Here",
+                "Proof and Problem Solving"
               ],
-              "parentId": "root-theory-math-foundations-of-mathematics"
+              "parentId": "root-theory-math-start-here"
             },
             {
-              "id": "root-theory-math-foundations-of-mathematics-logic",
+              "id": "root-theory-math-start-here-video-courses-and-series",
+              "title": "Video Courses and Series",
+              "kind": "section",
+              "sourceRepo": "rossant/awesome-math",
+              "depth": 2,
+              "url": "https://github.com/rossant/awesome-math#video-courses-and-series",
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Math",
+                "Start Here",
+                "Video Courses and Series"
+              ],
+              "parentId": "root-theory-math-start-here"
+            },
+            {
+              "id": "root-theory-math-start-here-questions-and-answers",
+              "title": "Questions and Answers",
+              "kind": "section",
+              "sourceRepo": "rossant/awesome-math",
+              "depth": 2,
+              "url": "https://github.com/rossant/awesome-math#questions-and-answers",
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Math",
+                "Start Here",
+                "Questions and Answers"
+              ],
+              "parentId": "root-theory-math-start-here"
+            },
+            {
+              "id": "root-theory-math-start-here-reference-works",
+              "title": "Reference Works",
+              "kind": "section",
+              "sourceRepo": "rossant/awesome-math",
+              "depth": 2,
+              "url": "https://github.com/rossant/awesome-math#reference-works",
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Math",
+                "Start Here",
+                "Reference Works"
+              ],
+              "parentId": "root-theory-math-start-here"
+            },
+            {
+              "id": "root-theory-math-start-here-broad-course-notes",
+              "title": "Broad Course Notes",
+              "kind": "section",
+              "sourceRepo": "rossant/awesome-math",
+              "depth": 2,
+              "url": "https://github.com/rossant/awesome-math#broad-course-notes",
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Math",
+                "Start Here",
+                "Broad Course Notes"
+              ],
+              "parentId": "root-theory-math-start-here"
+            }
+          ],
+          "stars": 0,
+          "forks": 0,
+          "language": null,
+          "license": null,
+          "topics": [],
+          "updated": null,
+          "pushed": null,
+          "awesome": false,
+          "path": [
+            "Math",
+            "Start Here"
+          ],
+          "parentId": "root-theory-math"
+        },
+        {
+          "id": "root-theory-math-general-mathematics",
+          "title": "General Mathematics",
+          "kind": "section",
+          "sourceRepo": "rossant/awesome-math",
+          "depth": 1,
+          "url": "https://github.com/rossant/awesome-math#general-mathematics",
+          "children": [],
+          "stars": 0,
+          "forks": 0,
+          "language": null,
+          "license": null,
+          "topics": [],
+          "updated": null,
+          "pushed": null,
+          "awesome": false,
+          "path": [
+            "Math",
+            "General Mathematics"
+          ],
+          "parentId": "root-theory-math"
+        },
+        {
+          "id": "root-theory-math-foundations-and-logic",
+          "title": "Foundations and Logic",
+          "kind": "section",
+          "sourceRepo": "rossant/awesome-math",
+          "depth": 1,
+          "url": "https://github.com/rossant/awesome-math#foundations-and-logic",
+          "children": [
+            {
+              "id": "root-theory-math-foundations-and-logic-logic",
               "title": "Logic",
               "kind": "section",
               "sourceRepo": "rossant/awesome-math",
@@ -8004,18 +7980,18 @@
               "awesome": false,
               "path": [
                 "Math",
-                "Foundations of Mathematics",
+                "Foundations and Logic",
                 "Logic"
               ],
-              "parentId": "root-theory-math-foundations-of-mathematics"
+              "parentId": "root-theory-math-foundations-and-logic"
             },
             {
-              "id": "root-theory-math-foundations-of-mathematics-category-theory",
-              "title": "Category Theory",
+              "id": "root-theory-math-foundations-and-logic-set-theory",
+              "title": "Set Theory",
               "kind": "section",
               "sourceRepo": "rossant/awesome-math",
               "depth": 2,
-              "url": "https://github.com/rossant/awesome-math#category-theory",
+              "url": "https://github.com/rossant/awesome-math#set-theory",
               "children": [],
               "stars": 0,
               "forks": 0,
@@ -8027,13 +8003,13 @@
               "awesome": false,
               "path": [
                 "Math",
-                "Foundations of Mathematics",
-                "Category Theory"
+                "Foundations and Logic",
+                "Set Theory"
               ],
-              "parentId": "root-theory-math-foundations-of-mathematics"
+              "parentId": "root-theory-math-foundations-and-logic"
             },
             {
-              "id": "root-theory-math-foundations-of-mathematics-type-theory",
+              "id": "root-theory-math-foundations-and-logic-type-theory",
               "title": "Type Theory",
               "kind": "section",
               "sourceRepo": "rossant/awesome-math",
@@ -8050,18 +8026,18 @@
               "awesome": false,
               "path": [
                 "Math",
-                "Foundations of Mathematics",
+                "Foundations and Logic",
                 "Type Theory"
               ],
-              "parentId": "root-theory-math-foundations-of-mathematics"
+              "parentId": "root-theory-math-foundations-and-logic"
             },
             {
-              "id": "root-theory-math-foundations-of-mathematics-homotopy-type-theory",
-              "title": "Homotopy Type Theory",
+              "id": "root-theory-math-foundations-and-logic-category-theory",
+              "title": "Category Theory",
               "kind": "section",
               "sourceRepo": "rossant/awesome-math",
               "depth": 2,
-              "url": "https://github.com/rossant/awesome-math#homotopy-type-theory",
+              "url": "https://github.com/rossant/awesome-math#category-theory",
               "children": [],
               "stars": 0,
               "forks": 0,
@@ -8073,18 +8049,18 @@
               "awesome": false,
               "path": [
                 "Math",
-                "Foundations of Mathematics",
-                "Homotopy Type Theory"
+                "Foundations and Logic",
+                "Category Theory"
               ],
-              "parentId": "root-theory-math-foundations-of-mathematics"
+              "parentId": "root-theory-math-foundations-and-logic"
             },
             {
-              "id": "root-theory-math-foundations-of-mathematics-surreal-numbers",
-              "title": "Surreal Numbers",
+              "id": "root-theory-math-foundations-and-logic-formal-mathematics-and-theorem-proving",
+              "title": "Formal Mathematics and Theorem Proving",
               "kind": "section",
               "sourceRepo": "rossant/awesome-math",
               "depth": 2,
-              "url": "https://github.com/rossant/awesome-math#surreal-numbers",
+              "url": "https://github.com/rossant/awesome-math#formal-mathematics-and-theorem-proving",
               "children": [],
               "stars": 0,
               "forks": 0,
@@ -8096,10 +8072,10 @@
               "awesome": false,
               "path": [
                 "Math",
-                "Foundations of Mathematics",
-                "Surreal Numbers"
+                "Foundations and Logic",
+                "Formal Mathematics and Theorem Proving"
               ],
-              "parentId": "root-theory-math-foundations-of-mathematics"
+              "parentId": "root-theory-math-foundations-and-logic"
             }
           ],
           "stars": 0,
@@ -8112,7 +8088,168 @@
           "awesome": false,
           "path": [
             "Math",
-            "Foundations of Mathematics"
+            "Foundations and Logic"
+          ],
+          "parentId": "root-theory-math"
+        },
+        {
+          "id": "root-theory-math-algebra",
+          "title": "Algebra",
+          "kind": "section",
+          "sourceRepo": "rossant/awesome-math",
+          "depth": 1,
+          "url": "https://github.com/rossant/awesome-math#algebra",
+          "children": [
+            {
+              "id": "root-theory-math-algebra-abstract-algebra",
+              "title": "Abstract Algebra",
+              "kind": "section",
+              "sourceRepo": "rossant/awesome-math",
+              "depth": 2,
+              "url": "https://github.com/rossant/awesome-math#abstract-algebra",
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Math",
+                "Algebra",
+                "Abstract Algebra"
+              ],
+              "parentId": "root-theory-math-algebra"
+            },
+            {
+              "id": "root-theory-math-algebra-linear-algebra",
+              "title": "Linear Algebra",
+              "kind": "section",
+              "sourceRepo": "rossant/awesome-math",
+              "depth": 2,
+              "url": "https://github.com/rossant/awesome-math#linear-algebra",
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Math",
+                "Algebra",
+                "Linear Algebra"
+              ],
+              "parentId": "root-theory-math-algebra"
+            },
+            {
+              "id": "root-theory-math-algebra-group-theory",
+              "title": "Group Theory",
+              "kind": "section",
+              "sourceRepo": "rossant/awesome-math",
+              "depth": 2,
+              "url": "https://github.com/rossant/awesome-math#group-theory",
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Math",
+                "Algebra",
+                "Group Theory"
+              ],
+              "parentId": "root-theory-math-algebra"
+            },
+            {
+              "id": "root-theory-math-algebra-ring-and-field-theory",
+              "title": "Ring and Field Theory",
+              "kind": "section",
+              "sourceRepo": "rossant/awesome-math",
+              "depth": 2,
+              "url": "https://github.com/rossant/awesome-math#ring-and-field-theory",
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Math",
+                "Algebra",
+                "Ring and Field Theory"
+              ],
+              "parentId": "root-theory-math-algebra"
+            },
+            {
+              "id": "root-theory-math-algebra-commutative-algebra",
+              "title": "Commutative Algebra",
+              "kind": "section",
+              "sourceRepo": "rossant/awesome-math",
+              "depth": 2,
+              "url": "https://github.com/rossant/awesome-math#commutative-algebra",
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Math",
+                "Algebra",
+                "Commutative Algebra"
+              ],
+              "parentId": "root-theory-math-algebra"
+            },
+            {
+              "id": "root-theory-math-algebra-representation-theory",
+              "title": "Representation Theory",
+              "kind": "section",
+              "sourceRepo": "rossant/awesome-math",
+              "depth": 2,
+              "url": "https://github.com/rossant/awesome-math#representation-theory",
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Math",
+                "Algebra",
+                "Representation Theory"
+              ],
+              "parentId": "root-theory-math-algebra"
+            }
+          ],
+          "stars": 0,
+          "forks": 0,
+          "language": null,
+          "license": null,
+          "topics": [],
+          "updated": null,
+          "pushed": null,
+          "awesome": false,
+          "path": [
+            "Math",
+            "Algebra"
           ],
           "parentId": "root-theory-math"
         },
@@ -8186,176 +8323,15 @@
           "parentId": "root-theory-math"
         },
         {
-          "id": "root-theory-math-algebra",
-          "title": "Algebra",
+          "id": "root-theory-math-combinatorics-and-discrete-mathematics",
+          "title": "Combinatorics and Discrete Mathematics",
           "kind": "section",
           "sourceRepo": "rossant/awesome-math",
           "depth": 1,
-          "url": "https://github.com/rossant/awesome-math#algebra",
+          "url": "https://github.com/rossant/awesome-math#combinatorics-and-discrete-mathematics",
           "children": [
             {
-              "id": "root-theory-math-algebra-abstract-algebra",
-              "title": "Abstract Algebra",
-              "kind": "section",
-              "sourceRepo": "rossant/awesome-math",
-              "depth": 2,
-              "url": "https://github.com/rossant/awesome-math#abstract-algebra",
-              "children": [],
-              "stars": 0,
-              "forks": 0,
-              "language": null,
-              "license": null,
-              "topics": [],
-              "updated": null,
-              "pushed": null,
-              "awesome": false,
-              "path": [
-                "Math",
-                "Algebra",
-                "Abstract Algebra"
-              ],
-              "parentId": "root-theory-math-algebra"
-            },
-            {
-              "id": "root-theory-math-algebra-group-theory",
-              "title": "Group Theory",
-              "kind": "section",
-              "sourceRepo": "rossant/awesome-math",
-              "depth": 2,
-              "url": "https://github.com/rossant/awesome-math#group-theory",
-              "children": [],
-              "stars": 0,
-              "forks": 0,
-              "language": null,
-              "license": null,
-              "topics": [],
-              "updated": null,
-              "pushed": null,
-              "awesome": false,
-              "path": [
-                "Math",
-                "Algebra",
-                "Group Theory"
-              ],
-              "parentId": "root-theory-math-algebra"
-            },
-            {
-              "id": "root-theory-math-algebra-linear-algebra",
-              "title": "Linear Algebra",
-              "kind": "section",
-              "sourceRepo": "rossant/awesome-math",
-              "depth": 2,
-              "url": "https://github.com/rossant/awesome-math#linear-algebra",
-              "children": [],
-              "stars": 0,
-              "forks": 0,
-              "language": null,
-              "license": null,
-              "topics": [],
-              "updated": null,
-              "pushed": null,
-              "awesome": false,
-              "path": [
-                "Math",
-                "Algebra",
-                "Linear Algebra"
-              ],
-              "parentId": "root-theory-math-algebra"
-            },
-            {
-              "id": "root-theory-math-algebra-ring-theory",
-              "title": "Ring Theory",
-              "kind": "section",
-              "sourceRepo": "rossant/awesome-math",
-              "depth": 2,
-              "url": "https://github.com/rossant/awesome-math#ring-theory",
-              "children": [],
-              "stars": 0,
-              "forks": 0,
-              "language": null,
-              "license": null,
-              "topics": [],
-              "updated": null,
-              "pushed": null,
-              "awesome": false,
-              "path": [
-                "Math",
-                "Algebra",
-                "Ring Theory"
-              ],
-              "parentId": "root-theory-math-algebra"
-            },
-            {
-              "id": "root-theory-math-algebra-galois-theory",
-              "title": "Galois Theory",
-              "kind": "section",
-              "sourceRepo": "rossant/awesome-math",
-              "depth": 2,
-              "url": "https://github.com/rossant/awesome-math#galois-theory",
-              "children": [],
-              "stars": 0,
-              "forks": 0,
-              "language": null,
-              "license": null,
-              "topics": [],
-              "updated": null,
-              "pushed": null,
-              "awesome": false,
-              "path": [
-                "Math",
-                "Algebra",
-                "Galois Theory"
-              ],
-              "parentId": "root-theory-math-algebra"
-            },
-            {
-              "id": "root-theory-math-algebra-lie-algebras",
-              "title": "Lie Algebras",
-              "kind": "section",
-              "sourceRepo": "rossant/awesome-math",
-              "depth": 2,
-              "url": "https://github.com/rossant/awesome-math#lie-algebras",
-              "children": [],
-              "stars": 0,
-              "forks": 0,
-              "language": null,
-              "license": null,
-              "topics": [],
-              "updated": null,
-              "pushed": null,
-              "awesome": false,
-              "path": [
-                "Math",
-                "Algebra",
-                "Lie Algebras"
-              ],
-              "parentId": "root-theory-math-algebra"
-            }
-          ],
-          "stars": 0,
-          "forks": 0,
-          "language": null,
-          "license": null,
-          "topics": [],
-          "updated": null,
-          "pushed": null,
-          "awesome": false,
-          "path": [
-            "Math",
-            "Algebra"
-          ],
-          "parentId": "root-theory-math"
-        },
-        {
-          "id": "root-theory-math-combinatorics",
-          "title": "Combinatorics",
-          "kind": "section",
-          "sourceRepo": "rossant/awesome-math",
-          "depth": 1,
-          "url": "https://github.com/rossant/awesome-math#combinatorics",
-          "children": [
-            {
-              "id": "root-theory-math-combinatorics-graph-theory",
+              "id": "root-theory-math-combinatorics-and-discrete-mathematics-graph-theory",
               "title": "Graph Theory",
               "kind": "section",
               "sourceRepo": "rossant/awesome-math",
@@ -8372,10 +8348,10 @@
               "awesome": false,
               "path": [
                 "Math",
-                "Combinatorics",
+                "Combinatorics and Discrete Mathematics",
                 "Graph Theory"
               ],
-              "parentId": "root-theory-math-combinatorics"
+              "parentId": "root-theory-math-combinatorics-and-discrete-mathematics"
             }
           ],
           "stars": 0,
@@ -8388,7 +8364,7 @@
           "awesome": false,
           "path": [
             "Math",
-            "Combinatorics"
+            "Combinatorics and Discrete Mathematics"
           ],
           "parentId": "root-theory-math"
         },
@@ -8447,12 +8423,12 @@
               "parentId": "root-theory-math-geometry-and-topology"
             },
             {
-              "id": "root-theory-math-geometry-and-topology-algebraic-statistics",
-              "title": "Algebraic Statistics",
+              "id": "root-theory-math-geometry-and-topology-general-topology",
+              "title": "General Topology",
               "kind": "section",
               "sourceRepo": "rossant/awesome-math",
               "depth": 2,
-              "url": "https://github.com/rossant/awesome-math#algebraic-statistics",
+              "url": "https://github.com/rossant/awesome-math#general-topology",
               "children": [],
               "stars": 0,
               "forks": 0,
@@ -8465,30 +8441,7 @@
               "path": [
                 "Math",
                 "Geometry and Topology",
-                "Algebraic Statistics"
-              ],
-              "parentId": "root-theory-math-geometry-and-topology"
-            },
-            {
-              "id": "root-theory-math-geometry-and-topology-topology",
-              "title": "Topology",
-              "kind": "section",
-              "sourceRepo": "rossant/awesome-math",
-              "depth": 2,
-              "url": "https://github.com/rossant/awesome-math#topology",
-              "children": [],
-              "stars": 0,
-              "forks": 0,
-              "language": null,
-              "license": null,
-              "topics": [],
-              "updated": null,
-              "pushed": null,
-              "awesome": false,
-              "path": [
-                "Math",
-                "Geometry and Topology",
-                "Topology"
+                "General Topology"
               ],
               "parentId": "root-theory-math-geometry-and-topology"
             },
@@ -8562,29 +8515,6 @@
               "parentId": "root-theory-math-analysis"
             },
             {
-              "id": "root-theory-math-analysis-harmonic-analysis",
-              "title": "Harmonic Analysis",
-              "kind": "section",
-              "sourceRepo": "rossant/awesome-math",
-              "depth": 2,
-              "url": "https://github.com/rossant/awesome-math#harmonic-analysis",
-              "children": [],
-              "stars": 0,
-              "forks": 0,
-              "language": null,
-              "license": null,
-              "topics": [],
-              "updated": null,
-              "pushed": null,
-              "awesome": false,
-              "path": [
-                "Math",
-                "Analysis",
-                "Harmonic Analysis"
-              ],
-              "parentId": "root-theory-math-analysis"
-            },
-            {
               "id": "root-theory-math-analysis-complex-analysis",
               "title": "Complex Analysis",
               "kind": "section",
@@ -8631,6 +8561,52 @@
               "parentId": "root-theory-math-analysis"
             },
             {
+              "id": "root-theory-math-analysis-operator-theory",
+              "title": "Operator Theory",
+              "kind": "section",
+              "sourceRepo": "rossant/awesome-math",
+              "depth": 2,
+              "url": "https://github.com/rossant/awesome-math#operator-theory",
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Math",
+                "Analysis",
+                "Operator Theory"
+              ],
+              "parentId": "root-theory-math-analysis"
+            },
+            {
+              "id": "root-theory-math-analysis-harmonic-analysis",
+              "title": "Harmonic Analysis",
+              "kind": "section",
+              "sourceRepo": "rossant/awesome-math",
+              "depth": 2,
+              "url": "https://github.com/rossant/awesome-math#harmonic-analysis",
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Math",
+                "Analysis",
+                "Harmonic Analysis"
+              ],
+              "parentId": "root-theory-math-analysis"
+            },
+            {
               "id": "root-theory-math-analysis-measure-theory",
               "title": "Measure Theory",
               "kind": "section",
@@ -8652,75 +8628,6 @@
                 "Measure Theory"
               ],
               "parentId": "root-theory-math-analysis"
-            },
-            {
-              "id": "root-theory-math-analysis-ordinary-differential-equations",
-              "title": "Ordinary Differential Equations",
-              "kind": "section",
-              "sourceRepo": "rossant/awesome-math",
-              "depth": 2,
-              "url": "https://github.com/rossant/awesome-math#ordinary-differential-equations",
-              "children": [],
-              "stars": 0,
-              "forks": 0,
-              "language": null,
-              "license": null,
-              "topics": [],
-              "updated": null,
-              "pushed": null,
-              "awesome": false,
-              "path": [
-                "Math",
-                "Analysis",
-                "Ordinary Differential Equations"
-              ],
-              "parentId": "root-theory-math-analysis"
-            },
-            {
-              "id": "root-theory-math-analysis-partial-differential-equations",
-              "title": "Partial Differential Equations",
-              "kind": "section",
-              "sourceRepo": "rossant/awesome-math",
-              "depth": 2,
-              "url": "https://github.com/rossant/awesome-math#partial-differential-equations",
-              "children": [],
-              "stars": 0,
-              "forks": 0,
-              "language": null,
-              "license": null,
-              "topics": [],
-              "updated": null,
-              "pushed": null,
-              "awesome": false,
-              "path": [
-                "Math",
-                "Analysis",
-                "Partial Differential Equations"
-              ],
-              "parentId": "root-theory-math-analysis"
-            },
-            {
-              "id": "root-theory-math-analysis-chaos-theory",
-              "title": "Chaos Theory",
-              "kind": "section",
-              "sourceRepo": "rossant/awesome-math",
-              "depth": 2,
-              "url": "https://github.com/rossant/awesome-math#chaos-theory",
-              "children": [],
-              "stars": 0,
-              "forks": 0,
-              "language": null,
-              "license": null,
-              "topics": [],
-              "updated": null,
-              "pushed": null,
-              "awesome": false,
-              "path": [
-                "Math",
-                "Analysis",
-                "Chaos Theory"
-              ],
-              "parentId": "root-theory-math-analysis"
             }
           ],
           "stars": 0,
@@ -8738,6 +8645,98 @@
           "parentId": "root-theory-math"
         },
         {
+          "id": "root-theory-math-differential-equations-and-dynamical-systems",
+          "title": "Differential Equations and Dynamical Systems",
+          "kind": "section",
+          "sourceRepo": "rossant/awesome-math",
+          "depth": 1,
+          "url": "https://github.com/rossant/awesome-math#differential-equations-and-dynamical-systems",
+          "children": [
+            {
+              "id": "root-theory-math-differential-equations-and-dynamical-systems-ordinary-differential-equations",
+              "title": "Ordinary Differential Equations",
+              "kind": "section",
+              "sourceRepo": "rossant/awesome-math",
+              "depth": 2,
+              "url": "https://github.com/rossant/awesome-math#ordinary-differential-equations",
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Math",
+                "Differential Equations and Dynamical Systems",
+                "Ordinary Differential Equations"
+              ],
+              "parentId": "root-theory-math-differential-equations-and-dynamical-systems"
+            },
+            {
+              "id": "root-theory-math-differential-equations-and-dynamical-systems-partial-differential-equations",
+              "title": "Partial Differential Equations",
+              "kind": "section",
+              "sourceRepo": "rossant/awesome-math",
+              "depth": 2,
+              "url": "https://github.com/rossant/awesome-math#partial-differential-equations",
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Math",
+                "Differential Equations and Dynamical Systems",
+                "Partial Differential Equations"
+              ],
+              "parentId": "root-theory-math-differential-equations-and-dynamical-systems"
+            },
+            {
+              "id": "root-theory-math-differential-equations-and-dynamical-systems-ergodic-theory-and-chaos",
+              "title": "Ergodic Theory and Chaos",
+              "kind": "section",
+              "sourceRepo": "rossant/awesome-math",
+              "depth": 2,
+              "url": "https://github.com/rossant/awesome-math#ergodic-theory-and-chaos",
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Math",
+                "Differential Equations and Dynamical Systems",
+                "Ergodic Theory and Chaos"
+              ],
+              "parentId": "root-theory-math-differential-equations-and-dynamical-systems"
+            }
+          ],
+          "stars": 0,
+          "forks": 0,
+          "language": null,
+          "license": null,
+          "topics": [],
+          "updated": null,
+          "pushed": null,
+          "awesome": false,
+          "path": [
+            "Math",
+            "Differential Equations and Dynamical Systems"
+          ],
+          "parentId": "root-theory-math"
+        },
+        {
           "id": "root-theory-math-probability-and-statistics",
           "title": "Probability and Statistics",
           "kind": "section",
@@ -8746,12 +8745,12 @@
           "url": "https://github.com/rossant/awesome-math#probability-and-statistics",
           "children": [
             {
-              "id": "root-theory-math-probability-and-statistics-probability-theory",
-              "title": "Probability Theory",
+              "id": "root-theory-math-probability-and-statistics-probability",
+              "title": "Probability",
               "kind": "section",
               "sourceRepo": "rossant/awesome-math",
               "depth": 2,
-              "url": "https://github.com/rossant/awesome-math#probability-theory",
+              "url": "https://github.com/rossant/awesome-math#probability",
               "children": [],
               "stars": 0,
               "forks": 0,
@@ -8764,7 +8763,30 @@
               "path": [
                 "Math",
                 "Probability and Statistics",
-                "Probability Theory"
+                "Probability"
+              ],
+              "parentId": "root-theory-math-probability-and-statistics"
+            },
+            {
+              "id": "root-theory-math-probability-and-statistics-stochastic-processes",
+              "title": "Stochastic Processes",
+              "kind": "section",
+              "sourceRepo": "rossant/awesome-math",
+              "depth": 2,
+              "url": "https://github.com/rossant/awesome-math#stochastic-processes",
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Math",
+                "Probability and Statistics",
+                "Stochastic Processes"
               ],
               "parentId": "root-theory-math-probability-and-statistics"
             },
@@ -8815,12 +8837,12 @@
               "parentId": "root-theory-math-probability-and-statistics"
             },
             {
-              "id": "root-theory-math-probability-and-statistics-stochastic-processes",
-              "title": "Stochastic processes",
+              "id": "root-theory-math-probability-and-statistics-algebraic-statistics",
+              "title": "Algebraic Statistics",
               "kind": "section",
               "sourceRepo": "rossant/awesome-math",
               "depth": 2,
-              "url": "https://github.com/rossant/awesome-math#stochastic-processes",
+              "url": "https://github.com/rossant/awesome-math#algebraic-statistics",
               "children": [],
               "stars": 0,
               "forks": 0,
@@ -8833,7 +8855,7 @@
               "path": [
                 "Math",
                 "Probability and Statistics",
-                "Stochastic processes"
+                "Algebraic Statistics"
               ],
               "parentId": "root-theory-math-probability-and-statistics"
             }
@@ -8853,13 +8875,37 @@
           "parentId": "root-theory-math"
         },
         {
-          "id": "root-theory-math-numerical-analysis",
-          "title": "Numerical Analysis",
+          "id": "root-theory-math-numerical-and-computational-mathematics",
+          "title": "Numerical and Computational Mathematics",
           "kind": "section",
           "sourceRepo": "rossant/awesome-math",
           "depth": 1,
-          "url": "https://github.com/rossant/awesome-math#numerical-analysis",
-          "children": [],
+          "url": "https://github.com/rossant/awesome-math#numerical-and-computational-mathematics",
+          "children": [
+            {
+              "id": "root-theory-math-numerical-and-computational-mathematics-numerical-analysis",
+              "title": "Numerical Analysis",
+              "kind": "section",
+              "sourceRepo": "rossant/awesome-math",
+              "depth": 2,
+              "url": "https://github.com/rossant/awesome-math#numerical-analysis",
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Math",
+                "Numerical and Computational Mathematics",
+                "Numerical Analysis"
+              ],
+              "parentId": "root-theory-math-numerical-and-computational-mathematics"
+            }
+          ],
           "stars": 0,
           "forks": 0,
           "language": null,
@@ -8870,40 +8916,42 @@
           "awesome": false,
           "path": [
             "Math",
-            "Numerical Analysis"
+            "Numerical and Computational Mathematics"
           ],
           "parentId": "root-theory-math"
         },
         {
-          "id": "root-theory-math-signal-processing",
-          "title": "Signal processing",
+          "id": "root-theory-math-optimization-operations-research-and-control",
+          "title": "Optimization, Operations Research, and Control",
           "kind": "section",
           "sourceRepo": "rossant/awesome-math",
           "depth": 1,
-          "url": "https://github.com/rossant/awesome-math#signal-processing",
-          "children": [],
-          "stars": 0,
-          "forks": 0,
-          "language": null,
-          "license": null,
-          "topics": [],
-          "updated": null,
-          "pushed": null,
-          "awesome": false,
-          "path": [
-            "Math",
-            "Signal processing"
+          "url": "https://github.com/rossant/awesome-math#optimization-operations-research-and-control",
+          "children": [
+            {
+              "id": "root-theory-math-optimization-operations-research-and-control-control-theory",
+              "title": "Control Theory",
+              "kind": "section",
+              "sourceRepo": "rossant/awesome-math",
+              "depth": 2,
+              "url": "https://github.com/rossant/awesome-math#control-theory",
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Math",
+                "Optimization, Operations Research, and Control",
+                "Control Theory"
+              ],
+              "parentId": "root-theory-math-optimization-operations-research-and-control"
+            }
           ],
-          "parentId": "root-theory-math"
-        },
-        {
-          "id": "root-theory-math-mathematics-for-computer-science",
-          "title": "Mathematics for Computer Science",
-          "kind": "section",
-          "sourceRepo": "rossant/awesome-math",
-          "depth": 1,
-          "url": "https://github.com/rossant/awesome-math#mathematics-for-computer-science",
-          "children": [],
           "stars": 0,
           "forks": 0,
           "language": null,
@@ -8914,29 +8962,7 @@
           "awesome": false,
           "path": [
             "Math",
-            "Mathematics for Computer Science"
-          ],
-          "parentId": "root-theory-math"
-        },
-        {
-          "id": "root-theory-math-mathematical-biology",
-          "title": "Mathematical Biology",
-          "kind": "section",
-          "sourceRepo": "rossant/awesome-math",
-          "depth": 1,
-          "url": "https://github.com/rossant/awesome-math#mathematical-biology",
-          "children": [],
-          "stars": 0,
-          "forks": 0,
-          "language": null,
-          "license": null,
-          "topics": [],
-          "updated": null,
-          "pushed": null,
-          "awesome": false,
-          "path": [
-            "Math",
-            "Mathematical Biology"
+            "Optimization, Operations Research, and Control"
           ],
           "parentId": "root-theory-math"
         },
@@ -8961,12 +8987,379 @@
             "Mathematical Physics"
           ],
           "parentId": "root-theory-math"
+        },
+        {
+          "id": "root-theory-math-interdisciplinary-mathematics",
+          "title": "Interdisciplinary Mathematics",
+          "kind": "section",
+          "sourceRepo": "rossant/awesome-math",
+          "depth": 1,
+          "url": "https://github.com/rossant/awesome-math#interdisciplinary-mathematics",
+          "children": [
+            {
+              "id": "root-theory-math-interdisciplinary-mathematics-mathematics-for-computer-science",
+              "title": "Mathematics for Computer Science",
+              "kind": "section",
+              "sourceRepo": "rossant/awesome-math",
+              "depth": 2,
+              "url": "https://github.com/rossant/awesome-math#mathematics-for-computer-science",
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Math",
+                "Interdisciplinary Mathematics",
+                "Mathematics for Computer Science"
+              ],
+              "parentId": "root-theory-math-interdisciplinary-mathematics"
+            },
+            {
+              "id": "root-theory-math-interdisciplinary-mathematics-mathematics-for-machine-learning",
+              "title": "Mathematics for Machine Learning",
+              "kind": "section",
+              "sourceRepo": "rossant/awesome-math",
+              "depth": 2,
+              "url": "https://github.com/rossant/awesome-math#mathematics-for-machine-learning",
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Math",
+                "Interdisciplinary Mathematics",
+                "Mathematics for Machine Learning"
+              ],
+              "parentId": "root-theory-math-interdisciplinary-mathematics"
+            },
+            {
+              "id": "root-theory-math-interdisciplinary-mathematics-information-and-coding-theory",
+              "title": "Information and Coding Theory",
+              "kind": "section",
+              "sourceRepo": "rossant/awesome-math",
+              "depth": 2,
+              "url": "https://github.com/rossant/awesome-math#information-and-coding-theory",
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Math",
+                "Interdisciplinary Mathematics",
+                "Information and Coding Theory"
+              ],
+              "parentId": "root-theory-math-interdisciplinary-mathematics"
+            },
+            {
+              "id": "root-theory-math-interdisciplinary-mathematics-mathematical-finance",
+              "title": "Mathematical Finance",
+              "kind": "section",
+              "sourceRepo": "rossant/awesome-math",
+              "depth": 2,
+              "url": "https://github.com/rossant/awesome-math#mathematical-finance",
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Math",
+                "Interdisciplinary Mathematics",
+                "Mathematical Finance"
+              ],
+              "parentId": "root-theory-math-interdisciplinary-mathematics"
+            },
+            {
+              "id": "root-theory-math-interdisciplinary-mathematics-mathematical-biology",
+              "title": "Mathematical Biology",
+              "kind": "section",
+              "sourceRepo": "rossant/awesome-math",
+              "depth": 2,
+              "url": "https://github.com/rossant/awesome-math#mathematical-biology",
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Math",
+                "Interdisciplinary Mathematics",
+                "Mathematical Biology"
+              ],
+              "parentId": "root-theory-math-interdisciplinary-mathematics"
+            },
+            {
+              "id": "root-theory-math-interdisciplinary-mathematics-signal-processing",
+              "title": "Signal Processing",
+              "kind": "section",
+              "sourceRepo": "rossant/awesome-math",
+              "depth": 2,
+              "url": "https://github.com/rossant/awesome-math#signal-processing",
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Math",
+                "Interdisciplinary Mathematics",
+                "Signal Processing"
+              ],
+              "parentId": "root-theory-math-interdisciplinary-mathematics"
+            }
+          ],
+          "stars": 0,
+          "forks": 0,
+          "language": null,
+          "license": null,
+          "topics": [],
+          "updated": null,
+          "pushed": null,
+          "awesome": false,
+          "path": [
+            "Math",
+            "Interdisciplinary Mathematics"
+          ],
+          "parentId": "root-theory-math"
+        },
+        {
+          "id": "root-theory-math-mathematical-practice",
+          "title": "Mathematical Practice",
+          "kind": "section",
+          "sourceRepo": "rossant/awesome-math",
+          "depth": 1,
+          "url": "https://github.com/rossant/awesome-math#mathematical-practice",
+          "children": [
+            {
+              "id": "root-theory-math-mathematical-practice-ai-for-mathematics",
+              "title": "AI for Mathematics",
+              "kind": "section",
+              "sourceRepo": "rossant/awesome-math",
+              "depth": 2,
+              "url": "https://github.com/rossant/awesome-math#ai-for-mathematics",
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Math",
+                "Mathematical Practice",
+                "AI for Mathematics"
+              ],
+              "parentId": "root-theory-math-mathematical-practice"
+            },
+            {
+              "id": "root-theory-math-mathematical-practice-mathematical-software-and-tools",
+              "title": "Mathematical Software and Tools",
+              "kind": "section",
+              "sourceRepo": "rossant/awesome-math",
+              "depth": 2,
+              "url": "https://github.com/rossant/awesome-math#mathematical-software-and-tools",
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Math",
+                "Mathematical Practice",
+                "Mathematical Software and Tools"
+              ],
+              "parentId": "root-theory-math-mathematical-practice"
+            }
+          ],
+          "stars": 0,
+          "forks": 0,
+          "language": null,
+          "license": null,
+          "topics": [],
+          "updated": null,
+          "pushed": null,
+          "awesome": false,
+          "path": [
+            "Math",
+            "Mathematical Practice"
+          ],
+          "parentId": "root-theory-math"
+        },
+        {
+          "id": "root-theory-math-history-and-mathematics-education",
+          "title": "History and Mathematics Education",
+          "kind": "section",
+          "sourceRepo": "rossant/awesome-math",
+          "depth": 1,
+          "url": "https://github.com/rossant/awesome-math#history-and-mathematics-education",
+          "children": [],
+          "stars": 0,
+          "forks": 0,
+          "language": null,
+          "license": null,
+          "topics": [],
+          "updated": null,
+          "pushed": null,
+          "awesome": false,
+          "path": [
+            "Math",
+            "History and Mathematics Education"
+          ],
+          "parentId": "root-theory-math"
+        },
+        {
+          "id": "root-theory-math-community-and-further-reading",
+          "title": "Community and Further Reading",
+          "kind": "section",
+          "sourceRepo": "rossant/awesome-math",
+          "depth": 1,
+          "url": "https://github.com/rossant/awesome-math#community-and-further-reading",
+          "children": [
+            {
+              "id": "root-theory-math-community-and-further-reading-journals-and-magazines",
+              "title": "Journals and Magazines",
+              "kind": "section",
+              "sourceRepo": "rossant/awesome-math",
+              "depth": 2,
+              "url": "https://github.com/rossant/awesome-math#journals-and-magazines",
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Math",
+                "Community and Further Reading",
+                "Journals and Magazines"
+              ],
+              "parentId": "root-theory-math-community-and-further-reading"
+            },
+            {
+              "id": "root-theory-math-community-and-further-reading-blogs",
+              "title": "Blogs",
+              "kind": "section",
+              "sourceRepo": "rossant/awesome-math",
+              "depth": 2,
+              "url": "https://github.com/rossant/awesome-math#blogs",
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Math",
+                "Community and Further Reading",
+                "Blogs"
+              ],
+              "parentId": "root-theory-math-community-and-further-reading"
+            },
+            {
+              "id": "root-theory-math-community-and-further-reading-meetings-and-conferences",
+              "title": "Meetings and Conferences",
+              "kind": "section",
+              "sourceRepo": "rossant/awesome-math",
+              "depth": 2,
+              "url": "https://github.com/rossant/awesome-math#meetings-and-conferences",
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Math",
+                "Community and Further Reading",
+                "Meetings and Conferences"
+              ],
+              "parentId": "root-theory-math-community-and-further-reading"
+            },
+            {
+              "id": "root-theory-math-community-and-further-reading-related-curated-lists",
+              "title": "Related Curated Lists",
+              "kind": "section",
+              "sourceRepo": "rossant/awesome-math",
+              "depth": 2,
+              "url": "https://github.com/rossant/awesome-math#related-curated-lists",
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Math",
+                "Community and Further Reading",
+                "Related Curated Lists"
+              ],
+              "parentId": "root-theory-math-community-and-further-reading"
+            }
+          ],
+          "stars": 0,
+          "forks": 0,
+          "language": null,
+          "license": null,
+          "topics": [],
+          "updated": null,
+          "pushed": null,
+          "awesome": false,
+          "path": [
+            "Math",
+            "Community and Further Reading"
+          ],
+          "parentId": "root-theory-math"
         }
       ],
-      "stars": 16029,
+      "stars": 16097,
       "forks": 1581,
       "language": "Python",
-      "license": null,
+      "license": "CC0-1.0",
       "topics": [
         "awesome",
         "awesome-list",
@@ -8974,8 +9367,8 @@
         "list",
         "mathematics"
       ],
-      "updated": "2026-08-09T03:05:54Z",
-      "pushed": "2026-05-19T10:05:56Z",
+      "updated": "2026-08-16T02:30:13Z",
+      "pushed": "2026-08-14T08:36:36Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -17188,8 +17581,8 @@
               "sourceRepo": "sellisd/awesome-complexity",
               "depth": 2,
               "children": [],
-              "stars": 4091,
-              "forks": 637,
+              "stars": 4093,
+              "forks": 638,
               "language": "R",
               "license": null,
               "topics": [
@@ -17209,7 +17602,7 @@
                 "social-network-analysis",
                 "social-networks"
               ],
-              "updated": "2026-08-07T20:19:49Z",
+              "updated": "2026-08-11T02:26:25Z",
               "pushed": "2026-04-17T18:25:35Z",
               "awesome": true,
               "path": [
@@ -17230,7 +17623,7 @@
               "sourceRepo": "sellisd/awesome-complexity",
               "depth": 2,
               "children": [],
-              "stars": 291,
+              "stars": 293,
               "forks": 20,
               "language": null,
               "license": "CC0-1.0",
@@ -17239,7 +17632,7 @@
                 "awesome-list",
                 "complex-systems"
               ],
-              "updated": "2026-07-30T22:04:49Z",
+              "updated": "2026-08-15T08:21:28Z",
               "pushed": "2025-03-20T20:52:07Z",
               "awesome": true,
               "path": [
@@ -17600,7 +17993,7 @@
           "parentId": "root-theory-complex-systems"
         }
       ],
-      "stars": 291,
+      "stars": 293,
       "forks": 20,
       "language": null,
       "license": "CC0-1.0",
@@ -17609,7 +18002,7 @@
         "awesome-list",
         "complex-systems"
       ],
-      "updated": "2026-07-30T22:04:49Z",
+      "updated": "2026-08-15T08:21:28Z",
       "pushed": "2025-03-20T20:52:07Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -21215,7 +21608,7 @@
           "parentId": "root-theory-vlm-architectures"
         }
       ],
-      "stars": 1296,
+      "stars": 1304,
       "forks": 55,
       "language": "Markdown",
       "license": "CC0-1.0",
@@ -21241,7 +21634,7 @@
         "vision-language-models",
         "vlm"
       ],
-      "updated": "2026-08-08T05:55:19Z",
+      "updated": "2026-08-14T02:40:39Z",
       "pushed": "2026-07-31T21:58:54Z",
       "awesome": true,
       "readmeStatus": "expanded",

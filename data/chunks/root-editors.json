@@ -3377,6 +3377,32 @@
           "url": "https://github.com/rockerboo/awesome-neovim#ai",
           "children": [
             {
+              "id": "root-editors-neovim-ai-nwiizo-signalbox-nvim",
+              "title": "nwiizo/signalbox.nvim",
+              "kind": "repo",
+              "repo": "nwiizo/signalbox.nvim",
+              "url": "https://github.com/nwiizo/signalbox.nvim",
+              "description": "Attention-first control surface for monitoring and routing persistent Herdr coding agents.",
+              "external": false,
+              "sourceRepo": "rockerboo/awesome-neovim",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Neovim",
+                "AI",
+                "nwiizo/signalbox.nvim"
+              ],
+              "parentId": "root-editors-neovim-ai"
+            },
+            {
               "id": "root-editors-neovim-ai-cursortab-cursortab-nvim",
               "title": "cursortab/cursortab.nvim",
               "kind": "repo",
@@ -8027,32 +8053,6 @@
                 "Neovim",
                 "Syntax",
                 "desdic/agrolens.nvim"
-              ],
-              "parentId": "root-editors-neovim-syntax"
-            },
-            {
-              "id": "root-editors-neovim-syntax-indianboy42-tree-sitter-just",
-              "title": "IndianBoy42/tree-sitter-just",
-              "kind": "repo",
-              "repo": "indianboy42/tree-sitter-just",
-              "url": "https://github.com/indianboy42/tree-sitter-just",
-              "description": "Tree-sitter grammar for Justfiles.",
-              "external": false,
-              "sourceRepo": "rockerboo/awesome-neovim",
-              "depth": 2,
-              "children": [],
-              "stars": 0,
-              "forks": 0,
-              "language": null,
-              "license": null,
-              "topics": [],
-              "updated": null,
-              "pushed": null,
-              "awesome": false,
-              "path": [
-                "Neovim",
-                "Syntax",
-                "IndianBoy42/tree-sitter-just"
               ],
               "parentId": "root-editors-neovim-syntax"
             },
@@ -17143,6 +17143,33 @@
                     "Colorscheme",
                     "Colorscheme Creation",
                     "Senal-D-A-Gunaratna/matugen.nvim"
+                  ],
+                  "parentId": "root-editors-neovim-colorscheme-colorscheme-creation"
+                },
+                {
+                  "id": "root-editors-neovim-colorscheme-colorscheme-creation-nitinbhat972-cwal-nvim",
+                  "title": "nitinbhat972/cwal.nvim",
+                  "kind": "repo",
+                  "repo": "nitinbhat972/cwal.nvim",
+                  "url": "https://github.com/nitinbhat972/cwal.nvim",
+                  "description": "Generates dynamic colorschemes from cwal-generated color palettes.",
+                  "external": false,
+                  "sourceRepo": "rockerboo/awesome-neovim",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Neovim",
+                    "Colorscheme",
+                    "Colorscheme Creation",
+                    "nitinbhat972/cwal.nvim"
                   ],
                   "parentId": "root-editors-neovim-colorscheme-colorscheme-creation"
                 }
@@ -30584,6 +30611,32 @@
               "parentId": "root-editors-neovim-editing-support"
             },
             {
+              "id": "root-editors-neovim-editing-support-droma82-add-subtract-ex-nvim",
+              "title": "DRoma82/add-subtract-ex.nvim",
+              "kind": "repo",
+              "repo": "droma82/add-subtract-ex.nvim",
+              "url": "https://github.com/droma82/add-subtract-ex.nvim",
+              "description": "Extends / to toggle booleans, comparison/logical operators, and shift letters, deferring to native number handling.",
+              "external": false,
+              "sourceRepo": "rockerboo/awesome-neovim",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Neovim",
+                "Editing Support",
+                "DRoma82/add-subtract-ex.nvim"
+              ],
+              "parentId": "root-editors-neovim-editing-support"
+            },
+            {
               "id": "root-editors-neovim-editing-support-hiphish-rainbow-delimiters-nvim",
               "title": "HiPhish/rainbow-delimiters.nvim",
               "kind": "repo",
@@ -38430,7 +38483,7 @@
                   "sourceRepo": "rockerboo/awesome-neovim",
                   "depth": 3,
                   "children": [],
-                  "stars": 65,
+                  "stars": 62,
                   "forks": 11,
                   "language": "Nix",
                   "license": "BSD-3-Clause",
@@ -38438,8 +38491,8 @@
                     "neovim-plugins",
                     "nix-flake"
                   ],
-                  "updated": "2026-08-08T17:53:31Z",
-                  "pushed": "2026-08-08T17:53:26Z",
+                  "updated": "2026-08-15T17:39:14Z",
+                  "pushed": "2026-08-15T17:39:10Z",
                   "awesome": true,
                   "path": [
                     "Neovim",
@@ -39116,15 +39169,15 @@
               "sourceRepo": "rockerboo/awesome-neovim",
               "depth": 2,
               "children": [],
-              "stars": 2126,
-              "forks": 144,
+              "stars": 2124,
+              "forks": 143,
               "language": null,
               "license": "MIT",
               "topics": [
                 "awesome",
                 "vim"
               ],
-              "updated": "2026-08-05T06:58:41Z",
+              "updated": "2026-08-13T23:02:48Z",
               "pushed": "2025-06-06T18:42:55Z",
               "awesome": true,
               "path": [
@@ -39332,8 +39385,8 @@
           "parentId": "root-editors-neovim"
         }
       ],
-      "stars": 21239,
-      "forks": 1038,
+      "stars": 21269,
+      "forks": 1041,
       "language": "Shell",
       "license": "CC0-1.0",
       "topics": [
@@ -39343,8 +39396,8 @@
         "neovim-plugins",
         "nvim-lua"
       ],
-      "updated": "2026-08-08T11:04:33Z",
-      "pushed": "2026-08-08T00:21:33Z",
+      "updated": "2026-08-15T20:42:21Z",
+      "pushed": "2026-08-15T08:14:32Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -39363,15 +39416,15 @@
       "sourceRepo": "sindresorhus/awesome",
       "depth": 1,
       "children": [],
-      "stars": 9352,
-      "forks": 599,
+      "stars": 9355,
+      "forks": 597,
       "language": null,
       "license": "Unlicense",
       "topics": [
         "awesome-list",
         "emacs"
       ],
-      "updated": "2026-08-08T23:54:13Z",
+      "updated": "2026-08-14T00:12:08Z",
       "pushed": "2026-05-13T04:32:20Z",
       "awesome": true,
       "readmeStatus": "empty",
@@ -45842,8 +45895,8 @@
           "parentId": "root-editors-visual-studio-code"
         }
       ],
-      "stars": 28940,
-      "forks": 1407,
+      "stars": 28965,
+      "forks": 1404,
       "language": "JavaScript",
       "license": "CC0-1.0",
       "topics": [
@@ -45859,7 +45912,7 @@
         "vscode-extension",
         "vscode-theme"
       ],
-      "updated": "2026-08-09T03:03:51Z",
+      "updated": "2026-08-16T02:28:44Z",
       "pushed": "2026-06-21T09:36:55Z",
       "awesome": true,
       "readmeStatus": "expanded",
