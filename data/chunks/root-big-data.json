@@ -1021,8 +1021,8 @@
       "sourceRepo": "sindresorhus/awesome",
       "depth": 1,
       "children": [],
-      "stars": 78103,
-      "forks": 11753,
+      "stars": 78492,
+      "forks": 11797,
       "language": null,
       "license": "MIT",
       "topics": [
@@ -1031,8 +1031,8 @@
         "datasets",
         "opendata"
       ],
-      "updated": "2026-08-15T23:41:38Z",
-      "pushed": "2026-08-04T19:54:53Z",
+      "updated": "2026-08-23T02:43:36Z",
+      "pushed": "2026-08-21T17:12:16Z",
       "awesome": true,
       "readmeStatus": "empty",
       "path": [
@@ -10603,15 +10603,15 @@
           "parentId": "root-big-data-data-engineering"
         }
       ],
-      "stars": 8951,
-      "forks": 1592,
+      "stars": 8977,
+      "forks": 1596,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
         "awesome",
         "awesome-list"
       ],
-      "updated": "2026-08-16T01:48:05Z",
+      "updated": "2026-08-23T02:19:54Z",
       "pushed": "2026-07-18T15:19:21Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -14190,7 +14190,7 @@
           "parentId": "root-big-data-streaming"
         }
       ],
-      "stars": 3005,
+      "stars": 3007,
       "forks": 322,
       "language": "JavaScript",
       "license": null,
@@ -14200,8 +14200,8 @@
         "list",
         "stream-processing"
       ],
-      "updated": "2026-08-15T06:41:42Z",
-      "pushed": "2026-08-15T18:31:28Z",
+      "updated": "2026-08-22T09:22:55Z",
+      "pushed": "2026-08-22T18:32:00Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -31103,6 +31103,33 @@
                   "parentId": "root-big-data-network-analysis-software-python"
                 },
                 {
+                  "id": "root-big-data-network-analysis-software-python-networkx-gdmetrix",
+                  "title": "gdMetriX",
+                  "kind": "repo",
+                  "repo": "livus/gdmetrix",
+                  "url": "https://github.com/livus/gdmetrix",
+                  "description": "NetworkX extension for computing graph drawing quality metrics (crossings, symmetry, node distribution, edge directions, and more).",
+                  "external": false,
+                  "sourceRepo": "briatte/awesome-network-analysis",
+                  "depth": 5,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Network Analysis",
+                    "Software",
+                    "Python",
+                    "gdMetriX"
+                  ],
+                  "parentId": "root-big-data-network-analysis-software-python"
+                },
+                {
                   "id": "root-big-data-network-analysis-software-python-networkx-implementing-an-ergm-from-scratch-in-python-using-networkx-and-numpy-2014",
                   "title": "Implementing an ERGM from Scratch in Python, using networkx and numpy (2014).",
                   "kind": "topic",
@@ -35107,7 +35134,7 @@
                 "structural-attention",
                 "weisfeiler-lehman"
               ],
-              "updated": "2026-08-13T09:16:33Z",
+              "updated": "2026-08-21T10:59:16Z",
               "pushed": "2023-03-18T12:10:08Z",
               "awesome": true,
               "path": [
@@ -35128,8 +35155,8 @@
               "sourceRepo": "briatte/awesome-network-analysis",
               "depth": 2,
               "children": [],
-              "stars": 2449,
-              "forks": 356,
+              "stars": 2450,
+              "forks": 357,
               "language": "Python",
               "license": "CC0-1.0",
               "topics": [
@@ -35154,7 +35181,7 @@
                 "social-network",
                 "unsupervised-learning"
               ],
-              "updated": "2026-08-13T21:55:11Z",
+              "updated": "2026-08-21T10:54:09Z",
               "pushed": "2025-12-20T17:06:00Z",
               "awesome": true,
               "path": [
@@ -38348,8 +38375,8 @@
           "parentId": "root-big-data-network-analysis"
         }
       ],
-      "stars": 4093,
-      "forks": 638,
+      "stars": 4099,
+      "forks": 639,
       "language": "R",
       "license": null,
       "topics": [
@@ -38369,8 +38396,8 @@
         "social-network-analysis",
         "social-networks"
       ],
-      "updated": "2026-08-11T02:26:25Z",
-      "pushed": "2026-04-17T18:25:35Z",
+      "updated": "2026-08-21T14:23:40Z",
+      "pushed": "2026-08-20T13:22:11Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [

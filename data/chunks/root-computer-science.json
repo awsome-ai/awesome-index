@@ -25540,8 +25540,8 @@
           "parentId": "root-computer-science-university-courses"
         }
       ],
-      "stars": 70444,
-      "forks": 8397,
+      "stars": 70599,
+      "forks": 8398,
       "language": null,
       "license": null,
       "topics": [
@@ -25550,7 +25550,7 @@
         "computer-science",
         "courses"
       ],
-      "updated": "2026-08-16T01:57:44Z",
+      "updated": "2026-08-23T02:36:37Z",
       "pushed": "2023-05-04T12:49:34Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -26863,8 +26863,8 @@
                   "sourceRepo": "siboehm/awesome-learn-datascience",
                   "depth": 3,
                   "children": [],
-                  "stars": 18103,
-                  "forks": 3970,
+                  "stars": 18136,
+                  "forks": 3968,
                   "language": null,
                   "license": "CC0-1.0",
                   "topics": [
@@ -26880,7 +26880,7 @@
                     "neural-network",
                     "neural-networks"
                   ],
-                  "updated": "2026-08-16T02:03:45Z",
+                  "updated": "2026-08-23T01:53:23Z",
                   "pushed": "2024-06-12T08:11:59Z",
                   "awesome": false,
                   "path": [
@@ -26931,7 +26931,7 @@
               "parentId": "root-computer-science-data-science-tutorials"
             }
           ],
-          "stars": 790,
+          "stars": 789,
           "forks": 87,
           "language": null,
           "license": null,
@@ -26942,7 +26942,7 @@
             "lists",
             "machine-learning"
           ],
-          "updated": "2026-08-05T19:50:09Z",
+          "updated": "2026-08-16T15:25:44Z",
           "pushed": "2024-06-07T15:12:03Z",
           "awesome": true,
           "readmeStatus": "expanded",
@@ -42694,7 +42694,7 @@
                   "kind": "repo",
                   "repo": "thomasthinks/college-roi-data",
                   "url": "https://github.com/thomasthinks/college-roi-data",
-                  "description": "Lifetime return-on-investment estimates for 29,700 US bachelor's programs across 3,392 colleges, built from FREOPP, IPEDS, and BEA regional price data. 5 CSVs with data dictionary, CC BY 4.0, Zenodo DOI.",
+                  "description": "Lifetime return-on-investment estimates for 30K US bachelor's programs across 1,775 institutions, built from FREOPP, IPEDS, and BEA regional price data. 5 CSVs with data dictionary, CC BY 4.0, Zenodo DOI.",
                   "external": false,
                   "sourceRepo": "academic/awesome-datascience",
                   "depth": 3,
@@ -44417,6 +44417,33 @@
                   "parentId": "root-computer-science-data-science-fun-datasets-2"
                 },
                 {
+                  "id": "root-computer-science-data-science-fun-datasets-hdd-price-index",
+                  "title": "HDD Price Index",
+                  "kind": "repo",
+                  "repo": "adamdudley/hddhunt-price-index",
+                  "url": "https://github.com/adamdudley/hddhunt-price-index",
+                  "description": "Daily open dataset of the cheapest new internal 3.5\" SATA hard-drive price per terabyte (USD/TB) by capacity tier on Amazon US, with a historical time series. CSV, JSON and JSONL, no login, CC BY 4.0.",
+                  "external": false,
+                  "sourceRepo": "academic/awesome-datascience",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Data Science",
+                    "Fun",
+                    "Datasets",
+                    "HDD Price Index"
+                  ],
+                  "parentId": "root-computer-science-data-science-fun-datasets-2"
+                },
+                {
                   "id": "root-computer-science-data-science-fun-datasets-bde-score",
                   "title": "BDE Score",
                   "kind": "repo",
@@ -44975,13 +45002,13 @@
               "sourceRepo": "academic/awesome-datascience",
               "depth": 2,
               "children": [],
-              "stars": 74046,
-              "forks": 15614,
+              "stars": 74120,
+              "forks": 15619,
               "language": "Python",
               "license": "NOASSERTION",
               "topics": [],
-              "updated": "2026-08-15T23:44:01Z",
-              "pushed": "2026-08-11T21:49:59Z",
+              "updated": "2026-08-23T02:36:27Z",
+              "pushed": "2026-08-21T10:11:51Z",
               "awesome": true,
               "path": [
                 "Data Science",
@@ -45048,25 +45075,25 @@
               "kind": "repo",
               "repo": "vinta/awesome-python",
               "url": "https://github.com/vinta/awesome-python",
-              "description": "An opinionated list of Python frameworks, libraries, tools, and resources",
+              "description": "The definitive list that answers \"I want to do X in Python, which tool should I use?\"",
               "external": false,
               "sourceRepo": "academic/awesome-datascience",
               "depth": 2,
               "children": [],
-              "stars": 314177,
-              "forks": 28518,
+              "stars": 315548,
+              "forks": 28557,
               "language": "Python",
               "license": "NOASSERTION",
               "topics": [
                 "awesome",
-                "collections",
+                "awesome-list",
                 "python",
                 "python-frameworks",
                 "python-libraries",
                 "python-tools"
               ],
-              "updated": "2026-08-16T02:58:37Z",
-              "pushed": "2026-08-05T06:11:04Z",
+              "updated": "2026-08-23T02:56:07Z",
+              "pushed": "2026-08-22T18:07:56Z",
               "awesome": true,
               "path": [
                 "Data Science",
@@ -45112,7 +45139,7 @@
               "sourceRepo": "academic/awesome-datascience",
               "depth": 2,
               "children": [],
-              "stars": 6496,
+              "stars": 6503,
               "forks": 1516,
               "language": "R",
               "license": null,
@@ -45125,7 +45152,7 @@
                 "r",
                 "rstats"
               ],
-              "updated": "2026-08-15T06:01:38Z",
+              "updated": "2026-08-21T06:04:11Z",
               "pushed": "2025-09-18T16:46:19Z",
               "awesome": true,
               "path": [
@@ -45146,8 +45173,8 @@
               "sourceRepo": "academic/awesome-datascience",
               "depth": 2,
               "children": [],
-              "stars": 78103,
-              "forks": 11753,
+              "stars": 78492,
+              "forks": 11797,
               "language": null,
               "license": "MIT",
               "topics": [
@@ -45156,8 +45183,8 @@
                 "datasets",
                 "opendata"
               ],
-              "updated": "2026-08-15T23:41:38Z",
-              "pushed": "2026-08-04T19:54:53Z",
+              "updated": "2026-08-23T02:43:36Z",
+              "pushed": "2026-08-21T17:12:16Z",
               "awesome": true,
               "path": [
                 "Data Science",
@@ -45177,8 +45204,8 @@
               "sourceRepo": "academic/awesome-datascience",
               "depth": 2,
               "children": [],
-              "stars": 18103,
-              "forks": 3970,
+              "stars": 18136,
+              "forks": 3968,
               "language": null,
               "license": "CC0-1.0",
               "topics": [
@@ -45194,7 +45221,7 @@
                 "neural-network",
                 "neural-networks"
               ],
-              "updated": "2026-08-16T02:03:45Z",
+              "updated": "2026-08-23T01:53:23Z",
               "pushed": "2024-06-12T08:11:59Z",
               "awesome": true,
               "path": [
@@ -45216,7 +45243,7 @@
               "depth": 2,
               "children": [],
               "stars": 693,
-              "forks": 90,
+              "forks": 89,
               "language": null,
               "license": null,
               "topics": [
@@ -45296,7 +45323,7 @@
               "sourceRepo": "academic/awesome-datascience",
               "depth": 2,
               "children": [],
-              "stars": 6623,
+              "stars": 6632,
               "forks": 830,
               "language": null,
               "license": "CC-BY-SA-4.0",
@@ -45306,7 +45333,7 @@
                 "machine-learning",
                 "machine-learning-on-source-code"
               ],
-              "updated": "2026-08-15T16:20:30Z",
+              "updated": "2026-08-22T14:34:29Z",
               "pushed": "2020-12-03T17:58:42Z",
               "awesome": true,
               "path": [
@@ -45327,8 +45354,8 @@
               "sourceRepo": "academic/awesome-datascience",
               "depth": 2,
               "children": [],
-              "stars": 2449,
-              "forks": 356,
+              "stars": 2450,
+              "forks": 357,
               "language": "Python",
               "license": "CC0-1.0",
               "topics": [
@@ -45353,7 +45380,7 @@
                 "social-network",
                 "unsupervised-learning"
               ],
-              "updated": "2026-08-13T21:55:11Z",
+              "updated": "2026-08-21T10:54:09Z",
               "pushed": "2025-12-20T17:06:00Z",
               "awesome": true,
               "path": [
@@ -45400,7 +45427,7 @@
                 "structural-attention",
                 "weisfeiler-lehman"
               ],
-              "updated": "2026-08-13T09:16:33Z",
+              "updated": "2026-08-21T10:59:16Z",
               "pushed": "2023-03-18T12:10:08Z",
               "awesome": true,
               "path": [
@@ -45468,7 +45495,7 @@
               "sourceRepo": "academic/awesome-datascience",
               "depth": 2,
               "children": [],
-              "stars": 1823,
+              "stars": 1827,
               "forks": 329,
               "language": "Python",
               "license": "CC0-1.0",
@@ -45494,7 +45521,7 @@
                 "logistic-regression",
                 "random-forest"
               ],
-              "updated": "2026-08-15T00:46:21Z",
+              "updated": "2026-08-22T15:47:13Z",
               "pushed": "2026-01-05T12:28:59Z",
               "awesome": true,
               "path": [
@@ -45588,7 +45615,7 @@
               "sourceRepo": "academic/awesome-datascience",
               "depth": 2,
               "children": [],
-              "stars": 713,
+              "stars": 714,
               "forks": 76,
               "language": "Python",
               "license": "CC0-1.0",
@@ -45610,7 +45637,7 @@
                 "rl",
                 "tree-search"
               ],
-              "updated": "2026-07-22T23:32:14Z",
+              "updated": "2026-08-21T12:42:05Z",
               "pushed": "2026-01-13T10:28:51Z",
               "awesome": true,
               "path": [
@@ -45771,8 +45798,8 @@
               "sourceRepo": "academic/awesome-datascience",
               "depth": 2,
               "children": [],
-              "stars": 1990,
-              "forks": 136,
+              "stars": 1989,
+              "forks": 137,
               "language": null,
               "license": "Apache-2.0",
               "topics": [
@@ -45784,7 +45811,7 @@
                 "graph-algorithms",
                 "graphml"
               ],
-              "updated": "2026-08-13T21:46:37Z",
+              "updated": "2026-08-22T21:55:32Z",
               "pushed": "2022-04-04T14:54:08Z",
               "awesome": true,
               "path": [
@@ -46242,8 +46269,8 @@
               "sourceRepo": "academic/awesome-datascience",
               "depth": 2,
               "children": [],
-              "stars": 1790,
-              "forks": 261,
+              "stars": 1862,
+              "forks": 268,
               "language": null,
               "license": "CC0-1.0",
               "topics": [
@@ -46268,7 +46295,7 @@
                 "statistics",
                 "tutorials"
               ],
-              "updated": "2026-08-15T20:33:48Z",
+              "updated": "2026-08-22T23:17:24Z",
               "pushed": "2026-08-09T10:44:21Z",
               "awesome": true,
               "path": [
@@ -46289,7 +46316,7 @@
               "sourceRepo": "academic/awesome-datascience",
               "depth": 2,
               "children": [],
-              "stars": 21,
+              "stars": 22,
               "forks": 7,
               "language": null,
               "license": "CC0-1.0",
@@ -46305,7 +46332,7 @@
                 "systematic-literature-reviews",
                 "systematic-reviews"
               ],
-              "updated": "2026-08-13T20:49:34Z",
+              "updated": "2026-08-23T01:02:44Z",
               "pushed": "2026-08-05T04:48:48Z",
               "awesome": true,
               "path": [
@@ -46360,7 +46387,7 @@
                   "sourceRepo": "academic/awesome-datascience",
                   "depth": 3,
                   "children": [],
-                  "stars": 1471,
+                  "stars": 1478,
                   "forks": 138,
                   "language": null,
                   "license": "ISC",
@@ -46375,7 +46402,7 @@
                     "sound",
                     "synthesizer"
                   ],
-                  "updated": "2026-08-13T11:45:41Z",
+                  "updated": "2026-08-22T15:52:53Z",
                   "pushed": "2026-07-19T18:38:38Z",
                   "awesome": true,
                   "path": [
@@ -46418,8 +46445,8 @@
           "parentId": "root-computer-science-data-science"
         }
       ],
-      "stars": 29825,
-      "forks": 6603,
+      "stars": 29851,
+      "forks": 6609,
       "language": null,
       "license": "MIT",
       "topics": [
@@ -46434,8 +46461,8 @@
         "machine-learning",
         "science"
       ],
-      "updated": "2026-08-15T23:18:14Z",
-      "pushed": "2026-08-10T14:39:24Z",
+      "updated": "2026-08-22T16:32:34Z",
+      "pushed": "2026-08-22T06:20:28Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -46465,8 +46492,8 @@
           "sourceRepo": "sindresorhus/awesome",
           "depth": 2,
           "children": [],
-          "stars": 18103,
-          "forks": 3970,
+          "stars": 18136,
+          "forks": 3968,
           "language": null,
           "license": "CC0-1.0",
           "topics": [
@@ -46482,7 +46509,7 @@
             "neural-network",
             "neural-networks"
           ],
-          "updated": "2026-08-16T02:03:45Z",
+          "updated": "2026-08-23T01:53:23Z",
           "pushed": "2024-06-12T08:11:59Z",
           "awesome": false,
           "path": [
@@ -46643,7 +46670,7 @@
               "parentId": "root-computer-science-machine-learning-core-ml-models"
             }
           ],
-          "stars": 7039,
+          "stars": 7042,
           "forks": 508,
           "language": "Python",
           "license": "MIT",
@@ -46669,7 +46696,7 @@
             "models",
             "tensorflow-models"
           ],
-          "updated": "2026-08-15T20:06:07Z",
+          "updated": "2026-08-21T09:19:08Z",
           "pushed": "2025-06-17T05:43:09Z",
           "awesome": true,
           "readmeStatus": "expanded",
@@ -51891,8 +51918,8 @@
               "parentId": "root-computer-science-machine-learning-software-engineering-for-machine-learning"
             }
           ],
-          "stars": 1366,
-          "forks": 125,
+          "stars": 1368,
+          "forks": 124,
           "language": null,
           "license": "CC0-1.0",
           "topics": [
@@ -51903,7 +51930,7 @@
             "ml-ops",
             "software-engineering"
           ],
-          "updated": "2026-08-05T19:49:43Z",
+          "updated": "2026-08-21T15:06:08Z",
           "pushed": "2024-03-26T22:53:29Z",
           "awesome": true,
           "readmeStatus": "expanded",
@@ -59411,8 +59438,8 @@
                       "sourceRepo": "georgezouq/awesome-ai-in-finance",
                       "depth": 5,
                       "children": [],
-                      "stars": 28834,
-                      "forks": 3852,
+                      "stars": 29062,
+                      "forks": 3887,
                       "language": "HTML",
                       "license": null,
                       "topics": [
@@ -59437,8 +59464,8 @@
                         "trading-strategies",
                         "yahoo-finance"
                       ],
-                      "updated": "2026-08-16T02:58:19Z",
-                      "pushed": "2026-08-16T01:28:50Z",
+                      "updated": "2026-08-23T01:19:26Z",
+                      "pushed": "2026-08-23T01:28:33Z",
                       "awesome": true,
                       "path": [
                         "Machine Learning",
@@ -59595,8 +59622,8 @@
               "parentId": "root-computer-science-machine-learning-ai-in-finance"
             }
           ],
-          "stars": 6404,
-          "forks": 775,
+          "stars": 6428,
+          "forks": 777,
           "language": null,
           "license": "CC0-1.0",
           "topics": [
@@ -59613,7 +59640,7 @@
             "stock-market",
             "technology-analysis"
           ],
-          "updated": "2026-08-15T11:49:13Z",
+          "updated": "2026-08-22T18:56:50Z",
           "pushed": "2026-08-04T09:34:24Z",
           "awesome": true,
           "readmeStatus": "expanded",
@@ -66095,7 +66122,7 @@
               "parentId": "root-computer-science-machine-learning-jax"
             }
           ],
-          "stars": 2149,
+          "stars": 2154,
           "forks": 169,
           "language": null,
           "license": "CC0-1.0",
@@ -66110,7 +66137,7 @@
             "numpy",
             "xla"
           ],
-          "updated": "2026-08-15T11:14:35Z",
+          "updated": "2026-08-23T02:05:34Z",
           "pushed": "2026-01-20T05:48:13Z",
           "awesome": true,
           "readmeStatus": "expanded",
@@ -70689,6 +70716,32 @@
               "parentId": "root-computer-science-machine-learning-frameworks-and-libraries"
             },
             {
+              "id": "root-computer-science-machine-learning-frameworks-and-libraries-awesome-machine-learning-c-speech-recognition",
+              "title": "Speech Recognition",
+              "kind": "link",
+              "repo": "",
+              "url": "https://github.com/josephmisiti/awesome-machine-learning#c-speech-recognition",
+              "description": "",
+              "external": false,
+              "sourceRepo": "josephmisiti/awesome-machine-learning",
+              "depth": 6,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Machine Learning",
+                "Frameworks and Libraries",
+                "Speech Recognition"
+              ],
+              "parentId": "root-computer-science-machine-learning-frameworks-and-libraries"
+            },
+            {
               "id": "root-computer-science-machine-learning-frameworks-and-libraries-awesome-machine-learning-c-computer-vision-2",
               "title": "Computer Vision",
               "kind": "link",
@@ -70767,7 +70820,7 @@
               "parentId": "root-computer-science-machine-learning-frameworks-and-libraries"
             },
             {
-              "id": "root-computer-science-machine-learning-frameworks-and-libraries-awesome-machine-learning-c-speech-recognition",
+              "id": "root-computer-science-machine-learning-frameworks-and-libraries-awesome-machine-learning-c-speech-recognition-2",
               "title": "Speech Recognition",
               "kind": "link",
               "repo": "",
@@ -71443,6 +71496,32 @@
               "parentId": "root-computer-science-machine-learning-frameworks-and-libraries"
             },
             {
+              "id": "root-computer-science-machine-learning-frameworks-and-libraries-awesome-machine-learning-go-speech-recognition",
+              "title": "Speech Recognition",
+              "kind": "link",
+              "repo": "",
+              "url": "https://github.com/josephmisiti/awesome-machine-learning#go-speech-recognition",
+              "description": "",
+              "external": false,
+              "sourceRepo": "josephmisiti/awesome-machine-learning",
+              "depth": 6,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Machine Learning",
+                "Frameworks and Libraries",
+                "Speech Recognition"
+              ],
+              "parentId": "root-computer-science-machine-learning-frameworks-and-libraries"
+            },
+            {
               "id": "root-computer-science-machine-learning-frameworks-and-libraries-awesome-machine-learning-haskell-general-purpose-machine-learning",
               "title": "General-Purpose Machine Learning",
               "kind": "link",
@@ -71729,6 +71808,32 @@
               "parentId": "root-computer-science-machine-learning-frameworks-and-libraries"
             },
             {
+              "id": "root-computer-science-machine-learning-frameworks-and-libraries-awesome-machine-learning-javascript-speech-recognition",
+              "title": "Speech Recognition",
+              "kind": "link",
+              "repo": "",
+              "url": "https://github.com/josephmisiti/awesome-machine-learning#javascript-speech-recognition",
+              "description": "",
+              "external": false,
+              "sourceRepo": "josephmisiti/awesome-machine-learning",
+              "depth": 6,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Machine Learning",
+                "Frameworks and Libraries",
+                "Speech Recognition"
+              ],
+              "parentId": "root-computer-science-machine-learning-frameworks-and-libraries"
+            },
+            {
               "id": "root-computer-science-machine-learning-frameworks-and-libraries-awesome-machine-learning-julia-general-purpose-machine-learning",
               "title": "General-Purpose Machine Learning",
               "kind": "link",
@@ -71855,6 +71960,32 @@
                 "Machine Learning",
                 "Frameworks and Libraries",
                 "Deep Learning"
+              ],
+              "parentId": "root-computer-science-machine-learning-frameworks-and-libraries"
+            },
+            {
+              "id": "root-computer-science-machine-learning-frameworks-and-libraries-awesome-machine-learning-kotlin-speech-recognition",
+              "title": "Speech Recognition",
+              "kind": "link",
+              "repo": "",
+              "url": "https://github.com/josephmisiti/awesome-machine-learning#kotlin-speech-recognition",
+              "description": "",
+              "external": false,
+              "sourceRepo": "josephmisiti/awesome-machine-learning",
+              "depth": 6,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Machine Learning",
+                "Frameworks and Libraries",
+                "Speech Recognition"
               ],
               "parentId": "root-computer-science-machine-learning-frameworks-and-libraries"
             },
@@ -72873,6 +73004,32 @@
               "parentId": "root-computer-science-machine-learning-frameworks-and-libraries"
             },
             {
+              "id": "root-computer-science-machine-learning-frameworks-and-libraries-awesome-machine-learning-swift-speech-recognition",
+              "title": "Speech Recognition",
+              "kind": "link",
+              "repo": "",
+              "url": "https://github.com/josephmisiti/awesome-machine-learning#swift-speech-recognition",
+              "description": "",
+              "external": false,
+              "sourceRepo": "josephmisiti/awesome-machine-learning",
+              "depth": 6,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Machine Learning",
+                "Frameworks and Libraries",
+                "Speech Recognition"
+              ],
+              "parentId": "root-computer-science-machine-learning-frameworks-and-libraries"
+            },
+            {
               "id": "root-computer-science-machine-learning-frameworks-and-libraries-awesome-machine-learning-tensorflow-general-purpose-machine-learning",
               "title": "General-Purpose Machine Learning",
               "kind": "link",
@@ -73113,6 +73270,29 @@
                 "Computer Vision"
               ],
               "parentId": "root-computer-science-machine-learning-c"
+            },
+            {
+              "id": "root-computer-science-machine-learning-c-speech-recognition",
+              "title": "Speech Recognition",
+              "kind": "section",
+              "sourceRepo": "josephmisiti/awesome-machine-learning",
+              "depth": 3,
+              "url": "https://github.com/josephmisiti/awesome-machine-learning#speech-recognition",
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Machine Learning",
+                "C",
+                "Speech Recognition"
+              ],
+              "parentId": "root-computer-science-machine-learning-c"
             }
           ],
           "stars": 0,
@@ -73207,7 +73387,7 @@
               "parentId": "root-computer-science-machine-learning-c-2"
             },
             {
-              "id": "root-computer-science-machine-learning-c-speech-recognition",
+              "id": "root-computer-science-machine-learning-c-speech-recognition-2",
               "title": "Speech Recognition",
               "kind": "section",
               "sourceRepo": "josephmisiti/awesome-machine-learning",
@@ -73966,6 +74146,29 @@
               "parentId": "root-computer-science-machine-learning-go"
             },
             {
+              "id": "root-computer-science-machine-learning-go-speech-recognition",
+              "title": "Speech Recognition",
+              "kind": "section",
+              "sourceRepo": "josephmisiti/awesome-machine-learning",
+              "depth": 3,
+              "url": "https://github.com/josephmisiti/awesome-machine-learning#speech-recognition",
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Machine Learning",
+                "Go",
+                "Speech Recognition"
+              ],
+              "parentId": "root-computer-science-machine-learning-go"
+            },
+            {
               "id": "root-computer-science-machine-learning-go-reinforcement-learning",
               "title": "Reinforcement learning",
               "kind": "section",
@@ -74265,6 +74468,29 @@
               "parentId": "root-computer-science-machine-learning-javascript"
             },
             {
+              "id": "root-computer-science-machine-learning-javascript-speech-recognition",
+              "title": "Speech Recognition",
+              "kind": "section",
+              "sourceRepo": "josephmisiti/awesome-machine-learning",
+              "depth": 3,
+              "url": "https://github.com/josephmisiti/awesome-machine-learning#speech-recognition",
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Machine Learning",
+                "JavaScript",
+                "Speech Recognition"
+              ],
+              "parentId": "root-computer-science-machine-learning-javascript"
+            },
+            {
               "id": "root-computer-science-machine-learning-javascript-misc",
               "title": "Misc",
               "kind": "section",
@@ -74468,6 +74694,29 @@
                 "Machine Learning",
                 "Kotlin",
                 "Deep Learning"
+              ],
+              "parentId": "root-computer-science-machine-learning-kotlin"
+            },
+            {
+              "id": "root-computer-science-machine-learning-kotlin-speech-recognition",
+              "title": "Speech Recognition",
+              "kind": "section",
+              "sourceRepo": "josephmisiti/awesome-machine-learning",
+              "depth": 3,
+              "url": "https://github.com/josephmisiti/awesome-machine-learning#speech-recognition",
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Machine Learning",
+                "Kotlin",
+                "Speech Recognition"
               ],
               "parentId": "root-computer-science-machine-learning-kotlin"
             }
@@ -76011,6 +76260,29 @@
                 "General-Purpose Machine Learning"
               ],
               "parentId": "root-computer-science-machine-learning-swift"
+            },
+            {
+              "id": "root-computer-science-machine-learning-swift-speech-recognition",
+              "title": "Speech Recognition",
+              "kind": "section",
+              "sourceRepo": "josephmisiti/awesome-machine-learning",
+              "depth": 3,
+              "url": "https://github.com/josephmisiti/awesome-machine-learning#speech-recognition",
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Machine Learning",
+                "Swift",
+                "Speech Recognition"
+              ],
+              "parentId": "root-computer-science-machine-learning-swift"
             }
           ],
           "stars": 0,
@@ -76118,13 +76390,13 @@
           "parentId": "root-computer-science-machine-learning"
         }
       ],
-      "stars": 74046,
-      "forks": 15614,
+      "stars": 74120,
+      "forks": 15619,
       "language": "Python",
       "license": "NOASSERTION",
       "topics": [],
-      "updated": "2026-08-15T23:44:01Z",
-      "pushed": "2026-08-11T21:49:59Z",
+      "updated": "2026-08-23T02:36:27Z",
+      "pushed": "2026-08-21T10:11:51Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -77681,7 +77953,7 @@
           "sourceRepo": "sindresorhus/awesome",
           "depth": 2,
           "children": [],
-          "stars": 1075,
+          "stars": 1076,
           "forks": 71,
           "language": "Ruby",
           "license": "CC0-1.0",
@@ -77699,7 +77971,7 @@
             "rubynlp",
             "sentiment-analysis"
           ],
-          "updated": "2026-08-05T04:19:46Z",
+          "updated": "2026-08-17T07:59:13Z",
           "pushed": "2023-06-27T09:38:04Z",
           "awesome": false,
           "path": [
@@ -84205,7 +84477,7 @@
               "parentId": "root-computer-science-speech-and-natural-language-processing-question-answering"
             }
           ],
-          "stars": 769,
+          "stars": 768,
           "forks": 104,
           "language": null,
           "license": "CC0-1.0",
@@ -84220,7 +84492,7 @@
             "squad",
             "watson"
           ],
-          "updated": "2026-07-19T03:06:01Z",
+          "updated": "2026-08-16T17:56:02Z",
           "pushed": "2022-01-13T02:23:01Z",
           "awesome": true,
           "readmeStatus": "expanded",
@@ -87300,7 +87572,7 @@
         }
       ],
       "stars": 450,
-      "forks": 34,
+      "forks": 35,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -87309,7 +87581,7 @@
         "linguistics",
         "resources"
       ],
-      "updated": "2026-08-13T07:13:30Z",
+      "updated": "2026-08-22T08:06:34Z",
       "pushed": "2026-02-12T19:09:16Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -87810,7 +88082,7 @@
               "parentId": "root-computer-science-cryptography-papers"
             }
           ],
-          "stars": 2089,
+          "stars": 2091,
           "forks": 147,
           "language": null,
           "license": "NOASSERTION",
@@ -87822,7 +88094,7 @@
             "cryptography",
             "howto"
           ],
-          "updated": "2026-08-15T17:28:14Z",
+          "updated": "2026-08-22T16:55:15Z",
           "pushed": "2024-10-17T18:13:08Z",
           "awesome": true,
           "readmeStatus": "expanded",
@@ -96273,7 +96545,7 @@
           "parentId": "root-computer-science-cryptography"
         }
       ],
-      "stars": 7068,
+      "stars": 7084,
       "forks": 776,
       "language": null,
       "license": "NOASSERTION",
@@ -96285,7 +96557,7 @@
         "encryption",
         "list"
       ],
-      "updated": "2026-08-15T15:52:38Z",
+      "updated": "2026-08-22T20:25:12Z",
       "pushed": "2026-07-15T08:39:47Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -96324,13 +96596,13 @@
               "sourceRepo": "jbhuang0604/awesome-computer-vision",
               "depth": 2,
               "children": [],
-              "stars": 74046,
-              "forks": 15614,
+              "stars": 74120,
+              "forks": 15619,
               "language": "Python",
               "license": "NOASSERTION",
               "topics": [],
-              "updated": "2026-08-15T23:44:01Z",
-              "pushed": "2026-08-11T21:49:59Z",
+              "updated": "2026-08-23T02:36:27Z",
+              "pushed": "2026-08-21T10:11:51Z",
               "awesome": true,
               "path": [
                 "Computer Vision",
@@ -96350,12 +96622,12 @@
               "sourceRepo": "jbhuang0604/awesome-computer-vision",
               "depth": 2,
               "children": [],
-              "stars": 11182,
-              "forks": 2770,
+              "stars": 11185,
+              "forks": 2769,
               "language": null,
               "license": null,
               "topics": [],
-              "updated": "2026-08-14T14:53:16Z",
+              "updated": "2026-08-22T23:02:04Z",
               "pushed": "2023-08-15T10:52:15Z",
               "awesome": true,
               "path": [
@@ -96376,8 +96648,8 @@
               "sourceRepo": "jbhuang0604/awesome-computer-vision",
               "depth": 2,
               "children": [],
-              "stars": 5454,
-              "forks": 882,
+              "stars": 5456,
+              "forks": 881,
               "language": null,
               "license": "MIT",
               "topics": [
@@ -96391,7 +96663,7 @@
                 "transfer-learning",
                 "zero-shot-learning"
               ],
-              "updated": "2026-08-13T20:48:22Z",
+              "updated": "2026-08-19T15:05:33Z",
               "pushed": "2025-12-08T06:04:32Z",
               "awesome": true,
               "path": [
@@ -96413,7 +96685,7 @@
               "depth": 2,
               "children": [],
               "stars": 7502,
-              "forks": 1918,
+              "forks": 1919,
               "language": null,
               "license": null,
               "topics": [
@@ -96423,7 +96695,7 @@
                 "object-detection",
                 "object-localisation"
               ],
-              "updated": "2026-08-14T14:53:30Z",
+              "updated": "2026-08-23T00:39:41Z",
               "pushed": "2022-12-17T04:28:58Z",
               "awesome": true,
               "path": [
@@ -96444,7 +96716,7 @@
               "sourceRepo": "jbhuang0604/awesome-computer-vision",
               "depth": 2,
               "children": [],
-              "stars": 10194,
+              "stars": 10191,
               "forks": 1797,
               "language": null,
               "license": null,
@@ -96460,7 +96732,7 @@
                 "primitives",
                 "voxel"
               ],
-              "updated": "2026-08-16T02:26:37Z",
+              "updated": "2026-08-21T09:19:46Z",
               "pushed": "2024-07-04T19:13:09Z",
               "awesome": true,
               "path": [
@@ -96481,7 +96753,7 @@
               "sourceRepo": "jbhuang0604/awesome-computer-vision",
               "depth": 2,
               "children": [],
-              "stars": 4012,
+              "stars": 4015,
               "forks": 716,
               "language": null,
               "license": null,
@@ -96499,7 +96771,7 @@
                 "video-recognition",
                 "video-understanding"
               ],
-              "updated": "2026-08-13T20:51:51Z",
+              "updated": "2026-08-20T14:14:52Z",
               "pushed": "2023-05-13T17:00:12Z",
               "awesome": true,
               "path": [
@@ -96558,7 +96830,7 @@
               "language": null,
               "license": null,
               "topics": [],
-              "updated": "2026-08-13T20:52:20Z",
+              "updated": "2026-08-22T22:11:01Z",
               "pushed": "2020-11-26T16:09:26Z",
               "awesome": true,
               "path": [
@@ -96645,7 +96917,7 @@
               "sourceRepo": "jbhuang0604/awesome-computer-vision",
               "depth": 2,
               "children": [],
-              "stars": 4756,
+              "stars": 4754,
               "forks": 974,
               "language": null,
               "license": null,
@@ -96660,7 +96932,7 @@
                 "face-tracking",
                 "face-transfer"
               ],
-              "updated": "2026-08-14T21:23:15Z",
+              "updated": "2026-08-21T09:37:54Z",
               "pushed": "2023-02-09T07:02:58Z",
               "awesome": true,
               "path": [
@@ -96681,8 +96953,8 @@
               "sourceRepo": "jbhuang0604/awesome-computer-vision",
               "depth": 2,
               "children": [],
-              "stars": 1374,
-              "forks": 207,
+              "stars": 1375,
+              "forks": 209,
               "language": null,
               "license": null,
               "topics": [
@@ -96705,7 +96977,7 @@
                 "real-time-pose-estimation",
                 "video-pose-estimation"
               ],
-              "updated": "2026-08-13T20:53:03Z",
+              "updated": "2026-08-19T15:46:36Z",
               "pushed": "2020-08-07T18:44:25Z",
               "awesome": true,
               "path": [
@@ -96764,7 +97036,7 @@
               "language": null,
               "license": null,
               "topics": [],
-              "updated": "2026-08-13T20:55:33Z",
+              "updated": "2026-08-17T08:03:43Z",
               "pushed": "2026-07-06T09:21:22Z",
               "awesome": true,
               "path": [
@@ -96785,12 +97057,12 @@
               "sourceRepo": "jbhuang0604/awesome-computer-vision",
               "depth": 2,
               "children": [],
-              "stars": 1117,
-              "forks": 88,
+              "stars": 1116,
+              "forks": 87,
               "language": null,
               "license": "CC0-1.0",
               "topics": [],
-              "updated": "2026-08-15T10:54:38Z",
+              "updated": "2026-08-20T20:52:55Z",
               "pushed": "2020-02-29T22:27:34Z",
               "awesome": true,
               "path": [
@@ -96842,7 +97114,7 @@
               "language": null,
               "license": "MIT",
               "topics": [],
-              "updated": "2026-08-14T13:04:13Z",
+              "updated": "2026-08-19T15:05:36Z",
               "pushed": "2024-02-11T22:48:44Z",
               "awesome": true,
               "path": [
@@ -96874,7 +97146,7 @@
                 "neural-rendering",
                 "neural-representations"
               ],
-              "updated": "2026-08-13T20:57:49Z",
+              "updated": "2026-08-20T15:44:12Z",
               "pushed": "2026-07-16T09:04:05Z",
               "awesome": true,
               "path": [
@@ -96895,8 +97167,8 @@
               "sourceRepo": "jbhuang0604/awesome-computer-vision",
               "depth": 2,
               "children": [],
-              "stars": 78103,
-              "forks": 11753,
+              "stars": 78492,
+              "forks": 11797,
               "language": null,
               "license": "MIT",
               "topics": [
@@ -96905,8 +97177,8 @@
                 "datasets",
                 "opendata"
               ],
-              "updated": "2026-08-15T23:41:38Z",
-              "pushed": "2026-08-04T19:54:53Z",
+              "updated": "2026-08-23T02:43:36Z",
+              "pushed": "2026-08-21T17:12:16Z",
               "awesome": true,
               "path": [
                 "Computer Vision",
@@ -96926,7 +97198,7 @@
               "sourceRepo": "jbhuang0604/awesome-computer-vision",
               "depth": 2,
               "children": [],
-              "stars": 941,
+              "stars": 943,
               "forks": 134,
               "language": null,
               "license": "MIT",
@@ -96938,7 +97210,7 @@
                 "datasets",
                 "machine-learning"
               ],
-              "updated": "2026-08-13T20:59:09Z",
+              "updated": "2026-08-19T14:22:21Z",
               "pushed": "2023-06-09T15:42:07Z",
               "awesome": true,
               "path": [
@@ -97012,7 +97284,7 @@
               "depth": 2,
               "children": [],
               "stars": 1650,
-              "forks": 222,
+              "forks": 225,
               "language": "Markdown",
               "license": "MIT",
               "topics": [
@@ -97025,8 +97297,8 @@
                 "xai",
                 "xml"
               ],
-              "updated": "2026-08-13T20:59:40Z",
-              "pushed": "2026-03-07T11:27:21Z",
+              "updated": "2026-08-19T03:50:42Z",
+              "pushed": "2026-08-19T02:09:45Z",
               "awesome": true,
               "path": [
                 "Computer Vision",
@@ -97047,7 +97319,7 @@
               "depth": 2,
               "children": [],
               "stars": 336,
-              "forks": 66,
+              "forks": 67,
               "language": null,
               "license": "MIT",
               "topics": [
@@ -97081,7 +97353,7 @@
               "sourceRepo": "jbhuang0604/awesome-computer-vision",
               "depth": 2,
               "children": [],
-              "stars": 4057,
+              "stars": 4060,
               "forks": 629,
               "language": null,
               "license": "CC0-1.0",
@@ -97107,7 +97379,7 @@
                 "transparency",
                 "xai"
               ],
-              "updated": "2026-08-15T12:20:34Z",
+              "updated": "2026-08-22T21:31:17Z",
               "pushed": "2026-06-03T15:17:31Z",
               "awesome": true,
               "path": [
@@ -97128,7 +97400,7 @@
               "sourceRepo": "jbhuang0604/awesome-computer-vision",
               "depth": 2,
               "children": [],
-              "stars": 20848,
+              "stars": 20861,
               "forks": 2590,
               "language": null,
               "license": "MIT",
@@ -97153,7 +97425,7 @@
                 "production-ml",
                 "responsible-ai"
               ],
-              "updated": "2026-08-16T02:03:25Z",
+              "updated": "2026-08-22T20:14:23Z",
               "pushed": "2026-08-12T19:22:45Z",
               "awesome": true,
               "path": [
@@ -97200,7 +97472,7 @@
               "sourceRepo": "jbhuang0604/awesome-computer-vision",
               "depth": 2,
               "children": [],
-              "stars": 1240,
+              "stars": 1239,
               "forks": 120,
               "language": null,
               "license": "MIT",
@@ -97211,7 +97483,7 @@
                 "image-generation",
                 "image-translation"
               ],
-              "updated": "2026-08-13T21:27:51Z",
+              "updated": "2026-08-20T21:02:59Z",
               "pushed": "2025-09-20T11:58:02Z",
               "awesome": true,
               "path": [
@@ -97310,7 +97582,7 @@
               "sourceRepo": "jbhuang0604/awesome-computer-vision",
               "depth": 2,
               "children": [],
-              "stars": 5101,
+              "stars": 5102,
               "forks": 814,
               "language": null,
               "license": "CC0-1.0",
@@ -97322,7 +97594,7 @@
                 "github",
                 "papers"
               ],
-              "updated": "2026-08-13T21:30:25Z",
+              "updated": "2026-08-22T07:12:41Z",
               "pushed": "2026-06-08T10:40:14Z",
               "awesome": true,
               "path": [
@@ -97369,8 +97641,8 @@
               "sourceRepo": "jbhuang0604/awesome-computer-vision",
               "depth": 2,
               "children": [],
-              "stars": 3059,
-              "forks": 605,
+              "stars": 3062,
+              "forks": 603,
               "language": null,
               "license": null,
               "topics": [
@@ -97381,7 +97653,7 @@
                 "image-classification",
                 "papers"
               ],
-              "updated": "2026-08-15T06:17:49Z",
+              "updated": "2026-08-20T14:17:52Z",
               "pushed": "2022-04-20T15:52:51Z",
               "awesome": true,
               "path": [
@@ -97402,8 +97674,8 @@
               "sourceRepo": "jbhuang0604/awesome-computer-vision",
               "depth": 2,
               "children": [],
-              "stars": 28761,
-              "forks": 6360,
+              "stars": 28797,
+              "forks": 6357,
               "language": null,
               "license": null,
               "topics": [
@@ -97417,7 +97689,7 @@
                 "neural-network",
                 "recurrent-networks"
               ],
-              "updated": "2026-08-16T02:01:13Z",
+              "updated": "2026-08-23T01:46:01Z",
               "pushed": "2025-05-26T12:28:00Z",
               "awesome": true,
               "path": [
@@ -97443,7 +97715,7 @@
               "language": null,
               "license": null,
               "topics": [],
-              "updated": "2026-08-13T21:33:03Z",
+              "updated": "2026-08-21T20:27:30Z",
               "pushed": "2019-10-22T03:27:52Z",
               "awesome": true,
               "path": [
@@ -97464,7 +97736,7 @@
               "sourceRepo": "jbhuang0604/awesome-computer-vision",
               "depth": 2,
               "children": [],
-              "stars": 2510,
+              "stars": 2511,
               "forks": 650,
               "language": "HTML",
               "license": null,
@@ -97480,7 +97752,7 @@
                 "tracking",
                 "tracking-by-detection"
               ],
-              "updated": "2026-08-13T21:34:11Z",
+              "updated": "2026-08-20T19:48:11Z",
               "pushed": "2026-03-09T08:39:53Z",
               "awesome": true,
               "path": [
@@ -97501,8 +97773,8 @@
               "sourceRepo": "jbhuang0604/awesome-computer-vision",
               "depth": 2,
               "children": [],
-              "stars": 1374,
-              "forks": 207,
+              "stars": 1375,
+              "forks": 209,
               "language": null,
               "license": null,
               "topics": [
@@ -97525,7 +97797,7 @@
                 "real-time-pose-estimation",
                 "video-pose-estimation"
               ],
-              "updated": "2026-08-13T20:53:03Z",
+              "updated": "2026-08-19T15:46:36Z",
               "pushed": "2020-08-07T18:44:25Z",
               "awesome": true,
               "path": [
@@ -97612,14 +97884,14 @@
               "sourceRepo": "jbhuang0604/awesome-computer-vision",
               "depth": 2,
               "children": [],
-              "stars": 6938,
-              "forks": 1066,
+              "stars": 6975,
+              "forks": 1070,
               "language": null,
               "license": "NOASSERTION",
               "topics": [
                 "robotics"
               ],
-              "updated": "2026-08-16T02:55:47Z",
+              "updated": "2026-08-23T01:30:09Z",
               "pushed": "2024-09-22T20:24:10Z",
               "awesome": true,
               "path": [
@@ -97640,7 +97912,7 @@
               "sourceRepo": "jbhuang0604/awesome-computer-vision",
               "depth": 2,
               "children": [],
-              "stars": 3591,
+              "stars": 3590,
               "forks": 405,
               "language": null,
               "license": null,
@@ -97652,7 +97924,7 @@
                 "transformer-with-cv",
                 "visual-transformer"
               ],
-              "updated": "2026-08-14T05:43:04Z",
+              "updated": "2026-08-17T06:27:27Z",
               "pushed": "2025-01-07T01:59:49Z",
               "awesome": true,
               "path": [
@@ -97685,7 +97957,7 @@
                 "visual-navigation",
                 "vln"
               ],
-              "updated": "2026-08-13T20:51:40Z",
+              "updated": "2026-08-22T09:39:18Z",
               "pushed": "2025-06-13T18:55:49Z",
               "awesome": true,
               "path": [
@@ -97706,7 +97978,7 @@
               "sourceRepo": "jbhuang0604/awesome-computer-vision",
               "depth": 2,
               "children": [],
-              "stars": 2898,
+              "stars": 2900,
               "forks": 510,
               "language": null,
               "license": null,
@@ -97721,7 +97993,7 @@
                 "machine-learning",
                 "machinelearning"
               ],
-              "updated": "2026-08-15T06:20:25Z",
+              "updated": "2026-08-20T14:18:40Z",
               "pushed": "2022-09-20T09:33:40Z",
               "awesome": true,
               "path": [
@@ -97784,7 +98056,7 @@
                 "robust-learning",
                 "unreliable-labels"
               ],
-              "updated": "2026-08-13T20:50:03Z",
+              "updated": "2026-08-19T15:05:35Z",
               "pushed": "2025-05-03T11:47:41Z",
               "awesome": true,
               "path": [
@@ -97805,7 +98077,7 @@
               "sourceRepo": "jbhuang0604/awesome-computer-vision",
               "depth": 2,
               "children": [],
-              "stars": 2911,
+              "stars": 2913,
               "forks": 372,
               "language": null,
               "license": null,
@@ -97825,7 +98097,7 @@
                 "stereo-deblurring",
                 "video-deblurring"
               ],
-              "updated": "2026-08-13T20:49:21Z",
+              "updated": "2026-08-23T02:40:58Z",
               "pushed": "2025-06-29T07:34:16Z",
               "awesome": true,
               "path": [
@@ -98010,7 +98282,7 @@
               "sourceRepo": "jbhuang0604/awesome-computer-vision",
               "depth": 2,
               "children": [],
-              "stars": 1535,
+              "stars": 1534,
               "forks": 178,
               "language": null,
               "license": null,
@@ -98036,7 +98308,7 @@
                 "rpa",
                 "unstructured-data"
               ],
-              "updated": "2026-08-13T20:48:27Z",
+              "updated": "2026-08-20T21:07:53Z",
               "pushed": "2023-06-02T03:56:06Z",
               "awesome": true,
               "path": [
@@ -100945,12 +101217,12 @@
           "parentId": "root-computer-science-computer-vision"
         }
       ],
-      "stars": 23497,
-      "forks": 4435,
+      "stars": 23511,
+      "forks": 4436,
       "language": null,
       "license": null,
       "topics": [],
-      "updated": "2026-08-15T15:46:46Z",
+      "updated": "2026-08-22T14:01:07Z",
       "pushed": "2024-05-17T14:24:27Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -101304,12 +101576,12 @@
               "parentId": "root-computer-science-deep-learning-tensorflow"
             }
           ],
-          "stars": 17559,
+          "stars": 17554,
           "forks": 2968,
           "language": null,
           "license": "CC0-1.0",
           "topics": [],
-          "updated": "2026-08-15T17:45:55Z",
+          "updated": "2026-08-22T00:29:46Z",
           "pushed": "2026-02-08T17:13:47Z",
           "awesome": true,
           "readmeStatus": "expanded",
@@ -104000,8 +104272,8 @@
               "parentId": "root-computer-science-deep-learning-tensorflow-lite"
             }
           ],
-          "stars": 1387,
-          "forks": 191,
+          "stars": 1389,
+          "forks": 190,
           "language": null,
           "license": "Apache-2.0",
           "topics": [
@@ -104026,7 +104298,7 @@
             "tflite",
             "tflite-models"
           ],
-          "updated": "2026-08-07T05:15:58Z",
+          "updated": "2026-08-20T03:50:49Z",
           "pushed": "2022-03-01T02:42:46Z",
           "awesome": true,
           "readmeStatus": "expanded",
@@ -111117,8 +111389,8 @@
               "parentId": "root-computer-science-deep-learning-papers"
             }
           ],
-          "stars": 26177,
-          "forks": 4416,
+          "stars": 26179,
+          "forks": 4417,
           "language": "TeX",
           "license": null,
           "topics": [
@@ -111126,7 +111398,7 @@
             "deep-neural-networks",
             "machine-learning"
           ],
-          "updated": "2026-08-15T18:36:27Z",
+          "updated": "2026-08-22T06:59:23Z",
           "pushed": "2024-01-18T13:29:44Z",
           "awesome": true,
           "readmeStatus": "expanded",
@@ -115337,7 +115609,7 @@
             "machine-learning",
             "tensorflow"
           ],
-          "updated": "2026-08-07T20:55:49Z",
+          "updated": "2026-08-20T19:49:14Z",
           "pushed": "2024-01-18T13:35:40Z",
           "awesome": true,
           "readmeStatus": "expanded",
@@ -115619,8 +115891,8 @@
           "parentId": "root-computer-science-deep-learning"
         }
       ],
-      "stars": 28761,
-      "forks": 6360,
+      "stars": 28797,
+      "forks": 6357,
       "language": null,
       "license": null,
       "topics": [
@@ -115634,7 +115906,7 @@
         "neural-network",
         "recurrent-networks"
       ],
-      "updated": "2026-08-16T02:01:13Z",
+      "updated": "2026-08-23T01:46:01Z",
       "pushed": "2025-05-26T12:28:00Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -116323,12 +116595,12 @@
           "parentId": "root-computer-science-deep-vision"
         }
       ],
-      "stars": 11182,
-      "forks": 2770,
+      "stars": 11185,
+      "forks": 2769,
       "language": null,
       "license": null,
       "topics": [],
-      "updated": "2026-08-14T14:53:16Z",
+      "updated": "2026-08-22T23:02:04Z",
       "pushed": "2023-08-15T10:52:15Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -120623,7 +120895,7 @@
           "parentId": "root-computer-science-empirical-software-engineering"
         }
       ],
-      "stars": 488,
+      "stars": 489,
       "forks": 73,
       "language": null,
       "license": "CC0-1.0",
@@ -120635,7 +120907,7 @@
         "mining",
         "msr"
       ],
-      "updated": "2026-07-21T05:58:04Z",
+      "updated": "2026-08-20T04:37:40Z",
       "pushed": "2026-06-01T18:11:43Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -120655,8 +120927,8 @@
       "sourceRepo": "sindresorhus/awesome",
       "depth": 1,
       "children": [],
-      "stars": 14737,
-      "forks": 1504,
+      "stars": 14745,
+      "forks": 1507,
       "language": "Rust",
       "license": "MIT",
       "topics": [
@@ -120670,7 +120942,7 @@
         "static-analyzers",
         "static-code-analysis"
       ],
-      "updated": "2026-08-15T12:42:13Z",
+      "updated": "2026-08-22T19:43:23Z",
       "pushed": "2026-06-10T13:06:01Z",
       "awesome": false,
       "path": [
@@ -124143,12 +124415,12 @@
           "parentId": "root-computer-science-information-retrieval"
         }
       ],
-      "stars": 1198,
+      "stars": 1199,
       "forks": 142,
       "language": null,
       "license": "CC0-1.0",
       "topics": [],
-      "updated": "2026-08-14T13:12:45Z",
+      "updated": "2026-08-17T09:56:14Z",
       "pushed": "2023-04-20T07:55:24Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -127935,7 +128207,7 @@
           "parentId": "root-computer-science-quantum-computing"
         }
       ],
-      "stars": 3252,
+      "stars": 3260,
       "forks": 474,
       "language": null,
       "license": "CC0-1.0",
@@ -127945,7 +128217,7 @@
         "quantum",
         "quantum-computing"
       ],
-      "updated": "2026-08-16T00:19:35Z",
+      "updated": "2026-08-22T18:20:17Z",
       "pushed": "2024-07-24T23:26:58Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -134309,8 +134581,8 @@
           "parentId": "root-computer-science-theoretical-computer-science"
         }
       ],
-      "stars": 1196,
-      "forks": 71,
+      "stars": 1203,
+      "forks": 72,
       "language": "Python",
       "license": "CC0-1.0",
       "topics": [
@@ -134323,7 +134595,7 @@
         "theoretical-computer-science",
         "theory-of-computation"
       ],
-      "updated": "2026-08-11T14:50:40Z",
+      "updated": "2026-08-23T00:06:13Z",
       "pushed": "2026-01-30T20:06:12Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -134821,12 +135093,12 @@
               "sourceRepo": "jyguyomarch/awesome-conversational-ai",
               "depth": 2,
               "children": [],
-              "stars": 1308,
+              "stars": 1309,
               "forks": 254,
               "language": null,
               "license": null,
               "topics": [],
-              "updated": "2026-08-13T05:04:48Z",
+              "updated": "2026-08-20T08:42:15Z",
               "pushed": "2026-01-24T00:32:10Z",
               "awesome": true,
               "path": [
@@ -134847,13 +135119,13 @@
               "sourceRepo": "jyguyomarch/awesome-conversational-ai",
               "depth": 2,
               "children": [],
-              "stars": 74046,
-              "forks": 15614,
+              "stars": 74120,
+              "forks": 15619,
               "language": "Python",
               "license": "NOASSERTION",
               "topics": [],
-              "updated": "2026-08-15T23:44:01Z",
-              "pushed": "2026-08-11T21:49:59Z",
+              "updated": "2026-08-23T02:36:27Z",
+              "pushed": "2026-08-21T10:11:51Z",
               "awesome": true,
               "path": [
                 "Conversational AI",
@@ -134905,8 +135177,8 @@
               "sourceRepo": "jyguyomarch/awesome-conversational-ai",
               "depth": 2,
               "children": [],
-              "stars": 18905,
-              "forks": 2849,
+              "stars": 18920,
+              "forks": 2855,
               "language": null,
               "license": "CC0-1.0",
               "topics": [
@@ -134919,8 +135191,8 @@
                 "nlp",
                 "text-mining"
               ],
-              "updated": "2026-08-15T13:18:43Z",
-              "pushed": "2026-07-11T20:57:17Z",
+              "updated": "2026-08-23T01:53:06Z",
+              "pushed": "2026-08-18T21:35:47Z",
               "awesome": true,
               "path": [
                 "Conversational AI",
@@ -134940,7 +135212,7 @@
               "sourceRepo": "jyguyomarch/awesome-conversational-ai",
               "depth": 2,
               "children": [],
-              "stars": 1075,
+              "stars": 1076,
               "forks": 71,
               "language": "Ruby",
               "license": "CC0-1.0",
@@ -134958,7 +135230,7 @@
                 "rubynlp",
                 "sentiment-analysis"
               ],
-              "updated": "2026-08-05T04:19:46Z",
+              "updated": "2026-08-17T07:59:13Z",
               "pushed": "2023-06-27T09:38:04Z",
               "awesome": true,
               "path": [
@@ -135215,8 +135487,8 @@
           "parentId": "root-computer-science-conversational-ai"
         }
       ],
-      "stars": 310,
-      "forks": 22,
+      "stars": 312,
+      "forks": 23,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -135229,7 +135501,7 @@
         "list",
         "nlu"
       ],
-      "updated": "2026-08-13T00:47:55Z",
+      "updated": "2026-08-20T05:01:59Z",
       "pushed": "2022-01-23T18:14:08Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -145054,8 +145326,8 @@
               "sourceRepo": "steven2358/awesome-generative-ai",
               "depth": 2,
               "children": [],
-              "stars": 3521,
-              "forks": 849,
+              "stars": 3524,
+              "forks": 854,
               "language": null,
               "license": "CC0-1.0",
               "topics": [
@@ -145078,7 +145350,7 @@
                 "text-to-image",
                 "txt2img"
               ],
-              "updated": "2026-08-15T15:22:39Z",
+              "updated": "2026-08-21T21:40:40Z",
               "pushed": "2025-12-18T07:31:25Z",
               "awesome": true,
               "path": [
@@ -145229,12 +145501,12 @@
               "sourceRepo": "steven2358/awesome-generative-ai",
               "depth": 2,
               "children": [],
-              "stars": 4,
+              "stars": 5,
               "forks": 4,
               "language": null,
               "license": "CC0-1.0",
               "topics": [],
-              "updated": "2026-08-08T20:04:32Z",
+              "updated": "2026-08-22T21:06:29Z",
               "pushed": "2026-07-15T22:15:47Z",
               "awesome": true,
               "path": [
@@ -145255,7 +145527,7 @@
               "sourceRepo": "steven2358/awesome-generative-ai",
               "depth": 2,
               "children": [],
-              "stars": 325,
+              "stars": 329,
               "forks": 23,
               "language": "Python",
               "license": "MIT",
@@ -145280,8 +145552,8 @@
                 "vc",
                 "venture-capital"
               ],
-              "updated": "2026-08-14T16:06:28Z",
-              "pushed": "2026-07-17T15:10:14Z",
+              "updated": "2026-08-22T07:33:16Z",
+              "pushed": "2026-08-18T19:36:49Z",
               "awesome": true,
               "path": [
                 "Generative AI",
@@ -145301,7 +145573,7 @@
               "sourceRepo": "steven2358/awesome-generative-ai",
               "depth": 2,
               "children": [],
-              "stars": 197,
+              "stars": 207,
               "forks": 52,
               "language": "Python",
               "license": "CC0-1.0",
@@ -145327,8 +145599,8 @@
                 "retrieval-augmented-generation",
                 "vector-database"
               ],
-              "updated": "2026-08-15T06:04:21Z",
-              "pushed": "2026-08-07T20:01:09Z",
+              "updated": "2026-08-21T23:02:55Z",
+              "pushed": "2026-08-21T20:47:36Z",
               "awesome": true,
               "path": [
                 "Generative AI",
@@ -145356,8 +145628,8 @@
                   "sourceRepo": "steven2358/awesome-generative-ai",
                   "depth": 3,
                   "children": [],
-                  "stars": 8207,
-                  "forks": 558,
+                  "stars": 8206,
+                  "forks": 557,
                   "language": null,
                   "license": null,
                   "topics": [
@@ -145366,7 +145638,7 @@
                     "gpt3",
                     "openai"
                   ],
-                  "updated": "2026-08-15T14:40:20Z",
+                  "updated": "2026-08-21T16:58:48Z",
                   "pushed": "2025-10-15T20:35:53Z",
                   "awesome": true,
                   "path": [
@@ -145388,8 +145660,8 @@
                   "sourceRepo": "steven2358/awesome-generative-ai",
                   "depth": 3,
                   "children": [],
-                  "stars": 167230,
-                  "forks": 21589,
+                  "stars": 167769,
+                  "forks": 21654,
                   "language": "HTML",
                   "license": "NOASSERTION",
                   "topics": [
@@ -145412,8 +145684,8 @@
                     "prompts-chat",
                     "typescript"
                   ],
-                  "updated": "2026-08-16T02:59:57Z",
-                  "pushed": "2026-08-15T03:18:07Z",
+                  "updated": "2026-08-23T02:23:53Z",
+                  "pushed": "2026-08-22T03:19:18Z",
                   "awesome": true,
                   "path": [
                     "Generative AI",
@@ -145488,8 +145760,8 @@
                   "sourceRepo": "steven2358/awesome-generative-ai",
                   "depth": 3,
                   "children": [],
-                  "stars": 6370,
-                  "forks": 462,
+                  "stars": 6384,
+                  "forks": 464,
                   "language": null,
                   "license": "CC0-1.0",
                   "topics": [
@@ -145503,7 +145775,7 @@
                     "gpt-4",
                     "openai"
                   ],
-                  "updated": "2026-08-15T17:07:38Z",
+                  "updated": "2026-08-22T13:13:40Z",
                   "pushed": "2026-02-15T18:05:30Z",
                   "awesome": true,
                   "path": [
@@ -145546,8 +145818,8 @@
           "parentId": "root-computer-science-generative-ai"
         }
       ],
-      "stars": 12501,
-      "forks": 1986,
+      "stars": 12527,
+      "forks": 2013,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -145560,7 +145832,7 @@
         "large-language-models",
         "llm"
       ],
-      "updated": "2026-08-15T19:53:24Z",
+      "updated": "2026-08-22T21:14:33Z",
       "pushed": "2026-08-03T10:58:05Z",
       "awesome": true,
       "readmeStatus": "expanded",

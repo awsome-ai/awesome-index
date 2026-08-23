@@ -336,32 +336,6 @@
               "parentId": "root-editors-neovim-plugin-manager"
             },
             {
-              "id": "root-editors-neovim-plugin-manager-origincoderpulse-synapse-nvim",
-              "title": "OriginCoderPulse/synapse.nvim",
-              "kind": "repo",
-              "repo": "origincoderpulse/synapse.nvim",
-              "url": "https://github.com/origincoderpulse/synapse.nvim",
-              "description": "A modern, lightweight plugin manager with beautiful UI, intelligent dependency management, tag/branch support, and post-install command execution.",
-              "external": false,
-              "sourceRepo": "rockerboo/awesome-neovim",
-              "depth": 2,
-              "children": [],
-              "stars": 0,
-              "forks": 0,
-              "language": null,
-              "license": null,
-              "topics": [],
-              "updated": null,
-              "pushed": null,
-              "awesome": false,
-              "path": [
-                "Neovim",
-                "Plugin Manager",
-                "OriginCoderPulse/synapse.nvim"
-              ],
-              "parentId": "root-editors-neovim-plugin-manager"
-            },
-            {
               "id": "root-editors-neovim-plugin-manager-zuqini-zpack-nvim",
               "title": "zuqini/zpack.nvim",
               "kind": "repo",
@@ -3376,6 +3350,32 @@
           "depth": 1,
           "url": "https://github.com/rockerboo/awesome-neovim#ai",
           "children": [
+            {
+              "id": "root-editors-neovim-ai-saya-ashen-agent-workbench-nvim",
+              "title": "saya-ashen/agent-workbench.nvim",
+              "kind": "repo",
+              "repo": "saya-ashen/agent-workbench.nvim",
+              "url": "https://github.com/saya-ashen/agent-workbench.nvim",
+              "description": "Workspace frontend for pi.dev with sessions, diff review, and persistent shell worksheets.",
+              "external": false,
+              "sourceRepo": "rockerboo/awesome-neovim",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Neovim",
+                "AI",
+                "saya-ashen/agent-workbench.nvim"
+              ],
+              "parentId": "root-editors-neovim-ai"
+            },
             {
               "id": "root-editors-neovim-ai-nwiizo-signalbox-nvim",
               "title": "nwiizo/signalbox.nvim",
@@ -11105,6 +11105,32 @@
                 "ingur/fzf-oil.nvim"
               ],
               "parentId": "root-editors-neovim-file-explorer"
+            },
+            {
+              "id": "root-editors-neovim-file-explorer-dev-addict-floatingfile-nvim",
+              "title": "Dev-Addict/FloatingFile.nvim",
+              "kind": "repo",
+              "repo": "dev-addict/floatingfile.nvim",
+              "url": "https://github.com/dev-addict/floatingfile.nvim",
+              "description": "Quickly preview any readable file in a centered floating window without replacing the current buffer.",
+              "external": false,
+              "sourceRepo": "rockerboo/awesome-neovim",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Neovim",
+                "File Explorer",
+                "Dev-Addict/FloatingFile.nvim"
+              ],
+              "parentId": "root-editors-neovim-file-explorer"
             }
           ],
           "stars": 0,
@@ -12241,6 +12267,32 @@
                 "Neovim",
                 "Buffers",
                 "m-demare/attempt.nvim"
+              ],
+              "parentId": "root-editors-neovim-buffers"
+            },
+            {
+              "id": "root-editors-neovim-buffers-iago-lito-bufmarks-nvim",
+              "title": "iago-lito/bufmarks.nvim",
+              "kind": "link",
+              "repo": "",
+              "url": "https://codeberg.org/iago-lito/bufmarks.nvim",
+              "description": "Navigation method inspired from Harpoon, but indexing buffers with \"mark\"-like keys instead of an ordered list.",
+              "external": true,
+              "sourceRepo": "rockerboo/awesome-neovim",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Neovim",
+                "Buffers",
+                "iago-lito/bufmarks.nvim"
               ],
               "parentId": "root-editors-neovim-buffers"
             }
@@ -15563,32 +15615,6 @@
                 "Neovim",
                 "Colorscheme",
                 "oxfist/night-owl.nvim"
-              ],
-              "parentId": "root-editors-neovim-colorscheme"
-            },
-            {
-              "id": "root-editors-neovim-colorscheme-micdzu-aalto-nvim",
-              "title": "micdzu/aalto.nvim",
-              "kind": "repo",
-              "repo": "micdzu/aalto.nvim",
-              "url": "https://github.com/micdzu/aalto.nvim",
-              "description": "[TS][LSP][L/D][Lua] A semantic colorscheme with a perceptual OKLCH engine, featuring four semantic roles and both dark and light variants.",
-              "external": false,
-              "sourceRepo": "rockerboo/awesome-neovim",
-              "depth": 2,
-              "children": [],
-              "stars": 0,
-              "forks": 0,
-              "language": null,
-              "license": null,
-              "topics": [],
-              "updated": null,
-              "pushed": null,
-              "awesome": false,
-              "path": [
-                "Neovim",
-                "Colorscheme",
-                "micdzu/aalto.nvim"
               ],
               "parentId": "root-editors-neovim-colorscheme"
             },
@@ -19966,32 +19992,6 @@
                 "Neovim",
                 "Note Taking",
                 "apdot/doodle"
-              ],
-              "parentId": "root-editors-neovim-note-taking"
-            },
-            {
-              "id": "root-editors-neovim-note-taking-sduras-durasbridge",
-              "title": "sduras/durasbridge",
-              "kind": "repo",
-              "repo": "sduras/duras_bridge",
-              "url": "https://github.com/sduras/duras_bridge",
-              "description": "Bridge for duras plain-text daily notes; append, search, and open notes from the editor.",
-              "external": false,
-              "sourceRepo": "rockerboo/awesome-neovim",
-              "depth": 2,
-              "children": [],
-              "stars": 0,
-              "forks": 0,
-              "language": null,
-              "license": null,
-              "topics": [],
-              "updated": null,
-              "pushed": null,
-              "awesome": false,
-              "path": [
-                "Neovim",
-                "Note Taking",
-                "sduras/durasbridge"
               ],
               "parentId": "root-editors-neovim-note-taking"
             },
@@ -26731,6 +26731,32 @@
           "url": "https://github.com/rockerboo/awesome-neovim#git",
           "children": [
             {
+              "id": "root-editors-neovim-git-darkskittlz-gitcompanion",
+              "title": "Darkskittlz/GitCompanion",
+              "kind": "repo",
+              "repo": "darkskittlz/gitcompanion",
+              "url": "https://github.com/darkskittlz/gitcompanion",
+              "description": "A lightweight, terminal-native Git interface. Inspect diffs, manage branches, stage modified files, manage stashes, and handle merges or commits.",
+              "external": false,
+              "sourceRepo": "rockerboo/awesome-neovim",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Neovim",
+                "Git",
+                "Darkskittlz/GitCompanion"
+              ],
+              "parentId": "root-editors-neovim-git"
+            },
+            {
               "id": "root-editors-neovim-git-yousame2-inlinediff-nvim",
               "title": "YouSame2/inlinediff-nvim",
               "kind": "repo",
@@ -29113,6 +29139,33 @@
                     "Motion",
                     "Tree-sitter Based",
                     "subev/sibling-jump.nvim"
+                  ],
+                  "parentId": "root-editors-neovim-motion-tree-sitter-based"
+                },
+                {
+                  "id": "root-editors-neovim-motion-tree-sitter-based-iago-lito-tree-spider-nvim",
+                  "title": "iago-lito/tree-spider.nvim",
+                  "kind": "link",
+                  "repo": "",
+                  "url": "https://codeberg.org/iago-lito/tree-spider.nvim",
+                  "description": "Tree-sitter aware local motions and distant node selection.",
+                  "external": true,
+                  "sourceRepo": "rockerboo/awesome-neovim",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Neovim",
+                    "Motion",
+                    "Tree-sitter Based",
+                    "iago-lito/tree-spider.nvim"
                   ],
                   "parentId": "root-editors-neovim-motion-tree-sitter-based"
                 }
@@ -32401,6 +32454,32 @@
                 "Neovim",
                 "Editing Support",
                 "yaocccc/visual-multi.nvim"
+              ],
+              "parentId": "root-editors-neovim-editing-support"
+            },
+            {
+              "id": "root-editors-neovim-editing-support-iago-lito-lastput-nvim",
+              "title": "iago-lito/lastput.nvim",
+              "kind": "link",
+              "repo": "",
+              "url": "https://codeberg.org/iago-lito/lastput.nvim",
+              "description": "One mapping to (re)select the last piece of text you've pasted.",
+              "external": true,
+              "sourceRepo": "rockerboo/awesome-neovim",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Neovim",
+                "Editing Support",
+                "iago-lito/lastput.nvim"
               ],
               "parentId": "root-editors-neovim-editing-support"
             },
@@ -38491,8 +38570,8 @@
                     "neovim-plugins",
                     "nix-flake"
                   ],
-                  "updated": "2026-08-15T17:39:14Z",
-                  "pushed": "2026-08-15T17:39:10Z",
+                  "updated": "2026-08-22T17:48:30Z",
+                  "pushed": "2026-08-22T17:48:04Z",
                   "awesome": true,
                   "path": [
                     "Neovim",
@@ -39169,7 +39248,7 @@
               "sourceRepo": "rockerboo/awesome-neovim",
               "depth": 2,
               "children": [],
-              "stars": 2124,
+              "stars": 2125,
               "forks": 143,
               "language": null,
               "license": "MIT",
@@ -39177,7 +39256,7 @@
                 "awesome",
                 "vim"
               ],
-              "updated": "2026-08-13T23:02:48Z",
+              "updated": "2026-08-20T08:56:14Z",
               "pushed": "2025-06-06T18:42:55Z",
               "awesome": true,
               "path": [
@@ -39385,8 +39464,8 @@
           "parentId": "root-editors-neovim"
         }
       ],
-      "stars": 21269,
-      "forks": 1041,
+      "stars": 21301,
+      "forks": 1044,
       "language": "Shell",
       "license": "CC0-1.0",
       "topics": [
@@ -39396,8 +39475,8 @@
         "neovim-plugins",
         "nvim-lua"
       ],
-      "updated": "2026-08-15T20:42:21Z",
-      "pushed": "2026-08-15T08:14:32Z",
+      "updated": "2026-08-23T01:51:13Z",
+      "pushed": "2026-08-20T11:59:28Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -39416,15 +39495,15 @@
       "sourceRepo": "sindresorhus/awesome",
       "depth": 1,
       "children": [],
-      "stars": 9355,
-      "forks": 597,
+      "stars": 9363,
+      "forks": 599,
       "language": null,
       "license": "Unlicense",
       "topics": [
         "awesome-list",
         "emacs"
       ],
-      "updated": "2026-08-14T00:12:08Z",
+      "updated": "2026-08-22T15:03:19Z",
       "pushed": "2026-05-13T04:32:20Z",
       "awesome": true,
       "readmeStatus": "empty",
@@ -45896,7 +45975,7 @@
         }
       ],
       "stars": 28965,
-      "forks": 1404,
+      "forks": 1408,
       "language": "JavaScript",
       "license": "CC0-1.0",
       "topics": [
@@ -45912,7 +45991,7 @@
         "vscode-extension",
         "vscode-theme"
       ],
-      "updated": "2026-08-16T02:28:44Z",
+      "updated": "2026-08-22T19:01:40Z",
       "pushed": "2026-06-21T09:36:55Z",
       "awesome": true,
       "readmeStatus": "expanded",

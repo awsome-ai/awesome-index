@@ -7895,8 +7895,8 @@
           "parentId": "root-front-end-development-web-performance-optimization"
         }
       ],
-      "stars": 9027,
-      "forks": 583,
+      "stars": 9046,
+      "forks": 584,
       "language": null,
       "license": "MIT",
       "topics": [
@@ -7907,7 +7907,7 @@
         "webperf-metrics",
         "webperformance"
       ],
-      "updated": "2026-08-15T20:37:57Z",
+      "updated": "2026-08-23T02:19:30Z",
       "pushed": "2026-07-28T02:18:16Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -9605,8 +9605,8 @@
               "parentId": "root-front-end-development-css-frameworks"
             }
           ],
-          "stars": 9473,
-          "forks": 500,
+          "stars": 9485,
+          "forks": 499,
           "language": "CSS",
           "license": null,
           "topics": [
@@ -9619,7 +9619,7 @@
             "list",
             "scss"
           ],
-          "updated": "2026-08-15T23:23:36Z",
+          "updated": "2026-08-23T02:17:08Z",
           "pushed": "2026-06-08T20:32:07Z",
           "awesome": true,
           "readmeStatus": "expanded",
@@ -10784,7 +10784,7 @@
           "parentId": "root-front-end-development-css"
         }
       ],
-      "stars": 5608,
+      "stars": 5615,
       "forks": 449,
       "language": null,
       "license": "CC-BY-SA-4.0",
@@ -10794,7 +10794,7 @@
         "css",
         "list"
       ],
-      "updated": "2026-08-15T22:52:33Z",
+      "updated": "2026-08-20T15:40:05Z",
       "pushed": "2024-10-30T07:00:24Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -12906,7 +12906,7 @@
               "parentId": "root-front-end-development-react-relay"
             }
           ],
-          "stars": 289,
+          "stars": 290,
           "forks": 28,
           "language": null,
           "license": "NOASSERTION",
@@ -12917,7 +12917,7 @@
             "reactjs",
             "relay"
           ],
-          "updated": "2026-08-08T12:44:47Z",
+          "updated": "2026-08-20T05:25:57Z",
           "pushed": "2021-10-18T11:22:52Z",
           "awesome": true,
           "readmeStatus": "expanded",
@@ -14787,7 +14787,7 @@
               "parentId": "root-front-end-development-react-react-hooks"
             }
           ],
-          "stars": 1229,
+          "stars": 1230,
           "forks": 88,
           "language": null,
           "license": "CC0-1.0",
@@ -14798,7 +14798,7 @@
             "react",
             "react-hooks"
           ],
-          "updated": "2026-08-05T19:56:49Z",
+          "updated": "2026-08-20T05:26:04Z",
           "pushed": "2024-03-16T18:57:43Z",
           "awesome": true,
           "readmeStatus": "expanded",
@@ -16424,6 +16424,33 @@
                   "parentId": "root-front-end-development-react-react-react-routing"
                 },
                 {
+                  "id": "root-front-end-development-react-react-react-routing-speedy-router",
+                  "title": "speedy-router",
+                  "kind": "repo",
+                  "repo": "anonrig/router",
+                  "url": "https://github.com/anonrig/router",
+                  "description": "TanStack Router API rebuilt for faster navigations and SSR",
+                  "external": false,
+                  "sourceRepo": "enaqx/awesome-react",
+                  "depth": 4,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "React",
+                    "React",
+                    "React Routing",
+                    "speedy-router"
+                  ],
+                  "parentId": "root-front-end-development-react-react-react-routing"
+                },
+                {
                   "id": "root-front-end-development-react-react-react-routing-tanstack-router",
                   "title": "tanstack-router",
                   "kind": "repo",
@@ -17016,8 +17043,8 @@
                   "sourceRepo": "enaqx/awesome-react",
                   "depth": 4,
                   "children": [],
-                  "stars": 48198,
-                  "forks": 3826,
+                  "stars": 48245,
+                  "forks": 3834,
                   "language": null,
                   "license": "CC0-1.0",
                   "topics": [
@@ -17027,7 +17054,7 @@
                     "react-component",
                     "react-components"
                   ],
-                  "updated": "2026-08-16T02:23:05Z",
+                  "updated": "2026-08-23T02:01:59Z",
                   "pushed": "2026-01-26T16:36:45Z",
                   "awesome": true,
                   "path": [
@@ -19265,8 +19292,8 @@
           "parentId": "root-front-end-development-react"
         }
       ],
-      "stars": 74287,
-      "forks": 7619,
+      "stars": 74365,
+      "forks": 7625,
       "language": null,
       "license": null,
       "topics": [
@@ -19281,8 +19308,8 @@
         "tutorial",
         "typescript"
       ],
-      "updated": "2026-08-16T01:57:38Z",
-      "pushed": "2026-07-20T07:31:52Z",
+      "updated": "2026-08-23T02:01:56Z",
+      "pushed": "2026-08-20T07:58:12Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -24188,6 +24215,33 @@
                     "Real World",
                     "Component Libraries",
                     "Pixano Elements"
+                  ],
+                  "parentId": "root-front-end-development-web-components-real-world-component-libraries"
+                },
+                {
+                  "id": "root-front-end-development-web-components-real-world-component-libraries-playcanvas-web-components",
+                  "title": "PlayCanvas Web Components",
+                  "kind": "repo",
+                  "repo": "playcanvas/web-components",
+                  "url": "https://github.com/playcanvas/web-components",
+                  "description": "Custom elements for building 3D interactive web apps with the PlayCanvas Engine.",
+                  "external": false,
+                  "sourceRepo": "web-padawan/awesome-web-components",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Web Components",
+                    "Real World",
+                    "Component Libraries",
+                    "PlayCanvas Web Components"
                   ],
                   "parentId": "root-front-end-development-web-components-real-world-component-libraries"
                 },
@@ -33940,7 +33994,7 @@
         }
       ],
       "stars": 3563,
-      "forks": 198,
+      "forks": 199,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -33951,8 +34005,8 @@
         "web-components",
         "webcomponents"
       ],
-      "updated": "2026-08-15T22:09:23Z",
-      "pushed": "2026-06-12T07:07:44Z",
+      "updated": "2026-08-20T20:53:39Z",
+      "pushed": "2026-08-17T10:42:44Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -37120,7 +37174,7 @@
           "parentId": "root-front-end-development-angular"
         }
       ],
-      "stars": 10055,
+      "stars": 10062,
       "forks": 1418,
       "language": "HTML",
       "license": "CC0-1.0",
@@ -37135,8 +37189,8 @@
         "awesome",
         "awesome-list"
       ],
-      "updated": "2026-08-15T17:08:09Z",
-      "pushed": "2026-08-15T17:08:05Z",
+      "updated": "2026-08-23T02:13:56Z",
+      "pushed": "2026-08-22T17:06:48Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -41902,7 +41956,7 @@
           "parentId": "root-front-end-development-html5"
         }
       ],
-      "stars": 2795,
+      "stars": 2802,
       "forks": 260,
       "language": null,
       "license": "MIT",
@@ -41911,7 +41965,7 @@
         "awesome-list",
         "list"
       ],
-      "updated": "2026-08-15T22:52:31Z",
+      "updated": "2026-08-22T20:43:24Z",
       "pushed": "2023-09-26T08:12:13Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -41976,15 +42030,15 @@
           "parentId": "root-front-end-development-svg"
         }
       ],
-      "stars": 4647,
-      "forks": 394,
+      "stars": 4648,
+      "forks": 399,
       "language": "Shell",
       "license": null,
       "topics": [
         "awesome-list",
         "svg"
       ],
-      "updated": "2026-08-12T11:12:19Z",
+      "updated": "2026-08-17T01:55:49Z",
       "pushed": "2026-07-16T16:17:42Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -44193,8 +44247,8 @@
           "parentId": "root-front-end-development-canvas"
         }
       ],
-      "stars": 1855,
-      "forks": 171,
+      "stars": 1858,
+      "forks": 173,
       "language": "Markdown",
       "license": "MIT",
       "topics": [
@@ -44208,7 +44262,7 @@
         "javascript",
         "particles"
       ],
-      "updated": "2026-08-13T19:40:29Z",
+      "updated": "2026-08-19T16:23:17Z",
       "pushed": "2026-06-14T09:29:51Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -72430,8 +72484,8 @@
           "parentId": "root-front-end-development-android-ui"
         }
       ],
-      "stars": 57217,
-      "forks": 10247,
+      "stars": 57293,
+      "forks": 10252,
       "language": null,
       "license": "MIT",
       "topics": [
@@ -72439,7 +72493,7 @@
         "awesome",
         "ui"
       ],
-      "updated": "2026-08-16T02:31:08Z",
+      "updated": "2026-08-23T02:01:57Z",
       "pushed": "2026-06-05T05:39:52Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -72459,12 +72513,12 @@
       "sourceRepo": "sindresorhus/awesome",
       "depth": 1,
       "children": [],
-      "stars": 11214,
+      "stars": 11217,
       "forks": 1326,
       "language": null,
       "license": null,
       "topics": [],
-      "updated": "2026-08-15T05:23:16Z",
+      "updated": "2026-08-22T04:19:44Z",
       "pushed": "2018-03-08T08:57:40Z",
       "awesome": true,
       "readmeStatus": "empty",
@@ -78180,12 +78234,12 @@
           "parentId": "root-front-end-development-meteor"
         }
       ],
-      "stars": 1413,
+      "stars": 1412,
       "forks": 150,
       "language": null,
       "license": "MIT",
       "topics": [],
-      "updated": "2026-07-29T02:44:39Z",
+      "updated": "2026-08-18T19:26:19Z",
       "pushed": "2022-03-31T06:03:05Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -78707,7 +78761,7 @@
           "parentId": "root-front-end-development-flexbox"
         }
       ],
-      "stars": 1264,
+      "stars": 1263,
       "forks": 119,
       "language": null,
       "license": "MIT",
@@ -78723,7 +78777,7 @@
         "hacktoberfest2022",
         "w3c-specification"
       ],
-      "updated": "2026-08-09T18:03:12Z",
+      "updated": "2026-08-19T16:03:44Z",
       "pushed": "2023-09-07T11:46:40Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -78790,8 +78844,8 @@
           "parentId": "root-front-end-development-web-accessibility"
         }
       ],
-      "stars": 1977,
-      "forks": 213,
+      "stars": 1980,
+      "forks": 215,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -78803,7 +78857,7 @@
         "wai-aria",
         "wcag"
       ],
-      "updated": "2026-08-15T05:43:42Z",
+      "updated": "2026-08-21T08:20:12Z",
       "pushed": "2026-08-03T22:10:04Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -78823,13 +78877,13 @@
       "sourceRepo": "sindresorhus/awesome",
       "depth": 1,
       "children": [],
-      "stars": 657,
-      "forks": 54,
+      "stars": 656,
+      "forks": 55,
       "language": null,
       "license": "MIT",
       "topics": [],
-      "updated": "2026-08-14T04:32:56Z",
-      "pushed": "2023-01-19T23:16:49Z",
+      "updated": "2026-08-21T01:33:34Z",
+      "pushed": "2026-08-21T01:33:16Z",
       "awesome": true,
       "readmeStatus": "empty",
       "path": [
@@ -82302,7 +82356,7 @@
           "parentId": "root-front-end-development-d3"
         }
       ],
-      "stars": 5313,
+      "stars": 5316,
       "forks": 311,
       "language": null,
       "license": "NOASSERTION",
@@ -82313,7 +82367,7 @@
         "javascript",
         "maps"
       ],
-      "updated": "2026-08-14T00:51:15Z",
+      "updated": "2026-08-22T18:40:06Z",
       "pushed": "2023-01-13T16:10:34Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -86320,7 +86374,7 @@
               "sourceRepo": "jonathandion/awesome-emails",
               "depth": 3,
               "children": [],
-              "stars": 72,
+              "stars": 71,
               "forks": 12,
               "language": null,
               "license": null,
@@ -86333,7 +86387,7 @@
                 "jsbooks",
                 "learning"
               ],
-              "updated": "2025-06-17T18:16:11Z",
+              "updated": "2026-08-16T16:00:39Z",
               "pushed": "2019-06-18T02:09:26Z",
               "awesome": true,
               "path": [
@@ -86411,7 +86465,7 @@
           "parentId": "root-front-end-development-emails"
         }
       ],
-      "stars": 2727,
+      "stars": 2731,
       "forks": 262,
       "language": null,
       "license": null,
@@ -86427,7 +86481,7 @@
         "jdion",
         "responsive-email"
       ],
-      "updated": "2026-08-15T06:23:19Z",
+      "updated": "2026-08-20T17:56:45Z",
       "pushed": "2024-10-03T21:09:35Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -90238,8 +90292,8 @@
           "parentId": "root-front-end-development-web-audio"
         }
       ],
-      "stars": 1397,
-      "forks": 124,
+      "stars": 1396,
+      "forks": 127,
       "language": null,
       "license": null,
       "topics": [
@@ -90250,7 +90304,7 @@
         "midi",
         "webaudio"
       ],
-      "updated": "2026-08-12T11:33:41Z",
+      "updated": "2026-08-18T02:33:46Z",
       "pushed": "2026-06-05T01:54:36Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -90270,7 +90324,7 @@
       "sourceRepo": "sindresorhus/awesome",
       "depth": 1,
       "children": [],
-      "stars": 3317,
+      "stars": 3318,
       "forks": 194,
       "language": null,
       "license": "CC0-1.0",
@@ -90283,7 +90337,7 @@
         "service-worker",
         "serviceworkers"
       ],
-      "updated": "2026-08-15T11:05:40Z",
+      "updated": "2026-08-17T20:54:11Z",
       "pushed": "2022-11-23T17:08:40Z",
       "awesome": false,
       "path": [
@@ -94778,7 +94832,7 @@
               "sourceRepo": "agarrharr/awesome-static-website-services",
               "depth": 2,
               "children": [],
-              "stars": 94,
+              "stars": 95,
               "forks": 16,
               "language": null,
               "license": "MIT",
@@ -94786,7 +94840,7 @@
                 "awesome-list",
                 "azure-static-web-apps"
               ],
-              "updated": "2026-02-17T06:23:42Z",
+              "updated": "2026-08-18T17:50:56Z",
               "pushed": "2022-12-13T09:52:19Z",
               "awesome": true,
               "path": [
@@ -94812,8 +94866,8 @@
           "parentId": "root-front-end-development-static-website-services"
         }
       ],
-      "stars": 1979,
-      "forks": 185,
+      "stars": 1982,
+      "forks": 184,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -94821,7 +94875,7 @@
         "awesome-list",
         "list"
       ],
-      "updated": "2026-08-11T16:51:42Z",
+      "updated": "2026-08-20T08:56:58Z",
       "pushed": "2026-04-20T16:35:39Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -99771,8 +99825,8 @@
                   "sourceRepo": "vuejs/awesome-vue",
                   "depth": 3,
                   "children": [],
-                  "stars": 17220,
-                  "forks": 1329,
+                  "stars": 17225,
+                  "forks": 1334,
                   "language": "JavaScript",
                   "license": "MIT",
                   "topics": [
@@ -99781,7 +99835,7 @@
                     "vite",
                     "vitejs"
                   ],
-                  "updated": "2026-08-16T02:04:18Z",
+                  "updated": "2026-08-23T01:57:06Z",
                   "pushed": "2026-02-04T13:10:54Z",
                   "awesome": true,
                   "path": [
@@ -132151,12 +132205,12 @@
           "parentId": "root-front-end-development-vue-js"
         }
       ],
-      "stars": 73544,
-      "forks": 9450,
+      "stars": 73540,
+      "forks": 9452,
       "language": null,
       "license": "MIT",
       "topics": [],
-      "updated": "2026-08-15T09:01:26Z",
+      "updated": "2026-08-22T22:30:07Z",
       "pushed": "2026-07-24T10:16:04Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -135678,7 +135732,7 @@
           "parentId": "root-front-end-development-charting"
         }
       ],
-      "stars": 2105,
+      "stars": 2106,
       "forks": 114,
       "language": null,
       "license": "MIT",
@@ -135689,7 +135743,7 @@
         "javascript",
         "open-source"
       ],
-      "updated": "2026-08-15T13:58:23Z",
+      "updated": "2026-08-21T00:49:05Z",
       "pushed": "2024-02-18T16:12:11Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -135974,34 +136028,28 @@
               "parentId": "root-front-end-development-ionic-framework-official-resources"
             },
             {
-              "id": "root-front-end-development-ionic-framework-official-resources-awesome-capacitor",
-              "title": "Awesome Capacitor",
-              "kind": "repo",
-              "repo": "riderx/awesome-capacitor",
-              "url": "https://github.com/riderx/awesome-capacitor",
-              "description": "😎 Awesome lists of capacitor plugins. Made by Capgo",
-              "external": false,
+              "id": "root-front-end-development-ionic-framework-official-resources-community",
+              "title": "Community",
+              "kind": "link",
+              "repo": "",
+              "url": "https://ionicframework.com/community",
+              "description": "Official community hub.",
+              "external": true,
               "sourceRepo": "candelibas/awesome-ionic",
               "depth": 2,
               "children": [],
-              "stars": 635,
-              "forks": 53,
-              "language": "HTML",
-              "license": "CC0-1.0",
-              "topics": [
-                "awesome",
-                "awesome-list",
-                "capacitor",
-                "capacitor-plugin",
-                "ionic"
-              ],
-              "updated": "2026-08-14T13:57:00Z",
-              "pushed": "2026-07-29T09:12:08Z",
-              "awesome": true,
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
               "path": [
                 "Ionic Framework",
                 "Official Resources",
-                "Awesome Capacitor"
+                "Community"
               ],
               "parentId": "root-front-end-development-ionic-framework-official-resources"
             }
@@ -136017,6 +136065,243 @@
           "path": [
             "Ionic Framework",
             "Official Resources"
+          ],
+          "parentId": "root-front-end-development-ionic-framework"
+        },
+        {
+          "id": "root-front-end-development-ionic-framework-capacitor",
+          "title": "Capacitor",
+          "kind": "section",
+          "sourceRepo": "candelibas/awesome-ionic",
+          "depth": 1,
+          "url": "https://github.com/candelibas/awesome-ionic#capacitor",
+          "children": [
+            {
+              "id": "root-front-end-development-ionic-framework-capacitor-website",
+              "title": "Website",
+              "kind": "link",
+              "repo": "",
+              "url": "https://capacitorjs.com/",
+              "description": "Project homepage.",
+              "external": true,
+              "sourceRepo": "candelibas/awesome-ionic",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Ionic Framework",
+                "Capacitor",
+                "Website"
+              ],
+              "parentId": "root-front-end-development-ionic-framework-capacitor"
+            },
+            {
+              "id": "root-front-end-development-ionic-framework-capacitor-documentation",
+              "title": "Documentation",
+              "kind": "link",
+              "repo": "",
+              "url": "https://capacitorjs.com/docs",
+              "description": "Official docs.",
+              "external": true,
+              "sourceRepo": "candelibas/awesome-ionic",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Ionic Framework",
+                "Capacitor",
+                "Documentation"
+              ],
+              "parentId": "root-front-end-development-ionic-framework-capacitor"
+            },
+            {
+              "id": "root-front-end-development-ionic-framework-capacitor-cli",
+              "title": "CLI",
+              "kind": "link",
+              "repo": "",
+              "url": "https://capacitorjs.com/docs/cli",
+              "description": "Command-line reference.",
+              "external": true,
+              "sourceRepo": "candelibas/awesome-ionic",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Ionic Framework",
+                "Capacitor",
+                "CLI"
+              ],
+              "parentId": "root-front-end-development-ionic-framework-capacitor"
+            },
+            {
+              "id": "root-front-end-development-ionic-framework-capacitor-plugins",
+              "title": "Plugins",
+              "kind": "link",
+              "repo": "",
+              "url": "https://capacitorjs.com/docs/plugins",
+              "description": "Official plugin APIs.",
+              "external": true,
+              "sourceRepo": "candelibas/awesome-ionic",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Ionic Framework",
+                "Capacitor",
+                "Plugins"
+              ],
+              "parentId": "root-front-end-development-ionic-framework-capacitor"
+            },
+            {
+              "id": "root-front-end-development-ionic-framework-capacitor-blog",
+              "title": "Blog",
+              "kind": "link",
+              "repo": "",
+              "url": "https://capacitorjs.com/blog",
+              "description": "Official blog posts.",
+              "external": true,
+              "sourceRepo": "candelibas/awesome-ionic",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Ionic Framework",
+                "Capacitor",
+                "Blog"
+              ],
+              "parentId": "root-front-end-development-ionic-framework-capacitor"
+            },
+            {
+              "id": "root-front-end-development-ionic-framework-capacitor-forum",
+              "title": "Forum",
+              "kind": "link",
+              "repo": "",
+              "url": "https://forum.ionicframework.com/c/capacitor",
+              "description": "Capacitor category on the Ionic forum.",
+              "external": true,
+              "sourceRepo": "candelibas/awesome-ionic",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Ionic Framework",
+                "Capacitor",
+                "Forum"
+              ],
+              "parentId": "root-front-end-development-ionic-framework-capacitor"
+            },
+            {
+              "id": "root-front-end-development-ionic-framework-capacitor-repository",
+              "title": "Repository",
+              "kind": "repo",
+              "repo": "ionic-team/capacitor",
+              "url": "https://github.com/ionic-team/capacitor",
+              "description": "Core runtime source.",
+              "external": false,
+              "sourceRepo": "candelibas/awesome-ionic",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Ionic Framework",
+                "Capacitor",
+                "Repository"
+              ],
+              "parentId": "root-front-end-development-ionic-framework-capacitor"
+            },
+            {
+              "id": "root-front-end-development-ionic-framework-capacitor-awesome-capacitor",
+              "title": "Awesome Capacitor",
+              "kind": "repo",
+              "repo": "riderx/awesome-capacitor",
+              "url": "https://github.com/riderx/awesome-capacitor",
+              "description": "Curated Capacitor plugins, tools, and guides.",
+              "external": false,
+              "sourceRepo": "candelibas/awesome-ionic",
+              "depth": 2,
+              "children": [],
+              "stars": 637,
+              "forks": 53,
+              "language": "HTML",
+              "license": "CC0-1.0",
+              "topics": [
+                "awesome",
+                "awesome-list",
+                "capacitor",
+                "capacitor-plugin",
+                "ionic"
+              ],
+              "updated": "2026-08-21T14:31:24Z",
+              "pushed": "2026-08-20T15:03:05Z",
+              "awesome": true,
+              "path": [
+                "Ionic Framework",
+                "Capacitor",
+                "Awesome Capacitor"
+              ],
+              "parentId": "root-front-end-development-ionic-framework-capacitor"
+            }
+          ],
+          "stars": 0,
+          "forks": 0,
+          "language": null,
+          "license": null,
+          "topics": [],
+          "updated": null,
+          "pushed": null,
+          "awesome": false,
+          "path": [
+            "Ionic Framework",
+            "Capacitor"
           ],
           "parentId": "root-front-end-development-ionic-framework"
         },
@@ -136367,6 +136652,58 @@
               "parentId": "root-front-end-development-ionic-framework-ionic-fundamentals"
             },
             {
+              "id": "root-front-end-development-ionic-framework-ionic-fundamentals-your-first-ionic-app-react",
+              "title": "Your First Ionic App: React",
+              "kind": "link",
+              "repo": "",
+              "url": "https://ionicframework.com/docs/react/your-first-app",
+              "description": "",
+              "external": true,
+              "sourceRepo": "candelibas/awesome-ionic",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Ionic Framework",
+                "Ionic Fundamentals",
+                "Your First Ionic App: React"
+              ],
+              "parentId": "root-front-end-development-ionic-framework-ionic-fundamentals"
+            },
+            {
+              "id": "root-front-end-development-ionic-framework-ionic-fundamentals-your-first-ionic-app-vue",
+              "title": "Your First Ionic App: Vue",
+              "kind": "link",
+              "repo": "",
+              "url": "https://ionicframework.com/docs/vue/your-first-app",
+              "description": "",
+              "external": true,
+              "sourceRepo": "candelibas/awesome-ionic",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Ionic Framework",
+                "Ionic Fundamentals",
+                "Your First Ionic App: Vue"
+              ],
+              "parentId": "root-front-end-development-ionic-framework-ionic-fundamentals"
+            },
+            {
               "id": "root-front-end-development-ionic-framework-ionic-fundamentals-read-sms-in-ionic-4-apps",
               "title": "Read SMS in Ionic 4 apps",
               "kind": "link",
@@ -136441,6 +136778,136 @@
                 "Ionic Framework",
                 "Ionic Fundamentals",
                 "Push Notifications with Firebase in Ionic"
+              ],
+              "parentId": "root-front-end-development-ionic-framework-ionic-fundamentals"
+            },
+            {
+              "id": "root-front-end-development-ionic-framework-ionic-fundamentals-the-push-notifications-guide",
+              "title": "The Push Notifications Guide",
+              "kind": "link",
+              "repo": "",
+              "url": "https://capgo.app/blog/ionic-capacitor-push-notifications-firebase/",
+              "description": "Integrate push notifications with Firebase on iOS and Android.",
+              "external": true,
+              "sourceRepo": "candelibas/awesome-ionic",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Ionic Framework",
+                "Ionic Fundamentals",
+                "The Push Notifications Guide"
+              ],
+              "parentId": "root-front-end-development-ionic-framework-ionic-fundamentals"
+            },
+            {
+              "id": "root-front-end-development-ionic-framework-ionic-fundamentals-appcenter-migration",
+              "title": "Appcenter migration",
+              "kind": "link",
+              "repo": "",
+              "url": "https://capgo.app/blog/appcenter-migration",
+              "description": "Migrating from Microsoft App Center to Capgo in a few steps.",
+              "external": true,
+              "sourceRepo": "candelibas/awesome-ionic",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Ionic Framework",
+                "Ionic Fundamentals",
+                "Appcenter migration"
+              ],
+              "parentId": "root-front-end-development-ionic-framework-ionic-fundamentals"
+            },
+            {
+              "id": "root-front-end-development-ionic-framework-ionic-fundamentals-update-app-seamlessly",
+              "title": "Update app seamlessly",
+              "kind": "link",
+              "repo": "",
+              "url": "https://capgo.app/blog/update-your-capacitor-apps-seamlessly-using-capacitor-updater",
+              "description": "Set up live updates in your Ionic app.",
+              "external": true,
+              "sourceRepo": "candelibas/awesome-ionic",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Ionic Framework",
+                "Ionic Fundamentals",
+                "Update app seamlessly"
+              ],
+              "parentId": "root-front-end-development-ionic-framework-ionic-fundamentals"
+            },
+            {
+              "id": "root-front-end-development-ionic-framework-ionic-fundamentals-ionic-live-update-services",
+              "title": "Ionic live update services",
+              "kind": "link",
+              "repo": "",
+              "url": "https://capgo.app/blog/best-ionic-live-update-service/",
+              "description": "Compare live update options for Ionic apps.",
+              "external": true,
+              "sourceRepo": "candelibas/awesome-ionic",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Ionic Framework",
+                "Ionic Fundamentals",
+                "Ionic live update services"
+              ],
+              "parentId": "root-front-end-development-ionic-framework-ionic-fundamentals"
+            },
+            {
+              "id": "root-front-end-development-ionic-framework-ionic-fundamentals-automatic-build-and-release",
+              "title": "Automatic build and release",
+              "kind": "link",
+              "repo": "",
+              "url": "https://capgo.app/blog/automatic-build-and-release-with-github-actions",
+              "description": "Create a CI/CD pipeline with GitHub Actions.",
+              "external": true,
+              "sourceRepo": "candelibas/awesome-ionic",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Ionic Framework",
+                "Ionic Fundamentals",
+                "Automatic build and release"
               ],
               "parentId": "root-front-end-development-ionic-framework-ionic-fundamentals"
             },
@@ -137030,6 +137497,84 @@
                 "Ionic Framework",
                 "Authentication",
                 "Authenticate Ionic with WordPress"
+              ],
+              "parentId": "root-front-end-development-ionic-framework-authentication"
+            },
+            {
+              "id": "root-front-end-development-ionic-framework-authentication-social-login",
+              "title": "Social Login",
+              "kind": "link",
+              "repo": "",
+              "url": "https://capgo.app/blog/capacitor-social-login-release/",
+              "description": "Google, Apple, and Facebook sign-in with native flows.",
+              "external": true,
+              "sourceRepo": "candelibas/awesome-ionic",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Ionic Framework",
+                "Authentication",
+                "Social Login"
+              ],
+              "parentId": "root-front-end-development-ionic-framework-authentication"
+            },
+            {
+              "id": "root-front-end-development-ionic-framework-authentication-oauth2-in-5-steps",
+              "title": "OAuth2 in 5 steps",
+              "kind": "link",
+              "repo": "",
+              "url": "https://capgo.app/blog/5-steps-to-implement-oauth2-in-capacitor-apps/",
+              "description": "Implement OAuth 2.0 with PKCE across iOS, Android, and the web.",
+              "external": true,
+              "sourceRepo": "candelibas/awesome-ionic",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Ionic Framework",
+                "Authentication",
+                "OAuth2 in 5 steps"
+              ],
+              "parentId": "root-front-end-development-ionic-framework-authentication"
+            },
+            {
+              "id": "root-front-end-development-ionic-framework-authentication-secure-token-storage",
+              "title": "Secure token storage",
+              "kind": "link",
+              "repo": "",
+              "url": "https://capgo.app/blog/secure-token-storage-best-practices-for-mobile-developers/",
+              "description": "Store credentials and session tokens safely on device.",
+              "external": true,
+              "sourceRepo": "candelibas/awesome-ionic",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Ionic Framework",
+                "Authentication",
+                "Secure token storage"
               ],
               "parentId": "root-front-end-development-ionic-framework-authentication"
             }
@@ -139651,6 +140196,32 @@
               "parentId": "root-front-end-development-ionic-framework-capgo-capacitor-plugins"
             },
             {
+              "id": "root-front-end-development-ionic-framework-capgo-capacitor-plugins-capacitor-notifications",
+              "title": "capacitor-notifications",
+              "kind": "repo",
+              "repo": "cap-go/capgo.app",
+              "url": "https://github.com/cap-go/capgo.app",
+              "description": "Send native iOS and Android push notifications with user lookup, badges, and stats.",
+              "external": false,
+              "sourceRepo": "candelibas/awesome-ionic",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Ionic Framework",
+                "Capgo Capacitor Plugins",
+                "capacitor-notifications"
+              ],
+              "parentId": "root-front-end-development-ionic-framework-capgo-capacitor-plugins"
+            },
+            {
               "id": "root-front-end-development-ionic-framework-capgo-capacitor-plugins-capacitor-passkey",
               "title": "capacitor-passkey",
               "kind": "repo",
@@ -140561,6 +141132,32 @@
               "parentId": "root-front-end-development-ionic-framework-capgo-capacitor-plugins"
             },
             {
+              "id": "root-front-end-development-ionic-framework-capgo-capacitor-plugins-capacitor-twilio-video",
+              "title": "capacitor-twilio-video",
+              "kind": "link",
+              "repo": "",
+              "url": "https://capgo.app/plugins/capacitor-twilio-video/",
+              "description": "Join Twilio Video rooms with native audio, camera, and room lifecycle events.",
+              "external": true,
+              "sourceRepo": "candelibas/awesome-ionic",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Ionic Framework",
+                "Capgo Capacitor Plugins",
+                "capacitor-twilio-video"
+              ],
+              "parentId": "root-front-end-development-ionic-framework-capgo-capacitor-plugins"
+            },
+            {
               "id": "root-front-end-development-ionic-framework-capgo-capacitor-plugins-capacitor-twilio-voice",
               "title": "capacitor-twilio-voice",
               "kind": "repo",
@@ -141025,6 +141622,84 @@
                 "Ionic Framework",
                 "Capgo Capacitor Plugins",
                 "capacitor-zip"
+              ],
+              "parentId": "root-front-end-development-ionic-framework-capgo-capacitor-plugins"
+            },
+            {
+              "id": "root-front-end-development-ionic-framework-capgo-capacitor-plugins-cordova-updater",
+              "title": "cordova-updater",
+              "kind": "repo",
+              "repo": "cap-go/cordova-updater",
+              "url": "https://github.com/cap-go/cordova-updater",
+              "description": "OTA live updates for Cordova iOS and Android with the same API as the updater plugin.",
+              "external": false,
+              "sourceRepo": "candelibas/awesome-ionic",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Ionic Framework",
+                "Capgo Capacitor Plugins",
+                "cordova-updater"
+              ],
+              "parentId": "root-front-end-development-ionic-framework-capgo-capacitor-plugins"
+            },
+            {
+              "id": "root-front-end-development-ionic-framework-capgo-capacitor-plugins-electron-updater",
+              "title": "electron-updater",
+              "kind": "repo",
+              "repo": "cap-go/electron-updater",
+              "url": "https://github.com/cap-go/electron-updater",
+              "description": "OTA live updates for Electron apps with the same API as the updater plugin.",
+              "external": false,
+              "sourceRepo": "candelibas/awesome-ionic",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Ionic Framework",
+                "Capgo Capacitor Plugins",
+                "electron-updater"
+              ],
+              "parentId": "root-front-end-development-ionic-framework-capgo-capacitor-plugins"
+            },
+            {
+              "id": "root-front-end-development-ionic-framework-capgo-capacitor-plugins-tauri-updater",
+              "title": "tauri-updater",
+              "kind": "repo",
+              "repo": "cap-go/tauri-updater",
+              "url": "https://github.com/cap-go/tauri-updater",
+              "description": "OTA live updates for Tauri apps.",
+              "external": false,
+              "sourceRepo": "candelibas/awesome-ionic",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Ionic Framework",
+                "Capgo Capacitor Plugins",
+                "tauri-updater"
               ],
               "parentId": "root-front-end-development-ionic-framework-capgo-capacitor-plugins"
             }
@@ -141587,6 +142262,318 @@
                 "AASA Tester"
               ],
               "parentId": "root-front-end-development-ionic-framework-tools"
+            },
+            {
+              "id": "root-front-end-development-ionic-framework-tools-cli",
+              "title": "CLI",
+              "kind": "repo",
+              "repo": "cap-go/cli",
+              "url": "https://github.com/cap-go/cli",
+              "description": "Upload and manage live update bundles.",
+              "external": false,
+              "sourceRepo": "candelibas/awesome-ionic",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Ionic Framework",
+                "Tools",
+                "CLI"
+              ],
+              "parentId": "root-front-end-development-ionic-framework-tools"
+            },
+            {
+              "id": "root-front-end-development-ionic-framework-tools-live-update-action",
+              "title": "Live Update Action",
+              "kind": "repo",
+              "repo": "cap-go/live-update-action",
+              "url": "https://github.com/cap-go/live-update-action",
+              "description": "GitHub Action to deploy a live update.",
+              "external": false,
+              "sourceRepo": "candelibas/awesome-ionic",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Ionic Framework",
+                "Tools",
+                "Live Update Action"
+              ],
+              "parentId": "root-front-end-development-ionic-framework-tools"
+            },
+            {
+              "id": "root-front-end-development-ionic-framework-tools-docker",
+              "title": "Docker",
+              "kind": "repo",
+              "repo": "cap-go/docker-capacitor",
+              "url": "https://github.com/cap-go/docker-capacitor",
+              "description": "Image for building native apps.",
+              "external": false,
+              "sourceRepo": "candelibas/awesome-ionic",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Ionic Framework",
+                "Tools",
+                "Docker"
+              ],
+              "parentId": "root-front-end-development-ionic-framework-tools"
+            },
+            {
+              "id": "root-front-end-development-ionic-framework-tools-native-builds",
+              "title": "Native Builds",
+              "kind": "link",
+              "repo": "",
+              "url": "https://capgo.app/native-build/",
+              "description": "Compile and sign iOS and Android binaries in the cloud.",
+              "external": true,
+              "sourceRepo": "candelibas/awesome-ionic",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Ionic Framework",
+                "Tools",
+                "Native Builds"
+              ],
+              "parentId": "root-front-end-development-ionic-framework-tools"
+            },
+            {
+              "id": "root-front-end-development-ionic-framework-tools-android-keystore-generator",
+              "title": "Android Keystore Generator",
+              "kind": "link",
+              "repo": "",
+              "url": "https://capgo.app/tools/android-keystore-generator/",
+              "description": "Generate Android keystores for app signing in the browser.",
+              "external": true,
+              "sourceRepo": "candelibas/awesome-ionic",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Ionic Framework",
+                "Tools",
+                "Android Keystore Generator"
+              ],
+              "parentId": "root-front-end-development-ionic-framework-tools"
+            },
+            {
+              "id": "root-front-end-development-ionic-framework-tools-ios-certificate-generator",
+              "title": "iOS Certificate Generator",
+              "kind": "link",
+              "repo": "",
+              "url": "https://capgo.app/tools/ios-certificate-generator/",
+              "description": "Generate an iOS certificate signing request and private key in the browser.",
+              "external": true,
+              "sourceRepo": "candelibas/awesome-ionic",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Ionic Framework",
+                "Tools",
+                "iOS Certificate Generator"
+              ],
+              "parentId": "root-front-end-development-ionic-framework-tools"
+            },
+            {
+              "id": "root-front-end-development-ionic-framework-tools-ios-udid-finder",
+              "title": "iOS UDID Finder",
+              "kind": "link",
+              "repo": "",
+              "url": "https://capgo.app/tools/ios-udid-finder/",
+              "description": "Find an iPhone or iPad UDID; device identifiers are sent to the tool backend.",
+              "external": true,
+              "sourceRepo": "candelibas/awesome-ionic",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Ionic Framework",
+                "Tools",
+                "iOS UDID Finder"
+              ],
+              "parentId": "root-front-end-development-ionic-framework-tools"
+            },
+            {
+              "id": "root-front-end-development-ionic-framework-tools-vite-plugin",
+              "title": "Vite plugin",
+              "kind": "repo",
+              "repo": "cap-go/vite-capacitor",
+              "url": "https://github.com/cap-go/vite-capacitor",
+              "description": "Keep native platform configs in sync with the Vite dev server URL.",
+              "external": false,
+              "sourceRepo": "candelibas/awesome-ionic",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Ionic Framework",
+                "Tools",
+                "Vite plugin"
+              ],
+              "parentId": "root-front-end-development-ionic-framework-tools"
+            },
+            {
+              "id": "root-front-end-development-ionic-framework-tools-n8n-nodes",
+              "title": "n8n nodes",
+              "kind": "repo",
+              "repo": "cap-go/n8n-nodes-capgo",
+              "url": "https://github.com/cap-go/n8n-nodes-capgo",
+              "description": "Automate live updates and native builds from n8n workflows.",
+              "external": false,
+              "sourceRepo": "candelibas/awesome-ionic",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Ionic Framework",
+                "Tools",
+                "n8n nodes"
+              ],
+              "parentId": "root-front-end-development-ionic-framework-tools"
+            },
+            {
+              "id": "root-front-end-development-ionic-framework-tools-standard-version",
+              "title": "Standard Version",
+              "kind": "repo",
+              "repo": "cap-go/standard-version-for-capacitor",
+              "url": "https://github.com/cap-go/standard-version-for-capacitor",
+              "description": "Automated versioning for apps.",
+              "external": false,
+              "sourceRepo": "candelibas/awesome-ionic",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Ionic Framework",
+                "Tools",
+                "Standard Version"
+              ],
+              "parentId": "root-front-end-development-ionic-framework-tools"
+            },
+            {
+              "id": "root-front-end-development-ionic-framework-tools-ci-cd-pipeline-setup",
+              "title": "CI/CD pipeline setup",
+              "kind": "link",
+              "repo": "",
+              "url": "https://capgo.app/blog/capacitor-cicd-pipeline-setup-guide/",
+              "description": "Automate build, test, and live update deployment.",
+              "external": true,
+              "sourceRepo": "candelibas/awesome-ionic",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Ionic Framework",
+                "Tools",
+                "CI/CD pipeline setup"
+              ],
+              "parentId": "root-front-end-development-ionic-framework-tools"
+            },
+            {
+              "id": "root-front-end-development-ionic-framework-tools-ota-updates-in-ci-cd",
+              "title": "OTA updates in CI/CD",
+              "kind": "link",
+              "repo": "",
+              "url": "https://capgo.app/blog/capacitor-ota-updates-cicd-integration-guide/",
+              "description": "Ship over-the-air updates from your pipeline.",
+              "external": true,
+              "sourceRepo": "candelibas/awesome-ionic",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Ionic Framework",
+                "Tools",
+                "OTA updates in CI/CD"
+              ],
+              "parentId": "root-front-end-development-ionic-framework-tools"
             }
           ],
           "stars": 0,
@@ -141766,6 +142753,188 @@
                 "TutorialSearch"
               ],
               "parentId": "root-front-end-development-ionic-framework-video-tutorials"
+            },
+            {
+              "id": "root-front-end-development-ionic-framework-video-tutorials-ionic-and-capacitor-for-building-native-mobile-apps",
+              "title": "Ionic & Capacitor for Building Native Mobile Apps",
+              "kind": "link",
+              "repo": "",
+              "url": "https://www.youtube.com/watch?v=K7ghUiXLef8",
+              "description": "Full beginner course by freeCodeCamp.",
+              "external": true,
+              "sourceRepo": "candelibas/awesome-ionic",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Ionic Framework",
+                "Video Tutorials",
+                "Ionic & Capacitor for Building Native Mobile Apps"
+              ],
+              "parentId": "root-front-end-development-ionic-framework-video-tutorials"
+            },
+            {
+              "id": "root-front-end-development-ionic-framework-video-tutorials-from-react-web-to-native-mobile-app",
+              "title": "From React Web to Native Mobile App",
+              "kind": "link",
+              "repo": "",
+              "url": "https://www.youtube.com/watch?v=IwHt_QpIa8A",
+              "description": "Simon Grimm.",
+              "external": true,
+              "sourceRepo": "candelibas/awesome-ionic",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Ionic Framework",
+                "Video Tutorials",
+                "From React Web to Native Mobile App"
+              ],
+              "parentId": "root-front-end-development-ionic-framework-video-tutorials"
+            },
+            {
+              "id": "root-front-end-development-ionic-framework-video-tutorials-how-to-build-a-native-app-from-angular-projects",
+              "title": "How to Build a Native App from Angular Projects",
+              "kind": "link",
+              "repo": "",
+              "url": "https://www.youtube.com/watch?v=V2Wn2JROUEo",
+              "description": "Simon Grimm.",
+              "external": true,
+              "sourceRepo": "candelibas/awesome-ionic",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Ionic Framework",
+                "Video Tutorials",
+                "How to Build a Native App from Angular Projects"
+              ],
+              "parentId": "root-front-end-development-ionic-framework-video-tutorials"
+            },
+            {
+              "id": "root-front-end-development-ionic-framework-video-tutorials-building-a-native-mobile-app-with-next-js",
+              "title": "Building a Native Mobile App with Next.js",
+              "kind": "link",
+              "repo": "",
+              "url": "https://www.youtube.com/watch?v=xQKtDgJXrlM",
+              "description": "Simon Grimm.",
+              "external": true,
+              "sourceRepo": "candelibas/awesome-ionic",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Ionic Framework",
+                "Video Tutorials",
+                "Building a Native Mobile App with Next.js"
+              ],
+              "parentId": "root-front-end-development-ionic-framework-video-tutorials"
+            },
+            {
+              "id": "root-front-end-development-ionic-framework-video-tutorials-how-to-create-a-mobile-app-using-vite-vue-and-ionic",
+              "title": "How To Create A Mobile App Using Vite, Vue and Ionic",
+              "kind": "link",
+              "repo": "",
+              "url": "https://www.youtube.com/watch?v=K_OwSHPxT-A",
+              "description": "Aaron Saunders.",
+              "external": true,
+              "sourceRepo": "candelibas/awesome-ionic",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Ionic Framework",
+                "Video Tutorials",
+                "How To Create A Mobile App Using Vite, Vue and Ionic"
+              ],
+              "parentId": "root-front-end-development-ionic-framework-video-tutorials"
+            },
+            {
+              "id": "root-front-end-development-ionic-framework-video-tutorials-building-modern-angular-apps-with-ionic",
+              "title": "Building Modern Angular Apps with Ionic",
+              "kind": "link",
+              "repo": "",
+              "url": "https://www.youtube.com/watch?v=tbrJJkSYQ04",
+              "description": "Simon Grimm.",
+              "external": true,
+              "sourceRepo": "candelibas/awesome-ionic",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Ionic Framework",
+                "Video Tutorials",
+                "Building Modern Angular Apps with Ionic"
+              ],
+              "parentId": "root-front-end-development-ionic-framework-video-tutorials"
+            },
+            {
+              "id": "root-front-end-development-ionic-framework-video-tutorials-how-to-setup-deep-links-ios-and-android",
+              "title": "How to Setup Deep Links (iOS & Android)",
+              "kind": "link",
+              "repo": "",
+              "url": "https://www.youtube.com/watch?v=tAQwllZSQD8",
+              "description": "Simon Grimm.",
+              "external": true,
+              "sourceRepo": "candelibas/awesome-ionic",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Ionic Framework",
+                "Video Tutorials",
+                "How to Setup Deep Links (iOS & Android)"
+              ],
+              "parentId": "root-front-end-development-ionic-framework-video-tutorials"
             }
           ],
           "stars": 0,
@@ -141779,6 +142948,133 @@
           "path": [
             "Ionic Framework",
             "Video Tutorials"
+          ],
+          "parentId": "root-front-end-development-ionic-framework"
+        },
+        {
+          "id": "root-front-end-development-ionic-framework-convert-a-web-app",
+          "title": "Convert a web app",
+          "kind": "section",
+          "sourceRepo": "candelibas/awesome-ionic",
+          "depth": 1,
+          "url": "https://github.com/candelibas/awesome-ionic#convert-a-web-app",
+          "children": [
+            {
+              "id": "root-front-end-development-ionic-framework-convert-a-web-app-transform-a-pwa-into-a-native-app",
+              "title": "Transform a PWA into a native app",
+              "kind": "link",
+              "repo": "",
+              "url": "https://capgo.app/blog/transform-pwa-to-native-app-with-capacitor/",
+              "description": "Package a Progressive Web App for iOS and Android.",
+              "external": true,
+              "sourceRepo": "candelibas/awesome-ionic",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Ionic Framework",
+                "Convert a web app",
+                "Transform a PWA into a native app"
+              ],
+              "parentId": "root-front-end-development-ionic-framework-convert-a-web-app"
+            },
+            {
+              "id": "root-front-end-development-ionic-framework-convert-a-web-app-turn-a-web-app-into-a-mobile-app",
+              "title": "Turn a web app into a mobile app",
+              "kind": "link",
+              "repo": "",
+              "url": "https://capgo.app/blog/how-easy-is-it-to-make-web-app-into-mobile-app-with-capacitor/",
+              "description": "What it takes to wrap a web app and pass store review.",
+              "external": true,
+              "sourceRepo": "candelibas/awesome-ionic",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Ionic Framework",
+                "Convert a web app",
+                "Turn a web app into a mobile app"
+              ],
+              "parentId": "root-front-end-development-ionic-framework-convert-a-web-app"
+            },
+            {
+              "id": "root-front-end-development-ionic-framework-convert-a-web-app-convert-a-lovable-app-to-ios-and-android",
+              "title": "Convert a Lovable app to iOS and Android",
+              "kind": "link",
+              "repo": "",
+              "url": "https://capgo.app/blog/transform-lovable-dev-app-to-mobile-with-capacitor/",
+              "description": "Export from Lovable, wrap with Capacitor, and ship signed binaries.",
+              "external": true,
+              "sourceRepo": "candelibas/awesome-ionic",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Ionic Framework",
+                "Convert a web app",
+                "Convert a Lovable app to iOS and Android"
+              ],
+              "parentId": "root-front-end-development-ionic-framework-convert-a-web-app"
+            },
+            {
+              "id": "root-front-end-development-ionic-framework-convert-a-web-app-build-ios-apps-from-windows",
+              "title": "Build iOS apps from Windows",
+              "kind": "link",
+              "repo": "",
+              "url": "https://capgo.app/blog/build-ios-app-from-windows-capacitor-capgo-build/",
+              "description": "Compile, sign, and submit to TestFlight without owning a Mac.",
+              "external": true,
+              "sourceRepo": "candelibas/awesome-ionic",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Ionic Framework",
+                "Convert a web app",
+                "Build iOS apps from Windows"
+              ],
+              "parentId": "root-front-end-development-ionic-framework-convert-a-web-app"
+            }
+          ],
+          "stars": 0,
+          "forks": 0,
+          "language": null,
+          "license": null,
+          "topics": [],
+          "updated": null,
+          "pushed": null,
+          "awesome": false,
+          "path": [
+            "Ionic Framework",
+            "Convert a web app"
           ],
           "parentId": "root-front-end-development-ionic-framework"
         },
@@ -141862,6 +143158,84 @@
                 "Ionic Framework",
                 "Boilerplate/Demo Apps",
                 "Ionic Official Starter Templates"
+              ],
+              "parentId": "root-front-end-development-ionic-framework-boilerplate-demo-apps"
+            },
+            {
+              "id": "root-front-end-development-ionic-framework-boilerplate-demo-apps-capacitor-updater-plugin-demo",
+              "title": "capacitor-updater-plugin-demo",
+              "kind": "repo",
+              "repo": "cap-go/demo-app",
+              "url": "https://github.com/cap-go/demo-app",
+              "description": "Ionic Vue app demonstrating OTA updates.",
+              "external": false,
+              "sourceRepo": "candelibas/awesome-ionic",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Ionic Framework",
+                "Boilerplate/Demo Apps",
+                "capacitor-updater-plugin-demo"
+              ],
+              "parentId": "root-front-end-development-ionic-framework-boilerplate-demo-apps"
+            },
+            {
+              "id": "root-front-end-development-ionic-framework-boilerplate-demo-apps-vue-data-storage-sqlite-app-starter",
+              "title": "vue-data-storage-sqlite-app-starter",
+              "kind": "repo",
+              "repo": "cap-go/vue-data-storage-sqlite-app-starter",
+              "url": "https://github.com/cap-go/vue-data-storage-sqlite-app-starter",
+              "description": "Vue starter for SQLite key/value storage.",
+              "external": false,
+              "sourceRepo": "candelibas/awesome-ionic",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Ionic Framework",
+                "Boilerplate/Demo Apps",
+                "vue-data-storage-sqlite-app-starter"
+              ],
+              "parentId": "root-front-end-development-ionic-framework-boilerplate-demo-apps"
+            },
+            {
+              "id": "root-front-end-development-ionic-framework-boilerplate-demo-apps-react-data-storage-sqlite-app-starter",
+              "title": "react-data-storage-sqlite-app-starter",
+              "kind": "repo",
+              "repo": "cap-go/react-data-storage-sqlite-app-starter",
+              "url": "https://github.com/cap-go/react-data-storage-sqlite-app-starter",
+              "description": "React starter for SQLite key/value storage.",
+              "external": false,
+              "sourceRepo": "candelibas/awesome-ionic",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Ionic Framework",
+                "Boilerplate/Demo Apps",
+                "react-data-storage-sqlite-app-starter"
               ],
               "parentId": "root-front-end-development-ionic-framework-boilerplate-demo-apps"
             },
@@ -144700,6 +146074,491 @@
           "path": [
             "Ionic Framework",
             "Open Source Projects"
+          ],
+          "parentId": "root-front-end-development-ionic-framework"
+        },
+        {
+          "id": "root-front-end-development-ionic-framework-apps-built-with-ionic",
+          "title": "Apps built with Ionic",
+          "kind": "section",
+          "sourceRepo": "candelibas/awesome-ionic",
+          "depth": 1,
+          "url": "https://github.com/candelibas/awesome-ionic#apps-built-with-ionic",
+          "children": [
+            {
+              "id": "root-front-end-development-ionic-framework-apps-built-with-ionic-aaa",
+              "title": "AAA",
+              "kind": "link",
+              "repo": "",
+              "url": "https://ionic.io/resources/case-studies/american-automobile-association",
+              "description": "Member services app of the American Automobile Association.",
+              "external": true,
+              "sourceRepo": "candelibas/awesome-ionic",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Ionic Framework",
+                "Apps built with Ionic",
+                "AAA"
+              ],
+              "parentId": "root-front-end-development-ionic-framework-apps-built-with-ionic"
+            },
+            {
+              "id": "root-front-end-development-ionic-framework-apps-built-with-ionic-bbc-games",
+              "title": "BBC Games",
+              "kind": "link",
+              "repo": "",
+              "url": "https://ionic.io/resources/case-studies/bbc-games",
+              "description": "Children's games from the BBC.",
+              "external": true,
+              "sourceRepo": "candelibas/awesome-ionic",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Ionic Framework",
+                "Apps built with Ionic",
+                "BBC Games"
+              ],
+              "parentId": "root-front-end-development-ionic-framework-apps-built-with-ionic"
+            },
+            {
+              "id": "root-front-end-development-ionic-framework-apps-built-with-ionic-bestinvest",
+              "title": "Bestinvest",
+              "kind": "link",
+              "repo": "",
+              "url": "https://ionic.io/resources/case-studies/bestinvest",
+              "description": "Investment platform wrapped for iOS and Android.",
+              "external": true,
+              "sourceRepo": "candelibas/awesome-ionic",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Ionic Framework",
+                "Apps built with Ionic",
+                "Bestinvest"
+              ],
+              "parentId": "root-front-end-development-ionic-framework-apps-built-with-ionic"
+            },
+            {
+              "id": "root-front-end-development-ionic-framework-apps-built-with-ionic-burger-king",
+              "title": "Burger King",
+              "kind": "link",
+              "repo": "",
+              "url": "https://ionic.io/resources/articles/burger-king-design-system",
+              "description": "How Burger King brought their design system to mobile.",
+              "external": true,
+              "sourceRepo": "candelibas/awesome-ionic",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Ionic Framework",
+                "Apps built with Ionic",
+                "Burger King"
+              ],
+              "parentId": "root-front-end-development-ionic-framework-apps-built-with-ionic"
+            },
+            {
+              "id": "root-front-end-development-ionic-framework-apps-built-with-ionic-dayclocks-agenda",
+              "title": "DayClocks Agenda",
+              "kind": "link",
+              "repo": "",
+              "url": "https://ionic.io/resources/case-studies/dayclocks",
+              "description": "Family agenda app that moved from Cordova.",
+              "external": true,
+              "sourceRepo": "candelibas/awesome-ionic",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Ionic Framework",
+                "Apps built with Ionic",
+                "DayClocks Agenda"
+              ],
+              "parentId": "root-front-end-development-ionic-framework-apps-built-with-ionic"
+            },
+            {
+              "id": "root-front-end-development-ionic-framework-apps-built-with-ionic-komed-health",
+              "title": "Komed Health",
+              "kind": "link",
+              "repo": "",
+              "url": "https://ionic.io/resources/case-studies/komed",
+              "description": "Clinical communication app for hospitals.",
+              "external": true,
+              "sourceRepo": "candelibas/awesome-ionic",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Ionic Framework",
+                "Apps built with Ionic",
+                "Komed Health"
+              ],
+              "parentId": "root-front-end-development-ionic-framework-apps-built-with-ionic"
+            },
+            {
+              "id": "root-front-end-development-ionic-framework-apps-built-with-ionic-myblock",
+              "title": "MyBlock",
+              "kind": "link",
+              "repo": "",
+              "url": "https://ionic.io/resources/case-studies/hrblock",
+              "description": "Tax preparation app by H&R Block.",
+              "external": true,
+              "sourceRepo": "candelibas/awesome-ionic",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Ionic Framework",
+                "Apps built with Ionic",
+                "MyBlock"
+              ],
+              "parentId": "root-front-end-development-ionic-framework-apps-built-with-ionic"
+            },
+            {
+              "id": "root-front-end-development-ionic-framework-apps-built-with-ionic-spreekuur-nl",
+              "title": "Spreekuur.nl",
+              "kind": "link",
+              "repo": "",
+              "url": "https://ionic.io/resources/case-studies/topicus",
+              "description": "A Dutch healthcare consultation app by Topicus.",
+              "external": true,
+              "sourceRepo": "candelibas/awesome-ionic",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Ionic Framework",
+                "Apps built with Ionic",
+                "Spreekuur.nl"
+              ],
+              "parentId": "root-front-end-development-ionic-framework-apps-built-with-ionic"
+            },
+            {
+              "id": "root-front-end-development-ionic-framework-apps-built-with-ionic-yeshelp",
+              "title": "YesHelp",
+              "kind": "link",
+              "repo": "",
+              "url": "https://ionic.io/resources/case-studies/yeshelp",
+              "description": "Social assistance app for iOS and Android.",
+              "external": true,
+              "sourceRepo": "candelibas/awesome-ionic",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Ionic Framework",
+                "Apps built with Ionic",
+                "YesHelp"
+              ],
+              "parentId": "root-front-end-development-ionic-framework-apps-built-with-ionic"
+            },
+            {
+              "id": "root-front-end-development-ionic-framework-apps-built-with-ionic-ionic-case-studies",
+              "title": "Ionic case studies",
+              "kind": "link",
+              "repo": "",
+              "url": "https://ionic.io/resources/case-studies",
+              "description": "More case studies published by the Ionic team.",
+              "external": true,
+              "sourceRepo": "candelibas/awesome-ionic",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Ionic Framework",
+                "Apps built with Ionic",
+                "Ionic case studies"
+              ],
+              "parentId": "root-front-end-development-ionic-framework-apps-built-with-ionic"
+            }
+          ],
+          "stars": 0,
+          "forks": 0,
+          "language": null,
+          "license": null,
+          "topics": [],
+          "updated": null,
+          "pushed": null,
+          "awesome": false,
+          "path": [
+            "Ionic Framework",
+            "Apps built with Ionic"
+          ],
+          "parentId": "root-front-end-development-ionic-framework"
+        },
+        {
+          "id": "root-front-end-development-ionic-framework-community",
+          "title": "Community",
+          "kind": "section",
+          "sourceRepo": "candelibas/awesome-ionic",
+          "depth": 1,
+          "url": "https://github.com/candelibas/awesome-ionic#community",
+          "children": [
+            {
+              "id": "root-front-end-development-ionic-framework-community-discord",
+              "title": "Discord",
+              "kind": "link",
+              "repo": "",
+              "url": "https://ionic.link/discord",
+              "description": "Official Discord community.",
+              "external": true,
+              "sourceRepo": "candelibas/awesome-ionic",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Ionic Framework",
+                "Community",
+                "Discord"
+              ],
+              "parentId": "root-front-end-development-ionic-framework-community"
+            },
+            {
+              "id": "root-front-end-development-ionic-framework-community-reddit",
+              "title": "Reddit",
+              "kind": "link",
+              "repo": "",
+              "url": "https://www.reddit.com/r/ionic/",
+              "description": "Community discussions.",
+              "external": true,
+              "sourceRepo": "candelibas/awesome-ionic",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Ionic Framework",
+                "Community",
+                "Reddit"
+              ],
+              "parentId": "root-front-end-development-ionic-framework-community"
+            },
+            {
+              "id": "root-front-end-development-ionic-framework-community-stack-overflow",
+              "title": "Stack Overflow",
+              "kind": "link",
+              "repo": "",
+              "url": "https://stackoverflow.com/tags/ionic-framework",
+              "description": "Questions tagged ionic-framework.",
+              "external": true,
+              "sourceRepo": "candelibas/awesome-ionic",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Ionic Framework",
+                "Community",
+                "Stack Overflow"
+              ],
+              "parentId": "root-front-end-development-ionic-framework-community"
+            }
+          ],
+          "stars": 0,
+          "forks": 0,
+          "language": null,
+          "license": null,
+          "topics": [],
+          "updated": null,
+          "pushed": null,
+          "awesome": false,
+          "path": [
+            "Ionic Framework",
+            "Community"
+          ],
+          "parentId": "root-front-end-development-ionic-framework"
+        },
+        {
+          "id": "root-front-end-development-ionic-framework-freelancers",
+          "title": "Freelancers",
+          "kind": "section",
+          "sourceRepo": "candelibas/awesome-ionic",
+          "depth": 1,
+          "url": "https://github.com/candelibas/awesome-ionic#freelancers",
+          "children": [
+            {
+              "id": "root-front-end-development-ionic-framework-freelancers-adrien",
+              "title": "Adrien",
+              "kind": "link",
+              "repo": "",
+              "url": "https://book.capgo.app/adrien/",
+              "description": "Creator of Capstart and a part-time developer at Capgo.",
+              "external": true,
+              "sourceRepo": "candelibas/awesome-ionic",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Ionic Framework",
+                "Freelancers",
+                "Adrien"
+              ],
+              "parentId": "root-front-end-development-ionic-framework-freelancers"
+            },
+            {
+              "id": "root-front-end-development-ionic-framework-freelancers-jordan",
+              "title": "Jordan",
+              "kind": "link",
+              "repo": "",
+              "url": "https://book.capgo.app/jordan/",
+              "description": "Creator of multiple mobile apps and a part-time developer at Capgo.",
+              "external": true,
+              "sourceRepo": "candelibas/awesome-ionic",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Ionic Framework",
+                "Freelancers",
+                "Jordan"
+              ],
+              "parentId": "root-front-end-development-ionic-framework-freelancers"
+            },
+            {
+              "id": "root-front-end-development-ionic-framework-freelancers-capgo-consulting",
+              "title": "Capgo consulting",
+              "kind": "link",
+              "repo": "",
+              "url": "https://capgo.app/consulting/",
+              "description": "Live updates, native plugins, and Ionic/Capacitor consulting.",
+              "external": true,
+              "sourceRepo": "candelibas/awesome-ionic",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Ionic Framework",
+                "Freelancers",
+                "Capgo consulting"
+              ],
+              "parentId": "root-front-end-development-ionic-framework-freelancers"
+            }
+          ],
+          "stars": 0,
+          "forks": 0,
+          "language": null,
+          "license": null,
+          "topics": [],
+          "updated": null,
+          "pushed": null,
+          "awesome": false,
+          "path": [
+            "Ionic Framework",
+            "Freelancers"
           ],
           "parentId": "root-front-end-development-ionic-framework"
         },
@@ -147883,7 +149742,7 @@
           "parentId": "root-front-end-development-chrome-devtools"
         }
       ],
-      "stars": 7107,
+      "stars": 7119,
       "forks": 442,
       "language": null,
       "license": "CC0-1.0",
@@ -147891,7 +149750,7 @@
         "awesome",
         "awesome-list"
       ],
-      "updated": "2026-08-15T20:04:54Z",
+      "updated": "2026-08-22T18:29:51Z",
       "pushed": "2026-03-27T03:36:24Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -149210,7 +151069,7 @@
         "draft-js",
         "list"
       ],
-      "updated": "2026-08-05T04:01:53Z",
+      "updated": "2026-08-20T07:41:10Z",
       "pushed": "2022-05-04T08:19:29Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -150087,7 +151946,7 @@
               "depth": 2,
               "children": [],
               "stars": 1578,
-              "forks": 94,
+              "forks": 93,
               "language": null,
               "license": "CC0-1.0",
               "topics": [],
@@ -150113,7 +151972,7 @@
               "depth": 2,
               "children": [],
               "stars": 1578,
-              "forks": 94,
+              "forks": 93,
               "language": null,
               "license": "CC0-1.0",
               "topics": [],
@@ -150139,7 +151998,7 @@
               "depth": 2,
               "children": [],
               "stars": 1578,
-              "forks": 94,
+              "forks": 93,
               "language": null,
               "license": "CC0-1.0",
               "topics": [],
@@ -150165,7 +152024,7 @@
               "depth": 2,
               "children": [],
               "stars": 1578,
-              "forks": 94,
+              "forks": 93,
               "language": null,
               "license": "CC0-1.0",
               "topics": [],
@@ -150191,7 +152050,7 @@
               "depth": 2,
               "children": [],
               "stars": 1578,
-              "forks": 94,
+              "forks": 93,
               "language": null,
               "license": "CC0-1.0",
               "topics": [],
@@ -151894,7 +153753,7 @@
         }
       ],
       "stars": 1578,
-      "forks": 94,
+      "forks": 93,
       "language": null,
       "license": "CC0-1.0",
       "topics": [],
@@ -161718,7 +163577,7 @@
           "parentId": "root-front-end-development-sass"
         }
       ],
-      "stars": 1903,
+      "stars": 1902,
       "forks": 129,
       "language": null,
       "license": "CC0-1.0",
@@ -161727,7 +163586,7 @@
         "sass",
         "scss"
       ],
-      "updated": "2026-07-30T18:44:50Z",
+      "updated": "2026-08-20T20:53:21Z",
       "pushed": "2023-10-16T15:11:54Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -164792,12 +166651,12 @@
           "parentId": "root-front-end-development-ant-design"
         }
       ],
-      "stars": 3301,
-      "forks": 220,
+      "stars": 3298,
+      "forks": 219,
       "language": null,
       "license": "NOASSERTION",
       "topics": [],
-      "updated": "2026-08-14T12:22:40Z",
+      "updated": "2026-08-22T15:46:42Z",
       "pushed": "2025-07-29T08:15:52Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -170434,8 +172293,8 @@
           "parentId": "root-front-end-development-webgl"
         }
       ],
-      "stars": 1525,
-      "forks": 101,
+      "stars": 1527,
+      "forks": 105,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -170451,7 +172310,7 @@
         "webgl-spec-sheet",
         "webgl-tutorials"
       ],
-      "updated": "2026-08-12T12:15:19Z",
+      "updated": "2026-08-21T15:04:28Z",
       "pushed": "2026-04-02T03:35:40Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -180706,7 +182565,7 @@
         }
       ],
       "stars": 11109,
-      "forks": 1146,
+      "forks": 1149,
       "language": null,
       "license": null,
       "topics": [
@@ -180721,7 +182580,7 @@
         "tutorials",
         "universal"
       ],
-      "updated": "2026-08-13T20:16:12Z",
+      "updated": "2026-08-17T20:26:18Z",
       "pushed": "2026-07-29T13:51:02Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -181491,6 +183350,32 @@
                 "lit",
                 "Starter Templates",
                 "Vite Lit TS Starter"
+              ],
+              "parentId": "root-front-end-development-lit-starter-templates"
+            },
+            {
+              "id": "root-front-end-development-lit-starter-templates-vite-lit-intlayer",
+              "title": "Vite Lit + Intlayer",
+              "kind": "repo",
+              "repo": "aymericzip/intlayer-vite-lit-template",
+              "url": "https://github.com/aymericzip/intlayer-vite-lit-template",
+              "description": "Per-component i18n solution for app and design-systems.",
+              "external": false,
+              "sourceRepo": "web-padawan/awesome-lit",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "lit",
+                "Starter Templates",
+                "Vite Lit + Intlayer"
               ],
               "parentId": "root-front-end-development-lit-starter-templates"
             },
@@ -182910,6 +184795,32 @@
               "parentId": "root-front-end-development-lit-extensions"
             },
             {
+              "id": "root-front-end-development-lit-extensions-lit-intlayer",
+              "title": "lit-intlayer",
+              "kind": "link",
+              "repo": "",
+              "url": "https://intlayer.org/doc/environment/vite-and-lit",
+              "description": "Making a lit application multilingual using Intlayer.",
+              "external": true,
+              "sourceRepo": "web-padawan/awesome-lit",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "lit",
+                "Extensions",
+                "lit-intlayer"
+              ],
+              "parentId": "root-front-end-development-lit-extensions"
+            },
+            {
               "id": "root-front-end-development-lit-extensions-lit-redux-router",
               "title": "lit-redux-router",
               "kind": "link",
@@ -183411,8 +185322,8 @@
               "sourceRepo": "web-padawan/awesome-lit",
               "depth": 2,
               "children": [],
-              "stars": 1278,
-              "forks": 181,
+              "stars": 1290,
+              "forks": 185,
               "language": "TypeScript",
               "license": "MIT",
               "topics": [
@@ -183420,8 +185331,8 @@
                 "opensource",
                 "webcomponents"
               ],
-              "updated": "2026-08-14T18:22:11Z",
-              "pushed": "2026-08-14T18:28:06Z",
+              "updated": "2026-08-22T21:27:08Z",
+              "pushed": "2026-08-21T22:15:06Z",
               "awesome": true,
               "path": [
                 "lit",
@@ -186237,7 +188148,7 @@
         }
       ],
       "stars": 1731,
-      "forks": 106,
+      "forks": 105,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -186245,8 +188156,8 @@
         "awesome-list",
         "lit-html"
       ],
-      "updated": "2026-08-09T06:05:40Z",
-      "pushed": "2026-06-12T07:09:21Z",
+      "updated": "2026-08-23T00:19:05Z",
+      "pushed": "2026-08-18T05:58:58Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -186859,6 +188770,32 @@
                 "JAMstack",
                 "No-Code Platforms",
                 "TeleportHQ"
+              ],
+              "parentId": "root-front-end-development-jamstack-no-code-platforms"
+            },
+            {
+              "id": "root-front-end-development-jamstack-no-code-platforms-silex",
+              "title": "Silex",
+              "kind": "link",
+              "repo": "",
+              "url": "https://www.silex.me",
+              "description": "Visual website builder that outputs static HTML and CSS. Connects to any headless CMS, self-hostable, no lock-in.",
+              "external": true,
+              "sourceRepo": "automata/awesome-jamstack",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "JAMstack",
+                "No-Code Platforms",
+                "Silex"
               ],
               "parentId": "root-front-end-development-jamstack-no-code-platforms"
             }
@@ -187555,6 +189492,32 @@
                 "JAMstack",
                 "Static Site Generators",
                 "Mandu"
+              ],
+              "parentId": "root-front-end-development-jamstack-static-site-generators"
+            },
+            {
+              "id": "root-front-end-development-jamstack-static-site-generators-bloggrify",
+              "title": "Bloggrify",
+              "kind": "link",
+              "repo": "",
+              "url": "https://bloggrify.com",
+              "description": "Nuxt Content layer for blogging, with themes, SEO, RSS and analytics preconfigured.",
+              "external": true,
+              "sourceRepo": "automata/awesome-jamstack",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "JAMstack",
+                "Static Site Generators",
+                "Bloggrify"
               ],
               "parentId": "root-front-end-development-jamstack-static-site-generators"
             }
@@ -189352,6 +191315,33 @@
                     "API",
                     "Database",
                     "Tigris"
+                  ],
+                  "parentId": "root-front-end-development-jamstack-api-database"
+                },
+                {
+                  "id": "root-front-end-development-jamstack-api-database-nhost",
+                  "title": "Nhost",
+                  "kind": "link",
+                  "repo": "",
+                  "url": "https://nhost.io",
+                  "description": "Open-source backend-as-a-service with a Postgres database, instant Hasura GraphQL API, authentication, storage, and serverless functions.",
+                  "external": true,
+                  "sourceRepo": "automata/awesome-jamstack",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "JAMstack",
+                    "API",
+                    "Database",
+                    "Nhost"
                   ],
                   "parentId": "root-front-end-development-jamstack-api-database"
                 }
@@ -191361,8 +193351,8 @@
           "parentId": "root-front-end-development-jamstack"
         }
       ],
-      "stars": 1369,
-      "forks": 181,
+      "stars": 1371,
+      "forks": 180,
       "language": null,
       "license": null,
       "topics": [
@@ -191373,8 +193363,8 @@
         "static-site",
         "static-site-generator"
       ],
-      "updated": "2026-08-12T06:28:45Z",
-      "pushed": "2026-05-08T09:13:45Z",
+      "updated": "2026-08-18T17:47:07Z",
+      "pushed": "2026-08-17T09:12:20Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -194700,7 +196690,7 @@
               "sourceRepo": "myshov/awesome-mobile-web-development",
               "depth": 2,
               "children": [],
-              "stars": 3317,
+              "stars": 3318,
               "forks": 194,
               "language": null,
               "license": "CC0-1.0",
@@ -194713,7 +196703,7 @@
                 "service-worker",
                 "serviceworkers"
               ],
-              "updated": "2026-08-15T11:05:40Z",
+              "updated": "2026-08-17T20:54:11Z",
               "pushed": "2022-11-23T17:08:40Z",
               "awesome": true,
               "path": [
@@ -196542,7 +198532,7 @@
         }
       ],
       "stars": 1286,
-      "forks": 64,
+      "forks": 65,
       "language": null,
       "license": null,
       "topics": [
@@ -196552,7 +198542,7 @@
         "mobile-web",
         "web-performance"
       ],
-      "updated": "2026-08-15T08:34:09Z",
+      "updated": "2026-08-21T15:51:31Z",
       "pushed": "2023-12-15T10:23:46Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -197751,7 +199741,7 @@
           "parentId": "root-front-end-development-storybook"
         }
       ],
-      "stars": 420,
+      "stars": 421,
       "forks": 29,
       "language": null,
       "license": "CC0-1.0",
@@ -197760,7 +199750,7 @@
         "awesome-list",
         "storybook"
       ],
-      "updated": "2026-08-15T13:58:52Z",
+      "updated": "2026-08-18T17:52:32Z",
       "pushed": "2025-06-13T14:14:20Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -198954,8 +200944,8 @@
           "parentId": "root-front-end-development-blazor"
         }
       ],
-      "stars": 9367,
-      "forks": 1011,
+      "stars": 9372,
+      "forks": 1012,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -198980,7 +200970,7 @@
         "razor-components",
         "webassembly"
       ],
-      "updated": "2026-08-14T09:38:22Z",
+      "updated": "2026-08-23T02:17:34Z",
       "pushed": "2026-07-25T11:20:31Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -202251,7 +204241,7 @@
           "parentId": "root-front-end-development-pagespeed-metrics"
         }
       ],
-      "stars": 693,
+      "stars": 692,
       "forks": 27,
       "language": null,
       "license": "NOASSERTION",
@@ -202264,7 +204254,7 @@
         "performance",
         "web-performance"
       ],
-      "updated": "2026-08-14T04:32:58Z",
+      "updated": "2026-08-16T12:24:55Z",
       "pushed": "2024-02-17T15:29:57Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -204246,8 +206236,8 @@
           "parentId": "root-front-end-development-tailwind-css"
         }
       ],
-      "stars": 15111,
-      "forks": 1023,
+      "stars": 15157,
+      "forks": 1027,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -204261,7 +206251,7 @@
         "tailwindcss",
         "websites"
       ],
-      "updated": "2026-08-16T02:04:37Z",
+      "updated": "2026-08-23T02:00:44Z",
       "pushed": "2026-08-14T14:48:26Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -209450,8 +211440,8 @@
           "parentId": "root-front-end-development-web-animation"
         }
       ],
-      "stars": 1569,
-      "forks": 82,
+      "stars": 1568,
+      "forks": 84,
       "language": "JavaScript",
       "license": "CC0-1.0",
       "topics": [
@@ -209463,7 +211453,7 @@
         "transitions",
         "web-animation"
       ],
-      "updated": "2026-08-14T22:36:09Z",
+      "updated": "2026-08-22T19:26:40Z",
       "pushed": "2023-07-12T12:52:20Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -215021,12 +217011,12 @@
               "sourceRepo": "jetli/awesome-yew",
               "depth": 2,
               "children": [],
-              "stars": 671,
+              "stars": 668,
               "forks": 48,
               "language": null,
               "license": "NOASSERTION",
               "topics": [],
-              "updated": "2026-04-18T22:17:03Z",
+              "updated": "2026-08-20T20:54:23Z",
               "pushed": "2023-08-31T07:48:04Z",
               "awesome": true,
               "path": [
@@ -215047,8 +217037,8 @@
               "sourceRepo": "jetli/awesome-yew",
               "depth": 2,
               "children": [],
-              "stars": 9618,
-              "forks": 580,
+              "stars": 9625,
+              "forks": 583,
               "language": null,
               "license": "CC0-1.0",
               "topics": [
@@ -215062,7 +217052,7 @@
                 "wasm",
                 "webassembly"
               ],
-              "updated": "2026-08-15T16:17:04Z",
+              "updated": "2026-08-23T02:16:46Z",
               "pushed": "2024-11-15T14:58:04Z",
               "awesome": true,
               "path": [
@@ -215083,16 +217073,16 @@
               "sourceRepo": "jetli/awesome-yew",
               "depth": 2,
               "children": [],
-              "stars": 58844,
-              "forks": 3540,
+              "stars": 58945,
+              "forks": 3556,
               "language": "Rust",
               "license": "CC0-1.0",
               "topics": [
                 "awesome",
                 "rust"
               ],
-              "updated": "2026-08-16T01:58:11Z",
-              "pushed": "2026-08-15T23:24:05Z",
+              "updated": "2026-08-23T02:32:59Z",
+              "pushed": "2026-08-22T14:37:29Z",
               "awesome": true,
               "path": [
                 "Yew",
@@ -215117,7 +217107,7 @@
           "parentId": "root-front-end-development-yew"
         }
       ],
-      "stars": 1613,
+      "stars": 1612,
       "forks": 70,
       "language": null,
       "license": "CC0-1.0",
@@ -215130,7 +217120,7 @@
         "yew",
         "yew-framework"
       ],
-      "updated": "2026-08-14T10:04:08Z",
+      "updated": "2026-08-20T21:03:51Z",
       "pushed": "2026-02-28T09:26:58Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -219563,7 +221553,7 @@
               "sourceRepo": "componently-com/awesome-building-blocks-for-web-apps",
               "depth": 2,
               "children": [],
-              "stars": 14479,
+              "stars": 14490,
               "forks": 1859,
               "language": null,
               "license": "CC0-1.0",
@@ -219574,8 +221564,8 @@
                 "microservices",
                 "microservices-architecture"
               ],
-              "updated": "2026-08-16T02:04:55Z",
-              "pushed": "2026-06-10T15:05:12Z",
+              "updated": "2026-08-23T02:02:14Z",
+              "pushed": "2026-08-20T15:52:41Z",
               "awesome": true,
               "path": [
                 "Building Blocks for Web Apps",
@@ -225949,8 +227939,8 @@
           "parentId": "root-front-end-development-svelte"
         }
       ],
-      "stars": 2149,
-      "forks": 194,
+      "stars": 2153,
+      "forks": 196,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -225960,7 +227950,7 @@
         "svelte",
         "sveltejs"
       ],
-      "updated": "2026-08-15T22:09:58Z",
+      "updated": "2026-08-22T16:32:14Z",
       "pushed": "2026-05-30T14:58:11Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -229322,8 +231312,8 @@
           "parentId": "root-front-end-development-design-systems"
         }
       ],
-      "stars": 880,
-      "forks": 60,
+      "stars": 882,
+      "forks": 63,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -229345,7 +231335,7 @@
         "reusable-components",
         "storybook"
       ],
-      "updated": "2026-08-15T06:50:10Z",
+      "updated": "2026-08-20T04:08:28Z",
       "pushed": "2026-08-05T07:06:36Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -236612,7 +238602,7 @@
         "tiny",
         "typescript"
       ],
-      "updated": "2026-08-05T19:52:48Z",
+      "updated": "2026-08-18T11:45:06Z",
       "pushed": "2024-09-24T10:21:03Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -237412,7 +239402,7 @@
                   "sourceRepo": "joewdavies/awesome-frontend-gis",
                   "depth": 3,
                   "children": [],
-                  "stars": 2526,
+                  "stars": 2529,
                   "forks": 215,
                   "language": null,
                   "license": "CC0-1.0",
@@ -237422,7 +239412,7 @@
                     "geojson",
                     "list"
                   ],
-                  "updated": "2026-08-15T06:25:56Z",
+                  "updated": "2026-08-20T15:06:39Z",
                   "pushed": "2026-07-23T13:51:40Z",
                   "awesome": true,
                   "path": [
@@ -238410,8 +240400,8 @@
                   "sourceRepo": "joewdavies/awesome-frontend-gis",
                   "depth": 3,
                   "children": [],
-                  "stars": 1162,
-                  "forks": 186,
+                  "stars": 1169,
+                  "forks": 187,
                   "language": "Python",
                   "license": "MIT",
                   "topics": [
@@ -238436,8 +240426,8 @@
                     "spectral-index",
                     "spectral-indices"
                   ],
-                  "updated": "2026-08-15T18:29:49Z",
-                  "pushed": "2026-08-15T18:29:44Z",
+                  "updated": "2026-08-22T10:28:35Z",
+                  "pushed": "2026-08-21T19:08:19Z",
                   "awesome": true,
                   "path": [
                     "Frontend GIS",
@@ -240065,8 +242055,8 @@
                   "sourceRepo": "joewdavies/awesome-frontend-gis",
                   "depth": 3,
                   "children": [],
-                  "stars": 78103,
-                  "forks": 11753,
+                  "stars": 78492,
+                  "forks": 11797,
                   "language": null,
                   "license": "MIT",
                   "topics": [
@@ -240075,8 +242065,8 @@
                     "datasets",
                     "opendata"
                   ],
-                  "updated": "2026-08-15T23:41:38Z",
-                  "pushed": "2026-08-04T19:54:53Z",
+                  "updated": "2026-08-23T02:43:36Z",
+                  "pushed": "2026-08-21T17:12:16Z",
                   "awesome": true,
                   "path": [
                     "Frontend GIS",
@@ -241214,7 +243204,7 @@
               "kind": "link",
               "repo": "",
               "url": "https://thecastlemap.com/",
-              "description": "The world's 2,400 great castles on one night map, built from Wikidata.",
+              "description": "The world's 7,044 great castles, fortresses and palaces on one night map, built from Wikidata.",
               "external": true,
               "sourceRepo": "joewdavies/awesome-frontend-gis",
               "depth": 2,
@@ -241266,7 +243256,7 @@
               "kind": "link",
               "repo": "",
               "url": "https://detourmap.com/",
-              "description": "70,343 places worth a detour — ruins, caves, waterfalls, castles and ghost towns — on one world map, built from Wikidata.",
+              "description": "Waterfalls, caves, volcanoes and lonely coasts, plus the ruins, tombs, ghost towns and shipwrecks people left behind, on one world map, built from Wikidata.",
               "external": true,
               "sourceRepo": "joewdavies/awesome-frontend-gis",
               "depth": 2,
@@ -241283,6 +243273,84 @@
                 "Frontend GIS",
                 ":worldmap: Web maps",
                 "Detourmap"
+              ],
+              "parentId": "root-front-end-development-frontend-gis-worldmap-web-maps"
+            },
+            {
+              "id": "root-front-end-development-frontend-gis-worldmap-web-maps-planetary-atlas",
+              "title": "Planetary Atlas",
+              "kind": "link",
+              "repo": "",
+              "url": "https://planetatlas.org",
+              "description": "Zoomable maps of 14 worlds built from open NASA, USGS, ESA and JAXA imagery, with the IAU nomenclature and 69 surface mission landing sites.",
+              "external": true,
+              "sourceRepo": "joewdavies/awesome-frontend-gis",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Frontend GIS",
+                ":worldmap: Web maps",
+                "Planetary Atlas"
+              ],
+              "parentId": "root-front-end-development-frontend-gis-worldmap-web-maps"
+            },
+            {
+              "id": "root-front-end-development-frontend-gis-worldmap-web-maps-filmmap",
+              "title": "FilmMap",
+              "kind": "link",
+              "repo": "",
+              "url": "https://thefilmmap.com/",
+              "description": "Where films and television were actually shot: 15,272 filming locations across 161 countries, each one traced to a Wikidata statement.",
+              "external": true,
+              "sourceRepo": "joewdavies/awesome-frontend-gis",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Frontend GIS",
+                ":worldmap: Web maps",
+                "FilmMap"
+              ],
+              "parentId": "root-front-end-development-frontend-gis-worldmap-web-maps"
+            },
+            {
+              "id": "root-front-end-development-frontend-gis-worldmap-web-maps-forest-fires-map",
+              "title": "Forest Fires Map",
+              "kind": "link",
+              "repo": "",
+              "url": "https://forest-fires-map.vercel.app/",
+              "description": "Interactive web map of forest fires.",
+              "external": true,
+              "sourceRepo": "joewdavies/awesome-frontend-gis",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Frontend GIS",
+                ":worldmap: Web maps",
+                "Forest Fires Map"
               ],
               "parentId": "root-front-end-development-frontend-gis-worldmap-web-maps"
             }
@@ -242531,8 +244599,8 @@
           "parentId": "root-front-end-development-frontend-gis"
         }
       ],
-      "stars": 844,
-      "forks": 62,
+      "stars": 847,
+      "forks": 63,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -242557,8 +244625,8 @@
         "visualization",
         "webgl"
       ],
-      "updated": "2026-08-12T17:13:15Z",
-      "pushed": "2026-07-24T16:23:53Z",
+      "updated": "2026-08-21T16:29:12Z",
+      "pushed": "2026-08-18T18:05:33Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -246705,8 +248773,8 @@
           "parentId": "root-front-end-development-webgpu"
         }
       ],
-      "stars": 1956,
-      "forks": 106,
+      "stars": 1961,
+      "forks": 108,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -246719,7 +248787,7 @@
         "webgl",
         "webgpu"
       ],
-      "updated": "2026-08-15T12:09:05Z",
+      "updated": "2026-08-20T08:57:12Z",
       "pushed": "2026-01-21T09:09:35Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -247864,6 +249932,33 @@
                     "Projects",
                     "Libraries",
                     "WASI"
+                  ],
+                  "parentId": "root-front-end-development-webassembly-projects-libraries"
+                },
+                {
+                  "id": "root-front-end-development-webassembly-projects-libraries-vedaksha",
+                  "title": "Vedaksha",
+                  "kind": "repo",
+                  "repo": "arthiqlabs/vedaksha",
+                  "url": "https://github.com/arthiqlabs/vedaksha",
+                  "description": "Rust astronomical ephemeris and Vedic computation library shipping a zero-data WebAssembly package for browsers and edge runtimes.",
+                  "external": false,
+                  "sourceRepo": "idematos/awesome-webassembly",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "WebAssembly",
+                    "Projects",
+                    "Libraries",
+                    "Vedaksha"
                   ],
                   "parentId": "root-front-end-development-webassembly-projects-libraries"
                 }

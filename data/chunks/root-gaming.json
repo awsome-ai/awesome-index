@@ -3489,12 +3489,12 @@
           "parentId": "root-gaming-game-talks"
         }
       ],
-      "stars": 1179,
+      "stars": 1180,
       "forks": 52,
       "language": null,
       "license": "MIT",
       "topics": [],
-      "updated": "2026-08-10T14:18:22Z",
+      "updated": "2026-08-22T13:43:07Z",
       "pushed": "2024-05-09T00:58:26Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -13691,8 +13691,8 @@
           "parentId": "root-gaming-godot"
         }
       ],
-      "stars": 10558,
-      "forks": 573,
+      "stars": 10600,
+      "forks": 577,
       "language": null,
       "license": "CC-BY-4.0",
       "topics": [
@@ -13702,7 +13702,7 @@
         "godot",
         "godot-engine"
       ],
-      "updated": "2026-08-16T02:16:23Z",
+      "updated": "2026-08-23T02:12:02Z",
       "pushed": "2026-07-09T00:49:17Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -25788,8 +25788,8 @@
           "parentId": "root-gaming-open-source-games"
         }
       ],
-      "stars": 3012,
-      "forks": 262,
+      "stars": 3024,
+      "forks": 263,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -25798,482 +25798,12 @@
         "games",
         "opensource"
       ],
-      "updated": "2026-08-15T15:49:48Z",
+      "updated": "2026-08-22T22:01:06Z",
       "pushed": "2026-08-14T16:33:49Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
         "Open Source Games"
-      ],
-      "parentId": "root-gaming"
-    },
-    {
-      "id": "root-gaming-unity",
-      "title": "Unity",
-      "kind": "repo",
-      "repo": "ryannielson/awesome-unity",
-      "url": "https://github.com/ryannielson/awesome-unity",
-      "description": "Game engine.",
-      "external": false,
-      "sourceRepo": "sindresorhus/awesome",
-      "depth": 1,
-      "children": [
-        {
-          "id": "root-gaming-unity-2d",
-          "title": "2D",
-          "kind": "section",
-          "sourceRepo": "ryannielson/awesome-unity",
-          "depth": 1,
-          "url": "https://github.com/ryannielson/awesome-unity#2d",
-          "children": [],
-          "stars": 0,
-          "forks": 0,
-          "language": null,
-          "license": null,
-          "topics": [],
-          "updated": null,
-          "pushed": null,
-          "awesome": false,
-          "path": [
-            "Unity",
-            "2D"
-          ],
-          "parentId": "root-gaming-unity"
-        },
-        {
-          "id": "root-gaming-unity-ai",
-          "title": "AI",
-          "kind": "section",
-          "sourceRepo": "ryannielson/awesome-unity",
-          "depth": 1,
-          "url": "https://github.com/ryannielson/awesome-unity#ai",
-          "children": [],
-          "stars": 0,
-          "forks": 0,
-          "language": null,
-          "license": null,
-          "topics": [],
-          "updated": null,
-          "pushed": null,
-          "awesome": false,
-          "path": [
-            "Unity",
-            "AI"
-          ],
-          "parentId": "root-gaming-unity"
-        },
-        {
-          "id": "root-gaming-unity-augmented-and-virtual-reality",
-          "title": "Augmented & Virtual Reality",
-          "kind": "section",
-          "sourceRepo": "ryannielson/awesome-unity",
-          "depth": 1,
-          "url": "https://github.com/ryannielson/awesome-unity#augmented-and-virtual-reality",
-          "children": [],
-          "stars": 0,
-          "forks": 0,
-          "language": null,
-          "license": null,
-          "topics": [],
-          "updated": null,
-          "pushed": null,
-          "awesome": false,
-          "path": [
-            "Unity",
-            "Augmented & Virtual Reality"
-          ],
-          "parentId": "root-gaming-unity"
-        },
-        {
-          "id": "root-gaming-unity-camera",
-          "title": "Camera",
-          "kind": "section",
-          "sourceRepo": "ryannielson/awesome-unity",
-          "depth": 1,
-          "url": "https://github.com/ryannielson/awesome-unity#camera",
-          "children": [],
-          "stars": 0,
-          "forks": 0,
-          "language": null,
-          "license": null,
-          "topics": [],
-          "updated": null,
-          "pushed": null,
-          "awesome": false,
-          "path": [
-            "Unity",
-            "Camera"
-          ],
-          "parentId": "root-gaming-unity"
-        },
-        {
-          "id": "root-gaming-unity-character-controllers",
-          "title": "Character Controllers",
-          "kind": "section",
-          "sourceRepo": "ryannielson/awesome-unity",
-          "depth": 1,
-          "url": "https://github.com/ryannielson/awesome-unity#character-controllers",
-          "children": [],
-          "stars": 0,
-          "forks": 0,
-          "language": null,
-          "license": null,
-          "topics": [],
-          "updated": null,
-          "pushed": null,
-          "awesome": false,
-          "path": [
-            "Unity",
-            "Character Controllers"
-          ],
-          "parentId": "root-gaming-unity"
-        },
-        {
-          "id": "root-gaming-unity-frameworks",
-          "title": "Frameworks",
-          "kind": "section",
-          "sourceRepo": "ryannielson/awesome-unity",
-          "depth": 1,
-          "url": "https://github.com/ryannielson/awesome-unity#frameworks",
-          "children": [],
-          "stars": 0,
-          "forks": 0,
-          "language": null,
-          "license": null,
-          "topics": [],
-          "updated": null,
-          "pushed": null,
-          "awesome": false,
-          "path": [
-            "Unity",
-            "Frameworks"
-          ],
-          "parentId": "root-gaming-unity"
-        },
-        {
-          "id": "root-gaming-unity-input",
-          "title": "Input",
-          "kind": "section",
-          "sourceRepo": "ryannielson/awesome-unity",
-          "depth": 1,
-          "url": "https://github.com/ryannielson/awesome-unity#input",
-          "children": [],
-          "stars": 0,
-          "forks": 0,
-          "language": null,
-          "license": null,
-          "topics": [],
-          "updated": null,
-          "pushed": null,
-          "awesome": false,
-          "path": [
-            "Unity",
-            "Input"
-          ],
-          "parentId": "root-gaming-unity"
-        },
-        {
-          "id": "root-gaming-unity-modeling",
-          "title": "Modeling",
-          "kind": "section",
-          "sourceRepo": "ryannielson/awesome-unity",
-          "depth": 1,
-          "url": "https://github.com/ryannielson/awesome-unity#modeling",
-          "children": [],
-          "stars": 0,
-          "forks": 0,
-          "language": null,
-          "license": null,
-          "topics": [],
-          "updated": null,
-          "pushed": null,
-          "awesome": false,
-          "path": [
-            "Unity",
-            "Modeling"
-          ],
-          "parentId": "root-gaming-unity"
-        },
-        {
-          "id": "root-gaming-unity-monetization",
-          "title": "Monetization",
-          "kind": "section",
-          "sourceRepo": "ryannielson/awesome-unity",
-          "depth": 1,
-          "url": "https://github.com/ryannielson/awesome-unity#monetization",
-          "children": [],
-          "stars": 0,
-          "forks": 0,
-          "language": null,
-          "license": null,
-          "topics": [],
-          "updated": null,
-          "pushed": null,
-          "awesome": false,
-          "path": [
-            "Unity",
-            "Monetization"
-          ],
-          "parentId": "root-gaming-unity"
-        },
-        {
-          "id": "root-gaming-unity-networking",
-          "title": "Networking",
-          "kind": "section",
-          "sourceRepo": "ryannielson/awesome-unity",
-          "depth": 1,
-          "url": "https://github.com/ryannielson/awesome-unity#networking",
-          "children": [],
-          "stars": 0,
-          "forks": 0,
-          "language": null,
-          "license": null,
-          "topics": [],
-          "updated": null,
-          "pushed": null,
-          "awesome": false,
-          "path": [
-            "Unity",
-            "Networking"
-          ],
-          "parentId": "root-gaming-unity"
-        },
-        {
-          "id": "root-gaming-unity-scripting",
-          "title": "Scripting",
-          "kind": "section",
-          "sourceRepo": "ryannielson/awesome-unity",
-          "depth": 1,
-          "url": "https://github.com/ryannielson/awesome-unity#scripting",
-          "children": [],
-          "stars": 0,
-          "forks": 0,
-          "language": null,
-          "license": null,
-          "topics": [],
-          "updated": null,
-          "pushed": null,
-          "awesome": false,
-          "path": [
-            "Unity",
-            "Scripting"
-          ],
-          "parentId": "root-gaming-unity"
-        },
-        {
-          "id": "root-gaming-unity-services",
-          "title": "Services",
-          "kind": "section",
-          "sourceRepo": "ryannielson/awesome-unity",
-          "depth": 1,
-          "url": "https://github.com/ryannielson/awesome-unity#services",
-          "children": [],
-          "stars": 0,
-          "forks": 0,
-          "language": null,
-          "license": null,
-          "topics": [],
-          "updated": null,
-          "pushed": null,
-          "awesome": false,
-          "path": [
-            "Unity",
-            "Services"
-          ],
-          "parentId": "root-gaming-unity"
-        },
-        {
-          "id": "root-gaming-unity-tweening",
-          "title": "Tweening",
-          "kind": "section",
-          "sourceRepo": "ryannielson/awesome-unity",
-          "depth": 1,
-          "url": "https://github.com/ryannielson/awesome-unity#tweening",
-          "children": [],
-          "stars": 0,
-          "forks": 0,
-          "language": null,
-          "license": null,
-          "topics": [],
-          "updated": null,
-          "pushed": null,
-          "awesome": false,
-          "path": [
-            "Unity",
-            "Tweening"
-          ],
-          "parentId": "root-gaming-unity"
-        },
-        {
-          "id": "root-gaming-unity-ui",
-          "title": "UI",
-          "kind": "section",
-          "sourceRepo": "ryannielson/awesome-unity",
-          "depth": 1,
-          "url": "https://github.com/ryannielson/awesome-unity#ui",
-          "children": [],
-          "stars": 0,
-          "forks": 0,
-          "language": null,
-          "license": null,
-          "topics": [],
-          "updated": null,
-          "pushed": null,
-          "awesome": false,
-          "path": [
-            "Unity",
-            "UI"
-          ],
-          "parentId": "root-gaming-unity"
-        },
-        {
-          "id": "root-gaming-unity-utilities",
-          "title": "Utilities",
-          "kind": "section",
-          "sourceRepo": "ryannielson/awesome-unity",
-          "depth": 1,
-          "url": "https://github.com/ryannielson/awesome-unity#utilities",
-          "children": [],
-          "stars": 0,
-          "forks": 0,
-          "language": null,
-          "license": null,
-          "topics": [],
-          "updated": null,
-          "pushed": null,
-          "awesome": false,
-          "path": [
-            "Unity",
-            "Utilities"
-          ],
-          "parentId": "root-gaming-unity"
-        },
-        {
-          "id": "root-gaming-unity-video",
-          "title": "Video",
-          "kind": "section",
-          "sourceRepo": "ryannielson/awesome-unity",
-          "depth": 1,
-          "url": "https://github.com/ryannielson/awesome-unity#video",
-          "children": [],
-          "stars": 0,
-          "forks": 0,
-          "language": null,
-          "license": null,
-          "topics": [],
-          "updated": null,
-          "pushed": null,
-          "awesome": false,
-          "path": [
-            "Unity",
-            "Video"
-          ],
-          "parentId": "root-gaming-unity"
-        },
-        {
-          "id": "root-gaming-unity-visual-scripting",
-          "title": "Visual Scripting",
-          "kind": "section",
-          "sourceRepo": "ryannielson/awesome-unity",
-          "depth": 1,
-          "url": "https://github.com/ryannielson/awesome-unity#visual-scripting",
-          "children": [],
-          "stars": 0,
-          "forks": 0,
-          "language": null,
-          "license": null,
-          "topics": [],
-          "updated": null,
-          "pushed": null,
-          "awesome": false,
-          "path": [
-            "Unity",
-            "Visual Scripting"
-          ],
-          "parentId": "root-gaming-unity"
-        },
-        {
-          "id": "root-gaming-unity-games",
-          "title": "Games",
-          "kind": "section",
-          "sourceRepo": "ryannielson/awesome-unity",
-          "depth": 1,
-          "url": "https://github.com/ryannielson/awesome-unity#games",
-          "children": [],
-          "stars": 0,
-          "forks": 0,
-          "language": null,
-          "license": null,
-          "topics": [],
-          "updated": null,
-          "pushed": null,
-          "awesome": false,
-          "path": [
-            "Unity",
-            "Games"
-          ],
-          "parentId": "root-gaming-unity"
-        },
-        {
-          "id": "root-gaming-unity-tips-and-tricks",
-          "title": "Tips and Tricks",
-          "kind": "section",
-          "sourceRepo": "ryannielson/awesome-unity",
-          "depth": 1,
-          "url": "https://github.com/ryannielson/awesome-unity#tips-and-tricks",
-          "children": [],
-          "stars": 0,
-          "forks": 0,
-          "language": null,
-          "license": null,
-          "topics": [],
-          "updated": null,
-          "pushed": null,
-          "awesome": false,
-          "path": [
-            "Unity",
-            "Tips and Tricks"
-          ],
-          "parentId": "root-gaming-unity"
-        },
-        {
-          "id": "root-gaming-unity-tutorials",
-          "title": "Tutorials",
-          "kind": "section",
-          "sourceRepo": "ryannielson/awesome-unity",
-          "depth": 1,
-          "url": "https://github.com/ryannielson/awesome-unity#tutorials",
-          "children": [],
-          "stars": 0,
-          "forks": 0,
-          "language": null,
-          "license": null,
-          "topics": [],
-          "updated": null,
-          "pushed": null,
-          "awesome": false,
-          "path": [
-            "Unity",
-            "Tutorials"
-          ],
-          "parentId": "root-gaming-unity"
-        }
-      ],
-      "stars": 7102,
-      "forks": 738,
-      "language": null,
-      "license": "CC0-1.0",
-      "topics": [
-        "awesome-list",
-        "game-development",
-        "unity"
-      ],
-      "updated": "2026-08-13T16:14:50Z",
-      "pushed": "2025-01-22T15:47:15Z",
-      "awesome": true,
-      "readmeStatus": "expanded",
-      "path": [
-        "Unity"
       ],
       "parentId": "root-gaming"
     },
@@ -26288,12 +25818,12 @@
       "sourceRepo": "sindresorhus/awesome",
       "depth": 1,
       "children": [],
-      "stars": 524,
+      "stars": 527,
       "forks": 46,
       "language": null,
       "license": "CC0-1.0",
       "topics": [],
-      "updated": "2026-08-14T22:10:07Z",
+      "updated": "2026-08-20T07:58:13Z",
       "pushed": "2020-11-20T11:48:24Z",
       "awesome": true,
       "readmeStatus": "empty",
@@ -26908,7 +26438,7 @@
           "parentId": "root-gaming-l-ve"
         }
       ],
-      "stars": 4467,
+      "stars": 4472,
       "forks": 242,
       "language": "PowerShell",
       "license": "CC0-1.0",
@@ -26919,7 +26449,7 @@
         "love2d",
         "lua"
       ],
-      "updated": "2026-08-15T16:04:43Z",
+      "updated": "2026-08-22T08:19:16Z",
       "pushed": "2026-06-18T20:27:08Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -29736,7 +29266,7 @@
           "parentId": "root-gaming-pico-8"
         }
       ],
-      "stars": 3065,
+      "stars": 3069,
       "forks": 103,
       "language": null,
       "license": "CC0-1.0",
@@ -29755,7 +29285,7 @@
         "pico-8",
         "pico8"
       ],
-      "updated": "2026-08-14T13:41:09Z",
+      "updated": "2026-08-21T18:58:37Z",
       "pushed": "2026-07-28T13:25:56Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -40870,7 +40400,7 @@
           "parentId": "root-gaming-game-boy-development"
         }
       ],
-      "stars": 4484,
+      "stars": 4489,
       "forks": 193,
       "language": null,
       "license": "NOASSERTION",
@@ -40895,7 +40425,7 @@
         "retrogaming",
         "tools"
       ],
-      "updated": "2026-08-14T13:26:31Z",
+      "updated": "2026-08-22T10:31:46Z",
       "pushed": "2026-07-22T19:03:27Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -45624,12 +45154,12 @@
               "sourceRepo": "stetso/awesome-gideros",
               "depth": 2,
               "children": [],
-              "stars": 4551,
+              "stars": 4555,
               "forks": 343,
               "language": null,
               "license": null,
               "topics": [],
-              "updated": "2026-08-15T14:50:15Z",
+              "updated": "2026-08-20T00:06:25Z",
               "pushed": "2024-08-11T17:32:00Z",
               "awesome": true,
               "path": [
@@ -45650,7 +45180,7 @@
               "sourceRepo": "stetso/awesome-gideros",
               "depth": 2,
               "children": [],
-              "stars": 4467,
+              "stars": 4472,
               "forks": 242,
               "language": "PowerShell",
               "license": "CC0-1.0",
@@ -45661,7 +45191,7 @@
                 "love2d",
                 "lua"
               ],
-              "updated": "2026-08-15T16:04:43Z",
+              "updated": "2026-08-22T08:19:16Z",
               "pushed": "2026-06-18T20:27:08Z",
               "awesome": true,
               "path": [
@@ -50064,8 +49594,8 @@
           "parentId": "root-gaming-minecraft"
         }
       ],
-      "stars": 640,
-      "forks": 47,
+      "stars": 642,
+      "forks": 48,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -50073,7 +49603,7 @@
         "awesome-list",
         "minecraft"
       ],
-      "updated": "2026-08-15T02:00:36Z",
+      "updated": "2026-08-21T14:46:38Z",
       "pushed": "2025-08-23T13:16:01Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -53843,12 +53373,12 @@
                   "sourceRepo": "tomodachi94/awesome-computercraft",
                   "depth": 3,
                   "children": [],
-                  "stars": 4551,
+                  "stars": 4555,
                   "forks": 343,
                   "language": null,
                   "license": null,
                   "topics": [],
-                  "updated": "2026-08-15T14:50:15Z",
+                  "updated": "2026-08-20T00:06:25Z",
                   "pushed": "2024-08-11T17:32:00Z",
                   "awesome": true,
                   "path": [
@@ -53902,8 +53432,8 @@
                   "language": null,
                   "license": null,
                   "topics": [],
-                  "updated": "2026-08-14T15:21:04Z",
-                  "pushed": "2026-08-12T14:52:19Z",
+                  "updated": "2026-08-19T19:11:40Z",
+                  "pushed": "2026-08-19T19:07:39Z",
                   "awesome": true,
                   "path": [
                     "ComputerCraft",
@@ -55013,7 +54543,7 @@
           "parentId": "root-gaming-haxe-game-development"
         }
       ],
-      "stars": 422,
+      "stars": 421,
       "forks": 19,
       "language": "Haxe",
       "license": "CC0-1.0",
@@ -55031,7 +54561,7 @@
         "list",
         "resources"
       ],
-      "updated": "2026-08-10T02:36:34Z",
+      "updated": "2026-08-18T02:32:54Z",
       "pushed": "2023-11-17T21:20:29Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -57677,12 +57207,12 @@
               "sourceRepo": "rafaskb/awesome-libgdx",
               "depth": 2,
               "children": [],
-              "stars": 1179,
+              "stars": 1180,
               "forks": 52,
               "language": null,
               "license": "MIT",
               "topics": [],
-              "updated": "2026-08-10T14:18:22Z",
+              "updated": "2026-08-22T13:43:07Z",
               "pushed": "2024-05-09T00:58:26Z",
               "awesome": true,
               "path": [
@@ -57703,16 +57233,16 @@
               "sourceRepo": "rafaskb/awesome-libgdx",
               "depth": 2,
               "children": [],
-              "stars": 48748,
-              "forks": 7701,
+              "stars": 48818,
+              "forks": 7708,
               "language": null,
               "license": "CC-BY-SA-4.0",
               "topics": [
                 "awesome",
                 "awesome-list"
               ],
-              "updated": "2026-08-16T02:57:50Z",
-              "pushed": "2026-08-10T00:17:55Z",
+              "updated": "2026-08-23T02:01:55Z",
+              "pushed": "2026-08-19T18:23:37Z",
               "awesome": true,
               "path": [
                 "libGDX",
@@ -57810,8 +57340,8 @@
               "sourceRepo": "rafaskb/awesome-libgdx",
               "depth": 2,
               "children": [],
-              "stars": 3101,
-              "forks": 196,
+              "stars": 3108,
+              "forks": 199,
               "language": null,
               "license": "CC-BY-SA-4.0",
               "topics": [
@@ -57821,7 +57351,7 @@
                 "game-development",
                 "game-programming"
               ],
-              "updated": "2026-08-15T15:17:54Z",
+              "updated": "2026-08-23T02:30:56Z",
               "pushed": "2026-07-07T19:10:59Z",
               "awesome": true,
               "path": [
@@ -57847,8 +57377,8 @@
           "parentId": "root-gaming-libgdx"
         }
       ],
-      "stars": 1273,
-      "forks": 83,
+      "stars": 1271,
+      "forks": 84,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -57856,7 +57386,7 @@
         "awesome-list",
         "libgdx"
       ],
-      "updated": "2026-08-08T20:49:01Z",
+      "updated": "2026-08-22T16:35:56Z",
       "pushed": "2024-12-03T21:43:58Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -60636,6 +60166,33 @@
                   "parentId": "root-gaming-playcanvas-games-browser-games"
                 },
                 {
+                  "id": "root-gaming-playcanvas-games-browser-games-quake",
+                  "title": "Quake",
+                  "kind": "repo",
+                  "repo": "willeastcott/playcanvas-quake",
+                  "url": "https://github.com/willeastcott/playcanvas-quake",
+                  "description": "A port of id Software's Quake to PlayCanvas.",
+                  "external": false,
+                  "sourceRepo": "playcanvas/awesome-playcanvas",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "PlayCanvas",
+                    "Games",
+                    "Browser Games",
+                    "Quake"
+                  ],
+                  "parentId": "root-gaming-playcanvas-games-browser-games"
+                },
+                {
                   "id": "root-gaming-playcanvas-games-browser-games-scooter-xtreme",
                   "title": "Scooter Xtreme",
                   "kind": "link",
@@ -62937,6 +62494,32 @@
               "parentId": "root-gaming-playcanvas-3d-gaussian-splatting"
             },
             {
+              "id": "root-gaming-playcanvas-3d-gaussian-splatting-immersivetech",
+              "title": "ImmersiveTech",
+              "kind": "link",
+              "repo": "",
+              "url": "https://immersivetech.ch/en/",
+              "description": "Creator of bespoke 3DGS-based interactive experiences.",
+              "external": true,
+              "sourceRepo": "playcanvas/awesome-playcanvas",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "PlayCanvas",
+                "3D Gaussian Splatting",
+                "ImmersiveTech"
+              ],
+              "parentId": "root-gaming-playcanvas-3d-gaussian-splatting"
+            },
+            {
               "id": "root-gaming-playcanvas-3d-gaussian-splatting-lichtfeld-studio-gallery",
               "title": "LichtFeld Studio Gallery",
               "kind": "link",
@@ -64061,8 +63644,8 @@
           "parentId": "root-gaming-playcanvas"
         }
       ],
-      "stars": 477,
-      "forks": 61,
+      "stars": 478,
+      "forks": 60,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -64071,8 +63654,8 @@
         "playcanvas",
         "webgl"
       ],
-      "updated": "2026-08-08T03:40:28Z",
-      "pushed": "2026-08-04T16:23:41Z",
+      "updated": "2026-08-22T19:23:44Z",
+      "pushed": "2026-08-22T19:23:40Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -64769,6 +64352,32 @@
                 "Game Remakes",
                 "Adventure",
                 "timeco"
+              ],
+              "parentId": "root-gaming-game-remakes-adventure"
+            },
+            {
+              "id": "root-gaming-game-remakes-adventure-v64tng",
+              "title": "v64tng",
+              "kind": "repo",
+              "repo": "mattseabrook/v64tng",
+              "url": "https://github.com/mattseabrook/v64tng",
+              "description": "Game Engine re-creation of The 7th Guest",
+              "external": false,
+              "sourceRepo": "radek-sprta/awesome-game-remakes",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Game Remakes",
+                "Adventure",
+                "v64tng"
               ],
               "parentId": "root-gaming-game-remakes-adventure"
             }
@@ -69877,6 +69486,32 @@
               "parentId": "root-gaming-game-remakes-racing"
             },
             {
+              "id": "root-gaming-game-remakes-racing-quarantine",
+              "title": "Quarantine",
+              "kind": "repo",
+              "repo": "mattseabrook/quarantine",
+              "url": "https://github.com/mattseabrook/quarantine",
+              "description": "Game Engine re-creation of Quarantine by Imagexcel",
+              "external": false,
+              "sourceRepo": "radek-sprta/awesome-game-remakes",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Game Remakes",
+                "Racing",
+                "Quarantine"
+              ],
+              "parentId": "root-gaming-game-remakes-racing"
+            },
+            {
               "id": "root-gaming-game-remakes-racing-tube64",
               "title": "tube64",
               "kind": "repo",
@@ -73682,8 +73317,8 @@
           "parentId": "root-gaming-game-remakes"
         }
       ],
-      "stars": 1432,
-      "forks": 67,
+      "stars": 1435,
+      "forks": 68,
       "language": null,
       "license": "CC-BY-SA-4.0",
       "topics": [
@@ -73694,8 +73329,8 @@
         "games",
         "remake"
       ],
-      "updated": "2026-08-15T18:01:56Z",
-      "pushed": "2026-08-01T23:53:40Z",
+      "updated": "2026-08-21T15:52:46Z",
+      "pushed": "2026-08-17T20:54:38Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -77314,7 +76949,7 @@
                 "lists",
                 "resources"
               ],
-              "updated": "2026-08-15T18:40:12Z",
+              "updated": "2026-08-22T22:15:40Z",
               "pushed": "2026-07-02T10:11:31Z",
               "awesome": true,
               "path": [
@@ -77349,7 +76984,7 @@
                 "lists",
                 "resources"
               ],
-              "updated": "2026-08-15T18:40:12Z",
+              "updated": "2026-08-22T22:15:40Z",
               "pushed": "2026-07-02T10:11:31Z",
               "awesome": true,
               "path": [
@@ -77389,7 +77024,7 @@
         "lists",
         "resources"
       ],
-      "updated": "2026-08-15T18:40:12Z",
+      "updated": "2026-08-22T22:15:40Z",
       "pushed": "2026-07-02T10:11:31Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -79413,7 +79048,7 @@
           "parentId": "root-gaming-discord-communities"
         }
       ],
-      "stars": 3572,
+      "stars": 3574,
       "forks": 214,
       "language": "Python",
       "license": "CC-BY-4.0",
@@ -79427,7 +79062,7 @@
         "game-development",
         "web"
       ],
-      "updated": "2026-08-15T18:18:03Z",
+      "updated": "2026-08-20T07:29:06Z",
       "pushed": "2026-04-25T19:09:39Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -79674,7 +79309,7 @@
           "parentId": "root-gaming-chip-8"
         }
       ],
-      "stars": 248,
+      "stars": 249,
       "forks": 12,
       "language": null,
       "license": "CC0-1.0",
@@ -79690,7 +79325,7 @@
         "octo",
         "retrocomputing"
       ],
-      "updated": "2026-07-24T21:30:38Z",
+      "updated": "2026-08-17T05:19:02Z",
       "pushed": "2022-12-26T18:09:12Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -81009,7 +80644,7 @@
           "parentId": "root-gaming-games-of-coding"
         }
       ],
-      "stars": 2140,
+      "stars": 2144,
       "forks": 105,
       "language": null,
       "license": "CC0-1.0",
@@ -81021,7 +80656,7 @@
         "programming-language",
         "robocode"
       ],
-      "updated": "2026-08-15T06:31:24Z",
+      "updated": "2026-08-23T02:30:57Z",
       "pushed": "2026-03-25T03:16:25Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -82160,7 +81795,7 @@
           "parentId": "root-gaming-esports"
         }
       ],
-      "stars": 106,
+      "stars": 105,
       "forks": 9,
       "language": null,
       "license": "CC0-1.0",
@@ -82169,7 +81804,7 @@
         "awesome-list",
         "esports"
       ],
-      "updated": "2026-08-08T17:16:53Z",
+      "updated": "2026-08-19T22:09:17Z",
       "pushed": "2025-06-10T12:03:15Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -86646,6 +86281,276 @@
                     "Learning",
                     "Engine Development",
                     "🌎 Ubisoft Technology"
+                  ],
+                  "parentId": "root-gaming-game-engine-development-learning-engine-development"
+                },
+                {
+                  "id": "root-gaming-game-engine-development-learning-engine-development-developer-blogs",
+                  "title": "Developer Blogs",
+                  "kind": "topic",
+                  "repo": "",
+                  "url": "",
+                  "description": "",
+                  "external": false,
+                  "sourceRepo": "stevinz/awesome-game-engine-dev",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Game Engine Development",
+                    "Learning",
+                    "Engine Development",
+                    "Developer Blogs"
+                  ],
+                  "parentId": "root-gaming-game-engine-development-learning-engine-development"
+                },
+                {
+                  "id": "root-gaming-game-engine-development-learning-engine-development-developer-blogs-bits-pixels-cycles-and-more",
+                  "title": "📚 Bits, Pixels, Cycles and More",
+                  "kind": "topic",
+                  "repo": "",
+                  "url": "",
+                  "description": "Graphics, optimization and low-level engine programming.",
+                  "external": false,
+                  "sourceRepo": "stevinz/awesome-game-engine-dev",
+                  "depth": 5,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Game Engine Development",
+                    "Learning",
+                    "Engine Development",
+                    "📚 Bits, Pixels, Cycles and More"
+                  ],
+                  "parentId": "root-gaming-game-engine-development-learning-engine-development"
+                },
+                {
+                  "id": "root-gaming-game-engine-development-learning-engine-development-developer-blogs-bitsquid-development-blog",
+                  "title": "📚 Bitsquid Development Blog",
+                  "kind": "topic",
+                  "repo": "",
+                  "url": "",
+                  "description": "Archived engine architecture, rendering and tools articles.",
+                  "external": false,
+                  "sourceRepo": "stevinz/awesome-game-engine-dev",
+                  "depth": 5,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Game Engine Development",
+                    "Learning",
+                    "Engine Development",
+                    "📚 Bitsquid Development Blog"
+                  ],
+                  "parentId": "root-gaming-game-engine-development-learning-engine-development"
+                },
+                {
+                  "id": "root-gaming-game-engine-development-learning-engine-development-developer-blogs-cybereality",
+                  "title": "📚 cybereality",
+                  "kind": "topic",
+                  "repo": "",
+                  "url": "",
+                  "description": "Custom 3D engine development, graphics and game technology.",
+                  "external": false,
+                  "sourceRepo": "stevinz/awesome-game-engine-dev",
+                  "depth": 5,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Game Engine Development",
+                    "Learning",
+                    "Engine Development",
+                    "📚 cybereality"
+                  ],
+                  "parentId": "root-gaming-game-engine-development-learning-engine-development"
+                },
+                {
+                  "id": "root-gaming-game-engine-development-learning-engine-development-developer-blogs-digital-grove",
+                  "title": "📚 Digital Grove",
+                  "kind": "topic",
+                  "repo": "",
+                  "url": "",
+                  "description": "Low-level programming, tools, UI, debugging and game engines.",
+                  "external": false,
+                  "sourceRepo": "stevinz/awesome-game-engine-dev",
+                  "depth": 5,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Game Engine Development",
+                    "Learning",
+                    "Engine Development",
+                    "📚 Digital Grove"
+                  ],
+                  "parentId": "root-gaming-game-engine-development-learning-engine-development"
+                },
+                {
+                  "id": "root-gaming-game-engine-development-learning-engine-development-developer-blogs-harold-serrano",
+                  "title": "📚 Harold Serrano",
+                  "kind": "topic",
+                  "repo": "",
+                  "url": "",
+                  "description": "Engine architecture, graphics and building the Untold Engine.",
+                  "external": false,
+                  "sourceRepo": "stevinz/awesome-game-engine-dev",
+                  "depth": 5,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Game Engine Development",
+                    "Learning",
+                    "Engine Development",
+                    "📚 Harold Serrano"
+                  ],
+                  "parentId": "root-gaming-game-engine-development-learning-engine-development"
+                },
+                {
+                  "id": "root-gaming-game-engine-development-learning-engine-development-developer-blogs-our-machinery-blog-archive",
+                  "title": "📚 Our Machinery Blog Archive",
+                  "kind": "topic",
+                  "repo": "",
+                  "url": "",
+                  "description": "Engine architecture, rendering, ECS and tooling.",
+                  "external": false,
+                  "sourceRepo": "stevinz/awesome-game-engine-dev",
+                  "depth": 5,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Game Engine Development",
+                    "Learning",
+                    "Engine Development",
+                    "📚 Our Machinery Blog Archive"
+                  ],
+                  "parentId": "root-gaming-game-engine-development-learning-engine-development"
+                },
+                {
+                  "id": "root-gaming-game-engine-development-learning-engine-development-developer-blogs-the-danger-zone",
+                  "title": "📚 The Danger Zone",
+                  "kind": "topic",
+                  "repo": "",
+                  "url": "",
+                  "description": "Real-time rendering, GPU programming and graphics APIs.",
+                  "external": false,
+                  "sourceRepo": "stevinz/awesome-game-engine-dev",
+                  "depth": 5,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Game Engine Development",
+                    "Learning",
+                    "Engine Development",
+                    "📚 The Danger Zone"
+                  ],
+                  "parentId": "root-gaming-game-engine-development-learning-engine-development"
+                },
+                {
+                  "id": "root-gaming-game-engine-development-learning-engine-development-developer-blogs-the-ryg-blog",
+                  "title": "📚 The ryg blog",
+                  "kind": "topic",
+                  "repo": "",
+                  "url": "",
+                  "description": "Low-level programming, graphics, compression and computer architecture.",
+                  "external": false,
+                  "sourceRepo": "stevinz/awesome-game-engine-dev",
+                  "depth": 5,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Game Engine Development",
+                    "Learning",
+                    "Engine Development",
+                    "📚 The ryg blog"
+                  ],
+                  "parentId": "root-gaming-game-engine-development-learning-engine-development"
+                },
+                {
+                  "id": "root-gaming-game-engine-development-learning-engine-development-developer-blogs-wicked-engine-devblog",
+                  "title": "📚 Wicked Engine Devblog",
+                  "kind": "topic",
+                  "repo": "",
+                  "url": "",
+                  "description": "Rendering, graphics and engine development in Wicked Engine.",
+                  "external": false,
+                  "sourceRepo": "stevinz/awesome-game-engine-dev",
+                  "depth": 5,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Game Engine Development",
+                    "Learning",
+                    "Engine Development",
+                    "📚 Wicked Engine Devblog"
                   ],
                   "parentId": "root-gaming-game-engine-development-learning-engine-development"
                 },
@@ -107822,7 +107727,7 @@
                   "kind": "topic",
                   "repo": "",
                   "url": "",
-                  "description": "Powerful, mature game engine developed by Disney and Carnegie Mellon. [Website]",
+                  "description": "Powerful, mature game engine developed by Disney and Carnegie Mellon.",
                   "external": false,
                   "sourceRepo": "stevinz/awesome-game-engine-dev",
                   "depth": 5,
@@ -118039,8 +117944,8 @@
           "parentId": "root-gaming-game-engine-development"
         }
       ],
-      "stars": 1403,
-      "forks": 107,
+      "stars": 1399,
+      "forks": 106,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -118062,8 +117967,8 @@
         "shaders",
         "tools"
       ],
-      "updated": "2026-08-14T22:54:39Z",
-      "pushed": "2026-08-14T18:26:14Z",
+      "updated": "2026-08-21T10:42:12Z",
+      "pushed": "2026-08-17T18:26:37Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -120913,6 +120818,32 @@
                 "RunGML"
               ],
               "parentId": "root-gaming-gamemaker-utilities"
+            },
+            {
+              "id": "root-gaming-gamemaker-utilities-tweeny",
+              "title": "Tweeny",
+              "kind": "repo",
+              "repo": "kruger0/tweeny",
+              "url": "https://github.com/kruger0/tweeny",
+              "description": "A fire-and-forget tweening library with support for animation curves and ease functions",
+              "external": false,
+              "sourceRepo": "bytecauldron/awesome-gamemaker",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "GameMaker",
+                "Utilities",
+                "Tweeny"
+              ],
+              "parentId": "root-gaming-gamemaker-utilities"
             }
           ],
           "stars": 0,
@@ -122878,11 +122809,11 @@
             {
               "id": "root-gaming-gamemaker-localization-krug-s-localize-system",
               "title": "Krug's Localize System",
-              "kind": "link",
-              "repo": "",
-              "url": "https://krug-dev.itch.io/localize-system-for-gamemaker",
+              "kind": "repo",
+              "repo": "kruger0/localize",
+              "url": "https://github.com/kruger0/localize",
               "description": "A localization system with real-time Google Sheets API synchronization.",
-              "external": true,
+              "external": false,
               "sourceRepo": "bytecauldron/awesome-gamemaker",
               "depth": 2,
               "children": [],
@@ -127067,6 +126998,32 @@
                 "PathPlus"
               ],
               "parentId": "root-gaming-gamemaker-pathing"
+            },
+            {
+              "id": "root-gaming-gamemaker-pathing-gmnav",
+              "title": "GMNav",
+              "kind": "repo",
+              "repo": "erkan612/gmnav",
+              "url": "https://github.com/erkan612/gmnav",
+              "description": "High-performance, resumable navigation engine for GameMaker that handles grid, isometric, hex, and platformer maps with flow fields, dynamic costs, and multi-agent pathfinding.",
+              "external": false,
+              "sourceRepo": "bytecauldron/awesome-gamemaker",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "GameMaker",
+                "Pathing",
+                "GMNav"
+              ],
+              "parentId": "root-gaming-gamemaker-pathing"
             }
           ],
           "stars": 0,
@@ -128497,7 +128454,7 @@
           "parentId": "root-gaming-gamemaker"
         }
       ],
-      "stars": 494,
+      "stars": 499,
       "forks": 35,
       "language": null,
       "license": "CC0-1.0",
@@ -128511,8 +128468,8 @@
         "gamemaker-studio-2",
         "games"
       ],
-      "updated": "2026-08-12T06:45:30Z",
-      "pushed": "2026-07-20T20:01:46Z",
+      "updated": "2026-08-23T01:15:24Z",
+      "pushed": "2026-08-23T01:15:09Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -131301,7 +131258,7 @@
         }
       ],
       "stars": 219,
-      "forks": 8,
+      "forks": 9,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -139472,8 +139429,8 @@
           "parentId": "root-gaming-babylon-js"
         }
       ],
-      "stars": 355,
-      "forks": 25,
+      "stars": 356,
+      "forks": 26,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -139484,7 +139441,7 @@
         "webgl",
         "webgpu"
       ],
-      "updated": "2026-08-05T19:41:32Z",
+      "updated": "2026-08-22T10:50:07Z",
       "pushed": "2026-01-22T03:03:14Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -141974,7 +141931,7 @@
           "parentId": "root-gaming-roblox"
         }
       ],
-      "stars": 75,
+      "stars": 76,
       "forks": 8,
       "language": null,
       "license": "CC0-1.0",
@@ -141986,7 +141943,7 @@
         "luau",
         "roblox"
       ],
-      "updated": "2026-08-09T22:25:56Z",
+      "updated": "2026-08-18T22:37:20Z",
       "pushed": "2026-06-23T00:32:39Z",
       "awesome": true,
       "readmeStatus": "expanded",
