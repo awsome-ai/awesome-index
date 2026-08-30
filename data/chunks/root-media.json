@@ -311,8 +311,8 @@
           "parentId": "root-media-fonts"
         }
       ],
-      "stars": 2053,
-      "forks": 1027,
+      "stars": 2066,
+      "forks": 1030,
       "language": null,
       "license": null,
       "topics": [
@@ -325,7 +325,7 @@
         "list",
         "programming-fonts"
       ],
-      "updated": "2026-08-22T01:13:16Z",
+      "updated": "2026-08-27T20:45:23Z",
       "pushed": "2026-07-26T05:01:07Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -885,8 +885,8 @@
           "parentId": "root-media-stock-resources"
         }
       ],
-      "stars": 14449,
-      "forks": 816,
+      "stars": 14463,
+      "forks": 815,
       "language": "Ruby",
       "license": "CC0-1.0",
       "topics": [
@@ -905,7 +905,7 @@
         "templates",
         "weather-icons"
       ],
-      "updated": "2026-08-23T02:02:48Z",
+      "updated": "2026-08-30T01:55:11Z",
       "pushed": "2026-02-11T22:01:53Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -2881,7 +2881,7 @@
           "parentId": "root-media-gif"
         }
       ],
-      "stars": 695,
+      "stars": 698,
       "forks": 59,
       "language": null,
       "license": "CC0-1.0",
@@ -2890,7 +2890,7 @@
         "awesome-list",
         "gif"
       ],
-      "updated": "2026-08-14T14:30:08Z",
+      "updated": "2026-08-29T03:54:53Z",
       "pushed": "2026-05-17T03:17:16Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -4326,12 +4326,12 @@
           "parentId": "root-media-open-source-documents"
         }
       ],
-      "stars": 2316,
+      "stars": 2322,
       "forks": 164,
       "language": null,
       "license": "NOASSERTION",
       "topics": [],
-      "updated": "2026-08-20T23:27:14Z",
+      "updated": "2026-08-29T14:06:24Z",
       "pushed": "2025-10-29T00:26:24Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -9729,12 +9729,12 @@
           "parentId": "root-media-audio-visualization"
         }
       ],
-      "stars": 5061,
+      "stars": 5067,
       "forks": 348,
       "language": "Shell",
       "license": null,
       "topics": [],
-      "updated": "2026-08-20T20:53:05Z",
+      "updated": "2026-08-29T17:03:36Z",
       "pushed": "2026-08-13T14:34:10Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -10371,7 +10371,7 @@
           "parentId": "root-media-broadcasting"
         }
       ],
-      "stars": 1763,
+      "stars": 1767,
       "forks": 219,
       "language": null,
       "license": "NOASSERTION",
@@ -10380,7 +10380,7 @@
         "broadcast",
         "broadcasting"
       ],
-      "updated": "2026-08-21T20:05:43Z",
+      "updated": "2026-08-30T07:33:54Z",
       "pushed": "2026-04-29T10:25:42Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -12131,7 +12131,7 @@
           "parentId": "root-media-pixel-art"
         }
       ],
-      "stars": 1238,
+      "stars": 1246,
       "forks": 53,
       "language": null,
       "license": "CC0-1.0",
@@ -12140,7 +12140,7 @@
         "hacktoberfest",
         "pixel-art"
       ],
-      "updated": "2026-08-20T07:35:45Z",
+      "updated": "2026-08-28T00:34:58Z",
       "pushed": "2026-08-06T14:12:28Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -12937,6 +12937,32 @@
               "parentId": "root-media-ffmpeg-tutorials"
             },
             {
+              "id": "root-media-ffmpeg-tutorials-ffmpeg-cookbook",
+              "title": "FFmpeg Cookbook",
+              "kind": "link",
+              "repo": "",
+              "url": "https://ghassan-gaidi.github.io/ffmpeg-cookbook/?ref=specD2",
+              "description": "Task-first cookbook of tested ffmpeg one-liners (compress, trim, GIF, audio extraction).",
+              "external": true,
+              "sourceRepo": "transitive-bullshit/awesome-ffmpeg",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "FFmpeg",
+                "Tutorials",
+                "FFmpeg Cookbook"
+              ],
+              "parentId": "root-media-ffmpeg-tutorials"
+            },
+            {
               "id": "root-media-ffmpeg-tutorials-ffmpeg-cheatsheet-for-video-automation",
               "title": "FFmpeg Cheatsheet for Video Automation",
               "kind": "repo",
@@ -13101,7 +13127,7 @@
           "parentId": "root-media-ffmpeg"
         }
       ],
-      "stars": 1183,
+      "stars": 1187,
       "forks": 81,
       "language": null,
       "license": null,
@@ -13111,8 +13137,8 @@
         "ffmpeg",
         "fluent-ffmpeg"
       ],
-      "updated": "2026-08-21T17:36:36Z",
-      "pushed": "2025-08-09T15:39:11Z",
+      "updated": "2026-08-29T18:22:22Z",
+      "pushed": "2026-08-24T07:25:00Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -13410,8 +13436,8 @@
               "sourceRepo": "notlmn/awesome-icons",
               "depth": 2,
               "children": [],
-              "stars": 76856,
-              "forks": 12187,
+              "stars": 76892,
+              "forks": 12185,
               "language": "JavaScript",
               "license": "NOASSERTION",
               "topics": [
@@ -13423,7 +13449,7 @@
                 "svg-sprites",
                 "webfont"
               ],
-              "updated": "2026-08-23T02:01:54Z",
+              "updated": "2026-08-30T02:45:37Z",
               "pushed": "2026-07-15T18:15:53Z",
               "awesome": true,
               "path": [
@@ -14387,57 +14413,6 @@
               "parentId": "root-media-icons-other"
             },
             {
-              "id": "root-media-icons-other-paid",
-              "title": "Paid",
-              "kind": "section",
-              "sourceRepo": "notlmn/awesome-icons",
-              "depth": 2,
-              "url": "https://github.com/notlmn/awesome-icons#paid",
-              "children": [
-                {
-                  "id": "root-media-icons-other-paid-nucelo-icons",
-                  "title": "Nucelo Icons",
-                  "kind": "link",
-                  "repo": "",
-                  "url": "https://nucleoapp.com/premium-icons",
-                  "description": "A premium library of SVG icons for iOS, Android & web projects.",
-                  "external": true,
-                  "sourceRepo": "notlmn/awesome-icons",
-                  "depth": 3,
-                  "children": [],
-                  "stars": 0,
-                  "forks": 0,
-                  "language": null,
-                  "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
-                  "awesome": false,
-                  "path": [
-                    "Icons",
-                    "Other",
-                    "Paid",
-                    "Nucelo Icons"
-                  ],
-                  "parentId": "root-media-icons-other-paid"
-                }
-              ],
-              "stars": 0,
-              "forks": 0,
-              "language": null,
-              "license": null,
-              "topics": [],
-              "updated": null,
-              "pushed": null,
-              "awesome": false,
-              "path": [
-                "Icons",
-                "Other",
-                "Paid"
-              ],
-              "parentId": "root-media-icons-other"
-            },
-            {
               "id": "root-media-icons-other-frameworks",
               "title": "Frameworks",
               "kind": "section",
@@ -14585,8 +14560,8 @@
           "parentId": "root-media-icons"
         }
       ],
-      "stars": 993,
-      "forks": 60,
+      "stars": 997,
+      "forks": 62,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -14597,8 +14572,8 @@
         "icons",
         "logo"
       ],
-      "updated": "2026-08-22T20:39:11Z",
-      "pushed": "2026-07-19T19:40:19Z",
+      "updated": "2026-08-29T18:05:04Z",
+      "pushed": "2026-08-27T19:27:40Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -16453,7 +16428,7 @@
               "sourceRepo": "stingalleman/awesome-audiovisual",
               "depth": 2,
               "children": [],
-              "stars": 1770,
+              "stars": 1775,
               "forks": 101,
               "language": "Makefile",
               "license": "NOASSERTION",
@@ -16470,7 +16445,7 @@
                 "video",
                 "vst"
               ],
-              "updated": "2026-08-19T08:39:35Z",
+              "updated": "2026-08-29T00:37:38Z",
               "pushed": "2026-07-31T17:20:26Z",
               "awesome": true,
               "path": [
@@ -16853,8 +16828,8 @@
           "parentId": "root-media-audiovisual"
         }
       ],
-      "stars": 267,
-      "forks": 23,
+      "stars": 269,
+      "forks": 24,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -16865,7 +16840,7 @@
         "dmx",
         "video-processing"
       ],
-      "updated": "2026-08-15T22:32:26Z",
+      "updated": "2026-08-29T13:36:49Z",
       "pushed": "2026-07-21T21:01:32Z",
       "awesome": true,
       "readmeStatus": "expanded",

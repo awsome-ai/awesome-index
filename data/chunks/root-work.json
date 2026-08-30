@@ -1465,7 +1465,7 @@
               "parentId": "root-work-slack-communities"
             }
           ],
-          "stars": 342,
+          "stars": 343,
           "forks": 46,
           "language": null,
           "license": null,
@@ -1476,7 +1476,7 @@
             "list",
             "slack"
           ],
-          "updated": "2026-06-01T20:53:59Z",
+          "updated": "2026-08-24T14:41:27Z",
           "pushed": "2023-05-23T02:15:08Z",
           "awesome": true,
           "readmeStatus": "expanded",
@@ -1620,6 +1620,32 @@
                 "Slack Themes"
               ],
               "parentId": "root-work-slack-art-andnbsp-themes"
+            },
+            {
+              "id": "root-work-slack-art-andnbsp-themes-more-slack-themes",
+              "title": "More Slack Themes",
+              "kind": "link",
+              "repo": "",
+              "url": "https://slack.michaeldemar.co",
+              "description": "Browse, create, and share Slack themes.",
+              "external": true,
+              "sourceRepo": "matiassingers/awesome-slack",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Slack",
+                ":art: &nbsp; Themes",
+                "More Slack Themes"
+              ],
+              "parentId": "root-work-slack-art-andnbsp-themes"
             }
           ],
           "stars": 0,
@@ -1644,6 +1670,57 @@
           "depth": 1,
           "url": "https://github.com/matiassingers/awesome-slack#hammerandwrench-andnbsp-libraries-and-sdks",
           "children": [
+            {
+              "id": "root-work-slack-hammerandwrench-andnbsp-libraries-and-sdks-ballerina",
+              "title": "Ballerina",
+              "kind": "section",
+              "sourceRepo": "matiassingers/awesome-slack",
+              "depth": 2,
+              "url": "https://github.com/matiassingers/awesome-slack#ballerina",
+              "children": [
+                {
+                  "id": "root-work-slack-hammerandwrench-andnbsp-libraries-and-sdks-ballerina-ballerina-slack-library",
+                  "title": "ballerina-slack-library",
+                  "kind": "repo",
+                  "repo": "ballerina-platform/module-ballerinax-slack",
+                  "url": "https://github.com/ballerina-platform/module-ballerinax-slack",
+                  "description": "Ballerina library for Slack.",
+                  "external": false,
+                  "sourceRepo": "matiassingers/awesome-slack",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Slack",
+                    ":hammerandwrench: &nbsp; Libraries and SDKs",
+                    "Ballerina",
+                    "ballerina-slack-library"
+                  ],
+                  "parentId": "root-work-slack-hammerandwrench-andnbsp-libraries-and-sdks-ballerina"
+                }
+              ],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Slack",
+                ":hammerandwrench: &nbsp; Libraries and SDKs",
+                "Ballerina"
+              ],
+              "parentId": "root-work-slack-hammerandwrench-andnbsp-libraries-and-sdks"
+            },
             {
               "id": "root-work-slack-hammerandwrench-andnbsp-libraries-and-sdks-cand-35",
               "title": "C&#35;",
@@ -1937,6 +2014,33 @@
               "depth": 2,
               "url": "https://github.com/matiassingers/awesome-slack#javascript-typescript",
               "children": [
+                {
+                  "id": "root-work-slack-hammerandwrench-andnbsp-libraries-and-sdks-javascript-typescript-appstore-webhook-proxy",
+                  "title": "appstore-webhook-proxy",
+                  "kind": "repo",
+                  "repo": "yannisalexiou/appstore-webhook-proxy",
+                  "url": "https://github.com/yannisalexiou/appstore-webhook-proxy",
+                  "description": "App Store Webhook Proxy for Microsoft Teams & Slack.",
+                  "external": false,
+                  "sourceRepo": "matiassingers/awesome-slack",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Slack",
+                    ":hammerandwrench: &nbsp; Libraries and SDKs",
+                    "JavaScript/TypeScript",
+                    "appstore-webhook-proxy"
+                  ],
+                  "parentId": "root-work-slack-hammerandwrench-andnbsp-libraries-and-sdks-javascript-typescript"
+                },
                 {
                   "id": "root-work-slack-hammerandwrench-andnbsp-libraries-and-sdks-javascript-typescript-bolt-js",
                   "title": "bolt-js",
@@ -3251,6 +3355,33 @@
                   "parentId": "root-work-slack-gear-andnbsp-open-source-slack-apps-and-integrations-javascript-typescript"
                 },
                 {
+                  "id": "root-work-slack-gear-andnbsp-open-source-slack-apps-and-integrations-javascript-typescript-slackonos",
+                  "title": "SlackONOS",
+                  "kind": "repo",
+                  "repo": "htilly/slackonos",
+                  "url": "https://github.com/htilly/slackonos",
+                  "description": "Democratic Slack and Discord bot for Sonos speaker control with Spotify integration.",
+                  "external": false,
+                  "sourceRepo": "matiassingers/awesome-slack",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Slack",
+                    ":gear: &nbsp; Open-Source Slack Apps and Integrations",
+                    "JavaScript/Typescript",
+                    "SlackONOS"
+                  ],
+                  "parentId": "root-work-slack-gear-andnbsp-open-source-slack-apps-and-integrations-javascript-typescript"
+                },
+                {
                   "id": "root-work-slack-gear-andnbsp-open-source-slack-apps-and-integrations-javascript-typescript-tesla-slack",
                   "title": "tesla-slack",
                   "kind": "repo",
@@ -3645,6 +3776,33 @@
                     "trebekbot"
                   ],
                   "parentId": "root-work-slack-gear-andnbsp-open-source-slack-apps-and-integrations-ruby"
+                },
+                {
+                  "id": "root-work-slack-gear-andnbsp-open-source-slack-apps-and-integrations-ruby-zreviewtender",
+                  "title": "ZReviewTender",
+                  "kind": "repo",
+                  "repo": "zhgchgli/zreviewtender",
+                  "url": "https://github.com/zhgchgli/zreviewtender",
+                  "description": "A tool for fetching app reviews from the App Store and Google Play Console and sending them to Slack.",
+                  "external": false,
+                  "sourceRepo": "matiassingers/awesome-slack",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Slack",
+                    ":gear: &nbsp; Open-Source Slack Apps and Integrations",
+                    "Ruby",
+                    "ZReviewTender"
+                  ],
+                  "parentId": "root-work-slack-gear-andnbsp-open-source-slack-apps-and-integrations-ruby"
                 }
               ],
               "stars": 0,
@@ -3722,7 +3880,7 @@
           "parentId": "root-work-slack"
         }
       ],
-      "stars": 892,
+      "stars": 893,
       "forks": 93,
       "language": null,
       "license": null,
@@ -3732,8 +3890,8 @@
         "list",
         "slack"
       ],
-      "updated": "2026-08-20T02:47:21Z",
-      "pushed": "2025-07-28T12:38:16Z",
+      "updated": "2026-08-29T10:08:20Z",
+      "pushed": "2026-08-29T10:12:36Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -4470,8 +4628,8 @@
           "parentId": "root-work-remote-jobs"
         }
       ],
-      "stars": 47903,
-      "forks": 4751,
+      "stars": 48227,
+      "forks": 4774,
       "language": null,
       "license": null,
       "topics": [
@@ -4479,7 +4637,7 @@
         "awesome-list",
         "list"
       ],
-      "updated": "2026-08-23T03:03:24Z",
+      "updated": "2026-08-30T07:59:16Z",
       "pushed": "2026-08-16T19:35:44Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -6409,12 +6567,12 @@
                   "sourceRepo": "jyguyomarch/awesome-productivity",
                   "depth": 3,
                   "children": [],
-                  "stars": 3070,
-                  "forks": 279,
+                  "stars": 3072,
+                  "forks": 280,
                   "language": null,
                   "license": null,
                   "topics": [],
-                  "updated": "2026-08-22T16:42:46Z",
+                  "updated": "2026-08-28T17:11:39Z",
                   "pushed": "2023-01-24T23:51:33Z",
                   "awesome": true,
                   "path": [
@@ -6961,8 +7119,8 @@
           "parentId": "root-work-productivity"
         }
       ],
-      "stars": 3332,
-      "forks": 338,
+      "stars": 3335,
+      "forks": 342,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -6971,7 +7129,7 @@
         "list",
         "productivity"
       ],
-      "updated": "2026-08-21T20:01:24Z",
+      "updated": "2026-08-27T20:35:19Z",
       "pushed": "2024-08-14T18:07:32Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -7716,7 +7874,7 @@
           "parentId": "root-work-niche-job-boards"
         }
       ],
-      "stars": 1848,
+      "stars": 1852,
       "forks": 266,
       "language": null,
       "license": null,
@@ -7727,7 +7885,7 @@
         "jobs",
         "list"
       ],
-      "updated": "2026-08-23T01:26:52Z",
+      "updated": "2026-08-28T19:52:22Z",
       "pushed": "2026-07-29T12:55:40Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -9497,7 +9655,7 @@
           "parentId": "root-work-code-review"
         }
       ],
-      "stars": 5129,
+      "stars": 5135,
       "forks": 387,
       "language": null,
       "license": null,
@@ -9507,7 +9665,7 @@
         "code-review",
         "code-reviews"
       ],
-      "updated": "2026-08-21T06:26:40Z",
+      "updated": "2026-08-29T09:06:55Z",
       "pushed": "2024-09-09T03:44:53Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -9778,7 +9936,7 @@
         "awesome",
         "awesome-list"
       ],
-      "updated": "2026-08-21T15:25:36Z",
+      "updated": "2026-08-29T03:13:16Z",
       "pushed": "2026-06-28T16:28:49Z",
       "awesome": true,
       "readmeStatus": "expanded",

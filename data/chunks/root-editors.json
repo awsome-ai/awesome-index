@@ -17440,33 +17440,6 @@
                   "parentId": "root-editors-neovim-colorscheme-colorscheme-switchers"
                 },
                 {
-                  "id": "root-editors-neovim-colorscheme-colorscheme-switchers-brunociccarino-gardenal",
-                  "title": "BrunoCiccarino/gardenal",
-                  "kind": "repo",
-                  "repo": "brunociccarino/gardenal",
-                  "url": "https://github.com/brunociccarino/gardenal",
-                  "description": "Gardenal is a theme switcher, which allows the user to create keyboard shortcuts to switch between themes with one click.",
-                  "external": false,
-                  "sourceRepo": "rockerboo/awesome-neovim",
-                  "depth": 3,
-                  "children": [],
-                  "stars": 0,
-                  "forks": 0,
-                  "language": null,
-                  "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
-                  "awesome": false,
-                  "path": [
-                    "Neovim",
-                    "Colorscheme",
-                    "Colorscheme Switchers",
-                    "BrunoCiccarino/gardenal"
-                  ],
-                  "parentId": "root-editors-neovim-colorscheme-colorscheme-switchers"
-                },
-                {
                   "id": "root-editors-neovim-colorscheme-colorscheme-switchers-lmantw-themify-nvim",
                   "title": "LmanTW/themify.nvim",
                   "kind": "repo",
@@ -25365,11 +25338,11 @@
               "parentId": "root-editors-neovim-code-runner"
             },
             {
-              "id": "root-editors-neovim-code-runner-mikeboiko-nvim-flow",
-              "title": "mikeboiko/nvim-flow",
+              "id": "root-editors-neovim-code-runner-bytehound-labs-nvim-flow",
+              "title": "bytehound-labs/nvim-flow",
               "kind": "repo",
-              "repo": "mikeboiko/nvim-flow",
-              "url": "https://github.com/mikeboiko/nvim-flow",
+              "repo": "bytehound-labs/nvim-flow",
+              "url": "https://github.com/bytehound-labs/nvim-flow",
               "description": "File-scoped command runner with YAML configuration, command preview, debug integration, and traceback quickfix.",
               "external": false,
               "sourceRepo": "rockerboo/awesome-neovim",
@@ -25386,7 +25359,7 @@
               "path": [
                 "Neovim",
                 "Code Runner",
-                "mikeboiko/nvim-flow"
+                "bytehound-labs/nvim-flow"
               ],
               "parentId": "root-editors-neovim-code-runner"
             },
@@ -36130,33 +36103,6 @@
                   "parentId": "root-editors-neovim-game-competitive-programming"
                 },
                 {
-                  "id": "root-editors-neovim-game-competitive-programming-barrettruth-cp-nvim",
-                  "title": "barrettruth/cp.nvim",
-                  "kind": "repo",
-                  "repo": "barrettruth/cp.nvim",
-                  "url": "https://github.com/barrettruth/cp.nvim",
-                  "description": "Competitive programming workflow for popular contest platforms (CodeForces, CSES, etc.) Includes automatic test scraping, I/O view, and diff panel.",
-                  "external": false,
-                  "sourceRepo": "rockerboo/awesome-neovim",
-                  "depth": 3,
-                  "children": [],
-                  "stars": 0,
-                  "forks": 0,
-                  "language": null,
-                  "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
-                  "awesome": false,
-                  "path": [
-                    "Neovim",
-                    "Game",
-                    "Competitive Programming",
-                    "barrettruth/cp.nvim"
-                  ],
-                  "parentId": "root-editors-neovim-game-competitive-programming"
-                },
-                {
                   "id": "root-editors-neovim-game-competitive-programming-kawre-leetcode-nvim",
                   "title": "kawre/leetcode.nvim",
                   "kind": "repo",
@@ -37007,32 +36953,6 @@
               "parentId": "root-editors-neovim-database"
             },
             {
-              "id": "root-editors-neovim-database-zerochae-dbab-nvim",
-              "title": "zerochae/dbab.nvim",
-              "kind": "repo",
-              "repo": "zerochae/dbab.nvim",
-              "url": "https://github.com/zerochae/dbab.nvim",
-              "description": "Lightweight database client with a modern UI and async execution.",
-              "external": false,
-              "sourceRepo": "rockerboo/awesome-neovim",
-              "depth": 2,
-              "children": [],
-              "stars": 0,
-              "forks": 0,
-              "language": null,
-              "license": null,
-              "topics": [],
-              "updated": null,
-              "pushed": null,
-              "awesome": false,
-              "path": [
-                "Neovim",
-                "Database",
-                "zerochae/dbab.nvim"
-              ],
-              "parentId": "root-editors-neovim-database"
-            },
-            {
               "id": "root-editors-neovim-database-joryeugene-dadbod-grip-nvim",
               "title": "joryeugene/dadbod-grip.nvim",
               "kind": "repo",
@@ -37550,32 +37470,6 @@
               "parentId": "root-editors-neovim-pre-made-configuration"
             },
             {
-              "id": "root-editors-neovim-pre-made-configuration-shaeinst-roshnivim",
-              "title": "shaeinst/roshnivim",
-              "kind": "repo",
-              "repo": "shaeinst/roshnivim",
-              "url": "https://github.com/shaeinst/roshnivim",
-              "description": "A predefined config to save you thousands of hours to setup your editor as an IDE.",
-              "external": false,
-              "sourceRepo": "rockerboo/awesome-neovim",
-              "depth": 2,
-              "children": [],
-              "stars": 0,
-              "forks": 0,
-              "language": null,
-              "license": null,
-              "topics": [],
-              "updated": null,
-              "pushed": null,
-              "awesome": false,
-              "path": [
-                "Neovim",
-                "Pre-made Configuration",
-                "shaeinst/roshnivim"
-              ],
-              "parentId": "root-editors-neovim-pre-made-configuration"
-            },
-            {
               "id": "root-editors-neovim-pre-made-configuration-astronvim-astronvim",
               "title": "AstroNvim/AstroNvim",
               "kind": "repo",
@@ -37598,32 +37492,6 @@
                 "Neovim",
                 "Pre-made Configuration",
                 "AstroNvim/AstroNvim"
-              ],
-              "parentId": "root-editors-neovim-pre-made-configuration"
-            },
-            {
-              "id": "root-editors-neovim-pre-made-configuration-shaunsingh-nyoom-nvim",
-              "title": "shaunsingh/nyoom.nvim",
-              "kind": "repo",
-              "repo": "shaunsingh/nyoom.nvim",
-              "url": "https://github.com/shaunsingh/nyoom.nvim",
-              "description": "Blazing fast, configurable, minimal and \"lispy\" config written in Fennel.",
-              "external": false,
-              "sourceRepo": "rockerboo/awesome-neovim",
-              "depth": 2,
-              "children": [],
-              "stars": 0,
-              "forks": 0,
-              "language": null,
-              "license": null,
-              "topics": [],
-              "updated": null,
-              "pushed": null,
-              "awesome": false,
-              "path": [
-                "Neovim",
-                "Pre-made Configuration",
-                "shaunsingh/nyoom.nvim"
               ],
               "parentId": "root-editors-neovim-pre-made-configuration"
             },
@@ -38562,7 +38430,7 @@
                   "sourceRepo": "rockerboo/awesome-neovim",
                   "depth": 3,
                   "children": [],
-                  "stars": 62,
+                  "stars": 64,
                   "forks": 11,
                   "language": "Nix",
                   "license": "BSD-3-Clause",
@@ -38570,8 +38438,8 @@
                     "neovim-plugins",
                     "nix-flake"
                   ],
-                  "updated": "2026-08-22T17:48:30Z",
-                  "pushed": "2026-08-22T17:48:04Z",
+                  "updated": "2026-08-29T19:54:52Z",
+                  "pushed": "2026-08-29T19:51:35Z",
                   "awesome": true,
                   "path": [
                     "Neovim",
@@ -39248,15 +39116,15 @@
               "sourceRepo": "rockerboo/awesome-neovim",
               "depth": 2,
               "children": [],
-              "stars": 2125,
-              "forks": 143,
+              "stars": 2129,
+              "forks": 144,
               "language": null,
               "license": "MIT",
               "topics": [
                 "awesome",
                 "vim"
               ],
-              "updated": "2026-08-20T08:56:14Z",
+              "updated": "2026-08-28T14:32:27Z",
               "pushed": "2025-06-06T18:42:55Z",
               "awesome": true,
               "path": [
@@ -39464,8 +39332,8 @@
           "parentId": "root-editors-neovim"
         }
       ],
-      "stars": 21301,
-      "forks": 1044,
+      "stars": 21327,
+      "forks": 1046,
       "language": "Shell",
       "license": "CC0-1.0",
       "topics": [
@@ -39475,8 +39343,8 @@
         "neovim-plugins",
         "nvim-lua"
       ],
-      "updated": "2026-08-23T01:51:13Z",
-      "pushed": "2026-08-20T11:59:28Z",
+      "updated": "2026-08-30T07:55:58Z",
+      "pushed": "2026-08-29T15:56:30Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -39495,16 +39363,16 @@
       "sourceRepo": "sindresorhus/awesome",
       "depth": 1,
       "children": [],
-      "stars": 9363,
-      "forks": 599,
+      "stars": 9370,
+      "forks": 600,
       "language": null,
       "license": "Unlicense",
       "topics": [
         "awesome-list",
         "emacs"
       ],
-      "updated": "2026-08-22T15:03:19Z",
-      "pushed": "2026-05-13T04:32:20Z",
+      "updated": "2026-08-29T18:12:59Z",
+      "pushed": "2026-08-28T19:15:40Z",
       "awesome": true,
       "readmeStatus": "empty",
       "path": [
@@ -45974,8 +45842,8 @@
           "parentId": "root-editors-visual-studio-code"
         }
       ],
-      "stars": 28965,
-      "forks": 1408,
+      "stars": 28986,
+      "forks": 1414,
       "language": "JavaScript",
       "license": "CC0-1.0",
       "topics": [
@@ -45991,7 +45859,7 @@
         "vscode-extension",
         "vscode-theme"
       ],
-      "updated": "2026-08-22T19:01:40Z",
+      "updated": "2026-08-30T01:48:19Z",
       "pushed": "2026-06-21T09:36:55Z",
       "awesome": true,
       "readmeStatus": "expanded",

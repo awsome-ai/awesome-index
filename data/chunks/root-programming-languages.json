@@ -293,12 +293,12 @@
               "parentId": "root-programming-languages-javascript-promises"
             }
           ],
-          "stars": 1750,
+          "stars": 1751,
           "forks": 121,
           "language": null,
           "license": "CC0-1.0",
           "topics": [],
-          "updated": "2026-08-22T18:28:19Z",
+          "updated": "2026-08-28T10:32:49Z",
           "pushed": "2023-12-15T08:38:32Z",
           "awesome": true,
           "readmeStatus": "expanded",
@@ -2127,12 +2127,12 @@
               "parentId": "root-programming-languages-javascript-network-layer"
             }
           ],
-          "stars": 582,
+          "stars": 583,
           "forks": 26,
           "language": null,
           "license": "CC0-1.0",
           "topics": [],
-          "updated": "2026-08-15T08:34:07Z",
+          "updated": "2026-08-30T00:04:45Z",
           "pushed": "2020-10-12T15:05:25Z",
           "awesome": true,
           "readmeStatus": "expanded",
@@ -2679,11 +2679,11 @@
             }
           ],
           "stars": 4624,
-          "forks": 454,
+          "forks": 455,
           "language": null,
           "license": "MIT",
           "topics": [],
-          "updated": "2026-08-16T08:22:07Z",
+          "updated": "2026-08-26T07:47:56Z",
           "pushed": "2023-12-18T13:25:02Z",
           "awesome": true,
           "readmeStatus": "expanded",
@@ -8484,8 +8484,8 @@
                   "sourceRepo": "sindresorhus/awesome-npm",
                   "depth": 3,
                   "children": [],
-                  "stars": 66593,
-                  "forks": 6228,
+                  "stars": 66655,
+                  "forks": 6231,
                   "language": null,
                   "license": "CC0-1.0",
                   "topics": [
@@ -8496,7 +8496,7 @@
                     "node",
                     "nodejs"
                   ],
-                  "updated": "2026-08-23T03:01:24Z",
+                  "updated": "2026-08-30T05:30:20Z",
                   "pushed": "2026-05-03T08:24:10Z",
                   "awesome": true,
                   "path": [
@@ -8524,7 +8524,7 @@
               "parentId": "root-programming-languages-javascript-npm"
             }
           ],
-          "stars": 4734,
+          "stars": 4738,
           "forks": 280,
           "language": null,
           "license": "CC0-1.0",
@@ -8538,7 +8538,7 @@
             "package-manager",
             "yarn"
           ],
-          "updated": "2026-08-21T06:27:13Z",
+          "updated": "2026-08-30T01:55:09Z",
           "pushed": "2026-04-20T12:11:28Z",
           "awesome": true,
           "readmeStatus": "expanded",
@@ -17196,8 +17196,8 @@
               "parentId": "root-programming-languages-javascript-eslint"
             }
           ],
-          "stars": 4749,
-          "forks": 251,
+          "stars": 4751,
+          "forks": 252,
           "language": null,
           "license": "CC0-1.0",
           "topics": [
@@ -17206,7 +17206,7 @@
             "eslint",
             "list"
           ],
-          "updated": "2026-08-20T22:04:08Z",
+          "updated": "2026-08-29T17:47:48Z",
           "pushed": "2026-05-13T23:09:36Z",
           "awesome": true,
           "readmeStatus": "expanded",
@@ -18233,8 +18233,8 @@
                   "sourceRepo": "sindresorhus/awesome-observables",
                   "depth": 3,
                   "children": [],
-                  "stars": 66593,
-                  "forks": 6228,
+                  "stars": 66655,
+                  "forks": 6231,
                   "language": null,
                   "license": "CC0-1.0",
                   "topics": [
@@ -18245,7 +18245,7 @@
                     "node",
                     "nodejs"
                   ],
-                  "updated": "2026-08-23T03:01:24Z",
+                  "updated": "2026-08-30T05:30:20Z",
                   "pushed": "2026-05-03T08:24:10Z",
                   "awesome": true,
                   "path": [
@@ -18273,7 +18273,7 @@
               "parentId": "root-programming-languages-javascript-observables"
             }
           ],
-          "stars": 352,
+          "stars": 353,
           "forks": 15,
           "language": null,
           "license": "CC0-1.0",
@@ -18284,7 +18284,7 @@
             "list",
             "observables"
           ],
-          "updated": "2026-08-01T19:46:14Z",
+          "updated": "2026-08-24T14:36:16Z",
           "pushed": "2021-10-13T14:23:18Z",
           "awesome": true,
           "readmeStatus": "expanded",
@@ -23496,12 +23496,12 @@
           "parentId": "root-programming-languages-javascript"
         }
       ],
-      "stars": 35017,
-      "forks": 4550,
+      "stars": 35025,
+      "forks": 4555,
       "language": null,
       "license": null,
       "topics": [],
-      "updated": "2026-08-22T22:59:19Z",
+      "updated": "2026-08-30T05:09:12Z",
       "pushed": "2026-08-19T17:00:42Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -23532,8 +23532,8 @@
           "sourceRepo": "sindresorhus/awesome",
           "depth": 2,
           "children": [],
-          "stars": 5792,
-          "forks": 469,
+          "stars": 5796,
+          "forks": 470,
           "language": null,
           "license": "MIT",
           "topics": [
@@ -23542,7 +23542,7 @@
             "swift",
             "swift-education"
           ],
-          "updated": "2026-08-20T14:12:05Z",
+          "updated": "2026-08-29T16:37:03Z",
           "pushed": "2018-07-01T21:46:06Z",
           "awesome": true,
           "readmeStatus": "empty",
@@ -24247,7 +24247,7 @@
             "swift3",
             "swift4"
           ],
-          "updated": "2026-08-20T07:25:47Z",
+          "updated": "2026-08-30T04:13:49Z",
           "pushed": "2026-04-02T08:35:32Z",
           "awesome": true,
           "readmeStatus": "expanded",
@@ -27610,8 +27610,8 @@
           "parentId": "root-programming-languages-swift"
         }
       ],
-      "stars": 26220,
-      "forks": 3140,
+      "stars": 26234,
+      "forks": 3141,
       "language": "Ruby",
       "license": "CC0-1.0",
       "topics": [
@@ -27629,7 +27629,7 @@
         "swift-language",
         "swift-library"
       ],
-      "updated": "2026-08-23T01:48:13Z",
+      "updated": "2026-08-29T23:27:12Z",
       "pushed": "2026-08-03T13:15:16Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -27914,7 +27914,7 @@
               "parentId": "root-programming-languages-python-asyncio"
             }
           ],
-          "stars": 5117,
+          "stars": 5123,
           "forks": 356,
           "language": null,
           "license": "NOASSERTION",
@@ -27927,7 +27927,7 @@
             "python",
             "python-asyncio"
           ],
-          "updated": "2026-08-21T16:46:58Z",
+          "updated": "2026-08-30T02:43:26Z",
           "pushed": "2025-12-01T14:19:00Z",
           "awesome": true,
           "readmeStatus": "expanded",
@@ -28475,7 +28475,7 @@
               "parentId": "root-programming-languages-python-scientific-audio"
             }
           ],
-          "stars": 1707,
+          "stars": 1708,
           "forks": 185,
           "language": null,
           "license": null,
@@ -28484,7 +28484,7 @@
             "awesome-list",
             "python"
           ],
-          "updated": "2026-08-20T20:41:16Z",
+          "updated": "2026-08-30T07:53:10Z",
           "pushed": "2026-06-11T16:45:13Z",
           "awesome": true,
           "readmeStatus": "expanded",
@@ -32673,7 +32673,7 @@
               "parentId": "root-programming-languages-python-circuitpython"
             }
           ],
-          "stars": 741,
+          "stars": 742,
           "forks": 72,
           "language": null,
           "license": null,
@@ -32687,7 +32687,7 @@
             "micropython",
             "python"
           ],
-          "updated": "2026-08-21T03:22:51Z",
+          "updated": "2026-08-28T23:43:22Z",
           "pushed": "2025-07-21T21:15:02Z",
           "awesome": true,
           "readmeStatus": "expanded",
@@ -33908,8 +33908,8 @@
               "parentId": "root-programming-languages-python-data-science"
             }
           ],
-          "stars": 3567,
-          "forks": 459,
+          "stars": 3574,
+          "forks": 461,
           "language": null,
           "license": "CC-BY-4.0",
           "topics": [
@@ -33925,7 +33925,7 @@
             "scikit-learn",
             "statistics"
           ],
-          "updated": "2026-08-21T13:29:45Z",
+          "updated": "2026-08-28T13:57:18Z",
           "pushed": "2026-04-13T07:15:05Z",
           "awesome": true,
           "readmeStatus": "expanded",
@@ -38002,8 +38002,8 @@
                   "sourceRepo": "typeddjango/awesome-python-typing",
                   "depth": 3,
                   "children": [],
-                  "stars": 315548,
-                  "forks": 28557,
+                  "stars": 317077,
+                  "forks": 28610,
                   "language": "Python",
                   "license": "NOASSERTION",
                   "topics": [
@@ -38014,8 +38014,8 @@
                     "python-libraries",
                     "python-tools"
                   ],
-                  "updated": "2026-08-23T02:56:07Z",
-                  "pushed": "2026-08-22T18:07:56Z",
+                  "updated": "2026-08-30T07:57:36Z",
+                  "pushed": "2026-08-25T04:08:40Z",
                   "awesome": true,
                   "path": [
                     "Python",
@@ -38096,7 +38096,7 @@
               "parentId": "root-programming-languages-python-typing"
             }
           ],
-          "stars": 1978,
+          "stars": 1980,
           "forks": 77,
           "language": null,
           "license": "CC-BY-SA-4.0",
@@ -38112,7 +38112,7 @@
             "python-stubs",
             "python-types"
           ],
-          "updated": "2026-08-21T07:57:38Z",
+          "updated": "2026-08-29T17:54:50Z",
           "pushed": "2026-06-19T06:03:10Z",
           "awesome": true,
           "readmeStatus": "expanded",
@@ -41782,7 +41782,7 @@
               "parentId": "root-programming-languages-python-micropython"
             }
           ],
-          "stars": 1802,
+          "stars": 1803,
           "forks": 220,
           "language": "HTML",
           "license": "CC0-1.0",
@@ -41792,7 +41792,7 @@
             "collection",
             "micropython"
           ],
-          "updated": "2026-08-22T12:24:24Z",
+          "updated": "2026-08-29T12:27:37Z",
           "pushed": "2026-07-20T04:42:59Z",
           "awesome": true,
           "readmeStatus": "expanded",
@@ -44329,6 +44329,62 @@
                         "mem0"
                       ],
                       "parentId": "root-programming-languages-python-projects-ai-and-agents-data-layer"
+                    },
+                    {
+                      "id": "root-programming-languages-python-projects-ai-and-agents-data-layer-openviking",
+                      "title": "openviking",
+                      "kind": "repo",
+                      "repo": "volcengine/openviking",
+                      "url": "https://github.com/volcengine/openviking",
+                      "description": "A context database for AI agents that unifies memory, resources, and skills.",
+                      "external": false,
+                      "sourceRepo": "vinta/awesome-python",
+                      "depth": 4,
+                      "children": [],
+                      "stars": 0,
+                      "forks": 0,
+                      "language": null,
+                      "license": null,
+                      "topics": [],
+                      "updated": null,
+                      "pushed": null,
+                      "awesome": false,
+                      "path": [
+                        "Python",
+                        "Projects",
+                        "AI and Agents",
+                        "Data Layer",
+                        "openviking"
+                      ],
+                      "parentId": "root-programming-languages-python-projects-ai-and-agents-data-layer"
+                    },
+                    {
+                      "id": "root-programming-languages-python-projects-ai-and-agents-data-layer-semantica",
+                      "title": "semantica",
+                      "kind": "repo",
+                      "repo": "semantica-agi/semantica",
+                      "url": "https://github.com/semantica-agi/semantica",
+                      "description": "A graph-native context and knowledge layer for AI agents with reasoning, provenance, and governance.",
+                      "external": false,
+                      "sourceRepo": "vinta/awesome-python",
+                      "depth": 4,
+                      "children": [],
+                      "stars": 0,
+                      "forks": 0,
+                      "language": null,
+                      "license": null,
+                      "topics": [],
+                      "updated": null,
+                      "pushed": null,
+                      "awesome": false,
+                      "path": [
+                        "Python",
+                        "Projects",
+                        "AI and Agents",
+                        "Data Layer",
+                        "semantica"
+                      ],
+                      "parentId": "root-programming-languages-python-projects-ai-and-agents-data-layer"
                     }
                   ],
                   "stars": 0,
@@ -46117,7 +46173,7 @@
                           "sourceRepo": "vinta/awesome-python",
                           "depth": 5,
                           "children": [],
-                          "stars": 12751,
+                          "stars": 12757,
                           "forks": 1570,
                           "language": null,
                           "license": "CC0-1.0",
@@ -46128,7 +46184,7 @@
                             "flask-resources",
                             "python"
                           ],
-                          "updated": "2026-08-23T02:06:33Z",
+                          "updated": "2026-08-28T20:31:11Z",
                           "pushed": "2026-08-17T02:06:31Z",
                           "awesome": true,
                           "path": [
@@ -46181,7 +46237,7 @@
                           "sourceRepo": "vinta/awesome-python",
                           "depth": 5,
                           "children": [],
-                          "stars": 11206,
+                          "stars": 11224,
                           "forks": 1470,
                           "language": "Python",
                           "license": "CC0-1.0",
@@ -46190,7 +46246,7 @@
                             "awesome-list",
                             "django"
                           ],
-                          "updated": "2026-08-23T02:09:03Z",
+                          "updated": "2026-08-29T05:48:47Z",
                           "pushed": "2026-08-18T13:46:11Z",
                           "awesome": true,
                           "path": [
@@ -46329,7 +46385,7 @@
                           "sourceRepo": "vinta/awesome-python",
                           "depth": 5,
                           "children": [],
-                          "stars": 83,
+                          "stars": 84,
                           "forks": 8,
                           "language": "Python",
                           "license": null,
@@ -46339,7 +46395,7 @@
                             "python",
                             "python3"
                           ],
-                          "updated": "2026-07-12T08:35:35Z",
+                          "updated": "2026-08-28T15:39:20Z",
                           "pushed": "2024-09-08T18:40:33Z",
                           "awesome": true,
                           "path": [
@@ -49868,6 +49924,33 @@
                   "parentId": "root-programming-languages-python-projects-caching"
                 },
                 {
+                  "id": "root-programming-languages-python-projects-caching-hishel",
+                  "title": "hishel",
+                  "kind": "repo",
+                  "repo": "karpetrosyan/hishel",
+                  "url": "https://github.com/karpetrosyan/hishel",
+                  "description": "RFC 9111 compliant HTTP caching for httpx and requests, with sync and async support.",
+                  "external": false,
+                  "sourceRepo": "vinta/awesome-python",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Python",
+                    "Projects",
+                    "Caching",
+                    "hishel"
+                  ],
+                  "parentId": "root-programming-languages-python-projects-caching"
+                },
+                {
                   "id": "root-programming-languages-python-projects-caching-dogpile-cache",
                   "title": "dogpile.cache",
                   "kind": "repo",
@@ -52396,8 +52479,8 @@
                       "sourceRepo": "vinta/awesome-python",
                       "depth": 4,
                       "children": [],
-                      "stars": 4662,
-                      "forks": 463,
+                      "stars": 4663,
+                      "forks": 462,
                       "language": null,
                       "license": "CC-BY-SA-4.0",
                       "topics": [
@@ -52415,8 +52498,8 @@
                         "python",
                         "visualization"
                       ],
-                      "updated": "2026-08-23T02:49:47Z",
-                      "pushed": "2026-08-22T23:59:36Z",
+                      "updated": "2026-08-29T17:50:51Z",
+                      "pushed": "2026-08-28T23:57:55Z",
                       "awesome": true,
                       "path": [
                         "Python",
@@ -53264,8 +53347,8 @@
                           "sourceRepo": "vinta/awesome-python",
                           "depth": 5,
                           "children": [],
-                          "stars": 573,
-                          "forks": 65,
+                          "stars": 575,
+                          "forks": 67,
                           "language": null,
                           "license": null,
                           "topics": [
@@ -53277,7 +53360,7 @@
                             "python",
                             "testing"
                           ],
-                          "updated": "2026-07-31T05:21:34Z",
+                          "updated": "2026-08-29T02:41:31Z",
                           "pushed": "2026-06-24T17:41:32Z",
                           "awesome": true,
                           "path": [
@@ -60921,7 +61004,7 @@
                           "sourceRepo": "vinta/awesome-python",
                           "depth": 5,
                           "children": [],
-                          "stars": 5117,
+                          "stars": 5123,
                           "forks": 356,
                           "language": null,
                           "license": "NOASSERTION",
@@ -60934,7 +61017,7 @@
                             "python",
                             "python-asyncio"
                           ],
-                          "updated": "2026-08-21T16:46:58Z",
+                          "updated": "2026-08-30T02:43:26Z",
                           "pushed": "2025-12-01T14:19:00Z",
                           "awesome": true,
                           "path": [
@@ -63391,8 +63474,8 @@
           "parentId": "root-programming-languages-python"
         }
       ],
-      "stars": 315548,
-      "forks": 28557,
+      "stars": 317077,
+      "forks": 28610,
       "language": "Python",
       "license": "NOASSERTION",
       "topics": [
@@ -63403,8 +63486,8 @@
         "python-libraries",
         "python-tools"
       ],
-      "updated": "2026-08-23T02:56:07Z",
-      "pushed": "2026-08-22T18:07:56Z",
+      "updated": "2026-08-30T07:57:36Z",
+      "pushed": "2026-08-25T04:08:40Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -64862,7 +64945,7 @@
               "parentId": "root-programming-languages-rust-pest"
             }
           ],
-          "stars": 151,
+          "stars": 153,
           "forks": 13,
           "language": null,
           "license": "CC0-1.0",
@@ -64876,7 +64959,7 @@
             "pest",
             "rust"
           ],
-          "updated": "2026-08-09T03:29:59Z",
+          "updated": "2026-08-29T21:02:49Z",
           "pushed": "2026-08-08T11:20:07Z",
           "awesome": true,
           "readmeStatus": "expanded",
@@ -67467,16 +67550,16 @@
           "parentId": "root-programming-languages-rust"
         }
       ],
-      "stars": 58945,
-      "forks": 3556,
+      "stars": 59053,
+      "forks": 3570,
       "language": "Rust",
       "license": "CC0-1.0",
       "topics": [
         "awesome",
         "rust"
       ],
-      "updated": "2026-08-23T02:32:59Z",
-      "pushed": "2026-08-22T14:37:29Z",
+      "updated": "2026-08-30T05:30:48Z",
+      "pushed": "2026-08-29T15:01:55Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -68405,7 +68488,7 @@
       "language": "Python",
       "license": null,
       "topics": [],
-      "updated": "2026-08-17T07:16:17Z",
+      "updated": "2026-08-30T05:51:01Z",
       "pushed": "2026-08-03T08:39:39Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -70965,7 +71048,7 @@
               "kind": "repo",
               "repo": "agenticenv/agent-sdk-go",
               "url": "https://github.com/agenticenv/agent-sdk-go",
-              "description": "Go SDK for building durable AI agents on Temporal with support for tools, MCP, human approvals, and sub-agent delegation.",
+              "description": "Framework for building stateful AI agents in Go.",
               "external": false,
               "sourceRepo": "avelino/awesome-go",
               "depth": 2,
@@ -71034,6 +71117,32 @@
                 "Go",
                 "Artificial Intelligence",
                 "ai"
+              ],
+              "parentId": "root-programming-languages-go-artificial-intelligence"
+            },
+            {
+              "id": "root-programming-languages-go-artificial-intelligence-ai-gateway",
+              "title": "ai-gateway",
+              "kind": "repo",
+              "repo": "ferro-labs/ai-gateway",
+              "url": "https://github.com/ferro-labs/ai-gateway",
+              "description": "OpenAI-compatible LLM gateway that routes requests across 30 providers with fallback, rate limiting, budgets, guardrails, and observability.",
+              "external": false,
+              "sourceRepo": "avelino/awesome-go",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Go",
+                "Artificial Intelligence",
+                "ai-gateway"
               ],
               "parentId": "root-programming-languages-go-artificial-intelligence"
             },
@@ -73960,6 +74069,32 @@
                 "Go",
                 "Bot Building",
                 "telebot"
+              ],
+              "parentId": "root-programming-languages-go-bot-building"
+            },
+            {
+              "id": "root-programming-languages-go-bot-building-teleflow",
+              "title": "teleflow",
+              "kind": "repo",
+              "repo": "kslamph/teleflow",
+              "url": "https://github.com/kslamph/teleflow",
+              "description": "Simple, type-safe Telegram bot framework with fluent flows and automatic state management.",
+              "external": false,
+              "sourceRepo": "avelino/awesome-go",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Go",
+                "Bot Building",
+                "teleflow"
               ],
               "parentId": "root-programming-languages-go-bot-building"
             },
@@ -93905,6 +94040,84 @@
               "parentId": "root-programming-languages-go-financial"
             },
             {
+              "id": "root-programming-languages-go-financial-bingx-go",
+              "title": "bingx-go",
+              "kind": "repo",
+              "repo": "tigusigalpa/bingx-go",
+              "url": "https://github.com/tigusigalpa/bingx-go",
+              "description": "Go client for BingX API v3 with 260+ methods, USDT-M/Coin-M futures, spot, TradFi, WebSocket streams, and copy trading.",
+              "external": false,
+              "sourceRepo": "avelino/awesome-go",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Go",
+                "Financial",
+                "bingx-go"
+              ],
+              "parentId": "root-programming-languages-go-financial"
+            },
+            {
+              "id": "root-programming-languages-go-financial-bitget-go",
+              "title": "bitget-go",
+              "kind": "repo",
+              "repo": "tigusigalpa/bitget-go",
+              "url": "https://github.com/tigusigalpa/bitget-go",
+              "description": "Go client for Bitget UTA API v3 with typed models, string-based prices, auto-reconnecting WebSocket, and demo trading.",
+              "external": false,
+              "sourceRepo": "avelino/awesome-go",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Go",
+                "Financial",
+                "bitget-go"
+              ],
+              "parentId": "root-programming-languages-go-financial"
+            },
+            {
+              "id": "root-programming-languages-go-financial-bybit-go",
+              "title": "bybit-go",
+              "kind": "repo",
+              "repo": "tigusigalpa/bybit-go",
+              "url": "https://github.com/tigusigalpa/bybit-go",
+              "description": "Go client for Bybit V5 API with HMAC/RSA authentication, WebSocket streams, demo trading, and TradFi instruments.",
+              "external": false,
+              "sourceRepo": "avelino/awesome-go",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Go",
+                "Financial",
+                "bybit-go"
+              ],
+              "parentId": "root-programming-languages-go-financial"
+            },
+            {
               "id": "root-programming-languages-go-financial-cnn-fear-and-greed-parse",
               "title": "cnn-fear-and-greed-parse",
               "kind": "repo",
@@ -94067,6 +94280,32 @@
               "repo": "govalues/decimal",
               "url": "https://github.com/govalues/decimal",
               "description": "Immutable decimal numbers with panic-free arithmetic.",
+              "external": false,
+              "sourceRepo": "avelino/awesome-go",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Go",
+                "Financial",
+                "decimal"
+              ],
+              "parentId": "root-programming-languages-go-financial"
+            },
+            {
+              "id": "root-programming-languages-go-financial-decimal-4",
+              "title": "decimal",
+              "kind": "repo",
+              "repo": "klokare/decimal",
+              "url": "https://github.com/klokare/decimal",
+              "description": "A fixed-size, no allocation decimal type for when you don't need arbitrary precision.",
               "external": false,
               "sourceRepo": "avelino/awesome-go",
               "depth": 2,
@@ -94399,6 +94638,32 @@
               "parentId": "root-programming-languages-go-financial"
             },
             {
+              "id": "root-programming-languages-go-financial-okx-go",
+              "title": "okx-go",
+              "kind": "repo",
+              "repo": "tigusigalpa/okx-go",
+              "url": "https://github.com/tigusigalpa/okx-go",
+              "description": "Go client for OKX v5 API with 335 REST endpoints, 53 WebSocket channels, generics support and auto-reconnect.",
+              "external": false,
+              "sourceRepo": "avelino/awesome-go",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Go",
+                "Financial",
+                "okx-go"
+              ],
+              "parentId": "root-programming-languages-go-financial"
+            },
+            {
               "id": "root-programming-languages-go-financial-orderbook",
               "title": "orderbook",
               "kind": "repo",
@@ -94551,6 +94816,32 @@
                 "Go",
                 "Financial",
                 "techan"
+              ],
+              "parentId": "root-programming-languages-go-financial"
+            },
+            {
+              "id": "root-programming-languages-go-financial-telegram-wallet-go",
+              "title": "telegram-wallet-go",
+              "kind": "repo",
+              "repo": "tigusigalpa/telegram-wallet-go",
+              "url": "https://github.com/tigusigalpa/telegram-wallet-go",
+              "description": "Go client for Telegram Wallet Pay API with HMAC-SHA256 webhook verification, middleware for net/http, Gin, and Echo.",
+              "external": false,
+              "sourceRepo": "avelino/awesome-go",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Go",
+                "Financial",
+                "telegram-wallet-go"
               ],
               "parentId": "root-programming-languages-go-financial"
             },
@@ -127893,6 +128184,32 @@
               "parentId": "root-programming-languages-go-third-party-apis"
             },
             {
+              "id": "root-programming-languages-go-third-party-apis-coinglass-go",
+              "title": "coinglass-go",
+              "kind": "repo",
+              "repo": "tigusigalpa/coinglass-go",
+              "url": "https://github.com/tigusigalpa/coinglass-go",
+              "description": "Go client for Coinglass API v4 with zero dependencies, WebSocket streams, and typed endpoints for futures, spot, options, ETF, and indicators.",
+              "external": false,
+              "sourceRepo": "avelino/awesome-go",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Go",
+                "Third-party APIs",
+                "coinglass-go"
+              ],
+              "parentId": "root-programming-languages-go-third-party-apis"
+            },
+            {
               "id": "root-programming-languages-go-third-party-apis-coinpaprika-go",
               "title": "coinpaprika-go",
               "kind": "repo",
@@ -129605,6 +129922,32 @@
                 "Go",
                 "Third-party APIs",
                 "libopenapi"
+              ],
+              "parentId": "root-programming-languages-go-third-party-apis"
+            },
+            {
+              "id": "root-programming-languages-go-third-party-apis-manus-ai-go",
+              "title": "manus-ai-go",
+              "kind": "repo",
+              "repo": "tigusigalpa/manus-ai-go",
+              "url": "https://github.com/tigusigalpa/manus-ai-go",
+              "description": "Go client for Manus AI API v2 with task automation, file management, webhooks, and type-safe models.",
+              "external": false,
+              "sourceRepo": "avelino/awesome-go",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Go",
+                "Third-party APIs",
+                "manus-ai-go"
               ],
               "parentId": "root-programming-languages-go-third-party-apis"
             },
@@ -147045,6 +147388,33 @@
                   "parentId": "root-programming-languages-go-software-packages-other-software"
                 },
                 {
+                  "id": "root-programming-languages-go-software-packages-other-software-keibidrop",
+                  "title": "KeibiDrop",
+                  "kind": "repo",
+                  "repo": "keibisoft/keibidrop",
+                  "url": "https://github.com/keibisoft/keibidrop",
+                  "description": "On-demand peer-to-peer filesystem that mounts a remote folder and hides link latency with read-ahead, end-to-end encrypted with hybrid X25519 and ML-KEM-1024.",
+                  "external": false,
+                  "sourceRepo": "avelino/awesome-go",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Go",
+                    "Software Packages",
+                    "Other Software",
+                    "KeibiDrop"
+                  ],
+                  "parentId": "root-programming-languages-go-software-packages-other-software"
+                },
+                {
                   "id": "root-programming-languages-go-software-packages-other-software-layli",
                   "title": "Layli",
                   "kind": "link",
@@ -147608,6 +147978,33 @@
                     "Software Packages",
                     "Other Software",
                     "scc"
+                  ],
+                  "parentId": "root-programming-languages-go-software-packages-other-software"
+                },
+                {
+                  "id": "root-programming-languages-go-software-packages-other-software-schedulegate",
+                  "title": "ScheduleGate",
+                  "kind": "repo",
+                  "repo": "gjunqueira-sys/schedulegate",
+                  "url": "https://github.com/gjunqueira-sys/schedulegate",
+                  "description": "DCMA 14-point schedule assessment CLI for MS Project Excel/CSV exports.",
+                  "external": false,
+                  "sourceRepo": "avelino/awesome-go",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Go",
+                    "Software Packages",
+                    "Other Software",
+                    "ScheduleGate"
                   ],
                   "parentId": "root-programming-languages-go-software-packages-other-software"
                 },
@@ -152554,12 +152951,12 @@
               "sourceRepo": "avelino/awesome-go",
               "depth": 2,
               "children": [],
-              "stars": 524,
+              "stars": 523,
               "forks": 28,
               "language": null,
               "license": "MIT",
               "topics": [],
-              "updated": "2026-06-23T21:45:10Z",
+              "updated": "2026-08-25T05:20:38Z",
               "pushed": "2021-07-13T14:14:28Z",
               "awesome": true,
               "path": [
@@ -152580,8 +152977,8 @@
               "sourceRepo": "avelino/awesome-go",
               "depth": 2,
               "children": [],
-              "stars": 47903,
-              "forks": 4751,
+              "stars": 48227,
+              "forks": 4774,
               "language": null,
               "license": null,
               "topics": [
@@ -152589,7 +152986,7 @@
                 "awesome-list",
                 "list"
               ],
-              "updated": "2026-08-23T03:03:24Z",
+              "updated": "2026-08-30T07:59:16Z",
               "pushed": "2026-08-16T19:35:44Z",
               "awesome": true,
               "path": [
@@ -152610,12 +153007,12 @@
               "sourceRepo": "avelino/awesome-go",
               "depth": 2,
               "children": [],
-              "stars": 33619,
-              "forks": 3602,
+              "stars": 33638,
+              "forks": 3603,
               "language": "Ruby",
               "license": null,
               "topics": [],
-              "updated": "2026-08-22T22:55:25Z",
+              "updated": "2026-08-30T06:16:53Z",
               "pushed": "2024-06-02T22:46:41Z",
               "awesome": true,
               "path": [
@@ -154820,8 +155217,8 @@
           "parentId": "root-programming-languages-go"
         }
       ],
-      "stars": 181988,
-      "forks": 13509,
+      "stars": 182668,
+      "forks": 13523,
       "language": "Go",
       "license": "MIT",
       "topics": [
@@ -154832,8 +155229,8 @@
         "golang-library",
         "hacktoberfest"
       ],
-      "updated": "2026-08-23T02:59:45Z",
-      "pushed": "2026-08-21T06:27:18Z",
+      "updated": "2026-08-30T07:55:01Z",
+      "pushed": "2026-08-30T00:34:59Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -156308,8 +156705,8 @@
           "parentId": "root-programming-languages-scala"
         }
       ],
-      "stars": 9236,
-      "forks": 1261,
+      "stars": 9239,
+      "forks": 1260,
       "language": "Python",
       "license": "Apache-2.0",
       "topics": [
@@ -156319,7 +156716,7 @@
         "scala-library",
         "scalajs"
       ],
-      "updated": "2026-08-23T02:19:02Z",
+      "updated": "2026-08-29T17:34:32Z",
       "pushed": "2024-09-20T08:21:10Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -158826,8 +159223,8 @@
           "parentId": "root-programming-languages-ruby"
         }
       ],
-      "stars": 14142,
-      "forks": 1763,
+      "stars": 14150,
+      "forks": 1764,
       "language": null,
       "license": null,
       "topics": [
@@ -158838,7 +159235,7 @@
         "ruby",
         "ruby-libraries"
       ],
-      "updated": "2026-08-23T02:03:31Z",
+      "updated": "2026-08-29T17:14:40Z",
       "pushed": "2026-08-13T09:40:38Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -166944,12 +167341,12 @@
           "parentId": "root-programming-languages-elixir"
         }
       ],
-      "stars": 13164,
-      "forks": 1191,
+      "stars": 13166,
+      "forks": 1190,
       "language": "Elixir",
       "license": "MIT",
       "topics": [],
-      "updated": "2026-08-21T12:20:48Z",
+      "updated": "2026-08-27T21:24:23Z",
       "pushed": "2025-10-12T18:06:13Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -168066,7 +168463,7 @@
         "elm-tutorial",
         "elm-videos"
       ],
-      "updated": "2026-08-16T10:54:02Z",
+      "updated": "2026-08-25T14:05:52Z",
       "pushed": "2026-07-21T04:46:24Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -168857,7 +169254,7 @@
           "parentId": "root-programming-languages-erlang"
         }
       ],
-      "stars": 1708,
+      "stars": 1707,
       "forks": 207,
       "language": null,
       "license": null,
@@ -168868,7 +169265,7 @@
         "erlang-library",
         "lists"
       ],
-      "updated": "2026-08-17T12:35:39Z",
+      "updated": "2026-08-27T11:47:21Z",
       "pushed": "2022-11-17T23:40:26Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -171451,7 +171848,7 @@
                       "sourceRepo": "lewisjellis/awesome-lua",
                       "depth": 4,
                       "children": [],
-                      "stars": 4472,
+                      "stars": 4479,
                       "forks": 242,
                       "language": "PowerShell",
                       "license": "CC0-1.0",
@@ -171462,8 +171859,8 @@
                         "love2d",
                         "lua"
                       ],
-                      "updated": "2026-08-22T08:19:16Z",
-                      "pushed": "2026-06-18T20:27:08Z",
+                      "updated": "2026-08-30T01:56:16Z",
+                      "pushed": "2026-08-23T19:12:18Z",
                       "awesome": true,
                       "path": [
                         "Lua",
@@ -172264,12 +172661,12 @@
                   "sourceRepo": "lewisjellis/awesome-lua",
                   "depth": 3,
                   "children": [],
-                  "stars": 2482,
+                  "stars": 2484,
                   "forks": 263,
                   "language": null,
                   "license": null,
                   "topics": [],
-                  "updated": "2026-07-22T08:53:22Z",
+                  "updated": "2026-08-27T19:39:09Z",
                   "pushed": "2026-05-26T11:49:23Z",
                   "awesome": true,
                   "path": [
@@ -176192,12 +176589,12 @@
           "parentId": "root-programming-languages-lua"
         }
       ],
-      "stars": 4555,
+      "stars": 4561,
       "forks": 343,
       "language": null,
       "license": null,
       "topics": [],
-      "updated": "2026-08-20T00:06:25Z",
+      "updated": "2026-08-29T20:12:36Z",
       "pushed": "2024-08-11T17:32:00Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -177780,8 +178177,8 @@
           "parentId": "root-programming-languages-c-c"
         }
       ],
-      "stars": 72878,
-      "forks": 8322,
+      "stars": 73012,
+      "forks": 8327,
       "language": null,
       "license": "MIT",
       "topics": [
@@ -177798,7 +178195,7 @@
         "programming-tutorial",
         "resources"
       ],
-      "updated": "2026-08-23T02:01:56Z",
+      "updated": "2026-08-30T07:05:52Z",
       "pushed": "2026-08-22T08:36:07Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -178776,8 +179173,8 @@
                         "ggplot2-themes",
                         "scales"
                       ],
-                      "updated": "2026-08-15T12:12:55Z",
-                      "pushed": "2026-08-09T09:12:27Z",
+                      "updated": "2026-08-28T20:46:17Z",
+                      "pushed": "2026-08-28T20:46:00Z",
                       "awesome": true,
                       "path": [
                         "R",
@@ -182071,8 +182468,8 @@
               "parentId": "root-programming-languages-r-learning"
             }
           ],
-          "stars": 656,
-          "forks": 105,
+          "stars": 657,
+          "forks": 104,
           "language": null,
           "license": "CC0-1.0",
           "topics": [
@@ -182083,7 +182480,7 @@
             "r",
             "resources"
           ],
-          "updated": "2026-08-14T12:18:02Z",
+          "updated": "2026-08-23T11:08:20Z",
           "pushed": "2024-12-19T14:10:24Z",
           "awesome": true,
           "readmeStatus": "expanded",
@@ -183070,7 +183467,7 @@
           "parentId": "root-programming-languages-r"
         }
       ],
-      "stars": 6503,
+      "stars": 6507,
       "forks": 1516,
       "language": "R",
       "license": null,
@@ -183083,7 +183480,7 @@
         "r",
         "rstats"
       ],
-      "updated": "2026-08-21T06:04:11Z",
+      "updated": "2026-08-29T23:10:42Z",
       "pushed": "2025-09-18T16:46:19Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -189588,8 +189985,8 @@
           "parentId": "root-programming-languages-common-lisp"
         }
       ],
-      "stars": 2969,
-      "forks": 219,
+      "stars": 2974,
+      "forks": 221,
       "language": "Makefile",
       "license": "NOASSERTION",
       "topics": [
@@ -189600,7 +189997,7 @@
         "lisp",
         "quicklisp"
       ],
-      "updated": "2026-08-22T10:29:11Z",
+      "updated": "2026-08-29T22:29:42Z",
       "pushed": "2026-08-17T18:33:43Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -192024,7 +192421,7 @@
         }
       ],
       "stars": 2489,
-      "forks": 220,
+      "forks": 221,
       "language": null,
       "license": null,
       "topics": [
@@ -192034,7 +192431,7 @@
         "dart-frameworks",
         "list"
       ],
-      "updated": "2026-08-14T01:04:32Z",
+      "updated": "2026-08-30T01:16:16Z",
       "pushed": "2026-05-24T14:40:26Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -192076,7 +192473,7 @@
               "sourceRepo": "sindresorhus/awesome",
               "depth": 3,
               "children": [],
-              "stars": 409,
+              "stars": 410,
               "forks": 14,
               "language": "Java",
               "license": "CC0-1.0",
@@ -192102,7 +192499,7 @@
                 "samsung",
                 "symbian"
               ],
-              "updated": "2026-08-20T19:18:21Z",
+              "updated": "2026-08-23T11:32:37Z",
               "pushed": "2026-07-28T03:38:34Z",
               "awesome": true,
               "path": [
@@ -192618,16 +193015,16 @@
           "parentId": "root-programming-languages-java"
         }
       ],
-      "stars": 48818,
-      "forks": 7708,
+      "stars": 48889,
+      "forks": 7711,
       "language": null,
       "license": "CC-BY-SA-4.0",
       "topics": [
         "awesome",
         "awesome-list"
       ],
-      "updated": "2026-08-23T02:01:55Z",
-      "pushed": "2026-08-19T18:23:37Z",
+      "updated": "2026-08-30T05:32:10Z",
+      "pushed": "2026-08-24T00:59:50Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -204168,7 +204565,7 @@
           "parentId": "root-programming-languages-ocaml"
         }
       ],
-      "stars": 3108,
+      "stars": 3111,
       "forks": 175,
       "language": null,
       "license": null,
@@ -204178,7 +204575,7 @@
         "programming-language",
         "resources"
       ],
-      "updated": "2026-08-20T20:52:05Z",
+      "updated": "2026-08-29T14:23:26Z",
       "pushed": "2026-06-15T10:36:54Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -211903,8 +212300,8 @@
           "parentId": "root-programming-languages-php"
         }
       ],
-      "stars": 32667,
-      "forks": 5143,
+      "stars": 32674,
+      "forks": 5140,
       "language": null,
       "license": "WTFPL",
       "topics": [
@@ -211916,7 +212313,7 @@
         "php-installation",
         "php-library"
       ],
-      "updated": "2026-08-23T01:43:51Z",
+      "updated": "2026-08-29T23:26:44Z",
       "pushed": "2026-07-13T19:44:57Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -214059,7 +214456,7 @@
         }
       ],
       "stars": 2079,
-      "forks": 407,
+      "forks": 411,
       "language": "Pascal",
       "license": "CC0-1.0",
       "topics": [
@@ -214071,7 +214468,7 @@
         "list",
         "pascal-language"
       ],
-      "updated": "2026-08-21T10:30:33Z",
+      "updated": "2026-08-29T23:06:02Z",
       "pushed": "2026-02-27T16:04:57Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -215434,12 +215831,12 @@
           "parentId": "root-programming-languages-autohotkey"
         }
       ],
-      "stars": 3070,
-      "forks": 279,
+      "stars": 3072,
+      "forks": 280,
       "language": null,
       "license": null,
       "topics": [],
-      "updated": "2026-08-22T16:42:46Z",
+      "updated": "2026-08-28T17:11:39Z",
       "pushed": "2023-01-24T23:51:33Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -224225,7 +224622,7 @@
         }
       ],
       "stars": 923,
-      "forks": 168,
+      "forks": 166,
       "language": null,
       "license": null,
       "topics": [
@@ -225579,7 +225976,7 @@
           "parentId": "root-programming-languages-crystal"
         }
       ],
-      "stars": 3558,
+      "stars": 3557,
       "forks": 329,
       "language": "Crystal",
       "license": "MIT",
@@ -225590,7 +225987,7 @@
         "list",
         "shards"
       ],
-      "updated": "2026-08-23T00:14:43Z",
+      "updated": "2026-08-27T15:42:53Z",
       "pushed": "2026-08-19T14:53:17Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -225787,7 +226184,7 @@
           "parentId": "root-programming-languages-cmake"
         }
       ],
-      "stars": 5417,
+      "stars": 5419,
       "forks": 489,
       "language": null,
       "license": "NOASSERTION",
@@ -225802,7 +226199,7 @@
         "cmake-toolchains",
         "list"
       ],
-      "updated": "2026-08-22T15:56:00Z",
+      "updated": "2026-08-25T14:06:05Z",
       "pushed": "2026-08-13T12:16:11Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -241637,7 +242034,7 @@
           "parentId": "root-programming-languages-ada-spark"
         }
       ],
-      "stars": 861,
+      "stars": 862,
       "forks": 90,
       "language": null,
       "license": "CC0-1.0",
@@ -241654,7 +242051,7 @@
         "spark",
         "spark-ada"
       ],
-      "updated": "2026-08-21T12:17:24Z",
+      "updated": "2026-08-23T21:31:47Z",
       "pushed": "2026-05-31T14:03:49Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -261351,6 +261748,60 @@
                   "parentId": "root-programming-languages-v-libraries-utility"
                 },
                 {
+                  "id": "root-programming-languages-v-libraries-utility-v-hash",
+                  "title": "v-hash",
+                  "kind": "repo",
+                  "repo": "deatil/v-hash",
+                  "url": "https://github.com/deatil/v-hash",
+                  "description": "A hash library for vlang.",
+                  "external": false,
+                  "sourceRepo": "vlang/awesome-v",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "V",
+                    "Libraries",
+                    "Utility",
+                    "v-hash"
+                  ],
+                  "parentId": "root-programming-languages-v-libraries-utility"
+                },
+                {
+                  "id": "root-programming-languages-v-libraries-utility-v-rsa",
+                  "title": "v-rsa",
+                  "kind": "repo",
+                  "repo": "deatil/v-rsa",
+                  "url": "https://github.com/deatil/v-rsa",
+                  "description": "A RSA library for vlang.",
+                  "external": false,
+                  "sourceRepo": "vlang/awesome-v",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "V",
+                    "Libraries",
+                    "Utility",
+                    "v-rsa"
+                  ],
+                  "parentId": "root-programming-languages-v-libraries-utility"
+                },
+                {
                   "id": "root-programming-languages-v-libraries-utility-vaker",
                   "title": "vaker",
                   "kind": "repo",
@@ -263754,8 +264205,8 @@
           "parentId": "root-programming-languages-v"
         }
       ],
-      "stars": 2102,
-      "forks": 143,
+      "stars": 2105,
+      "forks": 141,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -263763,8 +264214,8 @@
         "awesome-list",
         "v"
       ],
-      "updated": "2026-08-20T08:56:27Z",
-      "pushed": "2026-08-15T15:21:51Z",
+      "updated": "2026-08-26T11:12:01Z",
+      "pushed": "2026-08-26T11:11:05Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -263828,7 +264279,7 @@
               "sourceRepo": "mystenlabs/awesome-move",
               "depth": 2,
               "children": [],
-              "stars": 1496,
+              "stars": 1495,
               "forks": 270,
               "language": null,
               "license": "CC-BY-4.0",
@@ -263836,7 +264287,7 @@
                 "awesome",
                 "awesome-list"
               ],
-              "updated": "2026-08-21T11:19:11Z",
+              "updated": "2026-08-29T10:38:17Z",
               "pushed": "2024-08-14T10:01:34Z",
               "awesome": true,
               "path": [
@@ -268468,7 +268919,7 @@
           "parentId": "root-programming-languages-move"
         }
       ],
-      "stars": 1496,
+      "stars": 1495,
       "forks": 270,
       "language": null,
       "license": "CC-BY-4.0",
@@ -268476,7 +268927,7 @@
         "awesome",
         "awesome-list"
       ],
-      "updated": "2026-08-21T11:19:11Z",
+      "updated": "2026-08-29T10:38:17Z",
       "pushed": "2024-08-14T10:01:34Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -268629,8 +269080,8 @@
           "parentId": "root-programming-languages-esolangs"
         }
       ],
-      "stars": 601,
-      "forks": 42,
+      "stars": 602,
+      "forks": 41,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -268640,7 +269091,7 @@
         "esoteric",
         "list"
       ],
-      "updated": "2026-08-21T06:47:56Z",
+      "updated": "2026-08-30T02:00:18Z",
       "pushed": "2026-03-17T09:39:27Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -280754,8 +281205,8 @@
                   "sourceRepo": "fsprojects/awesome-fsharp",
                   "depth": 3,
                   "children": [],
-                  "stars": 21569,
-                  "forks": 2921,
+                  "stars": 21580,
+                  "forks": 2928,
                   "language": null,
                   "license": "CC0-1.0",
                   "topics": [
@@ -280766,7 +281217,7 @@
                     "dotnet",
                     "fsharp"
                   ],
-                  "updated": "2026-08-23T01:50:44Z",
+                  "updated": "2026-08-29T23:27:36Z",
                   "pushed": "2026-03-26T05:16:53Z",
                   "awesome": true,
                   "path": [

@@ -5738,7 +5738,7 @@
           "parentId": "root-back-end-development-flask"
         }
       ],
-      "stars": 1766,
+      "stars": 1774,
       "forks": 171,
       "language": null,
       "license": "CC0-1.0",
@@ -5748,7 +5748,7 @@
         "flask",
         "flask-resources"
       ],
-      "updated": "2026-08-21T15:12:14Z",
+      "updated": "2026-08-28T23:59:48Z",
       "pushed": "2026-05-13T13:35:25Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -15995,8 +15995,8 @@
               "sourceRepo": "veggiemonk/awesome-docker",
               "depth": 2,
               "children": [],
-              "stars": 46148,
-              "forks": 8289,
+              "stars": 46196,
+              "forks": 8298,
               "language": "HTML",
               "license": "CC0-1.0",
               "topics": [
@@ -16004,8 +16004,8 @@
                 "awesome-list",
                 "docker-compose"
               ],
-              "updated": "2026-08-23T01:40:50Z",
-              "pushed": "2026-08-15T19:45:19Z",
+              "updated": "2026-08-30T01:50:35Z",
+              "pushed": "2026-08-25T01:56:23Z",
               "awesome": true,
               "path": [
                 "Docker",
@@ -16025,8 +16025,8 @@
               "sourceRepo": "veggiemonk/awesome-docker",
               "depth": 2,
               "children": [],
-              "stars": 16056,
-              "forks": 2481,
+              "stars": 16062,
+              "forks": 2483,
               "language": "Shell",
               "license": "NOASSERTION",
               "topics": [
@@ -16049,7 +16049,7 @@
                 "resource",
                 "schedule"
               ],
-              "updated": "2026-08-21T10:00:01Z",
+              "updated": "2026-08-30T07:11:06Z",
               "pushed": "2026-06-23T13:33:19Z",
               "awesome": true,
               "path": [
@@ -17690,8 +17690,8 @@
           "parentId": "root-back-end-development-docker"
         }
       ],
-      "stars": 36692,
-      "forks": 3353,
+      "stars": 36747,
+      "forks": 3361,
       "language": null,
       "license": "Apache-2.0",
       "topics": [
@@ -17714,8 +17714,8 @@
         "moby",
         "tools"
       ],
-      "updated": "2026-08-23T01:54:58Z",
-      "pushed": "2026-08-19T15:33:40Z",
+      "updated": "2026-08-30T02:56:39Z",
+      "pushed": "2026-08-27T17:04:16Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -21396,6 +21396,33 @@
                   "parentId": "root-back-end-development-cakephp-plugins-miscellaneous"
                 },
                 {
+                  "id": "root-back-end-development-cakephp-plugins-miscellaneous-featureflags-plugin",
+                  "title": "FeatureFlags plugin",
+                  "kind": "repo",
+                  "repo": "orca-services/cakephp-feature-flags",
+                  "url": "https://github.com/orca-services/cakephp-feature-flags",
+                  "description": "A plugin for managing feature flags in your code.",
+                  "external": false,
+                  "sourceRepo": "friendsofcake/awesome-cakephp",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "CakePHP",
+                    "Plugins",
+                    "Miscellaneous",
+                    "FeatureFlags plugin"
+                  ],
+                  "parentId": "root-back-end-development-cakephp-plugins-miscellaneous"
+                },
+                {
                   "id": "root-back-end-development-cakephp-plugins-miscellaneous-feedback-plugin",
                   "title": "Feedback plugin",
                   "kind": "repo",
@@ -24816,15 +24843,15 @@
         }
       ],
       "stars": 937,
-      "forks": 225,
+      "forks": 226,
       "language": null,
       "license": "WTFPL",
       "topics": [
         "awesome",
         "awesome-list"
       ],
-      "updated": "2026-08-21T18:30:38Z",
-      "pushed": "2026-08-21T18:27:29Z",
+      "updated": "2026-08-25T09:36:13Z",
+      "pushed": "2026-08-25T09:35:10Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -25868,7 +25895,7 @@
         }
       ],
       "stars": 1573,
-      "forks": 223,
+      "forks": 222,
       "language": null,
       "license": null,
       "topics": [],
@@ -26355,8 +26382,8 @@
                   "sourceRepo": "fukuball/awesome-laravel-education",
                   "depth": 3,
                   "children": [],
-                  "stars": 13093,
-                  "forks": 2345,
+                  "stars": 13095,
+                  "forks": 2342,
                   "language": null,
                   "license": null,
                   "topics": [
@@ -26364,7 +26391,7 @@
                     "laravel",
                     "php"
                   ],
-                  "updated": "2026-08-23T02:37:08Z",
+                  "updated": "2026-08-30T01:45:42Z",
                   "pushed": "2024-07-03T15:59:36Z",
                   "awesome": true,
                   "path": [
@@ -26386,8 +26413,8 @@
                   "sourceRepo": "fukuball/awesome-laravel-education",
                   "depth": 3,
                   "children": [],
-                  "stars": 32667,
-                  "forks": 5143,
+                  "stars": 32674,
+                  "forks": 5140,
                   "language": null,
                   "license": "WTFPL",
                   "topics": [
@@ -26399,7 +26426,7 @@
                     "php-installation",
                     "php-library"
                   ],
-                  "updated": "2026-08-23T01:43:51Z",
+                  "updated": "2026-08-29T23:26:44Z",
                   "pushed": "2026-07-13T19:44:57Z",
                   "awesome": true,
                   "path": [
@@ -32425,7 +32452,7 @@
               "parentId": "root-back-end-development-laravel-education"
             }
           ],
-          "stars": 399,
+          "stars": 398,
           "forks": 60,
           "language": "PHP",
           "license": "MIT",
@@ -32434,7 +32461,7 @@
             "laravel",
             "laravel-documentation"
           ],
-          "updated": "2026-08-16T15:25:34Z",
+          "updated": "2026-08-25T09:35:28Z",
           "pushed": "2022-09-03T03:48:45Z",
           "awesome": true,
           "readmeStatus": "expanded",
@@ -33302,8 +33329,8 @@
           "parentId": "root-back-end-development-laravel"
         }
       ],
-      "stars": 13093,
-      "forks": 2345,
+      "stars": 13095,
+      "forks": 2342,
       "language": null,
       "license": null,
       "topics": [
@@ -33311,7 +33338,7 @@
         "laravel",
         "php"
       ],
-      "updated": "2026-08-23T02:37:08Z",
+      "updated": "2026-08-30T01:45:42Z",
       "pushed": "2024-07-03T15:59:36Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -34037,12 +34064,12 @@
               "parentId": "root-back-end-development-rails-gems"
             }
           ],
-          "stars": 2806,
+          "stars": 2805,
           "forks": 281,
           "language": "Ruby",
           "license": null,
           "topics": [],
-          "updated": "2026-08-16T08:36:21Z",
+          "updated": "2026-08-25T09:36:30Z",
           "pushed": "2024-03-12T22:04:35Z",
           "awesome": true,
           "readmeStatus": "expanded",
@@ -45595,7 +45622,7 @@
           "parentId": "root-back-end-development-rails"
         }
       ],
-      "stars": 3924,
+      "stars": 3923,
       "forks": 440,
       "language": null,
       "license": "MIT",
@@ -45605,7 +45632,7 @@
         "opensource-apps",
         "rails"
       ],
-      "updated": "2026-08-20T07:27:55Z",
+      "updated": "2026-08-28T22:09:35Z",
       "pushed": "2026-08-19T12:06:35Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -46960,8 +46987,8 @@
           "parentId": "root-back-end-development-kubernetes"
         }
       ],
-      "stars": 16056,
-      "forks": 2481,
+      "stars": 16062,
+      "forks": 2483,
       "language": "Shell",
       "license": "NOASSERTION",
       "topics": [
@@ -46984,7 +47011,7 @@
         "resource",
         "schedule"
       ],
-      "updated": "2026-08-21T10:00:01Z",
+      "updated": "2026-08-30T07:11:06Z",
       "pushed": "2026-06-23T13:33:19Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -50340,7 +50367,7 @@
           "parentId": "root-back-end-development-serverless-framework"
         }
       ],
-      "stars": 2151,
+      "stars": 2152,
       "forks": 237,
       "language": null,
       "license": "MIT",
@@ -50352,7 +50379,7 @@
         "serverless-functions",
         "serverless-plugin"
       ],
-      "updated": "2026-08-06T04:24:29Z",
+      "updated": "2026-08-24T14:41:04Z",
       "pushed": "2022-11-23T08:57:07Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -59494,6 +59521,60 @@
                     "terraform-provider-coolify"
                   ],
                   "parentId": "root-back-end-development-terraform-providers-community-providers"
+                },
+                {
+                  "id": "root-back-end-development-terraform-providers-community-providers-terraform-provider-appstore",
+                  "title": "terraform-provider-appstore",
+                  "kind": "repo",
+                  "repo": "elevenode/terraform-provider-appstore",
+                  "url": "https://github.com/elevenode/terraform-provider-appstore",
+                  "description": "Terraform provider for Apple App Store Connect.",
+                  "external": false,
+                  "sourceRepo": "shuaibiyy/awesome-terraform",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Terraform",
+                    "Providers",
+                    "Community providers",
+                    "terraform-provider-appstore"
+                  ],
+                  "parentId": "root-back-end-development-terraform-providers-community-providers"
+                },
+                {
+                  "id": "root-back-end-development-terraform-providers-community-providers-terraform-provider-expo",
+                  "title": "terraform-provider-expo",
+                  "kind": "repo",
+                  "repo": "elevenode/terraform-provider-expo",
+                  "url": "https://github.com/elevenode/terraform-provider-expo",
+                  "description": "Terraform provider for Expo Application Services (EAS).",
+                  "external": false,
+                  "sourceRepo": "shuaibiyy/awesome-terraform",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Terraform",
+                    "Providers",
+                    "Community providers",
+                    "terraform-provider-expo"
+                  ],
+                  "parentId": "root-back-end-development-terraform-providers-community-providers"
                 }
               ],
               "stars": 0,
@@ -59922,6 +60003,32 @@
               "parentId": "root-back-end-development-terraform-tools"
             },
             {
+              "id": "root-back-end-development-terraform-tools-azurenamer",
+              "title": "AzureNamer",
+              "kind": "link",
+              "repo": "",
+              "url": "https://azurenamingconventions.com/",
+              "description": "Generates CAF compliant names for 200+ Azure resource types and exports them as Terraform locals, with live length and character validation.",
+              "external": true,
+              "sourceRepo": "shuaibiyy/awesome-terraform",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Terraform",
+                "Tools",
+                "AzureNamer"
+              ],
+              "parentId": "root-back-end-development-terraform-tools"
+            },
+            {
               "id": "root-back-end-development-terraform-tools-balcony",
               "title": "balcony",
               "kind": "link",
@@ -59944,6 +60051,32 @@
                 "Terraform",
                 "Tools",
                 "balcony"
+              ],
+              "parentId": "root-back-end-development-terraform-tools"
+            },
+            {
+              "id": "root-back-end-development-terraform-tools-bare-devcontainer-templates",
+              "title": "bare-devcontainer/templates",
+              "kind": "repo",
+              "repo": "bare-devcontainer/templates",
+              "url": "https://github.com/bare-devcontainer/templates",
+              "description": "Security-focused Terraform dev container with terraform-ls and rebuild-friendly caching. The base image is available at bare-devcontainer/images.",
+              "external": false,
+              "sourceRepo": "shuaibiyy/awesome-terraform",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Terraform",
+                "Tools",
+                "bare-devcontainer/templates"
               ],
               "parentId": "root-back-end-development-terraform-tools"
             },
@@ -60126,6 +60259,32 @@
                 "Terraform",
                 "Tools",
                 "coretech/terrafile"
+              ],
+              "parentId": "root-back-end-development-terraform-tools"
+            },
+            {
+              "id": "root-back-end-development-terraform-tools-demonolith",
+              "title": "demonolith",
+              "kind": "repo",
+              "repo": "schrieksoft/demonolith",
+              "url": "https://github.com/schrieksoft/demonolith",
+              "description": "Splits up monolithic Terraform projects with demonolith refactor (to move the code) and demonolith migrate (to migrate into smaller .tfstate files).",
+              "external": false,
+              "sourceRepo": "shuaibiyy/awesome-terraform",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Terraform",
+                "Tools",
+                "demonolith"
               ],
               "parentId": "root-back-end-development-terraform-tools"
             },
@@ -63666,6 +63825,32 @@
               "parentId": "root-back-end-development-terraform-tools"
             },
             {
+              "id": "root-back-end-development-terraform-tools-tfvault",
+              "title": "tfvault",
+              "kind": "repo",
+              "repo": "tedilabs/tfvault",
+              "url": "https://github.com/tedilabs/tfvault",
+              "description": "Universal Terraform credentials helper with pluggable secret backends (OS keyring, pass/gopass, environment variables) and per-profile account isolation.",
+              "external": false,
+              "sourceRepo": "shuaibiyy/awesome-terraform",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Terraform",
+                "Tools",
+                "tfvault"
+              ],
+              "parentId": "root-back-end-development-terraform-tools"
+            },
+            {
               "id": "root-back-end-development-terraform-tools-tfvaultenv",
               "title": "tfvaultenv",
               "kind": "repo",
@@ -64568,6 +64753,32 @@
           "depth": 1,
           "url": "https://github.com/shuaibiyy/awesome-terraform#self-hosted-terraform-platforms",
           "children": [
+            {
+              "id": "root-back-end-development-terraform-self-hosted-terraform-platforms-snap-cd",
+              "title": "Snap CD",
+              "kind": "repo",
+              "repo": "schrieksoft/snapcd",
+              "url": "https://github.com/schrieksoft/snapcd",
+              "description": "Fully-featured continuous deployment platform that facilitates modular deployments with isolated runners, dependency-aware automation, and fine-grained access control.",
+              "external": false,
+              "sourceRepo": "shuaibiyy/awesome-terraform",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Terraform",
+                "Self-hosted Terraform Platforms",
+                "Snap CD"
+              ],
+              "parentId": "root-back-end-development-terraform-self-hosted-terraform-platforms"
+            },
             {
               "id": "root-back-end-development-terraform-self-hosted-terraform-platforms-lynx",
               "title": "Lynx",
@@ -67990,7 +68201,7 @@
           "parentId": "root-back-end-development-vapor"
         }
       ],
-      "stars": 1286,
+      "stars": 1285,
       "forks": 66,
       "language": "Ruby",
       "license": "CC0-1.0",
@@ -68001,7 +68212,7 @@
         "swift",
         "vapor"
       ],
-      "updated": "2026-08-20T01:32:14Z",
+      "updated": "2026-08-29T23:43:30Z",
       "pushed": "2023-10-14T17:45:31Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -68762,8 +68973,8 @@
               "sourceRepo": "ucg8j/awesome-dash",
               "depth": 2,
               "children": [],
-              "stars": 48245,
-              "forks": 3834,
+              "stars": 48301,
+              "forks": 3835,
               "language": null,
               "license": "CC0-1.0",
               "topics": [
@@ -68773,7 +68984,7 @@
                 "react-component",
                 "react-components"
               ],
-              "updated": "2026-08-23T02:01:59Z",
+              "updated": "2026-08-30T06:53:45Z",
               "pushed": "2026-01-26T16:36:45Z",
               "awesome": true,
               "path": [
@@ -68794,8 +69005,8 @@
               "sourceRepo": "ucg8j/awesome-dash",
               "depth": 2,
               "children": [],
-              "stars": 74365,
-              "forks": 7625,
+              "stars": 74447,
+              "forks": 7627,
               "language": null,
               "license": null,
               "topics": [
@@ -68810,7 +69021,7 @@
                 "tutorial",
                 "typescript"
               ],
-              "updated": "2026-08-23T02:01:56Z",
+              "updated": "2026-08-30T06:30:31Z",
               "pushed": "2026-08-20T07:58:12Z",
               "awesome": true,
               "path": [
@@ -70177,7 +70388,7 @@
         "plotly",
         "python"
       ],
-      "updated": "2026-08-20T08:55:27Z",
+      "updated": "2026-08-28T08:03:24Z",
       "pushed": "2024-12-30T09:48:42Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -70213,6 +70424,33 @@
               "depth": 2,
               "url": "https://github.com/mjhea0/awesome-fastapi#admin",
               "children": [
+                {
+                  "id": "root-back-end-development-fastapi-third-party-extensions-admin-fastadmin",
+                  "title": "FastAdmin",
+                  "kind": "repo",
+                  "repo": "vsdudakov/fastadmin",
+                  "url": "https://github.com/vsdudakov/fastadmin",
+                  "description": "Easy-to-use admin dashboard for FastAPI (also Flask and Django), inspired by Django Admin.",
+                  "external": false,
+                  "sourceRepo": "mjhea0/awesome-fastapi",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "FastAPI",
+                    "Third-Party Extensions",
+                    "Admin",
+                    "FastAdmin"
+                  ],
+                  "parentId": "root-back-end-development-fastapi-third-party-extensions-admin"
+                },
                 {
                   "id": "root-back-end-development-fastapi-third-party-extensions-admin-fastapi-admin",
                   "title": "FastAPI Admin",
@@ -73636,6 +73874,33 @@
                   "parentId": "root-back-end-development-fastapi-resources-tutorials"
                 },
                 {
+                  "id": "root-back-end-development-fastapi-resources-tutorials-fastapi-session-leak-detection",
+                  "title": "FastAPI Session Leak Detection",
+                  "kind": "link",
+                  "repo": "",
+                  "url": "https://www.logiclooptech.dev/fastapi-session-leak-detection-sqlalchemy-long-running/",
+                  "description": "Diagnose and fix long-running SQLAlchemy sessions and connection pool exhaustion in production.",
+                  "external": true,
+                  "sourceRepo": "mjhea0/awesome-fastapi",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "FastAPI",
+                    "Resources",
+                    "Tutorials",
+                    "FastAPI Session Leak Detection"
+                  ],
+                  "parentId": "root-back-end-development-fastapi-resources-tutorials"
+                },
+                {
                   "id": "root-back-end-development-fastapi-resources-tutorials-implementing-fastapi-services-abstraction-and-separation-of-concerns",
                   "title": "Implementing FastAPI Services – Abstraction and Separation of Concerns",
                   "kind": "link",
@@ -75384,6 +75649,33 @@
                     "Uvicorn Poetry FastAPI Project Template"
                   ],
                   "parentId": "root-back-end-development-fastapi-projects-boilerplate"
+                },
+                {
+                  "id": "root-back-end-development-fastapi-projects-boilerplate-fastapi-agent-blueprint",
+                  "title": "FastAPI Agent Blueprint",
+                  "kind": "repo",
+                  "repo": "mr-doosun/fastapi-agent-blueprint",
+                  "url": "https://github.com/mr-doosun/fastapi-agent-blueprint",
+                  "description": "DDD layered template where generic base classes give async CRUD with no boilerplate, domains self-register on discovery, and pre-commit hooks block cross-layer imports at commit time.",
+                  "external": false,
+                  "sourceRepo": "mjhea0/awesome-fastapi",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "FastAPI",
+                    "Projects",
+                    "Boilerplate",
+                    "FastAPI Agent Blueprint"
+                  ],
+                  "parentId": "root-back-end-development-fastapi-projects-boilerplate"
                 }
               ],
               "stars": 0,
@@ -75586,8 +75878,8 @@
                   "topics": [
                     "fastapi"
                   ],
-                  "updated": "2026-08-23T01:17:17Z",
-                  "pushed": "2026-08-23T01:16:48Z",
+                  "updated": "2026-08-28T13:37:41Z",
+                  "pushed": "2026-08-24T01:10:46Z",
                   "awesome": true,
                   "path": [
                     "FastAPI",
@@ -76383,8 +76675,8 @@
           "parentId": "root-back-end-development-fastapi"
         }
       ],
-      "stars": 11617,
-      "forks": 888,
+      "stars": 11633,
+      "forks": 891,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -76393,8 +76685,8 @@
         "fastapi",
         "starlette"
       ],
-      "updated": "2026-08-23T02:08:00Z",
-      "pushed": "2026-06-24T17:30:19Z",
+      "updated": "2026-08-29T13:19:47Z",
+      "pushed": "2026-08-24T17:18:28Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -81548,8 +81840,8 @@
               "sourceRepo": "kdeldycke/awesome-iam",
               "depth": 2,
               "children": [],
-              "stars": 1329,
-              "forks": 102,
+              "stars": 1331,
+              "forks": 105,
               "language": null,
               "license": "CC0-1.0",
               "topics": [
@@ -81574,7 +81866,7 @@
                 "usage-based-billing",
                 "vat"
               ],
-              "updated": "2026-08-21T20:45:26Z",
+              "updated": "2026-08-29T16:39:02Z",
               "pushed": "2026-08-14T13:46:25Z",
               "awesome": true,
               "path": [
@@ -82080,8 +82372,8 @@
                   "sourceRepo": "kdeldycke/awesome-iam",
                   "depth": 3,
                   "children": [],
-                  "stars": 10562,
-                  "forks": 1816,
+                  "stars": 10585,
+                  "forks": 1820,
                   "language": null,
                   "license": "Apache-2.0",
                   "topics": [
@@ -82090,7 +82382,7 @@
                     "hacktoberfest",
                     "security"
                   ],
-                  "updated": "2026-08-23T02:13:04Z",
+                  "updated": "2026-08-30T01:58:16Z",
                   "pushed": "2026-05-31T10:54:05Z",
                   "awesome": true,
                   "path": [
@@ -82433,8 +82725,8 @@
                   "sourceRepo": "kdeldycke/awesome-iam",
                   "depth": 3,
                   "children": [],
-                  "stars": 1420,
-                  "forks": 127,
+                  "stars": 1421,
+                  "forks": 128,
                   "language": "JavaScript",
                   "license": "MIT",
                   "topics": [
@@ -82451,7 +82743,7 @@
                     "crack-captcha",
                     "image-captcha"
                   ],
-                  "updated": "2026-08-18T20:53:48Z",
+                  "updated": "2026-08-27T19:28:01Z",
                   "pushed": "2026-04-17T22:10:48Z",
                   "awesome": true,
                   "path": [
@@ -84187,7 +84479,7 @@
           "parentId": "root-back-end-development-iam"
         }
       ],
-      "stars": 2258,
+      "stars": 2262,
       "forks": 187,
       "language": null,
       "license": "CC0-1.0",
@@ -84213,7 +84505,7 @@
         "webauthn",
         "zero-trust"
       ],
-      "updated": "2026-08-20T08:55:30Z",
+      "updated": "2026-08-26T10:42:55Z",
       "pushed": "2026-08-14T14:15:27Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -89374,8 +89666,8 @@
           "parentId": "root-back-end-development-fiber"
         }
       ],
-      "stars": 834,
-      "forks": 57,
+      "stars": 836,
+      "forks": 58,
       "language": null,
       "license": "MIT",
       "topics": [
@@ -89386,7 +89678,7 @@
         "middleware",
         "recipes"
       ],
-      "updated": "2026-08-16T20:34:47Z",
+      "updated": "2026-08-27T13:36:30Z",
       "pushed": "2026-08-15T14:54:58Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -90407,8 +90699,8 @@
               "sourceRepo": "devopshivehq/awesome-kustomize",
               "depth": 2,
               "children": [],
-              "stars": 16056,
-              "forks": 2481,
+              "stars": 16062,
+              "forks": 2483,
               "language": "Shell",
               "license": "NOASSERTION",
               "topics": [
@@ -90431,7 +90723,7 @@
                 "resource",
                 "schedule"
               ],
-              "updated": "2026-08-21T10:00:01Z",
+              "updated": "2026-08-30T07:11:06Z",
               "pushed": "2026-06-23T13:33:19Z",
               "awesome": true,
               "path": [
@@ -90484,7 +90776,7 @@
               "depth": 2,
               "children": [],
               "stars": 1111,
-              "forks": 120,
+              "forks": 119,
               "language": null,
               "license": "NOASSERTION",
               "topics": [

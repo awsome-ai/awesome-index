@@ -1164,12 +1164,12 @@
         }
       ],
       "stars": 1352,
-      "forks": 268,
+      "forks": 273,
       "language": null,
       "license": null,
       "topics": [],
-      "updated": "2026-08-20T15:56:34Z",
-      "pushed": "2026-08-12T15:11:07Z",
+      "updated": "2026-08-28T19:16:44Z",
+      "pushed": "2026-08-28T19:08:26Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -4427,14 +4427,14 @@
         }
       ],
       "stars": 200,
-      "forks": 25,
+      "forks": 24,
       "language": null,
       "license": null,
       "topics": [
         "awesome",
         "ripple"
       ],
-      "updated": "2026-07-16T01:00:09Z",
+      "updated": "2026-08-29T18:35:37Z",
       "pushed": "2021-07-02T15:40:31Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -5695,7 +5695,7 @@
         }
       ],
       "stars": 673,
-      "forks": 83,
+      "forks": 82,
       "language": null,
       "license": null,
       "topics": [
@@ -6810,37 +6810,11 @@
               "parentId": "root-decentralized-systems-mastodon-desktop-clients"
             },
             {
-              "id": "root-decentralized-systems-mastodon-desktop-clients-official-client",
-              "title": "Official Client",
-              "kind": "repo",
-              "repo": "mastodon/mastodon-android",
-              "url": "https://github.com/mastodon/mastodon-android",
-              "description": "Official Android client.",
-              "external": false,
-              "sourceRepo": "hyperupcall/awesome-mastodon",
-              "depth": 2,
-              "children": [],
-              "stars": 0,
-              "forks": 0,
-              "language": null,
-              "license": null,
-              "topics": [],
-              "updated": null,
-              "pushed": null,
-              "awesome": false,
-              "path": [
-                "Mastodon",
-                "Desktop Clients",
-                "Official Client"
-              ],
-              "parentId": "root-decentralized-systems-mastodon-desktop-clients"
-            },
-            {
               "id": "root-decentralized-systems-mastodon-desktop-clients-whalebird",
               "title": "Whalebird",
               "kind": "link",
               "repo": "",
-              "url": "https://whalebird.social/en/desktop/contents/",
+              "url": "https://whalebird.social/",
               "description": "Electron-based Mastodon client.",
               "external": true,
               "sourceRepo": "hyperupcall/awesome-mastodon",
@@ -6962,6 +6936,32 @@
           "depth": 1,
           "url": "https://github.com/hyperupcall/awesome-mastodon#mobile-clients",
           "children": [
+            {
+              "id": "root-decentralized-systems-mastodon-mobile-clients-official-client",
+              "title": "Official Client",
+              "kind": "repo",
+              "repo": "mastodon/mastodon-android",
+              "url": "https://github.com/mastodon/mastodon-android",
+              "description": "Official Android client.",
+              "external": false,
+              "sourceRepo": "hyperupcall/awesome-mastodon",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Mastodon",
+                "Mobile Clients",
+                "Official Client"
+              ],
+              "parentId": "root-decentralized-systems-mastodon-mobile-clients"
+            },
             {
               "id": "root-decentralized-systems-mastodon-mobile-clients-megalodon",
               "title": "Megalodon",
@@ -8182,8 +8182,8 @@
           "parentId": "root-decentralized-systems-mastodon"
         }
       ],
-      "stars": 63,
-      "forks": 7,
+      "stars": 64,
+      "forks": 8,
       "language": "Markdown",
       "license": "CC0-1.0",
       "topics": [
@@ -8191,8 +8191,8 @@
         "awesome-list",
         "mastodon"
       ],
-      "updated": "2026-08-06T15:01:32Z",
-      "pushed": "2026-06-22T20:39:37Z",
+      "updated": "2026-08-30T06:48:39Z",
+      "pushed": "2026-08-30T06:48:33Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -10827,7 +10827,7 @@
         }
       ],
       "stars": 364,
-      "forks": 61,
+      "forks": 62,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -12341,7 +12341,7 @@
         }
       ],
       "stars": 1154,
-      "forks": 225,
+      "forks": 224,
       "language": null,
       "license": null,
       "topics": [
@@ -36383,7 +36383,7 @@
         }
       ],
       "stars": 124,
-      "forks": 29,
+      "forks": 28,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -44541,7 +44541,7 @@
           "parentId": "root-decentralized-systems-zeronet"
         }
       ],
-      "stars": 115,
+      "stars": 116,
       "forks": 11,
       "language": null,
       "license": "CC0-1.0",
@@ -44552,7 +44552,7 @@
         "zeronet",
         "zeronet-site"
       ],
-      "updated": "2026-07-03T02:34:03Z",
+      "updated": "2026-08-28T02:42:14Z",
       "pushed": "2025-03-06T15:13:08Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -45271,7 +45271,7 @@
           "parentId": "root-decentralized-systems-cosmos-sdk"
         }
       ],
-      "stars": 600,
+      "stars": 601,
       "forks": 173,
       "language": null,
       "license": "CC0-1.0",
@@ -45282,7 +45282,7 @@
         "cosmos",
         "cosmos-sdk"
       ],
-      "updated": "2026-08-18T02:10:17Z",
+      "updated": "2026-08-28T03:47:35Z",
       "pushed": "2026-04-13T09:03:12Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -49807,7 +49807,7 @@
           "parentId": "root-decentralized-systems-atproto"
         }
       ],
-      "stars": 75,
+      "stars": 76,
       "forks": 7,
       "language": null,
       "license": "CC0-1.0",
@@ -49816,7 +49816,7 @@
         "awesome",
         "awesome-list"
       ],
-      "updated": "2026-08-22T06:11:11Z",
+      "updated": "2026-08-28T14:53:46Z",
       "pushed": "2026-06-21T19:33:09Z",
       "awesome": true,
       "readmeStatus": "expanded",
