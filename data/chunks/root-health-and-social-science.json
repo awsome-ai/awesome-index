@@ -703,7 +703,7 @@
           "parentId": "root-health-and-social-science-biomedical-information-extraction"
         }
       ],
-      "stars": 465,
+      "stars": 466,
       "forks": 42,
       "language": null,
       "license": "CC0-1.0",
@@ -720,7 +720,7 @@
         "nlp",
         "text-mining"
       ],
-      "updated": "2026-08-28T19:46:34Z",
+      "updated": "2026-08-31T06:59:44Z",
       "pushed": "2026-05-26T15:54:20Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -3423,7 +3423,7 @@
           "parentId": "root-health-and-social-science-computational-neuroscience"
         }
       ],
-      "stars": 993,
+      "stars": 995,
       "forks": 88,
       "language": null,
       "license": "CC0-1.0",
@@ -3439,7 +3439,7 @@
         "mathematical-neuroscience",
         "neuroscience"
       ],
-      "updated": "2026-08-29T18:07:41Z",
+      "updated": "2026-09-01T14:23:02Z",
       "pushed": "2024-08-02T18:19:50Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -9723,7 +9723,7 @@
                   "kind": "link",
                   "repo": "",
                   "url": "https://runoverse.org/",
-                  "description": "Research platform for Finnish and Estonian runosong oral folk poetry with cross-lingual comparison and geographic analysis.",
+                  "description": "Exploration toolkit for Finnic runosong (runolaulu, regilaul) across four folklore corpora, with lemma search, cross-lingual verse comparison and geographic analysis.",
                   "external": true,
                   "sourceRepo": "maehr/awesome-digital-history",
                   "depth": 3,
@@ -10524,7 +10524,7 @@
                   "kind": "link",
                   "repo": "",
                   "url": "https://thecastlemap.com/",
-                  "description": "Interactive world map and open CC0 dataset of 2,400 castles, fortresses, palaces, and ruins across 131 countries.",
+                  "description": "Interactive world map and downloadable CC0 dataset of castles, fortresses, palaces, and ruins around the world.",
                   "external": true,
                   "sourceRepo": "maehr/awesome-digital-history",
                   "depth": 3,
@@ -10731,6 +10731,33 @@
                     "Archives and primary sources",
                     "Global",
                     "Karlsruher Virtueller Katalog"
+                  ],
+                  "parentId": "root-health-and-social-science-digital-history-archives-and-primary-sources-global"
+                },
+                {
+                  "id": "root-health-and-social-science-digital-history-archives-and-primary-sources-global-lux-yale-collections-discovery",
+                  "title": "LUX: Yale Collections Discovery",
+                  "kind": "link",
+                  "repo": "",
+                  "url": "https://lux.collections.yale.edu/",
+                  "description": "Cross-collection discovery portal for exploring cultural and natural heritage materials held by Yale University’s museums, libraries, archives, and galleries.",
+                  "external": true,
+                  "sourceRepo": "maehr/awesome-digital-history",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Digital History",
+                    "Archives and primary sources",
+                    "Global",
+                    "LUX: Yale Collections Discovery"
                   ],
                   "parentId": "root-health-and-social-science-digital-history-archives-and-primary-sources-global"
                 },
@@ -12125,7 +12152,7 @@
                   "title": "e-codices",
                   "kind": "link",
                   "repo": "",
-                  "url": "http://e-codices.ch/",
+                  "url": "https://www.e-codices.unifr.ch/en",
                   "description": "Virtual manuscript library of Switzerland.",
                   "external": true,
                   "sourceRepo": "maehr/awesome-digital-history",
@@ -13309,7 +13336,7 @@
               "sourceRepo": "maehr/awesome-digital-history",
               "depth": 2,
               "children": [],
-              "stars": 2957,
+              "stars": 2959,
               "forks": 158,
               "language": null,
               "license": null,
@@ -13323,7 +13350,7 @@
                 "list",
                 "video"
               ],
-              "updated": "2026-08-24T16:40:22Z",
+              "updated": "2026-09-05T18:13:41Z",
               "pushed": "2023-02-01T09:01:45Z",
               "awesome": true,
               "path": [
@@ -13396,8 +13423,8 @@
               "sourceRepo": "maehr/awesome-digital-history",
               "depth": 2,
               "children": [],
-              "stars": 2759,
-              "forks": 267,
+              "stars": 2766,
+              "forks": 270,
               "language": null,
               "license": null,
               "topics": [
@@ -13410,7 +13437,7 @@
                 "research-tools",
                 "tools"
               ],
-              "updated": "2026-08-30T07:45:05Z",
+              "updated": "2026-09-05T12:10:04Z",
               "pushed": "2026-05-19T11:43:56Z",
               "awesome": true,
               "path": [
@@ -13431,7 +13458,7 @@
               "sourceRepo": "maehr/awesome-digital-history",
               "depth": 2,
               "children": [],
-              "stars": 997,
+              "stars": 999,
               "forks": 67,
               "language": null,
               "license": "CC0-1.0",
@@ -13444,8 +13471,8 @@
                 "pandoc",
                 "restructuredtext"
               ],
-              "updated": "2026-08-30T00:40:19Z",
-              "pushed": "2026-03-06T09:51:28Z",
+              "updated": "2026-09-05T15:45:41Z",
+              "pushed": "2026-09-05T09:43:41Z",
               "awesome": true,
               "path": [
                 "Digital History",
@@ -13518,7 +13545,7 @@
           "parentId": "root-health-and-social-science-digital-history"
         }
       ],
-      "stars": 349,
+      "stars": 350,
       "forks": 39,
       "language": "JavaScript",
       "license": "AGPL-3.0",
@@ -13538,8 +13565,8 @@
         "maps",
         "newspapers"
       ],
-      "updated": "2026-08-17T08:38:21Z",
-      "pushed": "2026-08-21T23:24:02Z",
+      "updated": "2026-09-05T10:03:41Z",
+      "pushed": "2026-09-05T10:05:51Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -14111,8 +14138,8 @@
           "parentId": "root-health-and-social-science-healthcare"
         }
       ],
-      "stars": 3957,
-      "forks": 553,
+      "stars": 3961,
+      "forks": 555,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -14121,7 +14148,7 @@
         "health",
         "list"
       ],
-      "updated": "2026-08-30T00:00:14Z",
+      "updated": "2026-09-04T04:45:35Z",
       "pushed": "2026-05-05T10:41:03Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -14340,7 +14367,7 @@
           "parentId": "root-health-and-social-science-mental-health"
         }
       ],
-      "stars": 3633,
+      "stars": 3640,
       "forks": 207,
       "language": "HTML",
       "license": "CC0-1.0",
@@ -14351,7 +14378,7 @@
         "mental-health-awareness",
         "self-care"
       ],
-      "updated": "2026-08-30T01:35:26Z",
+      "updated": "2026-09-05T17:17:09Z",
       "pushed": "2025-05-02T20:01:45Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -16065,8 +16092,8 @@
                   "sourceRepo": "analyticalmonk/awesome-neuroscience",
                   "depth": 3,
                   "children": [],
-                  "stars": 78712,
-                  "forks": 11813,
+                  "stars": 78823,
+                  "forks": 11833,
                   "language": null,
                   "license": "MIT",
                   "topics": [
@@ -16075,8 +16102,8 @@
                     "datasets",
                     "opendata"
                   ],
-                  "updated": "2026-08-30T07:53:46Z",
-                  "pushed": "2026-08-29T18:38:59Z",
+                  "updated": "2026-09-06T06:53:22Z",
+                  "pushed": "2026-09-03T21:42:22Z",
                   "awesome": true,
                   "path": [
                     "Neuroscience",
@@ -16410,7 +16437,7 @@
           "parentId": "root-health-and-social-science-neuroscience"
         }
       ],
-      "stars": 1705,
+      "stars": 1708,
       "forks": 181,
       "language": null,
       "license": null,
@@ -16429,7 +16456,7 @@
         "nirs",
         "python"
       ],
-      "updated": "2026-08-28T21:59:15Z",
+      "updated": "2026-09-03T22:18:10Z",
       "pushed": "2026-06-24T09:55:59Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -17966,6 +17993,32 @@
                 "Journal of Cultural Analytics"
               ],
               "parentId": "root-health-and-social-science-digital-humanities-journals"
+            },
+            {
+              "id": "root-health-and-social-science-digital-humanities-journals-journal-of-open-humanities-data",
+              "title": "Journal of Open Humanities Data",
+              "kind": "link",
+              "repo": "",
+              "url": "https://openhumanitiesdata.metajnl.com/",
+              "description": "Open-access, peer-reviewed journal publishing data papers that describe humanities research objects, datasets, and techniques with high potential for reuse. Published by Ubiquity Press since 2015.",
+              "external": true,
+              "sourceRepo": "dh-tech/awesome-digital-humanities",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Digital Humanities",
+                "Journals",
+                "Journal of Open Humanities Data"
+              ],
+              "parentId": "root-health-and-social-science-digital-humanities-journals"
             }
           ],
           "stars": 0,
@@ -18362,7 +18415,7 @@
               "sourceRepo": "dh-tech/awesome-digital-humanities",
               "depth": 2,
               "children": [],
-              "stars": 349,
+              "stars": 350,
               "forks": 39,
               "language": "JavaScript",
               "license": "AGPL-3.0",
@@ -18382,8 +18435,8 @@
                 "maps",
                 "newspapers"
               ],
-              "updated": "2026-08-17T08:38:21Z",
-              "pushed": "2026-08-21T23:24:02Z",
+              "updated": "2026-09-05T10:03:41Z",
+              "pushed": "2026-09-05T10:05:51Z",
               "awesome": true,
               "path": [
                 "Digital Humanities",
@@ -18436,12 +18489,12 @@
               "sourceRepo": "dh-tech/awesome-digital-humanities",
               "depth": 2,
               "children": [],
-              "stars": 3119,
-              "forks": 379,
+              "stars": 3120,
+              "forks": 380,
               "language": null,
               "license": "CC0-1.0",
               "topics": [],
-              "updated": "2026-08-25T19:09:46Z",
+              "updated": "2026-09-05T04:22:08Z",
               "pushed": "2024-07-06T21:02:05Z",
               "awesome": true,
               "path": [
@@ -18462,7 +18515,7 @@
               "sourceRepo": "dh-tech/awesome-digital-humanities",
               "depth": 2,
               "children": [],
-              "stars": 997,
+              "stars": 999,
               "forks": 67,
               "language": null,
               "license": "CC0-1.0",
@@ -18475,8 +18528,8 @@
                 "pandoc",
                 "restructuredtext"
               ],
-              "updated": "2026-08-30T00:40:19Z",
-              "pushed": "2026-03-06T09:51:28Z",
+              "updated": "2026-09-05T15:45:41Z",
+              "pushed": "2026-09-05T09:43:41Z",
               "awesome": true,
               "path": [
                 "Digital Humanities",
@@ -18496,8 +18549,8 @@
               "sourceRepo": "dh-tech/awesome-digital-humanities",
               "depth": 2,
               "children": [],
-              "stars": 2629,
-              "forks": 199,
+              "stars": 2634,
+              "forks": 200,
               "language": null,
               "license": "CC0-1.0",
               "topics": [
@@ -18505,7 +18558,7 @@
                 "awesome-list",
                 "webarchiving"
               ],
-              "updated": "2026-08-29T22:29:45Z",
+              "updated": "2026-09-05T03:27:01Z",
               "pushed": "2026-08-17T01:52:22Z",
               "awesome": true,
               "path": [
@@ -20070,8 +20123,8 @@
           "parentId": "root-health-and-social-science-digital-humanities"
         }
       ],
-      "stars": 408,
-      "forks": 48,
+      "stars": 411,
+      "forks": 50,
       "language": "SCSS",
       "license": "CC0-1.0",
       "topics": [
@@ -20081,8 +20134,8 @@
         "dh-tools",
         "digital-humanities"
       ],
-      "updated": "2026-08-27T21:28:45Z",
-      "pushed": "2026-08-19T04:59:58Z",
+      "updated": "2026-09-04T01:48:16Z",
+      "pushed": "2026-09-03T13:16:04Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -22373,7 +22426,7 @@
           "parentId": "root-health-and-social-science-lucid-dreams"
         }
       ],
-      "stars": 163,
+      "stars": 164,
       "forks": 7,
       "language": null,
       "license": "CC0-1.0",
@@ -22383,7 +22436,7 @@
         "lucid-dreaming",
         "rem-sleep"
       ],
-      "updated": "2026-08-27T13:24:20Z",
+      "updated": "2026-09-01T13:00:11Z",
       "pushed": "2025-12-18T06:02:06Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -25686,7 +25739,7 @@
           "parentId": "root-health-and-social-science-neuroimaging"
         }
       ],
-      "stars": 48,
+      "stars": 49,
       "forks": 6,
       "language": "Makefile",
       "license": "CC0-1.0",
@@ -25696,7 +25749,7 @@
         "neuroimaging",
         "neuroimaging-analysis"
       ],
-      "updated": "2026-08-24T00:32:19Z",
+      "updated": "2026-09-03T22:18:27Z",
       "pushed": "2026-08-24T00:32:07Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -27899,7 +27952,7 @@
           "parentId": "root-health-and-social-science-transgender"
         }
       ],
-      "stars": 96,
+      "stars": 98,
       "forks": 7,
       "language": null,
       "license": "CC0-1.0",
@@ -27913,8 +27966,8 @@
         "queer",
         "transgender"
       ],
-      "updated": "2026-08-19T17:54:32Z",
-      "pushed": "2026-08-16T20:10:27Z",
+      "updated": "2026-08-31T20:59:33Z",
+      "pushed": "2026-09-02T15:40:54Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [

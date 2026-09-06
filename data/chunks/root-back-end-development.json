@@ -5738,7 +5738,7 @@
           "parentId": "root-back-end-development-flask"
         }
       ],
-      "stars": 1774,
+      "stars": 1777,
       "forks": 171,
       "language": null,
       "license": "CC0-1.0",
@@ -5748,7 +5748,7 @@
         "flask",
         "flask-resources"
       ],
-      "updated": "2026-08-28T23:59:48Z",
+      "updated": "2026-09-04T12:40:40Z",
       "pushed": "2026-05-13T13:35:25Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -15995,8 +15995,8 @@
               "sourceRepo": "veggiemonk/awesome-docker",
               "depth": 2,
               "children": [],
-              "stars": 46196,
-              "forks": 8298,
+              "stars": 46238,
+              "forks": 8309,
               "language": "HTML",
               "license": "CC0-1.0",
               "topics": [
@@ -16004,8 +16004,8 @@
                 "awesome-list",
                 "docker-compose"
               ],
-              "updated": "2026-08-30T01:50:35Z",
-              "pushed": "2026-08-25T01:56:23Z",
+              "updated": "2026-09-06T04:50:25Z",
+              "pushed": "2026-09-04T21:00:59Z",
               "awesome": true,
               "path": [
                 "Docker",
@@ -16025,8 +16025,8 @@
               "sourceRepo": "veggiemonk/awesome-docker",
               "depth": 2,
               "children": [],
-              "stars": 16062,
-              "forks": 2483,
+              "stars": 16070,
+              "forks": 2487,
               "language": "Shell",
               "license": "NOASSERTION",
               "topics": [
@@ -16049,8 +16049,8 @@
                 "resource",
                 "schedule"
               ],
-              "updated": "2026-08-30T07:11:06Z",
-              "pushed": "2026-06-23T13:33:19Z",
+              "updated": "2026-09-06T04:54:14Z",
+              "pushed": "2026-09-03T13:33:39Z",
               "awesome": true,
               "path": [
                 "Docker",
@@ -17690,8 +17690,8 @@
           "parentId": "root-back-end-development-docker"
         }
       ],
-      "stars": 36747,
-      "forks": 3361,
+      "stars": 36786,
+      "forks": 3362,
       "language": null,
       "license": "Apache-2.0",
       "topics": [
@@ -17714,7 +17714,7 @@
         "moby",
         "tools"
       ],
-      "updated": "2026-08-30T02:56:39Z",
+      "updated": "2026-09-06T04:52:25Z",
       "pushed": "2026-08-27T17:04:16Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -17977,7 +17977,7 @@
           "parentId": "root-back-end-development-vagrant"
         }
       ],
-      "stars": 631,
+      "stars": 630,
       "forks": 57,
       "language": null,
       "license": null,
@@ -17988,7 +17988,7 @@
         "vagrant",
         "vagrant-resources"
       ],
-      "updated": "2026-08-20T15:56:33Z",
+      "updated": "2026-08-31T20:12:11Z",
       "pushed": "2020-10-08T13:38:09Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -18735,12 +18735,12 @@
           "parentId": "root-back-end-development-pyramid"
         }
       ],
-      "stars": 576,
+      "stars": 575,
       "forks": 55,
       "language": null,
       "license": null,
       "topics": [],
-      "updated": "2026-08-05T19:51:58Z",
+      "updated": "2026-09-05T12:56:26Z",
       "pushed": "2021-07-08T12:28:10Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -25894,12 +25894,12 @@
           "parentId": "root-back-end-development-symfony"
         }
       ],
-      "stars": 1573,
+      "stars": 1572,
       "forks": 222,
       "language": null,
       "license": null,
       "topics": [],
-      "updated": "2026-08-06T12:28:07Z",
+      "updated": "2026-09-04T22:06:20Z",
       "pushed": "2023-02-22T09:22:45Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -26391,7 +26391,7 @@
                     "laravel",
                     "php"
                   ],
-                  "updated": "2026-08-30T01:45:42Z",
+                  "updated": "2026-09-06T04:54:55Z",
                   "pushed": "2024-07-03T15:59:36Z",
                   "awesome": true,
                   "path": [
@@ -26413,8 +26413,8 @@
                   "sourceRepo": "fukuball/awesome-laravel-education",
                   "depth": 3,
                   "children": [],
-                  "stars": 32674,
-                  "forks": 5140,
+                  "stars": 32678,
+                  "forks": 5138,
                   "language": null,
                   "license": "WTFPL",
                   "topics": [
@@ -26426,7 +26426,7 @@
                     "php-installation",
                     "php-library"
                   ],
-                  "updated": "2026-08-29T23:26:44Z",
+                  "updated": "2026-09-06T04:52:49Z",
                   "pushed": "2026-07-13T19:44:57Z",
                   "awesome": true,
                   "path": [
@@ -33338,7 +33338,7 @@
         "laravel",
         "php"
       ],
-      "updated": "2026-08-30T01:45:42Z",
+      "updated": "2026-09-06T04:54:55Z",
       "pushed": "2024-07-03T15:59:36Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -45013,6 +45013,32 @@
               "parentId": "root-back-end-development-rails-starters-boilerplates"
             },
             {
+              "id": "root-back-end-development-rails-starters-boilerplates-rails-rocket-sheep",
+              "title": "rails-rocket-sheep",
+              "kind": "repo",
+              "repo": "positivecontrol/rails-rocket-sheep",
+              "url": "https://github.com/positivecontrol/rails-rocket-sheep",
+              "description": "Application template for building with AI coding agents (Claude Code, Cursor, Codex); generates a CLAUDE.md and AGENTS.md, one-convention-per-file rules, workflow commands, and CI gates (using Rails 8.0).",
+              "external": false,
+              "sourceRepo": "gramantin/awesome-rails",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Rails",
+                "Starters/Boilerplates",
+                "rails-rocket-sheep"
+              ],
+              "parentId": "root-back-end-development-rails-starters-boilerplates"
+            },
+            {
               "id": "root-back-end-development-rails-starters-boilerplates-rails-template-mattbrictson",
               "title": "rails-template(mattbrictson)",
               "kind": "repo",
@@ -45564,6 +45590,33 @@
                   "parentId": "root-back-end-development-rails-other-rails-tools-devtools"
                 },
                 {
+                  "id": "root-back-end-development-rails-other-rails-tools-devtools-mcdview",
+                  "title": "mcdview",
+                  "kind": "link",
+                  "repo": "",
+                  "url": "https://mcdview.dev/",
+                  "description": "Turn your schema.rb into an interactive ER diagram on a stable link, no account, and keep it current in CI with history and diffs.",
+                  "external": true,
+                  "sourceRepo": "gramantin/awesome-rails",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Rails",
+                    "Other Rails Tools",
+                    "DevTools",
+                    "mcdview"
+                  ],
+                  "parentId": "root-back-end-development-rails-other-rails-tools-devtools"
+                },
+                {
                   "id": "root-back-end-development-rails-other-rails-tools-devtools-dash",
                   "title": "Dash",
                   "kind": "link",
@@ -45623,7 +45676,7 @@
         }
       ],
       "stars": 3923,
-      "forks": 440,
+      "forks": 442,
       "language": null,
       "license": "MIT",
       "topics": [
@@ -45632,8 +45685,8 @@
         "opensource-apps",
         "rails"
       ],
-      "updated": "2026-08-28T22:09:35Z",
-      "pushed": "2026-08-19T12:06:35Z",
+      "updated": "2026-09-05T19:40:15Z",
+      "pushed": "2026-09-04T07:23:18Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -46987,8 +47040,8 @@
           "parentId": "root-back-end-development-kubernetes"
         }
       ],
-      "stars": 16062,
-      "forks": 2483,
+      "stars": 16070,
+      "forks": 2487,
       "language": "Shell",
       "license": "NOASSERTION",
       "topics": [
@@ -47011,8 +47064,8 @@
         "resource",
         "schedule"
       ],
-      "updated": "2026-08-30T07:11:06Z",
-      "pushed": "2026-06-23T13:33:19Z",
+      "updated": "2026-09-06T04:54:14Z",
+      "pushed": "2026-09-03T13:33:39Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -53785,7 +53838,7 @@
               "sourceRepo": "shuaibiyy/awesome-terraform",
               "depth": 2,
               "children": [],
-              "stars": 142,
+              "stars": 143,
               "forks": 6,
               "language": null,
               "license": "CC0-1.0",
@@ -53800,7 +53853,7 @@
                 "terraform",
                 "terraform-compliance"
               ],
-              "updated": "2026-08-06T22:12:02Z",
+              "updated": "2026-08-31T18:28:18Z",
               "pushed": "2026-07-29T14:43:58Z",
               "awesome": true,
               "path": [
@@ -54323,6 +54376,32 @@
                 "Terraform",
                 "Learning and Studying",
                 "Terraform Academy"
+              ],
+              "parentId": "root-back-end-development-terraform-learning-and-studying"
+            },
+            {
+              "id": "root-back-end-development-terraform-learning-and-studying-terraform-terminal-simulator",
+              "title": "Terraform Terminal Simulator",
+              "kind": "link",
+              "repo": "",
+              "url": "https://devops-daily.com/games/terraform-terminal-simulator",
+              "description": "Practice init, plan, and apply in a simulated terminal in the browser. Free and open source, no signup.",
+              "external": true,
+              "sourceRepo": "shuaibiyy/awesome-terraform",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Terraform",
+                "Learning and Studying",
+                "Terraform Terminal Simulator"
               ],
               "parentId": "root-back-end-development-terraform-learning-and-studying"
             },
@@ -57205,6 +57284,32 @@
               "parentId": "root-back-end-development-terraform-community-modules"
             },
             {
+              "id": "root-back-end-development-terraform-community-modules-terraform-helm-kepler",
+              "title": "terraform-helm-kepler",
+              "kind": "repo",
+              "repo": "fabiocicerchia/terraform-helm-kepler",
+              "url": "https://github.com/fabiocicerchia/terraform-helm-kepler",
+              "description": "Terraform module to deploy Kepler (Kubernetes power profiling) via Helm.",
+              "external": false,
+              "sourceRepo": "shuaibiyy/awesome-terraform",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Terraform",
+                "Community Modules",
+                "terraform-helm-kepler"
+              ],
+              "parentId": "root-back-end-development-terraform-community-modules"
+            },
+            {
               "id": "root-back-end-development-terraform-community-modules-terraform-kubestack",
               "title": "terraform-kubestack",
               "kind": "repo",
@@ -59253,6 +59358,33 @@
               "url": "https://github.com/shuaibiyy/awesome-terraform#community-providers",
               "children": [
                 {
+                  "id": "root-back-end-development-terraform-providers-community-providers-terraform-provider-coolify",
+                  "title": "terraform-provider-coolify",
+                  "kind": "repo",
+                  "repo": "coolify-terraform/terraform-provider-coolify",
+                  "url": "https://github.com/coolify-terraform/terraform-provider-coolify",
+                  "description": "Terraform provider for Coolify.",
+                  "external": false,
+                  "sourceRepo": "shuaibiyy/awesome-terraform",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Terraform",
+                    "Providers",
+                    "Community providers",
+                    "terraform-provider-coolify"
+                  ],
+                  "parentId": "root-back-end-development-terraform-providers-community-providers"
+                },
+                {
                   "id": "root-back-end-development-terraform-providers-community-providers-terraform-provider-docker",
                   "title": "terraform-provider-docker",
                   "kind": "repo",
@@ -59303,114 +59435,6 @@
                     "Providers",
                     "Community providers",
                     "terraform-provider-minio"
-                  ],
-                  "parentId": "root-back-end-development-terraform-providers-community-providers"
-                },
-                {
-                  "id": "root-back-end-development-terraform-providers-community-providers-terraform-provider-proxmox",
-                  "title": "terraform-provider-proxmox",
-                  "kind": "repo",
-                  "repo": "telmate/terraform-provider-proxmox",
-                  "url": "https://github.com/telmate/terraform-provider-proxmox",
-                  "description": "Terraform Proxmox provider.",
-                  "external": false,
-                  "sourceRepo": "shuaibiyy/awesome-terraform",
-                  "depth": 3,
-                  "children": [],
-                  "stars": 0,
-                  "forks": 0,
-                  "language": null,
-                  "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
-                  "awesome": false,
-                  "path": [
-                    "Terraform",
-                    "Providers",
-                    "Community providers",
-                    "terraform-provider-proxmox"
-                  ],
-                  "parentId": "root-back-end-development-terraform-providers-community-providers"
-                },
-                {
-                  "id": "root-back-end-development-terraform-providers-community-providers-terraform-provider-terracurl",
-                  "title": "terraform-provider-terracurl",
-                  "kind": "repo",
-                  "repo": "devops-rob/terraform-provider-terracurl",
-                  "url": "https://github.com/devops-rob/terraform-provider-terracurl",
-                  "description": "Provider to make managed and unmanaged API calls to your target endpoint.",
-                  "external": false,
-                  "sourceRepo": "shuaibiyy/awesome-terraform",
-                  "depth": 3,
-                  "children": [],
-                  "stars": 0,
-                  "forks": 0,
-                  "language": null,
-                  "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
-                  "awesome": false,
-                  "path": [
-                    "Terraform",
-                    "Providers",
-                    "Community providers",
-                    "terraform-provider-terracurl"
-                  ],
-                  "parentId": "root-back-end-development-terraform-providers-community-providers"
-                },
-                {
-                  "id": "root-back-end-development-terraform-providers-community-providers-terraform-provider-uname",
-                  "title": "terraform-provider-uname",
-                  "kind": "repo",
-                  "repo": "julienlevasseur/terraform-provider-uname",
-                  "url": "https://github.com/julienlevasseur/terraform-provider-uname",
-                  "description": "Uname Provider for Terraform.",
-                  "external": false,
-                  "sourceRepo": "shuaibiyy/awesome-terraform",
-                  "depth": 3,
-                  "children": [],
-                  "stars": 0,
-                  "forks": 0,
-                  "language": null,
-                  "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
-                  "awesome": false,
-                  "path": [
-                    "Terraform",
-                    "Providers",
-                    "Community providers",
-                    "terraform-provider-uname"
-                  ],
-                  "parentId": "root-back-end-development-terraform-providers-community-providers"
-                },
-                {
-                  "id": "root-back-end-development-terraform-providers-community-providers-terraform-provider-value",
-                  "title": "terraform-provider-value",
-                  "kind": "repo",
-                  "repo": "pseudo-dynamic/terraform-provider-value",
-                  "url": "https://github.com/pseudo-dynamic/terraform-provider-value",
-                  "description": "Value Provider for Terraform.",
-                  "external": false,
-                  "sourceRepo": "shuaibiyy/awesome-terraform",
-                  "depth": 3,
-                  "children": [],
-                  "stars": 0,
-                  "forks": 0,
-                  "language": null,
-                  "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
-                  "awesome": false,
-                  "path": [
-                    "Terraform",
-                    "Providers",
-                    "Community providers",
-                    "terraform-provider-value"
                   ],
                   "parentId": "root-back-end-development-terraform-providers-community-providers"
                 },
@@ -59496,7 +59520,223 @@
                   "parentId": "root-back-end-development-terraform-providers-community-providers"
                 },
                 {
-                  "id": "root-back-end-development-terraform-providers-community-providers-terraform-provider-coolify",
+                  "id": "root-back-end-development-terraform-providers-community-providers-terraform-provider-proxmox",
+                  "title": "terraform-provider-proxmox",
+                  "kind": "repo",
+                  "repo": "telmate/terraform-provider-proxmox",
+                  "url": "https://github.com/telmate/terraform-provider-proxmox",
+                  "description": "Terraform Proxmox provider.",
+                  "external": false,
+                  "sourceRepo": "shuaibiyy/awesome-terraform",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Terraform",
+                    "Providers",
+                    "Community providers",
+                    "terraform-provider-proxmox"
+                  ],
+                  "parentId": "root-back-end-development-terraform-providers-community-providers"
+                },
+                {
+                  "id": "root-back-end-development-terraform-providers-community-providers-terraform-provider-seerr",
+                  "title": "terraform-provider-seerr",
+                  "kind": "repo",
+                  "repo": "josh-archer/terraform-provider-seerr",
+                  "url": "https://github.com/josh-archer/terraform-provider-seerr",
+                  "description": "Terraform provider for Seerr (Overseerr/Jellyseerr).",
+                  "external": false,
+                  "sourceRepo": "shuaibiyy/awesome-terraform",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Terraform",
+                    "Providers",
+                    "Community providers",
+                    "terraform-provider-seerr"
+                  ],
+                  "parentId": "root-back-end-development-terraform-providers-community-providers"
+                },
+                {
+                  "id": "root-back-end-development-terraform-providers-community-providers-terraform-provider-terracurl",
+                  "title": "terraform-provider-terracurl",
+                  "kind": "repo",
+                  "repo": "devops-rob/terraform-provider-terracurl",
+                  "url": "https://github.com/devops-rob/terraform-provider-terracurl",
+                  "description": "Provider to make managed and unmanaged API calls to your target endpoint.",
+                  "external": false,
+                  "sourceRepo": "shuaibiyy/awesome-terraform",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Terraform",
+                    "Providers",
+                    "Community providers",
+                    "terraform-provider-terracurl"
+                  ],
+                  "parentId": "root-back-end-development-terraform-providers-community-providers"
+                },
+                {
+                  "id": "root-back-end-development-terraform-providers-community-providers-terraform-provider-uname",
+                  "title": "terraform-provider-uname",
+                  "kind": "repo",
+                  "repo": "julienlevasseur/terraform-provider-uname",
+                  "url": "https://github.com/julienlevasseur/terraform-provider-uname",
+                  "description": "Uname Provider for Terraform.",
+                  "external": false,
+                  "sourceRepo": "shuaibiyy/awesome-terraform",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Terraform",
+                    "Providers",
+                    "Community providers",
+                    "terraform-provider-uname"
+                  ],
+                  "parentId": "root-back-end-development-terraform-providers-community-providers"
+                },
+                {
+                  "id": "root-back-end-development-terraform-providers-community-providers-terraform-provider-value",
+                  "title": "terraform-provider-value",
+                  "kind": "repo",
+                  "repo": "pseudo-dynamic/terraform-provider-value",
+                  "url": "https://github.com/pseudo-dynamic/terraform-provider-value",
+                  "description": "Value Provider for Terraform.",
+                  "external": false,
+                  "sourceRepo": "shuaibiyy/awesome-terraform",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Terraform",
+                    "Providers",
+                    "Community providers",
+                    "terraform-provider-value"
+                  ],
+                  "parentId": "root-back-end-development-terraform-providers-community-providers"
+                },
+                {
+                  "id": "root-back-end-development-terraform-providers-community-providers-terraform-provider-multipass-2",
+                  "title": "terraform-provider-multipass",
+                  "kind": "repo",
+                  "repo": "todoroff/terraform-provider-multipass",
+                  "url": "https://github.com/todoroff/terraform-provider-multipass",
+                  "description": "Terraform provider for Multipass.",
+                  "external": false,
+                  "sourceRepo": "shuaibiyy/awesome-terraform",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Terraform",
+                    "Providers",
+                    "Community providers",
+                    "terraform-provider-multipass"
+                  ],
+                  "parentId": "root-back-end-development-terraform-providers-community-providers"
+                },
+                {
+                  "id": "root-back-end-development-terraform-providers-community-providers-terraform-provider-openrouter-2",
+                  "title": "terraform-provider-openrouter",
+                  "kind": "repo",
+                  "repo": "cloudopsworks/terraform-provider-openrouter",
+                  "url": "https://github.com/cloudopsworks/terraform-provider-openrouter",
+                  "description": "Manage OpenRouter as code: workspaces, guardrails, spend-limited API keys, and org members. Terraform + OpenTofu.",
+                  "external": false,
+                  "sourceRepo": "shuaibiyy/awesome-terraform",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Terraform",
+                    "Providers",
+                    "Community providers",
+                    "terraform-provider-openrouter"
+                  ],
+                  "parentId": "root-back-end-development-terraform-providers-community-providers"
+                },
+                {
+                  "id": "root-back-end-development-terraform-providers-community-providers-terraform-provider-plancost-2",
+                  "title": "terraform-provider-plancost",
+                  "kind": "repo",
+                  "repo": "plancost/terraform-provider-plancost",
+                  "url": "https://github.com/plancost/terraform-provider-plancost",
+                  "description": "Terraform provider for Azure cost estimation and cost guardrails.",
+                  "external": false,
+                  "sourceRepo": "shuaibiyy/awesome-terraform",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Terraform",
+                    "Providers",
+                    "Community providers",
+                    "terraform-provider-plancost"
+                  ],
+                  "parentId": "root-back-end-development-terraform-providers-community-providers"
+                },
+                {
+                  "id": "root-back-end-development-terraform-providers-community-providers-terraform-provider-coolify-2",
                   "title": "terraform-provider-coolify",
                   "kind": "repo",
                   "repo": "coolify-terraform/terraform-provider-coolify",
@@ -59573,6 +59813,33 @@
                     "Providers",
                     "Community providers",
                     "terraform-provider-expo"
+                  ],
+                  "parentId": "root-back-end-development-terraform-providers-community-providers"
+                },
+                {
+                  "id": "root-back-end-development-terraform-providers-community-providers-terraform-provider-paddle",
+                  "title": "terraform-provider-paddle",
+                  "kind": "repo",
+                  "repo": "vivantel/terraform-provider-paddle",
+                  "url": "https://github.com/vivantel/terraform-provider-paddle",
+                  "description": "Terraform provider for Paddle Billing catalog resources, lifecycle actions, and lookup data sources.",
+                  "external": false,
+                  "sourceRepo": "shuaibiyy/awesome-terraform",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Terraform",
+                    "Providers",
+                    "Community providers",
+                    "terraform-provider-paddle"
                   ],
                   "parentId": "root-back-end-development-terraform-providers-community-providers"
                 }
@@ -64223,6 +64490,33 @@
               "url": "https://github.com/shuaibiyy/awesome-terraform#ci",
               "children": [
                 {
+                  "id": "root-back-end-development-terraform-tools-ci-opentofu-updater-action",
+                  "title": "opentofu-updater-action",
+                  "kind": "repo",
+                  "repo": "drumandbytes/opentofu-updater-action",
+                  "url": "https://github.com/drumandbytes/opentofu-updater-action",
+                  "description": "GitHub Action that keeps OpenTofu/Terraform providers, modules, Helm charts and container images up to date by opening pull requests.",
+                  "external": false,
+                  "sourceRepo": "shuaibiyy/awesome-terraform",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Terraform",
+                    "Tools",
+                    "CI",
+                    "opentofu-updater-action"
+                  ],
+                  "parentId": "root-back-end-development-terraform-tools-ci"
+                },
+                {
                   "id": "root-back-end-development-terraform-tools-ci-setup-terraform",
                   "title": "setup-terraform",
                   "kind": "repo",
@@ -68201,7 +68495,7 @@
           "parentId": "root-back-end-development-vapor"
         }
       ],
-      "stars": 1285,
+      "stars": 1284,
       "forks": 66,
       "language": "Ruby",
       "license": "CC0-1.0",
@@ -68212,7 +68506,7 @@
         "swift",
         "vapor"
       ],
-      "updated": "2026-08-29T23:43:30Z",
+      "updated": "2026-09-04T17:47:11Z",
       "pushed": "2023-10-14T17:45:31Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -68973,8 +69267,8 @@
               "sourceRepo": "ucg8j/awesome-dash",
               "depth": 2,
               "children": [],
-              "stars": 48301,
-              "forks": 3835,
+              "stars": 48339,
+              "forks": 3837,
               "language": null,
               "license": "CC0-1.0",
               "topics": [
@@ -68984,7 +69278,7 @@
                 "react-component",
                 "react-components"
               ],
-              "updated": "2026-08-30T06:53:45Z",
+              "updated": "2026-09-06T04:58:07Z",
               "pushed": "2026-01-26T16:36:45Z",
               "awesome": true,
               "path": [
@@ -69005,8 +69299,8 @@
               "sourceRepo": "ucg8j/awesome-dash",
               "depth": 2,
               "children": [],
-              "stars": 74447,
-              "forks": 7627,
+              "stars": 74506,
+              "forks": 7629,
               "language": null,
               "license": null,
               "topics": [
@@ -69021,8 +69315,8 @@
                 "tutorial",
                 "typescript"
               ],
-              "updated": "2026-08-30T06:30:31Z",
-              "pushed": "2026-08-20T07:58:12Z",
+              "updated": "2026-09-06T06:51:50Z",
+              "pushed": "2026-09-04T01:13:20Z",
               "awesome": true,
               "path": [
                 "Dash",
@@ -70388,7 +70682,7 @@
         "plotly",
         "python"
       ],
-      "updated": "2026-08-28T08:03:24Z",
+      "updated": "2026-09-04T10:40:12Z",
       "pushed": "2024-12-30T09:48:42Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -75871,15 +76165,15 @@
                   "sourceRepo": "mjhea0/awesome-fastapi",
                   "depth": 3,
                   "children": [],
-                  "stars": 1617,
+                  "stars": 1619,
                   "forks": 141,
                   "language": "TypeScript",
                   "license": null,
                   "topics": [
                     "fastapi"
                   ],
-                  "updated": "2026-08-28T13:37:41Z",
-                  "pushed": "2026-08-24T01:10:46Z",
+                  "updated": "2026-09-01T16:26:35Z",
+                  "pushed": "2026-09-01T00:45:13Z",
                   "awesome": true,
                   "path": [
                     "FastAPI",
@@ -76675,8 +76969,8 @@
           "parentId": "root-back-end-development-fastapi"
         }
       ],
-      "stars": 11633,
-      "forks": 891,
+      "stars": 11640,
+      "forks": 888,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -76685,7 +76979,7 @@
         "fastapi",
         "starlette"
       ],
-      "updated": "2026-08-29T13:19:47Z",
+      "updated": "2026-09-05T15:34:26Z",
       "pushed": "2026-08-24T17:18:28Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -80785,8 +81079,8 @@
                 "openidconnect",
                 "security"
               ],
-              "updated": "2026-08-20T20:48:48Z",
-              "pushed": "2026-08-20T20:43:07Z",
+              "updated": "2026-09-03T20:59:44Z",
+              "pushed": "2026-09-03T20:56:25Z",
               "awesome": true,
               "path": [
                 "IAM",
@@ -81840,7 +82134,7 @@
               "sourceRepo": "kdeldycke/awesome-iam",
               "depth": 2,
               "children": [],
-              "stars": 1331,
+              "stars": 1336,
               "forks": 105,
               "language": null,
               "license": "CC0-1.0",
@@ -81866,7 +82160,7 @@
                 "usage-based-billing",
                 "vat"
               ],
-              "updated": "2026-08-29T16:39:02Z",
+              "updated": "2026-09-04T13:18:57Z",
               "pushed": "2026-08-14T13:46:25Z",
               "awesome": true,
               "path": [
@@ -82372,8 +82666,8 @@
                   "sourceRepo": "kdeldycke/awesome-iam",
                   "depth": 3,
                   "children": [],
-                  "stars": 10585,
-                  "forks": 1820,
+                  "stars": 10606,
+                  "forks": 1824,
                   "language": null,
                   "license": "Apache-2.0",
                   "topics": [
@@ -82382,7 +82676,7 @@
                     "hacktoberfest",
                     "security"
                   ],
-                  "updated": "2026-08-30T01:58:16Z",
+                  "updated": "2026-09-06T04:19:54Z",
                   "pushed": "2026-05-31T10:54:05Z",
                   "awesome": true,
                   "path": [
@@ -82725,7 +83019,7 @@
                   "sourceRepo": "kdeldycke/awesome-iam",
                   "depth": 3,
                   "children": [],
-                  "stars": 1421,
+                  "stars": 1420,
                   "forks": 128,
                   "language": "JavaScript",
                   "license": "MIT",
@@ -82743,7 +83037,7 @@
                     "crack-captcha",
                     "image-captcha"
                   ],
-                  "updated": "2026-08-27T19:28:01Z",
+                  "updated": "2026-09-01T12:45:52Z",
                   "pushed": "2026-04-17T22:10:48Z",
                   "awesome": true,
                   "path": [
@@ -84479,8 +84773,8 @@
           "parentId": "root-back-end-development-iam"
         }
       ],
-      "stars": 2262,
-      "forks": 187,
+      "stars": 2267,
+      "forks": 189,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -84505,7 +84799,7 @@
         "webauthn",
         "zero-trust"
       ],
-      "updated": "2026-08-26T10:42:55Z",
+      "updated": "2026-09-05T13:26:39Z",
       "pushed": "2026-08-14T14:15:27Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -89666,8 +89960,8 @@
           "parentId": "root-back-end-development-fiber"
         }
       ],
-      "stars": 836,
-      "forks": 58,
+      "stars": 837,
+      "forks": 59,
       "language": null,
       "license": "MIT",
       "topics": [
@@ -89678,7 +89972,7 @@
         "middleware",
         "recipes"
       ],
-      "updated": "2026-08-27T13:36:30Z",
+      "updated": "2026-09-01T16:01:15Z",
       "pushed": "2026-08-15T14:54:58Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -90699,8 +90993,8 @@
               "sourceRepo": "devopshivehq/awesome-kustomize",
               "depth": 2,
               "children": [],
-              "stars": 16062,
-              "forks": 2483,
+              "stars": 16070,
+              "forks": 2487,
               "language": "Shell",
               "license": "NOASSERTION",
               "topics": [
@@ -90723,8 +91017,8 @@
                 "resource",
                 "schedule"
               ],
-              "updated": "2026-08-30T07:11:06Z",
-              "pushed": "2026-06-23T13:33:19Z",
+              "updated": "2026-09-06T04:54:14Z",
+              "pushed": "2026-09-03T13:33:39Z",
               "awesome": true,
               "path": [
                 "Kustomize",
@@ -90775,7 +91069,7 @@
               "sourceRepo": "devopshivehq/awesome-kustomize",
               "depth": 2,
               "children": [],
-              "stars": 1111,
+              "stars": 1112,
               "forks": 119,
               "language": null,
               "license": "NOASSERTION",
@@ -90787,7 +91081,7 @@
                 "k8s",
                 "kuberenetes"
               ],
-              "updated": "2026-08-16T03:36:24Z",
+              "updated": "2026-08-31T19:07:04Z",
               "pushed": "2026-05-16T21:05:30Z",
               "awesome": true,
               "path": [
@@ -93824,7 +94118,7 @@
         }
       ],
       "stars": 206,
-      "forks": 22,
+      "forks": 23,
       "language": "SCSS",
       "license": "CC0-1.0",
       "topics": [

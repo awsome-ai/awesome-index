@@ -293,12 +293,12 @@
               "parentId": "root-programming-languages-javascript-promises"
             }
           ],
-          "stars": 1751,
+          "stars": 1755,
           "forks": 121,
           "language": null,
           "license": "CC0-1.0",
           "topics": [],
-          "updated": "2026-08-28T10:32:49Z",
+          "updated": "2026-09-04T07:52:43Z",
           "pushed": "2023-12-15T08:38:32Z",
           "awesome": true,
           "readmeStatus": "expanded",
@@ -1967,7 +1967,7 @@
               "parentId": "root-programming-languages-javascript-standard-style"
             }
           ],
-          "stars": 408,
+          "stars": 409,
           "forks": 35,
           "language": null,
           "license": null,
@@ -1986,7 +1986,7 @@
             "static-code-analysis",
             "style-guide"
           ],
-          "updated": "2026-06-27T07:59:15Z",
+          "updated": "2026-09-02T19:54:33Z",
           "pushed": "2023-09-16T07:25:25Z",
           "awesome": true,
           "readmeStatus": "expanded",
@@ -2683,7 +2683,7 @@
           "language": null,
           "license": "MIT",
           "topics": [],
-          "updated": "2026-08-26T07:47:56Z",
+          "updated": "2026-09-04T02:39:46Z",
           "pushed": "2023-12-18T13:25:02Z",
           "awesome": true,
           "readmeStatus": "expanded",
@@ -8479,13 +8479,13 @@
                   "kind": "repo",
                   "repo": "sindresorhus/awesome-nodejs",
                   "url": "https://github.com/sindresorhus/awesome-nodejs",
-                  "description": ":zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED UNTIL JULY]",
+                  "description": ":zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED TEMPORARILY]",
                   "external": false,
                   "sourceRepo": "sindresorhus/awesome-npm",
                   "depth": 3,
                   "children": [],
-                  "stars": 66655,
-                  "forks": 6231,
+                  "stars": 66718,
+                  "forks": 6232,
                   "language": null,
                   "license": "CC0-1.0",
                   "topics": [
@@ -8496,8 +8496,8 @@
                     "node",
                     "nodejs"
                   ],
-                  "updated": "2026-08-30T05:30:20Z",
-                  "pushed": "2026-05-03T08:24:10Z",
+                  "updated": "2026-09-06T04:48:30Z",
+                  "pushed": "2026-09-02T02:11:34Z",
                   "awesome": true,
                   "path": [
                     "JavaScript",
@@ -8524,8 +8524,8 @@
               "parentId": "root-programming-languages-javascript-npm"
             }
           ],
-          "stars": 4738,
-          "forks": 280,
+          "stars": 4737,
+          "forks": 279,
           "language": null,
           "license": "CC0-1.0",
           "topics": [
@@ -8538,7 +8538,7 @@
             "package-manager",
             "yarn"
           ],
-          "updated": "2026-08-30T01:55:09Z",
+          "updated": "2026-09-01T17:16:05Z",
           "pushed": "2026-04-20T12:11:28Z",
           "awesome": true,
           "readmeStatus": "expanded",
@@ -9943,7 +9943,7 @@
               "parentId": "root-programming-languages-javascript-ava"
             }
           ],
-          "stars": 356,
+          "stars": 357,
           "forks": 31,
           "language": null,
           "license": "CC0-1.0",
@@ -9954,7 +9954,7 @@
             "list",
             "nodejs"
           ],
-          "updated": "2026-06-27T08:03:33Z",
+          "updated": "2026-09-04T06:47:58Z",
           "pushed": "2022-09-12T08:49:21Z",
           "awesome": true,
           "readmeStatus": "expanded",
@@ -17196,8 +17196,8 @@
               "parentId": "root-programming-languages-javascript-eslint"
             }
           ],
-          "stars": 4751,
-          "forks": 252,
+          "stars": 4754,
+          "forks": 253,
           "language": null,
           "license": "CC0-1.0",
           "topics": [
@@ -17206,7 +17206,7 @@
             "eslint",
             "list"
           ],
-          "updated": "2026-08-29T17:47:48Z",
+          "updated": "2026-09-05T01:15:15Z",
           "pushed": "2026-05-13T23:09:36Z",
           "awesome": true,
           "readmeStatus": "expanded",
@@ -17585,12 +17585,12 @@
               "parentId": "root-programming-languages-javascript-functional-programming"
             }
           ],
-          "stars": 6035,
+          "stars": 6037,
           "forks": 389,
           "language": null,
           "license": null,
           "topics": [],
-          "updated": "2026-08-19T15:05:25Z",
+          "updated": "2026-09-04T06:19:11Z",
           "pushed": "2026-01-15T19:55:47Z",
           "awesome": true,
           "readmeStatus": "expanded",
@@ -18228,13 +18228,13 @@
                   "kind": "repo",
                   "repo": "sindresorhus/awesome-nodejs",
                   "url": "https://github.com/sindresorhus/awesome-nodejs",
-                  "description": ":zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED UNTIL JULY]",
+                  "description": ":zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED TEMPORARILY]",
                   "external": false,
                   "sourceRepo": "sindresorhus/awesome-observables",
                   "depth": 3,
                   "children": [],
-                  "stars": 66655,
-                  "forks": 6231,
+                  "stars": 66718,
+                  "forks": 6232,
                   "language": null,
                   "license": "CC0-1.0",
                   "topics": [
@@ -18245,8 +18245,8 @@
                     "node",
                     "nodejs"
                   ],
-                  "updated": "2026-08-30T05:30:20Z",
-                  "pushed": "2026-05-03T08:24:10Z",
+                  "updated": "2026-09-06T04:48:30Z",
+                  "pushed": "2026-09-02T02:11:34Z",
                   "awesome": true,
                   "path": [
                     "JavaScript",
@@ -19951,7 +19951,7 @@
               "parentId": "root-programming-languages-javascript-npm-scripts"
             }
           ],
-          "stars": 742,
+          "stars": 741,
           "forks": 38,
           "language": null,
           "license": "CC0-1.0",
@@ -19962,7 +19962,7 @@
             "npm",
             "task-runner"
           ],
-          "updated": "2026-07-23T16:34:47Z",
+          "updated": "2026-09-05T16:26:27Z",
           "pushed": "2026-07-23T16:34:43Z",
           "awesome": true,
           "readmeStatus": "expanded",
@@ -23496,13 +23496,13 @@
           "parentId": "root-programming-languages-javascript"
         }
       ],
-      "stars": 35025,
-      "forks": 4555,
+      "stars": 35023,
+      "forks": 4548,
       "language": null,
       "license": null,
       "topics": [],
-      "updated": "2026-08-30T05:09:12Z",
-      "pushed": "2026-08-19T17:00:42Z",
+      "updated": "2026-09-06T06:20:06Z",
+      "pushed": "2026-09-02T08:48:50Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -23532,7 +23532,7 @@
           "sourceRepo": "sindresorhus/awesome",
           "depth": 2,
           "children": [],
-          "stars": 5796,
+          "stars": 5792,
           "forks": 470,
           "language": null,
           "license": "MIT",
@@ -23542,7 +23542,7 @@
             "swift",
             "swift-education"
           ],
-          "updated": "2026-08-29T16:37:03Z",
+          "updated": "2026-09-06T06:46:44Z",
           "pushed": "2018-07-01T21:46:06Z",
           "awesome": true,
           "readmeStatus": "empty",
@@ -27610,8 +27610,8 @@
           "parentId": "root-programming-languages-swift"
         }
       ],
-      "stars": 26234,
-      "forks": 3141,
+      "stars": 26240,
+      "forks": 3142,
       "language": "Ruby",
       "license": "CC0-1.0",
       "topics": [
@@ -27629,8 +27629,8 @@
         "swift-language",
         "swift-library"
       ],
-      "updated": "2026-08-29T23:27:12Z",
-      "pushed": "2026-08-03T13:15:16Z",
+      "updated": "2026-09-06T04:53:08Z",
+      "pushed": "2026-09-01T05:37:47Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -27914,7 +27914,7 @@
               "parentId": "root-programming-languages-python-asyncio"
             }
           ],
-          "stars": 5123,
+          "stars": 5125,
           "forks": 356,
           "language": null,
           "license": "NOASSERTION",
@@ -27927,7 +27927,7 @@
             "python",
             "python-asyncio"
           ],
-          "updated": "2026-08-30T02:43:26Z",
+          "updated": "2026-09-01T17:15:16Z",
           "pushed": "2025-12-01T14:19:00Z",
           "awesome": true,
           "readmeStatus": "expanded",
@@ -28475,8 +28475,8 @@
               "parentId": "root-programming-languages-python-scientific-audio"
             }
           ],
-          "stars": 1708,
-          "forks": 185,
+          "stars": 1710,
+          "forks": 186,
           "language": null,
           "license": null,
           "topics": [
@@ -28484,7 +28484,7 @@
             "awesome-list",
             "python"
           ],
-          "updated": "2026-08-30T07:53:10Z",
+          "updated": "2026-09-03T19:37:29Z",
           "pushed": "2026-06-11T16:45:13Z",
           "awesome": true,
           "readmeStatus": "expanded",
@@ -33908,8 +33908,8 @@
               "parentId": "root-programming-languages-python-data-science"
             }
           ],
-          "stars": 3574,
-          "forks": 461,
+          "stars": 3582,
+          "forks": 463,
           "language": null,
           "license": "CC-BY-4.0",
           "topics": [
@@ -33925,7 +33925,7 @@
             "scikit-learn",
             "statistics"
           ],
-          "updated": "2026-08-28T13:57:18Z",
+          "updated": "2026-09-06T04:20:26Z",
           "pushed": "2026-04-13T07:15:05Z",
           "awesome": true,
           "readmeStatus": "expanded",
@@ -38002,8 +38002,8 @@
                   "sourceRepo": "typeddjango/awesome-python-typing",
                   "depth": 3,
                   "children": [],
-                  "stars": 317077,
-                  "forks": 28610,
+                  "stars": 318602,
+                  "forks": 28647,
                   "language": "Python",
                   "license": "NOASSERTION",
                   "topics": [
@@ -38014,8 +38014,8 @@
                     "python-libraries",
                     "python-tools"
                   ],
-                  "updated": "2026-08-30T07:57:36Z",
-                  "pushed": "2026-08-25T04:08:40Z",
+                  "updated": "2026-09-06T06:55:13Z",
+                  "pushed": "2026-09-01T08:48:12Z",
                   "awesome": true,
                   "path": [
                     "Python",
@@ -38096,7 +38096,7 @@
               "parentId": "root-programming-languages-python-typing"
             }
           ],
-          "stars": 1980,
+          "stars": 1983,
           "forks": 77,
           "language": null,
           "license": "CC-BY-SA-4.0",
@@ -38112,8 +38112,8 @@
             "python-stubs",
             "python-types"
           ],
-          "updated": "2026-08-29T17:54:50Z",
-          "pushed": "2026-06-19T06:03:10Z",
+          "updated": "2026-09-05T17:44:27Z",
+          "pushed": "2026-09-03T06:35:43Z",
           "awesome": true,
           "readmeStatus": "expanded",
           "path": [
@@ -41782,8 +41782,8 @@
               "parentId": "root-programming-languages-python-micropython"
             }
           ],
-          "stars": 1803,
-          "forks": 220,
+          "stars": 1805,
+          "forks": 221,
           "language": "HTML",
           "license": "CC0-1.0",
           "topics": [
@@ -41792,7 +41792,7 @@
             "collection",
             "micropython"
           ],
-          "updated": "2026-08-29T12:27:37Z",
+          "updated": "2026-09-02T11:39:00Z",
           "pushed": "2026-07-20T04:42:59Z",
           "awesome": true,
           "readmeStatus": "expanded",
@@ -44721,6 +44721,34 @@
                         "unsloth"
                       ],
                       "parentId": "root-programming-languages-python-projects-ai-and-agents-fine-tuning"
+                    },
+                    {
+                      "id": "root-programming-languages-python-projects-ai-and-agents-fine-tuning-axolotl",
+                      "title": "axolotl",
+                      "kind": "repo",
+                      "repo": "axolotl-ai-cloud/axolotl",
+                      "url": "https://github.com/axolotl-ai-cloud/axolotl",
+                      "description": "A framework for fine-tuning and post-training large language models.",
+                      "external": false,
+                      "sourceRepo": "vinta/awesome-python",
+                      "depth": 4,
+                      "children": [],
+                      "stars": 0,
+                      "forks": 0,
+                      "language": null,
+                      "license": null,
+                      "topics": [],
+                      "updated": null,
+                      "pushed": null,
+                      "awesome": false,
+                      "path": [
+                        "Python",
+                        "Projects",
+                        "AI and Agents",
+                        "Fine-tuning",
+                        "axolotl"
+                      ],
+                      "parentId": "root-programming-languages-python-projects-ai-and-agents-fine-tuning"
                     }
                   ],
                   "stars": 0,
@@ -46173,8 +46201,8 @@
                           "sourceRepo": "vinta/awesome-python",
                           "depth": 5,
                           "children": [],
-                          "stars": 12757,
-                          "forks": 1570,
+                          "stars": 12761,
+                          "forks": 1569,
                           "language": null,
                           "license": "CC0-1.0",
                           "topics": [
@@ -46184,7 +46212,7 @@
                             "flask-resources",
                             "python"
                           ],
-                          "updated": "2026-08-28T20:31:11Z",
+                          "updated": "2026-09-06T05:49:10Z",
                           "pushed": "2026-08-17T02:06:31Z",
                           "awesome": true,
                           "path": [
@@ -46237,8 +46265,8 @@
                           "sourceRepo": "vinta/awesome-python",
                           "depth": 5,
                           "children": [],
-                          "stars": 11224,
-                          "forks": 1470,
+                          "stars": 11235,
+                          "forks": 1471,
                           "language": "Python",
                           "license": "CC0-1.0",
                           "topics": [
@@ -46246,8 +46274,8 @@
                             "awesome-list",
                             "django"
                           ],
-                          "updated": "2026-08-29T05:48:47Z",
-                          "pushed": "2026-08-18T13:46:11Z",
+                          "updated": "2026-09-06T05:46:58Z",
+                          "pushed": "2026-09-06T04:31:42Z",
                           "awesome": true,
                           "path": [
                             "Python",
@@ -46327,12 +46355,12 @@
                           "sourceRepo": "vinta/awesome-python",
                           "depth": 5,
                           "children": [],
-                          "stars": 576,
+                          "stars": 575,
                           "forks": 55,
                           "language": null,
                           "license": null,
                           "topics": [],
-                          "updated": "2026-08-05T19:51:58Z",
+                          "updated": "2026-09-05T12:56:26Z",
                           "pushed": "2021-07-08T12:28:10Z",
                           "awesome": true,
                           "path": [
@@ -46385,7 +46413,7 @@
                           "sourceRepo": "vinta/awesome-python",
                           "depth": 5,
                           "children": [],
-                          "stars": 84,
+                          "stars": 85,
                           "forks": 8,
                           "language": "Python",
                           "license": null,
@@ -46395,7 +46423,7 @@
                             "python",
                             "python3"
                           ],
-                          "updated": "2026-08-28T15:39:20Z",
+                          "updated": "2026-09-03T18:41:57Z",
                           "pushed": "2024-09-08T18:40:33Z",
                           "awesome": true,
                           "path": [
@@ -48713,7 +48741,7 @@
                             "rdbms",
                             "sqlalchemy"
                           ],
-                          "updated": "2026-08-21T21:52:20Z",
+                          "updated": "2026-09-02T18:56:48Z",
                           "pushed": "2026-06-08T08:36:57Z",
                           "awesome": true,
                           "path": [
@@ -52479,8 +52507,8 @@
                       "sourceRepo": "vinta/awesome-python",
                       "depth": 4,
                       "children": [],
-                      "stars": 4663,
-                      "forks": 462,
+                      "stars": 4666,
+                      "forks": 463,
                       "language": null,
                       "license": "CC-BY-SA-4.0",
                       "topics": [
@@ -52498,8 +52526,8 @@
                         "python",
                         "visualization"
                       ],
-                      "updated": "2026-08-29T17:50:51Z",
-                      "pushed": "2026-08-28T23:57:55Z",
+                      "updated": "2026-09-05T07:06:24Z",
+                      "pushed": "2026-09-05T23:57:50Z",
                       "awesome": true,
                       "path": [
                         "Python",
@@ -52946,7 +52974,7 @@
                           "sourceRepo": "vinta/awesome-python",
                           "depth": 5,
                           "children": [],
-                          "stars": 1278,
+                          "stars": 1279,
                           "forks": 52,
                           "language": null,
                           "license": "NOASSERTION",
@@ -52962,7 +52990,7 @@
                             "hacktoberfest-accepted",
                             "python"
                           ],
-                          "updated": "2026-08-18T11:07:59Z",
+                          "updated": "2026-09-05T02:24:21Z",
                           "pushed": "2026-07-21T07:29:57Z",
                           "awesome": true,
                           "path": [
@@ -53347,7 +53375,7 @@
                           "sourceRepo": "vinta/awesome-python",
                           "depth": 5,
                           "children": [],
-                          "stars": 575,
+                          "stars": 576,
                           "forks": 67,
                           "language": null,
                           "license": null,
@@ -53360,7 +53388,7 @@
                             "python",
                             "testing"
                           ],
-                          "updated": "2026-08-29T02:41:31Z",
+                          "updated": "2026-09-02T10:11:01Z",
                           "pushed": "2026-06-24T17:41:32Z",
                           "awesome": true,
                           "path": [
@@ -61004,7 +61032,7 @@
                           "sourceRepo": "vinta/awesome-python",
                           "depth": 5,
                           "children": [],
-                          "stars": 5123,
+                          "stars": 5125,
                           "forks": 356,
                           "language": null,
                           "license": "NOASSERTION",
@@ -61017,7 +61045,7 @@
                             "python",
                             "python-asyncio"
                           ],
-                          "updated": "2026-08-30T02:43:26Z",
+                          "updated": "2026-09-01T17:15:16Z",
                           "pushed": "2025-12-01T14:19:00Z",
                           "awesome": true,
                           "path": [
@@ -63474,8 +63502,8 @@
           "parentId": "root-programming-languages-python"
         }
       ],
-      "stars": 317077,
-      "forks": 28610,
+      "stars": 318602,
+      "forks": 28647,
       "language": "Python",
       "license": "NOASSERTION",
       "topics": [
@@ -63486,8 +63514,8 @@
         "python-libraries",
         "python-tools"
       ],
-      "updated": "2026-08-30T07:57:36Z",
-      "pushed": "2026-08-25T04:08:40Z",
+      "updated": "2026-09-06T06:55:13Z",
+      "pushed": "2026-09-01T08:48:12Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -67550,16 +67578,16 @@
           "parentId": "root-programming-languages-rust"
         }
       ],
-      "stars": 59053,
-      "forks": 3570,
+      "stars": 59212,
+      "forks": 3595,
       "language": "Rust",
       "license": "CC0-1.0",
       "topics": [
         "awesome",
         "rust"
       ],
-      "updated": "2026-08-30T05:30:48Z",
-      "pushed": "2026-08-29T15:01:55Z",
+      "updated": "2026-09-06T06:53:53Z",
+      "pushed": "2026-09-05T15:55:37Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -68483,12 +68511,12 @@
           "parentId": "root-programming-languages-haskell"
         }
       ],
-      "stars": 3284,
+      "stars": 3281,
       "forks": 173,
       "language": "Python",
       "license": null,
       "topics": [],
-      "updated": "2026-08-30T05:51:01Z",
+      "updated": "2026-09-02T08:45:24Z",
       "pushed": "2026-08-03T08:39:39Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -70799,7 +70827,7 @@
           "parentId": "root-programming-languages-purescript"
         }
       ],
-      "stars": 483,
+      "stars": 484,
       "forks": 23,
       "language": null,
       "license": null,
@@ -70809,7 +70837,7 @@
         "list",
         "purescript"
       ],
-      "updated": "2026-07-25T12:42:23Z",
+      "updated": "2026-09-01T11:12:41Z",
       "pushed": "2022-11-30T07:57:32Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -71715,6 +71743,32 @@
                 "Go",
                 "Artificial Intelligence",
                 "Smeldr"
+              ],
+              "parentId": "root-programming-languages-go-artificial-intelligence"
+            },
+            {
+              "id": "root-programming-languages-go-artificial-intelligence-snip",
+              "title": "snip",
+              "kind": "repo",
+              "repo": "edouard-claude/snip",
+              "url": "https://github.com/edouard-claude/snip",
+              "description": "CLI proxy that reduces LLM token usage by 60-90% with declarative YAML filters. Drop-in for Claude Code, Cursor, Copilot, and Gemini. rtk alternative in Go.",
+              "external": false,
+              "sourceRepo": "avelino/awesome-go",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Go",
+                "Artificial Intelligence",
+                "snip"
               ],
               "parentId": "root-programming-languages-go-artificial-intelligence"
             },
@@ -75265,6 +75319,33 @@
                     "Command Line",
                     "Advanced Console UIs",
                     "lazyenv"
+                  ],
+                  "parentId": "root-programming-languages-go-command-line-advanced-console-uis"
+                },
+                {
+                  "id": "root-programming-languages-go-command-line-advanced-console-uis-lazyteams",
+                  "title": "lazyteams",
+                  "kind": "repo",
+                  "repo": "agmonetti/lazyteams",
+                  "url": "https://github.com/agmonetti/lazyteams",
+                  "description": "Keyboard-driven terminal user interface for Microsoft Teams.",
+                  "external": false,
+                  "sourceRepo": "avelino/awesome-go",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Go",
+                    "Command Line",
+                    "Advanced Console UIs",
+                    "lazyteams"
                   ],
                   "parentId": "root-programming-languages-go-command-line-advanced-console-uis"
                 },
@@ -82195,6 +82276,33 @@
                   "parentId": "root-programming-languages-go-data-structures-and-algorithms-trees"
                 },
                 {
+                  "id": "root-programming-languages-go-data-structures-and-algorithms-trees-skiplist-3",
+                  "title": "skiplist",
+                  "kind": "repo",
+                  "repo": "huandu/skiplist",
+                  "url": "https://github.com/huandu/skiplist",
+                  "description": "Fast and easy-to-use skip list for Go.",
+                  "external": false,
+                  "sourceRepo": "avelino/awesome-go",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Go",
+                    "Data Structures and Algorithms",
+                    "Trees",
+                    "skiplist"
+                  ],
+                  "parentId": "root-programming-languages-go-data-structures-and-algorithms-trees"
+                },
+                {
                   "id": "root-programming-languages-go-data-structures-and-algorithms-trees-treemap",
                   "title": "treemap",
                   "kind": "repo",
@@ -85389,6 +85497,33 @@
                   "parentId": "root-programming-languages-go-database-database-tools"
                 },
                 {
+                  "id": "root-programming-languages-go-database-database-tools-clickhouse-sql-parser",
+                  "title": "clickhouse-sql-parser",
+                  "kind": "repo",
+                  "repo": "aftership/clickhouse-sql-parser",
+                  "url": "https://github.com/aftership/clickhouse-sql-parser",
+                  "description": "Parser for ClickHouse-dialect SQL that produces a typed AST, with traversal helpers, round-trip formatting, and a CLI.",
+                  "external": false,
+                  "sourceRepo": "avelino/awesome-go",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Go",
+                    "Database",
+                    "Database Tools",
+                    "clickhouse-sql-parser"
+                  ],
+                  "parentId": "root-programming-languages-go-database-database-tools"
+                },
+                {
                   "id": "root-programming-languages-go-database-database-tools-database-gateway",
                   "title": "database-gateway",
                   "kind": "repo",
@@ -87191,6 +87326,33 @@
                   "repo": "denisenkom/go-mssqldb",
                   "url": "https://github.com/denisenkom/go-mssqldb",
                   "description": "Microsoft MSSQL driver for Go.",
+                  "external": false,
+                  "sourceRepo": "avelino/awesome-go",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Go",
+                    "Database Drivers",
+                    "Relational Database Drivers",
+                    "go-mssqldb"
+                  ],
+                  "parentId": "root-programming-languages-go-database-drivers-relational-database-drivers"
+                },
+                {
+                  "id": "root-programming-languages-go-database-drivers-relational-database-drivers-go-mssqldb-2",
+                  "title": "go-mssqldb",
+                  "kind": "repo",
+                  "repo": "microsoft/go-mssqldb",
+                  "url": "https://github.com/microsoft/go-mssqldb",
+                  "description": "Microsoft's official Go driver for SQL Server, Azure SQL, Azure Synapse, SQL database in Fabric, and Fabric Data Warehouse. Supports Azure AD, Always Encrypted, bulk operations.",
                   "external": false,
                   "sourceRepo": "avelino/awesome-go",
                   "depth": 3,
@@ -94404,6 +94566,32 @@
               "parentId": "root-programming-languages-go-financial"
             },
             {
+              "id": "root-programming-languages-go-financial-glassnode-go",
+              "title": "glassnode-go",
+              "kind": "repo",
+              "repo": "tigusigalpa/glassnode-go",
+              "url": "https://github.com/tigusigalpa/glassnode-go",
+              "description": "Go client for Glassnode Basic API with 25 metric categories, typed structs, bulk endpoints, Point-in-Time data, and zero dependencies.",
+              "external": false,
+              "sourceRepo": "avelino/awesome-go",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Go",
+                "Financial",
+                "glassnode-go"
+              ],
+              "parentId": "root-programming-languages-go-financial"
+            },
+            {
               "id": "root-programming-languages-go-financial-go-finance",
               "title": "go-finance",
               "kind": "repo",
@@ -94556,6 +94744,32 @@
                 "Go",
                 "Financial",
                 "indicator"
+              ],
+              "parentId": "root-programming-languages-go-financial"
+            },
+            {
+              "id": "root-programming-languages-go-financial-kucoin-go",
+              "title": "kucoin-go",
+              "kind": "repo",
+              "repo": "tigusigalpa/kucoin-go",
+              "url": "https://github.com/tigusigalpa/kucoin-go",
+              "description": "Go client for KuCoin UTA and Classic REST & WebSocket APIs with HMAC-SHA256 auth, string-typed prices, and typed error hierarchy.",
+              "external": false,
+              "sourceRepo": "avelino/awesome-go",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Go",
+                "Financial",
+                "kucoin-go"
               ],
               "parentId": "root-programming-languages-go-financial"
             },
@@ -94995,32 +95209,6 @@
                 "Go",
                 "Forms",
                 "bind"
-              ],
-              "parentId": "root-programming-languages-go-forms"
-            },
-            {
-              "id": "root-programming-languages-go-forms-checker",
-              "title": "checker",
-              "kind": "repo",
-              "repo": "cinar/checker",
-              "url": "https://github.com/cinar/checker",
-              "description": "Checker helps validating user input through rules defined in struct tags or directly through functions.",
-              "external": false,
-              "sourceRepo": "avelino/awesome-go",
-              "depth": 2,
-              "children": [],
-              "stars": 0,
-              "forks": 0,
-              "language": null,
-              "license": null,
-              "topics": [],
-              "updated": null,
-              "pushed": null,
-              "awesome": false,
-              "path": [
-                "Go",
-                "Forms",
-                "checker"
               ],
               "parentId": "root-programming-languages-go-forms"
             },
@@ -104424,6 +104612,32 @@
               "parentId": "root-programming-languages-go-logging"
             },
             {
+              "id": "root-programming-languages-go-logging-slog-datadog",
+              "title": "slog-datadog",
+              "kind": "repo",
+              "repo": "samber/slog-datadog",
+              "url": "https://github.com/samber/slog-datadog",
+              "description": "A slog handler for Datadog.",
+              "external": false,
+              "sourceRepo": "avelino/awesome-go",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Go",
+                "Logging",
+                "slog-datadog"
+              ],
+              "parentId": "root-programming-languages-go-logging"
+            },
+            {
               "id": "root-programming-languages-go-logging-slog-formatter",
               "title": "slog-formatter",
               "kind": "repo",
@@ -104450,6 +104664,58 @@
               "parentId": "root-programming-languages-go-logging"
             },
             {
+              "id": "root-programming-languages-go-logging-slog-logrus",
+              "title": "slog-logrus",
+              "kind": "repo",
+              "repo": "samber/slog-logrus",
+              "url": "https://github.com/samber/slog-logrus",
+              "description": "A slog handler for Logrus.",
+              "external": false,
+              "sourceRepo": "avelino/awesome-go",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Go",
+                "Logging",
+                "slog-logrus"
+              ],
+              "parentId": "root-programming-languages-go-logging"
+            },
+            {
+              "id": "root-programming-languages-go-logging-slog-loki",
+              "title": "slog-loki",
+              "kind": "repo",
+              "repo": "samber/slog-loki",
+              "url": "https://github.com/samber/slog-loki",
+              "description": "A slog handler for Grafana Loki.",
+              "external": false,
+              "sourceRepo": "avelino/awesome-go",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Go",
+                "Logging",
+                "slog-loki"
+              ],
+              "parentId": "root-programming-languages-go-logging"
+            },
+            {
               "id": "root-programming-languages-go-logging-slog-multi",
               "title": "slog-multi",
               "kind": "repo",
@@ -104472,6 +104738,110 @@
                 "Go",
                 "Logging",
                 "slog-multi"
+              ],
+              "parentId": "root-programming-languages-go-logging"
+            },
+            {
+              "id": "root-programming-languages-go-logging-slog-sentry",
+              "title": "slog-sentry",
+              "kind": "repo",
+              "repo": "samber/slog-sentry",
+              "url": "https://github.com/samber/slog-sentry",
+              "description": "A slog handler for Sentry.",
+              "external": false,
+              "sourceRepo": "avelino/awesome-go",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Go",
+                "Logging",
+                "slog-sentry"
+              ],
+              "parentId": "root-programming-languages-go-logging"
+            },
+            {
+              "id": "root-programming-languages-go-logging-slog-slack",
+              "title": "slog-slack",
+              "kind": "repo",
+              "repo": "samber/slog-slack",
+              "url": "https://github.com/samber/slog-slack",
+              "description": "A slog handler for Slack.",
+              "external": false,
+              "sourceRepo": "avelino/awesome-go",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Go",
+                "Logging",
+                "slog-slack"
+              ],
+              "parentId": "root-programming-languages-go-logging"
+            },
+            {
+              "id": "root-programming-languages-go-logging-slog-zap",
+              "title": "slog-zap",
+              "kind": "repo",
+              "repo": "samber/slog-zap",
+              "url": "https://github.com/samber/slog-zap",
+              "description": "A slog handler for Zap.",
+              "external": false,
+              "sourceRepo": "avelino/awesome-go",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Go",
+                "Logging",
+                "slog-zap"
+              ],
+              "parentId": "root-programming-languages-go-logging"
+            },
+            {
+              "id": "root-programming-languages-go-logging-slog-zerolog",
+              "title": "slog-zerolog",
+              "kind": "repo",
+              "repo": "samber/slog-zerolog",
+              "url": "https://github.com/samber/slog-zerolog",
+              "description": "A slog handler for Zerolog.",
+              "external": false,
+              "sourceRepo": "avelino/awesome-go",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Go",
+                "Logging",
+                "slog-zerolog"
               ],
               "parentId": "root-programming-languages-go-logging"
             },
@@ -114798,6 +115168,32 @@
               "parentId": "root-programming-languages-go-networking"
             },
             {
+              "id": "root-programming-languages-go-networking-ws-reconnect",
+              "title": "ws-reconnect",
+              "kind": "repo",
+              "repo": "sing198/ws-reconnect",
+              "url": "https://github.com/sing198/ws-reconnect",
+              "description": "Resilient WebSocket client with automatic reconnection, exponential backoff, and heartbeat management.",
+              "external": false,
+              "sourceRepo": "avelino/awesome-go",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Go",
+                "Networking",
+                "ws-reconnect"
+              ],
+              "parentId": "root-programming-languages-go-networking"
+            },
+            {
               "id": "root-programming-languages-go-networking-xtcp",
               "title": "xtcp",
               "kind": "repo",
@@ -116034,6 +116430,32 @@
                 "Go",
                 "ORM",
                 "golobby/orm"
+              ],
+              "parentId": "root-programming-languages-go-orm"
+            },
+            {
+              "id": "root-programming-languages-go-orm-goooqo",
+              "title": "GoooQo",
+              "kind": "repo",
+              "repo": "doytowin/goooqo",
+              "url": "https://github.com/doytowin/goooqo",
+              "description": "A database access framework based on declarative query model.",
+              "external": false,
+              "sourceRepo": "avelino/awesome-go",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Go",
+                "ORM",
+                "GoooQo"
               ],
               "parentId": "root-programming-languages-go-orm"
             },
@@ -119111,6 +119533,32 @@
               "parentId": "root-programming-languages-go-security"
             },
             {
+              "id": "root-programming-languages-go-security-caddy-waf",
+              "title": "caddy-waf",
+              "kind": "repo",
+              "repo": "fabriziosalmi/caddy-waf",
+              "url": "https://github.com/fabriziosalmi/caddy-waf",
+              "description": "Web Application Firewall middleware for the Caddy server, with a regex rule engine, anomaly scoring, IP/DNS/ASN/country blacklists and rate limiting.",
+              "external": false,
+              "sourceRepo": "avelino/awesome-go",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Go",
+                "Security",
+                "caddy-waf"
+              ],
+              "parentId": "root-programming-languages-go-security"
+            },
+            {
               "id": "root-programming-languages-go-security-cameradar",
               "title": "Cameradar",
               "kind": "repo",
@@ -121077,6 +121525,32 @@
                 "Go",
                 "Server Applications",
                 "Caddy"
+              ],
+              "parentId": "root-programming-languages-go-server-applications"
+            },
+            {
+              "id": "root-programming-languages-go-server-applications-casdoor",
+              "title": "Casdoor",
+              "kind": "repo",
+              "repo": "casdoor/casdoor",
+              "url": "https://github.com/casdoor/casdoor",
+              "description": "Identity and access management (IAM) and single sign-on (SSO) server with a web UI, supporting OAuth 2.0, OIDC, SAML, CAS and LDAP.",
+              "external": false,
+              "sourceRepo": "avelino/awesome-go",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Go",
+                "Server Applications",
+                "Casdoor"
               ],
               "parentId": "root-programming-languages-go-server-applications"
             },
@@ -125303,6 +125777,33 @@
                   "parentId": "root-programming-languages-go-testing-mock"
                 },
                 {
+                  "id": "root-programming-languages-go-testing-mock-wsmock",
+                  "title": "wsmock",
+                  "kind": "repo",
+                  "repo": "sing198/wsmock",
+                  "url": "https://github.com/sing198/wsmock",
+                  "description": "Expressive, zero-boilerplate WebSocket mock server for testing with fault injection and assertions.",
+                  "external": false,
+                  "sourceRepo": "avelino/awesome-go",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Go",
+                    "Testing",
+                    "Mock",
+                    "wsmock"
+                  ],
+                  "parentId": "root-programming-languages-go-testing-mock"
+                },
+                {
                   "id": "root-programming-languages-go-testing-mock-xgo",
                   "title": "xgo",
                   "kind": "repo",
@@ -127378,6 +127879,33 @@
                   "parentId": "root-programming-languages-go-text-processing-scrapers"
                 },
                 {
+                  "id": "root-programming-languages-go-text-processing-scrapers-doc-scraper",
+                  "title": "doc-scraper",
+                  "kind": "repo",
+                  "repo": "sriram-pr/doc-scraper",
+                  "url": "https://github.com/sriram-pr/doc-scraper",
+                  "description": "Web crawler that converts documentation sites to clean Markdown and JSONL for LLM ingestion (RAG, training data).",
+                  "external": false,
+                  "sourceRepo": "avelino/awesome-go",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Go",
+                    "Text Processing",
+                    "Scrapers",
+                    "doc-scraper"
+                  ],
+                  "parentId": "root-programming-languages-go-text-processing-scrapers"
+                },
+                {
                   "id": "root-programming-languages-go-text-processing-scrapers-go-recipe",
                   "title": "go-recipe",
                   "kind": "repo",
@@ -128076,6 +128604,32 @@
                 "Go",
                 "Third-party APIs",
                 "bqwriter"
+              ],
+              "parentId": "root-programming-languages-go-third-party-apis"
+            },
+            {
+              "id": "root-programming-languages-go-third-party-apis-birdeye-go",
+              "title": "birdeye-go",
+              "kind": "repo",
+              "repo": "tigusigalpa/birdeye-go",
+              "url": "https://github.com/tigusigalpa/birdeye-go",
+              "description": "Go client for Birdeye DeFi API with typed spot prices, OHLCV candles, historical data, and raw request escape hatch.",
+              "external": false,
+              "sourceRepo": "avelino/awesome-go",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Go",
+                "Third-party APIs",
+                "birdeye-go"
               ],
               "parentId": "root-programming-languages-go-third-party-apis"
             },
@@ -130052,6 +130606,32 @@
                 "Go",
                 "Third-party APIs",
                 "mixpanel"
+              ],
+              "parentId": "root-programming-languages-go-third-party-apis"
+            },
+            {
+              "id": "root-programming-languages-go-third-party-apis-nansen-go",
+              "title": "nansen-go",
+              "kind": "repo",
+              "repo": "tigusigalpa/nansen-go",
+              "url": "https://github.com/tigusigalpa/nansen-go",
+              "description": "Go client for Nansen AI API with Smart Money analytics, token screener, profiler, and zero dependencies.",
+              "external": false,
+              "sourceRepo": "avelino/awesome-go",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Go",
+                "Third-party APIs",
+                "nansen-go"
               ],
               "parentId": "root-programming-languages-go-third-party-apis"
             },
@@ -136231,6 +136811,32 @@
                 "Go",
                 "Validation",
                 "checkdigit"
+              ],
+              "parentId": "root-programming-languages-go-validation"
+            },
+            {
+              "id": "root-programming-languages-go-validation-checker",
+              "title": "checker",
+              "kind": "repo",
+              "repo": "cinar/checker",
+              "url": "https://github.com/cinar/checker",
+              "description": "Zero-dependency input validation and in-place normalization with struct tags, 23 locales, and JSON Schema generation.",
+              "external": false,
+              "sourceRepo": "avelino/awesome-go",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Go",
+                "Validation",
+                "checker"
               ],
               "parentId": "root-programming-languages-go-validation"
             },
@@ -143935,6 +144541,33 @@
                   "parentId": "root-programming-languages-go-software-packages-devops-tools"
                 },
                 {
+                  "id": "root-programming-languages-go-software-packages-devops-tools-docklite",
+                  "title": "docklite",
+                  "kind": "repo",
+                  "repo": "benzjeremy/docklite",
+                  "url": "https://github.com/benzjeremy/docklite",
+                  "description": "Lightweight Portainer alternative for Docker container management with real-time SSE metrics.",
+                  "external": false,
+                  "sourceRepo": "avelino/awesome-go",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Go",
+                    "Software Packages",
+                    "DevOps Tools",
+                    "docklite"
+                  ],
+                  "parentId": "root-programming-languages-go-software-packages-devops-tools"
+                },
+                {
                   "id": "root-programming-languages-go-software-packages-devops-tools-dogo",
                   "title": "dogo",
                   "kind": "repo",
@@ -145393,6 +146026,33 @@
                   "parentId": "root-programming-languages-go-software-packages-devops-tools"
                 },
                 {
+                  "id": "root-programming-languages-go-software-packages-devops-tools-mq-studio",
+                  "title": "mq-studio",
+                  "kind": "repo",
+                  "repo": "amigoer/mq-studio",
+                  "url": "https://github.com/amigoer/mq-studio",
+                  "description": "Cross-platform desktop client for managing and monitoring RocketMQ, RabbitMQ, Kafka, Pulsar, Redis Stream, MQTT, NATS, and ActiveMQ clusters.",
+                  "external": false,
+                  "sourceRepo": "avelino/awesome-go",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Go",
+                    "Software Packages",
+                    "DevOps Tools",
+                    "mq-studio"
+                  ],
+                  "parentId": "root-programming-languages-go-software-packages-devops-tools"
+                },
+                {
                   "id": "root-programming-languages-go-software-packages-devops-tools-ostent",
                   "title": "ostent",
                   "kind": "repo",
@@ -146686,6 +147346,33 @@
                   "parentId": "root-programming-languages-go-software-packages-other-software"
                 },
                 {
+                  "id": "root-programming-languages-go-software-packages-other-software-dispositio",
+                  "title": "dispositio",
+                  "kind": "repo",
+                  "repo": "tsraveling/dispositio",
+                  "url": "https://github.com/tsraveling/dispositio",
+                  "description": "Terminal tool for planning large projects in simple markdown.",
+                  "external": false,
+                  "sourceRepo": "avelino/awesome-go",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Go",
+                    "Software Packages",
+                    "Other Software",
+                    "dispositio"
+                  ],
+                  "parentId": "root-programming-languages-go-software-packages-other-software"
+                },
+                {
                   "id": "root-programming-languages-go-software-packages-other-software-documize",
                   "title": "Documize",
                   "kind": "repo",
@@ -147195,6 +147882,33 @@
                     "Software Packages",
                     "Other Software",
                     "Guora"
+                  ],
+                  "parentId": "root-programming-languages-go-software-packages-other-software"
+                },
+                {
+                  "id": "root-programming-languages-go-software-packages-other-software-gurl",
+                  "title": "GURL",
+                  "kind": "repo",
+                  "repo": "matveynator/gurl",
+                  "url": "https://github.com/matveynator/gurl",
+                  "description": "When CURL says your SSL library is too old — use GURL. One file. Zero SSL dependencies.",
+                  "external": false,
+                  "sourceRepo": "avelino/awesome-go",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Go",
+                    "Software Packages",
+                    "Other Software",
+                    "GURL"
                   ],
                   "parentId": "root-programming-languages-go-software-packages-other-software"
                 },
@@ -147847,6 +148561,33 @@
                   "parentId": "root-programming-languages-go-software-packages-other-software"
                 },
                 {
+                  "id": "root-programming-languages-go-software-packages-other-software-plakar",
+                  "title": "Plakar",
+                  "kind": "repo",
+                  "repo": "plakarkorp/plakar",
+                  "url": "https://github.com/plakarkorp/plakar",
+                  "description": "An encrypted, deduplicated, verifiable, and scalable backup engine with no vendor lock-in.",
+                  "external": false,
+                  "sourceRepo": "avelino/awesome-go",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Go",
+                    "Software Packages",
+                    "Other Software",
+                    "Plakar"
+                  ],
+                  "parentId": "root-programming-languages-go-software-packages-other-software"
+                },
+                {
                   "id": "root-programming-languages-go-software-packages-other-software-plik",
                   "title": "Plik",
                   "kind": "repo",
@@ -148117,6 +148858,33 @@
                   "parentId": "root-programming-languages-go-software-packages-other-software"
                 },
                 {
+                  "id": "root-programming-languages-go-software-packages-other-software-spotify-screensaver",
+                  "title": "spotify-screensaver",
+                  "kind": "repo",
+                  "repo": "benzjeremy/spotify-screensaver",
+                  "url": "https://github.com/benzjeremy/spotify-screensaver",
+                  "description": "Desktop screensaver for Spotify with digital OLED clock, canvas audio visualizer, and MPRIS controls.",
+                  "external": false,
+                  "sourceRepo": "avelino/awesome-go",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Go",
+                    "Software Packages",
+                    "Other Software",
+                    "spotify-screensaver"
+                  ],
+                  "parentId": "root-programming-languages-go-software-packages-other-software"
+                },
+                {
                   "id": "root-programming-languages-go-software-packages-other-software-stack-up",
                   "title": "Stack Up",
                   "kind": "repo",
@@ -148383,6 +149151,33 @@
                     "Software Packages",
                     "Other Software",
                     "vFlow"
+                  ],
+                  "parentId": "root-programming-languages-go-software-packages-other-software"
+                },
+                {
+                  "id": "root-programming-languages-go-software-packages-other-software-untis-go",
+                  "title": "untis-go",
+                  "kind": "repo",
+                  "repo": "benzjeremy/untis-go",
+                  "url": "https://github.com/benzjeremy/untis-go",
+                  "description": "Fast, native WebUntis desktop client for students and teachers. Sidebar navigation, timetables, homework, absences & messages. AES-256-GCM encrypted credentials, SQLite cache-first, random port security.",
+                  "external": false,
+                  "sourceRepo": "avelino/awesome-go",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Go",
+                    "Software Packages",
+                    "Other Software",
+                    "untis-go"
                   ],
                   "parentId": "root-programming-languages-go-software-packages-other-software"
                 },
@@ -152952,7 +153747,7 @@
               "depth": 2,
               "children": [],
               "stars": 523,
-              "forks": 28,
+              "forks": 27,
               "language": null,
               "license": "MIT",
               "topics": [],
@@ -152977,8 +153772,8 @@
               "sourceRepo": "avelino/awesome-go",
               "depth": 2,
               "children": [],
-              "stars": 48227,
-              "forks": 4774,
+              "stars": 48402,
+              "forks": 4792,
               "language": null,
               "license": null,
               "topics": [
@@ -152986,7 +153781,7 @@
                 "awesome-list",
                 "list"
               ],
-              "updated": "2026-08-30T07:59:16Z",
+              "updated": "2026-09-06T06:55:07Z",
               "pushed": "2026-08-16T19:35:44Z",
               "awesome": true,
               "path": [
@@ -153007,12 +153802,12 @@
               "sourceRepo": "avelino/awesome-go",
               "depth": 2,
               "children": [],
-              "stars": 33638,
+              "stars": 33654,
               "forks": 3603,
               "language": "Ruby",
               "license": null,
               "topics": [],
-              "updated": "2026-08-30T06:16:53Z",
+              "updated": "2026-09-06T04:52:47Z",
               "pushed": "2024-06-02T22:46:41Z",
               "awesome": true,
               "path": [
@@ -155217,8 +156012,8 @@
           "parentId": "root-programming-languages-go"
         }
       ],
-      "stars": 182668,
-      "forks": 13523,
+      "stars": 183285,
+      "forks": 13547,
       "language": "Go",
       "license": "MIT",
       "topics": [
@@ -155229,8 +156024,8 @@
         "golang-library",
         "hacktoberfest"
       ],
-      "updated": "2026-08-30T07:55:01Z",
-      "pushed": "2026-08-30T00:34:59Z",
+      "updated": "2026-09-06T06:38:19Z",
+      "pushed": "2026-09-06T05:24:00Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -156705,8 +157500,8 @@
           "parentId": "root-programming-languages-scala"
         }
       ],
-      "stars": 9239,
-      "forks": 1260,
+      "stars": 9243,
+      "forks": 1259,
       "language": "Python",
       "license": "Apache-2.0",
       "topics": [
@@ -156716,7 +157511,7 @@
         "scala-library",
         "scalajs"
       ],
-      "updated": "2026-08-29T17:34:32Z",
+      "updated": "2026-09-06T05:47:50Z",
       "pushed": "2024-09-20T08:21:10Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -159224,7 +160019,7 @@
         }
       ],
       "stars": 14150,
-      "forks": 1764,
+      "forks": 1763,
       "language": null,
       "license": null,
       "topics": [
@@ -159235,7 +160030,7 @@
         "ruby",
         "ruby-libraries"
       ],
-      "updated": "2026-08-29T17:14:40Z",
+      "updated": "2026-09-06T04:54:39Z",
       "pushed": "2026-08-13T09:40:38Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -160490,7 +161285,7 @@
           "parentId": "root-programming-languages-clojure"
         }
       ],
-      "stars": 2841,
+      "stars": 2842,
       "forks": 215,
       "language": "Clojure",
       "license": null,
@@ -160499,7 +161294,7 @@
         "clojure",
         "hacktoberfest"
       ],
-      "updated": "2026-08-19T14:43:23Z",
+      "updated": "2026-09-05T18:51:48Z",
       "pushed": "2026-08-06T21:10:02Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -167346,7 +168141,7 @@
       "language": "Elixir",
       "license": "MIT",
       "topics": [],
-      "updated": "2026-08-27T21:24:23Z",
+      "updated": "2026-09-06T04:54:54Z",
       "pushed": "2025-10-12T18:06:13Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -168449,8 +169244,8 @@
           "parentId": "root-programming-languages-elm"
         }
       ],
-      "stars": 3685,
-      "forks": 219,
+      "stars": 3686,
+      "forks": 220,
       "language": null,
       "license": null,
       "topics": [
@@ -168463,7 +169258,7 @@
         "elm-tutorial",
         "elm-videos"
       ],
-      "updated": "2026-08-25T14:05:52Z",
+      "updated": "2026-09-01T17:20:00Z",
       "pushed": "2026-07-21T04:46:24Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -169254,7 +170049,7 @@
           "parentId": "root-programming-languages-erlang"
         }
       ],
-      "stars": 1707,
+      "stars": 1708,
       "forks": 207,
       "language": null,
       "license": null,
@@ -169265,7 +170060,7 @@
         "erlang-library",
         "lists"
       ],
-      "updated": "2026-08-27T11:47:21Z",
+      "updated": "2026-09-05T13:33:18Z",
       "pushed": "2022-11-17T23:40:26Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -171848,8 +172643,8 @@
                       "sourceRepo": "lewisjellis/awesome-lua",
                       "depth": 4,
                       "children": [],
-                      "stars": 4479,
-                      "forks": 242,
+                      "stars": 4489,
+                      "forks": 243,
                       "language": "PowerShell",
                       "license": "CC0-1.0",
                       "topics": [
@@ -171859,7 +172654,7 @@
                         "love2d",
                         "lua"
                       ],
-                      "updated": "2026-08-30T01:56:16Z",
+                      "updated": "2026-09-06T06:26:40Z",
                       "pushed": "2026-08-23T19:12:18Z",
                       "awesome": true,
                       "path": [
@@ -172661,12 +173456,12 @@
                   "sourceRepo": "lewisjellis/awesome-lua",
                   "depth": 3,
                   "children": [],
-                  "stars": 2484,
+                  "stars": 2485,
                   "forks": 263,
                   "language": null,
                   "license": null,
                   "topics": [],
-                  "updated": "2026-08-27T19:39:09Z",
+                  "updated": "2026-08-31T14:08:36Z",
                   "pushed": "2026-05-26T11:49:23Z",
                   "awesome": true,
                   "path": [
@@ -176589,12 +177384,12 @@
           "parentId": "root-programming-languages-lua"
         }
       ],
-      "stars": 4561,
-      "forks": 343,
+      "stars": 4567,
+      "forks": 345,
       "language": null,
       "license": null,
       "topics": [],
-      "updated": "2026-08-29T20:12:36Z",
+      "updated": "2026-09-05T20:22:47Z",
       "pushed": "2024-08-11T17:32:00Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -178177,8 +178972,8 @@
           "parentId": "root-programming-languages-c-c"
         }
       ],
-      "stars": 73012,
-      "forks": 8327,
+      "stars": 73150,
+      "forks": 8335,
       "language": null,
       "license": "MIT",
       "topics": [
@@ -178195,8 +178990,8 @@
         "programming-tutorial",
         "resources"
       ],
-      "updated": "2026-08-30T07:05:52Z",
-      "pushed": "2026-08-22T08:36:07Z",
+      "updated": "2026-09-06T06:54:52Z",
+      "pushed": "2026-09-05T20:26:41Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -179162,7 +179957,7 @@
                       "sourceRepo": "iamericfletcher/awesome-r-learning-resources",
                       "depth": 4,
                       "children": [],
-                      "stars": 1763,
+                      "stars": 1761,
                       "forks": 179,
                       "language": null,
                       "license": null,
@@ -179173,8 +179968,8 @@
                         "ggplot2-themes",
                         "scales"
                       ],
-                      "updated": "2026-08-28T20:46:17Z",
-                      "pushed": "2026-08-28T20:46:00Z",
+                      "updated": "2026-09-05T08:50:23Z",
+                      "pushed": "2026-09-05T08:50:19Z",
                       "awesome": true,
                       "path": [
                         "R",
@@ -182468,7 +183263,7 @@
               "parentId": "root-programming-languages-r-learning"
             }
           ],
-          "stars": 657,
+          "stars": 659,
           "forks": 104,
           "language": null,
           "license": "CC0-1.0",
@@ -182480,7 +183275,7 @@
             "r",
             "resources"
           ],
-          "updated": "2026-08-23T11:08:20Z",
+          "updated": "2026-09-05T04:18:32Z",
           "pushed": "2024-12-19T14:10:24Z",
           "awesome": true,
           "readmeStatus": "expanded",
@@ -183467,8 +184262,8 @@
           "parentId": "root-programming-languages-r"
         }
       ],
-      "stars": 6507,
-      "forks": 1516,
+      "stars": 6508,
+      "forks": 1515,
       "language": "R",
       "license": null,
       "topics": [
@@ -183480,7 +184275,7 @@
         "r",
         "rstats"
       ],
-      "updated": "2026-08-29T23:10:42Z",
+      "updated": "2026-09-06T05:49:49Z",
       "pushed": "2025-09-18T16:46:19Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -184583,14 +185378,14 @@
           "parentId": "root-programming-languages-d"
         }
       ],
-      "stars": 762,
+      "stars": 763,
       "forks": 94,
       "language": "D",
       "license": null,
       "topics": [
         "dlang"
       ],
-      "updated": "2026-08-20T20:52:02Z",
+      "updated": "2026-09-03T17:37:46Z",
       "pushed": "2026-06-28T00:08:29Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -186809,7 +187604,7 @@
               "parentId": "root-programming-languages-common-lisp-learning"
             }
           ],
-          "stars": 240,
+          "stars": 241,
           "forks": 14,
           "language": null,
           "license": "CC-BY-4.0",
@@ -186818,13 +187613,35 @@
             "awesome-list",
             "common-lisp"
           ],
-          "updated": "2026-08-14T03:12:45Z",
+          "updated": "2026-09-04T22:00:39Z",
           "pushed": "2023-10-04T12:25:11Z",
           "awesome": true,
           "readmeStatus": "expanded",
           "path": [
             "Common Lisp",
             "Learning"
+          ],
+          "parentId": "root-programming-languages-common-lisp"
+        },
+        {
+          "id": "root-programming-languages-common-lisp-agents",
+          "title": "Agents",
+          "kind": "section",
+          "sourceRepo": "codyreichert/awesome-cl",
+          "depth": 1,
+          "url": "https://github.com/codyreichert/awesome-cl#agents",
+          "children": [],
+          "stars": 0,
+          "forks": 0,
+          "language": null,
+          "license": null,
+          "topics": [],
+          "updated": null,
+          "pushed": null,
+          "awesome": false,
+          "path": [
+            "Common Lisp",
+            "Agents"
           ],
           "parentId": "root-programming-languages-common-lisp"
         },
@@ -187869,6 +188686,90 @@
                     "Interfaces to other package managers",
                     "Isomorphic web frameworks",
                     "it is not unlike Phoenix LiveView or Hotwire."
+                  ],
+                  "parentId": "root-programming-languages-common-lisp-interfaces-to-other-package-managers-isomorphic-web-frameworks"
+                },
+                {
+                  "id": "root-programming-languages-common-lisp-interfaces-to-other-package-managers-isomorphic-web-frameworks-fluxion",
+                  "title": "🔥 Fluxion",
+                  "kind": "topic",
+                  "repo": "",
+                  "url": "",
+                  "description": "Live, server-rendered reactive web UI framework. MIT.",
+                  "external": false,
+                  "sourceRepo": "codyreichert/awesome-cl",
+                  "depth": 3,
+                  "children": [
+                    {
+                      "id": "root-programming-languages-common-lisp-interfaces-to-other-package-managers-isomorphic-web-frameworks-fluxion-new-as-of-2026",
+                      "title": "NEW as of 2026",
+                      "kind": "topic",
+                      "repo": "",
+                      "url": "",
+                      "description": "",
+                      "external": false,
+                      "sourceRepo": "codyreichert/awesome-cl",
+                      "depth": 4,
+                      "children": [],
+                      "stars": 0,
+                      "forks": 0,
+                      "language": null,
+                      "license": null,
+                      "topics": [],
+                      "updated": null,
+                      "pushed": null,
+                      "awesome": false,
+                      "path": [
+                        "Common Lisp",
+                        "Interfaces to other package managers",
+                        "Isomorphic web frameworks",
+                        "🔥 Fluxion",
+                        "NEW as of 2026"
+                      ],
+                      "parentId": "root-programming-languages-common-lisp-interfaces-to-other-package-managers-isomorphic-web-frameworks-fluxion"
+                    },
+                    {
+                      "id": "root-programming-languages-common-lisp-interfaces-to-other-package-managers-isomorphic-web-frameworks-fluxion-blog-post-fluxion-building-a-propagator-based-reactive-web-ui-framework-in-common-lisp",
+                      "title": "blog post: \"Fluxion: Building a Propagator-Based Reactive Web UI Framework in Common Lisp\"",
+                      "kind": "topic",
+                      "repo": "",
+                      "url": "",
+                      "description": "",
+                      "external": false,
+                      "sourceRepo": "codyreichert/awesome-cl",
+                      "depth": 4,
+                      "children": [],
+                      "stars": 0,
+                      "forks": 0,
+                      "language": null,
+                      "license": null,
+                      "topics": [],
+                      "updated": null,
+                      "pushed": null,
+                      "awesome": false,
+                      "path": [
+                        "Common Lisp",
+                        "Interfaces to other package managers",
+                        "Isomorphic web frameworks",
+                        "🔥 Fluxion",
+                        "blog post: \"Fluxion: Building a Propagator-Based Reactive Web UI Framework in Common Lisp\""
+                      ],
+                      "parentId": "root-programming-languages-common-lisp-interfaces-to-other-package-managers-isomorphic-web-frameworks-fluxion"
+                    }
+                  ],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Common Lisp",
+                    "Interfaces to other package managers",
+                    "Isomorphic web frameworks",
+                    "🔥 Fluxion"
                   ],
                   "parentId": "root-programming-languages-common-lisp-interfaces-to-other-package-managers-isomorphic-web-frameworks"
                 },
@@ -189985,8 +190886,8 @@
           "parentId": "root-programming-languages-common-lisp"
         }
       ],
-      "stars": 2974,
-      "forks": 221,
+      "stars": 2977,
+      "forks": 220,
       "language": "Makefile",
       "license": "NOASSERTION",
       "topics": [
@@ -189997,8 +190898,8 @@
         "lisp",
         "quicklisp"
       ],
-      "updated": "2026-08-29T22:29:42Z",
-      "pushed": "2026-08-17T18:33:43Z",
+      "updated": "2026-09-05T20:34:38Z",
+      "pushed": "2026-09-01T10:09:27Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -191839,7 +192740,7 @@
           "parentId": "root-programming-languages-groovy"
         }
       ],
-      "stars": 740,
+      "stars": 741,
       "forks": 101,
       "language": "Groovy",
       "license": "MIT",
@@ -191849,7 +192750,7 @@
         "language",
         "list"
       ],
-      "updated": "2026-07-24T03:57:37Z",
+      "updated": "2026-09-02T00:34:04Z",
       "pushed": "2024-10-26T11:25:42Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -192420,7 +193321,7 @@
           "parentId": "root-programming-languages-dart"
         }
       ],
-      "stars": 2489,
+      "stars": 2491,
       "forks": 221,
       "language": null,
       "license": null,
@@ -192431,7 +193332,7 @@
         "dart-frameworks",
         "list"
       ],
-      "updated": "2026-08-30T01:16:16Z",
+      "updated": "2026-09-06T02:54:43Z",
       "pushed": "2026-05-24T14:40:26Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -192473,7 +193374,7 @@
               "sourceRepo": "sindresorhus/awesome",
               "depth": 3,
               "children": [],
-              "stars": 410,
+              "stars": 415,
               "forks": 14,
               "language": "Java",
               "license": "CC0-1.0",
@@ -192499,7 +193400,7 @@
                 "samsung",
                 "symbian"
               ],
-              "updated": "2026-08-23T11:32:37Z",
+              "updated": "2026-09-05T13:14:34Z",
               "pushed": "2026-07-28T03:38:34Z",
               "awesome": true,
               "path": [
@@ -193015,7 +193916,7 @@
           "parentId": "root-programming-languages-java"
         }
       ],
-      "stars": 48889,
+      "stars": 48936,
       "forks": 7711,
       "language": null,
       "license": "CC-BY-SA-4.0",
@@ -193023,7 +193924,7 @@
         "awesome",
         "awesome-list"
       ],
-      "updated": "2026-08-30T05:32:10Z",
+      "updated": "2026-09-06T05:49:04Z",
       "pushed": "2026-08-24T00:59:50Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -204565,8 +205466,8 @@
           "parentId": "root-programming-languages-ocaml"
         }
       ],
-      "stars": 3111,
-      "forks": 175,
+      "stars": 3112,
+      "forks": 176,
       "language": null,
       "license": null,
       "topics": [
@@ -204575,7 +205476,7 @@
         "programming-language",
         "resources"
       ],
-      "updated": "2026-08-29T14:23:26Z",
+      "updated": "2026-09-03T16:01:49Z",
       "pushed": "2026-06-15T10:36:54Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -205331,7 +206232,7 @@
         }
       ],
       "stars": 415,
-      "forks": 61,
+      "forks": 62,
       "language": null,
       "license": "MIT",
       "topics": [],
@@ -210485,7 +211386,7 @@
             "packagist",
             "php"
           ],
-          "updated": "2026-08-05T19:58:34Z",
+          "updated": "2026-09-05T05:47:35Z",
           "pushed": "2026-07-26T14:48:03Z",
           "awesome": true,
           "readmeStatus": "expanded",
@@ -212300,8 +213201,8 @@
           "parentId": "root-programming-languages-php"
         }
       ],
-      "stars": 32674,
-      "forks": 5140,
+      "stars": 32678,
+      "forks": 5138,
       "language": null,
       "license": "WTFPL",
       "topics": [
@@ -212313,7 +213214,7 @@
         "php-installation",
         "php-library"
       ],
-      "updated": "2026-08-29T23:26:44Z",
+      "updated": "2026-09-06T04:52:49Z",
       "pushed": "2026-07-13T19:44:57Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -214455,7 +215356,7 @@
           "parentId": "root-programming-languages-pascal"
         }
       ],
-      "stars": 2079,
+      "stars": 2080,
       "forks": 411,
       "language": "Pascal",
       "license": "CC0-1.0",
@@ -214468,7 +215369,7 @@
         "list",
         "pascal-language"
       ],
-      "updated": "2026-08-29T23:06:02Z",
+      "updated": "2026-09-02T18:56:45Z",
       "pushed": "2026-02-27T16:04:57Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -215831,12 +216732,12 @@
           "parentId": "root-programming-languages-autohotkey"
         }
       ],
-      "stars": 3072,
+      "stars": 3076,
       "forks": 280,
       "language": null,
       "license": null,
       "topics": [],
-      "updated": "2026-08-28T17:11:39Z",
+      "updated": "2026-09-03T20:06:10Z",
       "pushed": "2023-01-24T23:51:33Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -225976,7 +226877,7 @@
           "parentId": "root-programming-languages-crystal"
         }
       ],
-      "stars": 3557,
+      "stars": 3560,
       "forks": 329,
       "language": "Crystal",
       "license": "MIT",
@@ -225987,7 +226888,7 @@
         "list",
         "shards"
       ],
-      "updated": "2026-08-27T15:42:53Z",
+      "updated": "2026-09-03T18:00:48Z",
       "pushed": "2026-08-19T14:53:17Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -226184,8 +227085,8 @@
           "parentId": "root-programming-languages-cmake"
         }
       ],
-      "stars": 5419,
-      "forks": 489,
+      "stars": 5416,
+      "forks": 490,
       "language": null,
       "license": "NOASSERTION",
       "topics": [
@@ -226199,7 +227100,7 @@
         "cmake-toolchains",
         "list"
       ],
-      "updated": "2026-08-25T14:06:05Z",
+      "updated": "2026-09-05T07:06:11Z",
       "pushed": "2026-08-13T12:16:11Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -228313,7 +229214,7 @@
           "parentId": "root-programming-languages-actionscript-3"
         }
       ],
-      "stars": 274,
+      "stars": 275,
       "forks": 49,
       "language": null,
       "license": "CC-BY-SA-4.0",
@@ -228329,7 +229230,7 @@
         "awesome",
         "awesome-list"
       ],
-      "updated": "2026-08-20T01:09:13Z",
+      "updated": "2026-08-30T18:36:05Z",
       "pushed": "2022-11-12T14:41:28Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -242034,7 +242935,7 @@
           "parentId": "root-programming-languages-ada-spark"
         }
       ],
-      "stars": 862,
+      "stars": 864,
       "forks": 90,
       "language": null,
       "license": "CC0-1.0",
@@ -242051,7 +242952,7 @@
         "spark",
         "spark-ada"
       ],
-      "updated": "2026-08-23T21:31:47Z",
+      "updated": "2026-09-05T17:22:30Z",
       "pushed": "2026-05-31T14:03:49Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -264205,8 +265106,8 @@
           "parentId": "root-programming-languages-v"
         }
       ],
-      "stars": 2105,
-      "forks": 141,
+      "stars": 2104,
+      "forks": 142,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -264214,7 +265115,7 @@
         "awesome-list",
         "v"
       ],
-      "updated": "2026-08-26T11:12:01Z",
+      "updated": "2026-09-05T09:40:27Z",
       "pushed": "2026-08-26T11:11:05Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -264279,7 +265180,7 @@
               "sourceRepo": "mystenlabs/awesome-move",
               "depth": 2,
               "children": [],
-              "stars": 1495,
+              "stars": 1496,
               "forks": 270,
               "language": null,
               "license": "CC-BY-4.0",
@@ -264287,7 +265188,7 @@
                 "awesome",
                 "awesome-list"
               ],
-              "updated": "2026-08-29T10:38:17Z",
+              "updated": "2026-09-01T13:26:03Z",
               "pushed": "2024-08-14T10:01:34Z",
               "awesome": true,
               "path": [
@@ -268919,7 +269820,7 @@
           "parentId": "root-programming-languages-move"
         }
       ],
-      "stars": 1495,
+      "stars": 1496,
       "forks": 270,
       "language": null,
       "license": "CC-BY-4.0",
@@ -268927,7 +269828,7 @@
         "awesome",
         "awesome-list"
       ],
-      "updated": "2026-08-29T10:38:17Z",
+      "updated": "2026-09-01T13:26:03Z",
       "pushed": "2024-08-14T10:01:34Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -269080,7 +269981,7 @@
           "parentId": "root-programming-languages-esolangs"
         }
       ],
-      "stars": 602,
+      "stars": 603,
       "forks": 41,
       "language": null,
       "license": "CC0-1.0",
@@ -269091,7 +269992,7 @@
         "esoteric",
         "list"
       ],
-      "updated": "2026-08-30T02:00:18Z",
+      "updated": "2026-09-04T16:09:06Z",
       "pushed": "2026-03-17T09:39:27Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -269724,6 +270625,34 @@
                   "depth": 3,
                   "url": "https://github.com/sancarn/awesome-vba#zip",
                   "children": [
+                    {
+                      "id": "root-programming-languages-vba-libraries-data-formats-zip-pwin-pnom-aall-ziparchive",
+                      "title": "[![pwin]](#-) [![pnom]](#-) [![aall]](#-) ZipArchive",
+                      "kind": "topic",
+                      "repo": "",
+                      "url": "",
+                      "description": "A single-class pure VB6 library for zip with ASM speed. Compatible with 32-bit VBA and Twinbasic.",
+                      "external": false,
+                      "sourceRepo": "sancarn/awesome-vba",
+                      "depth": 4,
+                      "children": [],
+                      "stars": 0,
+                      "forks": 0,
+                      "language": null,
+                      "license": null,
+                      "topics": [],
+                      "updated": null,
+                      "pushed": null,
+                      "awesome": false,
+                      "path": [
+                        "VBA",
+                        "Libraries",
+                        "Data Formats",
+                        "ZIP",
+                        "[![pwin]](#-) [![pnom]](#-) [![aall]](#-) ZipArchive"
+                      ],
+                      "parentId": "root-programming-languages-vba-libraries-data-formats-zip"
+                    },
                     {
                       "id": "root-programming-languages-vba-libraries-data-formats-zip-pwin-pnom-aall-excel-ziptools",
                       "title": "[![pwin]](#-) [![pnom]](#-) [![aall]](#-) Excel-ZipTools",
@@ -271399,6 +272328,57 @@
               "parentId": "root-programming-languages-vba-libraries"
             },
             {
+              "id": "root-programming-languages-vba-libraries-encryption",
+              "title": "Encryption",
+              "kind": "section",
+              "sourceRepo": "sancarn/awesome-vba",
+              "depth": 2,
+              "url": "https://github.com/sancarn/awesome-vba#encryption",
+              "children": [
+                {
+                  "id": "root-programming-languages-vba-libraries-encryption-pwin-pnom-aall-sha256",
+                  "title": "[![pwin]](#-) [![pnom]](#-) [![aall]](#-) SHA256",
+                  "kind": "topic",
+                  "repo": "",
+                  "url": "",
+                  "description": "A repository of cryptographic primitives implemented in VBx and compatible with VB6, both 32- and 64-bit VBA and TwinBasic.",
+                  "external": false,
+                  "sourceRepo": "sancarn/awesome-vba",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "VBA",
+                    "Libraries",
+                    "Encryption",
+                    "[![pwin]](#-) [![pnom]](#-) [![aall]](#-) SHA256"
+                  ],
+                  "parentId": "root-programming-languages-vba-libraries-encryption"
+                }
+              ],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "VBA",
+                "Libraries",
+                "Encryption"
+              ],
+              "parentId": "root-programming-languages-vba-libraries"
+            },
+            {
               "id": "root-programming-languages-vba-libraries-parsers-interpreters",
               "title": "Parsers / Interpreters",
               "kind": "section",
@@ -271538,6 +272518,33 @@
               "depth": 2,
               "url": "https://github.com/sancarn/awesome-vba#web-tools",
               "children": [
+                {
+                  "id": "root-programming-languages-vba-libraries-web-tools-pwin-pnom-axl-webview2-for-excel-vba-a-lightweight-wrapper-that-exposes-microsoft-edge-webview2-on-a-userform-enabling-html-js-ui-rendering-and-two-way-communication-with-vba-effectively-replaces-the-webbrowser-control",
+                  "title": "[![pwin]](#-) [![pnom]](#-) [![axl]](#-) WebView2 for Excel VBA – A lightweight wrapper that exposes Microsoft Edge WebView2 on a UserForm, enabling HTML/JS UI, rendering, and two‑way communication with VBA. Effectively replaces the WebBrowser control.",
+                  "kind": "topic",
+                  "repo": "",
+                  "url": "",
+                  "description": "",
+                  "external": false,
+                  "sourceRepo": "sancarn/awesome-vba",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "VBA",
+                    "Libraries",
+                    "Web tools",
+                    "[![pwin]](#-) [![pnom]](#-) [![axl]](#-) WebView2 for Excel VBA – A lightweight wrapper that exposes Microsoft Edge WebView2 on a UserForm, enabling HTML/JS UI, rendering, and two‑way communication with VBA. Effectively replaces the WebBrowser control."
+                  ],
+                  "parentId": "root-programming-languages-vba-libraries-web-tools"
+                },
                 {
                   "id": "root-programming-languages-vba-libraries-web-tools-pwin-pmac-aall-vba-web",
                   "title": "[![pwin]](#-) [![pmac]](#-) [![aall]](#-) VBA-Web",
@@ -272793,6 +273800,33 @@
                     "[![pwin]](#-) [![pmac]](#-) [![awd]](#-) Word VBA Syntax Highlighter"
                   ],
                   "parentId": "root-programming-languages-vba-examples-addins"
+                },
+                {
+                  "id": "root-programming-languages-vba-examples-addins-pwin-pmac-aac-ms-access-vcs-addin",
+                  "title": "[![pwin]](#-) [![pmac]](#-) [![aac]](#-) MS Access VCS Addin",
+                  "kind": "topic",
+                  "repo": "",
+                  "url": "",
+                  "description": "Synchronize Access Forms, Macros, Modules, Queries, Reports, and more with a version control system for MS Access.",
+                  "external": false,
+                  "sourceRepo": "sancarn/awesome-vba",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "VBA",
+                    "Examples",
+                    "AddIns",
+                    "[![pwin]](#-) [![pmac]](#-) [![aac]](#-) MS Access VCS Addin"
+                  ],
+                  "parentId": "root-programming-languages-vba-examples-addins"
                 }
               ],
               "stars": 0,
@@ -273225,6 +274259,32 @@
                 "VBA",
                 "External tools",
                 "[![pwin]](#-) [![pnom]](#-) [![opaid]](#- 'Will be licensed') [![odll]](#- 'Uses an external exe') WinVBA"
+              ],
+              "parentId": "root-programming-languages-vba-external-tools"
+            },
+            {
+              "id": "root-programming-languages-vba-external-tools-pwin-pnom-odll-uses-an-external-exe-vbecolours",
+              "title": "[![pwin]](#-) [![pnom]](#-) [![odll]](#- 'Uses an external exe') VBEColours",
+              "kind": "topic",
+              "repo": "",
+              "url": "",
+              "description": "A small external utility to configure the colours of the VBE editor. Not open-source, but its Github presence provides additional information.",
+              "external": false,
+              "sourceRepo": "sancarn/awesome-vba",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "VBA",
+                "External tools",
+                "[![pwin]](#-) [![pnom]](#-) [![odll]](#- 'Uses an external exe') VBEColours"
               ],
               "parentId": "root-programming-languages-vba-external-tools"
             }
@@ -274151,6 +275211,33 @@
                     "Resources",
                     "Websites",
                     "[![opaid]](#- 'Various paid content available through the site') AnalystCave"
+                  ],
+                  "parentId": "root-programming-languages-vba-resources-websites"
+                },
+                {
+                  "id": "root-programming-languages-vba-resources-websites-the-vba-help",
+                  "title": "The VBA Help",
+                  "kind": "link",
+                  "repo": "",
+                  "url": "https://www.thevbahelp.com/",
+                  "description": "A site dedicated to VBA with a large number of instructive blog posts. Written by the author of VBEExtras, an AddIn for the VBA IDE and VBEColours, a small utility to configure the available colors used by the VBA IDE.",
+                  "external": true,
+                  "sourceRepo": "sancarn/awesome-vba",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "VBA",
+                    "Resources",
+                    "Websites",
+                    "The VBA Help"
                   ],
                   "parentId": "root-programming-languages-vba-resources-websites"
                 }
@@ -275487,7 +276574,7 @@
           "parentId": "root-programming-languages-vba"
         }
       ],
-      "stars": 620,
+      "stars": 621,
       "forks": 71,
       "language": null,
       "license": "NOASSERTION",
@@ -275499,8 +276586,8 @@
         "visual-basic-6",
         "visual-basic-for-applications"
       ],
-      "updated": "2026-08-21T00:26:03Z",
-      "pushed": "2026-06-01T15:48:15Z",
+      "updated": "2026-09-05T01:39:39Z",
+      "pushed": "2026-08-30T13:26:24Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -281205,8 +282292,8 @@
                   "sourceRepo": "fsprojects/awesome-fsharp",
                   "depth": 3,
                   "children": [],
-                  "stars": 21580,
-                  "forks": 2928,
+                  "stars": 21583,
+                  "forks": 2929,
                   "language": null,
                   "license": "CC0-1.0",
                   "topics": [
@@ -281217,7 +282304,7 @@
                     "dotnet",
                     "fsharp"
                   ],
-                  "updated": "2026-08-29T23:27:36Z",
+                  "updated": "2026-09-06T04:53:33Z",
                   "pushed": "2026-03-26T05:16:53Z",
                   "awesome": true,
                   "path": [
@@ -281872,7 +282959,7 @@
           "parentId": "root-programming-languages-f"
         }
       ],
-      "stars": 1431,
+      "stars": 1432,
       "forks": 105,
       "language": "F#",
       "license": "CC0-1.0",
@@ -281882,7 +282969,7 @@
         "dotnet",
         "fsharp"
       ],
-      "updated": "2026-08-21T06:36:41Z",
+      "updated": "2026-08-30T20:38:50Z",
       "pushed": "2026-03-21T15:21:56Z",
       "awesome": true,
       "readmeStatus": "expanded",

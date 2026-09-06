@@ -3351,6 +3351,32 @@
           "url": "https://github.com/rockerboo/awesome-neovim#ai",
           "children": [
             {
+              "id": "root-editors-neovim-ai-raymondware-herdr-nvim",
+              "title": "raymondware/herdr.nvim",
+              "kind": "repo",
+              "repo": "raymondware/herdr.nvim",
+              "url": "https://github.com/raymondware/herdr.nvim",
+              "description": "Floating terminal and agent-state visibility for the herdr agent multiplexer: status float, statusline counts, and background polling.",
+              "external": false,
+              "sourceRepo": "rockerboo/awesome-neovim",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Neovim",
+                "AI",
+                "raymondware/herdr.nvim"
+              ],
+              "parentId": "root-editors-neovim-ai"
+            },
+            {
               "id": "root-editors-neovim-ai-saya-ashen-agent-workbench-nvim",
               "title": "saya-ashen/agent-workbench.nvim",
               "kind": "repo",
@@ -4569,6 +4595,32 @@
                 "Neovim",
                 "AI",
                 "nickjvandyke/opencode.nvim"
+              ],
+              "parentId": "root-editors-neovim-ai"
+            },
+            {
+              "id": "root-editors-neovim-ai-overflow-fs-review-nvim",
+              "title": "overflow/fs-review.nvim",
+              "kind": "repo",
+              "repo": "overflow/fs-review.nvim",
+              "url": "https://github.com/overflow/fs-review.nvim",
+              "description": "Filesystem and OpenCode review panel with isolated diff tabs, project-scoped activity tracking, and live cross-process refresh.",
+              "external": false,
+              "sourceRepo": "rockerboo/awesome-neovim",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Neovim",
+                "AI",
+                "overflow/fs-review.nvim"
               ],
               "parentId": "root-editors-neovim-ai"
             },
@@ -16794,7 +16846,7 @@
               "kind": "repo",
               "repo": "aadielpr/bono.nvim",
               "url": "https://github.com/aadielpr/bono.nvim",
-              "description": "[TS][LSP][Lua] A warm muted colorscheme with cream (light) variants.",
+              "description": "[TS][LSP][L/D][Lua] A warm muted colorscheme with cream (light) and espresso (dark) variants.",
               "external": false,
               "sourceRepo": "rockerboo/awesome-neovim",
               "depth": 2,
@@ -26677,6 +26729,32 @@
                 "Neovim",
                 "Dependency Management",
                 "taigrr/glaze.nvim"
+              ],
+              "parentId": "root-editors-neovim-dependency-management"
+            },
+            {
+              "id": "root-editors-neovim-dependency-management-jpease-hex-outdated-nvim",
+              "title": "jpease/hex-outdated.nvim",
+              "kind": "repo",
+              "repo": "jpease/hex-outdated.nvim",
+              "url": "https://github.com/jpease/hex-outdated.nvim",
+              "description": "Display latest Hex package version and status as virtual text in mix.exs.",
+              "external": false,
+              "sourceRepo": "rockerboo/awesome-neovim",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Neovim",
+                "Dependency Management",
+                "jpease/hex-outdated.nvim"
               ],
               "parentId": "root-editors-neovim-dependency-management"
             }
@@ -38438,8 +38516,8 @@
                     "neovim-plugins",
                     "nix-flake"
                   ],
-                  "updated": "2026-08-29T19:54:52Z",
-                  "pushed": "2026-08-29T19:51:35Z",
+                  "updated": "2026-09-05T19:11:50Z",
+                  "pushed": "2026-09-05T19:11:46Z",
                   "awesome": true,
                   "path": [
                     "Neovim",
@@ -39116,15 +39194,15 @@
               "sourceRepo": "rockerboo/awesome-neovim",
               "depth": 2,
               "children": [],
-              "stars": 2129,
-              "forks": 144,
+              "stars": 2130,
+              "forks": 145,
               "language": null,
               "license": "MIT",
               "topics": [
                 "awesome",
                 "vim"
               ],
-              "updated": "2026-08-28T14:32:27Z",
+              "updated": "2026-09-01T13:44:31Z",
               "pushed": "2025-06-06T18:42:55Z",
               "awesome": true,
               "path": [
@@ -39332,8 +39410,8 @@
           "parentId": "root-editors-neovim"
         }
       ],
-      "stars": 21327,
-      "forks": 1046,
+      "stars": 21355,
+      "forks": 1050,
       "language": "Shell",
       "license": "CC0-1.0",
       "topics": [
@@ -39343,8 +39421,8 @@
         "neovim-plugins",
         "nvim-lua"
       ],
-      "updated": "2026-08-30T07:55:58Z",
-      "pushed": "2026-08-29T15:56:30Z",
+      "updated": "2026-09-06T04:53:34Z",
+      "pushed": "2026-09-02T19:09:25Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -39363,7 +39441,7 @@
       "sourceRepo": "sindresorhus/awesome",
       "depth": 1,
       "children": [],
-      "stars": 9370,
+      "stars": 9372,
       "forks": 600,
       "language": null,
       "license": "Unlicense",
@@ -39371,8 +39449,8 @@
         "awesome-list",
         "emacs"
       ],
-      "updated": "2026-08-29T18:12:59Z",
-      "pushed": "2026-08-28T19:15:40Z",
+      "updated": "2026-09-06T05:47:45Z",
+      "pushed": "2026-09-02T15:57:43Z",
       "awesome": true,
       "readmeStatus": "empty",
       "path": [
@@ -45842,8 +45920,8 @@
           "parentId": "root-editors-visual-studio-code"
         }
       ],
-      "stars": 28986,
-      "forks": 1414,
+      "stars": 29006,
+      "forks": 1413,
       "language": "JavaScript",
       "license": "CC0-1.0",
       "topics": [
@@ -45859,7 +45937,7 @@
         "vscode-extension",
         "vscode-theme"
       ],
-      "updated": "2026-08-30T01:48:19Z",
+      "updated": "2026-09-06T04:52:58Z",
       "pushed": "2026-06-21T09:36:55Z",
       "awesome": true,
       "readmeStatus": "expanded",

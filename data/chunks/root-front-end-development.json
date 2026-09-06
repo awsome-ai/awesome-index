@@ -7895,8 +7895,8 @@
           "parentId": "root-front-end-development-web-performance-optimization"
         }
       ],
-      "stars": 9058,
-      "forks": 588,
+      "stars": 9063,
+      "forks": 593,
       "language": null,
       "license": "MIT",
       "topics": [
@@ -7907,7 +7907,7 @@
         "webperf-metrics",
         "webperformance"
       ],
-      "updated": "2026-08-30T01:49:09Z",
+      "updated": "2026-09-06T05:47:57Z",
       "pushed": "2026-07-28T02:18:16Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -9605,8 +9605,8 @@
               "parentId": "root-front-end-development-css-frameworks"
             }
           ],
-          "stars": 9500,
-          "forks": 496,
+          "stars": 9507,
+          "forks": 497,
           "language": "CSS",
           "license": null,
           "topics": [
@@ -9619,7 +9619,7 @@
             "list",
             "scss"
           ],
-          "updated": "2026-08-30T03:33:08Z",
+          "updated": "2026-09-06T05:47:41Z",
           "pushed": "2026-06-08T20:32:07Z",
           "awesome": true,
           "readmeStatus": "expanded",
@@ -10784,7 +10784,7 @@
           "parentId": "root-front-end-development-css"
         }
       ],
-      "stars": 5622,
+      "stars": 5628,
       "forks": 450,
       "language": null,
       "license": "CC-BY-SA-4.0",
@@ -10794,7 +10794,7 @@
         "css",
         "list"
       ],
-      "updated": "2026-08-30T02:08:48Z",
+      "updated": "2026-09-04T12:08:49Z",
       "pushed": "2024-10-30T07:00:24Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -15759,6 +15759,33 @@
                     "ruixen-ui"
                   ],
                   "parentId": "root-front-end-development-react-react-react-component-libraries"
+                },
+                {
+                  "id": "root-front-end-development-react-react-react-component-libraries-billingsdk",
+                  "title": "billingsdk",
+                  "kind": "repo",
+                  "repo": "dodopayments/billingsdk",
+                  "url": "https://github.com/dodopayments/billingsdk",
+                  "description": "Type-safe billing and subscription components built with TypeScript, Tailwind CSS and shadcn/ui",
+                  "external": false,
+                  "sourceRepo": "enaqx/awesome-react",
+                  "depth": 4,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "React",
+                    "React",
+                    "React Component Libraries",
+                    "billingsdk"
+                  ],
+                  "parentId": "root-front-end-development-react-react-react-component-libraries"
                 }
               ],
               "stars": 0,
@@ -16875,6 +16902,33 @@
                     "react-error-boundary"
                   ],
                   "parentId": "root-front-end-development-react-react-react-libraries"
+                },
+                {
+                  "id": "root-front-end-development-react-react-react-libraries-reactuse",
+                  "title": "reactuse",
+                  "kind": "repo",
+                  "repo": "childrentime/reactuse",
+                  "url": "https://github.com/childrentime/reactuse",
+                  "description": "Collection of 110+ tree-shakable, SSR-safe, TypeScript-first React Hooks",
+                  "external": false,
+                  "sourceRepo": "enaqx/awesome-react",
+                  "depth": 4,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "React",
+                    "React",
+                    "React Libraries",
+                    "reactuse"
+                  ],
+                  "parentId": "root-front-end-development-react-react-react-libraries"
                 }
               ],
               "stars": 0,
@@ -17043,8 +17097,8 @@
                   "sourceRepo": "enaqx/awesome-react",
                   "depth": 4,
                   "children": [],
-                  "stars": 48301,
-                  "forks": 3835,
+                  "stars": 48339,
+                  "forks": 3837,
                   "language": null,
                   "license": "CC0-1.0",
                   "topics": [
@@ -17054,7 +17108,7 @@
                     "react-component",
                     "react-components"
                   ],
-                  "updated": "2026-08-30T06:53:45Z",
+                  "updated": "2026-09-06T04:58:07Z",
                   "pushed": "2026-01-26T16:36:45Z",
                   "awesome": true,
                   "path": [
@@ -17706,6 +17760,33 @@
                     "tanstack-form"
                   ],
                   "parentId": "root-front-end-development-react-react-react-forms"
+                },
+                {
+                  "id": "root-front-end-development-react-react-react-forms-formisch",
+                  "title": "formisch",
+                  "kind": "repo",
+                  "repo": "open-circle/formisch",
+                  "url": "https://github.com/open-circle/formisch",
+                  "description": "The schema-based, headless form library for React",
+                  "external": false,
+                  "sourceRepo": "enaqx/awesome-react",
+                  "depth": 4,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "React",
+                    "React",
+                    "React Forms",
+                    "formisch"
+                  ],
+                  "parentId": "root-front-end-development-react-react-react-forms"
                 }
               ],
               "stars": 0,
@@ -18261,6 +18342,33 @@
                     "markdown-to-jsx"
                   ],
                   "parentId": "root-front-end-development-react-react-react-renderers"
+                },
+                {
+                  "id": "root-front-end-development-react-react-react-renderers-markstream",
+                  "title": "markstream",
+                  "kind": "repo",
+                  "repo": "simon-he95/markstream-vue",
+                  "url": "https://github.com/simon-he95/markstream-vue",
+                  "description": "Streaming Markdown renderer for React and AI chat interfaces",
+                  "external": false,
+                  "sourceRepo": "enaqx/awesome-react",
+                  "depth": 4,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "React",
+                    "React",
+                    "React Renderers",
+                    "markstream"
+                  ],
+                  "parentId": "root-front-end-development-react-react-react-renderers"
                 }
               ],
               "stars": 0,
@@ -18656,6 +18764,33 @@
               "url": "https://github.com/enaqx/awesome-react#react-real-apps",
               "children": [
                 {
+                  "id": "root-front-end-development-react-react-react-real-apps-excalidraw",
+                  "title": "excalidraw",
+                  "kind": "repo",
+                  "repo": "excalidraw/excalidraw",
+                  "url": "https://github.com/excalidraw/excalidraw",
+                  "description": "An open source virtual hand-drawn style whiteboard.",
+                  "external": false,
+                  "sourceRepo": "enaqx/awesome-react",
+                  "depth": 4,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "React",
+                    "React",
+                    "React Real Apps",
+                    "excalidraw"
+                  ],
+                  "parentId": "root-front-end-development-react-react-react-real-apps"
+                },
+                {
                   "id": "root-front-end-development-react-react-react-real-apps-mattermost-server",
                   "title": "mattermost-server",
                   "kind": "repo",
@@ -18868,6 +19003,33 @@
                     "React",
                     "React Real Apps",
                     "notifuse"
+                  ],
+                  "parentId": "root-front-end-development-react-react-react-real-apps"
+                },
+                {
+                  "id": "root-front-end-development-react-react-react-real-apps-cate",
+                  "title": "cate",
+                  "kind": "repo",
+                  "repo": "0-ai-ug/cate",
+                  "url": "https://github.com/0-ai-ug/cate",
+                  "description": "An open source IDE on an infinite zoomable canvas, with editor, terminal, and browser panels",
+                  "external": false,
+                  "sourceRepo": "enaqx/awesome-react",
+                  "depth": 4,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "React",
+                    "React",
+                    "React Real Apps",
+                    "cate"
                   ],
                   "parentId": "root-front-end-development-react-react-react-real-apps"
                 }
@@ -19259,6 +19421,33 @@
                     "react-native-maps"
                   ],
                   "parentId": "root-front-end-development-react-react-native-react-native-libraries"
+                },
+                {
+                  "id": "root-front-end-development-react-react-native-react-native-libraries-xprem",
+                  "title": "xprem",
+                  "kind": "repo",
+                  "repo": "mercuretechnologies/xprem",
+                  "url": "https://github.com/mercuretechnologies/xprem",
+                  "description": "Self-hosted OTA updates for Expo and React Native apps",
+                  "external": false,
+                  "sourceRepo": "enaqx/awesome-react",
+                  "depth": 4,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "React",
+                    "React Native",
+                    "React Native Libraries",
+                    "xprem"
+                  ],
+                  "parentId": "root-front-end-development-react-react-native-react-native-libraries"
                 }
               ],
               "stars": 0,
@@ -19292,8 +19481,8 @@
           "parentId": "root-front-end-development-react"
         }
       ],
-      "stars": 74447,
-      "forks": 7627,
+      "stars": 74506,
+      "forks": 7629,
       "language": null,
       "license": null,
       "topics": [
@@ -19308,8 +19497,8 @@
         "tutorial",
         "typescript"
       ],
-      "updated": "2026-08-30T06:30:31Z",
-      "pushed": "2026-08-20T07:58:12Z",
+      "updated": "2026-09-06T06:51:50Z",
+      "pushed": "2026-09-04T01:13:20Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -19367,7 +19556,7 @@
               "title": "Intro to Web Components",
               "kind": "link",
               "repo": "",
-              "url": "https://developer.salesforce.com/blogs/2020/01/intro-to-web-components.html",
+              "url": "https://developer.salesforce.com/blogs/2020/01/intro-to-web-components",
               "description": "",
               "external": true,
               "sourceRepo": "web-padawan/awesome-web-components",
@@ -19549,7 +19738,7 @@
               "title": "Why Web Components?",
               "kind": "link",
               "repo": "",
-              "url": "https://www.fast.design/docs/resources/why-web-components/",
+              "url": "https://fast.design/docs/3.x/resources/why-web-components/",
               "description": "",
               "external": true,
               "sourceRepo": "web-padawan/awesome-web-components",
@@ -19601,33 +19790,6 @@
               "depth": 2,
               "url": "https://github.com/web-padawan/awesome-web-components#custom-elements",
               "children": [
-                {
-                  "id": "root-front-end-development-web-components-standards-custom-elements-a-guide-to-custom-elements-for-react-developers",
-                  "title": "A Guide to Custom Elements for React Developers",
-                  "kind": "link",
-                  "repo": "",
-                  "url": "https://css-tricks.com/a-guide-to-custom-elements-for-react-developers/",
-                  "description": "",
-                  "external": true,
-                  "sourceRepo": "web-padawan/awesome-web-components",
-                  "depth": 3,
-                  "children": [],
-                  "stars": 0,
-                  "forks": 0,
-                  "language": null,
-                  "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
-                  "awesome": false,
-                  "path": [
-                    "Web Components",
-                    "Standards",
-                    "Custom Elements",
-                    "A Guide to Custom Elements for React Developers"
-                  ],
-                  "parentId": "root-front-end-development-web-components-standards-custom-elements"
-                },
                 {
                   "id": "root-front-end-development-web-components-standards-custom-elements-all-about-html-custom-elements",
                   "title": "All about HTML Custom Elements",
@@ -20673,6 +20835,33 @@
                   "parentId": "root-front-end-development-web-components-standards-css-shadow-parts"
                 },
                 {
+                  "id": "root-front-end-development-web-components-standards-css-shadow-parts-css-shadow-parts",
+                  "title": "CSS shadow parts",
+                  "kind": "link",
+                  "repo": "",
+                  "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Shadow_parts",
+                  "description": "",
+                  "external": true,
+                  "sourceRepo": "web-padawan/awesome-web-components",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Web Components",
+                    "Standards",
+                    "CSS Shadow Parts",
+                    "CSS shadow parts"
+                  ],
+                  "parentId": "root-front-end-development-web-components-standards-css-shadow-parts"
+                },
+                {
                   "id": "root-front-end-development-web-components-standards-css-shadow-parts-css-shadow-parts-are-coming",
                   "title": "CSS Shadow Parts are coming!",
                   "kind": "link",
@@ -20696,60 +20885,6 @@
                     "Standards",
                     "CSS Shadow Parts",
                     "CSS Shadow Parts are coming!"
-                  ],
-                  "parentId": "root-front-end-development-web-components-standards-css-shadow-parts"
-                },
-                {
-                  "id": "root-front-end-development-web-components-standards-css-shadow-parts-mdn-part-css-pseudo-element",
-                  "title": "MDN - ::part() CSS pseudo element",
-                  "kind": "link",
-                  "repo": "",
-                  "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/::part",
-                  "description": "",
-                  "external": true,
-                  "sourceRepo": "web-padawan/awesome-web-components",
-                  "depth": 3,
-                  "children": [],
-                  "stars": 0,
-                  "forks": 0,
-                  "language": null,
-                  "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
-                  "awesome": false,
-                  "path": [
-                    "Web Components",
-                    "Standards",
-                    "CSS Shadow Parts",
-                    "MDN - ::part() CSS pseudo element"
-                  ],
-                  "parentId": "root-front-end-development-web-components-standards-css-shadow-parts"
-                },
-                {
-                  "id": "root-front-end-development-web-components-standards-css-shadow-parts-mdn-part-global-attribute",
-                  "title": "MDN - part global attribute",
-                  "kind": "link",
-                  "repo": "",
-                  "url": "https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/part",
-                  "description": "",
-                  "external": true,
-                  "sourceRepo": "web-padawan/awesome-web-components",
-                  "depth": 3,
-                  "children": [],
-                  "stars": 0,
-                  "forks": 0,
-                  "language": null,
-                  "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
-                  "awesome": false,
-                  "path": [
-                    "Web Components",
-                    "Standards",
-                    "CSS Shadow Parts",
-                    "MDN - part global attribute"
                   ],
                   "parentId": "root-front-end-development-web-components-standards-css-shadow-parts"
                 },
@@ -20822,6 +20957,165 @@
                 "CSS Shadow Parts"
               ],
               "parentId": "root-front-end-development-web-components-standards"
+            },
+            {
+              "id": "root-front-end-development-web-components-standards-form-associated-custom-elements",
+              "title": "Form Associated Custom Elements",
+              "kind": "section",
+              "sourceRepo": "web-padawan/awesome-web-components",
+              "depth": 2,
+              "url": "https://github.com/web-padawan/awesome-web-components#form-associated-custom-elements",
+              "children": [
+                {
+                  "id": "root-front-end-development-web-components-standards-form-associated-custom-elements-html-living-standard-creating-a-form-associated-custom-element",
+                  "title": "HTML Living Standard: Creating a form-associated custom element",
+                  "kind": "link",
+                  "repo": "",
+                  "url": "https://html.spec.whatwg.org/dev/custom-elements.html#custom-elements-face-example",
+                  "description": "",
+                  "external": true,
+                  "sourceRepo": "web-padawan/awesome-web-components",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Web Components",
+                    "Standards",
+                    "Form Associated Custom Elements",
+                    "HTML Living Standard: Creating a form-associated custom element"
+                  ],
+                  "parentId": "root-front-end-development-web-components-standards-form-associated-custom-elements"
+                },
+                {
+                  "id": "root-front-end-development-web-components-standards-form-associated-custom-elements-form-associated-custom-elements-web-components-that-belong-in-a-form",
+                  "title": "Form-Associated Custom Elements: Web Components That Belong in a Form",
+                  "kind": "link",
+                  "repo": "",
+                  "url": "https://dev.to/grimicorn/form-associated-custom-elements-web-components-that-belong-in-a-form-19kd",
+                  "description": "",
+                  "external": true,
+                  "sourceRepo": "web-padawan/awesome-web-components",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Web Components",
+                    "Standards",
+                    "Form Associated Custom Elements",
+                    "Form-Associated Custom Elements: Web Components That Belong in a Form"
+                  ],
+                  "parentId": "root-front-end-development-web-components-standards-form-associated-custom-elements"
+                },
+                {
+                  "id": "root-front-end-development-web-components-standards-form-associated-custom-elements-form-associated-custom-elements-in-practice",
+                  "title": "Form-Associated Custom Elements in Practice",
+                  "kind": "link",
+                  "repo": "",
+                  "url": "https://blog.master.dev/form-associated-custom-elements-in-practice/",
+                  "description": "",
+                  "external": true,
+                  "sourceRepo": "web-padawan/awesome-web-components",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Web Components",
+                    "Standards",
+                    "Form Associated Custom Elements",
+                    "Form-Associated Custom Elements in Practice"
+                  ],
+                  "parentId": "root-front-end-development-web-components-standards-form-associated-custom-elements"
+                },
+                {
+                  "id": "root-front-end-development-web-components-standards-form-associated-custom-elements-elementinternals-and-form-associated-custom-elements",
+                  "title": "ElementInternals and Form-Associated Custom Elements",
+                  "kind": "link",
+                  "repo": "",
+                  "url": "https://webkit.org/blog/13711/elementinternals-and-form-associated-custom-elements/",
+                  "description": "",
+                  "external": true,
+                  "sourceRepo": "web-padawan/awesome-web-components",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Web Components",
+                    "Standards",
+                    "Form Associated Custom Elements",
+                    "ElementInternals and Form-Associated Custom Elements"
+                  ],
+                  "parentId": "root-front-end-development-web-components-standards-form-associated-custom-elements"
+                },
+                {
+                  "id": "root-front-end-development-web-components-standards-form-associated-custom-elements-form-associated-custom-elements",
+                  "title": "Form-associated custom elements",
+                  "kind": "link",
+                  "repo": "",
+                  "url": "https://www.hjorthhansen.dev/shadow-dom-form-participation/",
+                  "description": "",
+                  "external": true,
+                  "sourceRepo": "web-padawan/awesome-web-components",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Web Components",
+                    "Standards",
+                    "Form Associated Custom Elements",
+                    "Form-associated custom elements"
+                  ],
+                  "parentId": "root-front-end-development-web-components-standards-form-associated-custom-elements"
+                }
+              ],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Web Components",
+                "Standards",
+                "Form Associated Custom Elements"
+              ],
+              "parentId": "root-front-end-development-web-components-standards"
             }
           ],
           "stars": 0,
@@ -20859,7 +21153,7 @@
                   "title": "Accessibility for Web Components",
                   "kind": "link",
                   "repo": "",
-                  "url": "https://developer.salesforce.com/blogs/2020/01/accessibility-for-web-components.html",
+                  "url": "https://developer.salesforce.com/blogs/2020/01/accessibility-for-web-components",
                   "description": "",
                   "external": true,
                   "sourceRepo": "web-padawan/awesome-web-components",
@@ -22079,33 +22373,6 @@
                     "Supporting both automatic and manual registration of custom elements"
                   ],
                   "parentId": "root-front-end-development-web-components-articles-architecture"
-                },
-                {
-                  "id": "root-front-end-development-web-components-articles-architecture-web-components-the-right-way",
-                  "title": "Web Components — the right way",
-                  "kind": "link",
-                  "repo": "",
-                  "url": "https://equinusocio.dev/blog/web-components-the-right-way/",
-                  "description": "",
-                  "external": true,
-                  "sourceRepo": "web-padawan/awesome-web-components",
-                  "depth": 3,
-                  "children": [],
-                  "stars": 0,
-                  "forks": 0,
-                  "language": null,
-                  "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
-                  "awesome": false,
-                  "path": [
-                    "Web Components",
-                    "Articles",
-                    "Architecture",
-                    "Web Components — the right way"
-                  ],
-                  "parentId": "root-front-end-development-web-components-articles-architecture"
                 }
               ],
               "stars": 0,
@@ -22310,6 +22577,489 @@
               "parentId": "root-front-end-development-web-components-articles"
             },
             {
+              "id": "root-front-end-development-web-components-articles-opinions",
+              "title": "Opinions",
+              "kind": "section",
+              "sourceRepo": "web-padawan/awesome-web-components",
+              "depth": 2,
+              "url": "https://github.com/web-padawan/awesome-web-components#opinions",
+              "children": [
+                {
+                  "id": "root-front-end-development-web-components-articles-opinions-web-components-are-okay",
+                  "title": "Web components are okay",
+                  "kind": "link",
+                  "repo": "",
+                  "url": "https://nolanlawson.com/2024/09/28/web-components-are-okay/",
+                  "description": "",
+                  "external": true,
+                  "sourceRepo": "web-padawan/awesome-web-components",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Web Components",
+                    "Articles",
+                    "Opinions",
+                    "Web components are okay"
+                  ],
+                  "parentId": "root-front-end-development-web-components-articles-opinions"
+                },
+                {
+                  "id": "root-front-end-development-web-components-articles-opinions-web-components-are-not-the-future-they-re-the-present",
+                  "title": "Web Components Are Not the Future — They’re the Present",
+                  "kind": "link",
+                  "repo": "",
+                  "url": "https://www.abeautifulsite.net/posts/web-components-are-not-the-future-they-re-the-present/",
+                  "description": "",
+                  "external": true,
+                  "sourceRepo": "web-padawan/awesome-web-components",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Web Components",
+                    "Articles",
+                    "Opinions",
+                    "Web Components Are Not the Future — They’re the Present"
+                  ],
+                  "parentId": "root-front-end-development-web-components-articles-opinions"
+                },
+                {
+                  "id": "root-front-end-development-web-components-articles-opinions-web-components-are-not-the-future",
+                  "title": "Web Components Are Not the Future",
+                  "kind": "link",
+                  "repo": "",
+                  "url": "https://dev.to/ryansolid/web-components-are-not-the-future-48bh",
+                  "description": "",
+                  "external": true,
+                  "sourceRepo": "web-padawan/awesome-web-components",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Web Components",
+                    "Articles",
+                    "Opinions",
+                    "Web Components Are Not the Future"
+                  ],
+                  "parentId": "root-front-end-development-web-components-articles-opinions"
+                },
+                {
+                  "id": "root-front-end-development-web-components-articles-opinions-if-web-components-are-so-great-why-am-i-not-using-them",
+                  "title": "If Web Components are so great, why am I not using them?",
+                  "kind": "link",
+                  "repo": "",
+                  "url": "https://daverupert.com/2023/07/why-not-webcomponents/",
+                  "description": "",
+                  "external": true,
+                  "sourceRepo": "web-padawan/awesome-web-components",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Web Components",
+                    "Articles",
+                    "Opinions",
+                    "If Web Components are so great, why am I not using them?"
+                  ],
+                  "parentId": "root-front-end-development-web-components-articles-opinions"
+                },
+                {
+                  "id": "root-front-end-development-web-components-articles-opinions-debunking-web-component-myths-and-misconceptions",
+                  "title": "Debunking Web Component Myths and Misconceptions",
+                  "kind": "link",
+                  "repo": "",
+                  "url": "https://eisenbergeffect.medium.com/debunking-web-component-myths-and-misconceptions-ea9bb13daf61",
+                  "description": "",
+                  "external": true,
+                  "sourceRepo": "web-padawan/awesome-web-components",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Web Components",
+                    "Articles",
+                    "Opinions",
+                    "Debunking Web Component Myths and Misconceptions"
+                  ],
+                  "parentId": "root-front-end-development-web-components-articles-opinions"
+                },
+                {
+                  "id": "root-front-end-development-web-components-articles-opinions-let-s-talk-about-web-components",
+                  "title": "Let’s talk about web components",
+                  "kind": "link",
+                  "repo": "",
+                  "url": "https://bradfrost.com/blog/post/lets-talk-about-web-components/",
+                  "description": "",
+                  "external": true,
+                  "sourceRepo": "web-padawan/awesome-web-components",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Web Components",
+                    "Articles",
+                    "Opinions",
+                    "Let’s talk about web components"
+                  ],
+                  "parentId": "root-front-end-development-web-components-articles-opinions"
+                },
+                {
+                  "id": "root-front-end-development-web-components-articles-opinions-a-web-component-story",
+                  "title": "A Web Component Story",
+                  "kind": "link",
+                  "repo": "",
+                  "url": "https://www.abeautifulsite.net/posts/a-web-component-story/",
+                  "description": "",
+                  "external": true,
+                  "sourceRepo": "web-padawan/awesome-web-components",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Web Components",
+                    "Articles",
+                    "Opinions",
+                    "A Web Component Story"
+                  ],
+                  "parentId": "root-front-end-development-web-components-articles-opinions"
+                },
+                {
+                  "id": "root-front-end-development-web-components-articles-opinions-why-it-s-okay-for-web-components-to-use-frameworks",
+                  "title": "Why it’s okay for web components to use frameworks",
+                  "kind": "link",
+                  "repo": "",
+                  "url": "https://nolanlawson.com/2021/08/01/why-its-okay-for-web-components-to-use-frameworks/",
+                  "description": "",
+                  "external": true,
+                  "sourceRepo": "web-padawan/awesome-web-components",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Web Components",
+                    "Articles",
+                    "Opinions",
+                    "Why it’s okay for web components to use frameworks"
+                  ],
+                  "parentId": "root-front-end-development-web-components-articles-opinions"
+                },
+                {
+                  "id": "root-front-end-development-web-components-articles-opinions-misadventures-in-web-components",
+                  "title": "Misadventures in web components",
+                  "kind": "link",
+                  "repo": "",
+                  "url": "https://www.falldowngoboone.com/blog/misadventures-in-web-components/",
+                  "description": "",
+                  "external": true,
+                  "sourceRepo": "web-padawan/awesome-web-components",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Web Components",
+                    "Articles",
+                    "Opinions",
+                    "Misadventures in web components"
+                  ],
+                  "parentId": "root-front-end-development-web-components-articles-opinions"
+                },
+                {
+                  "id": "root-front-end-development-web-components-articles-opinions-what-happened-to-web-components",
+                  "title": "What happened to web components?",
+                  "kind": "link",
+                  "repo": "",
+                  "url": "https://blog.logrocket.com/what-happened-to-web-components/",
+                  "description": "",
+                  "external": true,
+                  "sourceRepo": "web-padawan/awesome-web-components",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Web Components",
+                    "Articles",
+                    "Opinions",
+                    "What happened to web components?"
+                  ],
+                  "parentId": "root-front-end-development-web-components-articles-opinions"
+                },
+                {
+                  "id": "root-front-end-development-web-components-articles-opinions-the-failed-criticism-of-web-components",
+                  "title": "The Failed Criticism of Web Components",
+                  "kind": "link",
+                  "repo": "",
+                  "url": "https://www.dannymoerkerke.com/blog/the-failed-criticism-of-web-components/",
+                  "description": "",
+                  "external": true,
+                  "sourceRepo": "web-padawan/awesome-web-components",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Web Components",
+                    "Articles",
+                    "Opinions",
+                    "The Failed Criticism of Web Components"
+                  ],
+                  "parentId": "root-front-end-development-web-components-articles-opinions"
+                },
+                {
+                  "id": "root-front-end-development-web-components-articles-opinions-the-failed-promise-of-web-components",
+                  "title": "The failed promise of Web Components",
+                  "kind": "link",
+                  "repo": "",
+                  "url": "https://lea.verou.me/blog/2020/09/the-failed-promise-of-web-components/",
+                  "description": "",
+                  "external": true,
+                  "sourceRepo": "web-padawan/awesome-web-components",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Web Components",
+                    "Articles",
+                    "Opinions",
+                    "The failed promise of Web Components"
+                  ],
+                  "parentId": "root-front-end-development-web-components-articles-opinions"
+                },
+                {
+                  "id": "root-front-end-development-web-components-articles-opinions-the-flaws-of-web-components-and-possible-solutions",
+                  "title": "The Flaws Of Web Components (And Possible Solutions)",
+                  "kind": "link",
+                  "repo": "",
+                  "url": "https://www.thinktecture.com/web-components/web-components-flaws/",
+                  "description": "",
+                  "external": true,
+                  "sourceRepo": "web-padawan/awesome-web-components",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Web Components",
+                    "Articles",
+                    "Opinions",
+                    "The Flaws Of Web Components (And Possible Solutions)"
+                  ],
+                  "parentId": "root-front-end-development-web-components-articles-opinions"
+                },
+                {
+                  "id": "root-front-end-development-web-components-articles-opinions-the-perks-of-web-components",
+                  "title": "The Perks Of Web Components",
+                  "kind": "link",
+                  "repo": "",
+                  "url": "https://www.thinktecture.com/web-components/web-components-perks/\"",
+                  "description": "",
+                  "external": true,
+                  "sourceRepo": "web-padawan/awesome-web-components",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Web Components",
+                    "Articles",
+                    "Opinions",
+                    "The Perks Of Web Components"
+                  ],
+                  "parentId": "root-front-end-development-web-components-articles-opinions"
+                },
+                {
+                  "id": "root-front-end-development-web-components-articles-opinions-there-s-no-need-to-hate-web-components",
+                  "title": "There’s No Need To Hate Web Components",
+                  "kind": "link",
+                  "repo": "",
+                  "url": "https://www.dannymoerkerke.com/blog/theres-no-need-to-hate-web-components/",
+                  "description": "",
+                  "external": true,
+                  "sourceRepo": "web-padawan/awesome-web-components",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Web Components",
+                    "Articles",
+                    "Opinions",
+                    "There’s No Need To Hate Web Components"
+                  ],
+                  "parentId": "root-front-end-development-web-components-articles-opinions"
+                },
+                {
+                  "id": "root-front-end-development-web-components-articles-opinions-why-i-don-t-use-web-components",
+                  "title": "Why I don't use web components",
+                  "kind": "link",
+                  "repo": "",
+                  "url": "https://dev.to/richharris/why-i-don-t-use-web-components-2cia",
+                  "description": "",
+                  "external": true,
+                  "sourceRepo": "web-padawan/awesome-web-components",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Web Components",
+                    "Articles",
+                    "Opinions",
+                    "Why I don't use web components"
+                  ],
+                  "parentId": "root-front-end-development-web-components-articles-opinions"
+                },
+                {
+                  "id": "root-front-end-development-web-components-articles-opinions-the-web-components-journey-wrong-ways-lacking-parts-and-promising-paths",
+                  "title": "The Web Components journey: wrong ways, lacking parts and promising paths",
+                  "kind": "link",
+                  "repo": "",
+                  "url": "https://dev.to/webpadawan/the-journey-of-web-components-wrong-ways-lacking-parts-and-promising-paths-1d5a",
+                  "description": "",
+                  "external": true,
+                  "sourceRepo": "web-padawan/awesome-web-components",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Web Components",
+                    "Articles",
+                    "Opinions",
+                    "The Web Components journey: wrong ways, lacking parts and promising paths"
+                  ],
+                  "parentId": "root-front-end-development-web-components-articles-opinions"
+                }
+              ],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Web Components",
+                "Articles",
+                "Opinions"
+              ],
+              "parentId": "root-front-end-development-web-components-articles"
+            },
+            {
               "id": "root-front-end-development-web-components-articles-limitations",
               "title": "Limitations",
               "kind": "section",
@@ -22368,33 +23118,6 @@
                     "Articles",
                     "Limitations",
                     "Custom elements, shadow DOM and implicit form submission"
-                  ],
-                  "parentId": "root-front-end-development-web-components-articles-limitations"
-                },
-                {
-                  "id": "root-front-end-development-web-components-articles-limitations-form-associated-custom-elements",
-                  "title": "Form-associated custom elements",
-                  "kind": "link",
-                  "repo": "",
-                  "url": "https://www.hjorthhansen.dev/shadow-dom-form-participation/",
-                  "description": "",
-                  "external": true,
-                  "sourceRepo": "web-padawan/awesome-web-components",
-                  "depth": 3,
-                  "children": [],
-                  "stars": 0,
-                  "forks": 0,
-                  "language": null,
-                  "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
-                  "awesome": false,
-                  "path": [
-                    "Web Components",
-                    "Articles",
-                    "Limitations",
-                    "Form-associated custom elements"
                   ],
                   "parentId": "root-front-end-development-web-components-articles-limitations"
                 },
@@ -23652,33 +24375,6 @@
                   "parentId": "root-front-end-development-web-components-real-world-component-libraries"
                 },
                 {
-                  "id": "root-front-end-development-web-components-real-world-component-libraries-elements-sk",
-                  "title": "elements-sk",
-                  "kind": "repo",
-                  "repo": "google/elements-sk",
-                  "url": "https://github.com/google/elements-sk",
-                  "description": "Collection of custom elements for \"a la carte\" web development.",
-                  "external": false,
-                  "sourceRepo": "web-padawan/awesome-web-components",
-                  "depth": 3,
-                  "children": [],
-                  "stars": 0,
-                  "forks": 0,
-                  "language": null,
-                  "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
-                  "awesome": false,
-                  "path": [
-                    "Web Components",
-                    "Real World",
-                    "Component Libraries",
-                    "elements-sk"
-                  ],
-                  "parentId": "root-front-end-development-web-components-real-world-component-libraries"
-                },
-                {
                   "id": "root-front-end-development-web-components-real-world-component-libraries-github-elements",
                   "title": "github-elements",
                   "kind": "repo",
@@ -23810,33 +24506,6 @@
                     "Real World",
                     "Component Libraries",
                     "Ignite UI Web Components"
-                  ],
-                  "parentId": "root-front-end-development-web-components-real-world-component-libraries"
-                },
-                {
-                  "id": "root-front-end-development-web-components-real-world-component-libraries-immersive-custom-elements",
-                  "title": "Immersive Custom Elements",
-                  "kind": "repo",
-                  "repo": "mozillareality/immersive-custom-elements",
-                  "url": "https://github.com/mozillareality/immersive-custom-elements",
-                  "description": "Set of web components for embedding immersive (VR & AR) content.",
-                  "external": false,
-                  "sourceRepo": "web-padawan/awesome-web-components",
-                  "depth": 3,
-                  "children": [],
-                  "stars": 0,
-                  "forks": 0,
-                  "language": null,
-                  "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
-                  "awesome": false,
-                  "path": [
-                    "Web Components",
-                    "Real World",
-                    "Component Libraries",
-                    "Immersive Custom Elements"
                   ],
                   "parentId": "root-front-end-development-web-components-real-world-component-libraries"
                 },
@@ -24026,33 +24695,6 @@
                     "Real World",
                     "Component Libraries",
                     "Medblocks UI"
-                  ],
-                  "parentId": "root-front-end-development-web-components-real-world-component-libraries"
-                },
-                {
-                  "id": "root-front-end-development-web-components-real-world-component-libraries-microsoft-graph-toolkit",
-                  "title": "Microsoft Graph Toolkit",
-                  "kind": "repo",
-                  "repo": "microsoftgraph/microsoft-graph-toolkit",
-                  "url": "https://github.com/microsoftgraph/microsoft-graph-toolkit",
-                  "description": "Collection of web components for the Microsoft Graph.",
-                  "external": false,
-                  "sourceRepo": "web-padawan/awesome-web-components",
-                  "depth": 3,
-                  "children": [],
-                  "stars": 0,
-                  "forks": 0,
-                  "language": null,
-                  "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
-                  "awesome": false,
-                  "path": [
-                    "Web Components",
-                    "Real World",
-                    "Component Libraries",
-                    "Microsoft Graph Toolkit"
                   ],
                   "parentId": "root-front-end-development-web-components-real-world-component-libraries"
                 },
@@ -24273,33 +24915,6 @@
                   "parentId": "root-front-end-development-web-components-real-world-component-libraries"
                 },
                 {
-                  "id": "root-front-end-development-web-components-real-world-component-libraries-shoelace",
-                  "title": "Shoelace",
-                  "kind": "repo",
-                  "repo": "shoelace-style/shoelace",
-                  "url": "https://github.com/shoelace-style/shoelace",
-                  "description": "A forward-thinking library of web components.",
-                  "external": false,
-                  "sourceRepo": "web-padawan/awesome-web-components",
-                  "depth": 3,
-                  "children": [],
-                  "stars": 0,
-                  "forks": 0,
-                  "language": null,
-                  "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
-                  "awesome": false,
-                  "path": [
-                    "Web Components",
-                    "Real World",
-                    "Component Libraries",
-                    "Shoelace"
-                  ],
-                  "parentId": "root-front-end-development-web-components-real-world-component-libraries"
-                },
-                {
                   "id": "root-front-end-development-web-components-real-world-component-libraries-smart-web-components",
                   "title": "Smart Web Components",
                   "kind": "repo",
@@ -24516,12 +25131,12 @@
                   "parentId": "root-front-end-development-web-components-real-world-component-libraries"
                 },
                 {
-                  "id": "root-front-end-development-web-components-real-world-component-libraries-vscode-webview-elements",
-                  "title": "VSCode Webview Elements",
+                  "id": "root-front-end-development-web-components-real-world-component-libraries-vscode-elements",
+                  "title": "VSCode Elements",
                   "kind": "repo",
-                  "repo": "bendera/vscode-webview-elements",
-                  "url": "https://github.com/bendera/vscode-webview-elements",
-                  "description": "Components for creating VSCode extensions which use the Webview API.",
+                  "repo": "vscode-elements/elements",
+                  "url": "https://github.com/vscode-elements/elements",
+                  "description": "Web component library for developing Visual Studio Code extensions.",
                   "external": false,
                   "sourceRepo": "web-padawan/awesome-web-components",
                   "depth": 3,
@@ -24538,34 +25153,38 @@
                     "Web Components",
                     "Real World",
                     "Component Libraries",
-                    "VSCode Webview Elements"
+                    "VSCode Elements"
                   ],
                   "parentId": "root-front-end-development-web-components-real-world-component-libraries"
                 },
                 {
-                  "id": "root-front-end-development-web-components-real-world-component-libraries-warp-view",
-                  "title": "Warp View",
+                  "id": "root-front-end-development-web-components-real-world-component-libraries-web-awesome",
+                  "title": "Web Awesome",
                   "kind": "repo",
-                  "repo": "senx/warpview",
-                  "url": "https://github.com/senx/warpview",
-                  "description": "Collection of charting web components for Warp 10.",
+                  "repo": "shoelace-style/webawesome",
+                  "url": "https://github.com/shoelace-style/webawesome",
+                  "description": "Open source library of web components from Font Awesome.",
                   "external": false,
                   "sourceRepo": "web-padawan/awesome-web-components",
                   "depth": 3,
                   "children": [],
-                  "stars": 0,
-                  "forks": 0,
-                  "language": null,
-                  "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
-                  "awesome": false,
+                  "stars": 1305,
+                  "forks": 189,
+                  "language": "TypeScript",
+                  "license": "MIT",
+                  "topics": [
+                    "designsystems",
+                    "opensource",
+                    "webcomponents"
+                  ],
+                  "updated": "2026-09-04T06:54:03Z",
+                  "pushed": "2026-09-03T17:09:47Z",
+                  "awesome": true,
                   "path": [
                     "Web Components",
                     "Real World",
                     "Component Libraries",
-                    "Warp View"
+                    "Web Awesome"
                   ],
                   "parentId": "root-front-end-development-web-components-real-world-component-libraries"
                 },
@@ -24783,12 +25402,12 @@
                   "parentId": "root-front-end-development-web-components-real-world-design-systems"
                 },
                 {
-                  "id": "root-front-end-development-web-components-real-world-design-systems-bolt-design-system",
-                  "title": "Bolt Design System",
+                  "id": "root-front-end-development-web-components-real-world-design-systems-calcite-design-system",
+                  "title": "Calcite Design System",
                   "kind": "repo",
-                  "repo": "boltdesignsystem/bolt",
-                  "url": "https://github.com/boltdesignsystem/bolt",
-                  "description": "Twig and Web Component-powered UI components, reusable visual styles and tooling.",
+                  "repo": "esri/calcite-design-system",
+                  "url": "https://github.com/esri/calcite-design-system",
+                  "description": "Web Components for Esri's Calcite design framework.",
                   "external": false,
                   "sourceRepo": "web-padawan/awesome-web-components",
                   "depth": 3,
@@ -24805,34 +25424,7 @@
                     "Web Components",
                     "Real World",
                     "Design Systems",
-                    "Bolt Design System"
-                  ],
-                  "parentId": "root-front-end-development-web-components-real-world-design-systems"
-                },
-                {
-                  "id": "root-front-end-development-web-components-real-world-design-systems-calcite-components",
-                  "title": "Calcite Components",
-                  "kind": "repo",
-                  "repo": "esri/calcite-components",
-                  "url": "https://github.com/esri/calcite-components",
-                  "description": "Shared Web Components for Esri's Calcite design framework.",
-                  "external": false,
-                  "sourceRepo": "web-padawan/awesome-web-components",
-                  "depth": 3,
-                  "children": [],
-                  "stars": 0,
-                  "forks": 0,
-                  "language": null,
-                  "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
-                  "awesome": false,
-                  "path": [
-                    "Web Components",
-                    "Real World",
-                    "Design Systems",
-                    "Calcite Components"
+                    "Calcite Design System"
                   ],
                   "parentId": "root-front-end-development-web-components-real-world-design-systems"
                 },
@@ -24864,33 +25456,6 @@
                   "parentId": "root-front-end-development-web-components-real-world-design-systems"
                 },
                 {
-                  "id": "root-front-end-development-web-components-real-world-design-systems-clarity-core-web-components",
-                  "title": "Clarity Core Web Components",
-                  "kind": "repo",
-                  "repo": "vmware-clarity/core",
-                  "url": "https://github.com/vmware-clarity/core",
-                  "description": "Suite of web components from the Clarity Design System.",
-                  "external": false,
-                  "sourceRepo": "web-padawan/awesome-web-components",
-                  "depth": 3,
-                  "children": [],
-                  "stars": 0,
-                  "forks": 0,
-                  "language": null,
-                  "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
-                  "awesome": false,
-                  "path": [
-                    "Web Components",
-                    "Real World",
-                    "Design Systems",
-                    "Clarity Core Web Components"
-                  ],
-                  "parentId": "root-front-end-development-web-components-real-world-design-systems"
-                },
-                {
                   "id": "root-front-end-development-web-components-real-world-design-systems-crayons",
                   "title": "Crayons",
                   "kind": "repo",
@@ -24914,33 +25479,6 @@
                     "Real World",
                     "Design Systems",
                     "Crayons"
-                  ],
-                  "parentId": "root-front-end-development-web-components-real-world-design-systems"
-                },
-                {
-                  "id": "root-front-end-development-web-components-real-world-design-systems-fast-components",
-                  "title": "FAST Components",
-                  "kind": "repo",
-                  "repo": "microsoft/fast",
-                  "url": "https://github.com/microsoft/fast",
-                  "description": "Library of Web Components based on the FAST design language.",
-                  "external": false,
-                  "sourceRepo": "web-padawan/awesome-web-components",
-                  "depth": 3,
-                  "children": [],
-                  "stars": 0,
-                  "forks": 0,
-                  "language": null,
-                  "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
-                  "awesome": false,
-                  "path": [
-                    "Web Components",
-                    "Real World",
-                    "Design Systems",
-                    "FAST Components"
                   ],
                   "parentId": "root-front-end-development-web-components-real-world-design-systems"
                 },
@@ -24999,60 +25537,6 @@
                   "parentId": "root-front-end-development-web-components-real-world-design-systems"
                 },
                 {
-                  "id": "root-front-end-development-web-components-real-world-design-systems-gov-uk-web-components",
-                  "title": "GOV.UK Web Components",
-                  "kind": "repo",
-                  "repo": "tgreyuk/govuk-webcomponents",
-                  "url": "https://github.com/tgreyuk/govuk-webcomponents",
-                  "description": "Set of encapsulated web components consuming the GOV.UK Design System.",
-                  "external": false,
-                  "sourceRepo": "web-padawan/awesome-web-components",
-                  "depth": 3,
-                  "children": [],
-                  "stars": 0,
-                  "forks": 0,
-                  "language": null,
-                  "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
-                  "awesome": false,
-                  "path": [
-                    "Web Components",
-                    "Real World",
-                    "Design Systems",
-                    "GOV.UK Web Components"
-                  ],
-                  "parentId": "root-front-end-development-web-components-real-world-design-systems"
-                },
-                {
-                  "id": "root-front-end-development-web-components-real-world-design-systems-helix-ui",
-                  "title": "Helix UI",
-                  "kind": "repo",
-                  "repo": "helixdesignsystem/helix-ui",
-                  "url": "https://github.com/helixdesignsystem/helix-ui",
-                  "description": "Web Component library for the Helix Design System.",
-                  "external": false,
-                  "sourceRepo": "web-padawan/awesome-web-components",
-                  "depth": 3,
-                  "children": [],
-                  "stars": 0,
-                  "forks": 0,
-                  "language": null,
-                  "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
-                  "awesome": false,
-                  "path": [
-                    "Web Components",
-                    "Real World",
-                    "Design Systems",
-                    "Helix UI"
-                  ],
-                  "parentId": "root-front-end-development-web-components-real-world-design-systems"
-                },
-                {
                   "id": "root-front-end-development-web-components-real-world-design-systems-liquid",
                   "title": "Liquid",
                   "kind": "repo",
@@ -25083,8 +25567,8 @@
                   "id": "root-front-end-development-web-components-real-world-design-systems-lyne-components",
                   "title": "Lyne Components",
                   "kind": "repo",
-                  "repo": "lyne-design-system/lyne-components",
-                  "url": "https://github.com/lyne-design-system/lyne-components",
+                  "repo": "sbb-design-systems/lyne-components",
+                  "url": "https://github.com/sbb-design-systems/lyne-components",
                   "description": "Building blocks of the Lyne Design System are based on Web Components.",
                   "external": false,
                   "sourceRepo": "web-padawan/awesome-web-components",
@@ -25161,6 +25645,33 @@
                   "parentId": "root-front-end-development-web-components-real-world-design-systems"
                 },
                 {
+                  "id": "root-front-end-development-web-components-real-world-design-systems-nessie-design-system",
+                  "title": "Nessie Design System",
+                  "kind": "link",
+                  "repo": "",
+                  "url": "https://design.ns.nl",
+                  "description": "Web components by NS Dutch Railways for consumer (external) applications.",
+                  "external": true,
+                  "sourceRepo": "web-padawan/awesome-web-components",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Web Components",
+                    "Real World",
+                    "Design Systems",
+                    "Nessie Design System"
+                  ],
+                  "parentId": "root-front-end-development-web-components-real-world-design-systems"
+                },
+                {
                   "id": "root-front-end-development-web-components-real-world-design-systems-nord",
                   "title": "Nord",
                   "kind": "link",
@@ -25188,13 +25699,13 @@
                   "parentId": "root-front-end-development-web-components-real-world-design-systems"
                 },
                 {
-                  "id": "root-front-end-development-web-components-real-world-design-systems-numl-nude-elements",
-                  "title": "NuML | NUDE Elements",
-                  "kind": "repo",
-                  "repo": "tenphi/numl",
-                  "url": "https://github.com/tenphi/numl",
-                  "description": "HTML Framework and Design System based on Web Components and runtime CSS generation.",
-                  "external": false,
+                  "id": "root-front-end-development-web-components-real-world-design-systems-nucleus-design-system",
+                  "title": "Nucleus design system",
+                  "kind": "link",
+                  "repo": "",
+                  "url": "https://britishgas.design/introduction/",
+                  "description": "Standardised set of reusable components for British Gas.",
+                  "external": true,
                   "sourceRepo": "web-padawan/awesome-web-components",
                   "depth": 3,
                   "children": [],
@@ -25210,7 +25721,7 @@
                     "Web Components",
                     "Real World",
                     "Design Systems",
-                    "NuML | NUDE Elements"
+                    "Nucleus design system"
                   ],
                   "parentId": "root-front-end-development-web-components-real-world-design-systems"
                 },
@@ -25323,6 +25834,33 @@
                   "parentId": "root-front-end-development-web-components-real-world-design-systems"
                 },
                 {
+                  "id": "root-front-end-development-web-components-real-world-design-systems-polaris-web-components",
+                  "title": "Polaris web components",
+                  "kind": "link",
+                  "repo": "",
+                  "url": "https://shopify.dev/docs/api/app-home/latest/web-components",
+                  "description": "Native UI elements that follow Shopify's design system.",
+                  "external": true,
+                  "sourceRepo": "web-padawan/awesome-web-components",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Web Components",
+                    "Real World",
+                    "Design Systems",
+                    "Polaris web components"
+                  ],
+                  "parentId": "root-front-end-development-web-components-real-world-design-systems"
+                },
+                {
                   "id": "root-front-end-development-web-components-real-world-design-systems-red-hat-design-system",
                   "title": "Red Hat Design System",
                   "kind": "repo",
@@ -25404,11 +25942,38 @@
                   "parentId": "root-front-end-development-web-components-real-world-design-systems"
                 },
                 {
+                  "id": "root-front-end-development-web-components-real-world-design-systems-tractie-ns-design-system",
+                  "title": "Tractie — NS Design System",
+                  "kind": "link",
+                  "repo": "",
+                  "url": "https://tractie.ns.nl",
+                  "description": "Web components by NS Dutch Railways for employee internal applications.",
+                  "external": true,
+                  "sourceRepo": "web-padawan/awesome-web-components",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Web Components",
+                    "Real World",
+                    "Design Systems",
+                    "Tractie — NS Design System"
+                  ],
+                  "parentId": "root-front-end-development-web-components-real-world-design-systems"
+                },
+                {
                   "id": "root-front-end-development-web-components-real-world-design-systems-ui5-web-components",
                   "title": "UI5 Web Components",
                   "kind": "repo",
-                  "repo": "sap/ui5-webcomponents",
-                  "url": "https://github.com/sap/ui5-webcomponents",
+                  "repo": "ui5/webcomponents",
+                  "url": "https://github.com/ui5/webcomponents",
                   "description": "Set of reusable UI elements implementing SAP Fiori Design Guidelines.",
                   "external": false,
                   "sourceRepo": "web-padawan/awesome-web-components",
@@ -25427,60 +25992,6 @@
                     "Real World",
                     "Design Systems",
                     "UI5 Web Components"
-                  ],
-                  "parentId": "root-front-end-development-web-components-real-world-design-systems"
-                },
-                {
-                  "id": "root-front-end-development-web-components-real-world-design-systems-u-m-library-design-system",
-                  "title": "U-M Library Design System",
-                  "kind": "link",
-                  "repo": "",
-                  "url": "https://design-system.lib.umich.edu",
-                  "description": "University of Michigan Library Design System.",
-                  "external": true,
-                  "sourceRepo": "web-padawan/awesome-web-components",
-                  "depth": 3,
-                  "children": [],
-                  "stars": 0,
-                  "forks": 0,
-                  "language": null,
-                  "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
-                  "awesome": false,
-                  "path": [
-                    "Web Components",
-                    "Real World",
-                    "Design Systems",
-                    "U-M Library Design System"
-                  ],
-                  "parentId": "root-front-end-development-web-components-real-world-design-systems"
-                },
-                {
-                  "id": "root-front-end-development-web-components-real-world-design-systems-zooplus-web-components",
-                  "title": "Zooplus web components",
-                  "kind": "repo",
-                  "repo": "zooplus/zoo-web-components",
-                  "url": "https://github.com/zooplus/zoo-web-components",
-                  "description": "Set of web components that implement Z+ shop style guide.",
-                  "external": false,
-                  "sourceRepo": "web-padawan/awesome-web-components",
-                  "depth": 3,
-                  "children": [],
-                  "stars": 0,
-                  "forks": 0,
-                  "language": null,
-                  "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
-                  "awesome": false,
-                  "path": [
-                    "Web Components",
-                    "Real World",
-                    "Design Systems",
-                    "Zooplus web components"
                   ],
                   "parentId": "root-front-end-development-web-components-real-world-design-systems"
                 }
@@ -25725,13 +26236,13 @@
                   "parentId": "root-front-end-development-web-components-real-world-use-cases"
                 },
                 {
-                  "id": "root-front-end-development-web-components-real-world-use-cases-why-we-use-web-components-by-viljamis",
-                  "title": "Why we use Web Components by @viljamis",
-                  "kind": "topic",
+                  "id": "root-front-end-development-web-components-real-world-use-cases-why-we-use-web-components",
+                  "title": "Why we use Web Components",
+                  "kind": "link",
                   "repo": "",
-                  "url": "",
+                  "url": "https://arielsalminen.com/2019/why-we-use-web-components/",
                   "description": "",
-                  "external": false,
+                  "external": true,
                   "sourceRepo": "web-padawan/awesome-web-components",
                   "depth": 3,
                   "children": [],
@@ -25747,18 +26258,18 @@
                     "Web Components",
                     "Real World",
                     "Use Cases",
-                    "Why we use Web Components by @viljamis"
+                    "Why we use Web Components"
                   ],
                   "parentId": "root-front-end-development-web-components-real-world-use-cases"
                 },
                 {
-                  "id": "root-front-end-development-web-components-real-world-use-cases-why-we-use-web-components-by-maxlynch",
-                  "title": "Why we use Web Components by @maxlynch",
-                  "kind": "topic",
+                  "id": "root-front-end-development-web-components-real-world-use-cases-why-we-use-web-components-2",
+                  "title": "Why we use Web Components",
+                  "kind": "link",
                   "repo": "",
-                  "url": "",
+                  "url": "https://dev.to/ionic/why-we-use-web-components-2c1i",
                   "description": "",
-                  "external": false,
+                  "external": true,
                   "sourceRepo": "web-padawan/awesome-web-components",
                   "depth": 3,
                   "children": [],
@@ -25774,7 +26285,7 @@
                     "Web Components",
                     "Real World",
                     "Use Cases",
-                    "Why we use Web Components by @maxlynch"
+                    "Why we use Web Components"
                   ],
                   "parentId": "root-front-end-development-web-components-real-world-use-cases"
                 }
@@ -25903,33 +26414,6 @@
                     "Libraries",
                     "Class Based",
                     "FAST Element"
-                  ],
-                  "parentId": "root-front-end-development-web-components-libraries-class-based"
-                },
-                {
-                  "id": "root-front-end-development-web-components-libraries-class-based-forge-core",
-                  "title": "Forge Core",
-                  "kind": "repo",
-                  "repo": "tyler-technologies-oss/forge-core",
-                  "url": "https://github.com/tyler-technologies-oss/forge-core",
-                  "description": "Building blocks and utilities that are used when building Forge Web Components.",
-                  "external": false,
-                  "sourceRepo": "web-padawan/awesome-web-components",
-                  "depth": 3,
-                  "children": [],
-                  "stars": 0,
-                  "forks": 0,
-                  "language": null,
-                  "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
-                  "awesome": false,
-                  "path": [
-                    "Web Components",
-                    "Libraries",
-                    "Class Based",
-                    "Forge Core"
                   ],
                   "parentId": "root-front-end-development-web-components-libraries-class-based"
                 },
@@ -26173,33 +26657,6 @@
                     "Libraries",
                     "Class Based",
                     "Stencil"
-                  ],
-                  "parentId": "root-front-end-development-web-components-libraries-class-based"
-                },
-                {
-                  "id": "root-front-end-development-web-components-libraries-class-based-tonic",
-                  "title": "Tonic",
-                  "kind": "repo",
-                  "repo": "optoolco/tonic",
-                  "url": "https://github.com/optoolco/tonic",
-                  "description": "Minimalist, stable, audit friendly component framework.",
-                  "external": false,
-                  "sourceRepo": "web-padawan/awesome-web-components",
-                  "depth": 3,
-                  "children": [],
-                  "stars": 0,
-                  "forks": 0,
-                  "language": null,
-                  "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
-                  "awesome": false,
-                  "path": [
-                    "Web Components",
-                    "Libraries",
-                    "Class Based",
-                    "Tonic"
                   ],
                   "parentId": "root-front-end-development-web-components-libraries-class-based"
                 },
@@ -26710,11 +27167,11 @@
                 {
                   "id": "root-front-end-development-web-components-libraries-benchmarks-web-components-todo",
                   "title": "web-components-todo",
-                  "kind": "link",
-                  "repo": "",
-                  "url": "https://wc-todo.firebaseapp.com/",
+                  "kind": "repo",
+                  "repo": "shprink/web-components-todo",
+                  "url": "https://github.com/shprink/web-components-todo",
                   "description": "The same todo application built in different Web Components libraries for benchmark purpose.",
-                  "external": true,
+                  "external": false,
                   "sourceRepo": "web-padawan/awesome-web-components",
                   "depth": 3,
                   "children": [],
@@ -26782,11 +27239,65 @@
               "url": "https://github.com/web-padawan/awesome-web-components#angular",
               "children": [
                 {
+                  "id": "root-front-end-development-web-components-frameworks-angular-web-components-in-angular-integrating-react-components-across-framework-boundaries",
+                  "title": "Web Components in Angular: Integrating React Components Across Framework Boundaries",
+                  "kind": "link",
+                  "repo": "",
+                  "url": "https://dev.to/ujja/web-components-in-angular-integrating-react-components-across-framework-boundaries-29l5",
+                  "description": "",
+                  "external": true,
+                  "sourceRepo": "web-padawan/awesome-web-components",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Web Components",
+                    "Frameworks",
+                    "Angular",
+                    "Web Components in Angular: Integrating React Components Across Framework Boundaries"
+                  ],
+                  "parentId": "root-front-end-development-web-components-frameworks-angular"
+                },
+                {
+                  "id": "root-front-end-development-web-components-frameworks-angular-web-components-in-angular-why-passing-inputs-breaks-on-navigation",
+                  "title": "Web Components in Angular - Why Passing Inputs Breaks on Navigation",
+                  "kind": "link",
+                  "repo": "",
+                  "url": "https://dev.to/playfulprogramming-angular/web-components-in-angular-why-passing-inputs-breaks-on-navigation-52b6",
+                  "description": "",
+                  "external": true,
+                  "sourceRepo": "web-padawan/awesome-web-components",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Web Components",
+                    "Frameworks",
+                    "Angular",
+                    "Web Components in Angular - Why Passing Inputs Breaks on Navigation"
+                  ],
+                  "parentId": "root-front-end-development-web-components-frameworks-angular"
+                },
+                {
                   "id": "root-front-end-development-web-components-frameworks-angular-angular-elements-overview",
                   "title": "Angular Elements Overview",
                   "kind": "link",
                   "repo": "",
-                  "url": "https://angular.io/guide/elements",
+                  "url": "https://angular.dev/guide/elements",
                   "description": "",
                   "external": true,
                   "sourceRepo": "web-padawan/awesome-web-components",
@@ -26813,7 +27324,7 @@
                   "title": "Building and consuming Angular Elements as Web Components",
                   "kind": "link",
                   "repo": "",
-                  "url": "https://indepth.dev/building-and-bundling-web-components/",
+                  "url": "https://angular.love/building-and-consuming-angular-elements-as-web-components",
                   "description": "",
                   "external": true,
                   "sourceRepo": "web-padawan/awesome-web-components",
@@ -26886,33 +27397,6 @@
                     "Frameworks",
                     "Angular",
                     "Using Web Components in Angular"
-                  ],
-                  "parentId": "root-front-end-development-web-components-frameworks-angular"
-                },
-                {
-                  "id": "root-front-end-development-web-components-frameworks-angular-web-components-with-angular-ivy-in-6-steps",
-                  "title": "Web Components With Angular Ivy In 6 Steps",
-                  "kind": "link",
-                  "repo": "",
-                  "url": "https://www.softwarearchitekt.at/post/2019/05/18/web-components-custom-elements-with-angular-ivy-in-6-steps.aspx",
-                  "description": "",
-                  "external": true,
-                  "sourceRepo": "web-padawan/awesome-web-components",
-                  "depth": 3,
-                  "children": [],
-                  "stars": 0,
-                  "forks": 0,
-                  "language": null,
-                  "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
-                  "awesome": false,
-                  "path": [
-                    "Web Components",
-                    "Frameworks",
-                    "Angular",
-                    "Web Components With Angular Ivy In 6 Steps"
                   ],
                   "parentId": "root-front-end-development-web-components-frameworks-angular"
                 }
@@ -27155,7 +27639,7 @@
                   "title": "Svelte Custom Element API",
                   "kind": "link",
                   "repo": "",
-                  "url": "https://svelte.dev/docs#Custom_element_API",
+                  "url": "https://svelte.dev/docs/svelte/custom-elements",
                   "description": "",
                   "external": true,
                   "sourceRepo": "web-padawan/awesome-web-components",
@@ -27832,33 +28316,6 @@
                   "parentId": "root-front-end-development-web-components-meta-frameworks-testing-solutions"
                 },
                 {
-                  "id": "root-front-end-development-web-components-meta-frameworks-testing-solutions-testing-shadow-dom-elements-in-selenium",
-                  "title": "Testing Shadow DOM elements in Selenium",
-                  "kind": "link",
-                  "repo": "",
-                  "url": "https://reflect.run/articles/testing-shadow-dom-elements-in-selenium/",
-                  "description": "In Selenium 4, there is now a way to access Shadow DOM nodes.",
-                  "external": true,
-                  "sourceRepo": "web-padawan/awesome-web-components",
-                  "depth": 3,
-                  "children": [],
-                  "stars": 0,
-                  "forks": 0,
-                  "language": null,
-                  "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
-                  "awesome": false,
-                  "path": [
-                    "Web Components",
-                    "Meta Frameworks",
-                    "Testing Solutions",
-                    "Testing Shadow DOM elements in Selenium"
-                  ],
-                  "parentId": "root-front-end-development-web-components-meta-frameworks-testing-solutions"
-                },
-                {
                   "id": "root-front-end-development-web-components-meta-frameworks-testing-solutions-test-web-components-with-playwright",
                   "title": "Test web components with Playwright",
                   "kind": "link",
@@ -27937,13 +28394,13 @@
               "url": "https://github.com/web-padawan/awesome-web-components#tools",
               "children": [
                 {
-                  "id": "root-front-end-development-web-components-meta-frameworks-tools-backlight-with-collaboration-between-developers-and-designers-at-heart-backlight-is-a-very-complete-coding-platform-where-teams-build-document-publish-scale-and-maintain-design-systems",
-                  "title": "Backlight — With collaboration between developers and designers at heart, Backlight is a very complete coding platform where teams build, document, publish, scale and maintain Design Systems.",
-                  "kind": "topic",
+                  "id": "root-front-end-development-web-components-meta-frameworks-tools-custom-elements-manifest",
+                  "title": "Custom Elements Manifest",
+                  "kind": "link",
                   "repo": "",
-                  "url": "",
-                  "description": "",
-                  "external": false,
+                  "url": "https://custom-elements-manifest.open-wc.org/",
+                  "description": "Codegen for Web Components.",
+                  "external": true,
                   "sourceRepo": "web-padawan/awesome-web-components",
                   "depth": 3,
                   "children": [],
@@ -27959,7 +28416,7 @@
                     "Web Components",
                     "Meta Frameworks",
                     "Tools",
-                    "Backlight — With collaboration between developers and designers at heart, Backlight is a very complete coding platform where teams build, document, publish, scale and maintain Design Systems."
+                    "Custom Elements Manifest"
                   ],
                   "parentId": "root-front-end-development-web-components-meta-frameworks-tools"
                 },
@@ -28018,12 +28475,12 @@
                   "parentId": "root-front-end-development-web-components-meta-frameworks-tools"
                 },
                 {
-                  "id": "root-front-end-development-web-components-meta-frameworks-tools-webcomponents-dev",
-                  "title": "webcomponents.dev",
+                  "id": "root-front-end-development-web-components-meta-frameworks-tools-web-storybook-builder",
+                  "title": "@web/storybook-builder",
                   "kind": "link",
                   "repo": "",
-                  "url": "https://webcomponents.dev",
-                  "description": "Component IDE for web platform developers.",
+                  "url": "https://modern-web.dev/docs/storybook-builder/overview/",
+                  "description": "Storybook builder with support for Web Components.",
                   "external": true,
                   "sourceRepo": "web-padawan/awesome-web-components",
                   "depth": 3,
@@ -28040,7 +28497,7 @@
                     "Web Components",
                     "Meta Frameworks",
                     "Tools",
-                    "webcomponents.dev"
+                    "@web/storybook-builder"
                   ],
                   "parentId": "root-front-end-development-web-components-meta-frameworks-tools"
                 },
@@ -28373,7 +28830,7 @@
               "title": "Getting started with LitElement and TypeScript",
               "kind": "link",
               "repo": "",
-              "url": "https://labs.thisdot.co/blog/getting-started-with-litelement-and-typescript",
+              "url": "https://www.thisdot.co/blog/getting-started-with-litelement-and-typescript",
               "description": "",
               "external": true,
               "sourceRepo": "web-padawan/awesome-web-components",
@@ -28447,63 +28904,11 @@
               "parentId": "root-front-end-development-web-components-tutorials"
             },
             {
-              "id": "root-front-end-development-web-components-tutorials-handling-data-with-web-components",
-              "title": "Handling data with Web Components",
-              "kind": "link",
-              "repo": "",
-              "url": "https://itnext.io/handling-data-with-web-components-9e7e4a452e6e",
-              "description": "",
-              "external": true,
-              "sourceRepo": "web-padawan/awesome-web-components",
-              "depth": 2,
-              "children": [],
-              "stars": 0,
-              "forks": 0,
-              "language": null,
-              "license": null,
-              "topics": [],
-              "updated": null,
-              "pushed": null,
-              "awesome": false,
-              "path": [
-                "Web Components",
-                "Tutorials",
-                "Handling data with Web Components"
-              ],
-              "parentId": "root-front-end-development-web-components-tutorials"
-            },
-            {
-              "id": "root-front-end-development-web-components-tutorials-how-to-use-d3js-with-webcomponents",
-              "title": "How to use D3js with WebComponents",
-              "kind": "link",
-              "repo": "",
-              "url": "https://towardsdatascience.com/how-to-use-d3js-with-webcomponents-a75ae4f980de",
-              "description": "",
-              "external": true,
-              "sourceRepo": "web-padawan/awesome-web-components",
-              "depth": 2,
-              "children": [],
-              "stars": 0,
-              "forks": 0,
-              "language": null,
-              "license": null,
-              "topics": [],
-              "updated": null,
-              "pushed": null,
-              "awesome": false,
-              "path": [
-                "Web Components",
-                "Tutorials",
-                "How to use D3js with WebComponents"
-              ],
-              "parentId": "root-front-end-development-web-components-tutorials"
-            },
-            {
               "id": "root-front-end-development-web-components-tutorials-navigation-lifecycle-using-vaadin-router-litelement-and-typescript",
               "title": "Navigation Lifecycle using Vaadin Router, LitElement and TypeScript",
               "kind": "link",
               "repo": "",
-              "url": "https://labs.thisdot.co/blog/navigation-lifecycle-using-vaadin-router-litelement-and-typescript",
+              "url": "https://www.thisdot.co/blog/navigation-lifecycle-using-vaadin-router-litelement-and-typescript",
               "description": "",
               "external": true,
               "sourceRepo": "web-padawan/awesome-web-components",
@@ -28555,7 +28960,7 @@
               "title": "Routing Management with LitElement and TypeScript",
               "kind": "link",
               "repo": "",
-              "url": "https://labs.thisdot.co/blog/routing-management-with-litelement",
+              "url": "https://www.thisdot.co/blog/routing-management-with-litelement",
               "description": "",
               "external": true,
               "sourceRepo": "web-padawan/awesome-web-components",
@@ -28737,7 +29142,7 @@
               "title": "Web Components Tools: A Comparison",
               "kind": "link",
               "repo": "",
-              "url": "https://www.nexmo.com/blog/2020/05/20/web-components-tools-a-comparison",
+              "url": "https://developer.vonage.com/en/blog/web-components-tools-a-comparison",
               "description": "",
               "external": true,
               "sourceRepo": "web-padawan/awesome-web-components",
@@ -28842,8 +29247,8 @@
               "url": "https://github.com/web-padawan/awesome-web-components#podcasts",
               "children": [
                 {
-                  "id": "root-front-end-development-web-components-insights-podcasts-code-ish-episode-38-building-with-web-components-https-www-heroku-com-podcasts-codeish-38-building-with-web-components",
-                  "title": "[Code[ish], episode 38: Building with Web Components](https://www.heroku.com/podcasts/codeish/38-building-with-web-components)",
+                  "id": "root-front-end-development-web-components-insights-podcasts-code-ish-episode-38-building-with-web-components-https-www-heroku-com-codeish-podcasts-38-building-with-web-components",
+                  "title": "[Code[ish], episode 38: Building with Web Components](https://www.heroku.com/codeish-podcasts/38-building-with-web-components/)",
                   "kind": "topic",
                   "repo": "",
                   "url": "",
@@ -28864,7 +29269,7 @@
                     "Web Components",
                     "Insights",
                     "Podcasts",
-                    "[Code[ish], episode 38: Building with Web Components](https://www.heroku.com/podcasts/codeish/38-building-with-web-components)"
+                    "[Code[ish], episode 38: Building with Web Components](https://www.heroku.com/codeish-podcasts/38-building-with-web-components/)"
                   ],
                   "parentId": "root-front-end-development-web-components-insights-podcasts"
                 },
@@ -28896,11 +29301,11 @@
                   "parentId": "root-front-end-development-web-components-insights-podcasts"
                 },
                 {
-                  "id": "root-front-end-development-web-components-insights-podcasts-labs-talk-web-components-with-peter-muessig",
-                  "title": "Labs Talk - Web Components with Peter Muessig",
+                  "id": "root-front-end-development-web-components-insights-podcasts-jsj-424-ui5-and-web-components-with-peter-muessig",
+                  "title": "JSJ 424: UI5 and web components with Peter Muessig",
                   "kind": "link",
                   "repo": "",
-                  "url": "https://labstalk.buzzsprout.com/993481/3932975-web-components-with-peter-muessig",
+                  "url": "https://www.youtube.com/watch?v=LPzYKrBzUoY",
                   "description": "",
                   "external": true,
                   "sourceRepo": "web-padawan/awesome-web-components",
@@ -28918,7 +29323,7 @@
                     "Web Components",
                     "Insights",
                     "Podcasts",
-                    "Labs Talk - Web Components with Peter Muessig"
+                    "JSJ 424: UI5 and web components with Peter Muessig"
                   ],
                   "parentId": "root-front-end-development-web-components-insights-podcasts"
                 },
@@ -28927,7 +29332,7 @@
                   "title": "Real Talk JavaScript, episode 7: Custom Web Components with Rob Wormald",
                   "kind": "link",
                   "repo": "",
-                  "url": "https://realtalkjavascript.simplecast.fm/eaf3db9e",
+                  "url": "https://www.devshows.dev/podcasts/web-rush/episode-7-custom-web-components-with-rob-wormald",
                   "description": "",
                   "external": true,
                   "sourceRepo": "web-padawan/awesome-web-components",
@@ -28954,7 +29359,7 @@
                   "title": "Real Talk JavaScript, episode 101: Back to Basics with Native HTML and LitElement",
                   "kind": "link",
                   "repo": "",
-                  "url": "https://realtalkjavascript.simplecast.com/episodes/episode-101-back-to-basics-with-native-html-and-litelement",
+                  "url": "https://www.devshows.dev/podcasts/web-rush/episode-101-back-to-basics-with-native-html-and-litelement",
                   "description": "",
                   "external": true,
                   "sourceRepo": "web-padawan/awesome-web-components",
@@ -29024,33 +29429,6 @@
                     "Insights",
                     "Presentations",
                     "Are Web Components the Betamax of web development? by @lostinbrittany"
-                  ],
-                  "parentId": "root-front-end-development-web-components-insights-presentations"
-                },
-                {
-                  "id": "root-front-end-development-web-components-insights-presentations-designing-standard-systems-by-stefsull-and-bferrua",
-                  "title": "Designing Standard Systems by @stefsull and @bferrua",
-                  "kind": "topic",
-                  "repo": "",
-                  "url": "",
-                  "description": "",
-                  "external": false,
-                  "sourceRepo": "web-padawan/awesome-web-components",
-                  "depth": 3,
-                  "children": [],
-                  "stars": 0,
-                  "forks": 0,
-                  "language": null,
-                  "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
-                  "awesome": false,
-                  "path": [
-                    "Web Components",
-                    "Insights",
-                    "Presentations",
-                    "Designing Standard Systems by @stefsull and @bferrua"
                   ],
                   "parentId": "root-front-end-development-web-components-insights-presentations"
                 },
@@ -29217,60 +29595,6 @@
                   "parentId": "root-front-end-development-web-components-insights-presentations"
                 },
                 {
-                  "id": "root-front-end-development-web-components-insights-presentations-web-components-and-the-aom-by-leoniewatson",
-                  "title": "Web Components and the AOM by @LeonieWatson",
-                  "kind": "topic",
-                  "repo": "",
-                  "url": "",
-                  "description": "",
-                  "external": false,
-                  "sourceRepo": "web-padawan/awesome-web-components",
-                  "depth": 3,
-                  "children": [],
-                  "stars": 0,
-                  "forks": 0,
-                  "language": null,
-                  "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
-                  "awesome": false,
-                  "path": [
-                    "Web Components",
-                    "Insights",
-                    "Presentations",
-                    "Web Components and the AOM by @LeonieWatson"
-                  ],
-                  "parentId": "root-front-end-development-web-components-insights-presentations"
-                },
-                {
-                  "id": "root-front-end-development-web-components-insights-presentations-web-components-and-styles-scoping-by-bashmish",
-                  "title": "Web Components and Styles Scoping by @bashmish",
-                  "kind": "topic",
-                  "repo": "",
-                  "url": "",
-                  "description": "",
-                  "external": false,
-                  "sourceRepo": "web-padawan/awesome-web-components",
-                  "depth": 3,
-                  "children": [],
-                  "stars": 0,
-                  "forks": 0,
-                  "language": null,
-                  "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
-                  "awesome": false,
-                  "path": [
-                    "Web Components",
-                    "Insights",
-                    "Presentations",
-                    "Web Components and Styles Scoping by @bashmish"
-                  ],
-                  "parentId": "root-front-end-development-web-components-insights-presentations"
-                },
-                {
                   "id": "root-front-end-development-web-components-insights-presentations-web-components-can-do-that-by-vogloblinsky",
                   "title": "Web Components can do that?! by @vogloblinsky",
                   "kind": "topic",
@@ -29294,33 +29618,6 @@
                     "Insights",
                     "Presentations",
                     "Web Components can do that?! by @vogloblinsky"
-                  ],
-                  "parentId": "root-front-end-development-web-components-insights-presentations"
-                },
-                {
-                  "id": "root-front-end-development-web-components-insights-presentations-web-components-introduction-and-state-of-the-art-by-webcompdev",
-                  "title": "Web Components: Introduction and State of the Art by @webcompdev",
-                  "kind": "topic",
-                  "repo": "",
-                  "url": "",
-                  "description": "",
-                  "external": false,
-                  "sourceRepo": "web-padawan/awesome-web-components",
-                  "depth": 3,
-                  "children": [],
-                  "stars": 0,
-                  "forks": 0,
-                  "language": null,
-                  "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
-                  "awesome": false,
-                  "path": [
-                    "Web Components",
-                    "Insights",
-                    "Presentations",
-                    "Web Components: Introduction and State of the Art by @webcompdev"
                   ],
                   "parentId": "root-front-end-development-web-components-insights-presentations"
                 }
@@ -29596,111 +29893,6 @@
           "depth": 1,
           "url": "https://github.com/web-padawan/awesome-web-components#proposals",
           "children": [
-            {
-              "id": "root-front-end-development-web-components-proposals-form-associated-custom-elements",
-              "title": "Form-associated Custom Elements",
-              "kind": "section",
-              "sourceRepo": "web-padawan/awesome-web-components",
-              "depth": 2,
-              "url": "https://github.com/web-padawan/awesome-web-components#form-associated-custom-elements",
-              "children": [
-                {
-                  "id": "root-front-end-development-web-components-proposals-form-associated-custom-elements-form-participation-api-explained",
-                  "title": "Form Participation API Explained",
-                  "kind": "link",
-                  "repo": "",
-                  "url": "https://docs.google.com/document/d/1JO8puctCSpW-ZYGU8lF-h4FWRIDQNDVexzHoOQ2iQmY/edit?usp=sharing",
-                  "description": "Document by Google Chrome team.",
-                  "external": true,
-                  "sourceRepo": "web-padawan/awesome-web-components",
-                  "depth": 3,
-                  "children": [],
-                  "stars": 0,
-                  "forks": 0,
-                  "language": null,
-                  "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
-                  "awesome": false,
-                  "path": [
-                    "Web Components",
-                    "Proposals",
-                    "Form-associated Custom Elements",
-                    "Form Participation API Explained"
-                  ],
-                  "parentId": "root-front-end-development-web-components-proposals-form-associated-custom-elements"
-                },
-                {
-                  "id": "root-front-end-development-web-components-proposals-form-associated-custom-elements-form-associated-custom-elements",
-                  "title": "Form-associated custom elements",
-                  "kind": "link",
-                  "repo": "",
-                  "url": "https://www.chromestatus.com/features/4708990554472448",
-                  "description": "Feature in Chrome platform status.",
-                  "external": true,
-                  "sourceRepo": "web-padawan/awesome-web-components",
-                  "depth": 3,
-                  "children": [],
-                  "stars": 0,
-                  "forks": 0,
-                  "language": null,
-                  "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
-                  "awesome": false,
-                  "path": [
-                    "Web Components",
-                    "Proposals",
-                    "Form-associated Custom Elements",
-                    "Form-associated custom elements"
-                  ],
-                  "parentId": "root-front-end-development-web-components-proposals-form-associated-custom-elements"
-                },
-                {
-                  "id": "root-front-end-development-web-components-proposals-form-associated-custom-elements-web-platform-tests",
-                  "title": "web-platform-tests",
-                  "kind": "repo",
-                  "repo": "web-platform-tests/wpt",
-                  "url": "https://github.com/web-platform-tests/wpt",
-                  "description": "",
-                  "external": false,
-                  "sourceRepo": "web-padawan/awesome-web-components",
-                  "depth": 3,
-                  "children": [],
-                  "stars": 0,
-                  "forks": 0,
-                  "language": null,
-                  "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
-                  "awesome": false,
-                  "path": [
-                    "Web Components",
-                    "Proposals",
-                    "Form-associated Custom Elements",
-                    "web-platform-tests"
-                  ],
-                  "parentId": "root-front-end-development-web-components-proposals-form-associated-custom-elements"
-                }
-              ],
-              "stars": 0,
-              "forks": 0,
-              "language": null,
-              "license": null,
-              "topics": [],
-              "updated": null,
-              "pushed": null,
-              "awesome": false,
-              "path": [
-                "Web Components",
-                "Proposals",
-                "Form-associated Custom Elements"
-              ],
-              "parentId": "root-front-end-development-web-components-proposals"
-            },
             {
               "id": "root-front-end-development-web-components-proposals-constructable-stylesheet-objects",
               "title": "Constructable Stylesheet Objects",
@@ -30733,6 +30925,34 @@
                       "parentId": "root-front-end-development-web-components-archive-history-2018"
                     },
                     {
+                      "id": "root-front-end-development-web-components-archive-history-2018-a-guide-to-custom-elements-for-react-developers",
+                      "title": "A Guide to Custom Elements for React Developers",
+                      "kind": "link",
+                      "repo": "",
+                      "url": "https://css-tricks.com/a-guide-to-custom-elements-for-react-developers/",
+                      "description": "",
+                      "external": true,
+                      "sourceRepo": "web-padawan/awesome-web-components",
+                      "depth": 4,
+                      "children": [],
+                      "stars": 0,
+                      "forks": 0,
+                      "language": null,
+                      "license": null,
+                      "topics": [],
+                      "updated": null,
+                      "pushed": null,
+                      "awesome": false,
+                      "path": [
+                        "Web Components",
+                        "Archive",
+                        "History",
+                        "2018",
+                        "A Guide to Custom Elements for React Developers"
+                      ],
+                      "parentId": "root-front-end-development-web-components-archive-history-2018"
+                    },
+                    {
                       "id": "root-front-end-development-web-components-archive-history-2018-6-reasons-you-should-use-native-web-components",
                       "title": "6 Reasons You Should Use Native Web Components",
                       "kind": "link",
@@ -30922,6 +31142,34 @@
                         "History",
                         "2017",
                         "Styling is critical to web component reuse, but may prove difficult in practice"
+                      ],
+                      "parentId": "root-front-end-development-web-components-archive-history-2017"
+                    },
+                    {
+                      "id": "root-front-end-development-web-components-archive-history-2017-make-a-native-web-component-with-custom-elements-v1-and-shadow-dom-v1",
+                      "title": "Make a Native Web Component with Custom Elements v1 and Shadow DOM v1",
+                      "kind": "link",
+                      "repo": "",
+                      "url": "https://bendyworks.com/blog/native-web-components/",
+                      "description": "",
+                      "external": true,
+                      "sourceRepo": "web-padawan/awesome-web-components",
+                      "depth": 4,
+                      "children": [],
+                      "stars": 0,
+                      "forks": 0,
+                      "language": null,
+                      "license": null,
+                      "topics": [],
+                      "updated": null,
+                      "pushed": null,
+                      "awesome": false,
+                      "path": [
+                        "Web Components",
+                        "Archive",
+                        "History",
+                        "2017",
+                        "Make a Native Web Component with Custom Elements v1 and Shadow DOM v1"
                       ],
                       "parentId": "root-front-end-development-web-components-archive-history-2017"
                     },
@@ -31210,7 +31458,7 @@
                       "title": "The broken promise of Web Components",
                       "kind": "link",
                       "repo": "",
-                      "url": "https://dmitriid.com/blog/2017/03/the-broken-promise-of-web-components/",
+                      "url": "https://dmitriid.com/the-broken-promise-of-web-components",
                       "description": "",
                       "external": true,
                       "sourceRepo": "web-padawan/awesome-web-components",
@@ -31238,7 +31486,7 @@
                       "title": "Regarding the broken promise of Web Components",
                       "kind": "link",
                       "repo": "",
-                      "url": "http://robdodson.me/regarding-the-broken-promise-of-web-components/",
+                      "url": "https://robdodson.me/posts/regarding-the-broken-promise-of-web-components/",
                       "description": "",
                       "external": true,
                       "sourceRepo": "web-padawan/awesome-web-components",
@@ -33896,28 +34144,6 @@
           "parentId": "root-front-end-development-web-components"
         },
         {
-          "id": "root-front-end-development-web-components-who-to-follow",
-          "title": "Who To Follow",
-          "kind": "section",
-          "sourceRepo": "web-padawan/awesome-web-components",
-          "depth": 1,
-          "url": "https://github.com/web-padawan/awesome-web-components#who-to-follow",
-          "children": [],
-          "stars": 0,
-          "forks": 0,
-          "language": null,
-          "license": null,
-          "topics": [],
-          "updated": null,
-          "pushed": null,
-          "awesome": false,
-          "path": [
-            "Web Components",
-            "Who To Follow"
-          ],
-          "parentId": "root-front-end-development-web-components"
-        },
-        {
           "id": "root-front-end-development-web-components-maintainers",
           "title": "Maintainers",
           "kind": "section",
@@ -33993,8 +34219,8 @@
           "parentId": "root-front-end-development-web-components"
         }
       ],
-      "stars": 3569,
-      "forks": 201,
+      "stars": 3575,
+      "forks": 202,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -34005,8 +34231,8 @@
         "web-components",
         "webcomponents"
       ],
-      "updated": "2026-08-29T14:42:23Z",
-      "pushed": "2026-08-27T07:56:10Z",
+      "updated": "2026-09-05T15:47:39Z",
+      "pushed": "2026-09-04T15:01:01Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -35023,7 +35249,7 @@
             },
             {
               "id": "root-front-end-development-angular-architecture-and-advanced-topics-micro-frontends",
-              "title": "Micro-Frontends",
+              "title": "Micro Frontends",
               "kind": "section",
               "sourceRepo": "patrickjs/awesome-angular",
               "depth": 2,
@@ -35040,17 +35266,17 @@
               "path": [
                 "Angular",
                 "Architecture and Advanced Topics",
-                "Micro-Frontends"
+                "Micro Frontends"
               ],
               "parentId": "root-front-end-development-angular-architecture-and-advanced-topics"
             },
             {
-              "id": "root-front-end-development-angular-architecture-and-advanced-topics-module-federation",
-              "title": "Module Federation",
+              "id": "root-front-end-development-angular-architecture-and-advanced-topics-module-federation-vite",
+              "title": "Module Federation Vite",
               "kind": "section",
               "sourceRepo": "patrickjs/awesome-angular",
               "depth": 2,
-              "url": "https://github.com/patrickjs/awesome-angular#module-federation",
+              "url": "https://github.com/patrickjs/awesome-angular#module-federation-vite",
               "children": [],
               "stars": 0,
               "forks": 0,
@@ -35063,7 +35289,30 @@
               "path": [
                 "Angular",
                 "Architecture and Advanced Topics",
-                "Module Federation"
+                "Module Federation Vite"
+              ],
+              "parentId": "root-front-end-development-angular-architecture-and-advanced-topics"
+            },
+            {
+              "id": "root-front-end-development-angular-architecture-and-advanced-topics-module-federation-webpack",
+              "title": "Module Federation Webpack",
+              "kind": "section",
+              "sourceRepo": "patrickjs/awesome-angular",
+              "depth": 2,
+              "url": "https://github.com/patrickjs/awesome-angular#module-federation-webpack",
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Angular",
+                "Architecture and Advanced Topics",
+                "Module Federation Webpack"
               ],
               "parentId": "root-front-end-development-angular-architecture-and-advanced-topics"
             },
@@ -37174,8 +37423,8 @@
           "parentId": "root-front-end-development-angular"
         }
       ],
-      "stars": 10067,
-      "forks": 1422,
+      "stars": 10074,
+      "forks": 1423,
       "language": "HTML",
       "license": "CC0-1.0",
       "topics": [
@@ -37189,8 +37438,8 @@
         "awesome",
         "awesome-list"
       ],
-      "updated": "2026-08-29T16:14:47Z",
-      "pushed": "2026-08-29T15:42:57Z",
+      "updated": "2026-09-06T05:47:24Z",
+      "pushed": "2026-09-05T17:33:48Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -41956,7 +42205,7 @@
           "parentId": "root-front-end-development-html5"
         }
       ],
-      "stars": 2806,
+      "stars": 2809,
       "forks": 259,
       "language": null,
       "license": "MIT",
@@ -41965,7 +42214,7 @@
         "awesome-list",
         "list"
       ],
-      "updated": "2026-08-28T08:02:20Z",
+      "updated": "2026-09-04T19:06:42Z",
       "pushed": "2023-09-26T08:12:13Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -42030,15 +42279,15 @@
           "parentId": "root-front-end-development-svg"
         }
       ],
-      "stars": 4649,
-      "forks": 398,
+      "stars": 4648,
+      "forks": 400,
       "language": "Shell",
       "license": null,
       "topics": [
         "awesome-list",
         "svg"
       ],
-      "updated": "2026-08-25T11:16:18Z",
+      "updated": "2026-09-05T07:06:25Z",
       "pushed": "2026-07-16T16:17:42Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -44262,7 +44511,7 @@
         "javascript",
         "particles"
       ],
-      "updated": "2026-08-27T02:21:56Z",
+      "updated": "2026-09-01T05:30:37Z",
       "pushed": "2026-06-14T09:29:51Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -72484,8 +72733,8 @@
           "parentId": "root-front-end-development-android-ui"
         }
       ],
-      "stars": 57410,
-      "forks": 10254,
+      "stars": 57472,
+      "forks": 10258,
       "language": null,
       "license": "MIT",
       "topics": [
@@ -72493,7 +72742,7 @@
         "awesome",
         "ui"
       ],
-      "updated": "2026-08-30T07:25:55Z",
+      "updated": "2026-09-06T05:36:12Z",
       "pushed": "2026-06-05T05:39:52Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -72513,12 +72762,12 @@
       "sourceRepo": "sindresorhus/awesome",
       "depth": 1,
       "children": [],
-      "stars": 11216,
+      "stars": 11214,
       "forks": 1326,
       "language": null,
       "license": null,
       "topics": [],
-      "updated": "2026-08-28T11:58:06Z",
+      "updated": "2026-09-05T18:54:46Z",
       "pushed": "2018-03-08T08:57:40Z",
       "awesome": true,
       "readmeStatus": "empty",
@@ -78844,8 +79093,8 @@
           "parentId": "root-front-end-development-web-accessibility"
         }
       ],
-      "stars": 1986,
-      "forks": 217,
+      "stars": 1985,
+      "forks": 225,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -78857,7 +79106,7 @@
         "wai-aria",
         "wcag"
       ],
-      "updated": "2026-08-29T17:53:28Z",
+      "updated": "2026-09-02T18:57:10Z",
       "pushed": "2026-08-03T22:10:04Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -82356,7 +82605,7 @@
           "parentId": "root-front-end-development-d3"
         }
       ],
-      "stars": 5317,
+      "stars": 5316,
       "forks": 311,
       "language": null,
       "license": "NOASSERTION",
@@ -82367,7 +82616,7 @@
         "javascript",
         "maps"
       ],
-      "updated": "2026-08-29T20:21:38Z",
+      "updated": "2026-09-05T10:10:31Z",
       "pushed": "2023-01-13T16:10:34Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -86465,8 +86714,8 @@
           "parentId": "root-front-end-development-emails"
         }
       ],
-      "stars": 2740,
-      "forks": 264,
+      "stars": 2745,
+      "forks": 263,
       "language": null,
       "license": null,
       "topics": [
@@ -86481,7 +86730,7 @@
         "jdion",
         "responsive-email"
       ],
-      "updated": "2026-08-29T07:35:11Z",
+      "updated": "2026-09-04T04:37:37Z",
       "pushed": "2024-10-03T21:09:35Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -87142,7 +87391,7 @@
           "parentId": "root-front-end-development-jquery"
         }
       ],
-      "stars": 981,
+      "stars": 980,
       "forks": 139,
       "language": null,
       "license": null,
@@ -87152,7 +87401,7 @@
         "javascript",
         "jquery"
       ],
-      "updated": "2026-08-05T19:55:39Z",
+      "updated": "2026-08-30T08:32:56Z",
       "pushed": "2026-01-01T15:37:15Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -90292,8 +90541,8 @@
           "parentId": "root-front-end-development-web-audio"
         }
       ],
-      "stars": 1396,
-      "forks": 129,
+      "stars": 1397,
+      "forks": 131,
       "language": null,
       "license": null,
       "topics": [
@@ -90304,7 +90553,7 @@
         "midi",
         "webaudio"
       ],
-      "updated": "2026-08-28T20:03:35Z",
+      "updated": "2026-09-01T20:58:03Z",
       "pushed": "2026-06-05T01:54:36Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -90337,7 +90586,7 @@
         "service-worker",
         "serviceworkers"
       ],
-      "updated": "2026-08-24T13:40:46Z",
+      "updated": "2026-09-05T10:10:25Z",
       "pushed": "2022-11-23T17:08:40Z",
       "awesome": false,
       "path": [
@@ -94866,8 +95115,8 @@
           "parentId": "root-front-end-development-static-website-services"
         }
       ],
-      "stars": 1984,
-      "forks": 184,
+      "stars": 1986,
+      "forks": 185,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -94875,7 +95124,7 @@
         "awesome-list",
         "list"
       ],
-      "updated": "2026-08-29T17:53:58Z",
+      "updated": "2026-09-03T16:20:07Z",
       "pushed": "2026-04-20T16:35:39Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -99825,8 +100074,8 @@
                   "sourceRepo": "vuejs/awesome-vue",
                   "depth": 3,
                   "children": [],
-                  "stars": 17230,
-                  "forks": 1334,
+                  "stars": 17239,
+                  "forks": 1333,
                   "language": "JavaScript",
                   "license": "MIT",
                   "topics": [
@@ -99835,7 +100084,7 @@
                     "vite",
                     "vitejs"
                   ],
-                  "updated": "2026-08-29T17:22:38Z",
+                  "updated": "2026-09-06T04:54:03Z",
                   "pushed": "2026-02-04T13:10:54Z",
                   "awesome": true,
                   "path": [
@@ -120614,7 +120863,7 @@
                       "depth": 4,
                       "children": [],
                       "stars": 52,
-                      "forks": 15,
+                      "forks": 16,
                       "language": "TypeScript",
                       "license": "MIT",
                       "topics": [
@@ -132205,12 +132454,12 @@
           "parentId": "root-front-end-development-vue-js"
         }
       ],
-      "stars": 73549,
-      "forks": 9453,
+      "stars": 73550,
+      "forks": 9456,
       "language": null,
       "license": "MIT",
       "topics": [],
-      "updated": "2026-08-30T01:42:40Z",
+      "updated": "2026-09-06T04:48:14Z",
       "pushed": "2026-07-24T10:16:04Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -135476,7 +135725,7 @@
           "parentId": "root-front-end-development-aurelia"
         }
       ],
-      "stars": 310,
+      "stars": 311,
       "forks": 36,
       "language": null,
       "license": null,
@@ -135485,7 +135734,7 @@
         "awesome-list",
         "list"
       ],
-      "updated": "2026-08-24T08:52:17Z",
+      "updated": "2026-09-05T03:11:03Z",
       "pushed": "2022-08-18T14:06:13Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -135732,7 +135981,7 @@
           "parentId": "root-front-end-development-charting"
         }
       ],
-      "stars": 2110,
+      "stars": 2112,
       "forks": 115,
       "language": null,
       "license": "MIT",
@@ -135743,7 +135992,7 @@
         "javascript",
         "open-source"
       ],
-      "updated": "2026-08-27T19:49:54Z",
+      "updated": "2026-09-05T09:48:21Z",
       "pushed": "2024-02-18T16:12:11Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -136269,8 +136518,8 @@
               "sourceRepo": "candelibas/awesome-ionic",
               "depth": 2,
               "children": [],
-              "stars": 637,
-              "forks": 54,
+              "stars": 638,
+              "forks": 55,
               "language": "HTML",
               "license": "CC0-1.0",
               "topics": [
@@ -136280,7 +136529,7 @@
                 "capacitor-plugin",
                 "ionic"
               ],
-              "updated": "2026-08-21T14:31:24Z",
+              "updated": "2026-09-05T06:41:58Z",
               "pushed": "2026-08-20T15:03:05Z",
               "awesome": true,
               "path": [
@@ -149742,15 +149991,15 @@
           "parentId": "root-front-end-development-chrome-devtools"
         }
       ],
-      "stars": 7127,
-      "forks": 442,
+      "stars": 7133,
+      "forks": 444,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
         "awesome",
         "awesome-list"
       ],
-      "updated": "2026-08-30T01:50:42Z",
+      "updated": "2026-09-06T05:49:22Z",
       "pushed": "2026-03-27T03:36:24Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -151069,7 +151318,7 @@
         "draft-js",
         "list"
       ],
-      "updated": "2026-08-20T07:41:10Z",
+      "updated": "2026-09-04T19:14:36Z",
       "pushed": "2022-05-04T08:19:29Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -151945,12 +152194,12 @@
               "sourceRepo": "talater/awesome-service-workers",
               "depth": 2,
               "children": [],
-              "stars": 1578,
+              "stars": 1577,
               "forks": 93,
               "language": null,
               "license": "CC0-1.0",
               "topics": [],
-              "updated": "2026-08-13T03:02:24Z",
+              "updated": "2026-09-02T12:03:36Z",
               "pushed": "2021-01-13T09:19:12Z",
               "awesome": true,
               "path": [
@@ -151971,12 +152220,12 @@
               "sourceRepo": "talater/awesome-service-workers",
               "depth": 2,
               "children": [],
-              "stars": 1578,
+              "stars": 1577,
               "forks": 93,
               "language": null,
               "license": "CC0-1.0",
               "topics": [],
-              "updated": "2026-08-13T03:02:24Z",
+              "updated": "2026-09-02T12:03:36Z",
               "pushed": "2021-01-13T09:19:12Z",
               "awesome": true,
               "path": [
@@ -151997,12 +152246,12 @@
               "sourceRepo": "talater/awesome-service-workers",
               "depth": 2,
               "children": [],
-              "stars": 1578,
+              "stars": 1577,
               "forks": 93,
               "language": null,
               "license": "CC0-1.0",
               "topics": [],
-              "updated": "2026-08-13T03:02:24Z",
+              "updated": "2026-09-02T12:03:36Z",
               "pushed": "2021-01-13T09:19:12Z",
               "awesome": true,
               "path": [
@@ -152023,12 +152272,12 @@
               "sourceRepo": "talater/awesome-service-workers",
               "depth": 2,
               "children": [],
-              "stars": 1578,
+              "stars": 1577,
               "forks": 93,
               "language": null,
               "license": "CC0-1.0",
               "topics": [],
-              "updated": "2026-08-13T03:02:24Z",
+              "updated": "2026-09-02T12:03:36Z",
               "pushed": "2021-01-13T09:19:12Z",
               "awesome": true,
               "path": [
@@ -152049,12 +152298,12 @@
               "sourceRepo": "talater/awesome-service-workers",
               "depth": 2,
               "children": [],
-              "stars": 1578,
+              "stars": 1577,
               "forks": 93,
               "language": null,
               "license": "CC0-1.0",
               "topics": [],
-              "updated": "2026-08-13T03:02:24Z",
+              "updated": "2026-09-02T12:03:36Z",
               "pushed": "2021-01-13T09:19:12Z",
               "awesome": true,
               "path": [
@@ -153752,12 +154001,12 @@
           "parentId": "root-front-end-development-progressive-web-apps"
         }
       ],
-      "stars": 1578,
+      "stars": 1577,
       "forks": 93,
       "language": null,
       "license": "CC0-1.0",
       "topics": [],
-      "updated": "2026-08-13T03:02:24Z",
+      "updated": "2026-09-02T12:03:36Z",
       "pushed": "2021-01-13T09:19:12Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -163577,7 +163826,7 @@
           "parentId": "root-front-end-development-sass"
         }
       ],
-      "stars": 1902,
+      "stars": 1901,
       "forks": 129,
       "language": null,
       "license": "CC0-1.0",
@@ -163586,7 +163835,7 @@
         "sass",
         "scss"
       ],
-      "updated": "2026-08-29T00:51:57Z",
+      "updated": "2026-09-03T16:42:15Z",
       "pushed": "2023-10-16T15:11:54Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -166651,12 +166900,12 @@
           "parentId": "root-front-end-development-ant-design"
         }
       ],
-      "stars": 3298,
-      "forks": 218,
+      "stars": 3297,
+      "forks": 217,
       "language": null,
       "license": "NOASSERTION",
       "topics": [],
-      "updated": "2026-08-22T15:46:42Z",
+      "updated": "2026-09-01T13:47:33Z",
       "pushed": "2025-07-29T08:15:52Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -172293,7 +172542,7 @@
           "parentId": "root-front-end-development-webgl"
         }
       ],
-      "stars": 1529,
+      "stars": 1530,
       "forks": 105,
       "language": null,
       "license": "CC0-1.0",
@@ -172310,7 +172559,7 @@
         "webgl-spec-sheet",
         "webgl-tutorials"
       ],
-      "updated": "2026-08-29T03:47:01Z",
+      "updated": "2026-08-30T23:53:47Z",
       "pushed": "2026-04-02T03:35:40Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -176535,8 +176784,8 @@
           "parentId": "root-front-end-development-preact"
         }
       ],
-      "stars": 1002,
-      "forks": 86,
+      "stars": 1003,
+      "forks": 87,
       "language": null,
       "license": null,
       "topics": [
@@ -176546,7 +176795,7 @@
         "preact",
         "resources"
       ],
-      "updated": "2026-08-12T01:34:28Z",
+      "updated": "2026-09-04T17:00:25Z",
       "pushed": "2026-08-05T22:19:42Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -180328,6 +180577,32 @@
           "url": "https://github.com/unicodeveloper/awesome-nextjs#apps",
           "children": [
             {
+              "id": "root-front-end-development-next-js-apps-reely",
+              "title": "Reely",
+              "kind": "repo",
+              "repo": "vette1123/movies-streaming-platform",
+              "url": "https://github.com/vette1123/movies-streaming-platform",
+              "description": "Movie & TV discovery and tracker on the TMDB API — live-applying filters, ⌘K command palette, watchlist and history, installable PWA. Next.js 16 static export on Cloudflare Workers Static Assets, so Next.js never runs in production. Demo",
+              "external": false,
+              "sourceRepo": "unicodeveloper/awesome-nextjs",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Next.js",
+                "Apps",
+                "Reely"
+              ],
+              "parentId": "root-front-end-development-next-js-apps"
+            },
+            {
               "id": "root-front-end-development-next-js-apps-fileflex",
               "title": "FileFlex",
               "kind": "repo",
@@ -182642,8 +182917,8 @@
           "parentId": "root-front-end-development-next-js"
         }
       ],
-      "stars": 11107,
-      "forks": 1156,
+      "stars": 11108,
+      "forks": 1160,
       "language": null,
       "license": null,
       "topics": [
@@ -182658,8 +182933,8 @@
         "tutorials",
         "universal"
       ],
-      "updated": "2026-08-29T02:34:05Z",
-      "pushed": "2026-08-28T08:28:16Z",
+      "updated": "2026-09-03T17:42:21Z",
+      "pushed": "2026-09-01T09:11:21Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -185400,8 +185675,8 @@
               "sourceRepo": "web-padawan/awesome-lit",
               "depth": 2,
               "children": [],
-              "stars": 1300,
-              "forks": 188,
+              "stars": 1305,
+              "forks": 189,
               "language": "TypeScript",
               "license": "MIT",
               "topics": [
@@ -185409,8 +185684,8 @@
                 "opensource",
                 "webcomponents"
               ],
-              "updated": "2026-08-28T18:54:38Z",
-              "pushed": "2026-08-27T17:10:41Z",
+              "updated": "2026-09-04T06:54:03Z",
+              "pushed": "2026-09-03T17:09:47Z",
               "awesome": true,
               "path": [
                 "lit",
@@ -193430,7 +193705,7 @@
         }
       ],
       "stars": 1371,
-      "forks": 182,
+      "forks": 185,
       "language": null,
       "license": null,
       "topics": [
@@ -196781,7 +197056,7 @@
                 "service-worker",
                 "serviceworkers"
               ],
-              "updated": "2026-08-24T13:40:46Z",
+              "updated": "2026-09-05T10:10:25Z",
               "pushed": "2022-11-23T17:08:40Z",
               "awesome": true,
               "path": [
@@ -198610,7 +198885,7 @@
         }
       ],
       "stars": 1287,
-      "forks": 65,
+      "forks": 66,
       "language": null,
       "license": null,
       "topics": [
@@ -199849,6 +200124,81 @@
       "depth": 1,
       "children": [
         {
+          "id": "root-front-end-development-blazor-net-conf-2026-november-10-12-2026",
+          "title": ".NET Conf 2026 (November 10-12, 2026).",
+          "kind": "section",
+          "sourceRepo": "adrientorris/awesome-blazor",
+          "depth": 1,
+          "url": "https://github.com/adrientorris/awesome-blazor#net-conf-2026-november-10-12-2026",
+          "children": [
+            {
+              "id": "root-front-end-development-blazor-net-conf-2026-november-10-12-2026-join-microsoft-on-november-10-12-to-celebrate-the-launch-of-net-11-and-learn-what-s-new",
+              "title": "Join Microsoft on November 10-12 to celebrate the launch of .NET 11 and learn what's new!",
+              "kind": "topic",
+              "repo": "",
+              "url": "",
+              "description": "",
+              "external": false,
+              "sourceRepo": "adrientorris/awesome-blazor",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Blazor",
+                ".NET Conf 2026 (November 10-12, 2026).",
+                "Join Microsoft on November 10-12 to celebrate the launch of .NET 11 and learn what's new!"
+              ],
+              "parentId": "root-front-end-development-blazor-net-conf-2026-november-10-12-2026"
+            },
+            {
+              "id": "root-front-end-development-blazor-net-conf-2026-november-10-12-2026-more-info-on-dotnetconf-net",
+              "title": "More info on dotnetconf.net.",
+              "kind": "topic",
+              "repo": "",
+              "url": "",
+              "description": "",
+              "external": false,
+              "sourceRepo": "adrientorris/awesome-blazor",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Blazor",
+                ".NET Conf 2026 (November 10-12, 2026).",
+                "More info on dotnetconf.net."
+              ],
+              "parentId": "root-front-end-development-blazor-net-conf-2026-november-10-12-2026"
+            }
+          ],
+          "stars": 0,
+          "forks": 0,
+          "language": null,
+          "license": null,
+          "topics": [],
+          "updated": null,
+          "pushed": null,
+          "awesome": false,
+          "path": [
+            "Blazor",
+            ".NET Conf 2026 (November 10-12, 2026)."
+          ],
+          "parentId": "root-front-end-development-blazor"
+        },
+        {
           "id": "root-front-end-development-blazor-introduction",
           "title": "Introduction",
           "kind": "section",
@@ -201022,8 +201372,8 @@
           "parentId": "root-front-end-development-blazor"
         }
       ],
-      "stars": 9373,
-      "forks": 1012,
+      "stars": 9375,
+      "forks": 1013,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -201048,8 +201398,8 @@
         "razor-components",
         "webassembly"
       ],
-      "updated": "2026-08-29T23:40:06Z",
-      "pushed": "2026-07-25T11:20:31Z",
+      "updated": "2026-09-06T05:47:45Z",
+      "pushed": "2026-09-03T07:36:15Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -204319,7 +204669,7 @@
           "parentId": "root-front-end-development-pagespeed-metrics"
         }
       ],
-      "stars": 692,
+      "stars": 693,
       "forks": 27,
       "language": null,
       "license": "NOASSERTION",
@@ -204332,7 +204682,7 @@
         "performance",
         "web-performance"
       ],
-      "updated": "2026-08-16T12:24:55Z",
+      "updated": "2026-09-04T19:15:06Z",
       "pushed": "2024-02-17T15:29:57Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -206314,8 +206664,8 @@
           "parentId": "root-front-end-development-tailwind-css"
         }
       ],
-      "stars": 15173,
-      "forks": 1030,
+      "stars": 15179,
+      "forks": 1029,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -206329,7 +206679,7 @@
         "tailwindcss",
         "websites"
       ],
-      "updated": "2026-08-30T01:44:06Z",
+      "updated": "2026-09-06T04:54:24Z",
       "pushed": "2026-08-14T14:48:26Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -211544,8 +211894,8 @@
           "parentId": "root-front-end-development-web-animation"
         }
       ],
-      "stars": 1574,
-      "forks": 85,
+      "stars": 1577,
+      "forks": 86,
       "language": "JavaScript",
       "license": "CC0-1.0",
       "topics": [
@@ -211557,7 +211907,7 @@
         "transitions",
         "web-animation"
       ],
-      "updated": "2026-08-29T16:34:19Z",
+      "updated": "2026-09-02T23:05:15Z",
       "pushed": "2023-07-12T12:52:20Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -217141,8 +217491,8 @@
               "sourceRepo": "jetli/awesome-yew",
               "depth": 2,
               "children": [],
-              "stars": 9632,
-              "forks": 585,
+              "stars": 9634,
+              "forks": 588,
               "language": null,
               "license": "CC0-1.0",
               "topics": [
@@ -217156,7 +217506,7 @@
                 "wasm",
                 "webassembly"
               ],
-              "updated": "2026-08-30T01:48:14Z",
+              "updated": "2026-09-06T05:47:37Z",
               "pushed": "2024-11-15T14:58:04Z",
               "awesome": true,
               "path": [
@@ -217177,16 +217527,16 @@
               "sourceRepo": "jetli/awesome-yew",
               "depth": 2,
               "children": [],
-              "stars": 59053,
-              "forks": 3570,
+              "stars": 59212,
+              "forks": 3595,
               "language": "Rust",
               "license": "CC0-1.0",
               "topics": [
                 "awesome",
                 "rust"
               ],
-              "updated": "2026-08-30T05:30:48Z",
-              "pushed": "2026-08-29T15:01:55Z",
+              "updated": "2026-09-06T06:53:53Z",
+              "pushed": "2026-09-05T15:55:37Z",
               "awesome": true,
               "path": [
                 "Yew",
@@ -217211,7 +217561,7 @@
           "parentId": "root-front-end-development-yew"
         }
       ],
-      "stars": 1612,
+      "stars": 1613,
       "forks": 70,
       "language": null,
       "license": "CC0-1.0",
@@ -217224,7 +217574,7 @@
         "yew",
         "yew-framework"
       ],
-      "updated": "2026-08-20T21:03:51Z",
+      "updated": "2026-08-31T02:15:31Z",
       "pushed": "2026-02-28T09:26:58Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -221657,8 +222007,8 @@
               "sourceRepo": "componently-com/awesome-building-blocks-for-web-apps",
               "depth": 2,
               "children": [],
-              "stars": 14499,
-              "forks": 1859,
+              "stars": 14504,
+              "forks": 1858,
               "language": null,
               "license": "CC0-1.0",
               "topics": [
@@ -221668,7 +222018,7 @@
                 "microservices",
                 "microservices-architecture"
               ],
-              "updated": "2026-08-29T17:46:11Z",
+              "updated": "2026-09-06T04:54:33Z",
               "pushed": "2026-08-20T15:52:41Z",
               "awesome": true,
               "path": [
@@ -224208,8 +224558,8 @@
                   "sourceRepo": "thecomputerm/awesome-svelte",
                   "depth": 3,
                   "children": [],
-                  "stars": 506,
-                  "forks": 24,
+                  "stars": 508,
+                  "forks": 25,
                   "language": "TypeScript",
                   "license": "MIT",
                   "topics": [
@@ -224223,7 +224573,7 @@
                     "svg-icon-component",
                     "svg-icons"
                   ],
-                  "updated": "2026-07-06T08:15:52Z",
+                  "updated": "2026-09-02T17:05:16Z",
                   "pushed": "2025-04-21T06:53:40Z",
                   "awesome": true,
                   "path": [
@@ -228044,7 +228394,7 @@
         }
       ],
       "stars": 2157,
-      "forks": 198,
+      "forks": 199,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -228054,7 +228404,7 @@
         "svelte",
         "sveltejs"
       ],
-      "updated": "2026-08-29T07:42:59Z",
+      "updated": "2026-09-04T06:52:09Z",
       "pushed": "2026-05-30T14:58:11Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -231524,8 +231874,8 @@
           "parentId": "root-front-end-development-design-systems"
         }
       ],
-      "stars": 886,
-      "forks": 64,
+      "stars": 885,
+      "forks": 67,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -231547,7 +231897,7 @@
         "reusable-components",
         "storybook"
       ],
-      "updated": "2026-08-27T16:43:25Z",
+      "updated": "2026-08-31T03:53:03Z",
       "pushed": "2026-08-27T06:58:35Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -239614,8 +239964,8 @@
                   "sourceRepo": "joewdavies/awesome-frontend-gis",
                   "depth": 3,
                   "children": [],
-                  "stars": 2531,
-                  "forks": 215,
+                  "stars": 2536,
+                  "forks": 216,
                   "language": null,
                   "license": "CC0-1.0",
                   "topics": [
@@ -239624,8 +239974,8 @@
                     "geojson",
                     "list"
                   ],
-                  "updated": "2026-08-26T19:38:17Z",
-                  "pushed": "2026-07-23T13:51:40Z",
+                  "updated": "2026-09-02T16:03:37Z",
+                  "pushed": "2026-09-01T11:55:22Z",
                   "awesome": true,
                   "path": [
                     "Frontend GIS",
@@ -240612,7 +240962,7 @@
                   "sourceRepo": "joewdavies/awesome-frontend-gis",
                   "depth": 3,
                   "children": [],
-                  "stars": 1170,
+                  "stars": 1171,
                   "forks": 187,
                   "language": "Python",
                   "license": "MIT",
@@ -240638,8 +240988,8 @@
                     "spectral-index",
                     "spectral-indices"
                   ],
-                  "updated": "2026-08-30T04:32:24Z",
-                  "pushed": "2026-08-30T04:32:20Z",
+                  "updated": "2026-09-06T04:12:22Z",
+                  "pushed": "2026-09-06T03:43:49Z",
                   "awesome": true,
                   "path": [
                     "Frontend GIS",
@@ -242267,8 +242617,8 @@
                   "sourceRepo": "joewdavies/awesome-frontend-gis",
                   "depth": 3,
                   "children": [],
-                  "stars": 78712,
-                  "forks": 11813,
+                  "stars": 78823,
+                  "forks": 11833,
                   "language": null,
                   "license": "MIT",
                   "topics": [
@@ -242277,8 +242627,8 @@
                     "datasets",
                     "opendata"
                   ],
-                  "updated": "2026-08-30T07:53:46Z",
-                  "pushed": "2026-08-29T18:38:59Z",
+                  "updated": "2026-09-06T06:53:22Z",
+                  "pushed": "2026-09-03T21:42:22Z",
                   "awesome": true,
                   "path": [
                     "Frontend GIS",
@@ -244811,8 +245161,8 @@
           "parentId": "root-front-end-development-frontend-gis"
         }
       ],
-      "stars": 852,
-      "forks": 63,
+      "stars": 857,
+      "forks": 62,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -244837,7 +245187,7 @@
         "visualization",
         "webgl"
       ],
-      "updated": "2026-08-29T08:36:40Z",
+      "updated": "2026-09-04T19:16:39Z",
       "pushed": "2026-08-18T18:05:33Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -248986,7 +249336,7 @@
         }
       ],
       "stars": 1968,
-      "forks": 109,
+      "forks": 114,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -248999,7 +249349,7 @@
         "webgl",
         "webgpu"
       ],
-      "updated": "2026-08-29T17:57:32Z",
+      "updated": "2026-09-05T21:53:05Z",
       "pushed": "2026-01-21T09:09:35Z",
       "awesome": true,
       "readmeStatus": "expanded",

@@ -1021,8 +1021,8 @@
       "sourceRepo": "sindresorhus/awesome",
       "depth": 1,
       "children": [],
-      "stars": 78712,
-      "forks": 11813,
+      "stars": 78823,
+      "forks": 11833,
       "language": null,
       "license": "MIT",
       "topics": [
@@ -1031,8 +1031,8 @@
         "datasets",
         "opendata"
       ],
-      "updated": "2026-08-30T07:53:46Z",
-      "pushed": "2026-08-29T18:38:59Z",
+      "updated": "2026-09-06T06:53:22Z",
+      "pushed": "2026-09-03T21:42:22Z",
       "awesome": true,
       "readmeStatus": "empty",
       "path": [
@@ -10603,15 +10603,15 @@
           "parentId": "root-big-data-data-engineering"
         }
       ],
-      "stars": 9003,
-      "forks": 1603,
+      "stars": 9022,
+      "forks": 1609,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
         "awesome",
         "awesome-list"
       ],
-      "updated": "2026-08-30T03:06:30Z",
+      "updated": "2026-09-06T05:47:58Z",
       "pushed": "2026-07-18T15:19:21Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -11928,6 +11928,32 @@
                 "Streaming",
                 "Engines and Platforms",
                 "SPQR ![Archived][archived-badge] ![Java][language-java]"
+              ],
+              "parentId": "root-big-data-streaming-engines-and-platforms"
+            },
+            {
+              "id": "root-big-data-streaming-engines-and-platforms-sqlflow-go-python-language-go-python",
+              "title": "SQLFlow ![Go/Python][language-go-python]",
+              "kind": "topic",
+              "repo": "",
+              "url": "",
+              "description": "Stream processing engine that runs DuckDB SQL over Kafka, WebSocket, and webhook streams.",
+              "external": false,
+              "sourceRepo": "manuzhang/awesome-streaming",
+              "depth": 3,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Streaming",
+                "Engines and Platforms",
+                "SQLFlow ![Go/Python][language-go-python]"
               ],
               "parentId": "root-big-data-streaming-engines-and-platforms"
             },
@@ -14190,8 +14216,8 @@
           "parentId": "root-big-data-streaming"
         }
       ],
-      "stars": 3009,
-      "forks": 323,
+      "stars": 3013,
+      "forks": 324,
       "language": "JavaScript",
       "license": null,
       "topics": [
@@ -14200,8 +14226,8 @@
         "list",
         "stream-processing"
       ],
-      "updated": "2026-08-26T20:41:49Z",
-      "pushed": "2026-08-29T20:33:23Z",
+      "updated": "2026-09-03T12:56:38Z",
+      "pushed": "2026-09-05T20:02:40Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -15052,7 +15078,7 @@
         }
       ],
       "stars": 1893,
-      "forks": 344,
+      "forks": 345,
       "language": "Shell",
       "license": "CC0-1.0",
       "topics": [
@@ -17751,7 +17777,7 @@
           "parentId": "root-big-data-splunk"
         }
       ],
-      "stars": 157,
+      "stars": 158,
       "forks": 18,
       "language": null,
       "license": "CC0-1.0",
@@ -17761,7 +17787,7 @@
         "splunk",
         "splunk-resources"
       ],
-      "updated": "2026-08-10T18:59:02Z",
+      "updated": "2026-09-05T04:07:51Z",
       "pushed": "2020-09-11T03:50:06Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -35134,7 +35160,7 @@
                 "structural-attention",
                 "weisfeiler-lehman"
               ],
-              "updated": "2026-08-29T17:46:04Z",
+              "updated": "2026-09-01T14:03:40Z",
               "pushed": "2023-03-18T12:10:08Z",
               "awesome": true,
               "path": [
@@ -35155,7 +35181,7 @@
               "sourceRepo": "briatte/awesome-network-analysis",
               "depth": 2,
               "children": [],
-              "stars": 2450,
+              "stars": 2449,
               "forks": 357,
               "language": "Python",
               "license": "CC0-1.0",
@@ -35181,7 +35207,7 @@
                 "social-network",
                 "unsupervised-learning"
               ],
-              "updated": "2026-08-21T10:54:09Z",
+              "updated": "2026-08-31T22:54:11Z",
               "pushed": "2025-12-20T17:06:00Z",
               "awesome": true,
               "path": [
@@ -38375,7 +38401,7 @@
           "parentId": "root-big-data-network-analysis"
         }
       ],
-      "stars": 4102,
+      "stars": 4108,
       "forks": 639,
       "language": "R",
       "license": null,
@@ -38396,7 +38422,7 @@
         "social-network-analysis",
         "social-networks"
       ],
-      "updated": "2026-08-30T02:12:38Z",
+      "updated": "2026-09-04T17:56:23Z",
       "pushed": "2026-08-20T13:22:11Z",
       "awesome": true,
       "readmeStatus": "expanded",
