@@ -5738,7 +5738,7 @@
           "parentId": "root-back-end-development-flask"
         }
       ],
-      "stars": 1777,
+      "stars": 1780,
       "forks": 171,
       "language": null,
       "license": "CC0-1.0",
@@ -5748,7 +5748,7 @@
         "flask",
         "flask-resources"
       ],
-      "updated": "2026-09-04T12:40:40Z",
+      "updated": "2026-09-10T06:08:59Z",
       "pushed": "2026-05-13T13:35:25Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -15995,8 +15995,8 @@
               "sourceRepo": "veggiemonk/awesome-docker",
               "depth": 2,
               "children": [],
-              "stars": 46238,
-              "forks": 8309,
+              "stars": 46301,
+              "forks": 8323,
               "language": "HTML",
               "license": "CC0-1.0",
               "topics": [
@@ -16004,8 +16004,8 @@
                 "awesome-list",
                 "docker-compose"
               ],
-              "updated": "2026-09-06T04:50:25Z",
-              "pushed": "2026-09-04T21:00:59Z",
+              "updated": "2026-09-13T07:14:06Z",
+              "pushed": "2026-09-11T11:27:11Z",
               "awesome": true,
               "path": [
                 "Docker",
@@ -16025,8 +16025,8 @@
               "sourceRepo": "veggiemonk/awesome-docker",
               "depth": 2,
               "children": [],
-              "stars": 16070,
-              "forks": 2487,
+              "stars": 16073,
+              "forks": 2491,
               "language": "Shell",
               "license": "NOASSERTION",
               "topics": [
@@ -16049,7 +16049,7 @@
                 "resource",
                 "schedule"
               ],
-              "updated": "2026-09-06T04:54:14Z",
+              "updated": "2026-09-11T09:06:14Z",
               "pushed": "2026-09-03T13:33:39Z",
               "awesome": true,
               "path": [
@@ -17690,7 +17690,7 @@
           "parentId": "root-back-end-development-docker"
         }
       ],
-      "stars": 36786,
+      "stars": 36811,
       "forks": 3362,
       "language": null,
       "license": "Apache-2.0",
@@ -17714,8 +17714,8 @@
         "moby",
         "tools"
       ],
-      "updated": "2026-09-06T04:52:25Z",
-      "pushed": "2026-08-27T17:04:16Z",
+      "updated": "2026-09-13T05:46:51Z",
+      "pushed": "2026-09-12T10:37:31Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -18735,12 +18735,12 @@
           "parentId": "root-back-end-development-pyramid"
         }
       ],
-      "stars": 575,
+      "stars": 573,
       "forks": 55,
       "language": null,
       "license": null,
       "topics": [],
-      "updated": "2026-09-05T12:56:26Z",
+      "updated": "2026-09-11T07:50:07Z",
       "pushed": "2021-07-08T12:28:10Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -24843,7 +24843,7 @@
         }
       ],
       "stars": 937,
-      "forks": 226,
+      "forks": 225,
       "language": null,
       "license": "WTFPL",
       "topics": [
@@ -25894,12 +25894,12 @@
           "parentId": "root-back-end-development-symfony"
         }
       ],
-      "stars": 1572,
-      "forks": 222,
+      "stars": 1570,
+      "forks": 223,
       "language": null,
       "license": null,
       "topics": [],
-      "updated": "2026-09-04T22:06:20Z",
+      "updated": "2026-09-10T20:05:32Z",
       "pushed": "2023-02-22T09:22:45Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -26382,8 +26382,8 @@
                   "sourceRepo": "fukuball/awesome-laravel-education",
                   "depth": 3,
                   "children": [],
-                  "stars": 13095,
-                  "forks": 2342,
+                  "stars": 13099,
+                  "forks": 2343,
                   "language": null,
                   "license": null,
                   "topics": [
@@ -26391,7 +26391,7 @@
                     "laravel",
                     "php"
                   ],
-                  "updated": "2026-09-06T04:54:55Z",
+                  "updated": "2026-09-12T11:46:06Z",
                   "pushed": "2024-07-03T15:59:36Z",
                   "awesome": true,
                   "path": [
@@ -26413,8 +26413,8 @@
                   "sourceRepo": "fukuball/awesome-laravel-education",
                   "depth": 3,
                   "children": [],
-                  "stars": 32678,
-                  "forks": 5138,
+                  "stars": 32696,
+                  "forks": 5141,
                   "language": null,
                   "license": "WTFPL",
                   "topics": [
@@ -26426,7 +26426,7 @@
                     "php-installation",
                     "php-library"
                   ],
-                  "updated": "2026-09-06T04:52:49Z",
+                  "updated": "2026-09-13T05:52:13Z",
                   "pushed": "2026-07-13T19:44:57Z",
                   "awesome": true,
                   "path": [
@@ -33329,8 +33329,8 @@
           "parentId": "root-back-end-development-laravel"
         }
       ],
-      "stars": 13095,
-      "forks": 2342,
+      "stars": 13099,
+      "forks": 2343,
       "language": null,
       "license": null,
       "topics": [
@@ -33338,7 +33338,7 @@
         "laravel",
         "php"
       ],
-      "updated": "2026-09-06T04:54:55Z",
+      "updated": "2026-09-12T11:46:06Z",
       "pushed": "2024-07-03T15:59:36Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -46856,8 +46856,8 @@
         "dropwizard",
         "list"
       ],
-      "updated": "2026-08-05T19:51:36Z",
-      "pushed": "2018-12-07T17:53:51Z",
+      "updated": "2026-09-12T00:32:12Z",
+      "pushed": "2026-09-12T00:32:08Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -47040,8 +47040,8 @@
           "parentId": "root-back-end-development-kubernetes"
         }
       ],
-      "stars": 16070,
-      "forks": 2487,
+      "stars": 16073,
+      "forks": 2491,
       "language": "Shell",
       "license": "NOASSERTION",
       "topics": [
@@ -47064,7 +47064,7 @@
         "resource",
         "schedule"
       ],
-      "updated": "2026-09-06T04:54:14Z",
+      "updated": "2026-09-11T09:06:14Z",
       "pushed": "2026-09-03T13:33:39Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -54430,6 +54430,32 @@
                 "compliance.tf docs"
               ],
               "parentId": "root-back-end-development-terraform-learning-and-studying"
+            },
+            {
+              "id": "root-back-end-development-terraform-learning-and-studying-devopslesson-terraform-playground",
+              "title": "DevOpsLesson Terraform Playground",
+              "kind": "link",
+              "repo": "",
+              "url": "https://devopslesson.com/playground/terraform",
+              "description": "Free browser-based Terraform simulator with guided HCL exercises and practice commands.",
+              "external": true,
+              "sourceRepo": "shuaibiyy/awesome-terraform",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Terraform",
+                "Learning and Studying",
+                "DevOpsLesson Terraform Playground"
+              ],
+              "parentId": "root-back-end-development-terraform-learning-and-studying"
             }
           ],
           "stars": 0,
@@ -54722,6 +54748,33 @@
                     "Tutorials and Blog Posts",
                     "Beginner Guides",
                     "Complete Terraform Course in French (Free) – A comprehensive and free course in French to master Terraform, from beginner to advanced usage, with hands-on examples and best practices."
+                  ],
+                  "parentId": "root-back-end-development-terraform-tutorials-and-blog-posts-beginner-guides"
+                },
+                {
+                  "id": "root-back-end-development-terraform-tutorials-and-blog-posts-beginner-guides-introduction-to-terraform",
+                  "title": "Introduction to Terraform",
+                  "kind": "link",
+                  "repo": "",
+                  "url": "https://devopslesson.com/tutorials/terraform/introduction-to-terraform",
+                  "description": "Beginner-friendly guide to Terraform fundamentals — providers, resources, state, and your first apply with hands-on examples.",
+                  "external": true,
+                  "sourceRepo": "shuaibiyy/awesome-terraform",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Terraform",
+                    "Tutorials and Blog Posts",
+                    "Beginner Guides",
+                    "Introduction to Terraform"
                   ],
                   "parentId": "root-back-end-development-terraform-tutorials-and-blog-posts-beginner-guides"
                 }
@@ -55412,6 +55465,33 @@
                     "Tutorials and Blog Posts",
                     "Azure",
                     "Terraforming Azure PaaS"
+                  ],
+                  "parentId": "root-back-end-development-terraform-tutorials-and-blog-posts-azure"
+                },
+                {
+                  "id": "root-back-end-development-terraform-tutorials-and-blog-posts-azure-azure-az104",
+                  "title": "azure-az104",
+                  "kind": "repo",
+                  "repo": "victorlane/azure-az104",
+                  "url": "https://github.com/victorlane/azure-az104",
+                  "description": "AZ-104 Azure Administrator study notes and hands-on Terraform examples, including a landing-zone reference architecture.",
+                  "external": false,
+                  "sourceRepo": "shuaibiyy/awesome-terraform",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Terraform",
+                    "Tutorials and Blog Posts",
+                    "Azure",
+                    "azure-az104"
                   ],
                   "parentId": "root-back-end-development-terraform-tutorials-and-blog-posts-azure"
                 }
@@ -57284,6 +57364,32 @@
               "parentId": "root-back-end-development-terraform-community-modules"
             },
             {
+              "id": "root-back-end-development-terraform-community-modules-terraform-helm-carbon-intensity-exporter",
+              "title": "terraform-helm-carbon-intensity-exporter",
+              "kind": "repo",
+              "repo": "fabiocicerchia/terraform-helm-carbon-intensity-exporter",
+              "url": "https://github.com/fabiocicerchia/terraform-helm-carbon-intensity-exporter",
+              "description": "Terraform/Helm module to deploy the Kubernetes Carbon Intensity Exporter.",
+              "external": false,
+              "sourceRepo": "shuaibiyy/awesome-terraform",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Terraform",
+                "Community Modules",
+                "terraform-helm-carbon-intensity-exporter"
+              ],
+              "parentId": "root-back-end-development-terraform-community-modules"
+            },
+            {
               "id": "root-back-end-development-terraform-community-modules-terraform-helm-kepler",
               "title": "terraform-helm-kepler",
               "kind": "repo",
@@ -58848,6 +58954,33 @@
                   "parentId": "root-back-end-development-terraform-providers-vendor-supported-providers"
                 },
                 {
+                  "id": "root-back-end-development-terraform-providers-vendor-supported-providers-terraform-provider-nxip",
+                  "title": "terraform-provider-nxip",
+                  "kind": "repo",
+                  "repo": "uk-sw/terraform-provider-nxip",
+                  "url": "https://github.com/uk-sw/terraform-provider-nxip",
+                  "description": "Provider for nxip, IPAM with pool-based CIDR allocation across cloud and on-premise. :heavydollarsign:",
+                  "external": false,
+                  "sourceRepo": "shuaibiyy/awesome-terraform",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Terraform",
+                    "Providers",
+                    "Vendor supported providers",
+                    "terraform-provider-nxip"
+                  ],
+                  "parentId": "root-back-end-development-terraform-providers-vendor-supported-providers"
+                },
+                {
                   "id": "root-back-end-development-terraform-providers-vendor-supported-providers-terraform-provider-openstack",
                   "title": "terraform-provider-openstack",
                   "kind": "repo",
@@ -59842,6 +59975,33 @@
                     "terraform-provider-paddle"
                   ],
                   "parentId": "root-back-end-development-terraform-providers-community-providers"
+                },
+                {
+                  "id": "root-back-end-development-terraform-providers-community-providers-terraform-provider-seekrit",
+                  "title": "terraform-provider-seekrit",
+                  "kind": "repo",
+                  "repo": "seekritdev/terraform-provider-seekrit",
+                  "url": "https://github.com/seekritdev/terraform-provider-seekrit",
+                  "description": "Manage seekrit apps, environments, groups, service tokens, key grants and secrets. Write-only arguments and ephemeral resources keep secret values out of state.",
+                  "external": false,
+                  "sourceRepo": "shuaibiyy/awesome-terraform",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Terraform",
+                    "Providers",
+                    "Community providers",
+                    "terraform-provider-seekrit"
+                  ],
+                  "parentId": "root-back-end-development-terraform-providers-community-providers"
                 }
               ],
               "stars": 0,
@@ -60526,6 +60686,58 @@
                 "Terraform",
                 "Tools",
                 "coretech/terrafile"
+              ],
+              "parentId": "root-back-end-development-terraform-tools"
+            },
+            {
+              "id": "root-back-end-development-terraform-tools-cynative",
+              "title": "Cynative",
+              "kind": "repo",
+              "repo": "cynative/cynative",
+              "url": "https://github.com/cynative/cynative",
+              "description": "Open-source security agent framework for reviewing Terraform configurations and investigating live infrastructure through read-only cloud APIs.",
+              "external": false,
+              "sourceRepo": "shuaibiyy/awesome-terraform",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Terraform",
+                "Tools",
+                "Cynative"
+              ],
+              "parentId": "root-back-end-development-terraform-tools"
+            },
+            {
+              "id": "root-back-end-development-terraform-tools-datadef",
+              "title": "Datadef",
+              "kind": "link",
+              "repo": "",
+              "url": "https://datadef.io/repo-to-diagram",
+              "description": "Generates architecture diagrams and docs from a Terraform repo: parses .tf files without running terraform init or reading state, draws modules as zones with per-environment counts, re-syncs daily. :heavydollarsign:",
+              "external": true,
+              "sourceRepo": "shuaibiyy/awesome-terraform",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Terraform",
+                "Tools",
+                "Datadef"
               ],
               "parentId": "root-back-end-development-terraform-tools"
             },
@@ -61700,32 +61912,6 @@
               "parentId": "root-back-end-development-terraform-tools"
             },
             {
-              "id": "root-back-end-development-terraform-tools-releaserun-terraform-provider-matrix",
-              "title": "ReleaseRun Terraform Provider Matrix",
-              "kind": "link",
-              "repo": "",
-              "url": "https://releaserun.com/tools/terraform-checker/",
-              "description": "Free browser tool to check Terraform provider version compatibility across Terraform and OpenTofu versions.",
-              "external": true,
-              "sourceRepo": "shuaibiyy/awesome-terraform",
-              "depth": 2,
-              "children": [],
-              "stars": 0,
-              "forks": 0,
-              "language": null,
-              "license": null,
-              "topics": [],
-              "updated": null,
-              "pushed": null,
-              "awesome": false,
-              "path": [
-                "Terraform",
-                "Tools",
-                "ReleaseRun Terraform Provider Matrix"
-              ],
-              "parentId": "root-back-end-development-terraform-tools"
-            },
-            {
               "id": "root-back-end-development-terraform-tools-sato",
               "title": "sato",
               "kind": "repo",
@@ -61830,32 +62016,6 @@
               "parentId": "root-back-end-development-terraform-tools"
             },
             {
-              "id": "root-back-end-development-terraform-tools-releaserun-terraform-security-scanner",
-              "title": "ReleaseRun Terraform Security Scanner",
-              "kind": "link",
-              "repo": "",
-              "url": "https://releaserun.com/tools/terraform-security/",
-              "description": "Free browser-based scanner for .tf files. Checks hardcoded credentials, open ports to 0.0.0.0/0, public S3/RDS, unencrypted storage, missing deletionprotection. A-F grade. No install required.",
-              "external": true,
-              "sourceRepo": "shuaibiyy/awesome-terraform",
-              "depth": 2,
-              "children": [],
-              "stars": 0,
-              "forks": 0,
-              "language": null,
-              "license": null,
-              "topics": [],
-              "updated": null,
-              "pushed": null,
-              "awesome": false,
-              "path": [
-                "Terraform",
-                "Tools",
-                "ReleaseRun Terraform Security Scanner"
-              ],
-              "parentId": "root-back-end-development-terraform-tools"
-            },
-            {
               "id": "root-back-end-development-terraform-tools-shieldly",
               "title": "Shieldly",
               "kind": "repo",
@@ -61956,6 +62116,32 @@
                 "Terraform",
                 "Tools",
                 "stacks"
+              ],
+              "parentId": "root-back-end-development-terraform-tools"
+            },
+            {
+              "id": "root-back-end-development-terraform-tools-syncvey",
+              "title": "SyncVey",
+              "kind": "repo",
+              "repo": "mr-tabata/syncvey",
+              "url": "https://github.com/mr-tabata/syncvey",
+              "description": "Self-hosted AWS asset ledger with attribute-level drift detection between tfstate and live AWS state, scheduled scans, and middleware EOL alerts.",
+              "external": false,
+              "sourceRepo": "shuaibiyy/awesome-terraform",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Terraform",
+                "Tools",
+                "SyncVey"
               ],
               "parentId": "root-back-end-development-terraform-tools"
             },
@@ -63698,6 +63884,32 @@
                 "Terraform",
                 "Tools",
                 "tfmigrator"
+              ],
+              "parentId": "root-back-end-development-terraform-tools"
+            },
+            {
+              "id": "root-back-end-development-terraform-tools-tfmodcache",
+              "title": "tfmodcache",
+              "kind": "repo",
+              "repo": "rezarys/tfmodcache",
+              "url": "https://github.com/rezarys/tfmodcache",
+              "description": "Local, shared module cache for Terraform and OpenTofu; terraform init stops re-downloading modules it already has. I am the author.",
+              "external": false,
+              "sourceRepo": "shuaibiyy/awesome-terraform",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Terraform",
+                "Tools",
+                "tfmodcache"
               ],
               "parentId": "root-back-end-development-terraform-tools"
             },
@@ -68495,7 +68707,7 @@
           "parentId": "root-back-end-development-vapor"
         }
       ],
-      "stars": 1284,
+      "stars": 1283,
       "forks": 66,
       "language": "Ruby",
       "license": "CC0-1.0",
@@ -68506,7 +68718,7 @@
         "swift",
         "vapor"
       ],
-      "updated": "2026-09-04T17:47:11Z",
+      "updated": "2026-09-09T09:51:33Z",
       "pushed": "2023-10-14T17:45:31Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -69267,8 +69479,8 @@
               "sourceRepo": "ucg8j/awesome-dash",
               "depth": 2,
               "children": [],
-              "stars": 48339,
-              "forks": 3837,
+              "stars": 48398,
+              "forks": 3841,
               "language": null,
               "license": "CC0-1.0",
               "topics": [
@@ -69278,7 +69490,7 @@
                 "react-component",
                 "react-components"
               ],
-              "updated": "2026-09-06T04:58:07Z",
+              "updated": "2026-09-13T04:40:59Z",
               "pushed": "2026-01-26T16:36:45Z",
               "awesome": true,
               "path": [
@@ -69299,8 +69511,8 @@
               "sourceRepo": "ucg8j/awesome-dash",
               "depth": 2,
               "children": [],
-              "stars": 74506,
-              "forks": 7629,
+              "stars": 74574,
+              "forks": 7639,
               "language": null,
               "license": null,
               "topics": [
@@ -69315,7 +69527,7 @@
                 "tutorial",
                 "typescript"
               ],
-              "updated": "2026-09-06T06:51:50Z",
+              "updated": "2026-09-13T04:38:09Z",
               "pushed": "2026-09-04T01:13:20Z",
               "awesome": true,
               "path": [
@@ -70672,7 +70884,7 @@
           "parentId": "root-back-end-development-dash"
         }
       ],
-      "stars": 2268,
+      "stars": 2269,
       "forks": 261,
       "language": "Python",
       "license": "CC0-1.0",
@@ -70682,7 +70894,7 @@
         "plotly",
         "python"
       ],
-      "updated": "2026-09-04T10:40:12Z",
+      "updated": "2026-09-12T14:56:42Z",
       "pushed": "2024-12-30T09:48:42Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -76165,14 +76377,14 @@
                   "sourceRepo": "mjhea0/awesome-fastapi",
                   "depth": 3,
                   "children": [],
-                  "stars": 1619,
+                  "stars": 1620,
                   "forks": 141,
                   "language": "TypeScript",
                   "license": null,
                   "topics": [
                     "fastapi"
                   ],
-                  "updated": "2026-09-01T16:26:35Z",
+                  "updated": "2026-09-12T13:05:17Z",
                   "pushed": "2026-09-01T00:45:13Z",
                   "awesome": true,
                   "path": [
@@ -76969,8 +77181,8 @@
           "parentId": "root-back-end-development-fastapi"
         }
       ],
-      "stars": 11640,
-      "forks": 888,
+      "stars": 11658,
+      "forks": 890,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -76979,7 +77191,7 @@
         "fastapi",
         "starlette"
       ],
-      "updated": "2026-09-05T15:34:26Z",
+      "updated": "2026-09-12T23:36:32Z",
       "pushed": "2026-08-24T17:18:28Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -77641,8 +77853,8 @@
               "id": "root-back-end-development-iam-security-cartography",
               "title": "Cartography",
               "kind": "repo",
-              "repo": "lyft/cartography",
-              "url": "https://github.com/lyft/cartography",
+              "repo": "cartography-cncf/cartography",
+              "url": "https://github.com/cartography-cncf/cartography",
               "description": "🆓 A Neo4J-based tool to map out dependencies and relationships between services and resources. Supports AWS, GCP, GSuite, Okta and GitHub.",
               "external": false,
               "sourceRepo": "kdeldycke/awesome-iam",
@@ -78639,8 +78851,8 @@
               "id": "root-back-end-development-iam-password-based-auth-dumb-password-rules",
               "title": "Dumb Password Rules",
               "kind": "repo",
-              "repo": "dumb-password-rules/dumb-password-rules",
-              "url": "https://github.com/dumb-password-rules/dumb-password-rules",
+              "repo": "duffn/dumb-password-rules",
+              "url": "https://github.com/duffn/dumb-password-rules",
               "description": "🆓 Shaming sites with dumb password rules.",
               "external": false,
               "sourceRepo": "kdeldycke/awesome-iam",
@@ -78691,8 +78903,8 @@
               "id": "root-back-end-development-iam-password-based-auth-a-well-known-url-for-changing-passwords",
               "title": "A Well-Known URL for Changing Passwords",
               "kind": "repo",
-              "repo": "wicg/change-password-url",
-              "url": "https://github.com/wicg/change-password-url",
+              "repo": "w3c/webappsec-change-password-url",
+              "url": "https://github.com/w3c/webappsec-change-password-url",
               "description": "🆓 Specification defining site resource for password updates.",
               "external": false,
               "sourceRepo": "kdeldycke/awesome-iam",
@@ -80245,8 +80457,8 @@
                   "id": "root-back-end-development-iam-authorization-rbac-frameworks-athenz",
                   "title": "Athenz",
                   "kind": "repo",
-                  "repo": "yahoo/athenz",
-                  "url": "https://github.com/yahoo/athenz",
+                  "repo": "athenz/athenz",
+                  "url": "https://github.com/athenz/athenz",
                   "description": "🆓 Set of services and libraries supporting service authentication and role-based authorization for provisioning and configuration.",
                   "external": false,
                   "sourceRepo": "kdeldycke/awesome-iam",
@@ -80431,8 +80643,8 @@
                   "id": "root-back-end-development-iam-authorization-abac-frameworks-casbin",
                   "title": "Casbin",
                   "kind": "repo",
-                  "repo": "casbin/casbin",
-                  "url": "https://github.com/casbin/casbin",
+                  "repo": "apache/casbin",
+                  "url": "https://github.com/apache/casbin",
                   "description": "🆓 Open-source access control library for Golang projects.",
                   "external": false,
                   "sourceRepo": "kdeldycke/awesome-iam",
@@ -81058,7 +81270,7 @@
               "sourceRepo": "kdeldycke/awesome-iam",
               "depth": 2,
               "children": [],
-              "stars": 122,
+              "stars": 123,
               "forks": 28,
               "language": "HTML",
               "license": "CC0-1.0",
@@ -81079,7 +81291,7 @@
                 "openidconnect",
                 "security"
               ],
-              "updated": "2026-09-03T20:59:44Z",
+              "updated": "2026-09-08T03:04:25Z",
               "pushed": "2026-09-03T20:56:25Z",
               "awesome": true,
               "path": [
@@ -81379,9 +81591,9 @@
               "id": "root-back-end-development-iam-oauth2-and-openid-casdoor",
               "title": "Casdoor",
               "kind": "repo",
-              "repo": "casbin/casdoor",
-              "url": "https://github.com/casbin/casdoor",
-              "description": "🆓 A UI-first centralized authentication / Single-Sign-On (SSO) platform based. Supports OIDC and OAuth 2, social logins, user management, 2FA based on Email and SMS.",
+              "repo": "casdoor/casdoor",
+              "url": "https://github.com/casdoor/casdoor",
+              "description": "🆓 A UI-first centralized authentication / Single-Sign-On (SSO) platform. Supports OAuth 2, OIDC, SAML 2, CAS, LDAP and SCIM, social logins, user management, WebAuthn and TOTP/MFA.",
               "external": false,
               "sourceRepo": "kdeldycke/awesome-iam",
               "depth": 2,
@@ -81815,8 +82027,8 @@
               "id": "root-back-end-development-iam-secret-management-sops",
               "title": "sops",
               "kind": "repo",
-              "repo": "mozilla/sops",
-              "url": "https://github.com/mozilla/sops",
+              "repo": "getsops/sops",
+              "url": "https://github.com/getsops/sops",
               "description": "🆓 Editor of encrypted files that supports YAML, JSON, ENV, INI and BINARY formats and encrypts with AWS KMS, GCP KMS, Azure Key Vault, age, and PGP.",
               "external": false,
               "sourceRepo": "kdeldycke/awesome-iam",
@@ -81841,8 +82053,8 @@
               "id": "root-back-end-development-iam-secret-management-gitleaks",
               "title": "gitleaks",
               "kind": "repo",
-              "repo": "zricethezav/gitleaks",
-              "url": "https://github.com/zricethezav/gitleaks",
+              "repo": "gitleaks/gitleaks",
+              "url": "https://github.com/gitleaks/gitleaks",
               "description": "🆓 Audit Git repos for secrets.",
               "external": false,
               "sourceRepo": "kdeldycke/awesome-iam",
@@ -82134,7 +82346,7 @@
               "sourceRepo": "kdeldycke/awesome-iam",
               "depth": 2,
               "children": [],
-              "stars": 1336,
+              "stars": 1341,
               "forks": 105,
               "language": null,
               "license": "CC0-1.0",
@@ -82160,8 +82372,8 @@
                 "usage-based-billing",
                 "vat"
               ],
-              "updated": "2026-09-04T13:18:57Z",
-              "pushed": "2026-08-14T13:46:25Z",
+              "updated": "2026-09-10T14:46:09Z",
+              "pushed": "2026-09-08T07:14:22Z",
               "awesome": true,
               "path": [
                 "IAM",
@@ -82449,8 +82661,8 @@
                   "id": "root-back-end-development-iam-trust-and-safety-fraud-midas-detecting-microcluster-anomalies-in-edge-streams",
                   "title": "MIDAS: Detecting Microcluster Anomalies in Edge Streams",
                   "kind": "repo",
-                  "repo": "bhatiasiddharth/midas",
-                  "url": "https://github.com/bhatiasiddharth/midas",
+                  "repo": "stream-ad/midas",
+                  "url": "https://github.com/stream-ad/midas",
                   "description": "🆓 A proposed method to “detects microcluster anomalies, or suddenly arriving groups of suspiciously similar edges, in edge streams, using constant time and memory.”",
                   "external": false,
                   "sourceRepo": "kdeldycke/awesome-iam",
@@ -82666,8 +82878,8 @@
                   "sourceRepo": "kdeldycke/awesome-iam",
                   "depth": 3,
                   "children": [],
-                  "stars": 10606,
-                  "forks": 1824,
+                  "stars": 10624,
+                  "forks": 1828,
                   "language": null,
                   "license": "Apache-2.0",
                   "topics": [
@@ -82676,7 +82888,7 @@
                     "hacktoberfest",
                     "security"
                   ],
-                  "updated": "2026-09-06T04:19:54Z",
+                  "updated": "2026-09-13T01:35:12Z",
                   "pushed": "2026-05-31T10:54:05Z",
                   "awesome": true,
                   "path": [
@@ -83019,7 +83231,7 @@
                   "sourceRepo": "kdeldycke/awesome-iam",
                   "depth": 3,
                   "children": [],
-                  "stars": 1420,
+                  "stars": 1423,
                   "forks": 128,
                   "language": "JavaScript",
                   "license": "MIT",
@@ -83037,8 +83249,8 @@
                     "crack-captcha",
                     "image-captcha"
                   ],
-                  "updated": "2026-09-01T12:45:52Z",
-                  "pushed": "2026-04-17T22:10:48Z",
+                  "updated": "2026-09-10T03:22:22Z",
+                  "pushed": "2026-09-10T23:34:45Z",
                   "awesome": true,
                   "path": [
                     "IAM",
@@ -84022,8 +84234,8 @@
                   "id": "root-back-end-development-iam-privacy-anonymization-presidio",
                   "title": "Presidio",
                   "kind": "repo",
-                  "repo": "microsoft/presidio",
-                  "url": "https://github.com/microsoft/presidio",
+                  "repo": "data-privacy-stack/presidio",
+                  "url": "https://github.com/data-privacy-stack/presidio",
                   "description": "🆓 Context aware, pluggable and customizable data protection and PII data anonymization service for text and images.",
                   "external": false,
                   "sourceRepo": "kdeldycke/awesome-iam",
@@ -84686,8 +84898,8 @@
               "id": "root-back-end-development-iam-competitive-analysis-google-cloud-developer-s-cheat-sheet",
               "title": "Google Cloud Developer's Cheat Sheet",
               "kind": "repo",
-              "repo": "gregsramblings/google-cloud-4-words",
-              "url": "https://github.com/gregsramblings/google-cloud-4-words",
+              "repo": "priyankavergadia/google-cloud-4-words",
+              "url": "https://github.com/priyankavergadia/google-cloud-4-words",
               "description": "Describe all GCP products in 4 words or less.",
               "external": false,
               "sourceRepo": "kdeldycke/awesome-iam",
@@ -84773,8 +84985,8 @@
           "parentId": "root-back-end-development-iam"
         }
       ],
-      "stars": 2267,
-      "forks": 189,
+      "stars": 2271,
+      "forks": 191,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -84799,8 +85011,8 @@
         "webauthn",
         "zero-trust"
       ],
-      "updated": "2026-09-05T13:26:39Z",
-      "pushed": "2026-08-14T14:15:27Z",
+      "updated": "2026-09-11T19:10:33Z",
+      "pushed": "2026-09-07T20:15:36Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -89960,7 +90172,7 @@
           "parentId": "root-back-end-development-fiber"
         }
       ],
-      "stars": 837,
+      "stars": 839,
       "forks": 59,
       "language": null,
       "license": "MIT",
@@ -89972,7 +90184,7 @@
         "middleware",
         "recipes"
       ],
-      "updated": "2026-09-01T16:01:15Z",
+      "updated": "2026-09-10T05:52:06Z",
       "pushed": "2026-08-15T14:54:58Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -90993,8 +91205,8 @@
               "sourceRepo": "devopshivehq/awesome-kustomize",
               "depth": 2,
               "children": [],
-              "stars": 16070,
-              "forks": 2487,
+              "stars": 16073,
+              "forks": 2491,
               "language": "Shell",
               "license": "NOASSERTION",
               "topics": [
@@ -91017,7 +91229,7 @@
                 "resource",
                 "schedule"
               ],
-              "updated": "2026-09-06T04:54:14Z",
+              "updated": "2026-09-11T09:06:14Z",
               "pushed": "2026-09-03T13:33:39Z",
               "awesome": true,
               "path": [
@@ -91048,7 +91260,7 @@
                 "kubectl-plugins",
                 "kubernetes"
               ],
-              "updated": "2026-08-11T21:21:01Z",
+              "updated": "2026-09-07T07:07:08Z",
               "pushed": "2026-08-11T21:20:57Z",
               "awesome": true,
               "path": [
@@ -91069,7 +91281,7 @@
               "sourceRepo": "devopshivehq/awesome-kustomize",
               "depth": 2,
               "children": [],
-              "stars": 1112,
+              "stars": 1113,
               "forks": 119,
               "language": null,
               "license": "NOASSERTION",
@@ -91081,7 +91293,7 @@
                 "k8s",
                 "kuberenetes"
               ],
-              "updated": "2026-08-31T19:07:04Z",
+              "updated": "2026-09-07T23:30:44Z",
               "pushed": "2026-05-16T21:05:30Z",
               "awesome": true,
               "path": [
@@ -92379,6 +92591,33 @@
                     "Tools",
                     "CI",
                     "drifthound"
+                  ],
+                  "parentId": "root-back-end-development-opentofu-tools-ci"
+                },
+                {
+                  "id": "root-back-end-development-opentofu-tools-ci-opentofu-updater-action",
+                  "title": "opentofu-updater-action",
+                  "kind": "repo",
+                  "repo": "drumandbytes/opentofu-updater-action",
+                  "url": "https://github.com/drumandbytes/opentofu-updater-action",
+                  "description": "Keeps OpenTofu and Terraform providers, modules, Helm charts and container images up to date by opening pull requests.",
+                  "external": false,
+                  "sourceRepo": "virtualroot/awesome-opentofu",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "OpenTofu",
+                    "Tools",
+                    "CI",
+                    "opentofu-updater-action"
                   ],
                   "parentId": "root-back-end-development-opentofu-tools-ci"
                 },
@@ -94131,8 +94370,8 @@
         "opentofu",
         "tofu"
       ],
-      "updated": "2026-08-20T06:47:05Z",
-      "pushed": "2026-08-03T06:32:52Z",
+      "updated": "2026-09-08T06:21:47Z",
+      "pushed": "2026-09-08T06:21:11Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [

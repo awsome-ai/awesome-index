@@ -3677,6 +3677,34 @@
                         "Unknown Horizons"
                       ],
                       "parentId": "root-gaming-godot-games-2d-godot-4"
+                    },
+                    {
+                      "id": "root-gaming-godot-games-2d-godot-4-worlds-upon-the-wind",
+                      "title": "Worlds Upon The Wind",
+                      "kind": "repo",
+                      "repo": "max99x/wutw-public",
+                      "url": "https://github.com/max99x/wutw-public",
+                      "description": "A commercial roguelite deckbuilder released as public domain.",
+                      "external": false,
+                      "sourceRepo": "godotengine/awesome-godot",
+                      "depth": 4,
+                      "children": [],
+                      "stars": 0,
+                      "forks": 0,
+                      "language": null,
+                      "license": null,
+                      "topics": [],
+                      "updated": null,
+                      "pushed": null,
+                      "awesome": false,
+                      "path": [
+                        "Godot",
+                        "Games",
+                        "2D",
+                        "Godot 4",
+                        "Worlds Upon The Wind"
+                      ],
+                      "parentId": "root-gaming-godot-games-2d-godot-4"
                     }
                   ],
                   "stars": 0,
@@ -13504,12 +13532,12 @@
               "sourceRepo": "godotengine/awesome-godot",
               "depth": 2,
               "children": [],
-              "stars": 34,
+              "stars": 35,
               "forks": 3,
               "language": null,
               "license": "CC0-1.0",
               "topics": [],
-              "updated": "2026-07-16T07:00:50Z",
+              "updated": "2026-09-07T18:34:38Z",
               "pushed": "2025-02-21T00:00:53Z",
               "awesome": true,
               "path": [
@@ -20816,12 +20844,12 @@
                   "parentId": "root-gaming-open-source-games-native-sandbox"
                 },
                 {
-                  "id": "root-gaming-open-source-games-native-sandbox-minetest",
-                  "title": "Minetest",
+                  "id": "root-gaming-open-source-games-native-sandbox-luanti",
+                  "title": "Luanti",
                   "kind": "repo",
-                  "repo": "minetest/minetest",
-                  "url": "https://github.com/minetest/minetest",
-                  "description": "Infinite-world block sandbox game with survival and crafting.",
+                  "repo": "luanti-org/luanti",
+                  "url": "https://github.com/luanti-org/luanti",
+                  "description": "Open-source voxel game engine and platform. Formerly called Minetest.",
                   "external": false,
                   "sourceRepo": "michelpereira/awesome-open-source-games",
                   "depth": 3,
@@ -20838,7 +20866,7 @@
                     "Open Source Games",
                     "Native",
                     "Sandbox",
-                    "Minetest"
+                    "Luanti"
                   ],
                   "parentId": "root-gaming-open-source-games-native-sandbox"
                 },
@@ -25788,8 +25816,8 @@
           "parentId": "root-gaming-open-source-games"
         }
       ],
-      "stars": 3053,
-      "forks": 265,
+      "stars": 3094,
+      "forks": 271,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -25798,8 +25826,8 @@
         "games",
         "opensource"
       ],
-      "updated": "2026-09-05T11:02:57Z",
-      "pushed": "2026-08-14T16:33:49Z",
+      "updated": "2026-09-13T05:56:31Z",
+      "pushed": "2026-09-08T20:38:50Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -25818,12 +25846,12 @@
       "sourceRepo": "sindresorhus/awesome",
       "depth": 1,
       "children": [],
-      "stars": 530,
+      "stars": 533,
       "forks": 46,
       "language": null,
       "license": "CC0-1.0",
       "topics": [],
-      "updated": "2026-09-04T07:53:47Z",
+      "updated": "2026-09-11T00:46:01Z",
       "pushed": "2020-11-20T11:48:24Z",
       "awesome": true,
       "readmeStatus": "empty",
@@ -26438,8 +26466,8 @@
           "parentId": "root-gaming-l-ve"
         }
       ],
-      "stars": 4489,
-      "forks": 243,
+      "stars": 4494,
+      "forks": 246,
       "language": "PowerShell",
       "license": "CC0-1.0",
       "topics": [
@@ -26449,7 +26477,7 @@
         "love2d",
         "lua"
       ],
-      "updated": "2026-09-06T06:26:40Z",
+      "updated": "2026-09-12T23:50:17Z",
       "pushed": "2026-08-23T19:12:18Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -29266,7 +29294,7 @@
           "parentId": "root-gaming-pico-8"
         }
       ],
-      "stars": 3070,
+      "stars": 3072,
       "forks": 103,
       "language": null,
       "license": "CC0-1.0",
@@ -29285,7 +29313,7 @@
         "pico-8",
         "pico8"
       ],
-      "updated": "2026-08-26T10:41:50Z",
+      "updated": "2026-09-12T23:50:18Z",
       "pushed": "2026-07-28T13:25:56Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -40400,8 +40428,8 @@
           "parentId": "root-gaming-game-boy-development"
         }
       ],
-      "stars": 4497,
-      "forks": 193,
+      "stars": 4502,
+      "forks": 195,
       "language": null,
       "license": "NOASSERTION",
       "topics": [
@@ -40425,7 +40453,7 @@
         "retrogaming",
         "tools"
       ],
-      "updated": "2026-09-05T09:38:09Z",
+      "updated": "2026-09-11T15:49:44Z",
       "pushed": "2026-07-22T19:03:27Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -45154,12 +45182,12 @@
               "sourceRepo": "stetso/awesome-gideros",
               "depth": 2,
               "children": [],
-              "stars": 4567,
+              "stars": 4570,
               "forks": 345,
               "language": null,
               "license": null,
               "topics": [],
-              "updated": "2026-09-05T20:22:47Z",
+              "updated": "2026-09-12T17:11:57Z",
               "pushed": "2024-08-11T17:32:00Z",
               "awesome": true,
               "path": [
@@ -45180,8 +45208,8 @@
               "sourceRepo": "stetso/awesome-gideros",
               "depth": 2,
               "children": [],
-              "stars": 4489,
-              "forks": 243,
+              "stars": 4494,
+              "forks": 246,
               "language": "PowerShell",
               "license": "CC0-1.0",
               "topics": [
@@ -45191,7 +45219,7 @@
                 "love2d",
                 "lua"
               ],
-              "updated": "2026-09-06T06:26:40Z",
+              "updated": "2026-09-12T23:50:17Z",
               "pushed": "2026-08-23T19:12:18Z",
               "awesome": true,
               "path": [
@@ -45212,12 +45240,12 @@
               "sourceRepo": "stetso/awesome-gideros",
               "depth": 2,
               "children": [],
-              "stars": 28,
+              "stars": 27,
               "forks": 0,
               "language": null,
               "license": "CC-BY-SA-4.0",
               "topics": [],
-              "updated": "2026-06-20T22:26:03Z",
+              "updated": "2026-09-12T07:08:47Z",
               "pushed": "2020-04-16T19:46:19Z",
               "awesome": true,
               "path": [
@@ -49594,7 +49622,7 @@
           "parentId": "root-gaming-minecraft"
         }
       ],
-      "stars": 644,
+      "stars": 643,
       "forks": 48,
       "language": null,
       "license": "CC0-1.0",
@@ -49603,7 +49631,7 @@
         "awesome-list",
         "minecraft"
       ],
-      "updated": "2026-08-26T06:53:26Z",
+      "updated": "2026-09-06T10:01:38Z",
       "pushed": "2025-08-23T13:16:01Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -53373,12 +53401,12 @@
                   "sourceRepo": "tomodachi94/awesome-computercraft",
                   "depth": 3,
                   "children": [],
-                  "stars": 4567,
+                  "stars": 4570,
                   "forks": 345,
                   "language": null,
                   "license": null,
                   "topics": [],
-                  "updated": "2026-09-05T20:22:47Z",
+                  "updated": "2026-09-12T17:11:57Z",
                   "pushed": "2024-08-11T17:32:00Z",
                   "awesome": true,
                   "path": [
@@ -53432,8 +53460,8 @@
                   "language": null,
                   "license": null,
                   "topics": [],
-                  "updated": "2026-08-28T13:20:08Z",
-                  "pushed": "2026-08-19T19:07:39Z",
+                  "updated": "2026-09-11T12:51:41Z",
+                  "pushed": "2026-09-11T12:51:36Z",
                   "awesome": true,
                   "path": [
                     "ComputerCraft",
@@ -53681,7 +53709,7 @@
           "parentId": "root-gaming-computercraft"
         }
       ],
-      "stars": 319,
+      "stars": 318,
       "forks": 18,
       "language": "Just",
       "license": "CC-BY-SA-4.0",
@@ -53692,7 +53720,7 @@
         "computercraft-tweaked",
         "minecraft"
       ],
-      "updated": "2026-09-03T13:27:05Z",
+      "updated": "2026-09-10T07:05:34Z",
       "pushed": "2026-09-01T13:40:39Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -53712,7 +53740,7 @@
       "sourceRepo": "sindresorhus/awesome",
       "depth": 1,
       "children": [],
-      "stars": 1112,
+      "stars": 1120,
       "forks": 85,
       "language": null,
       "license": "CC-BY-4.0",
@@ -53727,8 +53755,8 @@
         "game",
         "games"
       ],
-      "updated": "2026-09-01T18:29:48Z",
-      "pushed": "2026-08-08T01:57:45Z",
+      "updated": "2026-09-11T09:10:18Z",
+      "pushed": "2026-09-10T20:37:38Z",
       "awesome": false,
       "path": [
         "Game Datasets"
@@ -57233,15 +57261,15 @@
               "sourceRepo": "rafaskb/awesome-libgdx",
               "depth": 2,
               "children": [],
-              "stars": 48936,
-              "forks": 7711,
+              "stars": 48999,
+              "forks": 7715,
               "language": null,
               "license": "CC-BY-SA-4.0",
               "topics": [
                 "awesome",
                 "awesome-list"
               ],
-              "updated": "2026-09-06T05:49:04Z",
+              "updated": "2026-09-13T04:38:45Z",
               "pushed": "2026-08-24T00:59:50Z",
               "awesome": true,
               "path": [
@@ -57340,8 +57368,8 @@
               "sourceRepo": "rafaskb/awesome-libgdx",
               "depth": 2,
               "children": [],
-              "stars": 3123,
-              "forks": 202,
+              "stars": 3131,
+              "forks": 204,
               "language": null,
               "license": "CC-BY-SA-4.0",
               "topics": [
@@ -57351,7 +57379,7 @@
                 "game-development",
                 "game-programming"
               ],
-              "updated": "2026-09-06T01:37:38Z",
+              "updated": "2026-09-12T18:10:01Z",
               "pushed": "2026-08-25T18:12:52Z",
               "awesome": true,
               "path": [
@@ -57377,7 +57405,7 @@
           "parentId": "root-gaming-libgdx"
         }
       ],
-      "stars": 1271,
+      "stars": 1274,
       "forks": 84,
       "language": null,
       "license": "CC0-1.0",
@@ -57386,7 +57414,7 @@
         "awesome-list",
         "libgdx"
       ],
-      "updated": "2026-08-30T09:14:00Z",
+      "updated": "2026-09-12T04:48:34Z",
       "pushed": "2024-12-03T21:43:58Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -58283,6 +58311,32 @@
                 "PlayCanvas",
                 "Extensions and Utilities",
                 "playcanvas-node"
+              ],
+              "parentId": "root-gaming-playcanvas-extensions-and-utilities"
+            },
+            {
+              "id": "root-gaming-playcanvas-extensions-and-utilities-playcanvas-opti-pixel",
+              "title": "playcanvas-opti-pixel",
+              "kind": "repo",
+              "repo": "alexappi/playcanvas-opti-pixel",
+              "url": "https://github.com/alexappi/playcanvas-opti-pixel",
+              "description": "GPU instancing, LOD, BVH frustum culling, and occlusion culling.",
+              "external": false,
+              "sourceRepo": "playcanvas/awesome-playcanvas",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "PlayCanvas",
+                "Extensions and Utilities",
+                "playcanvas-opti-pixel"
               ],
               "parentId": "root-gaming-playcanvas-extensions-and-utilities"
             },
@@ -63722,8 +63776,8 @@
           "parentId": "root-gaming-playcanvas"
         }
       ],
-      "stars": 485,
-      "forks": 61,
+      "stars": 486,
+      "forks": 63,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -63732,8 +63786,8 @@
         "playcanvas",
         "webgl"
       ],
-      "updated": "2026-09-05T03:13:22Z",
-      "pushed": "2026-09-04T14:25:03Z",
+      "updated": "2026-09-11T08:29:19Z",
+      "pushed": "2026-09-06T10:05:03Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -68422,6 +68476,32 @@
                 "Game Remakes",
                 "RPG",
                 "GemRB"
+              ],
+              "parentId": "root-gaming-game-remakes-rpg"
+            },
+            {
+              "id": "root-gaming-game-remakes-rpg-jminequest",
+              "title": "jminequest)",
+              "kind": "topic",
+              "repo": "",
+              "url": "",
+              "description": "A Java reimplementation of the 2014 mobile game Mine Quest by Tapps Tecnologia da Informacao Ltda",
+              "external": false,
+              "sourceRepo": "radek-sprta/awesome-game-remakes",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Game Remakes",
+                "RPG",
+                "jminequest)"
               ],
               "parentId": "root-gaming-game-remakes-rpg"
             },
@@ -73395,7 +73475,7 @@
           "parentId": "root-gaming-game-remakes"
         }
       ],
-      "stars": 1449,
+      "stars": 1457,
       "forks": 69,
       "language": null,
       "license": "CC-BY-SA-4.0",
@@ -73407,8 +73487,8 @@
         "games",
         "remake"
       ],
-      "updated": "2026-09-05T07:21:46Z",
-      "pushed": "2026-08-17T20:54:38Z",
+      "updated": "2026-09-12T17:33:55Z",
+      "pushed": "2026-09-08T04:09:59Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -77093,8 +77173,8 @@
               "sourceRepo": "flame-engine/awesome-flame",
               "depth": 2,
               "children": [],
-              "stars": 1381,
-              "forks": 117,
+              "stars": 1383,
+              "forks": 116,
               "language": null,
               "license": "CC0-1.0",
               "topics": [
@@ -77107,7 +77187,7 @@
                 "lists",
                 "resources"
               ],
-              "updated": "2026-09-03T02:10:55Z",
+              "updated": "2026-09-11T12:23:26Z",
               "pushed": "2026-08-31T14:45:55Z",
               "awesome": true,
               "path": [
@@ -77128,8 +77208,8 @@
               "sourceRepo": "flame-engine/awesome-flame",
               "depth": 2,
               "children": [],
-              "stars": 1381,
-              "forks": 117,
+              "stars": 1383,
+              "forks": 116,
               "language": null,
               "license": "CC0-1.0",
               "topics": [
@@ -77142,7 +77222,7 @@
                 "lists",
                 "resources"
               ],
-              "updated": "2026-09-03T02:10:55Z",
+              "updated": "2026-09-11T12:23:26Z",
               "pushed": "2026-08-31T14:45:55Z",
               "awesome": true,
               "path": [
@@ -77168,8 +77248,8 @@
           "parentId": "root-gaming-flame"
         }
       ],
-      "stars": 1381,
-      "forks": 117,
+      "stars": 1383,
+      "forks": 116,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -77182,7 +77262,7 @@
         "lists",
         "resources"
       ],
-      "updated": "2026-09-03T02:10:55Z",
+      "updated": "2026-09-11T12:23:26Z",
       "pushed": "2026-08-31T14:45:55Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -79206,7 +79286,7 @@
           "parentId": "root-gaming-discord-communities"
         }
       ],
-      "stars": 3587,
+      "stars": 3592,
       "forks": 213,
       "language": "Python",
       "license": "CC-BY-4.0",
@@ -79220,7 +79300,7 @@
         "game-development",
         "web"
       ],
-      "updated": "2026-09-05T23:03:55Z",
+      "updated": "2026-09-12T05:42:31Z",
       "pushed": "2026-04-25T19:09:39Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -80802,7 +80882,7 @@
           "parentId": "root-gaming-games-of-coding"
         }
       ],
-      "stars": 2151,
+      "stars": 2153,
       "forks": 106,
       "language": null,
       "license": "CC0-1.0",
@@ -80814,7 +80894,7 @@
         "programming-language",
         "robocode"
       ],
-      "updated": "2026-09-04T13:21:06Z",
+      "updated": "2026-09-13T06:36:11Z",
       "pushed": "2026-03-25T03:16:25Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -118103,7 +118183,7 @@
         }
       ],
       "stars": 1406,
-      "forks": 108,
+      "forks": 109,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -128612,7 +128692,7 @@
           "parentId": "root-gaming-gamemaker"
         }
       ],
-      "stars": 503,
+      "stars": 504,
       "forks": 36,
       "language": null,
       "license": "CC0-1.0",
@@ -128626,7 +128706,7 @@
         "gamemaker-studio-2",
         "games"
       ],
-      "updated": "2026-09-04T23:06:48Z",
+      "updated": "2026-09-12T18:47:00Z",
       "pushed": "2026-08-23T01:15:09Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -131415,7 +131495,7 @@
           "parentId": "root-gaming-game-production"
         }
       ],
-      "stars": 220,
+      "stars": 221,
       "forks": 9,
       "language": null,
       "license": "CC0-1.0",
@@ -131427,7 +131507,7 @@
         "production",
         "project-management"
       ],
-      "updated": "2026-08-23T08:28:22Z",
+      "updated": "2026-09-12T21:27:04Z",
       "pushed": "2026-05-04T10:46:17Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -139587,7 +139667,7 @@
           "parentId": "root-gaming-babylon-js"
         }
       ],
-      "stars": 358,
+      "stars": 357,
       "forks": 26,
       "language": null,
       "license": "CC0-1.0",
@@ -139599,7 +139679,7 @@
         "webgl",
         "webgpu"
       ],
-      "updated": "2026-09-04T16:44:32Z",
+      "updated": "2026-09-07T12:22:24Z",
       "pushed": "2026-01-22T03:03:14Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -142089,7 +142169,7 @@
           "parentId": "root-gaming-roblox"
         }
       ],
-      "stars": 78,
+      "stars": 79,
       "forks": 8,
       "language": null,
       "license": "CC0-1.0",
@@ -142101,7 +142181,7 @@
         "luau",
         "roblox"
       ],
-      "updated": "2026-09-01T14:03:35Z",
+      "updated": "2026-09-07T11:10:56Z",
       "pushed": "2026-06-23T00:32:39Z",
       "awesome": true,
       "readmeStatus": "expanded",

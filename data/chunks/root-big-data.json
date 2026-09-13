@@ -1021,8 +1021,8 @@
       "sourceRepo": "sindresorhus/awesome",
       "depth": 1,
       "children": [],
-      "stars": 78823,
-      "forks": 11833,
+      "stars": 78930,
+      "forks": 11838,
       "language": null,
       "license": "MIT",
       "topics": [
@@ -1031,8 +1031,8 @@
         "datasets",
         "opendata"
       ],
-      "updated": "2026-09-06T06:53:22Z",
-      "pushed": "2026-09-03T21:42:22Z",
+      "updated": "2026-09-13T06:10:43Z",
+      "pushed": "2026-09-11T20:06:55Z",
       "awesome": true,
       "readmeStatus": "empty",
       "path": [
@@ -3534,6 +3534,60 @@
                     "zvec"
                   ],
                   "parentId": "root-big-data-data-engineering-databases-other"
+                },
+                {
+                  "id": "root-big-data-data-engineering-databases-other-reductstore",
+                  "title": "ReductStore",
+                  "kind": "repo",
+                  "repo": "reductstore/reductstore",
+                  "url": "https://github.com/reductstore/reductstore",
+                  "description": "High-performance blob and time-series storage, with edge deployment, selective replication, and efficient querying of multimodal data.",
+                  "external": false,
+                  "sourceRepo": "igorbarinov/awesome-data-engineering",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Data Engineering",
+                    "Databases",
+                    "Other",
+                    "ReductStore"
+                  ],
+                  "parentId": "root-big-data-data-engineering-databases-other"
+                },
+                {
+                  "id": "root-big-data-data-engineering-databases-other-manticore-search",
+                  "title": "Manticore Search",
+                  "kind": "repo",
+                  "repo": "manticoresoftware/manticoresearch",
+                  "url": "https://github.com/manticoresoftware/manticoresearch",
+                  "description": "An open-source search database for full-text, vector, and hybrid search with real-time indexing and SQL.",
+                  "external": false,
+                  "sourceRepo": "igorbarinov/awesome-data-engineering",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Data Engineering",
+                    "Databases",
+                    "Other",
+                    "Manticore Search"
+                  ],
+                  "parentId": "root-big-data-data-engineering-databases-other"
                 }
               ],
               "stars": 0,
@@ -4499,7 +4553,7 @@
               "kind": "link",
               "repo": "",
               "url": "https://streams.dbconvert.com",
-              "description": "self-hosted database migration and change data capture (CDC) tool with built-in SQL IDE.",
+              "description": "Self-hosted database migration and change data capture (CDC) tool with built-in SQL IDE.",
               "external": true,
               "sourceRepo": "igorbarinov/awesome-data-engineering",
               "depth": 2,
@@ -5021,7 +5075,7 @@
               "kind": "repo",
               "repo": "mirlan-irokez/rawbbit",
               "url": "https://github.com/mirlan-irokez/rawbbit",
-              "description": "Open-source self-hosted analytics pipeline that lands raw events as Parquet in your own object storage. Uses NATS JetStream for durable buffering and BigQuery external tables for querying. Designed for teams that want to own their raw event data.",
+              "description": "Open-source self-hosted game analytics pipeline. HTTP event collector with NATS JetStream buffering, raw Parquet in object storage you own, and ClickHouse for queries via Metabase, SQL, or a read-only MCP server for AI agents. Designed for teams that want to own their raw game data.",
               "external": false,
               "sourceRepo": "igorbarinov/awesome-data-engineering",
               "depth": 2,
@@ -5064,6 +5118,58 @@
                 "Data Engineering",
                 "Data Ingestion",
                 "faucet-stream"
+              ],
+              "parentId": "root-big-data-data-engineering-data-ingestion"
+            },
+            {
+              "id": "root-big-data-data-engineering-data-ingestion-jitsu",
+              "title": "Jitsu",
+              "kind": "repo",
+              "repo": "jitsucom/jitsu",
+              "url": "https://github.com/jitsucom/jitsu",
+              "description": "An open-source Customer Data Platform. Captures event data from websites, apps, and servers and streams it into ClickHouse, Snowflake, BigQuery, Redshift, Postgres, and MySQL in real time.",
+              "external": false,
+              "sourceRepo": "igorbarinov/awesome-data-engineering",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Data Engineering",
+                "Data Ingestion",
+                "Jitsu"
+              ],
+              "parentId": "root-big-data-data-engineering-data-ingestion"
+            },
+            {
+              "id": "root-big-data-data-engineering-data-ingestion-scriptella-etl",
+              "title": "Scriptella ETL",
+              "kind": "repo",
+              "repo": "scriptella/scriptella-etl",
+              "url": "https://github.com/scriptella/scriptella-etl",
+              "description": "Open-source, Java-based ETL and script execution tool for transferring and transforming data between databases, files, and other sources.",
+              "external": false,
+              "sourceRepo": "igorbarinov/awesome-data-engineering",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Data Engineering",
+                "Data Ingestion",
+                "Scriptella ETL"
               ],
               "parentId": "root-big-data-data-engineering-data-ingestion"
             }
@@ -7581,6 +7687,32 @@
                 "LunaPad"
               ],
               "parentId": "root-big-data-data-engineering-charts-and-dashboards"
+            },
+            {
+              "id": "root-big-data-data-engineering-charts-and-dashboards-flexviz",
+              "title": "FlexViz",
+              "kind": "repo",
+              "repo": "flex-analytics/flexviz",
+              "url": "https://github.com/flex-analytics/flexviz",
+              "description": "Open-source Python library for interactive cross-filter dashboards on large datasets. Zoom, pan, and selection are answered by lazy Polars aggregations on a stateless server instead of sending rows to the browser.",
+              "external": false,
+              "sourceRepo": "igorbarinov/awesome-data-engineering",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Data Engineering",
+                "Charts and Dashboards",
+                "FlexViz"
+              ],
+              "parentId": "root-big-data-data-engineering-charts-and-dashboards"
             }
           ],
           "stars": 0,
@@ -8959,7 +9091,7 @@
                   "kind": "link",
                   "repo": "",
                   "url": "https://api.dexpaprika.com",
-                  "description": "Free real-time DEX data via SSE streaming across 34 blockchains. 30M+ pools, 27M+ tokens, 1 second price updates. No API key, no rate limits. Docs",
+                  "description": "DEX data via SSE streaming across 36 blockchains. 36M+ pools, 33M+ tokens. Metered free tier, no API key required, data delayed up to 15s; real-time on the paid tier. Docs",
                   "external": true,
                   "sourceRepo": "igorbarinov/awesome-data-engineering",
                   "depth": 3,
@@ -10062,6 +10194,32 @@
                 "Fixzi"
               ],
               "parentId": "root-big-data-data-engineering-testing"
+            },
+            {
+              "id": "root-big-data-data-engineering-testing-dbmask",
+              "title": "dbmask",
+              "kind": "repo",
+              "repo": "sealandseacat/dbmask",
+              "url": "https://github.com/sealandseacat/dbmask",
+              "description": "Open-source tool that scans SQL databases for sensitive columns, masks them with deterministic fakes, and validates the masked copy row by row against the original.",
+              "external": false,
+              "sourceRepo": "igorbarinov/awesome-data-engineering",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Data Engineering",
+                "Testing",
+                "dbmask"
+              ],
+              "parentId": "root-big-data-data-engineering-testing"
             }
           ],
           "stars": 0,
@@ -10603,16 +10761,16 @@
           "parentId": "root-big-data-data-engineering"
         }
       ],
-      "stars": 9022,
-      "forks": 1609,
+      "stars": 9048,
+      "forks": 1612,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
         "awesome",
         "awesome-list"
       ],
-      "updated": "2026-09-06T05:47:58Z",
-      "pushed": "2026-07-18T15:19:21Z",
+      "updated": "2026-09-13T07:00:39Z",
+      "pushed": "2026-09-07T13:29:54Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -14216,7 +14374,7 @@
           "parentId": "root-big-data-streaming"
         }
       ],
-      "stars": 3013,
+      "stars": 3016,
       "forks": 324,
       "language": "JavaScript",
       "license": null,
@@ -14226,8 +14384,8 @@
         "list",
         "stream-processing"
       ],
-      "updated": "2026-09-03T12:56:38Z",
-      "pushed": "2026-09-05T20:02:40Z",
+      "updated": "2026-09-11T19:16:03Z",
+      "pushed": "2026-09-12T20:18:04Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -15077,8 +15235,8 @@
           "parentId": "root-big-data-apache-spark"
         }
       ],
-      "stars": 1893,
-      "forks": 345,
+      "stars": 1895,
+      "forks": 346,
       "language": "Shell",
       "license": "CC0-1.0",
       "topics": [
@@ -15087,7 +15245,7 @@
         "pyspark",
         "sparkr"
       ],
-      "updated": "2026-08-28T08:53:24Z",
+      "updated": "2026-09-09T21:57:58Z",
       "pushed": "2026-02-27T08:06:58Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -16074,7 +16232,7 @@
         }
       ],
       "stars": 78,
-      "forks": 8,
+      "forks": 7,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -35181,7 +35339,7 @@
               "sourceRepo": "briatte/awesome-network-analysis",
               "depth": 2,
               "children": [],
-              "stars": 2449,
+              "stars": 2450,
               "forks": 357,
               "language": "Python",
               "license": "CC0-1.0",
@@ -35207,7 +35365,7 @@
                 "social-network",
                 "unsupervised-learning"
               ],
-              "updated": "2026-08-31T22:54:11Z",
+              "updated": "2026-09-12T15:14:01Z",
               "pushed": "2025-12-20T17:06:00Z",
               "awesome": true,
               "path": [
@@ -38401,7 +38559,7 @@
           "parentId": "root-big-data-network-analysis"
         }
       ],
-      "stars": 4108,
+      "stars": 4111,
       "forks": 639,
       "language": "R",
       "license": null,
@@ -38422,7 +38580,7 @@
         "social-network-analysis",
         "social-networks"
       ],
-      "updated": "2026-09-04T17:56:23Z",
+      "updated": "2026-09-12T02:25:44Z",
       "pushed": "2026-08-20T13:22:11Z",
       "awesome": true,
       "readmeStatus": "expanded",

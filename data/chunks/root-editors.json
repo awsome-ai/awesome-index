@@ -76,11 +76,11 @@
             {
               "id": "root-editors-neovim-plugin-manager-alyxshang-nuwa-nvim",
               "title": "alyxshang/nuwa.nvim",
-              "kind": "link",
-              "repo": "",
-              "url": "https://source.alyxshang.boo/alyxshang/nuwa.nvim",
+              "kind": "repo",
+              "repo": "alyxshang/nuwa.nvim",
+              "url": "https://github.com/alyxshang/nuwa.nvim",
               "description": "A light package manager.",
-              "external": true,
+              "external": false,
               "sourceRepo": "rockerboo/awesome-neovim",
               "depth": 2,
               "children": [],
@@ -3350,6 +3350,60 @@
           "depth": 1,
           "url": "https://github.com/rockerboo/awesome-neovim#ai",
           "children": [
+            {
+              "id": "root-editors-neovim-ai-coder-claudecode-nvim",
+              "title": "coder/claudecode.nvim",
+              "kind": "repo",
+              "repo": "coder/claudecode.nvim",
+              "url": "https://github.com/coder/claudecode.nvim",
+              "description": "Claude Code integration using the WebSocket-based MCP protocol, with selection and diagnostics context sharing plus inline diffs.",
+              "external": false,
+              "sourceRepo": "rockerboo/awesome-neovim",
+              "depth": 2,
+              "children": [
+                {
+                  "id": "root-editors-neovim-ai-coder-claudecode-nvim-hebercosfer-floating-claude-nvim",
+                  "title": "hebercosfer/floating-claude.nvim",
+                  "kind": "repo",
+                  "repo": "hebercosfer/floating-claude.nvim",
+                  "url": "https://github.com/hebercosfer/floating-claude.nvim",
+                  "description": "Floating terminal provider for claudecode.nvim that collapses into a corner notification while Claude edits and returns once idle.",
+                  "external": false,
+                  "sourceRepo": "rockerboo/awesome-neovim",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Neovim",
+                    "AI",
+                    "coder/claudecode.nvim",
+                    "hebercosfer/floating-claude.nvim"
+                  ],
+                  "parentId": "root-editors-neovim-ai-coder-claudecode-nvim"
+                }
+              ],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Neovim",
+                "AI",
+                "coder/claudecode.nvim"
+              ],
+              "parentId": "root-editors-neovim-ai"
+            },
             {
               "id": "root-editors-neovim-ai-raymondware-herdr-nvim",
               "title": "raymondware/herdr.nvim",
@@ -13019,6 +13073,32 @@
               "parentId": "root-editors-neovim-colorscheme"
             },
             {
+              "id": "root-editors-neovim-colorscheme-rezniqov-soviet-nvim",
+              "title": "rezniqov/soviet.nvim",
+              "kind": "repo",
+              "repo": "rezniqov/soviet.nvim",
+              "url": "https://github.com/rezniqov/soviet.nvim",
+              "description": "[TS][LSP][L/D][Lua] Warm colorschemes inspired by soviet visual culture.",
+              "external": false,
+              "sourceRepo": "rockerboo/awesome-neovim",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Neovim",
+                "Colorscheme",
+                "rezniqov/soviet.nvim"
+              ],
+              "parentId": "root-editors-neovim-colorscheme"
+            },
+            {
               "id": "root-editors-neovim-colorscheme-thorstenrhau-token",
               "title": "ThorstenRhau/token",
               "kind": "repo",
@@ -17898,6 +17978,58 @@
               "parentId": "root-editors-neovim-bars-and-lines"
             },
             {
+              "id": "root-editors-neovim-bars-and-lines-nvim-mini-mini-nvim-mini-statuscolumn",
+              "title": "nvim-mini/mini.nvim#mini.statuscolumn",
+              "kind": "repo",
+              "repo": "nvim-mini/mini.nvim",
+              "url": "https://github.com/nvim-mini/mini.nvim",
+              "description": "Module of mini.nvim for statuscolumn. Fast and improved defaults, fully customizable content, automatic dimming inside inactive windows.",
+              "external": false,
+              "sourceRepo": "rockerboo/awesome-neovim",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Neovim",
+                "Bars and Lines",
+                "nvim-mini/mini.nvim#mini.statuscolumn"
+              ],
+              "parentId": "root-editors-neovim-bars-and-lines"
+            },
+            {
+              "id": "root-editors-neovim-bars-and-lines-olivgr-winbarbuf-nvim",
+              "title": "olivgr/winbarbuf.nvim",
+              "kind": "repo",
+              "repo": "olivgr/winbarbuf.nvim",
+              "url": "https://github.com/olivgr/winbarbuf.nvim",
+              "description": "Clickable buffer list in the winbar.",
+              "external": false,
+              "sourceRepo": "rockerboo/awesome-neovim",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Neovim",
+                "Bars and Lines",
+                "olivgr/winbarbuf.nvim"
+              ],
+              "parentId": "root-editors-neovim-bars-and-lines"
+            },
+            {
               "id": "root-editors-neovim-bars-and-lines-statusline",
               "title": "Statusline",
               "kind": "section",
@@ -21136,6 +21268,32 @@
               "parentId": "root-editors-neovim-utility"
             },
             {
+              "id": "root-editors-neovim-utility-doehnert-laravel-log-watcher-nvim",
+              "title": "Doehnert/laravel-log-watcher.nvim",
+              "kind": "repo",
+              "repo": "doehnert/laravel-log-watcher.nvim",
+              "url": "https://github.com/doehnert/laravel-log-watcher.nvim",
+              "description": "Watch a Laravel app's log (storage/logs/laravel.log) and get notified of new entries as they get written.",
+              "external": false,
+              "sourceRepo": "rockerboo/awesome-neovim",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Neovim",
+                "Utility",
+                "Doehnert/laravel-log-watcher.nvim"
+              ],
+              "parentId": "root-editors-neovim-utility"
+            },
+            {
               "id": "root-editors-neovim-utility-jbyuki-instant-nvim",
               "title": "jbyuki/instant.nvim",
               "kind": "repo",
@@ -22380,6 +22538,32 @@
                 "Neovim",
                 "Utility",
                 "dpezto/chezmoi-template.nvim"
+              ],
+              "parentId": "root-editors-neovim-utility"
+            },
+            {
+              "id": "root-editors-neovim-utility-7kill-copybara-nvim",
+              "title": "7KiLL/copybara.nvim",
+              "kind": "repo",
+              "repo": "7kill/copybara.nvim",
+              "url": "https://github.com/7kill/copybara.nvim",
+              "description": "Copy absolute or relative file paths, line and column references, or an LLM-friendly path and selection snippet to your clipboard.",
+              "external": false,
+              "sourceRepo": "rockerboo/awesome-neovim",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Neovim",
+                "Utility",
+                "7KiLL/copybara.nvim"
               ],
               "parentId": "root-editors-neovim-utility"
             },
@@ -24584,6 +24768,32 @@
           "url": "https://github.com/rockerboo/awesome-neovim#code-runner",
           "children": [
             {
+              "id": "root-editors-neovim-code-runner-wurli-jet-nvim",
+              "title": "wurli/jet.nvim",
+              "kind": "repo",
+              "repo": "wurli/jet.nvim",
+              "url": "https://github.com/wurli/jet.nvim",
+              "description": "A LSP-enabled, extensible Jupyter client that just works.",
+              "external": false,
+              "sourceRepo": "rockerboo/awesome-neovim",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Neovim",
+                "Code Runner",
+                "wurli/jet.nvim"
+              ],
+              "parentId": "root-editors-neovim-code-runner"
+            },
+            {
               "id": "root-editors-neovim-code-runner-rafcamlet-nvim-luapad",
               "title": "rafcamlet/nvim-luapad",
               "kind": "repo",
@@ -26757,6 +26967,32 @@
                 "jpease/hex-outdated.nvim"
               ],
               "parentId": "root-editors-neovim-dependency-management"
+            },
+            {
+              "id": "root-editors-neovim-dependency-management-mm4cn-nvim-conan",
+              "title": "mm4cN/nvim-conan",
+              "kind": "repo",
+              "repo": "mm4cn/nvim-conan",
+              "url": "https://github.com/mm4cn/nvim-conan",
+              "description": "Conan 2 integration for managing profiles, packages, remotes, dependencies, and common C/C++ package workflows.",
+              "external": false,
+              "sourceRepo": "rockerboo/awesome-neovim",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Neovim",
+                "Dependency Management",
+                "mm4cN/nvim-conan"
+              ],
+              "parentId": "root-editors-neovim-dependency-management"
             }
           ],
           "stars": 0,
@@ -27922,6 +28158,32 @@
                 "Neovim",
                 "Git",
                 "harrisoncramer/GitLab.nvim"
+              ],
+              "parentId": "root-editors-neovim-git"
+            },
+            {
+              "id": "root-editors-neovim-git-mm4cn-nvim-gitlab",
+              "title": "mm4cN/nvim-gitlab",
+              "kind": "repo",
+              "repo": "mm4cn/nvim-gitlab",
+              "url": "https://github.com/mm4cn/nvim-gitlab",
+              "description": "GitLab CI/CD integration for browsing and running pipelines, inspecting jobs and logs, retrying jobs, and downloading artifacts.",
+              "external": false,
+              "sourceRepo": "rockerboo/awesome-neovim",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Neovim",
+                "Git",
+                "mm4cN/nvim-gitlab"
               ],
               "parentId": "root-editors-neovim-git"
             },
@@ -31335,6 +31597,32 @@
                 "Neovim",
                 "Editing Support",
                 "sQVe/sort.nvim"
+              ],
+              "parentId": "root-editors-neovim-editing-support"
+            },
+            {
+              "id": "root-editors-neovim-editing-support-nagato-yuzuru-bang-nvim",
+              "title": "Nagato-Yuzuru/bang.nvim",
+              "kind": "repo",
+              "repo": "nagato-yuzuru/bang.nvim",
+              "url": "https://github.com/nagato-yuzuru/bang.nvim",
+              "description": "g! operator that filters a motion, text object or Visual selection through a shell command, like ! without the whole-line limit.",
+              "external": false,
+              "sourceRepo": "rockerboo/awesome-neovim",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Neovim",
+                "Editing Support",
+                "Nagato-Yuzuru/bang.nvim"
               ],
               "parentId": "root-editors-neovim-editing-support"
             },
@@ -37005,6 +37293,32 @@
               "parentId": "root-editors-neovim-database"
             },
             {
+              "id": "root-editors-neovim-database-caskstrength-nvim-dbeer",
+              "title": "caskstrength/nvim-dbeer",
+              "kind": "link",
+              "repo": "",
+              "url": "https://codeberg.org/caskstrength/nvim-dbeer",
+              "description": "Minimal multi database client for Native and ODBC, with support for SQL, NoSQL, and Graph.",
+              "external": true,
+              "sourceRepo": "rockerboo/awesome-neovim",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Neovim",
+                "Database",
+                "caskstrength/nvim-dbeer"
+              ],
+              "parentId": "root-editors-neovim-database"
+            },
+            {
               "id": "root-editors-neovim-database-tashikomaaa-neomongo-nvim",
               "title": "tashikomaaa/neomongo.nvim",
               "kind": "repo",
@@ -38339,6 +38653,33 @@
                   "parentId": "root-editors-neovim-external-plugin-template"
                 },
                 {
+                  "id": "root-editors-neovim-external-plugin-template-caskstrength-nvim-springtime",
+                  "title": "caskstrength/nvim-springtime",
+                  "kind": "link",
+                  "repo": "",
+                  "url": "https://codeberg.org/caskstrength/nvim-springtime",
+                  "description": "A scaffold builder based on Spring Initializr.",
+                  "external": true,
+                  "sourceRepo": "rockerboo/awesome-neovim",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Neovim",
+                    "External",
+                    "Plugin Template",
+                    "caskstrength/nvim-springtime"
+                  ],
+                  "parentId": "root-editors-neovim-external-plugin-template"
+                },
+                {
                   "id": "root-editors-neovim-external-plugin-template-drkjeff16-nvim-plugin-boilerplate",
                   "title": "DrKJeff16/nvim-plugin-boilerplate",
                   "kind": "repo",
@@ -38516,8 +38857,8 @@
                     "neovim-plugins",
                     "nix-flake"
                   ],
-                  "updated": "2026-09-05T19:11:50Z",
-                  "pushed": "2026-09-05T19:11:46Z",
+                  "updated": "2026-09-12T19:30:54Z",
+                  "pushed": "2026-09-12T19:30:50Z",
                   "awesome": true,
                   "path": [
                     "Neovim",
@@ -39202,7 +39543,7 @@
                 "awesome",
                 "vim"
               ],
-              "updated": "2026-09-01T13:44:31Z",
+              "updated": "2026-09-11T07:52:32Z",
               "pushed": "2025-06-06T18:42:55Z",
               "awesome": true,
               "path": [
@@ -39410,8 +39751,8 @@
           "parentId": "root-editors-neovim"
         }
       ],
-      "stars": 21355,
-      "forks": 1050,
+      "stars": 21371,
+      "forks": 1052,
       "language": "Shell",
       "license": "CC0-1.0",
       "topics": [
@@ -39421,8 +39762,8 @@
         "neovim-plugins",
         "nvim-lua"
       ],
-      "updated": "2026-09-06T04:53:34Z",
-      "pushed": "2026-09-02T19:09:25Z",
+      "updated": "2026-09-13T06:21:36Z",
+      "pushed": "2026-09-13T01:24:57Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -39441,15 +39782,15 @@
       "sourceRepo": "sindresorhus/awesome",
       "depth": 1,
       "children": [],
-      "stars": 9372,
-      "forks": 600,
+      "stars": 9373,
+      "forks": 599,
       "language": null,
       "license": "Unlicense",
       "topics": [
         "awesome-list",
         "emacs"
       ],
-      "updated": "2026-09-06T05:47:45Z",
+      "updated": "2026-09-12T13:07:39Z",
       "pushed": "2026-09-02T15:57:43Z",
       "awesome": true,
       "readmeStatus": "empty",
@@ -45920,8 +46261,8 @@
           "parentId": "root-editors-visual-studio-code"
         }
       ],
-      "stars": 29006,
-      "forks": 1413,
+      "stars": 29025,
+      "forks": 1416,
       "language": "JavaScript",
       "license": "CC0-1.0",
       "topics": [
@@ -45937,7 +46278,7 @@
         "vscode-extension",
         "vscode-theme"
       ],
-      "updated": "2026-09-06T04:52:58Z",
+      "updated": "2026-09-13T05:46:54Z",
       "pushed": "2026-06-21T09:36:55Z",
       "awesome": true,
       "readmeStatus": "expanded",

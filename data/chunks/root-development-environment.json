@@ -557,12 +557,12 @@
           "parentId": "root-development-environment-dev-env"
         }
       ],
-      "stars": 3337,
+      "stars": 3342,
       "forks": 207,
       "language": null,
       "license": null,
       "topics": [],
-      "updated": "2026-09-05T07:07:01Z",
+      "updated": "2026-09-10T17:18:04Z",
       "pushed": "2024-07-29T13:08:35Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -3030,7 +3030,7 @@
           "parentId": "root-development-environment-dotfiles"
         }
       ],
-      "stars": 10851,
+      "stars": 10860,
       "forks": 369,
       "language": null,
       "license": null,
@@ -3046,7 +3046,7 @@
         "tools",
         "zsh"
       ],
-      "updated": "2026-09-05T19:44:11Z",
+      "updated": "2026-09-13T04:10:30Z",
       "pushed": "2026-07-26T07:05:04Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -3381,8 +3381,8 @@
           "parentId": "root-development-environment-shell"
         }
       ],
-      "stars": 37569,
-      "forks": 2553,
+      "stars": 37608,
+      "forks": 2552,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -3395,7 +3395,7 @@
         "shell",
         "zsh"
       ],
-      "updated": "2026-09-06T05:25:21Z",
+      "updated": "2026-09-13T05:46:50Z",
       "pushed": "2025-08-28T14:40:51Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -7034,6 +7034,33 @@
                     "Development",
                     "Release",
                     "semantic-release"
+                  ],
+                  "parentId": "root-development-environment-command-line-apps-development-release"
+                },
+                {
+                  "id": "root-development-environment-command-line-apps-development-release-vmn",
+                  "title": "vmn",
+                  "kind": "repo",
+                  "repo": "progovoy/vmn",
+                  "url": "https://github.com/progovoy/vmn",
+                  "description": "Stamp semantic versions into git tags and restore any release across repos.",
+                  "external": false,
+                  "sourceRepo": "agarrharr/awesome-cli-apps",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Command-Line Apps",
+                    "Development",
+                    "Release",
+                    "vmn"
                   ],
                   "parentId": "root-development-environment-command-line-apps-development-release"
                 }
@@ -19547,8 +19574,8 @@
               "sourceRepo": "agarrharr/awesome-cli-apps",
               "depth": 2,
               "children": [],
-              "stars": 2612,
-              "forks": 295,
+              "stars": 2614,
+              "forks": 304,
               "language": "Python",
               "license": null,
               "topics": [
@@ -19564,7 +19591,7 @@
                 "terminal-based",
                 "tui"
               ],
-              "updated": "2026-09-05T22:56:00Z",
+              "updated": "2026-09-08T23:10:29Z",
               "pushed": "2026-07-29T20:15:17Z",
               "awesome": true,
               "path": [
@@ -19715,7 +19742,7 @@
               "sourceRepo": "agarrharr/awesome-cli-apps",
               "depth": 2,
               "children": [],
-              "stars": 2196,
+              "stars": 2197,
               "forks": 127,
               "language": null,
               "license": null,
@@ -19733,7 +19760,7 @@
                 "lists",
                 "resources"
               ],
-              "updated": "2026-09-02T09:35:40Z",
+              "updated": "2026-09-12T00:21:54Z",
               "pushed": "2024-10-15T07:18:48Z",
               "awesome": true,
               "path": [
@@ -19785,8 +19812,8 @@
           "parentId": "root-development-environment-command-line-apps"
         }
       ],
-      "stars": 20332,
-      "forks": 1504,
+      "stars": 20381,
+      "forks": 1507,
       "language": "Shell",
       "license": null,
       "topics": [
@@ -19796,8 +19823,8 @@
         "cli-app",
         "list"
       ],
-      "updated": "2026-09-06T02:36:40Z",
-      "pushed": "2026-09-05T19:55:02Z",
+      "updated": "2026-09-13T05:46:53Z",
+      "pushed": "2026-09-13T05:36:57Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -64224,6 +64251,32 @@
               "parentId": "root-development-environment-zsh-plugins-themes"
             },
             {
+              "id": "root-development-environment-zsh-plugins-themes-apple-userhost",
+              "title": "apple-userhost",
+              "kind": "repo",
+              "repo": "boursyt/apple-userhost-zsh-theme",
+              "url": "https://github.com/boursyt/apple-userhost-zsh-theme",
+              "description": "2-line prompt with an Apple icon. Includes decorators for user@hostname, current directory and git status",
+              "external": false,
+              "sourceRepo": "unixorn/awesome-zsh-plugins",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "ZSH Plugins",
+                "Themes",
+                "apple-userhost"
+              ],
+              "parentId": "root-development-environment-zsh-plugins-themes"
+            },
+            {
               "id": "root-development-environment-zsh-plugins-themes-archcraft",
               "title": "archcraft",
               "kind": "repo",
@@ -74676,6 +74729,32 @@
               "parentId": "root-development-environment-zsh-plugins-themes"
             },
             {
+              "id": "root-development-environment-zsh-plugins-themes-katana",
+              "title": "katana",
+              "kind": "repo",
+              "repo": "kakshidev56/zsh-katana",
+              "url": "https://github.com/kakshidev56/zsh-katana",
+              "description": "A minimalist, samurai-inspired prompt theme. Renders the current directory and Git branch/status as two compact, dark steel-toned segments, joined by a Powerline-style separator, with a single crimson accent used for Git status.",
+              "external": false,
+              "sourceRepo": "unixorn/awesome-zsh-plugins",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "ZSH Plugins",
+                "Themes",
+                "katana"
+              ],
+              "parentId": "root-development-environment-zsh-plugins-themes"
+            },
+            {
               "id": "root-development-environment-zsh-plugins-themes-kawaii",
               "title": "kawaii",
               "kind": "repo",
@@ -78936,6 +79015,32 @@
                 "ZSH Plugins",
                 "Themes",
                 "nextbike"
+              ],
+              "parentId": "root-development-environment-zsh-plugins-themes"
+            },
+            {
+              "id": "root-development-environment-zsh-plugins-themes-nick",
+              "title": "nick",
+              "kind": "repo",
+              "repo": "seankoji-com/zsh-theme-nick",
+              "url": "https://github.com/seankoji-com/zsh-theme-nick",
+              "description": "A Powerline-style ZSH theme derived from agnoster, with a git segment that never blocks the prompt. Includes decorators for exit status, job count, user@host, git status, node version and current directory.",
+              "external": false,
+              "sourceRepo": "unixorn/awesome-zsh-plugins",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "ZSH Plugins",
+                "Themes",
+                "nick"
               ],
               "parentId": "root-development-environment-zsh-plugins-themes"
             },
@@ -91915,12 +92020,12 @@
                   "sourceRepo": "unixorn/awesome-zsh-plugins",
                   "depth": 3,
                   "children": [],
-                  "stars": 3337,
+                  "stars": 3342,
                   "forks": 207,
                   "language": null,
                   "license": null,
                   "topics": [],
-                  "updated": "2026-09-05T07:07:01Z",
+                  "updated": "2026-09-10T17:18:04Z",
                   "pushed": "2024-07-29T13:08:35Z",
                   "awesome": true,
                   "path": [
@@ -92144,8 +92249,8 @@
           "parentId": "root-development-environment-zsh-plugins"
         }
       ],
-      "stars": 17994,
-      "forks": 609,
+      "stars": 18001,
+      "forks": 608,
       "language": "Shell",
       "license": "BSD-3-Clause",
       "topics": [
@@ -92163,8 +92268,8 @@
         "zsh-prompt",
         "zsh-theme"
       ],
-      "updated": "2026-09-06T04:53:55Z",
-      "pushed": "2026-09-06T02:57:26Z",
+      "updated": "2026-09-13T06:19:18Z",
+      "pushed": "2026-09-06T12:37:13Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -93690,8 +93795,8 @@
               "parentId": "root-development-environment-github-browser-extensions"
             }
           ],
-          "stars": 3296,
-          "forks": 203,
+          "stars": 3301,
+          "forks": 204,
           "language": "JavaScript",
           "license": null,
           "topics": [
@@ -93703,7 +93808,7 @@
             "github-extension",
             "list"
           ],
-          "updated": "2026-09-04T17:58:00Z",
+          "updated": "2026-09-12T08:22:58Z",
           "pushed": "2024-08-18T20:11:31Z",
           "awesome": true,
           "readmeStatus": "expanded",
@@ -95440,7 +95545,7 @@
               "parentId": "root-development-environment-github-pinned-gists"
             }
           ],
-          "stars": 2116,
+          "stars": 2117,
           "forks": 96,
           "language": null,
           "license": null,
@@ -95449,7 +95554,7 @@
             "awesome-list",
             "pinned-gist"
           ],
-          "updated": "2026-09-05T18:49:52Z",
+          "updated": "2026-09-08T20:01:10Z",
           "pushed": "2025-08-05T04:12:43Z",
           "awesome": true,
           "readmeStatus": "expanded",
@@ -96364,8 +96469,8 @@
               "sourceRepo": "phillipadsmith/awesome-github",
               "depth": 2,
               "children": [],
-              "stars": 3296,
-              "forks": 203,
+              "stars": 3301,
+              "forks": 204,
               "language": "JavaScript",
               "license": null,
               "topics": [
@@ -96377,7 +96482,7 @@
                 "github-extension",
                 "list"
               ],
-              "updated": "2026-09-04T17:58:00Z",
+              "updated": "2026-09-12T08:22:58Z",
               "pushed": "2024-08-18T20:11:31Z",
               "awesome": true,
               "path": [
@@ -97310,12 +97415,12 @@
           "parentId": "root-development-environment-github"
         }
       ],
-      "stars": 972,
-      "forks": 118,
+      "stars": 971,
+      "forks": 120,
       "language": null,
       "license": "CC0-1.0",
       "topics": [],
-      "updated": "2026-08-30T18:35:09Z",
+      "updated": "2026-09-08T12:51:20Z",
       "pushed": "2024-03-04T15:57:12Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -102394,7 +102499,7 @@
           "parentId": "root-development-environment-git-add-ons"
         }
       ],
-      "stars": 2196,
+      "stars": 2197,
       "forks": 127,
       "language": null,
       "license": null,
@@ -102412,7 +102517,7 @@
         "lists",
         "resources"
       ],
-      "updated": "2026-09-02T09:35:40Z",
+      "updated": "2026-09-12T00:21:54Z",
       "pushed": "2024-10-15T07:18:48Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -102459,8 +102564,8 @@
                   "sourceRepo": "compscilauren/awesome-git-hooks",
                   "depth": 3,
                   "children": [],
-                  "stars": 1186,
-                  "forks": 58,
+                  "stars": 1187,
+                  "forks": 59,
                   "language": "Shell",
                   "license": "NOASSERTION",
                   "topics": [
@@ -102472,7 +102577,7 @@
                     "hooks",
                     "script"
                   ],
-                  "updated": "2026-08-31T18:14:13Z",
+                  "updated": "2026-09-08T10:05:29Z",
                   "pushed": "2026-03-25T23:23:08Z",
                   "awesome": true,
                   "path": [
@@ -102518,8 +102623,8 @@
                   "sourceRepo": "compscilauren/awesome-git-hooks",
                   "depth": 3,
                   "children": [],
-                  "stars": 1186,
-                  "forks": 58,
+                  "stars": 1187,
+                  "forks": 59,
                   "language": "Shell",
                   "license": "NOASSERTION",
                   "topics": [
@@ -102531,7 +102636,7 @@
                     "hooks",
                     "script"
                   ],
-                  "updated": "2026-08-31T18:14:13Z",
+                  "updated": "2026-09-08T10:05:29Z",
                   "pushed": "2026-03-25T23:23:08Z",
                   "awesome": true,
                   "path": [
@@ -102553,8 +102658,8 @@
                   "sourceRepo": "compscilauren/awesome-git-hooks",
                   "depth": 3,
                   "children": [],
-                  "stars": 1186,
-                  "forks": 58,
+                  "stars": 1187,
+                  "forks": 59,
                   "language": "Shell",
                   "license": "NOASSERTION",
                   "topics": [
@@ -102566,7 +102671,7 @@
                     "hooks",
                     "script"
                   ],
-                  "updated": "2026-08-31T18:14:13Z",
+                  "updated": "2026-09-08T10:05:29Z",
                   "pushed": "2026-03-25T23:23:08Z",
                   "awesome": true,
                   "path": [
@@ -102612,8 +102717,8 @@
                   "sourceRepo": "compscilauren/awesome-git-hooks",
                   "depth": 3,
                   "children": [],
-                  "stars": 1186,
-                  "forks": 58,
+                  "stars": 1187,
+                  "forks": 59,
                   "language": "Shell",
                   "license": "NOASSERTION",
                   "topics": [
@@ -102625,7 +102730,7 @@
                     "hooks",
                     "script"
                   ],
-                  "updated": "2026-08-31T18:14:13Z",
+                  "updated": "2026-09-08T10:05:29Z",
                   "pushed": "2026-03-25T23:23:08Z",
                   "awesome": true,
                   "path": [
@@ -102671,8 +102776,8 @@
                   "sourceRepo": "compscilauren/awesome-git-hooks",
                   "depth": 3,
                   "children": [],
-                  "stars": 1186,
-                  "forks": 58,
+                  "stars": 1187,
+                  "forks": 59,
                   "language": "Shell",
                   "license": "NOASSERTION",
                   "topics": [
@@ -102684,7 +102789,7 @@
                     "hooks",
                     "script"
                   ],
-                  "updated": "2026-08-31T18:14:13Z",
+                  "updated": "2026-09-08T10:05:29Z",
                   "pushed": "2026-03-25T23:23:08Z",
                   "awesome": true,
                   "path": [
@@ -102706,8 +102811,8 @@
                   "sourceRepo": "compscilauren/awesome-git-hooks",
                   "depth": 3,
                   "children": [],
-                  "stars": 1186,
-                  "forks": 58,
+                  "stars": 1187,
+                  "forks": 59,
                   "language": "Shell",
                   "license": "NOASSERTION",
                   "topics": [
@@ -102719,7 +102824,7 @@
                     "hooks",
                     "script"
                   ],
-                  "updated": "2026-08-31T18:14:13Z",
+                  "updated": "2026-09-08T10:05:29Z",
                   "pushed": "2026-03-25T23:23:08Z",
                   "awesome": true,
                   "path": [
@@ -102741,8 +102846,8 @@
                   "sourceRepo": "compscilauren/awesome-git-hooks",
                   "depth": 3,
                   "children": [],
-                  "stars": 1186,
-                  "forks": 58,
+                  "stars": 1187,
+                  "forks": 59,
                   "language": "Shell",
                   "license": "NOASSERTION",
                   "topics": [
@@ -102754,7 +102859,7 @@
                     "hooks",
                     "script"
                   ],
-                  "updated": "2026-08-31T18:14:13Z",
+                  "updated": "2026-09-08T10:05:29Z",
                   "pushed": "2026-03-25T23:23:08Z",
                   "awesome": true,
                   "path": [
@@ -102776,8 +102881,8 @@
                   "sourceRepo": "compscilauren/awesome-git-hooks",
                   "depth": 3,
                   "children": [],
-                  "stars": 1186,
-                  "forks": 58,
+                  "stars": 1187,
+                  "forks": 59,
                   "language": "Shell",
                   "license": "NOASSERTION",
                   "topics": [
@@ -102789,7 +102894,7 @@
                     "hooks",
                     "script"
                   ],
-                  "updated": "2026-08-31T18:14:13Z",
+                  "updated": "2026-09-08T10:05:29Z",
                   "pushed": "2026-03-25T23:23:08Z",
                   "awesome": true,
                   "path": [
@@ -102811,8 +102916,8 @@
                   "sourceRepo": "compscilauren/awesome-git-hooks",
                   "depth": 3,
                   "children": [],
-                  "stars": 1186,
-                  "forks": 58,
+                  "stars": 1187,
+                  "forks": 59,
                   "language": "Shell",
                   "license": "NOASSERTION",
                   "topics": [
@@ -102824,7 +102929,7 @@
                     "hooks",
                     "script"
                   ],
-                  "updated": "2026-08-31T18:14:13Z",
+                  "updated": "2026-09-08T10:05:29Z",
                   "pushed": "2026-03-25T23:23:08Z",
                   "awesome": true,
                   "path": [
@@ -102870,8 +102975,8 @@
                   "sourceRepo": "compscilauren/awesome-git-hooks",
                   "depth": 3,
                   "children": [],
-                  "stars": 1186,
-                  "forks": 58,
+                  "stars": 1187,
+                  "forks": 59,
                   "language": "Shell",
                   "license": "NOASSERTION",
                   "topics": [
@@ -102883,7 +102988,7 @@
                     "hooks",
                     "script"
                   ],
-                  "updated": "2026-08-31T18:14:13Z",
+                  "updated": "2026-09-08T10:05:29Z",
                   "pushed": "2026-03-25T23:23:08Z",
                   "awesome": true,
                   "path": [
@@ -102905,8 +103010,8 @@
                   "sourceRepo": "compscilauren/awesome-git-hooks",
                   "depth": 3,
                   "children": [],
-                  "stars": 1186,
-                  "forks": 58,
+                  "stars": 1187,
+                  "forks": 59,
                   "language": "Shell",
                   "license": "NOASSERTION",
                   "topics": [
@@ -102918,7 +103023,7 @@
                     "hooks",
                     "script"
                   ],
-                  "updated": "2026-08-31T18:14:13Z",
+                  "updated": "2026-09-08T10:05:29Z",
                   "pushed": "2026-03-25T23:23:08Z",
                   "awesome": true,
                   "path": [
@@ -102964,8 +103069,8 @@
                   "sourceRepo": "compscilauren/awesome-git-hooks",
                   "depth": 3,
                   "children": [],
-                  "stars": 1186,
-                  "forks": 58,
+                  "stars": 1187,
+                  "forks": 59,
                   "language": "Shell",
                   "license": "NOASSERTION",
                   "topics": [
@@ -102977,7 +103082,7 @@
                     "hooks",
                     "script"
                   ],
-                  "updated": "2026-08-31T18:14:13Z",
+                  "updated": "2026-09-08T10:05:29Z",
                   "pushed": "2026-03-25T23:23:08Z",
                   "awesome": true,
                   "path": [
@@ -103023,8 +103128,8 @@
                   "sourceRepo": "compscilauren/awesome-git-hooks",
                   "depth": 3,
                   "children": [],
-                  "stars": 1186,
-                  "forks": 58,
+                  "stars": 1187,
+                  "forks": 59,
                   "language": "Shell",
                   "license": "NOASSERTION",
                   "topics": [
@@ -103036,7 +103141,7 @@
                     "hooks",
                     "script"
                   ],
-                  "updated": "2026-08-31T18:14:13Z",
+                  "updated": "2026-09-08T10:05:29Z",
                   "pushed": "2026-03-25T23:23:08Z",
                   "awesome": true,
                   "path": [
@@ -103082,8 +103187,8 @@
                   "sourceRepo": "compscilauren/awesome-git-hooks",
                   "depth": 3,
                   "children": [],
-                  "stars": 1186,
-                  "forks": 58,
+                  "stars": 1187,
+                  "forks": 59,
                   "language": "Shell",
                   "license": "NOASSERTION",
                   "topics": [
@@ -103095,7 +103200,7 @@
                     "hooks",
                     "script"
                   ],
-                  "updated": "2026-08-31T18:14:13Z",
+                  "updated": "2026-09-08T10:05:29Z",
                   "pushed": "2026-03-25T23:23:08Z",
                   "awesome": true,
                   "path": [
@@ -103141,8 +103246,8 @@
                   "sourceRepo": "compscilauren/awesome-git-hooks",
                   "depth": 3,
                   "children": [],
-                  "stars": 1186,
-                  "forks": 58,
+                  "stars": 1187,
+                  "forks": 59,
                   "language": "Shell",
                   "license": "NOASSERTION",
                   "topics": [
@@ -103154,7 +103259,7 @@
                     "hooks",
                     "script"
                   ],
-                  "updated": "2026-08-31T18:14:13Z",
+                  "updated": "2026-09-08T10:05:29Z",
                   "pushed": "2026-03-25T23:23:08Z",
                   "awesome": true,
                   "path": [
@@ -103782,8 +103887,8 @@
           "parentId": "root-development-environment-git-hooks"
         }
       ],
-      "stars": 1186,
-      "forks": 58,
+      "stars": 1187,
+      "forks": 59,
       "language": "Shell",
       "license": "NOASSERTION",
       "topics": [
@@ -103795,7 +103900,7 @@
         "hooks",
         "script"
       ],
-      "updated": "2026-08-31T18:14:13Z",
+      "updated": "2026-09-08T10:05:29Z",
       "pushed": "2026-03-25T23:23:08Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -104252,8 +104357,8 @@
           "parentId": "root-development-environment-ssh"
         }
       ],
-      "stars": 2839,
-      "forks": 183,
+      "stars": 2837,
+      "forks": 185,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -104269,7 +104374,7 @@
         "ssh-keys",
         "ssh-keyscan"
       ],
-      "updated": "2026-09-04T11:58:23Z",
+      "updated": "2026-09-11T20:25:48Z",
       "pushed": "2023-08-10T10:15:24Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -104402,8 +104507,8 @@
           "parentId": "root-development-environment-hyper"
         }
       ],
-      "stars": 11002,
-      "forks": 373,
+      "stars": 11003,
+      "forks": 372,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -104414,7 +104519,7 @@
         "terminal",
         "zeit"
       ],
-      "updated": "2026-09-01T17:01:16Z",
+      "updated": "2026-09-11T20:05:07Z",
       "pushed": "2022-09-20T08:52:39Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -116399,8 +116504,8 @@
           "parentId": "root-development-environment-github-actions"
         }
       ],
-      "stars": 28187,
-      "forks": 1780,
+      "stars": 28217,
+      "forks": 1792,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -116413,7 +116518,7 @@
         "github",
         "github-actions"
       ],
-      "updated": "2026-09-06T04:53:01Z",
+      "updated": "2026-09-13T05:47:02Z",
       "pushed": "2024-09-01T20:32:39Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -118097,7 +118202,7 @@
           "parentId": "root-development-environment-wezterm"
         }
       ],
-      "stars": 738,
+      "stars": 747,
       "forks": 30,
       "language": null,
       "license": "CC0-1.0",
@@ -118109,7 +118214,7 @@
         "wezterm-lua",
         "wezterm-plugin"
       ],
-      "updated": "2026-09-04T05:54:35Z",
+      "updated": "2026-09-11T18:28:10Z",
       "pushed": "2026-08-21T07:55:21Z",
       "awesome": true,
       "readmeStatus": "expanded",
