@@ -5690,6 +5690,32 @@
               "parentId": "root-editors-neovim-programming-languages-support"
             },
             {
+              "id": "root-editors-neovim-programming-languages-support-jgonmor16-hdlsnip-nvim",
+              "title": "jgonmor16/hdlsnip.nvim",
+              "kind": "repo",
+              "repo": "jgonmor16/hdlsnip.nvim",
+              "url": "https://github.com/jgonmor16/hdlsnip.nvim",
+              "description": "Parameterised VHDL templates covering entities, FSMs, CDC, AXI4-Lite and testbenches, following the project's reset style and target vendor.",
+              "external": false,
+              "sourceRepo": "rockerboo/awesome-neovim",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Neovim",
+                "Programming Languages Support",
+                "jgonmor16/hdlsnip.nvim"
+              ],
+              "parentId": "root-editors-neovim-programming-languages-support"
+            },
+            {
               "id": "root-editors-neovim-programming-languages-support-golang",
               "title": "Golang",
               "kind": "section",
@@ -6582,6 +6608,33 @@
               "depth": 2,
               "url": "https://github.com/rockerboo/awesome-neovim#markdown-and-latex",
               "children": [
+                {
+                  "id": "root-editors-neovim-programming-languages-support-markdown-and-latex-the-mayankjha-fkmarkdown-nvim",
+                  "title": "the-mayankjha/fkmarkdown.nvim",
+                  "kind": "repo",
+                  "repo": "the-mayankjha/fk_markdown.nvim",
+                  "url": "https://github.com/the-mayankjha/fk_markdown.nvim",
+                  "description": "Markdown renderer with live browser preview, synchronized scrolling, and support for math, diagrams, LaTeX, and local images.",
+                  "external": false,
+                  "sourceRepo": "rockerboo/awesome-neovim",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Neovim",
+                    "Programming Languages Support",
+                    "Markdown and LaTeX",
+                    "the-mayankjha/fkmarkdown.nvim"
+                  ],
+                  "parentId": "root-editors-neovim-programming-languages-support-markdown-and-latex"
+                },
                 {
                   "id": "root-editors-neovim-programming-languages-support-markdown-and-latex-iamcco-markdown-preview-nvim",
                   "title": "iamcco/markdown-preview.nvim",
@@ -22152,6 +22205,32 @@
               "parentId": "root-editors-neovim-utility"
             },
             {
+              "id": "root-editors-neovim-utility-javanoo6-persist-toggle-nvim",
+              "title": "javanoo6/persist-toggle.nvim",
+              "kind": "repo",
+              "repo": "javanoo6/persist-toggle.nvim",
+              "url": "https://github.com/javanoo6/persist-toggle.nvim",
+              "description": "Persistent registry for runtime toggle states and preferences.",
+              "external": false,
+              "sourceRepo": "rockerboo/awesome-neovim",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Neovim",
+                "Utility",
+                "javanoo6/persist-toggle.nvim"
+              ],
+              "parentId": "root-editors-neovim-utility"
+            },
+            {
               "id": "root-editors-neovim-utility-piersolenski-brewfile-nvim",
               "title": "piersolenski/brewfile.nvim",
               "kind": "repo",
@@ -22723,11 +22802,11 @@
           "url": "https://github.com/rockerboo/awesome-neovim#animation",
           "children": [
             {
-              "id": "root-editors-neovim-animation-luxvim-nvim-luxmotion",
-              "title": "LuxVim/nvim-luxmotion",
+              "id": "root-editors-neovim-animation-josstei-whisk-nvim",
+              "title": "josstei/whisk.nvim",
               "kind": "repo",
-              "repo": "luxvim/nvim-luxmotion",
-              "url": "https://github.com/luxvim/nvim-luxmotion",
+              "repo": "josstei/whisk.nvim",
+              "url": "https://github.com/josstei/whisk.nvim",
               "description": "Smooth, high‑performance motion and scrolling animations — 60fps fluid cursor moves, word jumps, and viewport scrolling, all in one.",
               "external": false,
               "sourceRepo": "rockerboo/awesome-neovim",
@@ -22744,7 +22823,7 @@
               "path": [
                 "Neovim",
                 "Animation",
-                "LuxVim/nvim-luxmotion"
+                "josstei/whisk.nvim"
               ],
               "parentId": "root-editors-neovim-animation"
             },
@@ -22901,6 +22980,32 @@
                 "Neovim",
                 "Animation",
                 "indium114/smudge.nvim"
+              ],
+              "parentId": "root-editors-neovim-animation"
+            },
+            {
+              "id": "root-editors-neovim-animation-redeye-developers-starfall-nvim",
+              "title": "RedEye-Developers/starfall.nvim",
+              "kind": "repo",
+              "repo": "redeye-developers/starfall.nvim",
+              "url": "https://github.com/redeye-developers/starfall.nvim",
+              "description": "Star twinkling, falling and shooting star crossing animation in background.",
+              "external": false,
+              "sourceRepo": "rockerboo/awesome-neovim",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Neovim",
+                "Animation",
+                "RedEye-Developers/starfall.nvim"
               ],
               "parentId": "root-editors-neovim-animation"
             }
@@ -25726,6 +25831,32 @@
                 "Neovim",
                 "Code Runner",
                 "JulOuellet/bzl.nvim"
+              ],
+              "parentId": "root-editors-neovim-code-runner"
+            },
+            {
+              "id": "root-editors-neovim-code-runner-caskstrength-nvim-soil",
+              "title": "caskstrength/nvim-soil",
+              "kind": "link",
+              "repo": "",
+              "url": "https://codeberg.org/caskstrength/nvim-soil",
+              "description": "Run PlantUML script and generate UML design.",
+              "external": true,
+              "sourceRepo": "rockerboo/awesome-neovim",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Neovim",
+                "Code Runner",
+                "caskstrength/nvim-soil"
               ],
               "parentId": "root-editors-neovim-code-runner"
             }
@@ -34512,6 +34643,32 @@
                 "nvim-mini/mini.nvim#mini.cmdline"
               ],
               "parentId": "root-editors-neovim-command-line"
+            },
+            {
+              "id": "root-editors-neovim-command-line-juniorsundar-cling-nvim",
+              "title": "juniorsundar/cling.nvim",
+              "kind": "repo",
+              "repo": "juniorsundar/cling.nvim",
+              "url": "https://github.com/juniorsundar/cling.nvim",
+              "description": "Provides Emacs' M-x compile, and the ability to wrap CLIs and TUIs as regular commands for your command line, with auto-generated tab-completions.",
+              "external": false,
+              "sourceRepo": "rockerboo/awesome-neovim",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Neovim",
+                "Command Line",
+                "juniorsundar/cling.nvim"
+              ],
+              "parentId": "root-editors-neovim-command-line"
             }
           ],
           "stars": 0,
@@ -38857,8 +39014,8 @@
                     "neovim-plugins",
                     "nix-flake"
                   ],
-                  "updated": "2026-09-12T19:30:54Z",
-                  "pushed": "2026-09-12T19:30:50Z",
+                  "updated": "2026-09-19T19:38:23Z",
+                  "pushed": "2026-09-19T19:38:20Z",
                   "awesome": true,
                   "path": [
                     "Neovim",
@@ -39535,7 +39692,7 @@
               "sourceRepo": "rockerboo/awesome-neovim",
               "depth": 2,
               "children": [],
-              "stars": 2130,
+              "stars": 2129,
               "forks": 145,
               "language": null,
               "license": "MIT",
@@ -39543,7 +39700,7 @@
                 "awesome",
                 "vim"
               ],
-              "updated": "2026-09-11T07:52:32Z",
+              "updated": "2026-09-19T18:02:31Z",
               "pushed": "2025-06-06T18:42:55Z",
               "awesome": true,
               "path": [
@@ -39751,8 +39908,8 @@
           "parentId": "root-editors-neovim"
         }
       ],
-      "stars": 21371,
-      "forks": 1052,
+      "stars": 21402,
+      "forks": 1056,
       "language": "Shell",
       "license": "CC0-1.0",
       "topics": [
@@ -39762,8 +39919,8 @@
         "neovim-plugins",
         "nvim-lua"
       ],
-      "updated": "2026-09-13T06:21:36Z",
-      "pushed": "2026-09-13T01:24:57Z",
+      "updated": "2026-09-20T05:52:47Z",
+      "pushed": "2026-09-19T20:46:22Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -39782,7 +39939,7 @@
       "sourceRepo": "sindresorhus/awesome",
       "depth": 1,
       "children": [],
-      "stars": 9373,
+      "stars": 9374,
       "forks": 599,
       "language": null,
       "license": "Unlicense",
@@ -39790,7 +39947,7 @@
         "awesome-list",
         "emacs"
       ],
-      "updated": "2026-09-12T13:07:39Z",
+      "updated": "2026-09-18T20:00:28Z",
       "pushed": "2026-09-02T15:57:43Z",
       "awesome": true,
       "readmeStatus": "empty",
@@ -46261,8 +46418,8 @@
           "parentId": "root-editors-visual-studio-code"
         }
       ],
-      "stars": 29025,
-      "forks": 1416,
+      "stars": 29052,
+      "forks": 1421,
       "language": "JavaScript",
       "license": "CC0-1.0",
       "topics": [
@@ -46278,7 +46435,7 @@
         "vscode-extension",
         "vscode-theme"
       ],
-      "updated": "2026-09-13T05:46:54Z",
+      "updated": "2026-09-20T01:36:05Z",
       "pushed": "2026-06-21T09:36:55Z",
       "awesome": true,
       "readmeStatus": "expanded",

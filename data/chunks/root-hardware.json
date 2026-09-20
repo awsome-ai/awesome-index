@@ -238,14 +238,14 @@
           "parentId": "root-hardware-robotics"
         }
       ],
-      "stars": 7046,
-      "forks": 1078,
+      "stars": 7181,
+      "forks": 1091,
       "language": null,
       "license": "NOASSERTION",
       "topics": [
         "robotics"
       ],
-      "updated": "2026-09-13T04:57:36Z",
+      "updated": "2026-09-20T06:54:45Z",
       "pushed": "2024-09-22T20:24:10Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -5857,7 +5857,7 @@
           "parentId": "root-hardware-internet-of-things"
         }
       ],
-      "stars": 4505,
+      "stars": 4511,
       "forks": 521,
       "language": null,
       "license": "MIT",
@@ -5870,7 +5870,7 @@
         "internet-of-things",
         "iot"
       ],
-      "updated": "2026-09-12T03:06:24Z",
+      "updated": "2026-09-20T00:05:57Z",
       "pushed": "2026-08-10T11:02:29Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -8053,6 +8053,42 @@
                     "CAD Specific",
                     "KiCad",
                     "KiBot"
+                  ],
+                  "parentId": "root-hardware-electronics-cad-specific-kicad"
+                },
+                {
+                  "id": "root-hardware-electronics-cad-specific-kicad-awesome-kicad-projects",
+                  "title": "Awesome KiCad Projects",
+                  "kind": "repo",
+                  "repo": "way2pramil/awesome-kicad-projects",
+                  "url": "https://github.com/way2pramil/awesome-kicad-projects",
+                  "description": "Curated list of open source hardware projects whose PCBs are designed in KiCad.",
+                  "external": false,
+                  "sourceRepo": "kitspace/awesome-electronics",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 165,
+                  "forks": 7,
+                  "language": "Python",
+                  "license": "CC-BY-4.0",
+                  "topics": [
+                    "awesome",
+                    "awesome-list",
+                    "kicad",
+                    "kicad-breakout-board",
+                    "kicad-pcb",
+                    "kicad-project",
+                    "kicad-schematics",
+                    "made-with-kicad"
+                  ],
+                  "updated": "2026-09-20T03:11:07Z",
+                  "pushed": "2026-09-17T13:15:19Z",
+                  "awesome": true,
+                  "path": [
+                    "Electronics",
+                    "CAD Specific",
+                    "KiCad",
+                    "Awesome KiCad Projects"
                   ],
                   "parentId": "root-hardware-electronics-cad-specific-kicad"
                 }
@@ -10412,7 +10448,7 @@
               "depth": 2,
               "children": [],
               "stars": 400,
-              "forks": 35,
+              "forks": 36,
               "language": null,
               "license": "GPL-3.0",
               "topics": [],
@@ -10463,12 +10499,12 @@
               "sourceRepo": "kitspace/awesome-electronics",
               "depth": 2,
               "children": [],
-              "stars": 1017,
+              "stars": 1018,
               "forks": 118,
               "language": null,
               "license": null,
               "topics": [],
-              "updated": "2026-09-12T19:48:40Z",
+              "updated": "2026-09-15T15:36:10Z",
               "pushed": "2024-01-04T03:35:24Z",
               "awesome": true,
               "path": [
@@ -10579,8 +10615,8 @@
               "sourceRepo": "kitspace/awesome-electronics",
               "depth": 2,
               "children": [],
-              "stars": 1061,
-              "forks": 50,
+              "stars": 1066,
+              "forks": 55,
               "language": null,
               "license": "CC0-1.0",
               "topics": [
@@ -10590,7 +10626,7 @@
                 "open-hardware",
                 "open-source-hardware"
               ],
-              "updated": "2026-09-12T09:02:33Z",
+              "updated": "2026-09-20T04:17:59Z",
               "pushed": "2026-08-31T08:28:54Z",
               "awesome": true,
               "path": [
@@ -10611,7 +10647,7 @@
               "sourceRepo": "kitspace/awesome-electronics",
               "depth": 2,
               "children": [],
-              "stars": 363,
+              "stars": 366,
               "forks": 66,
               "language": null,
               "license": null,
@@ -10620,7 +10656,7 @@
                 "open-source",
                 "power-electronics"
               ],
-              "updated": "2026-09-11T20:36:27Z",
+              "updated": "2026-09-19T03:42:15Z",
               "pushed": "2026-09-01T11:17:07Z",
               "awesome": true,
               "path": [
@@ -10773,8 +10809,8 @@
           "parentId": "root-hardware-electronics"
         }
       ],
-      "stars": 8112,
-      "forks": 535,
+      "stars": 8136,
+      "forks": 539,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -10787,8 +10823,8 @@
         "kicad",
         "pcb"
       ],
-      "updated": "2026-09-13T00:14:44Z",
-      "pushed": "2026-01-05T18:43:02Z",
+      "updated": "2026-09-20T07:27:38Z",
+      "pushed": "2026-09-14T08:57:12Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -11182,8 +11218,8 @@
           "parentId": "root-hardware-bluetooth-beacons"
         }
       ],
-      "stars": 959,
-      "forks": 110,
+      "stars": 960,
+      "forks": 109,
       "language": null,
       "license": null,
       "topics": [
@@ -11194,7 +11230,7 @@
         "eddystone-url",
         "ibeacon"
       ],
-      "updated": "2026-09-07T17:02:19Z",
+      "updated": "2026-09-16T03:15:34Z",
       "pushed": "2019-05-03T11:40:22Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -19595,7 +19631,7 @@
               "sourceRepo": "beardicus/awesome-plotters",
               "depth": 2,
               "children": [],
-              "stars": 1839,
+              "stars": 1842,
               "forks": 107,
               "language": null,
               "license": null,
@@ -19609,7 +19645,7 @@
                 "vjing",
                 "vvvv"
               ],
-              "updated": "2026-09-04T04:35:17Z",
+              "updated": "2026-09-19T15:46:17Z",
               "pushed": "2024-06-04T08:35:54Z",
               "awesome": true,
               "path": [
@@ -19630,8 +19666,8 @@
               "sourceRepo": "beardicus/awesome-plotters",
               "depth": 2,
               "children": [],
-              "stars": 15319,
-              "forks": 977,
+              "stars": 15342,
+              "forks": 976,
               "language": "HTML",
               "license": null,
               "topics": [
@@ -19653,7 +19689,7 @@
                 "shaders",
                 "webgl"
               ],
-              "updated": "2026-09-13T04:48:53Z",
+              "updated": "2026-09-19T22:51:32Z",
               "pushed": "2026-07-21T15:01:30Z",
               "awesome": true,
               "path": [
@@ -19705,7 +19741,7 @@
           "parentId": "root-hardware-plotters"
         }
       ],
-      "stars": 1454,
+      "stars": 1455,
       "forks": 94,
       "language": null,
       "license": "CC0-1.0",
@@ -19724,7 +19760,7 @@
         "roland-plotters",
         "vector-graphics"
       ],
-      "updated": "2026-09-12T20:38:54Z",
+      "updated": "2026-09-13T14:30:17Z",
       "pushed": "2025-12-03T21:39:31Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -28980,8 +29016,8 @@
           "parentId": "root-hardware-lidar"
         }
       ],
-      "stars": 1338,
-      "forks": 134,
+      "stars": 1340,
+      "forks": 136,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -29000,7 +29036,7 @@
         "szegyetem",
         "szenergy"
       ],
-      "updated": "2026-09-06T10:01:24Z",
+      "updated": "2026-09-16T13:41:56Z",
       "pushed": "2026-03-16T09:19:48Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -29403,8 +29439,8 @@
           "parentId": "root-hardware-open-hardware"
         }
       ],
-      "stars": 1061,
-      "forks": 50,
+      "stars": 1066,
+      "forks": 55,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -29414,7 +29450,7 @@
         "open-hardware",
         "open-source-hardware"
       ],
-      "updated": "2026-09-12T09:02:33Z",
+      "updated": "2026-09-20T04:17:59Z",
       "pushed": "2026-08-31T08:28:54Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -31351,7 +31387,7 @@
           "parentId": "root-hardware-ads-b"
         }
       ],
-      "stars": 381,
+      "stars": 384,
       "forks": 35,
       "language": "HTML",
       "license": "CC0-1.0",
@@ -31363,7 +31399,7 @@
         "resources",
         "tools"
       ],
-      "updated": "2026-09-06T08:42:35Z",
+      "updated": "2026-09-19T20:34:05Z",
       "pushed": "2026-09-05T07:25:17Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -32178,7 +32214,7 @@
           "parentId": "root-hardware-flying-fpv"
         }
       ],
-      "stars": 697,
+      "stars": 704,
       "forks": 68,
       "language": null,
       "license": "CC0-1.0",
@@ -32195,7 +32231,7 @@
         "uav",
         "vtol"
       ],
-      "updated": "2026-09-09T14:22:02Z",
+      "updated": "2026-09-18T03:57:45Z",
       "pushed": "2026-03-06T11:49:48Z",
       "awesome": true,
       "readmeStatus": "expanded",

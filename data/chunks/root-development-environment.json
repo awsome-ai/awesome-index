@@ -557,12 +557,12 @@
           "parentId": "root-development-environment-dev-env"
         }
       ],
-      "stars": 3342,
-      "forks": 207,
+      "stars": 3349,
+      "forks": 208,
       "language": null,
       "license": null,
       "topics": [],
-      "updated": "2026-09-10T17:18:04Z",
+      "updated": "2026-09-18T16:15:11Z",
       "pushed": "2024-07-29T13:08:35Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -3030,7 +3030,7 @@
           "parentId": "root-development-environment-dotfiles"
         }
       ],
-      "stars": 10860,
+      "stars": 10872,
       "forks": 369,
       "language": null,
       "license": null,
@@ -3046,7 +3046,7 @@
         "tools",
         "zsh"
       ],
-      "updated": "2026-09-13T04:10:30Z",
+      "updated": "2026-09-19T14:00:04Z",
       "pushed": "2026-07-26T07:05:04Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -3381,8 +3381,8 @@
           "parentId": "root-development-environment-shell"
         }
       ],
-      "stars": 37608,
-      "forks": 2552,
+      "stars": 37645,
+      "forks": 2556,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -3395,7 +3395,7 @@
         "shell",
         "zsh"
       ],
-      "updated": "2026-09-13T05:46:50Z",
+      "updated": "2026-09-20T07:27:25Z",
       "pushed": "2025-08-28T14:40:51Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -19574,8 +19574,8 @@
               "sourceRepo": "agarrharr/awesome-cli-apps",
               "depth": 2,
               "children": [],
-              "stars": 2614,
-              "forks": 304,
+              "stars": 2618,
+              "forks": 310,
               "language": "Python",
               "license": null,
               "topics": [
@@ -19591,8 +19591,8 @@
                 "terminal-based",
                 "tui"
               ],
-              "updated": "2026-09-08T23:10:29Z",
-              "pushed": "2026-07-29T20:15:17Z",
+              "updated": "2026-09-20T07:27:44Z",
+              "pushed": "2026-09-14T14:42:52Z",
               "awesome": true,
               "path": [
                 "Command-Line Apps",
@@ -19742,7 +19742,7 @@
               "sourceRepo": "agarrharr/awesome-cli-apps",
               "depth": 2,
               "children": [],
-              "stars": 2197,
+              "stars": 2200,
               "forks": 127,
               "language": null,
               "license": null,
@@ -19760,7 +19760,7 @@
                 "lists",
                 "resources"
               ],
-              "updated": "2026-09-12T00:21:54Z",
+              "updated": "2026-09-18T16:29:57Z",
               "pushed": "2024-10-15T07:18:48Z",
               "awesome": true,
               "path": [
@@ -19812,8 +19812,8 @@
           "parentId": "root-development-environment-command-line-apps"
         }
       ],
-      "stars": 20381,
-      "forks": 1507,
+      "stars": 20428,
+      "forks": 1519,
       "language": "Shell",
       "license": null,
       "topics": [
@@ -19823,7 +19823,7 @@
         "cli-app",
         "list"
       ],
-      "updated": "2026-09-13T05:46:53Z",
+      "updated": "2026-09-20T03:03:41Z",
       "pushed": "2026-09-13T05:36:57Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -22354,6 +22354,29 @@
               "parentId": "root-development-environment-zsh-plugins-frameworks"
             },
             {
+              "id": "root-development-environment-zsh-plugins-frameworks-zi",
+              "title": "zi",
+              "kind": "section",
+              "sourceRepo": "unixorn/awesome-zsh-plugins",
+              "depth": 2,
+              "url": "https://github.com/unixorn/awesome-zsh-plugins#zi",
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "ZSH Plugins",
+                "Frameworks",
+                "zi"
+              ],
+              "parentId": "root-development-environment-zsh-plugins-frameworks"
+            },
+            {
               "id": "root-development-environment-zsh-plugins-frameworks-zilsh",
               "title": "zilsh",
               "kind": "section",
@@ -24655,6 +24678,48 @@
               "url": "https://github.com/unixorn/awesome-zsh-plugins#oh-my-zsh",
               "children": [
                 {
+                  "id": "root-development-environment-zsh-plugins-setups-oh-my-zsh-awesome-lazy-zsh",
+                  "title": "awesome-lazy-zsh",
+                  "kind": "repo",
+                  "repo": "amjaradat01/awesome-lazy-zsh",
+                  "url": "https://github.com/amjaradat01/awesome-lazy-zsh",
+                  "description": "automates your ZSH setup with 46 plugins, 5 themes, configuration profiles, and service installation. It installs dependencies, manages Oh My Zsh, and gives you a beautiful interactive CLI to build the terminal environment you want.",
+                  "external": false,
+                  "sourceRepo": "unixorn/awesome-zsh-plugins",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 27,
+                  "forks": 2,
+                  "language": "JavaScript",
+                  "license": "MIT",
+                  "topics": [
+                    "automation",
+                    "awesome",
+                    "bash",
+                    "cli",
+                    "lazy",
+                    "oh-my-zsh",
+                    "shell",
+                    "terminal",
+                    "terminal-customization",
+                    "zsh",
+                    "zsh-configuration",
+                    "zsh-plugins",
+                    "zsh-themes",
+                    "zshrc"
+                  ],
+                  "updated": "2026-09-14T18:36:05Z",
+                  "pushed": "2026-09-14T17:47:14Z",
+                  "awesome": true,
+                  "path": [
+                    "ZSH Plugins",
+                    "Setups",
+                    "oh-my-zsh",
+                    "awesome-lazy-zsh"
+                  ],
+                  "parentId": "root-development-environment-zsh-plugins-setups-oh-my-zsh"
+                },
+                {
                   "id": "root-development-environment-zsh-plugins-setups-oh-my-zsh-master-oogway",
                   "title": "master-oogway",
                   "kind": "repo",
@@ -25154,12 +25219,12 @@
               "sourceRepo": "unixorn/awesome-zsh-plugins",
               "depth": 2,
               "children": [],
-              "stars": 2523,
+              "stars": 2524,
               "forks": 229,
               "language": "Shell",
               "license": "MIT",
               "topics": [],
-              "updated": "2026-09-05T16:25:45Z",
+              "updated": "2026-09-19T12:07:31Z",
               "pushed": "2024-01-16T06:56:48Z",
               "awesome": true,
               "path": [
@@ -30089,6 +30154,32 @@
                 "ZSH Plugins",
                 "Plugins",
                 "bol"
+              ],
+              "parentId": "root-development-environment-zsh-plugins-plugins"
+            },
+            {
+              "id": "root-development-environment-zsh-plugins-plugins-boot-kit",
+              "title": "boot-kit",
+              "kind": "repo",
+              "repo": "seankoji-com/zsh-boot-kit",
+              "url": "https://github.com/seankoji-com/zsh-boot-kit",
+              "description": "Adds instrumentation to your ZSH environment.",
+              "external": false,
+              "sourceRepo": "unixorn/awesome-zsh-plugins",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "ZSH Plugins",
+                "Plugins",
+                "boot-kit"
               ],
               "parentId": "root-development-environment-zsh-plugins-plugins"
             },
@@ -38465,6 +38556,32 @@
               "parentId": "root-development-environment-zsh-plugins-plugins"
             },
             {
+              "id": "root-development-environment-zsh-plugins-plugins-guesswork",
+              "title": "guesswork",
+              "kind": "repo",
+              "repo": "findmalek/guesswork",
+              "url": "https://github.com/findmalek/guesswork",
+              "description": "Fish-style history autosuggestions ranked by an AI model instead of prefix matching, so an abbreviation or a short description of what you want finds the right command out of your recent history.",
+              "external": false,
+              "sourceRepo": "unixorn/awesome-zsh-plugins",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "ZSH Plugins",
+                "Plugins",
+                "guesswork"
+              ],
+              "parentId": "root-development-environment-zsh-plugins-plugins"
+            },
+            {
               "id": "root-development-environment-zsh-plugins-plugins-guish",
               "title": "guish",
               "kind": "repo",
@@ -38851,6 +38968,32 @@
                 "ZSH Plugins",
                 "Plugins",
                 "help"
+              ],
+              "parentId": "root-development-environment-zsh-plugins-plugins"
+            },
+            {
+              "id": "root-development-environment-zsh-plugins-plugins-herdr",
+              "title": "herdr",
+              "kind": "repo",
+              "repo": "robbyrussell/herdr-ohmyzsh",
+              "url": "https://github.com/robbyrussell/herdr-ohmyzsh",
+              "description": "Manages herdr agent management.",
+              "external": false,
+              "sourceRepo": "unixorn/awesome-zsh-plugins",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "ZSH Plugins",
+                "Plugins",
+                "herdr"
               ],
               "parentId": "root-development-environment-zsh-plugins-plugins"
             },
@@ -47071,6 +47214,32 @@
               "parentId": "root-development-environment-zsh-plugins-plugins"
             },
             {
+              "id": "root-development-environment-zsh-plugins-plugins-pyroclear",
+              "title": "pyroclear",
+              "kind": "repo",
+              "repo": "shreyanth-sureshkrishnaa/pyroclear",
+              "url": "https://github.com/shreyanth-sureshkrishnaa/pyroclear",
+              "description": "A terminal clear replacement that burns your screen down before wiping it.",
+              "external": false,
+              "sourceRepo": "unixorn/awesome-zsh-plugins",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "ZSH Plugins",
+                "Plugins",
+                "pyroclear"
+              ],
+              "parentId": "root-development-environment-zsh-plugins-plugins"
+            },
+            {
               "id": "root-development-environment-zsh-plugins-plugins-pyvenv-fast",
               "title": "pyvenv-fast",
               "kind": "repo",
@@ -51075,6 +51244,32 @@
               "parentId": "root-development-environment-zsh-plugins-plugins"
             },
             {
+              "id": "root-development-environment-zsh-plugins-plugins-terminal-pet",
+              "title": "terminal-pet",
+              "kind": "repo",
+              "repo": "zezoo123/terminal-pet",
+              "url": "https://github.com/zezoo123/terminal-pet",
+              "description": "Hooks preexec/precmd up to terminal-pet, an animated pixel-art pet that sits on your terminal window and reacts to your commands (macOS).",
+              "external": false,
+              "sourceRepo": "unixorn/awesome-zsh-plugins",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "ZSH Plugins",
+                "Plugins",
+                "terminal-pet"
+              ],
+              "parentId": "root-development-environment-zsh-plugins-plugins"
+            },
+            {
               "id": "root-development-environment-zsh-plugins-plugins-terminal-title",
               "title": "terminal-title",
               "kind": "repo",
@@ -51123,6 +51318,32 @@
                 "ZSH Plugins",
                 "Plugins",
                 "terminal-workload-report"
+              ],
+              "parentId": "root-development-environment-zsh-plugins-plugins"
+            },
+            {
+              "id": "root-development-environment-zsh-plugins-plugins-termrec",
+              "title": "termrec",
+              "kind": "repo",
+              "repo": "termrec/termrec.zsh",
+              "url": "https://github.com/termrec/termrec.zsh",
+              "description": "This hook enables termrec to split the session into per-command sections while it generates a command-aware transcript.",
+              "external": false,
+              "sourceRepo": "unixorn/awesome-zsh-plugins",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "ZSH Plugins",
+                "Plugins",
+                "termrec"
               ],
               "parentId": "root-development-environment-zsh-plugins-plugins"
             },
@@ -52215,6 +52436,32 @@
                 "ZSH Plugins",
                 "Plugins",
                 "tsm"
+              ],
+              "parentId": "root-development-environment-zsh-plugins-plugins"
+            },
+            {
+              "id": "root-development-environment-zsh-plugins-plugins-tssh",
+              "title": "tssh",
+              "kind": "repo",
+              "repo": "undefined443/tssh",
+              "url": "https://github.com/undefined443/tssh",
+              "description": "Adds a function for connecting to a named tmux session on a remote host. selects the tmux integration mode from the current terminal - tmux control mode for iTerm 2, standard tmux client for everything else.",
+              "external": false,
+              "sourceRepo": "unixorn/awesome-zsh-plugins",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "ZSH Plugins",
+                "Plugins",
+                "tssh"
               ],
               "parentId": "root-development-environment-zsh-plugins-plugins"
             },
@@ -54247,6 +54494,32 @@
               "parentId": "root-development-environment-zsh-plugins-plugins"
             },
             {
+              "id": "root-development-environment-zsh-plugins-plugins-worktree-jump",
+              "title": "worktree-jump",
+              "kind": "repo",
+              "repo": "jermic/worktree-jump",
+              "url": "https://github.com/jermic/worktree-jump",
+              "description": "Lists git worktrees in a compact table and lets you jump to one by typing its number at the next shell prompt.",
+              "external": false,
+              "sourceRepo": "unixorn/awesome-zsh-plugins",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "ZSH Plugins",
+                "Plugins",
+                "worktree-jump"
+              ],
+              "parentId": "root-development-environment-zsh-plugins-plugins"
+            },
+            {
               "id": "root-development-environment-zsh-plugins-plugins-worktree",
               "title": "worktree",
               "kind": "repo",
@@ -54555,6 +54828,32 @@
                 "ZSH Plugins",
                 "Plugins",
                 "yazi-zoxide"
+              ],
+              "parentId": "root-development-environment-zsh-plugins-plugins"
+            },
+            {
+              "id": "root-development-environment-zsh-plugins-plugins-yazi",
+              "title": "yazi",
+              "kind": "repo",
+              "repo": "nizil/yazi.plugin.zsh",
+              "url": "https://github.com/nizil/yazi.plugin.zsh",
+              "description": "a tiny plugin for yazi integration.",
+              "external": false,
+              "sourceRepo": "unixorn/awesome-zsh-plugins",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "ZSH Plugins",
+                "Plugins",
+                "yazi"
               ],
               "parentId": "root-development-environment-zsh-plugins-plugins"
             },
@@ -64173,8 +64472,8 @@
               "parentId": "root-development-environment-zsh-plugins-themes"
             },
             {
-              "id": "root-development-environment-zsh-plugins-themes-apple-aramirol",
-              "title": "apple (aramirol)",
+              "id": "root-development-environment-zsh-plugins-themes-apple",
+              "title": "apple",
               "kind": "repo",
               "repo": "aramirol/apple-zsh-custom-themes",
               "url": "https://github.com/aramirol/apple-zsh-custom-themes",
@@ -64194,33 +64493,7 @@
               "path": [
                 "ZSH Plugins",
                 "Themes",
-                "apple (aramirol)"
-              ],
-              "parentId": "root-development-environment-zsh-plugins-themes"
-            },
-            {
-              "id": "root-development-environment-zsh-plugins-themes-apple-bjrowlett2",
-              "title": "apple (bjrowlett2)",
-              "kind": "repo",
-              "repo": "bjrowlett2/apple-zsh-theme",
-              "url": "https://github.com/bjrowlett2/apple-zsh-theme",
-              "description": "Minimalist theme with git status decorations.",
-              "external": false,
-              "sourceRepo": "unixorn/awesome-zsh-plugins",
-              "depth": 2,
-              "children": [],
-              "stars": 0,
-              "forks": 0,
-              "language": null,
-              "license": null,
-              "topics": [],
-              "updated": null,
-              "pushed": null,
-              "awesome": false,
-              "path": [
-                "ZSH Plugins",
-                "Themes",
-                "apple (bjrowlett2)"
+                "apple"
               ],
               "parentId": "root-development-environment-zsh-plugins-themes"
             },
@@ -67861,6 +68134,32 @@
                 "ZSH Plugins",
                 "Themes",
                 "coolmelon"
+              ],
+              "parentId": "root-development-environment-zsh-plugins-themes"
+            },
+            {
+              "id": "root-development-environment-zsh-plugins-themes-corbon",
+              "title": "corbon",
+              "kind": "repo",
+              "repo": "spideythedev/corbon-zsh-theme",
+              "url": "https://github.com/spideythedev/corbon-zsh-theme",
+              "description": "A lightweight, highly customizable theme that gives you control over the layout, segments, Git information, colors, symbols, path display, command timing, and more without turning configuration into a mess.",
+              "external": false,
+              "sourceRepo": "unixorn/awesome-zsh-plugins",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "ZSH Plugins",
+                "Themes",
+                "corbon"
               ],
               "parentId": "root-development-environment-zsh-plugins-themes"
             },
@@ -81281,6 +81580,32 @@
               "parentId": "root-development-environment-zsh-plugins-themes"
             },
             {
+              "id": "root-development-environment-zsh-plugins-themes-port",
+              "title": "port",
+              "kind": "repo",
+              "repo": "stiermid/port",
+              "url": "https://github.com/stiermid/port",
+              "description": "A minimal theme combining the robbyrussell layout with the gentoo git workflow. Built on ZSH's built-in vcsinfo — no external dependencies, no prompt frameworks required. Shows the current directory, version-control state (Git and SVN), and command exit status in a single compact line.",
+              "external": false,
+              "sourceRepo": "unixorn/awesome-zsh-plugins",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "ZSH Plugins",
+                "Themes",
+                "port"
+              ],
+              "parentId": "root-development-environment-zsh-plugins-themes"
+            },
+            {
               "id": "root-development-environment-zsh-plugins-themes-power",
               "title": "power",
               "kind": "repo",
@@ -90830,12 +91155,12 @@
               "sourceRepo": "unixorn/awesome-zsh-plugins",
               "depth": 2,
               "children": [],
-              "stars": 2523,
+              "stars": 2524,
               "forks": 229,
               "language": "Shell",
               "license": "MIT",
               "topics": [],
-              "updated": "2026-09-05T16:25:45Z",
+              "updated": "2026-09-19T12:07:31Z",
               "pushed": "2024-01-16T06:56:48Z",
               "awesome": true,
               "path": [
@@ -91397,7 +91722,7 @@
                   "kind": "repo",
                   "repo": "kislyuk/argcomplete",
                   "url": "https://github.com/kislyuk/argcomplete",
-                  "description": "Generates tab completions for programs using Python's argparse module.",
+                  "description": "Generates tab completions for programs written using Python's argparse module.",
                   "external": false,
                   "sourceRepo": "unixorn/awesome-zsh-plugins",
                   "depth": 3,
@@ -91532,7 +91857,7 @@
                   "kind": "repo",
                   "repo": "adaszko/complgen",
                   "url": "https://github.com/adaszko/complgen",
-                  "description": "Generates completion scripts for bash/fish/zsh from a man-page/EBNF-like grammar. The resulting standalone scripts require only the target shell to be present.",
+                  "description": "Generates completion scripts for bash/fish/ZSH from a man-page/EBNF-like grammar. The resulting standalone scripts require only the target shell to be present.",
                   "external": false,
                   "sourceRepo": "unixorn/awesome-zsh-plugins",
                   "depth": 3,
@@ -91667,7 +91992,7 @@
                   "kind": "repo",
                   "repo": "johnstonskj/rust-zsh-plugin-cli",
                   "url": "https://github.com/johnstonskj/rust-zsh-plugin-cli",
-                  "description": "This tool scaffolds Zsh plugins with best practices built-in, including function tracking for clean unloading, optional alias support, autoloaded functions, and CI/CD workflows for shellcheck and shellspec. Choose from minimal, simple, or complete templates to match your plugin's complexity.",
+                  "description": "This tool scaffolds ZSH plugins with best practices built-in, including function tracking for clean unloading, optional alias support, autoloaded functions, and CI/CD workflows for shellcheck and shellspec. Choose from minimal, simple, or complete templates to match your plugin's complexity.",
                   "external": false,
                   "sourceRepo": "unixorn/awesome-zsh-plugins",
                   "depth": 3,
@@ -91802,7 +92127,7 @@
                   "kind": "repo",
                   "repo": "ctil/zargparse",
                   "url": "https://github.com/ctil/zargparse",
-                  "description": "Pass it a script that uses argparse and it will write a ZSH completion to your current directory.",
+                  "description": "Pass it a script that uses Python's argparse and it will write a ZSH completion to your current directory.",
                   "external": false,
                   "sourceRepo": "unixorn/awesome-zsh-plugins",
                   "depth": 3,
@@ -91959,6 +92284,33 @@
                   "parentId": "root-development-environment-zsh-plugins-other-resources-zsh-tools"
                 },
                 {
+                  "id": "root-development-environment-zsh-plugins-other-resources-zsh-tools-zshist",
+                  "title": "zshist",
+                  "kind": "repo",
+                  "repo": "kongo2002/zshist",
+                  "url": "https://github.com/kongo2002/zshist",
+                  "description": "A shell history daemon-free replacement for ZSH's built-in history. Stores every command in a JSONL file with directory, exit code, timestamp, and duration, and gives you fzf-powered fuzzy search plus prefix-based up-arrow-style search.",
+                  "external": false,
+                  "sourceRepo": "unixorn/awesome-zsh-plugins",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "ZSH Plugins",
+                    "Other Resources",
+                    "ZSH Tools",
+                    "zshist"
+                  ],
+                  "parentId": "root-development-environment-zsh-plugins-other-resources-zsh-tools"
+                },
+                {
                   "id": "root-development-environment-zsh-plugins-other-resources-zsh-tools-zunit",
                   "title": "zunit",
                   "kind": "repo",
@@ -92020,12 +92372,12 @@
                   "sourceRepo": "unixorn/awesome-zsh-plugins",
                   "depth": 3,
                   "children": [],
-                  "stars": 3342,
-                  "forks": 207,
+                  "stars": 3349,
+                  "forks": 208,
                   "language": null,
                   "license": null,
                   "topics": [],
-                  "updated": "2026-09-10T17:18:04Z",
+                  "updated": "2026-09-18T16:15:11Z",
                   "pushed": "2024-07-29T13:08:35Z",
                   "awesome": true,
                   "path": [
@@ -92249,8 +92601,8 @@
           "parentId": "root-development-environment-zsh-plugins"
         }
       ],
-      "stars": 18001,
-      "forks": 608,
+      "stars": 18023,
+      "forks": 610,
       "language": "Shell",
       "license": "BSD-3-Clause",
       "topics": [
@@ -92268,8 +92620,8 @@
         "zsh-prompt",
         "zsh-theme"
       ],
-      "updated": "2026-09-13T06:19:18Z",
-      "pushed": "2026-09-06T12:37:13Z",
+      "updated": "2026-09-20T07:12:03Z",
+      "pushed": "2026-09-19T15:13:39Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -93795,8 +94147,8 @@
               "parentId": "root-development-environment-github-browser-extensions"
             }
           ],
-          "stars": 3301,
-          "forks": 204,
+          "stars": 3302,
+          "forks": 205,
           "language": "JavaScript",
           "license": null,
           "topics": [
@@ -93808,7 +94160,7 @@
             "github-extension",
             "list"
           ],
-          "updated": "2026-09-12T08:22:58Z",
+          "updated": "2026-09-19T16:06:18Z",
           "pushed": "2024-08-18T20:11:31Z",
           "awesome": true,
           "readmeStatus": "expanded",
@@ -95545,7 +95897,7 @@
               "parentId": "root-development-environment-github-pinned-gists"
             }
           ],
-          "stars": 2117,
+          "stars": 2119,
           "forks": 96,
           "language": null,
           "license": null,
@@ -95554,7 +95906,7 @@
             "awesome-list",
             "pinned-gist"
           ],
-          "updated": "2026-09-08T20:01:10Z",
+          "updated": "2026-09-19T09:35:23Z",
           "pushed": "2025-08-05T04:12:43Z",
           "awesome": true,
           "readmeStatus": "expanded",
@@ -96469,8 +96821,8 @@
               "sourceRepo": "phillipadsmith/awesome-github",
               "depth": 2,
               "children": [],
-              "stars": 3301,
-              "forks": 204,
+              "stars": 3302,
+              "forks": 205,
               "language": "JavaScript",
               "license": null,
               "topics": [
@@ -96482,7 +96834,7 @@
                 "github-extension",
                 "list"
               ],
-              "updated": "2026-09-12T08:22:58Z",
+              "updated": "2026-09-19T16:06:18Z",
               "pushed": "2024-08-18T20:11:31Z",
               "awesome": true,
               "path": [
@@ -102499,7 +102851,7 @@
           "parentId": "root-development-environment-git-add-ons"
         }
       ],
-      "stars": 2197,
+      "stars": 2200,
       "forks": 127,
       "language": null,
       "license": null,
@@ -102517,7 +102869,7 @@
         "lists",
         "resources"
       ],
-      "updated": "2026-09-12T00:21:54Z",
+      "updated": "2026-09-18T16:29:57Z",
       "pushed": "2024-10-15T07:18:48Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -102577,7 +102929,7 @@
                     "hooks",
                     "script"
                   ],
-                  "updated": "2026-09-08T10:05:29Z",
+                  "updated": "2026-09-19T06:06:51Z",
                   "pushed": "2026-03-25T23:23:08Z",
                   "awesome": true,
                   "path": [
@@ -102636,7 +102988,7 @@
                     "hooks",
                     "script"
                   ],
-                  "updated": "2026-09-08T10:05:29Z",
+                  "updated": "2026-09-19T06:06:51Z",
                   "pushed": "2026-03-25T23:23:08Z",
                   "awesome": true,
                   "path": [
@@ -102671,7 +103023,7 @@
                     "hooks",
                     "script"
                   ],
-                  "updated": "2026-09-08T10:05:29Z",
+                  "updated": "2026-09-19T06:06:51Z",
                   "pushed": "2026-03-25T23:23:08Z",
                   "awesome": true,
                   "path": [
@@ -102730,7 +103082,7 @@
                     "hooks",
                     "script"
                   ],
-                  "updated": "2026-09-08T10:05:29Z",
+                  "updated": "2026-09-19T06:06:51Z",
                   "pushed": "2026-03-25T23:23:08Z",
                   "awesome": true,
                   "path": [
@@ -102789,7 +103141,7 @@
                     "hooks",
                     "script"
                   ],
-                  "updated": "2026-09-08T10:05:29Z",
+                  "updated": "2026-09-19T06:06:51Z",
                   "pushed": "2026-03-25T23:23:08Z",
                   "awesome": true,
                   "path": [
@@ -102824,7 +103176,7 @@
                     "hooks",
                     "script"
                   ],
-                  "updated": "2026-09-08T10:05:29Z",
+                  "updated": "2026-09-19T06:06:51Z",
                   "pushed": "2026-03-25T23:23:08Z",
                   "awesome": true,
                   "path": [
@@ -102859,7 +103211,7 @@
                     "hooks",
                     "script"
                   ],
-                  "updated": "2026-09-08T10:05:29Z",
+                  "updated": "2026-09-19T06:06:51Z",
                   "pushed": "2026-03-25T23:23:08Z",
                   "awesome": true,
                   "path": [
@@ -102894,7 +103246,7 @@
                     "hooks",
                     "script"
                   ],
-                  "updated": "2026-09-08T10:05:29Z",
+                  "updated": "2026-09-19T06:06:51Z",
                   "pushed": "2026-03-25T23:23:08Z",
                   "awesome": true,
                   "path": [
@@ -102929,7 +103281,7 @@
                     "hooks",
                     "script"
                   ],
-                  "updated": "2026-09-08T10:05:29Z",
+                  "updated": "2026-09-19T06:06:51Z",
                   "pushed": "2026-03-25T23:23:08Z",
                   "awesome": true,
                   "path": [
@@ -102988,7 +103340,7 @@
                     "hooks",
                     "script"
                   ],
-                  "updated": "2026-09-08T10:05:29Z",
+                  "updated": "2026-09-19T06:06:51Z",
                   "pushed": "2026-03-25T23:23:08Z",
                   "awesome": true,
                   "path": [
@@ -103023,7 +103375,7 @@
                     "hooks",
                     "script"
                   ],
-                  "updated": "2026-09-08T10:05:29Z",
+                  "updated": "2026-09-19T06:06:51Z",
                   "pushed": "2026-03-25T23:23:08Z",
                   "awesome": true,
                   "path": [
@@ -103082,7 +103434,7 @@
                     "hooks",
                     "script"
                   ],
-                  "updated": "2026-09-08T10:05:29Z",
+                  "updated": "2026-09-19T06:06:51Z",
                   "pushed": "2026-03-25T23:23:08Z",
                   "awesome": true,
                   "path": [
@@ -103141,7 +103493,7 @@
                     "hooks",
                     "script"
                   ],
-                  "updated": "2026-09-08T10:05:29Z",
+                  "updated": "2026-09-19T06:06:51Z",
                   "pushed": "2026-03-25T23:23:08Z",
                   "awesome": true,
                   "path": [
@@ -103200,7 +103552,7 @@
                     "hooks",
                     "script"
                   ],
-                  "updated": "2026-09-08T10:05:29Z",
+                  "updated": "2026-09-19T06:06:51Z",
                   "pushed": "2026-03-25T23:23:08Z",
                   "awesome": true,
                   "path": [
@@ -103259,7 +103611,7 @@
                     "hooks",
                     "script"
                   ],
-                  "updated": "2026-09-08T10:05:29Z",
+                  "updated": "2026-09-19T06:06:51Z",
                   "pushed": "2026-03-25T23:23:08Z",
                   "awesome": true,
                   "path": [
@@ -103900,7 +104252,7 @@
         "hooks",
         "script"
       ],
-      "updated": "2026-09-08T10:05:29Z",
+      "updated": "2026-09-19T06:06:51Z",
       "pushed": "2026-03-25T23:23:08Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -104357,7 +104709,7 @@
           "parentId": "root-development-environment-ssh"
         }
       ],
-      "stars": 2837,
+      "stars": 2841,
       "forks": 185,
       "language": null,
       "license": "CC0-1.0",
@@ -104374,7 +104726,7 @@
         "ssh-keys",
         "ssh-keyscan"
       ],
-      "updated": "2026-09-11T20:25:48Z",
+      "updated": "2026-09-18T05:23:25Z",
       "pushed": "2023-08-10T10:15:24Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -104507,7 +104859,7 @@
           "parentId": "root-development-environment-hyper"
         }
       ],
-      "stars": 11003,
+      "stars": 11009,
       "forks": 372,
       "language": null,
       "license": "CC0-1.0",
@@ -104519,7 +104871,7 @@
         "terminal",
         "zeit"
       ],
-      "updated": "2026-09-11T20:05:07Z",
+      "updated": "2026-09-18T23:11:14Z",
       "pushed": "2022-09-20T08:52:39Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -116504,8 +116856,8 @@
           "parentId": "root-development-environment-github-actions"
         }
       ],
-      "stars": 28217,
-      "forks": 1792,
+      "stars": 28240,
+      "forks": 1805,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -116518,7 +116870,7 @@
         "github",
         "github-actions"
       ],
-      "updated": "2026-09-13T05:47:02Z",
+      "updated": "2026-09-20T07:27:51Z",
       "pushed": "2024-09-01T20:32:39Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -117722,11 +118074,11 @@
               "parentId": "root-development-environment-wezterm-themes"
             },
             {
-              "id": "root-development-environment-wezterm-themes-willytop8-wezterm-window-tint",
-              "title": "willytop8/Wezterm-Window-Tint",
+              "id": "root-development-environment-wezterm-themes-william-ricchiuti-wezterm-window-tint",
+              "title": "william-ricchiuti/Wezterm-Window-Tint",
               "kind": "repo",
-              "repo": "willytop8/wezterm-window-tint",
-              "url": "https://github.com/willytop8/wezterm-window-tint",
+              "repo": "william-ricchiuti/wezterm-window-tint",
+              "url": "https://github.com/william-ricchiuti/wezterm-window-tint",
               "description": "Color the window frame, tab bar, and status badge by the active pane's Git root.",
               "external": false,
               "sourceRepo": "michaelbrusegard/awesome-wezterm",
@@ -117743,7 +118095,7 @@
               "path": [
                 "WezTerm",
                 "Themes",
-                "willytop8/Wezterm-Window-Tint"
+                "william-ricchiuti/Wezterm-Window-Tint"
               ],
               "parentId": "root-development-environment-wezterm-themes"
             }
@@ -118202,8 +118554,8 @@
           "parentId": "root-development-environment-wezterm"
         }
       ],
-      "stars": 747,
-      "forks": 30,
+      "stars": 759,
+      "forks": 31,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -118214,8 +118566,8 @@
         "wezterm-lua",
         "wezterm-plugin"
       ],
-      "updated": "2026-09-11T18:28:10Z",
-      "pushed": "2026-08-21T07:55:21Z",
+      "updated": "2026-09-19T17:56:45Z",
+      "pushed": "2026-09-18T09:52:42Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [

@@ -18625,7 +18625,7 @@
           "parentId": "root-content-management-systems-craft-cms"
         }
       ],
-      "stars": 549,
+      "stars": 548,
       "forks": 55,
       "language": null,
       "license": "CC0-1.0",
@@ -18637,7 +18637,7 @@
         "craftcms",
         "list"
       ],
-      "updated": "2026-09-02T18:58:45Z",
+      "updated": "2026-09-14T19:51:14Z",
       "pushed": "2023-02-01T18:27:15Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -31969,7 +31969,7 @@
         }
       ],
       "stars": 78,
-      "forks": 11,
+      "forks": 12,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -32760,6 +32760,55 @@
           "parentId": "root-content-management-systems-payload"
         },
         {
+          "id": "root-content-management-systems-payload-components",
+          "title": "Components",
+          "kind": "section",
+          "sourceRepo": "danailminchev/awesome-payload",
+          "depth": 1,
+          "url": "https://github.com/danailminchev/awesome-payload#components",
+          "children": [
+            {
+              "id": "root-content-management-systems-payload-components-payload-components",
+              "title": "Payload Components",
+              "kind": "repo",
+              "repo": "ducksss/payload-components",
+              "url": "https://github.com/ducksss/payload-components",
+              "description": "MIT registry and CLI for installing wired Payload CMS blocks into Payload v3 and Next.js projects.",
+              "external": false,
+              "sourceRepo": "danailminchev/awesome-payload",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Payload",
+                "Components",
+                "Payload Components"
+              ],
+              "parentId": "root-content-management-systems-payload-components"
+            }
+          ],
+          "stars": 0,
+          "forks": 0,
+          "language": null,
+          "license": null,
+          "topics": [],
+          "updated": null,
+          "pushed": null,
+          "awesome": false,
+          "path": [
+            "Payload",
+            "Components"
+          ],
+          "parentId": "root-content-management-systems-payload"
+        },
+        {
           "id": "root-content-management-systems-payload-templates",
           "title": "Templates",
           "kind": "section",
@@ -33118,8 +33167,8 @@
           "parentId": "root-content-management-systems-payload"
         }
       ],
-      "stars": 96,
-      "forks": 10,
+      "stars": 97,
+      "forks": 11,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -33128,8 +33177,8 @@
         "payload",
         "payloadcms"
       ],
-      "updated": "2026-09-12T18:26:07Z",
-      "pushed": "2025-12-25T16:29:36Z",
+      "updated": "2026-09-16T07:23:35Z",
+      "pushed": "2026-09-14T18:41:14Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [

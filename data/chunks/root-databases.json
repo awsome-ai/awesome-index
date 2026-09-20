@@ -243,12 +243,12 @@
           "parentId": "root-databases-database"
         }
       ],
-      "stars": 1373,
-      "forks": 183,
+      "stars": 1376,
+      "forks": 185,
       "language": null,
       "license": null,
       "topics": [],
-      "updated": "2026-09-09T13:52:07Z",
+      "updated": "2026-09-19T23:45:34Z",
       "pushed": "2024-03-04T12:40:15Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -1660,6 +1660,32 @@
           "url": "https://github.com/shlomi-noach/awesome-mysql#deployment",
           "children": [
             {
+              "id": "root-databases-mysql-deployment-dbdeployer",
+              "title": "dbdeployer",
+              "kind": "repo",
+              "repo": "proxysql/dbdeployer",
+              "url": "https://github.com/proxysql/dbdeployer",
+              "description": "A tool that installs one or more MySQL servers within seconds, easily, securely, and with full control.",
+              "external": false,
+              "sourceRepo": "shlomi-noach/awesome-mysql",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "MySQL",
+                "Deployment",
+                "dbdeployer"
+              ],
+              "parentId": "root-databases-mysql-deployment"
+            },
+            {
               "id": "root-databases-mysql-deployment-mariadb4j",
               "title": "MariaDB4j",
               "kind": "repo",
@@ -2509,11 +2535,11 @@
               "parentId": "root-databases-mysql-ha"
             },
             {
-              "id": "root-databases-mysql-ha-orchestrator-archived",
-              "title": "Orchestrator (archived)",
-              "kind": "topic",
-              "repo": "",
-              "url": "",
+              "id": "root-databases-mysql-ha-orchestrator",
+              "title": "Orchestrator",
+              "kind": "repo",
+              "repo": "proxysql/orchestrator",
+              "url": "https://github.com/proxysql/orchestrator",
               "description": "MySQL replication topology management and High Availability solution.",
               "external": false,
               "sourceRepo": "shlomi-noach/awesome-mysql",
@@ -2530,7 +2556,7 @@
               "path": [
                 "MySQL",
                 "HA",
-                "Orchestrator (archived)"
+                "Orchestrator"
               ],
               "parentId": "root-databases-mysql-ha"
             },
@@ -3533,13 +3559,13 @@
           "parentId": "root-databases-mysql"
         }
       ],
-      "stars": 2613,
-      "forks": 411,
+      "stars": 2614,
+      "forks": 412,
       "language": "Python",
       "license": "NOASSERTION",
       "topics": [],
-      "updated": "2026-09-12T14:25:46Z",
-      "pushed": "2026-08-17T12:26:05Z",
+      "updated": "2026-09-15T02:20:55Z",
+      "pushed": "2026-09-14T09:51:23Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -3558,7 +3584,7 @@
       "sourceRepo": "sindresorhus/awesome",
       "depth": 1,
       "children": [],
-      "stars": 3056,
+      "stars": 3058,
       "forks": 165,
       "language": "Python",
       "license": null,
@@ -3572,7 +3598,7 @@
         "rdbms",
         "sqlalchemy"
       ],
-      "updated": "2026-09-07T08:03:27Z",
+      "updated": "2026-09-17T03:53:31Z",
       "pushed": "2026-06-08T08:36:57Z",
       "awesome": true,
       "readmeStatus": "empty",
@@ -9628,6 +9654,33 @@
                   "parentId": "root-databases-mongodb-tools-desktop"
                 },
                 {
+                  "id": "root-databases-mongodb-tools-desktop-beekeeper-studio",
+                  "title": "Beekeeper Studio",
+                  "kind": "link",
+                  "repo": "",
+                  "url": "https://www.beekeeperstudio.io/db/mongodb-client/",
+                  "description": "Cross-platform SQL editor and database manager with native MongoDB support (part of the paid Ultimate tier), plus MySQL, Postgres, SQLite, and more.",
+                  "external": true,
+                  "sourceRepo": "ramnes/awesome-mongodb",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "MongoDB",
+                    "Tools",
+                    "Desktop",
+                    "Beekeeper Studio"
+                  ],
+                  "parentId": "root-databases-mongodb-tools-desktop"
+                },
+                {
                   "id": "root-databases-mongodb-tools-desktop-datagrip",
                   "title": "DataGrip",
                   "kind": "link",
@@ -11274,7 +11327,7 @@
         }
       ],
       "stars": 2675,
-      "forks": 351,
+      "forks": 354,
       "language": null,
       "license": null,
       "topics": [
@@ -11284,8 +11337,8 @@
         "mongodb",
         "mongodb-resources"
       ],
-      "updated": "2026-09-03T08:49:06Z",
-      "pushed": "2026-08-26T17:14:59Z",
+      "updated": "2026-09-19T16:51:51Z",
+      "pushed": "2026-09-18T11:22:51Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -15965,8 +16018,8 @@
           "parentId": "root-databases-postgresql"
         }
       ],
-      "stars": 12084,
-      "forks": 1023,
+      "stars": 12101,
+      "forks": 1027,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -15974,7 +16027,7 @@
         "postgres",
         "postgresql"
       ],
-      "updated": "2026-09-13T06:28:26Z",
+      "updated": "2026-09-19T18:38:38Z",
       "pushed": "2026-08-31T09:07:19Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -29738,8 +29791,8 @@
           "parentId": "root-databases-database-tools"
         }
       ],
-      "stars": 5303,
-      "forks": 490,
+      "stars": 5314,
+      "forks": 491,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -29753,7 +29806,7 @@
         "sql-client",
         "visualization"
       ],
-      "updated": "2026-09-13T02:24:54Z",
+      "updated": "2026-09-19T23:45:38Z",
       "pushed": "2026-05-21T15:18:32Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -31592,7 +31645,7 @@
         }
       ],
       "stars": 482,
-      "forks": 67,
+      "forks": 69,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -31600,7 +31653,7 @@
         "awesome-list",
         "supabase"
       ],
-      "updated": "2026-09-11T21:13:53Z",
+      "updated": "2026-09-16T05:21:08Z",
       "pushed": "2026-07-19T02:12:23Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -34498,7 +34551,7 @@
           "parentId": "root-databases-pocketbase"
         }
       ],
-      "stars": 1203,
+      "stars": 1205,
       "forks": 67,
       "language": null,
       "license": "CC0-1.0",
@@ -34508,7 +34561,7 @@
         "golang",
         "pocketbase"
       ],
-      "updated": "2026-09-12T20:34:08Z",
+      "updated": "2026-09-18T20:02:15Z",
       "pushed": "2026-07-08T22:06:56Z",
       "awesome": true,
       "readmeStatus": "expanded",
