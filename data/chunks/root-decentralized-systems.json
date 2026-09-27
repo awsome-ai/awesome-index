@@ -78,6 +78,32 @@
               "parentId": "root-decentralized-systems-bitcoin-list-of-content"
             },
             {
+              "id": "root-decentralized-systems-bitcoin-list-of-content-market-data-api",
+              "title": "Market Data API",
+              "kind": "link",
+              "repo": "",
+              "url": "https://github.com/igorbarinov/awesome-bitcoin#market-data-api",
+              "description": "",
+              "external": false,
+              "sourceRepo": "igorbarinov/awesome-bitcoin",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Bitcoin",
+                "List of content",
+                "Market Data API"
+              ],
+              "parentId": "root-decentralized-systems-bitcoin-list-of-content"
+            },
+            {
               "id": "root-decentralized-systems-bitcoin-list-of-content-wallets-api",
               "title": "Wallets API",
               "kind": "link",
@@ -126,6 +152,32 @@
                 "Bitcoin",
                 "List of content",
                 "Open Source wallets"
+              ],
+              "parentId": "root-decentralized-systems-bitcoin-list-of-content"
+            },
+            {
+              "id": "root-decentralized-systems-bitcoin-list-of-content-privacy-projects",
+              "title": "Privacy projects",
+              "kind": "link",
+              "repo": "",
+              "url": "https://github.com/igorbarinov/awesome-bitcoin#privacy-projects",
+              "description": "",
+              "external": false,
+              "sourceRepo": "igorbarinov/awesome-bitcoin",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Bitcoin",
+                "List of content",
+                "Privacy projects"
               ],
               "parentId": "root-decentralized-systems-bitcoin-list-of-content"
             },
@@ -282,6 +334,32 @@
                 "Bitcoin",
                 "List of content",
                 "Ruby Libraries"
+              ],
+              "parentId": "root-decentralized-systems-bitcoin-list-of-content"
+            },
+            {
+              "id": "root-decentralized-systems-bitcoin-list-of-content-rust-libraries",
+              "title": "Rust Libraries",
+              "kind": "link",
+              "repo": "",
+              "url": "https://github.com/igorbarinov/awesome-bitcoin#rust-libraries",
+              "description": "",
+              "external": false,
+              "sourceRepo": "igorbarinov/awesome-bitcoin",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Bitcoin",
+                "List of content",
+                "Rust Libraries"
               ],
               "parentId": "root-decentralized-systems-bitcoin-list-of-content"
             },
@@ -1163,13 +1241,13 @@
           "parentId": "root-decentralized-systems-bitcoin"
         }
       ],
-      "stars": 1354,
-      "forks": 279,
+      "stars": 1356,
+      "forks": 286,
       "language": null,
       "license": null,
       "topics": [],
-      "updated": "2026-09-19T14:48:32Z",
-      "pushed": "2026-09-14T11:25:50Z",
+      "updated": "2026-09-23T08:41:20Z",
+      "pushed": "2026-09-20T15:12:28Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -5704,7 +5782,7 @@
         "blockchain",
         "list"
       ],
-      "updated": "2026-08-20T04:20:32Z",
+      "updated": "2026-09-23T23:29:24Z",
       "pushed": "2020-10-12T09:05:29Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -12340,7 +12418,7 @@
           "parentId": "root-decentralized-systems-blockchain-ai"
         }
       ],
-      "stars": 1155,
+      "stars": 1158,
       "forks": 229,
       "language": null,
       "license": null,
@@ -12351,7 +12429,7 @@
         "blockchain",
         "machine-learning"
       ],
-      "updated": "2026-09-19T14:04:48Z",
+      "updated": "2026-09-26T17:44:05Z",
       "pushed": "2026-02-06T19:23:10Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -24497,8 +24575,8 @@
           "parentId": "root-decentralized-systems-waves"
         }
       ],
-      "stars": 88,
-      "forks": 27,
+      "stars": 87,
+      "forks": 28,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -24517,7 +24595,7 @@
         "wavesprotocol",
         "web3"
       ],
-      "updated": "2026-06-16T16:00:50Z",
+      "updated": "2026-09-25T21:36:40Z",
       "pushed": "2020-10-05T14:05:48Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -44461,7 +44539,7 @@
           "parentId": "root-decentralized-systems-zeronet"
         }
       ],
-      "stars": 116,
+      "stars": 114,
       "forks": 11,
       "language": null,
       "license": "CC0-1.0",
@@ -44472,7 +44550,7 @@
         "zeronet",
         "zeronet-site"
       ],
-      "updated": "2026-08-28T02:42:14Z",
+      "updated": "2026-09-24T08:12:23Z",
       "pushed": "2025-03-06T15:13:08Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -45192,7 +45270,7 @@
         }
       ],
       "stars": 603,
-      "forks": 174,
+      "forks": 175,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -49541,7 +49619,7 @@
           "parentId": "root-decentralized-systems-tor"
         }
       ],
-      "stars": 129,
+      "stars": 130,
       "forks": 15,
       "language": null,
       "license": "CC0-1.0",
@@ -49552,7 +49630,7 @@
         "onion-routing",
         "tor"
       ],
-      "updated": "2026-09-15T21:59:36Z",
+      "updated": "2026-09-27T03:18:14Z",
       "pushed": "2026-09-12T19:31:51Z",
       "awesome": true,
       "readmeStatus": "expanded",

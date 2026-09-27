@@ -310,6 +310,58 @@
               "parentId": "root-theory-talks-categories"
             },
             {
+              "id": "root-theory-talks-categories-testing",
+              "title": "Testing",
+              "kind": "link",
+              "repo": "",
+              "url": "https://github.com/janvanryswyck/awesome-talks#testing",
+              "description": "",
+              "external": false,
+              "sourceRepo": "janvanryswyck/awesome-talks",
+              "depth": 4,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Talks",
+                "Categories",
+                "Testing"
+              ],
+              "parentId": "root-theory-talks-categories"
+            },
+            {
+              "id": "root-theory-talks-categories-llm",
+              "title": "LLM",
+              "kind": "link",
+              "repo": "",
+              "url": "https://github.com/janvanryswyck/awesome-talks#llm",
+              "description": "",
+              "external": false,
+              "sourceRepo": "janvanryswyck/awesome-talks",
+              "depth": 4,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Talks",
+                "Categories",
+                "LLM"
+              ],
+              "parentId": "root-theory-talks-categories"
+            },
+            {
               "id": "root-theory-talks-categories-cognitive-development",
               "title": "Cognitive Development",
               "kind": "link",
@@ -566,7 +618,7 @@
               "parentId": "root-theory-talks-categories"
             },
             {
-              "id": "root-theory-talks-categories-testing",
+              "id": "root-theory-talks-categories-testing-2",
               "title": "Testing",
               "kind": "section",
               "sourceRepo": "janvanryswyck/awesome-talks",
@@ -589,7 +641,7 @@
               "parentId": "root-theory-talks-categories"
             },
             {
-              "id": "root-theory-talks-categories-llm",
+              "id": "root-theory-talks-categories-llm-2",
               "title": "LLM",
               "kind": "section",
               "sourceRepo": "janvanryswyck/awesome-talks",
@@ -650,13 +702,13 @@
           "parentId": "root-theory-talks"
         }
       ],
-      "stars": 6202,
-      "forks": 418,
+      "stars": 6200,
+      "forks": 417,
       "language": null,
       "license": null,
       "topics": [],
-      "updated": "2026-09-17T20:17:09Z",
-      "pushed": "2026-08-26T13:55:00Z",
+      "updated": "2026-09-27T03:54:17Z",
+      "pushed": "2026-09-24T19:06:04Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -3634,8 +3686,8 @@
                   "sourceRepo": "gaerae/awesome-algorithms-education",
                   "depth": 3,
                   "children": [],
-                  "stars": 14186,
-                  "forks": 2614,
+                  "stars": 14192,
+                  "forks": 2615,
                   "language": null,
                   "license": "CC-BY-4.0",
                   "topics": [
@@ -3652,7 +3704,7 @@
                     "quora",
                     "reference-materials"
                   ],
-                  "updated": "2026-09-20T06:46:21Z",
+                  "updated": "2026-09-26T14:36:12Z",
                   "pushed": "2024-12-08T09:40:58Z",
                   "awesome": true,
                   "path": [
@@ -3755,13 +3807,13 @@
                   "sourceRepo": "gaerae/awesome-algorithms-education",
                   "depth": 3,
                   "children": [],
-                  "stars": 74377,
-                  "forks": 15651,
+                  "stars": 74466,
+                  "forks": 15662,
                   "language": "Python",
                   "license": "NOASSERTION",
                   "topics": [],
-                  "updated": "2026-09-20T05:05:44Z",
-                  "pushed": "2026-09-17T10:19:48Z",
+                  "updated": "2026-09-27T07:11:26Z",
+                  "pushed": "2026-09-22T12:17:28Z",
                   "awesome": true,
                   "path": [
                     "Algorithms",
@@ -3923,7 +3975,7 @@
               "parentId": "root-theory-algorithms-education"
             }
           ],
-          "stars": 903,
+          "stars": 904,
           "forks": 65,
           "language": null,
           "license": null,
@@ -3935,7 +3987,7 @@
             "education",
             "programming"
           ],
-          "updated": "2026-09-19T23:40:20Z",
+          "updated": "2026-09-23T05:37:50Z",
           "pushed": "2022-11-15T12:24:33Z",
           "awesome": true,
           "readmeStatus": "expanded",
@@ -4379,7 +4431,7 @@
               "sourceRepo": "tayllan/awesome-algorithms",
               "depth": 2,
               "children": [],
-              "stars": 1213,
+              "stars": 1217,
               "forks": 72,
               "language": "Python",
               "license": "CC0-1.0",
@@ -4393,7 +4445,7 @@
                 "theoretical-computer-science",
                 "theory-of-computation"
               ],
-              "updated": "2026-09-18T01:34:16Z",
+              "updated": "2026-09-25T18:57:09Z",
               "pushed": "2026-01-30T20:06:12Z",
               "awesome": true,
               "path": [
@@ -4414,8 +4466,8 @@
               "sourceRepo": "tayllan/awesome-algorithms",
               "depth": 2,
               "children": [],
-              "stars": 16457,
-              "forks": 1610,
+              "stars": 16490,
+              "forks": 1612,
               "language": "Python",
               "license": "CC0-1.0",
               "topics": [
@@ -4425,7 +4477,7 @@
                 "list",
                 "mathematics"
               ],
-              "updated": "2026-09-20T07:27:32Z",
+              "updated": "2026-09-27T07:37:00Z",
               "pushed": "2026-08-14T08:36:36Z",
               "awesome": true,
               "path": [
@@ -4451,13 +4503,13 @@
           "parentId": "root-theory-algorithms"
         }
       ],
-      "stars": 25550,
-      "forks": 2964,
+      "stars": 25588,
+      "forks": 2966,
       "language": null,
       "license": null,
       "topics": [],
-      "updated": "2026-09-20T02:55:27Z",
-      "pushed": "2026-04-18T15:06:58Z",
+      "updated": "2026-09-27T04:03:41Z",
+      "pushed": "2026-09-22T17:49:33Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -6985,8 +7037,8 @@
           "parentId": "root-theory-artificial-intelligence"
         }
       ],
-      "stars": 16510,
-      "forks": 2559,
+      "stars": 16567,
+      "forks": 2564,
       "language": "Python",
       "license": "MIT",
       "topics": [
@@ -7002,7 +7054,7 @@
         "statistical-learning",
         "unsupervised-learning"
       ],
-      "updated": "2026-09-20T07:27:28Z",
+      "updated": "2026-09-27T07:29:21Z",
       "pushed": "2026-08-15T08:12:01Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -7756,8 +7808,8 @@
           "parentId": "root-theory-competitive-programming"
         }
       ],
-      "stars": 14186,
-      "forks": 2614,
+      "stars": 14192,
+      "forks": 2615,
       "language": null,
       "license": "CC-BY-4.0",
       "topics": [
@@ -7774,7 +7826,7 @@
         "quora",
         "reference-materials"
       ],
-      "updated": "2026-09-20T06:46:21Z",
+      "updated": "2026-09-26T14:36:12Z",
       "pushed": "2024-12-08T09:40:58Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -9379,8 +9431,8 @@
           "parentId": "root-theory-math"
         }
       ],
-      "stars": 16457,
-      "forks": 1610,
+      "stars": 16490,
+      "forks": 1612,
       "language": "Python",
       "license": "CC0-1.0",
       "topics": [
@@ -9390,7 +9442,7 @@
         "list",
         "mathematics"
       ],
-      "updated": "2026-09-20T07:27:32Z",
+      "updated": "2026-09-27T07:37:00Z",
       "pushed": "2026-08-14T08:36:36Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -9429,7 +9481,7 @@
               "sourceRepo": "passy/awesome-recursion-schemes",
               "depth": 2,
               "children": [],
-              "stars": 1308,
+              "stars": 1309,
               "forks": 57,
               "language": null,
               "license": null,
@@ -9438,7 +9490,7 @@
                 "catamorphisms",
                 "recursion-schemes"
               ],
-              "updated": "2026-09-18T02:33:43Z",
+              "updated": "2026-09-21T05:07:51Z",
               "pushed": "2024-04-25T20:21:03Z",
               "awesome": true,
               "path": [
@@ -10798,7 +10850,7 @@
           "parentId": "root-theory-recursion-schemes"
         }
       ],
-      "stars": 1308,
+      "stars": 1309,
       "forks": 57,
       "language": null,
       "license": null,
@@ -10807,7 +10859,7 @@
         "catamorphisms",
         "recursion-schemes"
       ],
-      "updated": "2026-09-18T02:33:43Z",
+      "updated": "2026-09-21T05:07:51Z",
       "pushed": "2024-04-25T20:21:03Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -17605,7 +17657,7 @@
               "depth": 2,
               "children": [],
               "stars": 4115,
-              "forks": 639,
+              "forks": 640,
               "language": "R",
               "license": null,
               "topics": [
@@ -17625,7 +17677,7 @@
                 "social-network-analysis",
                 "social-networks"
               ],
-              "updated": "2026-09-16T21:01:56Z",
+              "updated": "2026-09-21T12:09:06Z",
               "pushed": "2026-08-20T13:22:11Z",
               "awesome": true,
               "path": [
@@ -17646,8 +17698,8 @@
               "sourceRepo": "sellisd/awesome-complexity",
               "depth": 2,
               "children": [],
-              "stars": 299,
-              "forks": 21,
+              "stars": 300,
+              "forks": 23,
               "language": null,
               "license": "CC0-1.0",
               "topics": [
@@ -17655,7 +17707,7 @@
                 "awesome-list",
                 "complex-systems"
               ],
-              "updated": "2026-09-17T16:28:49Z",
+              "updated": "2026-09-20T18:06:07Z",
               "pushed": "2025-03-20T20:52:07Z",
               "awesome": true,
               "path": [
@@ -18016,8 +18068,8 @@
           "parentId": "root-theory-complex-systems"
         }
       ],
-      "stars": 299,
-      "forks": 21,
+      "stars": 300,
+      "forks": 23,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -18025,7 +18077,7 @@
         "awesome-list",
         "complex-systems"
       ],
-      "updated": "2026-09-17T16:28:49Z",
+      "updated": "2026-09-20T18:06:07Z",
       "pushed": "2025-03-20T20:52:07Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -21631,7 +21683,7 @@
           "parentId": "root-theory-vlm-architectures"
         }
       ],
-      "stars": 1315,
+      "stars": 1323,
       "forks": 56,
       "language": "Markdown",
       "license": "CC0-1.0",
@@ -21657,7 +21709,7 @@
         "vision-language-models",
         "vlm"
       ],
-      "updated": "2026-09-20T03:53:49Z",
+      "updated": "2026-09-26T15:41:27Z",
       "pushed": "2026-07-31T21:58:54Z",
       "awesome": true,
       "readmeStatus": "expanded",

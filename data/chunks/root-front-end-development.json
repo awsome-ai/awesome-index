@@ -7895,7 +7895,7 @@
           "parentId": "root-front-end-development-web-performance-optimization"
         }
       ],
-      "stars": 9084,
+      "stars": 9094,
       "forks": 593,
       "language": null,
       "license": "MIT",
@@ -7907,7 +7907,7 @@
         "webperf-metrics",
         "webperformance"
       ],
-      "updated": "2026-09-20T00:05:17Z",
+      "updated": "2026-09-26T16:08:42Z",
       "pushed": "2026-07-28T02:18:16Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -9605,8 +9605,8 @@
               "parentId": "root-front-end-development-css-frameworks"
             }
           ],
-          "stars": 9528,
-          "forks": 498,
+          "stars": 9530,
+          "forks": 499,
           "language": "CSS",
           "license": null,
           "topics": [
@@ -9619,7 +9619,7 @@
             "list",
             "scss"
           ],
-          "updated": "2026-09-20T03:01:14Z",
+          "updated": "2026-09-26T22:16:35Z",
           "pushed": "2026-06-08T20:32:07Z",
           "awesome": true,
           "readmeStatus": "expanded",
@@ -10784,8 +10784,8 @@
           "parentId": "root-front-end-development-css"
         }
       ],
-      "stars": 5632,
-      "forks": 451,
+      "stars": 5636,
+      "forks": 454,
       "language": null,
       "license": "CC-BY-SA-4.0",
       "topics": [
@@ -10794,7 +10794,7 @@
         "css",
         "list"
       ],
-      "updated": "2026-09-18T22:31:35Z",
+      "updated": "2026-09-27T06:54:54Z",
       "pushed": "2024-10-30T07:00:24Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -12906,7 +12906,7 @@
               "parentId": "root-front-end-development-react-relay"
             }
           ],
-          "stars": 290,
+          "stars": 291,
           "forks": 28,
           "language": null,
           "license": "NOASSERTION",
@@ -12917,7 +12917,7 @@
             "reactjs",
             "relay"
           ],
-          "updated": "2026-08-20T05:25:57Z",
+          "updated": "2026-09-22T19:46:52Z",
           "pushed": "2021-10-18T11:22:52Z",
           "awesome": true,
           "readmeStatus": "expanded",
@@ -14787,8 +14787,8 @@
               "parentId": "root-front-end-development-react-react-hooks"
             }
           ],
-          "stars": 1231,
-          "forks": 88,
+          "stars": 1227,
+          "forks": 89,
           "language": null,
           "license": "CC0-1.0",
           "topics": [
@@ -14798,7 +14798,7 @@
             "react",
             "react-hooks"
           ],
-          "updated": "2026-08-27T21:00:13Z",
+          "updated": "2026-09-24T12:05:58Z",
           "pushed": "2024-03-16T18:57:43Z",
           "awesome": true,
           "readmeStatus": "expanded",
@@ -17097,7 +17097,7 @@
                   "sourceRepo": "enaqx/awesome-react",
                   "depth": 4,
                   "children": [],
-                  "stars": 48450,
+                  "stars": 48491,
                   "forks": 3844,
                   "language": null,
                   "license": "CC0-1.0",
@@ -17108,7 +17108,7 @@
                     "react-component",
                     "react-components"
                   ],
-                  "updated": "2026-09-20T07:27:36Z",
+                  "updated": "2026-09-27T05:01:17Z",
                   "pushed": "2026-01-26T16:36:45Z",
                   "awesome": true,
                   "path": [
@@ -19481,8 +19481,8 @@
           "parentId": "root-front-end-development-react"
         }
       ],
-      "stars": 74654,
-      "forks": 7674,
+      "stars": 74729,
+      "forks": 7676,
       "language": null,
       "license": null,
       "topics": [
@@ -19497,7 +19497,7 @@
         "tutorial",
         "typescript"
       ],
-      "updated": "2026-09-20T07:03:25Z",
+      "updated": "2026-09-27T07:11:40Z",
       "pushed": "2026-09-04T01:13:20Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -24996,6 +24996,33 @@
                   "parentId": "root-front-end-development-web-components-real-world-component-libraries"
                 },
                 {
+                  "id": "root-front-end-development-web-components-real-world-component-libraries-seele",
+                  "title": "seele",
+                  "kind": "repo",
+                  "repo": "vollowx/seele",
+                  "url": "https://github.com/vollowx/seele",
+                  "description": "An extensible Web Components library, with Material Design 3 components pre-provided.",
+                  "external": false,
+                  "sourceRepo": "web-padawan/awesome-web-components",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Web Components",
+                    "Real World",
+                    "Component Libraries",
+                    "seele"
+                  ],
+                  "parentId": "root-front-end-development-web-components-real-world-component-libraries"
+                },
+                {
                   "id": "root-front-end-development-web-components-real-world-component-libraries-smart-web-components",
                   "title": "Smart Web Components",
                   "kind": "repo",
@@ -25276,8 +25303,8 @@
                   "sourceRepo": "web-padawan/awesome-web-components",
                   "depth": 3,
                   "children": [],
-                  "stars": 1326,
-                  "forks": 197,
+                  "stars": 1346,
+                  "forks": 201,
                   "language": "TypeScript",
                   "license": "MIT",
                   "topics": [
@@ -25285,8 +25312,8 @@
                     "opensource",
                     "webcomponents"
                   ],
-                  "updated": "2026-09-19T17:54:34Z",
-                  "pushed": "2026-09-18T19:18:36Z",
+                  "updated": "2026-09-27T00:58:48Z",
+                  "pushed": "2026-09-25T21:27:52Z",
                   "awesome": true,
                   "path": [
                     "Web Components",
@@ -34632,7 +34659,7 @@
           "parentId": "root-front-end-development-web-components"
         }
       ],
-      "stars": 3580,
+      "stars": 3584,
       "forks": 203,
       "language": null,
       "license": "CC0-1.0",
@@ -34644,8 +34671,8 @@
         "web-components",
         "webcomponents"
       ],
-      "updated": "2026-09-16T10:00:52Z",
-      "pushed": "2026-09-12T11:01:07Z",
+      "updated": "2026-09-25T20:48:47Z",
+      "pushed": "2026-09-25T06:13:18Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -37767,8 +37794,8 @@
           "parentId": "root-front-end-development-angular"
         }
       ],
-      "stars": 10076,
-      "forks": 1423,
+      "stars": 10074,
+      "forks": 1426,
       "language": "HTML",
       "license": "CC0-1.0",
       "topics": [
@@ -37782,8 +37809,8 @@
         "awesome",
         "awesome-list"
       ],
-      "updated": "2026-09-20T01:00:35Z",
-      "pushed": "2026-09-19T21:06:22Z",
+      "updated": "2026-09-26T15:45:43Z",
+      "pushed": "2026-09-26T15:45:39Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -42549,7 +42576,7 @@
           "parentId": "root-front-end-development-html5"
         }
       ],
-      "stars": 2810,
+      "stars": 2811,
       "forks": 259,
       "language": null,
       "license": "MIT",
@@ -42558,7 +42585,7 @@
         "awesome-list",
         "list"
       ],
-      "updated": "2026-09-16T14:41:33Z",
+      "updated": "2026-09-23T06:26:35Z",
       "pushed": "2023-09-26T08:12:13Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -42623,15 +42650,15 @@
           "parentId": "root-front-end-development-svg"
         }
       ],
-      "stars": 4648,
-      "forks": 404,
+      "stars": 4650,
+      "forks": 405,
       "language": "Shell",
       "license": null,
       "topics": [
         "awesome-list",
         "svg"
       ],
-      "updated": "2026-09-05T07:06:25Z",
+      "updated": "2026-09-27T06:34:26Z",
       "pushed": "2026-07-16T16:17:42Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -44840,8 +44867,8 @@
           "parentId": "root-front-end-development-canvas"
         }
       ],
-      "stars": 1863,
-      "forks": 176,
+      "stars": 1864,
+      "forks": 179,
       "language": "Markdown",
       "license": "MIT",
       "topics": [
@@ -44855,7 +44882,7 @@
         "javascript",
         "particles"
       ],
-      "updated": "2026-09-20T07:27:28Z",
+      "updated": "2026-09-21T05:04:16Z",
       "pushed": "2026-06-14T09:29:51Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -73077,8 +73104,8 @@
           "parentId": "root-front-end-development-android-ui"
         }
       ],
-      "stars": 57651,
-      "forks": 10256,
+      "stars": 57739,
+      "forks": 10255,
       "language": null,
       "license": "MIT",
       "topics": [
@@ -73086,7 +73113,7 @@
         "awesome",
         "ui"
       ],
-      "updated": "2026-09-20T07:21:02Z",
+      "updated": "2026-09-27T07:26:28Z",
       "pushed": "2026-06-05T05:39:52Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -73106,12 +73133,12 @@
       "sourceRepo": "sindresorhus/awesome",
       "depth": 1,
       "children": [],
-      "stars": 11217,
+      "stars": 11218,
       "forks": 1326,
       "language": null,
       "license": null,
       "topics": [],
-      "updated": "2026-09-19T18:29:26Z",
+      "updated": "2026-09-27T01:15:36Z",
       "pushed": "2018-03-08T08:57:40Z",
       "awesome": true,
       "readmeStatus": "empty",
@@ -79438,7 +79465,7 @@
         }
       ],
       "stars": 1989,
-      "forks": 229,
+      "forks": 235,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -79450,7 +79477,7 @@
         "wai-aria",
         "wcag"
       ],
-      "updated": "2026-09-18T02:33:14Z",
+      "updated": "2026-09-24T14:39:14Z",
       "pushed": "2026-08-03T22:10:04Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -82949,7 +82976,7 @@
           "parentId": "root-front-end-development-d3"
         }
       ],
-      "stars": 5323,
+      "stars": 5322,
       "forks": 310,
       "language": null,
       "license": "NOASSERTION",
@@ -82960,7 +82987,7 @@
         "javascript",
         "maps"
       ],
-      "updated": "2026-09-18T02:21:57Z",
+      "updated": "2026-09-24T20:27:04Z",
       "pushed": "2023-01-13T16:10:34Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -87058,8 +87085,8 @@
           "parentId": "root-front-end-development-emails"
         }
       ],
-      "stars": 2744,
-      "forks": 264,
+      "stars": 2749,
+      "forks": 265,
       "language": null,
       "license": null,
       "topics": [
@@ -87074,7 +87101,7 @@
         "jdion",
         "responsive-email"
       ],
-      "updated": "2026-09-15T11:49:04Z",
+      "updated": "2026-09-26T13:41:59Z",
       "pushed": "2024-10-03T21:09:35Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -87735,7 +87762,7 @@
           "parentId": "root-front-end-development-jquery"
         }
       ],
-      "stars": 978,
+      "stars": 979,
       "forks": 139,
       "language": null,
       "license": null,
@@ -87745,7 +87772,7 @@
         "javascript",
         "jquery"
       ],
-      "updated": "2026-09-16T04:34:28Z",
+      "updated": "2026-09-23T06:54:20Z",
       "pushed": "2026-01-01T15:37:15Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -90885,8 +90912,8 @@
           "parentId": "root-front-end-development-web-audio"
         }
       ],
-      "stars": 1397,
-      "forks": 141,
+      "stars": 1399,
+      "forks": 142,
       "language": null,
       "license": null,
       "topics": [
@@ -90897,7 +90924,7 @@
         "midi",
         "webaudio"
       ],
-      "updated": "2026-09-16T16:00:55Z",
+      "updated": "2026-09-26T04:38:06Z",
       "pushed": "2026-06-05T01:54:36Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -90930,7 +90957,7 @@
         "service-worker",
         "serviceworkers"
       ],
-      "updated": "2026-09-19T09:56:40Z",
+      "updated": "2026-09-26T18:07:54Z",
       "pushed": "2022-11-23T17:08:40Z",
       "awesome": false,
       "path": [
@@ -95459,7 +95486,7 @@
           "parentId": "root-front-end-development-static-website-services"
         }
       ],
-      "stars": 1987,
+      "stars": 1990,
       "forks": 187,
       "language": null,
       "license": "CC0-1.0",
@@ -95468,7 +95495,7 @@
         "awesome-list",
         "list"
       ],
-      "updated": "2026-09-16T08:41:04Z",
+      "updated": "2026-09-27T00:39:53Z",
       "pushed": "2026-04-20T16:35:39Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -96284,7 +96311,7 @@
         }
       ],
       "stars": 822,
-      "forks": 69,
+      "forks": 70,
       "language": null,
       "license": null,
       "topics": [],
@@ -96398,7 +96425,7 @@
         }
       ],
       "stars": 302,
-      "forks": 19,
+      "forks": 20,
       "language": null,
       "license": null,
       "topics": [],
@@ -100418,8 +100445,8 @@
                   "sourceRepo": "vuejs/awesome-vue",
                   "depth": 3,
                   "children": [],
-                  "stars": 17249,
-                  "forks": 1335,
+                  "stars": 17255,
+                  "forks": 1333,
                   "language": "JavaScript",
                   "license": "MIT",
                   "topics": [
@@ -100428,7 +100455,7 @@
                     "vite",
                     "vitejs"
                   ],
-                  "updated": "2026-09-20T01:45:32Z",
+                  "updated": "2026-09-26T18:05:22Z",
                   "pushed": "2026-02-04T13:10:54Z",
                   "awesome": true,
                   "path": [
@@ -120282,6 +120309,34 @@
                         "TinyPivot"
                       ],
                       "parentId": "root-front-end-development-vue-js-components-and-libraries-ui-components-table"
+                    },
+                    {
+                      "id": "root-front-end-development-vue-js-components-and-libraries-ui-components-table-vtable-guild",
+                      "title": "vtable-guild",
+                      "kind": "repo",
+                      "repo": "parade0393/vtable-guild",
+                      "url": "https://github.com/parade0393/vtable-guild",
+                      "description": "Vue 3 table with row and column virtualization, sorting, filtering, selection and an ant-design-vue compatible columns API. Ships with switchable ant-design-vue / element-plus theme presets.",
+                      "external": false,
+                      "sourceRepo": "vuejs/awesome-vue",
+                      "depth": 4,
+                      "children": [],
+                      "stars": 0,
+                      "forks": 0,
+                      "language": null,
+                      "license": null,
+                      "topics": [],
+                      "updated": null,
+                      "pushed": null,
+                      "awesome": false,
+                      "path": [
+                        "Vue.js",
+                        "Components & Libraries",
+                        "UI Components",
+                        "Table",
+                        "vtable-guild"
+                      ],
+                      "parentId": "root-front-end-development-vue-js-components-and-libraries-ui-components-table"
                     }
                   ],
                   "stars": 0,
@@ -133412,13 +133467,13 @@
           "parentId": "root-front-end-development-vue-js"
         }
       ],
-      "stars": 73547,
-      "forks": 9450,
+      "stars": 73542,
+      "forks": 9457,
       "language": null,
       "license": "MIT",
       "topics": [],
-      "updated": "2026-09-20T01:02:31Z",
-      "pushed": "2026-09-18T07:23:15Z",
+      "updated": "2026-09-27T05:18:43Z",
+      "pushed": "2026-09-24T12:33:22Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -136684,7 +136739,7 @@
         }
       ],
       "stars": 311,
-      "forks": 36,
+      "forks": 37,
       "language": null,
       "license": null,
       "topics": [
@@ -136692,7 +136747,7 @@
         "awesome-list",
         "list"
       ],
-      "updated": "2026-09-05T03:11:03Z",
+      "updated": "2026-09-23T16:37:44Z",
       "pushed": "2022-08-18T14:06:13Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -136939,8 +136994,8 @@
           "parentId": "root-front-end-development-charting"
         }
       ],
-      "stars": 2115,
-      "forks": 115,
+      "stars": 2118,
+      "forks": 116,
       "language": null,
       "license": "MIT",
       "topics": [
@@ -136950,7 +137005,7 @@
         "javascript",
         "open-source"
       ],
-      "updated": "2026-09-19T23:42:43Z",
+      "updated": "2026-09-23T06:35:16Z",
       "pushed": "2024-02-18T16:12:11Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -137476,7 +137531,7 @@
               "sourceRepo": "candelibas/awesome-ionic",
               "depth": 2,
               "children": [],
-              "stars": 641,
+              "stars": 639,
               "forks": 56,
               "language": "HTML",
               "license": "CC0-1.0",
@@ -137487,7 +137542,7 @@
                 "capacitor-plugin",
                 "ionic"
               ],
-              "updated": "2026-09-18T19:23:39Z",
+              "updated": "2026-09-27T01:23:02Z",
               "pushed": "2026-09-15T19:56:13Z",
               "awesome": true,
               "path": [
@@ -150949,15 +151004,15 @@
           "parentId": "root-front-end-development-chrome-devtools"
         }
       ],
-      "stars": 7147,
-      "forks": 451,
+      "stars": 7152,
+      "forks": 450,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
         "awesome",
         "awesome-list"
       ],
-      "updated": "2026-09-20T02:02:17Z",
+      "updated": "2026-09-27T01:22:26Z",
       "pushed": "2026-03-27T03:36:24Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -152266,7 +152321,7 @@
           "parentId": "root-front-end-development-draft-js"
         }
       ],
-      "stars": 2521,
+      "stars": 2522,
       "forks": 136,
       "language": null,
       "license": null,
@@ -152276,7 +152331,7 @@
         "draft-js",
         "list"
       ],
-      "updated": "2026-09-14T11:54:35Z",
+      "updated": "2026-09-21T05:01:37Z",
       "pushed": "2022-05-04T08:19:29Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -153153,11 +153208,11 @@
               "depth": 2,
               "children": [],
               "stars": 1577,
-              "forks": 93,
+              "forks": 94,
               "language": null,
               "license": "CC0-1.0",
               "topics": [],
-              "updated": "2026-09-19T09:26:21Z",
+              "updated": "2026-09-24T20:19:24Z",
               "pushed": "2021-01-13T09:19:12Z",
               "awesome": true,
               "path": [
@@ -153179,11 +153234,11 @@
               "depth": 2,
               "children": [],
               "stars": 1577,
-              "forks": 93,
+              "forks": 94,
               "language": null,
               "license": "CC0-1.0",
               "topics": [],
-              "updated": "2026-09-19T09:26:21Z",
+              "updated": "2026-09-24T20:19:24Z",
               "pushed": "2021-01-13T09:19:12Z",
               "awesome": true,
               "path": [
@@ -153205,11 +153260,11 @@
               "depth": 2,
               "children": [],
               "stars": 1577,
-              "forks": 93,
+              "forks": 94,
               "language": null,
               "license": "CC0-1.0",
               "topics": [],
-              "updated": "2026-09-19T09:26:21Z",
+              "updated": "2026-09-24T20:19:24Z",
               "pushed": "2021-01-13T09:19:12Z",
               "awesome": true,
               "path": [
@@ -153231,11 +153286,11 @@
               "depth": 2,
               "children": [],
               "stars": 1577,
-              "forks": 93,
+              "forks": 94,
               "language": null,
               "license": "CC0-1.0",
               "topics": [],
-              "updated": "2026-09-19T09:26:21Z",
+              "updated": "2026-09-24T20:19:24Z",
               "pushed": "2021-01-13T09:19:12Z",
               "awesome": true,
               "path": [
@@ -153257,11 +153312,11 @@
               "depth": 2,
               "children": [],
               "stars": 1577,
-              "forks": 93,
+              "forks": 94,
               "language": null,
               "license": "CC0-1.0",
               "topics": [],
-              "updated": "2026-09-19T09:26:21Z",
+              "updated": "2026-09-24T20:19:24Z",
               "pushed": "2021-01-13T09:19:12Z",
               "awesome": true,
               "path": [
@@ -153287,12 +153342,12 @@
           "parentId": "root-front-end-development-service-workers"
         }
       ],
-      "stars": 1665,
+      "stars": 1664,
       "forks": 66,
       "language": null,
       "license": "CC0-1.0",
       "topics": [],
-      "updated": "2026-09-19T02:58:39Z",
+      "updated": "2026-09-24T20:19:25Z",
       "pushed": "2019-06-07T18:59:21Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -153432,12 +153487,12 @@
               "sourceRepo": "talater/awesome-progressive-web-apps",
               "depth": 2,
               "children": [],
-              "stars": 1665,
+              "stars": 1664,
               "forks": 66,
               "language": null,
               "license": "CC0-1.0",
               "topics": [],
-              "updated": "2026-09-19T02:58:39Z",
+              "updated": "2026-09-24T20:19:25Z",
               "pushed": "2019-06-07T18:59:21Z",
               "awesome": true,
               "path": [
@@ -154075,12 +154130,12 @@
                   "sourceRepo": "talater/awesome-progressive-web-apps",
                   "depth": 3,
                   "children": [],
-                  "stars": 1665,
+                  "stars": 1664,
                   "forks": 66,
                   "language": null,
                   "license": "CC0-1.0",
                   "topics": [],
-                  "updated": "2026-09-19T02:58:39Z",
+                  "updated": "2026-09-24T20:19:25Z",
                   "pushed": "2019-06-07T18:59:21Z",
                   "awesome": true,
                   "path": [
@@ -154960,11 +155015,11 @@
         }
       ],
       "stars": 1577,
-      "forks": 93,
+      "forks": 94,
       "language": null,
       "license": "CC0-1.0",
       "topics": [],
-      "updated": "2026-09-19T09:26:21Z",
+      "updated": "2026-09-24T20:19:24Z",
       "pushed": "2021-01-13T09:19:12Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -164757,7 +164812,7 @@
           "parentId": "root-front-end-development-sass"
         }
       ],
-      "stars": 1902,
+      "stars": 1901,
       "forks": 129,
       "language": null,
       "license": "CC0-1.0",
@@ -164766,7 +164821,7 @@
         "sass",
         "scss"
       ],
-      "updated": "2026-09-08T09:53:23Z",
+      "updated": "2026-09-24T20:18:27Z",
       "pushed": "2026-09-08T05:04:03Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -167831,12 +167886,12 @@
           "parentId": "root-front-end-development-ant-design"
         }
       ],
-      "stars": 3297,
+      "stars": 3298,
       "forks": 216,
       "language": null,
       "license": "NOASSERTION",
       "topics": [],
-      "updated": "2026-09-14T11:23:01Z",
+      "updated": "2026-09-23T11:11:49Z",
       "pushed": "2025-07-29T08:15:52Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -173473,8 +173528,8 @@
           "parentId": "root-front-end-development-webgl"
         }
       ],
-      "stars": 1534,
-      "forks": 107,
+      "stars": 1537,
+      "forks": 109,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -173490,7 +173545,7 @@
         "webgl-spec-sheet",
         "webgl-tutorials"
       ],
-      "updated": "2026-09-19T22:51:13Z",
+      "updated": "2026-09-24T16:41:40Z",
       "pushed": "2026-04-02T03:35:40Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -177741,8 +177796,8 @@
           "parentId": "root-front-end-development-preact"
         }
       ],
-      "stars": 1004,
-      "forks": 89,
+      "stars": 1005,
+      "forks": 88,
       "language": null,
       "license": null,
       "topics": [
@@ -177752,7 +177807,7 @@
         "preact",
         "resources"
       ],
-      "updated": "2026-09-14T14:54:11Z",
+      "updated": "2026-09-23T00:05:56Z",
       "pushed": "2026-09-11T20:26:51Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -181534,84 +181589,6 @@
           "url": "https://github.com/unicodeveloper/awesome-nextjs#apps",
           "children": [
             {
-              "id": "root-front-end-development-next-js-apps-ai-video-prompt-cheatsheet",
-              "title": "AI Video Prompt Cheatsheet",
-              "kind": "repo",
-              "repo": "the-beating-light-of-the-nail/ai-video-prompt-cheatsheet",
-              "url": "https://github.com/the-beating-light-of-the-nail/ai-video-prompt-cheatsheet",
-              "description": "Camera-movement prompt reference for AI video generation: shot types and motions with copy-ready prompts, one-page zh/en. Static export on Cloudflare Workers, no server. Demo",
-              "external": false,
-              "sourceRepo": "unicodeveloper/awesome-nextjs",
-              "depth": 2,
-              "children": [],
-              "stars": 0,
-              "forks": 0,
-              "language": null,
-              "license": null,
-              "topics": [],
-              "updated": null,
-              "pushed": null,
-              "awesome": false,
-              "path": [
-                "Next.js",
-                "Apps",
-                "AI Video Prompt Cheatsheet"
-              ],
-              "parentId": "root-front-end-development-next-js-apps"
-            },
-            {
-              "id": "root-front-end-development-next-js-apps-reely",
-              "title": "Reely",
-              "kind": "repo",
-              "repo": "vette1123/movies-streaming-platform",
-              "url": "https://github.com/vette1123/movies-streaming-platform",
-              "description": "Movie & TV discovery and tracker on the TMDB API — live-applying filters, ⌘K command palette, watchlist and history, installable PWA. Next.js 16 static export on Cloudflare Workers Static Assets, so Next.js never runs in production. Demo",
-              "external": false,
-              "sourceRepo": "unicodeveloper/awesome-nextjs",
-              "depth": 2,
-              "children": [],
-              "stars": 0,
-              "forks": 0,
-              "language": null,
-              "license": null,
-              "topics": [],
-              "updated": null,
-              "pushed": null,
-              "awesome": false,
-              "path": [
-                "Next.js",
-                "Apps",
-                "Reely"
-              ],
-              "parentId": "root-front-end-development-next-js-apps"
-            },
-            {
-              "id": "root-front-end-development-next-js-apps-fileflex",
-              "title": "FileFlex",
-              "kind": "repo",
-              "repo": "armor229-ux/file-flex",
-              "url": "https://github.com/armor229-ux/file-flex",
-              "description": "Open-source, browser-only file converter & PDF editor built with Next.js 14, Tailwind CSS, and WASM.",
-              "external": false,
-              "sourceRepo": "unicodeveloper/awesome-nextjs",
-              "depth": 2,
-              "children": [],
-              "stars": 0,
-              "forks": 0,
-              "language": null,
-              "license": null,
-              "topics": [],
-              "updated": null,
-              "pushed": null,
-              "awesome": false,
-              "path": [
-                "Next.js",
-                "Apps",
-                "FileFlex"
-              ],
-              "parentId": "root-front-end-development-next-js-apps"
-            },
-            {
               "id": "root-front-end-development-next-js-apps-api-status-check",
               "title": "API Status Check",
               "kind": "link",
@@ -181638,13 +181615,13 @@
               "parentId": "root-front-end-development-next-js-apps"
             },
             {
-              "id": "root-front-end-development-next-js-apps-devscratchpad",
-              "title": "DevScratchpad",
-              "kind": "repo",
-              "repo": "saad-web-spec/devscratchpad",
-              "url": "https://github.com/saad-web-spec/devscratchpad",
-              "description": "Privacy-first developer scratchpad & utility suite (19+ tools) with Monaco editor and zero-server transmission. Built with Next.js 16 (App Router, Turbopack, SSG), React 19, and Tailwind CSS v4. Demo",
-              "external": false,
+              "id": "root-front-end-development-next-js-apps-calculora",
+              "title": "Calculora",
+              "kind": "link",
+              "repo": "",
+              "url": "https://calculora.net",
+              "description": "300+ free online calculators across finance, health, science, math, and developer tools. 25 languages, dark mode, SEO-enriched, built with Next.js App Router and Tailwind CSS.",
+              "external": true,
               "sourceRepo": "unicodeveloper/awesome-nextjs",
               "depth": 2,
               "children": [],
@@ -181659,33 +181636,7 @@
               "path": [
                 "Next.js",
                 "Apps",
-                "DevScratchpad"
-              ],
-              "parentId": "root-front-end-development-next-js-apps"
-            },
-            {
-              "id": "root-front-end-development-next-js-apps-devtoolkit",
-              "title": "DevToolKit",
-              "kind": "repo",
-              "repo": "a827681306/devtoolkit",
-              "url": "https://github.com/a827681306/devtoolkit",
-              "description": "Free online developer tools built with Next.js — JSON Formatter, JWT Decoder, Regex Tester, Base64/URL Encoder, Hash Generator.",
-              "external": false,
-              "sourceRepo": "unicodeveloper/awesome-nextjs",
-              "depth": 2,
-              "children": [],
-              "stars": 0,
-              "forks": 0,
-              "language": null,
-              "license": null,
-              "topics": [],
-              "updated": null,
-              "pushed": null,
-              "awesome": false,
-              "path": [
-                "Next.js",
-                "Apps",
-                "DevToolKit"
+                "Calculora"
               ],
               "parentId": "root-front-end-development-next-js-apps"
             },
@@ -181712,6 +181663,32 @@
                 "Next.js",
                 "Apps",
                 "CourseLit"
+              ],
+              "parentId": "root-front-end-development-next-js-apps"
+            },
+            {
+              "id": "root-front-end-development-next-js-apps-devtoolkit",
+              "title": "DevToolKit",
+              "kind": "repo",
+              "repo": "a827681306/devtoolkit",
+              "url": "https://github.com/a827681306/devtoolkit",
+              "description": "Free online developer tools built with Next.js — JSON Formatter, JWT Decoder, Regex Tester, Base64/URL Encoder, Hash Generator.",
+              "external": false,
+              "sourceRepo": "unicodeveloper/awesome-nextjs",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Next.js",
+                "Apps",
+                "DevToolKit"
               ],
               "parentId": "root-front-end-development-next-js-apps"
             },
@@ -182728,32 +182705,6 @@
                 "Taskade"
               ],
               "parentId": "root-front-end-development-next-js-apps"
-            },
-            {
-              "id": "root-front-end-development-next-js-apps-lunidex",
-              "title": "Lunidex",
-              "kind": "link",
-              "repo": "",
-              "url": "https://lunidex.app",
-              "description": "Open-source Pokémon workspace built with Next.js, featuring a Pokédex, TCG collection tracking, team building, battle tools, quizzes, and multilingual support.",
-              "external": true,
-              "sourceRepo": "unicodeveloper/awesome-nextjs",
-              "depth": 2,
-              "children": [],
-              "stars": 0,
-              "forks": 0,
-              "language": null,
-              "license": null,
-              "topics": [],
-              "updated": null,
-              "pushed": null,
-              "awesome": false,
-              "path": [
-                "Next.js",
-                "Apps",
-                "Lunidex"
-              ],
-              "parentId": "root-front-end-development-next-js-apps"
             }
           ],
           "stars": 0,
@@ -182931,32 +182882,6 @@
                 "Next.js",
                 "Books",
                 "Real World Next.js"
-              ],
-              "parentId": "root-front-end-development-next-js-books"
-            },
-            {
-              "id": "root-front-end-development-next-js-books-the-concise-typescript-book",
-              "title": "The Concise TypeScript Book",
-              "kind": "repo",
-              "repo": "gibbok/typescript-book",
-              "url": "https://github.com/gibbok/typescript-book",
-              "description": "A free and open-source reference guide for TypeScript fundamentals and practical patterns, designed for use with Next.js and React.",
-              "external": false,
-              "sourceRepo": "unicodeveloper/awesome-nextjs",
-              "depth": 2,
-              "children": [],
-              "stars": 0,
-              "forks": 0,
-              "language": null,
-              "license": null,
-              "topics": [],
-              "updated": null,
-              "pushed": null,
-              "awesome": false,
-              "path": [
-                "Next.js",
-                "Books",
-                "The Concise TypeScript Book"
               ],
               "parentId": "root-front-end-development-next-js-books"
             }
@@ -183926,8 +183851,8 @@
           "parentId": "root-front-end-development-next-js"
         }
       ],
-      "stars": 11105,
-      "forks": 1172,
+      "stars": 11103,
+      "forks": 1179,
       "language": null,
       "license": null,
       "topics": [
@@ -183942,8 +183867,8 @@
         "tutorials",
         "universal"
       ],
-      "updated": "2026-09-18T00:42:32Z",
-      "pushed": "2026-09-10T12:07:45Z",
+      "updated": "2026-09-26T07:09:43Z",
+      "pushed": "2026-09-22T07:49:57Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -185871,6 +185796,32 @@
               "parentId": "root-front-end-development-lit-extensions"
             },
             {
+              "id": "root-front-end-development-lit-extensions-gyeonghokim-lucide-lit",
+              "title": "@gyeonghokim/lucide-lit",
+              "kind": "repo",
+              "repo": "gyeonghokim/lucide-lit",
+              "url": "https://github.com/gyeonghokim/lucide-lit",
+              "description": "Lucide icons as tree-shakeable Lit custom elements.",
+              "external": false,
+              "sourceRepo": "web-padawan/awesome-lit",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "lit",
+                "Extensions",
+                "@gyeonghokim/lucide-lit"
+              ],
+              "parentId": "root-front-end-development-lit-extensions"
+            },
+            {
               "id": "root-front-end-development-lit-extensions-lit-app-state",
               "title": "@lit-app/state",
               "kind": "link",
@@ -186684,8 +186635,8 @@
               "sourceRepo": "web-padawan/awesome-lit",
               "depth": 2,
               "children": [],
-              "stars": 1326,
-              "forks": 197,
+              "stars": 1346,
+              "forks": 201,
               "language": "TypeScript",
               "license": "MIT",
               "topics": [
@@ -186693,8 +186644,8 @@
                 "opensource",
                 "webcomponents"
               ],
-              "updated": "2026-09-19T17:54:34Z",
-              "pushed": "2026-09-18T19:18:36Z",
+              "updated": "2026-09-27T00:58:48Z",
+              "pushed": "2026-09-25T21:27:52Z",
               "awesome": true,
               "path": [
                 "lit",
@@ -189509,7 +189460,7 @@
           "parentId": "root-front-end-development-lit"
         }
       ],
-      "stars": 1734,
+      "stars": 1737,
       "forks": 107,
       "language": null,
       "license": "CC0-1.0",
@@ -189518,8 +189469,8 @@
         "awesome-list",
         "lit-html"
       ],
-      "updated": "2026-09-14T11:58:20Z",
-      "pushed": "2026-08-18T05:58:58Z",
+      "updated": "2026-09-26T00:27:48Z",
+      "pushed": "2026-09-25T13:16:57Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -194714,7 +194665,7 @@
         }
       ],
       "stars": 1370,
-      "forks": 187,
+      "forks": 189,
       "language": null,
       "license": null,
       "topics": [
@@ -194725,7 +194676,7 @@
         "static-site",
         "static-site-generator"
       ],
-      "updated": "2026-09-08T09:54:43Z",
+      "updated": "2026-09-26T15:03:49Z",
       "pushed": "2026-08-17T09:12:20Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -197118,7 +197069,7 @@
         }
       ],
       "stars": 285,
-      "forks": 34,
+      "forks": 33,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -198065,7 +198016,7 @@
                 "service-worker",
                 "serviceworkers"
               ],
-              "updated": "2026-09-19T09:56:40Z",
+              "updated": "2026-09-26T18:07:54Z",
               "pushed": "2022-11-23T17:08:40Z",
               "awesome": true,
               "path": [
@@ -199893,7 +199844,7 @@
           "parentId": "root-front-end-development-mobile-web-development"
         }
       ],
-      "stars": 1287,
+      "stars": 1289,
       "forks": 66,
       "language": null,
       "license": null,
@@ -199904,7 +199855,7 @@
         "mobile-web",
         "web-performance"
       ],
-      "updated": "2026-08-27T20:58:38Z",
+      "updated": "2026-09-25T21:14:24Z",
       "pushed": "2023-12-15T10:23:46Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -202404,8 +202355,8 @@
           "parentId": "root-front-end-development-blazor"
         }
       ],
-      "stars": 9375,
-      "forks": 1012,
+      "stars": 9373,
+      "forks": 1015,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -202430,7 +202381,7 @@
         "razor-components",
         "webassembly"
       ],
-      "updated": "2026-09-18T16:17:01Z",
+      "updated": "2026-09-26T18:05:34Z",
       "pushed": "2026-09-14T07:36:00Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -205701,8 +205652,8 @@
           "parentId": "root-front-end-development-pagespeed-metrics"
         }
       ],
-      "stars": 692,
-      "forks": 27,
+      "stars": 693,
+      "forks": 28,
       "language": null,
       "license": "NOASSERTION",
       "topics": [
@@ -205714,7 +205665,7 @@
         "performance",
         "web-performance"
       ],
-      "updated": "2026-09-08T06:38:44Z",
+      "updated": "2026-09-27T07:30:13Z",
       "pushed": "2024-02-17T15:29:57Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -207696,8 +207647,8 @@
           "parentId": "root-front-end-development-tailwind-css"
         }
       ],
-      "stars": 15185,
-      "forks": 1028,
+      "stars": 15188,
+      "forks": 1030,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -207711,7 +207662,7 @@
         "tailwindcss",
         "websites"
       ],
-      "updated": "2026-09-20T01:46:38Z",
+      "updated": "2026-09-26T07:33:05Z",
       "pushed": "2026-08-14T14:48:26Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -211010,6 +210961,84 @@
                 "Bonsai"
               ],
               "parentId": "root-front-end-development-web-animation-svg"
+            },
+            {
+              "id": "root-front-end-development-web-animation-svg-lazy-line-painter",
+              "title": "Lazy Line Painter",
+              "kind": "repo",
+              "repo": "merri-ment/lazy-line-painter",
+              "url": "https://github.com/merri-ment/lazy-line-painter",
+              "description": "A modern JavaScript library for SVG path animation.",
+              "external": false,
+              "sourceRepo": "sergey-pimenov/awesome-web-animation",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Web Animation",
+                "SVG",
+                "Lazy Line Painter"
+              ],
+              "parentId": "root-front-end-development-web-animation-svg"
+            },
+            {
+              "id": "root-front-end-development-web-animation-svg-flubber",
+              "title": "Flubber",
+              "kind": "repo",
+              "repo": "veltman/flubber",
+              "url": "https://github.com/veltman/flubber",
+              "description": "Tools for smoother SVG shape morphing and interpolation.",
+              "external": false,
+              "sourceRepo": "sergey-pimenov/awesome-web-animation",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Web Animation",
+                "SVG",
+                "Flubber"
+              ],
+              "parentId": "root-front-end-development-web-animation-svg"
+            },
+            {
+              "id": "root-front-end-development-web-animation-svg-lottie",
+              "title": "Lottie",
+              "kind": "repo",
+              "repo": "airbnb/lottie-web",
+              "url": "https://github.com/airbnb/lottie-web",
+              "description": "Render After Effects animations natively on the web as SVG or Canvas.",
+              "external": false,
+              "sourceRepo": "sergey-pimenov/awesome-web-animation",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Web Animation",
+                "SVG",
+                "Lottie"
+              ],
+              "parentId": "root-front-end-development-web-animation-svg"
             }
           ],
           "stars": 0,
@@ -211475,6 +211504,136 @@
                 "Weeee.js"
               ],
               "parentId": "root-front-end-development-web-animation-common"
+            },
+            {
+              "id": "root-front-end-development-web-animation-common-theatre-js",
+              "title": "Theatre.js",
+              "kind": "repo",
+              "repo": "theatre-js/theatre",
+              "url": "https://github.com/theatre-js/theatre",
+              "description": "Motion design editor for the web.",
+              "external": false,
+              "sourceRepo": "sergey-pimenov/awesome-web-animation",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Web Animation",
+                "Common",
+                "Theatre.js"
+              ],
+              "parentId": "root-front-end-development-web-animation-common"
+            },
+            {
+              "id": "root-front-end-development-web-animation-common-popmotion",
+              "title": "Popmotion",
+              "kind": "repo",
+              "repo": "popmotion/popmotion",
+              "url": "https://github.com/popmotion/popmotion",
+              "description": "Simple animation libraries for delightful user interfaces.",
+              "external": false,
+              "sourceRepo": "sergey-pimenov/awesome-web-animation",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Web Animation",
+                "Common",
+                "Popmotion"
+              ],
+              "parentId": "root-front-end-development-web-animation-common"
+            },
+            {
+              "id": "root-front-end-development-web-animation-common-autoanimate",
+              "title": "AutoAnimate",
+              "kind": "repo",
+              "repo": "formkit/auto-animate",
+              "url": "https://github.com/formkit/auto-animate",
+              "description": "Zero-config, drop-in animation utility for smooth DOM transitions.",
+              "external": false,
+              "sourceRepo": "sergey-pimenov/awesome-web-animation",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Web Animation",
+                "Common",
+                "AutoAnimate"
+              ],
+              "parentId": "root-front-end-development-web-animation-common"
+            },
+            {
+              "id": "root-front-end-development-web-animation-common-kute-js",
+              "title": "KUTE.js",
+              "kind": "repo",
+              "repo": "thednp/kute.js",
+              "url": "https://github.com/thednp/kute.js",
+              "description": "JavaScript animation engine for modern browsers.",
+              "external": false,
+              "sourceRepo": "sergey-pimenov/awesome-web-animation",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Web Animation",
+                "Common",
+                "KUTE.js"
+              ],
+              "parentId": "root-front-end-development-web-animation-common"
+            },
+            {
+              "id": "root-front-end-development-web-animation-common-rive",
+              "title": "Rive",
+              "kind": "repo",
+              "repo": "rive-app/rive-wasm",
+              "url": "https://github.com/rive-app/rive-wasm",
+              "description": "Web runtime for interactive Rive animations.",
+              "external": false,
+              "sourceRepo": "sergey-pimenov/awesome-web-animation",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Web Animation",
+                "Common",
+                "Rive"
+              ],
+              "parentId": "root-front-end-development-web-animation-common"
             }
           ],
           "stars": 0,
@@ -211652,6 +211811,136 @@
                 "Web Animation",
                 "CSS",
                 "Bounce.js"
+              ],
+              "parentId": "root-front-end-development-web-animation-css"
+            },
+            {
+              "id": "root-front-end-development-web-animation-css-animxyz",
+              "title": "AnimXYZ",
+              "kind": "repo",
+              "repo": "ingram-projects/animxyz",
+              "url": "https://github.com/ingram-projects/animxyz",
+              "description": "Composable CSS animation toolkit powered by CSS variables.",
+              "external": false,
+              "sourceRepo": "sergey-pimenov/awesome-web-animation",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Web Animation",
+                "CSS",
+                "AnimXYZ"
+              ],
+              "parentId": "root-front-end-development-web-animation-css"
+            },
+            {
+              "id": "root-front-end-development-web-animation-css-hover-css",
+              "title": "Hover.css",
+              "kind": "repo",
+              "repo": "ianlunn/hover",
+              "url": "https://github.com/ianlunn/hover",
+              "description": "A collection of CSS3 powered hover effects.",
+              "external": false,
+              "sourceRepo": "sergey-pimenov/awesome-web-animation",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Web Animation",
+                "CSS",
+                "Hover.css"
+              ],
+              "parentId": "root-front-end-development-web-animation-css"
+            },
+            {
+              "id": "root-front-end-development-web-animation-css-csshake",
+              "title": "CSShake",
+              "kind": "repo",
+              "repo": "elrumordelaluz/csshake",
+              "url": "https://github.com/elrumordelaluz/csshake",
+              "description": "CSS classes to shake your DOM.",
+              "external": false,
+              "sourceRepo": "sergey-pimenov/awesome-web-animation",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Web Animation",
+                "CSS",
+                "CSShake"
+              ],
+              "parentId": "root-front-end-development-web-animation-css"
+            },
+            {
+              "id": "root-front-end-development-web-animation-css-whirl",
+              "title": "Whirl",
+              "kind": "repo",
+              "repo": "jh3y/whirl",
+              "url": "https://github.com/jh3y/whirl",
+              "description": "CSS loading animations with minimal effort.",
+              "external": false,
+              "sourceRepo": "sergey-pimenov/awesome-web-animation",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Web Animation",
+                "CSS",
+                "Whirl"
+              ],
+              "parentId": "root-front-end-development-web-animation-css"
+            },
+            {
+              "id": "root-front-end-development-web-animation-css-css-doodle",
+              "title": "CSS Doodle",
+              "kind": "repo",
+              "repo": "css-doodle/css-doodle",
+              "url": "https://github.com/css-doodle/css-doodle",
+              "description": "A web component for drawing patterns with CSS.",
+              "external": false,
+              "sourceRepo": "sergey-pimenov/awesome-web-animation",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Web Animation",
+                "CSS",
+                "CSS Doodle"
               ],
               "parentId": "root-front-end-development-web-animation-css"
             }
@@ -211937,6 +212226,188 @@
                 "tsParticles"
               ],
               "parentId": "root-front-end-development-web-animation-canvas"
+            },
+            {
+              "id": "root-front-end-development-web-animation-canvas-pixijs",
+              "title": "PixiJS",
+              "kind": "repo",
+              "repo": "pixijs/pixijs",
+              "url": "https://github.com/pixijs/pixijs",
+              "description": "Fast 2D WebGL renderer for interactive graphics and animation.",
+              "external": false,
+              "sourceRepo": "sergey-pimenov/awesome-web-animation",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Web Animation",
+                "Canvas",
+                "PixiJS"
+              ],
+              "parentId": "root-front-end-development-web-animation-canvas"
+            },
+            {
+              "id": "root-front-end-development-web-animation-canvas-p5-js",
+              "title": "p5.js",
+              "kind": "repo",
+              "repo": "processing/p5.js",
+              "url": "https://github.com/processing/p5.js",
+              "description": "Creative coding library for drawing and animation on canvas.",
+              "external": false,
+              "sourceRepo": "sergey-pimenov/awesome-web-animation",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Web Animation",
+                "Canvas",
+                "p5.js"
+              ],
+              "parentId": "root-front-end-development-web-animation-canvas"
+            },
+            {
+              "id": "root-front-end-development-web-animation-canvas-zdog",
+              "title": "Zdog",
+              "kind": "repo",
+              "repo": "metafizzy/zdog",
+              "url": "https://github.com/metafizzy/zdog",
+              "description": "Round, flat, designer-friendly pseudo-3D engine for canvas and SVG.",
+              "external": false,
+              "sourceRepo": "sergey-pimenov/awesome-web-animation",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Web Animation",
+                "Canvas",
+                "Zdog"
+              ],
+              "parentId": "root-front-end-development-web-animation-canvas"
+            },
+            {
+              "id": "root-front-end-development-web-animation-canvas-canvas-confetti",
+              "title": "canvas-confetti",
+              "kind": "repo",
+              "repo": "catdad/canvas-confetti",
+              "url": "https://github.com/catdad/canvas-confetti",
+              "description": "Performant confetti animation in the browser.",
+              "external": false,
+              "sourceRepo": "sergey-pimenov/awesome-web-animation",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Web Animation",
+                "Canvas",
+                "canvas-confetti"
+              ],
+              "parentId": "root-front-end-development-web-animation-canvas"
+            },
+            {
+              "id": "root-front-end-development-web-animation-canvas-vanta-js",
+              "title": "Vanta.js",
+              "kind": "repo",
+              "repo": "tengbao/vanta",
+              "url": "https://github.com/tengbao/vanta",
+              "description": "Animated 3D backgrounds for your website.",
+              "external": false,
+              "sourceRepo": "sergey-pimenov/awesome-web-animation",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Web Animation",
+                "Canvas",
+                "Vanta.js"
+              ],
+              "parentId": "root-front-end-development-web-animation-canvas"
+            },
+            {
+              "id": "root-front-end-development-web-animation-canvas-three-js",
+              "title": "Three.js",
+              "kind": "repo",
+              "repo": "mrdoob/three.js",
+              "url": "https://github.com/mrdoob/three.js",
+              "description": "JavaScript 3D library.",
+              "external": false,
+              "sourceRepo": "sergey-pimenov/awesome-web-animation",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Web Animation",
+                "Canvas",
+                "Three.js"
+              ],
+              "parentId": "root-front-end-development-web-animation-canvas"
+            },
+            {
+              "id": "root-front-end-development-web-animation-canvas-matter-js",
+              "title": "Matter.js",
+              "kind": "repo",
+              "repo": "liabru/matter-js",
+              "url": "https://github.com/liabru/matter-js",
+              "description": "A 2D rigid body physics engine for the web.",
+              "external": false,
+              "sourceRepo": "sergey-pimenov/awesome-web-animation",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Web Animation",
+                "Canvas",
+                "Matter.js"
+              ],
+              "parentId": "root-front-end-development-web-animation-canvas"
             }
           ],
           "stars": 0,
@@ -212142,6 +212613,136 @@
                 "Sal"
               ],
               "parentId": "root-front-end-development-web-animation-animate-on-scroll"
+            },
+            {
+              "id": "root-front-end-development-web-animation-animate-on-scroll-lenis",
+              "title": "Lenis",
+              "kind": "repo",
+              "repo": "darkroomengineering/lenis",
+              "url": "https://github.com/darkroomengineering/lenis",
+              "description": "Lightweight, accessible smooth scroll library.",
+              "external": false,
+              "sourceRepo": "sergey-pimenov/awesome-web-animation",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Web Animation",
+                "Animate on scroll",
+                "Lenis"
+              ],
+              "parentId": "root-front-end-development-web-animation-animate-on-scroll"
+            },
+            {
+              "id": "root-front-end-development-web-animation-animate-on-scroll-locomotive-scroll",
+              "title": "Locomotive Scroll",
+              "kind": "repo",
+              "repo": "locomotivemtl/locomotive-scroll",
+              "url": "https://github.com/locomotivemtl/locomotive-scroll",
+              "description": "Detection of elements in viewport and smooth scrolling with parallax.",
+              "external": false,
+              "sourceRepo": "sergey-pimenov/awesome-web-animation",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Web Animation",
+                "Animate on scroll",
+                "Locomotive Scroll"
+              ],
+              "parentId": "root-front-end-development-web-animation-animate-on-scroll"
+            },
+            {
+              "id": "root-front-end-development-web-animation-animate-on-scroll-rellax",
+              "title": "Rellax",
+              "kind": "repo",
+              "repo": "dixonandmoe/rellax",
+              "url": "https://github.com/dixonandmoe/rellax",
+              "description": "Lightweight vanilla JavaScript parallax library.",
+              "external": false,
+              "sourceRepo": "sergey-pimenov/awesome-web-animation",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Web Animation",
+                "Animate on scroll",
+                "Rellax"
+              ],
+              "parentId": "root-front-end-development-web-animation-animate-on-scroll"
+            },
+            {
+              "id": "root-front-end-development-web-animation-animate-on-scroll-scrollout",
+              "title": "ScrollOut",
+              "kind": "repo",
+              "repo": "scroll-out/scroll-out",
+              "url": "https://github.com/scroll-out/scroll-out",
+              "description": "Scroll effects for reveal, parallax, and CSS variables.",
+              "external": false,
+              "sourceRepo": "sergey-pimenov/awesome-web-animation",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Web Animation",
+                "Animate on scroll",
+                "ScrollOut"
+              ],
+              "parentId": "root-front-end-development-web-animation-animate-on-scroll"
+            },
+            {
+              "id": "root-front-end-development-web-animation-animate-on-scroll-atropos",
+              "title": "Atropos",
+              "kind": "repo",
+              "repo": "nolimits4web/atropos",
+              "url": "https://github.com/nolimits4web/atropos",
+              "description": "Touch-friendly 3D parallax hover effects.",
+              "external": false,
+              "sourceRepo": "sergey-pimenov/awesome-web-animation",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Web Animation",
+                "Animate on scroll",
+                "Atropos"
+              ],
+              "parentId": "root-front-end-development-web-animation-animate-on-scroll"
             }
           ],
           "stars": 0,
@@ -212295,6 +212896,110 @@
                 "Blotter"
               ],
               "parentId": "root-front-end-development-web-animation-text"
+            },
+            {
+              "id": "root-front-end-development-web-animation-text-splitting",
+              "title": "Splitting",
+              "kind": "repo",
+              "repo": "shshaw/splitting",
+              "url": "https://github.com/shshaw/splitting",
+              "description": "Microlibrary to split text into words and characters for CSS animation.",
+              "external": false,
+              "sourceRepo": "sergey-pimenov/awesome-web-animation",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Web Animation",
+                "Text",
+                "Splitting"
+              ],
+              "parentId": "root-front-end-development-web-animation-text"
+            },
+            {
+              "id": "root-front-end-development-web-animation-text-typeit",
+              "title": "TypeIt",
+              "kind": "repo",
+              "repo": "alexmacarthur/typeit",
+              "url": "https://github.com/alexmacarthur/typeit",
+              "description": "The most versatile JavaScript typewriter effect library.",
+              "external": false,
+              "sourceRepo": "sergey-pimenov/awesome-web-animation",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Web Animation",
+                "Text",
+                "TypeIt"
+              ],
+              "parentId": "root-front-end-development-web-animation-text"
+            },
+            {
+              "id": "root-front-end-development-web-animation-text-typewriterjs",
+              "title": "TypewriterJS",
+              "kind": "repo",
+              "repo": "tameemsafi/typewriterjs",
+              "url": "https://github.com/tameemsafi/typewriterjs",
+              "description": "Native JavaScript plugin for typewriter text effects.",
+              "external": false,
+              "sourceRepo": "sergey-pimenov/awesome-web-animation",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Web Animation",
+                "Text",
+                "TypewriterJS"
+              ],
+              "parentId": "root-front-end-development-web-animation-text"
+            },
+            {
+              "id": "root-front-end-development-web-animation-text-numberflow",
+              "title": "NumberFlow",
+              "kind": "repo",
+              "repo": "barvian/number-flow",
+              "url": "https://github.com/barvian/number-flow",
+              "description": "Animated number component for React, Vue, Svelte, and vanilla JS.",
+              "external": false,
+              "sourceRepo": "sergey-pimenov/awesome-web-animation",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Web Animation",
+                "Text",
+                "NumberFlow"
+              ],
+              "parentId": "root-front-end-development-web-animation-text"
             }
           ],
           "stars": 0,
@@ -212420,6 +213125,162 @@
                 "Web Animation",
                 "React",
                 "React spring"
+              ],
+              "parentId": "root-front-end-development-web-animation-react"
+            },
+            {
+              "id": "root-front-end-development-web-animation-react-lottie-react",
+              "title": "Lottie React",
+              "kind": "repo",
+              "repo": "gamote/lottie-react",
+              "url": "https://github.com/gamote/lottie-react",
+              "description": "React component for rendering Lottie animations.",
+              "external": false,
+              "sourceRepo": "sergey-pimenov/awesome-web-animation",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Web Animation",
+                "React",
+                "Lottie React"
+              ],
+              "parentId": "root-front-end-development-web-animation-react"
+            },
+            {
+              "id": "root-front-end-development-web-animation-react-rive-react",
+              "title": "Rive React",
+              "kind": "repo",
+              "repo": "rive-app/rive-react",
+              "url": "https://github.com/rive-app/rive-react",
+              "description": "React runtime for interactive Rive animations.",
+              "external": false,
+              "sourceRepo": "sergey-pimenov/awesome-web-animation",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Web Animation",
+                "React",
+                "Rive React"
+              ],
+              "parentId": "root-front-end-development-web-animation-react"
+            },
+            {
+              "id": "root-front-end-development-web-animation-react-react-flip-toolkit",
+              "title": "React Flip Toolkit",
+              "kind": "repo",
+              "repo": "aholachek/react-flip-toolkit",
+              "url": "https://github.com/aholachek/react-flip-toolkit",
+              "description": "Lightweight magic-move library for configurable layout transitions.",
+              "external": false,
+              "sourceRepo": "sergey-pimenov/awesome-web-animation",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Web Animation",
+                "React",
+                "React Flip Toolkit"
+              ],
+              "parentId": "root-front-end-development-web-animation-react"
+            },
+            {
+              "id": "root-front-end-development-web-animation-react-remotion",
+              "title": "Remotion",
+              "kind": "repo",
+              "repo": "remotion-dev/remotion",
+              "url": "https://github.com/remotion-dev/remotion",
+              "description": "Create videos programmatically with React.",
+              "external": false,
+              "sourceRepo": "sergey-pimenov/awesome-web-animation",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Web Animation",
+                "React",
+                "Remotion"
+              ],
+              "parentId": "root-front-end-development-web-animation-react"
+            },
+            {
+              "id": "root-front-end-development-web-animation-react-react-three-fiber",
+              "title": "React Three Fiber",
+              "kind": "repo",
+              "repo": "pmndrs/react-three-fiber",
+              "url": "https://github.com/pmndrs/react-three-fiber",
+              "description": "A React renderer for Three.js.",
+              "external": false,
+              "sourceRepo": "sergey-pimenov/awesome-web-animation",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Web Animation",
+                "React",
+                "React Three Fiber"
+              ],
+              "parentId": "root-front-end-development-web-animation-react"
+            },
+            {
+              "id": "root-front-end-development-web-animation-react-react-transition-group",
+              "title": "React Transition Group",
+              "kind": "repo",
+              "repo": "reactjs/react-transition-group",
+              "url": "https://github.com/reactjs/react-transition-group",
+              "description": "Perform animations when a React component enters or leaves the DOM.",
+              "external": false,
+              "sourceRepo": "sergey-pimenov/awesome-web-animation",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Web Animation",
+                "React",
+                "React Transition Group"
               ],
               "parentId": "root-front-end-development-web-animation-react"
             }
@@ -212653,6 +213514,162 @@
                 "CSS Animation Kit"
               ],
               "parentId": "root-front-end-development-web-animation-gui-tools"
+            },
+            {
+              "id": "root-front-end-development-web-animation-gui-tools-rive",
+              "title": "Rive",
+              "kind": "link",
+              "repo": "",
+              "url": "https://rive.app/",
+              "description": "Real-time interactive animation tool for websites, apps, and games. Design vector graphics and state machines in the editor, then ship them with open-source runtimes for the web.",
+              "external": true,
+              "sourceRepo": "sergey-pimenov/awesome-web-animation",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Web Animation",
+                "GUI tools",
+                "Rive"
+              ],
+              "parentId": "root-front-end-development-web-animation-gui-tools"
+            },
+            {
+              "id": "root-front-end-development-web-animation-gui-tools-lottiefiles",
+              "title": "LottieFiles",
+              "kind": "link",
+              "repo": "",
+              "url": "https://lottiefiles.com/",
+              "description": "Platform for creating, editing, and shipping Lottie and dotLottie animations. Browse a huge motion library or use Lottie Creator in the browser.",
+              "external": true,
+              "sourceRepo": "sergey-pimenov/awesome-web-animation",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Web Animation",
+                "GUI tools",
+                "LottieFiles"
+              ],
+              "parentId": "root-front-end-development-web-animation-gui-tools"
+            },
+            {
+              "id": "root-front-end-development-web-animation-gui-tools-svgator",
+              "title": "SVGator",
+              "kind": "link",
+              "repo": "",
+              "url": "https://www.svgator.com/",
+              "description": "Browser-based SVG animation tool with a visual timeline. Animate stroke, fill, morph, and motion along a path, then export CSS, JavaScript, or Lottie.",
+              "external": true,
+              "sourceRepo": "sergey-pimenov/awesome-web-animation",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Web Animation",
+                "GUI tools",
+                "SVGator"
+              ],
+              "parentId": "root-front-end-development-web-animation-gui-tools"
+            },
+            {
+              "id": "root-front-end-development-web-animation-gui-tools-spline",
+              "title": "Spline",
+              "kind": "link",
+              "repo": "",
+              "url": "https://spline.design/",
+              "description": "Real-time 3D design tool that runs in the browser. Build interactive 3D scenes and export them to websites with the Spline runtime.",
+              "external": true,
+              "sourceRepo": "sergey-pimenov/awesome-web-animation",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Web Animation",
+                "GUI tools",
+                "Spline"
+              ],
+              "parentId": "root-front-end-development-web-animation-gui-tools"
+            },
+            {
+              "id": "root-front-end-development-web-animation-gui-tools-cables",
+              "title": "Cables",
+              "kind": "link",
+              "repo": "",
+              "url": "https://cables.gl/",
+              "description": "Visual programming tool for interactive WebGL content. Connect operators into patches and export real-time visuals to your website.",
+              "external": true,
+              "sourceRepo": "sergey-pimenov/awesome-web-animation",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Web Animation",
+                "GUI tools",
+                "Cables"
+              ],
+              "parentId": "root-front-end-development-web-animation-gui-tools"
+            },
+            {
+              "id": "root-front-end-development-web-animation-gui-tools-easings-net",
+              "title": "Easings.net",
+              "kind": "link",
+              "repo": "",
+              "url": "https://easings.net/",
+              "description": "Visual cheat sheet of easing functions. Compare curves, preview motion, and copy CSS or JavaScript snippets.",
+              "external": true,
+              "sourceRepo": "sergey-pimenov/awesome-web-animation",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Web Animation",
+                "GUI tools",
+                "Easings.net"
+              ],
+              "parentId": "root-front-end-development-web-animation-gui-tools"
             }
           ],
           "stars": 0,
@@ -212677,6 +213694,29 @@
           "depth": 1,
           "url": "https://github.com/sergey-pimenov/awesome-web-animation#books",
           "children": [
+            {
+              "id": "root-front-end-development-web-animation-books-animation-at-work",
+              "title": "Animation at Work",
+              "kind": "section",
+              "sourceRepo": "sergey-pimenov/awesome-web-animation",
+              "depth": 2,
+              "url": "https://github.com/sergey-pimenov/awesome-web-animation#animation-at-work",
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Web Animation",
+                "Books",
+                "Animation at Work"
+              ],
+              "parentId": "root-front-end-development-web-animation-books"
+            },
             {
               "id": "root-front-end-development-web-animation-books-svg-animation",
               "title": "SVG animation",
@@ -212909,6 +213949,110 @@
                 "Yuri Artyukh youtube channel"
               ],
               "parentId": "root-front-end-development-web-animation-videos"
+            },
+            {
+              "id": "root-front-end-development-web-animation-videos-gsap-learning",
+              "title": "GSAP Learning",
+              "kind": "link",
+              "repo": "",
+              "url": "https://www.youtube.com/@GreenSockLearning",
+              "description": "Official GreenSock channel with GSAP tutorials, scroll demos, and plugin walkthroughs.",
+              "external": true,
+              "sourceRepo": "sergey-pimenov/awesome-web-animation",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Web Animation",
+                "Videos",
+                "GSAP Learning"
+              ],
+              "parentId": "root-front-end-development-web-animation-videos"
+            },
+            {
+              "id": "root-front-end-development-web-animation-videos-hyperplexed",
+              "title": "Hyperplexed",
+              "kind": "link",
+              "repo": "",
+              "url": "https://www.youtube.com/@Hyperplexed",
+              "description": "Creative front-end motion breakdowns: hover effects, text animation, and award-style interactions.",
+              "external": true,
+              "sourceRepo": "sergey-pimenov/awesome-web-animation",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Web Animation",
+                "Videos",
+                "Hyperplexed"
+              ],
+              "parentId": "root-front-end-development-web-animation-videos"
+            },
+            {
+              "id": "root-front-end-development-web-animation-videos-the-coding-train",
+              "title": "The Coding Train",
+              "kind": "link",
+              "repo": "",
+              "url": "https://www.youtube.com/@TheCodingTrain",
+              "description": "Daniel Shiffman teaches creative coding, canvas animation, and p5.js in an approachable format.",
+              "external": true,
+              "sourceRepo": "sergey-pimenov/awesome-web-animation",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Web Animation",
+                "Videos",
+                "The Coding Train"
+              ],
+              "parentId": "root-front-end-development-web-animation-videos"
+            },
+            {
+              "id": "root-front-end-development-web-animation-videos-kevin-powell",
+              "title": "Kevin Powell",
+              "kind": "link",
+              "repo": "",
+              "url": "https://www.youtube.com/@KevinPowell",
+              "description": "Practical CSS animation, transitions, and modern layout techniques.",
+              "external": true,
+              "sourceRepo": "sergey-pimenov/awesome-web-animation",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Web Animation",
+                "Videos",
+                "Kevin Powell"
+              ],
+              "parentId": "root-front-end-development-web-animation-videos"
             }
           ],
           "stars": 0,
@@ -212926,8 +214070,8 @@
           "parentId": "root-front-end-development-web-animation"
         }
       ],
-      "stars": 1580,
-      "forks": 86,
+      "stars": 1581,
+      "forks": 87,
       "language": "JavaScript",
       "license": "CC0-1.0",
       "topics": [
@@ -212939,8 +214083,8 @@
         "transitions",
         "web-animation"
       ],
-      "updated": "2026-09-20T00:01:50Z",
-      "pushed": "2023-07-12T12:52:20Z",
+      "updated": "2026-09-27T06:31:46Z",
+      "pushed": "2026-09-20T16:58:09Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -218523,8 +219667,8 @@
               "sourceRepo": "jetli/awesome-yew",
               "depth": 2,
               "children": [],
-              "stars": 9641,
-              "forks": 590,
+              "stars": 9645,
+              "forks": 594,
               "language": null,
               "license": "CC0-1.0",
               "topics": [
@@ -218538,7 +219682,7 @@
                 "wasm",
                 "webassembly"
               ],
-              "updated": "2026-09-20T03:44:45Z",
+              "updated": "2026-09-26T13:32:48Z",
               "pushed": "2024-11-15T14:58:04Z",
               "awesome": true,
               "path": [
@@ -218559,16 +219703,16 @@
               "sourceRepo": "jetli/awesome-yew",
               "depth": 2,
               "children": [],
-              "stars": 59445,
-              "forks": 3626,
+              "stars": 59572,
+              "forks": 3641,
               "language": "Rust",
               "license": "CC0-1.0",
               "topics": [
                 "awesome",
                 "rust"
               ],
-              "updated": "2026-09-20T06:15:27Z",
-              "pushed": "2026-09-19T19:44:35Z",
+              "updated": "2026-09-27T01:43:12Z",
+              "pushed": "2026-09-26T16:48:11Z",
               "awesome": true,
               "path": [
                 "Yew",
@@ -218606,7 +219750,7 @@
         "yew",
         "yew-framework"
       ],
-      "updated": "2026-09-19T23:18:30Z",
+      "updated": "2026-09-23T12:42:24Z",
       "pushed": "2026-02-28T09:26:58Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -223039,8 +224183,8 @@
               "sourceRepo": "componently-com/awesome-building-blocks-for-web-apps",
               "depth": 2,
               "children": [],
-              "stars": 14515,
-              "forks": 1858,
+              "stars": 14518,
+              "forks": 1860,
               "language": null,
               "license": "CC0-1.0",
               "topics": [
@@ -223050,7 +224194,7 @@
                 "microservices",
                 "microservices-architecture"
               ],
-              "updated": "2026-09-19T06:54:46Z",
+              "updated": "2026-09-26T09:20:14Z",
               "pushed": "2026-08-20T15:52:41Z",
               "awesome": true,
               "path": [
@@ -229690,8 +230834,8 @@
           "parentId": "root-front-end-development-svelte"
         }
       ],
-      "stars": 2159,
-      "forks": 204,
+      "stars": 2164,
+      "forks": 206,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -229701,7 +230845,7 @@
         "svelte",
         "sveltejs"
       ],
-      "updated": "2026-09-18T14:45:29Z",
+      "updated": "2026-09-27T05:27:34Z",
       "pushed": "2026-09-07T19:38:43Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -233198,8 +234342,8 @@
           "parentId": "root-front-end-development-design-systems"
         }
       ],
-      "stars": 887,
-      "forks": 69,
+      "stars": 888,
+      "forks": 71,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -233221,7 +234365,7 @@
         "reusable-components",
         "storybook"
       ],
-      "updated": "2026-09-19T14:37:09Z",
+      "updated": "2026-09-23T00:46:12Z",
       "pushed": "2026-09-14T07:10:24Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -241288,8 +242432,8 @@
                   "sourceRepo": "joewdavies/awesome-frontend-gis",
                   "depth": 3,
                   "children": [],
-                  "stars": 2540,
-                  "forks": 215,
+                  "stars": 2545,
+                  "forks": 217,
                   "language": null,
                   "license": "CC0-1.0",
                   "topics": [
@@ -241298,8 +242442,8 @@
                     "geojson",
                     "list"
                   ],
-                  "updated": "2026-09-17T02:49:30Z",
-                  "pushed": "2026-09-01T11:55:22Z",
+                  "updated": "2026-09-25T12:52:51Z",
+                  "pushed": "2026-09-23T17:14:52Z",
                   "awesome": true,
                   "path": [
                     "Frontend GIS",
@@ -242286,8 +243430,8 @@
                   "sourceRepo": "joewdavies/awesome-frontend-gis",
                   "depth": 3,
                   "children": [],
-                  "stars": 1180,
-                  "forks": 189,
+                  "stars": 1181,
+                  "forks": 191,
                   "language": "Python",
                   "license": "MIT",
                   "topics": [
@@ -242312,8 +243456,8 @@
                     "spectral-index",
                     "spectral-indices"
                   ],
-                  "updated": "2026-09-20T04:09:26Z",
-                  "pushed": "2026-09-20T04:09:22Z",
+                  "updated": "2026-09-27T04:29:57Z",
+                  "pushed": "2026-09-27T04:29:53Z",
                   "awesome": true,
                   "path": [
                     "Frontend GIS",
@@ -243941,8 +245085,8 @@
                   "sourceRepo": "joewdavies/awesome-frontend-gis",
                   "depth": 3,
                   "children": [],
-                  "stars": 79050,
-                  "forks": 11850,
+                  "stars": 79170,
+                  "forks": 11854,
                   "language": null,
                   "license": "MIT",
                   "topics": [
@@ -243951,8 +245095,8 @@
                     "datasets",
                     "opendata"
                   ],
-                  "updated": "2026-09-20T07:29:44Z",
-                  "pushed": "2026-09-18T21:12:31Z",
+                  "updated": "2026-09-27T07:12:08Z",
+                  "pushed": "2026-09-23T17:54:03Z",
                   "awesome": true,
                   "path": [
                     "Frontend GIS",
@@ -246485,8 +247629,8 @@
           "parentId": "root-front-end-development-frontend-gis"
         }
       ],
-      "stars": 860,
-      "forks": 64,
+      "stars": 864,
+      "forks": 67,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -246511,7 +247655,7 @@
         "visualization",
         "webgl"
       ],
-      "updated": "2026-09-17T02:34:48Z",
+      "updated": "2026-09-27T05:13:17Z",
       "pushed": "2026-08-18T18:05:33Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -251071,8 +252215,8 @@
           "parentId": "root-front-end-development-webgpu"
         }
       ],
-      "stars": 1981,
-      "forks": 114,
+      "stars": 1989,
+      "forks": 117,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -251085,7 +252229,7 @@
         "webgl",
         "webgpu"
       ],
-      "updated": "2026-09-15T11:11:53Z",
+      "updated": "2026-09-26T20:01:00Z",
       "pushed": "2026-09-10T09:00:23Z",
       "awesome": true,
       "readmeStatus": "expanded",

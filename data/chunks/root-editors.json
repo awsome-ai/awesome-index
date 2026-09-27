@@ -2205,6 +2205,58 @@
               "parentId": "root-editors-neovim-lsp"
             },
             {
+              "id": "root-editors-neovim-lsp-antosha417-nvim-lsp-file-operations",
+              "title": "antosha417/nvim-lsp-file-operations",
+              "kind": "repo",
+              "repo": "antosha417/nvim-lsp-file-operations",
+              "url": "https://github.com/antosha417/nvim-lsp-file-operations",
+              "description": "File operations using built-in LSP support.",
+              "external": false,
+              "sourceRepo": "rockerboo/awesome-neovim",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Neovim",
+                "LSP",
+                "antosha417/nvim-lsp-file-operations"
+              ],
+              "parentId": "root-editors-neovim-lsp"
+            },
+            {
+              "id": "root-editors-neovim-lsp-carldaws-miser-nvim",
+              "title": "carldaws/miser.nvim",
+              "kind": "repo",
+              "repo": "carldaws/miser.nvim",
+              "url": "https://github.com/carldaws/miser.nvim",
+              "description": "Start LSP servers, run formatters on save, and launch tasks straight from the tools declared in a project's mise.toml.",
+              "external": false,
+              "sourceRepo": "rockerboo/awesome-neovim",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Neovim",
+                "LSP",
+                "carldaws/miser.nvim"
+              ],
+              "parentId": "root-editors-neovim-lsp"
+            },
+            {
               "id": "root-editors-neovim-lsp-diagnostics",
               "title": "Diagnostics",
               "kind": "section",
@@ -4729,6 +4781,32 @@
                 "zgs225/pi2.nvim"
               ],
               "parentId": "root-editors-neovim-ai"
+            },
+            {
+              "id": "root-editors-neovim-ai-jaitd-fieldguide-nvim",
+              "title": "jaitd/fieldguide.nvim",
+              "kind": "repo",
+              "repo": "jaitd/fieldguide.nvim",
+              "url": "https://github.com/jaitd/fieldguide.nvim",
+              "description": "Sidebar agent for your own config; will inform you if config still boots when changing it and provides answers from your installed plugins' docs, the versions on disk, and the live session.",
+              "external": false,
+              "sourceRepo": "rockerboo/awesome-neovim",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Neovim",
+                "AI",
+                "jaitd/fieldguide.nvim"
+              ],
+              "parentId": "root-editors-neovim-ai"
             }
           ],
           "stars": 0,
@@ -5218,6 +5296,32 @@
                 "Neovim",
                 "Programming Languages Support",
                 "artur-shaik/jc.nvim"
+              ],
+              "parentId": "root-editors-neovim-programming-languages-support"
+            },
+            {
+              "id": "root-editors-neovim-programming-languages-support-ag-libs-lathe-nvim",
+              "title": "ag-libs/lathe.nvim",
+              "kind": "repo",
+              "repo": "ag-libs/lathe.nvim",
+              "url": "https://github.com/ag-libs/lathe.nvim",
+              "description": "Java language server for Maven — code intelligence, diagnostics, run/test/debug, no classpath setup.",
+              "external": false,
+              "sourceRepo": "rockerboo/awesome-neovim",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Neovim",
+                "Programming Languages Support",
+                "ag-libs/lathe.nvim"
               ],
               "parentId": "root-editors-neovim-programming-languages-support"
             },
@@ -22647,6 +22751,58 @@
               "parentId": "root-editors-neovim-utility"
             },
             {
+              "id": "root-editors-neovim-utility-justinhj-battery-nvim",
+              "title": "justinhj/battery.nvim",
+              "kind": "repo",
+              "repo": "justinhj/battery.nvim",
+              "url": "https://github.com/justinhj/battery.nvim",
+              "description": "Cross-platform battery status detection with a Lua API for statusline integration.",
+              "external": false,
+              "sourceRepo": "rockerboo/awesome-neovim",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Neovim",
+                "Utility",
+                "justinhj/battery.nvim"
+              ],
+              "parentId": "root-editors-neovim-utility"
+            },
+            {
+              "id": "root-editors-neovim-utility-rifen-timescope",
+              "title": "rifen/timescope",
+              "kind": "repo",
+              "repo": "rifen/timescope",
+              "url": "https://github.com/rifen/timescope",
+              "description": "Inspect numeric durations in code and view human-readable equivalents as inline virtual text.",
+              "external": false,
+              "sourceRepo": "rockerboo/awesome-neovim",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Neovim",
+                "Utility",
+                "rifen/timescope"
+              ],
+              "parentId": "root-editors-neovim-utility"
+            },
+            {
               "id": "root-editors-neovim-utility-csv-files",
               "title": "CSV Files",
               "kind": "section",
@@ -25857,6 +26013,32 @@
                 "Neovim",
                 "Code Runner",
                 "caskstrength/nvim-soil"
+              ],
+              "parentId": "root-editors-neovim-code-runner"
+            },
+            {
+              "id": "root-editors-neovim-code-runner-pewpewnor-dove-nvim",
+              "title": "pewpewnor/dove.nvim",
+              "kind": "repo",
+              "repo": "pewpewnor/dove.nvim",
+              "url": "https://github.com/pewpewnor/dove.nvim",
+              "description": "Define and execute arbitrary shell commands or Lua code on the fly for file, project, or global contexts.",
+              "external": false,
+              "sourceRepo": "rockerboo/awesome-neovim",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Neovim",
+                "Code Runner",
+                "pewpewnor/dove.nvim"
               ],
               "parentId": "root-editors-neovim-code-runner"
             }
@@ -39014,8 +39196,8 @@
                     "neovim-plugins",
                     "nix-flake"
                   ],
-                  "updated": "2026-09-19T19:38:23Z",
-                  "pushed": "2026-09-19T19:38:20Z",
+                  "updated": "2026-09-26T19:57:57Z",
+                  "pushed": "2026-09-26T19:57:53Z",
                   "awesome": true,
                   "path": [
                     "Neovim",
@@ -39631,6 +39813,32 @@
                 "nvim-mini/mini.nvim#mini.input"
               ],
               "parentId": "root-editors-neovim-ui"
+            },
+            {
+              "id": "root-editors-neovim-ui-simifalaye-minibuffer-nvim",
+              "title": "simifalaye/minibuffer.nvim",
+              "kind": "repo",
+              "repo": "simifalaye/minibuffer.nvim",
+              "url": "https://github.com/simifalaye/minibuffer.nvim",
+              "description": "Emacs-inspired lightweight, extensible interface for displaying prompts, messages and interactive input on a dedicated area.",
+              "external": false,
+              "sourceRepo": "rockerboo/awesome-neovim",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Neovim",
+                "UI",
+                "simifalaye/minibuffer.nvim"
+              ],
+              "parentId": "root-editors-neovim-ui"
             }
           ],
           "stars": 0,
@@ -39692,15 +39900,15 @@
               "sourceRepo": "rockerboo/awesome-neovim",
               "depth": 2,
               "children": [],
-              "stars": 2129,
-              "forks": 145,
+              "stars": 2130,
+              "forks": 146,
               "language": null,
               "license": "MIT",
               "topics": [
                 "awesome",
                 "vim"
               ],
-              "updated": "2026-09-19T18:02:31Z",
+              "updated": "2026-09-21T05:03:03Z",
               "pushed": "2025-06-06T18:42:55Z",
               "awesome": true,
               "path": [
@@ -39908,8 +40116,8 @@
           "parentId": "root-editors-neovim"
         }
       ],
-      "stars": 21402,
-      "forks": 1056,
+      "stars": 21419,
+      "forks": 1062,
       "language": "Shell",
       "license": "CC0-1.0",
       "topics": [
@@ -39919,8 +40127,8 @@
         "neovim-plugins",
         "nvim-lua"
       ],
-      "updated": "2026-09-20T05:52:47Z",
-      "pushed": "2026-09-19T20:46:22Z",
+      "updated": "2026-09-27T07:04:49Z",
+      "pushed": "2026-09-27T05:39:22Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -39939,7 +40147,7 @@
       "sourceRepo": "sindresorhus/awesome",
       "depth": 1,
       "children": [],
-      "stars": 9374,
+      "stars": 9380,
       "forks": 599,
       "language": null,
       "license": "Unlicense",
@@ -39947,7 +40155,7 @@
         "awesome-list",
         "emacs"
       ],
-      "updated": "2026-09-18T20:00:28Z",
+      "updated": "2026-09-27T04:24:57Z",
       "pushed": "2026-09-02T15:57:43Z",
       "awesome": true,
       "readmeStatus": "empty",
@@ -46418,8 +46626,8 @@
           "parentId": "root-editors-visual-studio-code"
         }
       ],
-      "stars": 29052,
-      "forks": 1421,
+      "stars": 29082,
+      "forks": 1424,
       "language": "JavaScript",
       "license": "CC0-1.0",
       "topics": [
@@ -46435,7 +46643,7 @@
         "vscode-extension",
         "vscode-theme"
       ],
-      "updated": "2026-09-20T01:36:05Z",
+      "updated": "2026-09-27T03:14:22Z",
       "pushed": "2026-06-21T09:36:55Z",
       "awesome": true,
       "readmeStatus": "expanded",
