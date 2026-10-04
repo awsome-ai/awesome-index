@@ -311,8 +311,8 @@
           "parentId": "root-media-fonts"
         }
       ],
-      "stars": 2071,
-      "forks": 1029,
+      "stars": 2075,
+      "forks": 1032,
       "language": null,
       "license": null,
       "topics": [
@@ -325,7 +325,7 @@
         "list",
         "programming-fonts"
       ],
-      "updated": "2026-09-22T10:54:37Z",
+      "updated": "2026-10-03T04:08:49Z",
       "pushed": "2026-07-26T05:01:07Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -885,8 +885,8 @@
           "parentId": "root-media-stock-resources"
         }
       ],
-      "stars": 14559,
-      "forks": 818,
+      "stars": 14577,
+      "forks": 819,
       "language": "Ruby",
       "license": "CC0-1.0",
       "topics": [
@@ -905,7 +905,7 @@
         "templates",
         "weather-icons"
       ],
-      "updated": "2026-09-27T00:26:12Z",
+      "updated": "2026-10-03T19:42:38Z",
       "pushed": "2026-02-11T22:01:53Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -2882,7 +2882,7 @@
         }
       ],
       "stars": 698,
-      "forks": 60,
+      "forks": 61,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -4326,12 +4326,12 @@
           "parentId": "root-media-open-source-documents"
         }
       ],
-      "stars": 2331,
+      "stars": 2338,
       "forks": 165,
       "language": null,
       "license": "NOASSERTION",
       "topics": [],
-      "updated": "2026-09-26T23:01:18Z",
+      "updated": "2026-10-03T21:36:00Z",
       "pushed": "2026-09-19T03:08:38Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -9729,12 +9729,12 @@
           "parentId": "root-media-audio-visualization"
         }
       ],
-      "stars": 5080,
-      "forks": 351,
+      "stars": 5085,
+      "forks": 352,
       "language": "Shell",
       "license": null,
       "topics": [],
-      "updated": "2026-09-25T10:07:13Z",
+      "updated": "2026-10-04T01:51:24Z",
       "pushed": "2026-08-13T14:34:10Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -10372,7 +10372,7 @@
         }
       ],
       "stars": 1784,
-      "forks": 225,
+      "forks": 226,
       "language": null,
       "license": "NOASSERTION",
       "topics": [
@@ -10380,8 +10380,8 @@
         "broadcast",
         "broadcasting"
       ],
-      "updated": "2026-09-24T20:32:08Z",
-      "pushed": "2026-04-29T10:25:42Z",
+      "updated": "2026-09-30T15:27:20Z",
+      "pushed": "2026-09-30T08:39:41Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -11966,6 +11966,33 @@
                     "Draw!"
                   ],
                   "parentId": "root-media-pixel-art-tools-editors"
+                },
+                {
+                  "id": "root-media-pixel-art-tools-editors-tessarium",
+                  "title": "Tessarium",
+                  "kind": "link",
+                  "repo": "",
+                  "url": "https://joelj.itch.io/tessarium",
+                  "description": "Free with paid upgrade, works on Linux, macOS, Windows and in the browser. Tile-first level editor where editing a tile updates every placement.",
+                  "external": true,
+                  "sourceRepo": "siilwyn/awesome-pixel-art",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Pixel Art",
+                    "Tools",
+                    "Editors",
+                    "Tessarium"
+                  ],
+                  "parentId": "root-media-pixel-art-tools-editors"
                 }
               ],
               "stars": 0,
@@ -12131,8 +12158,8 @@
           "parentId": "root-media-pixel-art"
         }
       ],
-      "stars": 1256,
-      "forks": 57,
+      "stars": 1259,
+      "forks": 58,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -12140,8 +12167,8 @@
         "hacktoberfest",
         "pixel-art"
       ],
-      "updated": "2026-09-26T12:38:13Z",
-      "pushed": "2026-08-06T14:12:28Z",
+      "updated": "2026-10-02T12:54:10Z",
+      "pushed": "2026-10-01T15:51:50Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -13153,7 +13180,7 @@
           "parentId": "root-media-ffmpeg"
         }
       ],
-      "stars": 1189,
+      "stars": 1191,
       "forks": 87,
       "language": null,
       "license": null,
@@ -13163,7 +13190,7 @@
         "ffmpeg",
         "fluent-ffmpeg"
       ],
-      "updated": "2026-09-26T23:01:05Z",
+      "updated": "2026-10-01T14:53:49Z",
       "pushed": "2026-09-18T02:53:31Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -13462,8 +13489,8 @@
               "sourceRepo": "notlmn/awesome-icons",
               "depth": 2,
               "children": [],
-              "stars": 76951,
-              "forks": 12171,
+              "stars": 76949,
+              "forks": 12166,
               "language": "JavaScript",
               "license": "NOASSERTION",
               "topics": [
@@ -13475,7 +13502,7 @@
                 "svg-sprites",
                 "webfont"
               ],
-              "updated": "2026-09-27T06:26:44Z",
+              "updated": "2026-10-04T05:32:45Z",
               "pushed": "2026-07-15T18:15:53Z",
               "awesome": true,
               "path": [
@@ -14586,8 +14613,8 @@
           "parentId": "root-media-icons"
         }
       ],
-      "stars": 1004,
-      "forks": 64,
+      "stars": 1006,
+      "forks": 65,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -14598,7 +14625,7 @@
         "icons",
         "logo"
       ],
-      "updated": "2026-09-26T17:59:09Z",
+      "updated": "2026-10-03T04:19:13Z",
       "pushed": "2026-08-27T19:27:40Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -16454,8 +16481,8 @@
               "sourceRepo": "stingalleman/awesome-audiovisual",
               "depth": 2,
               "children": [],
-              "stars": 1791,
-              "forks": 103,
+              "stars": 1792,
+              "forks": 104,
               "language": "Makefile",
               "license": "NOASSERTION",
               "topics": [
@@ -16471,7 +16498,7 @@
                 "video",
                 "vst"
               ],
-              "updated": "2026-09-26T19:31:48Z",
+              "updated": "2026-09-30T13:30:19Z",
               "pushed": "2026-07-31T17:20:26Z",
               "awesome": true,
               "path": [
@@ -18365,7 +18392,7 @@
               "kind": "repo",
               "repo": "chris-ritsen/network-audio-controller",
               "url": "https://github.com/chris-ritsen/network-audio-controller",
-              "description": "Reverse engineered Dante Controller on the command line.",
+              "description": "Reverse engineered Dante Controller. Supports Web GUI and command line.",
               "external": false,
               "sourceRepo": "mo-way/awesome-aoip",
               "depth": 2,
@@ -19092,9 +19119,136 @@
             "Standards"
           ],
           "parentId": "root-media-audio-over-ip"
+        },
+        {
+          "id": "root-media-audio-over-ip-security",
+          "title": "Security",
+          "kind": "section",
+          "sourceRepo": "mo-way/awesome-aoip",
+          "depth": 1,
+          "url": "https://github.com/mo-way/awesome-aoip#security",
+          "children": [
+            {
+              "id": "root-media-audio-over-ip-security-ipmx-pep-draft",
+              "title": "IPMX PEP Draft",
+              "kind": "link",
+              "repo": "",
+              "url": "https://web.archive.org/web/20250402090003/https://static.vsf.tv/download/technical_recommendations/VSF_TR-10-13_2024-01-19.pdf",
+              "description": "The VSF used to host a draft on IPMX encryption (linked the archived copy).",
+              "external": true,
+              "sourceRepo": "mo-way/awesome-aoip",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Audio Over IP",
+                "Security",
+                "IPMX PEP Draft"
+              ],
+              "parentId": "root-media-audio-over-ip-security"
+            },
+            {
+              "id": "root-media-audio-over-ip-security-dante-encryption",
+              "title": "Dante Encryption",
+              "kind": "link",
+              "repo": "",
+              "url": "https://www.getdante.com/products/network-management/dante-media-encryption/",
+              "description": "Dante encrypts media streams, but requires a cloud connection for encrypted control traffic.",
+              "external": true,
+              "sourceRepo": "mo-way/awesome-aoip",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Audio Over IP",
+                "Security",
+                "Dante Encryption"
+              ],
+              "parentId": "root-media-audio-over-ip-security"
+            },
+            {
+              "id": "root-media-audio-over-ip-security-vulnerability-assessment-of-the-dante-protocol",
+              "title": "Vulnerability assessment of the Dante Protocol",
+              "kind": "link",
+              "repo": "",
+              "url": "https://ritcsec.wordpress.com/2020/04/28/reverse-engineering-and-vulnerability-assessment-of-the-dante-protocol/",
+              "description": "This article looks at the low-level implementation of Dante protocol.",
+              "external": true,
+              "sourceRepo": "mo-way/awesome-aoip",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Audio Over IP",
+                "Security",
+                "Vulnerability assessment of the Dante Protocol"
+              ],
+              "parentId": "root-media-audio-over-ip-security"
+            },
+            {
+              "id": "root-media-audio-over-ip-security-secuirty-analysis-of-ptp-paper",
+              "title": "Secuirty analysis of PTP paper",
+              "kind": "link",
+              "repo": "",
+              "url": "https://web.archive.org/web/20250823221404/http://lersse-dl.ece.ubc.ca/record/123/files/123.pdf",
+              "description": "A paper from 2025 explaining which attack vectors on PTP exist in theory.",
+              "external": true,
+              "sourceRepo": "mo-way/awesome-aoip",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Audio Over IP",
+                "Security",
+                "Secuirty analysis of PTP paper"
+              ],
+              "parentId": "root-media-audio-over-ip-security"
+            }
+          ],
+          "stars": 0,
+          "forks": 0,
+          "language": null,
+          "license": null,
+          "topics": [],
+          "updated": null,
+          "pushed": null,
+          "awesome": false,
+          "path": [
+            "Audio Over IP",
+            "Security"
+          ],
+          "parentId": "root-media-audio-over-ip"
         }
       ],
-      "stars": 153,
+      "stars": 155,
       "forks": 10,
       "language": null,
       "license": "CC0-1.0",
@@ -19109,8 +19263,8 @@
         "network",
         "smpte-2110"
       ],
-      "updated": "2026-09-26T07:00:11Z",
-      "pushed": "2026-02-27T11:28:09Z",
+      "updated": "2026-10-02T15:51:12Z",
+      "pushed": "2026-10-02T14:31:08Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [

@@ -33150,6 +33150,58 @@
                 "Crayonan / payload-plugin-ai-localization"
               ],
               "parentId": "root-content-management-systems-payload-plugins"
+            },
+            {
+              "id": "root-content-management-systems-payload-plugins-s1awek-payload-ecommerce-tpay",
+              "title": "s1awek / payload-ecommerce-tpay",
+              "kind": "repo",
+              "repo": "s1awek/payload-ecommerce-tpay",
+              "url": "https://github.com/s1awek/payload-ecommerce-tpay",
+              "description": "Tpay payment adapter for the official ecommerce plugin: BLIK, bank transfers and cards for shops selling to Polish customers.",
+              "external": false,
+              "sourceRepo": "danailminchev/awesome-payload",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Payload",
+                "Plugins",
+                "s1awek / payload-ecommerce-tpay"
+              ],
+              "parentId": "root-content-management-systems-payload-plugins"
+            },
+            {
+              "id": "root-content-management-systems-payload-plugins-relative23-payload-live-preview",
+              "title": "relative23 / payload-live-preview",
+              "kind": "repo",
+              "repo": "relative23/payload-live-preview",
+              "url": "https://github.com/relative23/payload-live-preview",
+              "description": "Astro-first live preview for Payload: patches the DOM in the admin iframe as you edit, for any SSR or static frontend (Astro, SvelteKit, Nuxt, Next.js, plain HTML).",
+              "external": false,
+              "sourceRepo": "danailminchev/awesome-payload",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Payload",
+                "Plugins",
+                "relative23 / payload-live-preview"
+              ],
+              "parentId": "root-content-management-systems-payload-plugins"
             }
           ],
           "stars": 0,
@@ -33167,7 +33219,7 @@
           "parentId": "root-content-management-systems-payload"
         }
       ],
-      "stars": 97,
+      "stars": 96,
       "forks": 11,
       "language": null,
       "license": "CC0-1.0",
@@ -33177,8 +33229,8 @@
         "payload",
         "payloadcms"
       ],
-      "updated": "2026-09-16T07:23:35Z",
-      "pushed": "2026-09-14T18:41:14Z",
+      "updated": "2026-09-30T08:38:27Z",
+      "pushed": "2026-09-28T19:26:38Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [

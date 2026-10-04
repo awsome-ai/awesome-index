@@ -1021,8 +1021,8 @@
       "sourceRepo": "sindresorhus/awesome",
       "depth": 1,
       "children": [],
-      "stars": 79170,
-      "forks": 11854,
+      "stars": 79305,
+      "forks": 11862,
       "language": null,
       "license": "MIT",
       "topics": [
@@ -1031,8 +1031,8 @@
         "datasets",
         "opendata"
       ],
-      "updated": "2026-09-27T07:12:08Z",
-      "pushed": "2026-09-23T17:54:03Z",
+      "updated": "2026-10-04T07:53:00Z",
+      "pushed": "2026-10-02T19:47:28Z",
       "awesome": true,
       "readmeStatus": "empty",
       "path": [
@@ -1537,7 +1537,7 @@
         }
       ],
       "stars": 1118,
-      "forks": 253,
+      "forks": 252,
       "language": null,
       "license": null,
       "topics": [],
@@ -10761,15 +10761,15 @@
           "parentId": "root-big-data-data-engineering"
         }
       ],
-      "stars": 9105,
-      "forks": 1631,
+      "stars": 9138,
+      "forks": 1641,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
         "awesome",
         "awesome-list"
       ],
-      "updated": "2026-09-26T17:15:00Z",
+      "updated": "2026-10-04T07:35:52Z",
       "pushed": "2026-09-07T13:29:54Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -12867,6 +12867,32 @@
               "parentId": "root-big-data-streaming-libraries-sdks-and-programming-models"
             },
             {
+              "id": "root-big-data-streaming-libraries-sdks-and-programming-models-pysad-python-language-python",
+              "title": "PySAD ![Python][language-python]",
+              "kind": "topic",
+              "repo": "",
+              "url": "",
+              "description": "Python library for anomaly detection on streaming data, with online detectors, stream simulators, and evaluators.",
+              "external": false,
+              "sourceRepo": "manuzhang/awesome-streaming",
+              "depth": 3,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Streaming",
+                "Libraries, SDKs, and Programming Models",
+                "PySAD ![Python][language-python]"
+              ],
+              "parentId": "root-big-data-streaming-libraries-sdks-and-programming-models"
+            },
+            {
               "id": "root-big-data-streaming-libraries-sdks-and-programming-models-quix-streams-python-language-python",
               "title": "Quix Streams ![Python][language-python]",
               "kind": "topic",
@@ -14400,7 +14426,7 @@
           "parentId": "root-big-data-streaming"
         }
       ],
-      "stars": 3018,
+      "stars": 3020,
       "forks": 327,
       "language": "JavaScript",
       "license": null,
@@ -14410,8 +14436,8 @@
         "list",
         "stream-processing"
       ],
-      "updated": "2026-09-25T02:25:29Z",
-      "pushed": "2026-09-26T20:45:33Z",
+      "updated": "2026-10-03T04:03:58Z",
+      "pushed": "2026-10-03T20:42:50Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -15261,7 +15287,7 @@
           "parentId": "root-big-data-apache-spark"
         }
       ],
-      "stars": 1902,
+      "stars": 1901,
       "forks": 345,
       "language": "Shell",
       "license": "CC0-1.0",
@@ -15271,7 +15297,7 @@
         "pyspark",
         "sparkr"
       ],
-      "updated": "2026-09-24T11:22:49Z",
+      "updated": "2026-09-28T07:55:20Z",
       "pushed": "2026-02-27T08:06:58Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -38585,7 +38611,7 @@
           "parentId": "root-big-data-network-analysis"
         }
       ],
-      "stars": 4115,
+      "stars": 4120,
       "forks": 640,
       "language": "R",
       "license": null,
@@ -38606,7 +38632,7 @@
         "social-network-analysis",
         "social-networks"
       ],
-      "updated": "2026-09-21T12:09:06Z",
+      "updated": "2026-10-02T11:00:26Z",
       "pushed": "2026-08-20T13:22:11Z",
       "awesome": true,
       "readmeStatus": "expanded",

@@ -243,12 +243,12 @@
           "parentId": "root-databases-database"
         }
       ],
-      "stars": 1378,
+      "stars": 1379,
       "forks": 185,
       "language": null,
       "license": null,
       "topics": [],
-      "updated": "2026-09-27T02:25:25Z",
+      "updated": "2026-10-02T21:33:58Z",
       "pushed": "2024-03-04T12:40:15Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -3559,12 +3559,12 @@
           "parentId": "root-databases-mysql"
         }
       ],
-      "stars": 2614,
-      "forks": 413,
+      "stars": 2615,
+      "forks": 414,
       "language": "Python",
       "license": "NOASSERTION",
       "topics": [],
-      "updated": "2026-09-22T13:01:14Z",
+      "updated": "2026-10-03T07:05:40Z",
       "pushed": "2026-09-22T13:01:06Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -3584,8 +3584,8 @@
       "sourceRepo": "sindresorhus/awesome",
       "depth": 1,
       "children": [],
-      "stars": 3061,
-      "forks": 167,
+      "stars": 3064,
+      "forks": 166,
       "language": "Python",
       "license": null,
       "topics": [
@@ -3598,7 +3598,7 @@
         "rdbms",
         "sqlalchemy"
       ],
-      "updated": "2026-09-25T06:43:00Z",
+      "updated": "2026-10-03T20:46:45Z",
       "pushed": "2026-06-08T08:36:57Z",
       "awesome": true,
       "readmeStatus": "empty",
@@ -4125,7 +4125,7 @@
           "parentId": "root-databases-influxdb"
         }
       ],
-      "stars": 820,
+      "stars": 819,
       "forks": 62,
       "language": null,
       "license": null,
@@ -4135,7 +4135,7 @@
         "influxdb",
         "list"
       ],
-      "updated": "2026-09-05T20:45:09Z",
+      "updated": "2026-10-02T19:57:30Z",
       "pushed": "2024-05-08T14:04:39Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -11326,7 +11326,7 @@
           "parentId": "root-databases-mongodb"
         }
       ],
-      "stars": 2676,
+      "stars": 2675,
       "forks": 354,
       "language": null,
       "license": null,
@@ -11337,7 +11337,7 @@
         "mongodb",
         "mongodb-resources"
       ],
-      "updated": "2026-09-21T05:01:05Z",
+      "updated": "2026-10-03T20:53:01Z",
       "pushed": "2026-09-18T11:22:51Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -16018,8 +16018,8 @@
           "parentId": "root-databases-postgresql"
         }
       ],
-      "stars": 12103,
-      "forks": 1028,
+      "stars": 12105,
+      "forks": 1034,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -16027,7 +16027,7 @@
         "postgres",
         "postgresql"
       ],
-      "updated": "2026-09-26T07:18:23Z",
+      "updated": "2026-10-03T21:47:43Z",
       "pushed": "2026-08-31T09:07:19Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -20208,7 +20208,7 @@
               "kind": "link",
               "repo": "",
               "url": "https://www.sqlmaestro.com/products/anysql/maestro",
-              "description": "Premier multi-purpose admin tool for database management, control and development.",
+              "description": "Premier multi-purpose admin tool for database management, control and development 💰 🔒.",
               "external": true,
               "sourceRepo": "mgramin/awesome-db-tools",
               "depth": 2,
@@ -20234,7 +20234,7 @@
               "kind": "link",
               "repo": "",
               "url": "https://www.aquafold.com/aquadatastudio",
-              "description": "Productivity software for Database Developers, DBAs, and Analysts.",
+              "description": "Productivity software for Database Developers, DBAs, and Analysts 💰 🔒.",
               "external": true,
               "sourceRepo": "mgramin/awesome-db-tools",
               "depth": 2,
@@ -20260,7 +20260,7 @@
               "kind": "link",
               "repo": "",
               "url": "https://www.coginiti.co/products/coginiti-pro/",
-              "description": "Modern IDE for analyst and analytics engineers with proweful script and grid functionality.",
+              "description": "Modern IDE for analyst and analytics engineers with powerful script and grid functionality 💰 🔒.",
               "external": true,
               "sourceRepo": "mgramin/awesome-db-tools",
               "depth": 2,
@@ -20286,7 +20286,7 @@
               "kind": "link",
               "repo": "",
               "url": "http://fishcodelib.com/Database.htm",
-              "description": "Multiple database management tool with support for 20+ databases.",
+              "description": "Multiple database management tool with support for 20+ databases 🔒.",
               "external": true,
               "sourceRepo": "mgramin/awesome-db-tools",
               "depth": 2,
@@ -20312,7 +20312,7 @@
               "kind": "link",
               "repo": "",
               "url": "https://www.upscene.com/database_workbench/",
-              "description": "Complete IDE for database design, development and testing for Oracle, SQL Server, PostgreSQL, MySQL, MariaDB, Firebird, InterBase, SQLite and NexusDB.",
+              "description": "Complete IDE for database design, development and testing for Oracle, SQL Server, PostgreSQL, MySQL, MariaDB, Firebird, InterBase, SQLite and NexusDB 💰 🔒.",
               "external": true,
               "sourceRepo": "mgramin/awesome-db-tools",
               "depth": 2,
@@ -20338,7 +20338,7 @@
               "kind": "link",
               "repo": "",
               "url": "https://www.jetbrains.com/datagrip",
-              "description": "Cross-Platform IDE for Databases & SQL by JetBrains.",
+              "description": "Cross-Platform IDE for Databases & SQL by JetBrains 💰 🔒.",
               "external": true,
               "sourceRepo": "mgramin/awesome-db-tools",
               "depth": 2,
@@ -20416,7 +20416,7 @@
               "kind": "link",
               "repo": "",
               "url": "https://www.devart.com/dbforge/edge/",
-              "description": "Multidatabase solution for DB development, design, management, and administration of MySQL, MariaDB, SQL Server, Oracle, PostgreSQL databases, and various cloud services.",
+              "description": "Multidatabase solution for DB development, design, management, and administration of MySQL, MariaDB, SQL Server, Oracle, PostgreSQL databases, and various cloud services 💰 🔒.",
               "external": true,
               "sourceRepo": "mgramin/awesome-db-tools",
               "depth": 2,
@@ -20442,7 +20442,7 @@
               "kind": "link",
               "repo": "",
               "url": "https://www.devart.com/dbforge/mysql/studio",
-              "description": "Universal IDE for MySQL and MariaDB database development, management, and administration.",
+              "description": "Universal IDE for MySQL and MariaDB database development, management, and administration 💰 🔒.",
               "external": true,
               "sourceRepo": "mgramin/awesome-db-tools",
               "depth": 2,
@@ -20468,7 +20468,7 @@
               "kind": "link",
               "repo": "",
               "url": "https://www.devart.com/dbforge/oracle/studio",
-              "description": "Powerful IDE for Oracle management, administration, and development.",
+              "description": "Powerful IDE for Oracle management, administration, and development 💰 🔒.",
               "external": true,
               "sourceRepo": "mgramin/awesome-db-tools",
               "depth": 2,
@@ -20494,7 +20494,7 @@
               "kind": "link",
               "repo": "",
               "url": "https://www.devart.com/dbforge/postgresql/studio",
-              "description": "GUI tool for managing and developing databases and objects.",
+              "description": "GUI tool for managing and developing databases and objects 💰 🔒.",
               "external": true,
               "sourceRepo": "mgramin/awesome-db-tools",
               "depth": 2,
@@ -20520,7 +20520,7 @@
               "kind": "link",
               "repo": "",
               "url": "https://www.devart.com/dbforge/sql/studio",
-              "description": "Powerful integrated development environment for SQL Server development, management, administration, data analysis, and reporting.",
+              "description": "Powerful integrated development environment for SQL Server development, management, administration, data analysis, and reporting 💰 🔒.",
               "external": true,
               "sourceRepo": "mgramin/awesome-db-tools",
               "depth": 2,
@@ -20546,7 +20546,7 @@
               "kind": "link",
               "repo": "",
               "url": "https://www.datasparc.com/",
-              "description": "Datasparc offers database security, database management, database governance and data analytics - all in one solution.",
+              "description": "Datasparc offers database security, database management, database governance and data analytics - all in one solution 💰 🔒.",
               "external": true,
               "sourceRepo": "mgramin/awesome-db-tools",
               "depth": 2,
@@ -20598,7 +20598,7 @@
               "kind": "link",
               "repo": "",
               "url": "http://www.ibexpert.net/ibe",
-              "description": "Comprehensive GUI tool for Firebird and InterBase.",
+              "description": "Comprehensive GUI tool for Firebird and InterBase 💰 🔒.",
               "external": true,
               "sourceRepo": "mgramin/awesome-db-tools",
               "depth": 2,
@@ -20676,7 +20676,7 @@
               "kind": "link",
               "repo": "",
               "url": "https://keeptool.com",
-              "description": "A professional suite of tools for Oracle Database developers, administrators and advanced application users.",
+              "description": "A professional suite of tools for Oracle Database developers, administrators and advanced application users 💰 🔒.",
               "external": true,
               "sourceRepo": "mgramin/awesome-db-tools",
               "depth": 2,
@@ -20728,7 +20728,7 @@
               "kind": "link",
               "repo": "",
               "url": "https://www.navicat.com/en/products#navicat",
-              "description": "A database development tool that allows you to simultaneously connect to MySQL, MariaDB, SQL Server, Oracle, PostgreSQL, and SQLite databases from a single application.",
+              "description": "A database development tool that allows you to simultaneously connect to MySQL, MariaDB, SQL Server, Oracle, PostgreSQL, and SQLite databases from a single application 💰 🔒.",
               "external": true,
               "sourceRepo": "mgramin/awesome-db-tools",
               "depth": 2,
@@ -20754,7 +20754,7 @@
               "kind": "link",
               "repo": "",
               "url": "http://www.oracle.com/technetwork/developer-tools/sql-developer",
-              "description": "Free, integrated development environment that simplifies the development and management of Oracle Database in both traditional and Cloud deployments.",
+              "description": "Free, integrated development environment that simplifies the development and management of Oracle Database in both traditional and Cloud deployments 🔒.",
               "external": true,
               "sourceRepo": "mgramin/awesome-db-tools",
               "depth": 2,
@@ -20832,7 +20832,7 @@
               "kind": "link",
               "repo": "",
               "url": "https://www.allroundautomations.com/products/pl-sql-developer",
-              "description": "IDE that is specifically targeted at the development of stored program units for Oracle Databases.",
+              "description": "IDE that is specifically targeted at the development of stored program units for Oracle Databases 💰 🔒.",
               "external": true,
               "sourceRepo": "mgramin/awesome-db-tools",
               "depth": 2,
@@ -20858,7 +20858,7 @@
               "kind": "link",
               "repo": "",
               "url": "https://www.sqlmaestro.com/products/postgresql/maestro",
-              "description": "Complete and powerful database management, admin and development tool for PostgreSQL.",
+              "description": "Complete and powerful database management, admin and development tool for PostgreSQL 💰 🔒.",
               "external": true,
               "sourceRepo": "mgramin/awesome-db-tools",
               "depth": 2,
@@ -20936,7 +20936,7 @@
               "kind": "link",
               "repo": "",
               "url": "https://docs.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms",
-              "description": "Integrated environment for managing any SQL infrastructure, for SQL Server and Azure SQL Databases.",
+              "description": "Integrated environment for managing any SQL infrastructure, for SQL Server and Azure SQL Databases 🔒.",
               "external": true,
               "sourceRepo": "mgramin/awesome-db-tools",
               "depth": 2,
@@ -20962,7 +20962,7 @@
               "kind": "link",
               "repo": "",
               "url": "https://www.quest.com/toad/",
-              "description": "Premier database solution for developers, admins and data analysts. Manage complex database changes with a single database management tool.",
+              "description": "Premier database solution for developers, admins and data analysts. Manage complex database changes with a single database management tool 💰 🔒.",
               "external": true,
               "sourceRepo": "mgramin/awesome-db-tools",
               "depth": 2,
@@ -20988,7 +20988,7 @@
               "kind": "link",
               "repo": "",
               "url": "https://www.toadworld.com/products/toad-edge",
-              "description": "Simplified database development tool for MySQL and PostgreSQL.",
+              "description": "Simplified database development tool for MySQL and PostgreSQL 💰 🔒.",
               "external": true,
               "sourceRepo": "mgramin/awesome-db-tools",
               "depth": 2,
@@ -21040,7 +21040,7 @@
               "kind": "link",
               "repo": "",
               "url": "https://www.valentina-db.com/en/valentina-studio-overview",
-              "description": "Create, administer, query and explore Valentina DB, MySQL, MariaDB, PostgreSQL and SQLite databases for FREE.",
+              "description": "Create, administer, query and explore Valentina DB, MySQL, MariaDB, PostgreSQL and SQLite databases for FREE 💰 🔒.",
               "external": true,
               "sourceRepo": "mgramin/awesome-db-tools",
               "depth": 2,
@@ -24387,7 +24387,7 @@
               "kind": "repo",
               "repo": "saltcorn/saltcorn",
               "url": "https://github.com/saltcorn/saltcorn",
-              "description": "Open source no-code builder for web datatabase applications. Server and drag-and-drop UI builder, data stored in PostgreSQL or SQLite.",
+              "description": "Open source no-code builder for web database applications. Server and drag-and-drop UI builder, data stored in PostgreSQL or SQLite.",
               "external": false,
               "sourceRepo": "mgramin/awesome-db-tools",
               "depth": 2,
@@ -24755,15 +24755,15 @@
           "parentId": "root-databases-database-tools"
         },
         {
-          "id": "root-databases-database-tools-monitoring-statistics-perfomance",
-          "title": "Monitoring/Statistics/Perfomance",
+          "id": "root-databases-database-tools-monitoring-statistics-performance",
+          "title": "Monitoring/Statistics/Performance",
           "kind": "section",
           "sourceRepo": "mgramin/awesome-db-tools",
           "depth": 1,
-          "url": "https://github.com/mgramin/awesome-db-tools#monitoring-statistics-perfomance",
+          "url": "https://github.com/mgramin/awesome-db-tools#monitoring-statistics-performance",
           "children": [
             {
-              "id": "root-databases-database-tools-monitoring-statistics-perfomance-ash-viewer",
+              "id": "root-databases-database-tools-monitoring-statistics-performance-ash-viewer",
               "title": "ASH Viewer",
               "kind": "repo",
               "repo": "akardapolov/ash-viewer",
@@ -24783,13 +24783,13 @@
               "awesome": false,
               "path": [
                 "Database Tools",
-                "Monitoring/Statistics/Perfomance",
+                "Monitoring/Statistics/Performance",
                 "ASH Viewer"
               ],
-              "parentId": "root-databases-database-tools-monitoring-statistics-perfomance"
+              "parentId": "root-databases-database-tools-monitoring-statistics-performance"
             },
             {
-              "id": "root-databases-database-tools-monitoring-statistics-perfomance-metis",
+              "id": "root-databases-database-tools-monitoring-statistics-performance-metis",
               "title": "Metis",
               "kind": "link",
               "repo": "",
@@ -24809,13 +24809,13 @@
               "awesome": false,
               "path": [
                 "Database Tools",
-                "Monitoring/Statistics/Perfomance",
+                "Monitoring/Statistics/Performance",
                 "Metis"
               ],
-              "parentId": "root-databases-database-tools-monitoring-statistics-perfomance"
+              "parentId": "root-databases-database-tools-monitoring-statistics-performance"
             },
             {
-              "id": "root-databases-database-tools-monitoring-statistics-perfomance-monyog",
+              "id": "root-databases-database-tools-monitoring-statistics-performance-monyog",
               "title": "Monyog",
               "kind": "link",
               "repo": "",
@@ -24835,13 +24835,13 @@
               "awesome": false,
               "path": [
                 "Database Tools",
-                "Monitoring/Statistics/Perfomance",
+                "Monitoring/Statistics/Performance",
                 "Monyog"
               ],
-              "parentId": "root-databases-database-tools-monitoring-statistics-perfomance"
+              "parentId": "root-databases-database-tools-monitoring-statistics-performance"
             },
             {
-              "id": "root-databases-database-tools-monitoring-statistics-perfomance-mssql-monitoring",
+              "id": "root-databases-database-tools-monitoring-statistics-performance-mssql-monitoring",
               "title": "mssql-monitoring",
               "kind": "repo",
               "repo": "microsoft/mssql-monitoring",
@@ -24861,13 +24861,13 @@
               "awesome": false,
               "path": [
                 "Database Tools",
-                "Monitoring/Statistics/Perfomance",
+                "Monitoring/Statistics/Performance",
                 "mssql-monitoring"
               ],
-              "parentId": "root-databases-database-tools-monitoring-statistics-perfomance"
+              "parentId": "root-databases-database-tools-monitoring-statistics-performance"
             },
             {
-              "id": "root-databases-database-tools-monitoring-statistics-perfomance-navicat-monitor",
+              "id": "root-databases-database-tools-monitoring-statistics-performance-navicat-monitor",
               "title": "Navicat Monitor",
               "kind": "link",
               "repo": "",
@@ -24887,13 +24887,13 @@
               "awesome": false,
               "path": [
                 "Database Tools",
-                "Monitoring/Statistics/Perfomance",
+                "Monitoring/Statistics/Performance",
                 "Navicat Monitor"
               ],
-              "parentId": "root-databases-database-tools-monitoring-statistics-perfomance"
+              "parentId": "root-databases-database-tools-monitoring-statistics-performance"
             },
             {
-              "id": "root-databases-database-tools-monitoring-statistics-perfomance-percona-monitoring-and-management",
+              "id": "root-databases-database-tools-monitoring-statistics-performance-percona-monitoring-and-management",
               "title": "Percona Monitoring and Management",
               "kind": "repo",
               "repo": "percona/pmm",
@@ -24913,13 +24913,13 @@
               "awesome": false,
               "path": [
                 "Database Tools",
-                "Monitoring/Statistics/Perfomance",
+                "Monitoring/Statistics/Performance",
                 "Percona Monitoring and Management"
               ],
-              "parentId": "root-databases-database-tools-monitoring-statistics-perfomance"
+              "parentId": "root-databases-database-tools-monitoring-statistics-performance"
             },
             {
-              "id": "root-databases-database-tools-monitoring-statistics-perfomance-pganalyze-collector",
+              "id": "root-databases-database-tools-monitoring-statistics-performance-pganalyze-collector",
               "title": "pganalyze collector",
               "kind": "repo",
               "repo": "pganalyze/collector",
@@ -24939,13 +24939,13 @@
               "awesome": false,
               "path": [
                 "Database Tools",
-                "Monitoring/Statistics/Perfomance",
+                "Monitoring/Statistics/Performance",
                 "pganalyze collector"
               ],
-              "parentId": "root-databases-database-tools-monitoring-statistics-perfomance"
+              "parentId": "root-databases-database-tools-monitoring-statistics-performance"
             },
             {
-              "id": "root-databases-database-tools-monitoring-statistics-perfomance-pgbadger",
+              "id": "root-databases-database-tools-monitoring-statistics-performance-pgbadger",
               "title": "pgbadger",
               "kind": "repo",
               "repo": "dalibo/pgbadger",
@@ -24965,13 +24965,13 @@
               "awesome": false,
               "path": [
                 "Database Tools",
-                "Monitoring/Statistics/Perfomance",
+                "Monitoring/Statistics/Performance",
                 "pgbadger"
               ],
-              "parentId": "root-databases-database-tools-monitoring-statistics-perfomance"
+              "parentId": "root-databases-database-tools-monitoring-statistics-performance"
             },
             {
-              "id": "root-databases-database-tools-monitoring-statistics-perfomance-pgdash",
+              "id": "root-databases-database-tools-monitoring-statistics-performance-pgdash",
               "title": "pgDash",
               "kind": "link",
               "repo": "",
@@ -24991,13 +24991,13 @@
               "awesome": false,
               "path": [
                 "Database Tools",
-                "Monitoring/Statistics/Perfomance",
+                "Monitoring/Statistics/Performance",
                 "pgDash"
               ],
-              "parentId": "root-databases-database-tools-monitoring-statistics-perfomance"
+              "parentId": "root-databases-database-tools-monitoring-statistics-performance"
             },
             {
-              "id": "root-databases-database-tools-monitoring-statistics-perfomance-pghero",
+              "id": "root-databases-database-tools-monitoring-statistics-performance-pghero",
               "title": "PgHero",
               "kind": "repo",
               "repo": "ankane/pghero",
@@ -25017,13 +25017,13 @@
               "awesome": false,
               "path": [
                 "Database Tools",
-                "Monitoring/Statistics/Perfomance",
+                "Monitoring/Statistics/Performance",
                 "PgHero"
               ],
-              "parentId": "root-databases-database-tools-monitoring-statistics-perfomance"
+              "parentId": "root-databases-database-tools-monitoring-statistics-performance"
             },
             {
-              "id": "root-databases-database-tools-monitoring-statistics-perfomance-pgmetrics",
+              "id": "root-databases-database-tools-monitoring-statistics-performance-pgmetrics",
               "title": "pgmetrics",
               "kind": "repo",
               "repo": "rapidloop/pgmetrics",
@@ -25043,13 +25043,13 @@
               "awesome": false,
               "path": [
                 "Database Tools",
-                "Monitoring/Statistics/Perfomance",
+                "Monitoring/Statistics/Performance",
                 "pgmetrics"
               ],
-              "parentId": "root-databases-database-tools-monitoring-statistics-perfomance"
+              "parentId": "root-databases-database-tools-monitoring-statistics-performance"
             },
             {
-              "id": "root-databases-database-tools-monitoring-statistics-perfomance-pgmonitor",
+              "id": "root-databases-database-tools-monitoring-statistics-performance-pgmonitor",
               "title": "pgMonitor",
               "kind": "repo",
               "repo": "crunchydata/pgmonitor",
@@ -25069,13 +25069,13 @@
               "awesome": false,
               "path": [
                 "Database Tools",
-                "Monitoring/Statistics/Perfomance",
+                "Monitoring/Statistics/Performance",
                 "pgMonitor"
               ],
-              "parentId": "root-databases-database-tools-monitoring-statistics-perfomance"
+              "parentId": "root-databases-database-tools-monitoring-statistics-performance"
             },
             {
-              "id": "root-databases-database-tools-monitoring-statistics-perfomance-pgmustard",
+              "id": "root-databases-database-tools-monitoring-statistics-performance-pgmustard",
               "title": "pgMustard",
               "kind": "link",
               "repo": "",
@@ -25095,13 +25095,13 @@
               "awesome": false,
               "path": [
                 "Database Tools",
-                "Monitoring/Statistics/Perfomance",
+                "Monitoring/Statistics/Performance",
                 "pgMustard"
               ],
-              "parentId": "root-databases-database-tools-monitoring-statistics-perfomance"
+              "parentId": "root-databases-database-tools-monitoring-statistics-performance"
             },
             {
-              "id": "root-databases-database-tools-monitoring-statistics-perfomance-pgstats",
+              "id": "root-databases-database-tools-monitoring-statistics-performance-pgstats",
               "title": "pgstats",
               "kind": "repo",
               "repo": "gleu/pgstats",
@@ -25121,13 +25121,13 @@
               "awesome": false,
               "path": [
                 "Database Tools",
-                "Monitoring/Statistics/Perfomance",
+                "Monitoring/Statistics/Performance",
                 "pgstats"
               ],
-              "parentId": "root-databases-database-tools-monitoring-statistics-perfomance"
+              "parentId": "root-databases-database-tools-monitoring-statistics-performance"
             },
             {
-              "id": "root-databases-database-tools-monitoring-statistics-perfomance-pgwatch2",
+              "id": "root-databases-database-tools-monitoring-statistics-performance-pgwatch2",
               "title": "pgwatch2",
               "kind": "repo",
               "repo": "cybertec-postgresql/pgwatch2",
@@ -25147,13 +25147,13 @@
               "awesome": false,
               "path": [
                 "Database Tools",
-                "Monitoring/Statistics/Perfomance",
+                "Monitoring/Statistics/Performance",
                 "pgwatch2"
               ],
-              "parentId": "root-databases-database-tools-monitoring-statistics-perfomance"
+              "parentId": "root-databases-database-tools-monitoring-statistics-performance"
             },
             {
-              "id": "root-databases-database-tools-monitoring-statistics-perfomance-postgresql-metrics",
+              "id": "root-databases-database-tools-monitoring-statistics-performance-postgresql-metrics",
               "title": "PostgreSQL Metrics",
               "kind": "repo",
               "repo": "spotify/postgresql-metrics",
@@ -25173,13 +25173,13 @@
               "awesome": false,
               "path": [
                 "Database Tools",
-                "Monitoring/Statistics/Perfomance",
+                "Monitoring/Statistics/Performance",
                 "PostgreSQL Metrics"
               ],
-              "parentId": "root-databases-database-tools-monitoring-statistics-perfomance"
+              "parentId": "root-databases-database-tools-monitoring-statistics-performance"
             },
             {
-              "id": "root-databases-database-tools-monitoring-statistics-perfomance-postgresql-monitor",
+              "id": "root-databases-database-tools-monitoring-statistics-performance-postgresql-monitor",
               "title": "PostgreSQL Monitor",
               "kind": "link",
               "repo": "",
@@ -25199,13 +25199,13 @@
               "awesome": false,
               "path": [
                 "Database Tools",
-                "Monitoring/Statistics/Perfomance",
+                "Monitoring/Statistics/Performance",
                 "PostgreSQL Monitor"
               ],
-              "parentId": "root-databases-database-tools-monitoring-statistics-perfomance"
+              "parentId": "root-databases-database-tools-monitoring-statistics-performance"
             },
             {
-              "id": "root-databases-database-tools-monitoring-statistics-perfomance-postgres-checkup",
+              "id": "root-databases-database-tools-monitoring-statistics-performance-postgres-checkup",
               "title": "postgres-checkup",
               "kind": "link",
               "repo": "",
@@ -25225,13 +25225,13 @@
               "awesome": false,
               "path": [
                 "Database Tools",
-                "Monitoring/Statistics/Perfomance",
+                "Monitoring/Statistics/Performance",
                 "postgres-checkup"
               ],
-              "parentId": "root-databases-database-tools-monitoring-statistics-perfomance"
+              "parentId": "root-databases-database-tools-monitoring-statistics-performance"
             },
             {
-              "id": "root-databases-database-tools-monitoring-statistics-perfomance-promscale",
+              "id": "root-databases-database-tools-monitoring-statistics-performance-promscale",
               "title": "Promscale",
               "kind": "repo",
               "repo": "timescale/promscale",
@@ -25251,13 +25251,13 @@
               "awesome": false,
               "path": [
                 "Database Tools",
-                "Monitoring/Statistics/Perfomance",
+                "Monitoring/Statistics/Performance",
                 "Promscale"
               ],
-              "parentId": "root-databases-database-tools-monitoring-statistics-perfomance"
+              "parentId": "root-databases-database-tools-monitoring-statistics-performance"
             },
             {
-              "id": "root-databases-database-tools-monitoring-statistics-perfomance-releem",
+              "id": "root-databases-database-tools-monitoring-statistics-performance-releem",
               "title": "Releem",
               "kind": "link",
               "repo": "",
@@ -25277,13 +25277,13 @@
               "awesome": false,
               "path": [
                 "Database Tools",
-                "Monitoring/Statistics/Perfomance",
+                "Monitoring/Statistics/Performance",
                 "Releem"
               ],
-              "parentId": "root-databases-database-tools-monitoring-statistics-perfomance"
+              "parentId": "root-databases-database-tools-monitoring-statistics-performance"
             },
             {
-              "id": "root-databases-database-tools-monitoring-statistics-perfomance-telegraf-postgresql-plugin",
+              "id": "root-databases-database-tools-monitoring-statistics-performance-telegraf-postgresql-plugin",
               "title": "Telegraf PostgreSQL plugin",
               "kind": "repo",
               "repo": "influxdata/telegraf",
@@ -25303,13 +25303,13 @@
               "awesome": false,
               "path": [
                 "Database Tools",
-                "Monitoring/Statistics/Perfomance",
+                "Monitoring/Statistics/Performance",
                 "Telegraf PostgreSQL plugin"
               ],
-              "parentId": "root-databases-database-tools-monitoring-statistics-perfomance"
+              "parentId": "root-databases-database-tools-monitoring-statistics-performance"
             },
             {
-              "id": "root-databases-database-tools-monitoring-statistics-perfomance-prometheus",
+              "id": "root-databases-database-tools-monitoring-statistics-performance-prometheus",
               "title": "Prometheus",
               "kind": "section",
               "sourceRepo": "mgramin/awesome-db-tools",
@@ -25317,7 +25317,7 @@
               "url": "https://github.com/mgramin/awesome-db-tools#prometheus",
               "children": [
                 {
-                  "id": "root-databases-database-tools-monitoring-statistics-perfomance-prometheus-pgscv",
+                  "id": "root-databases-database-tools-monitoring-statistics-performance-prometheus-pgscv",
                   "title": "pgSCV",
                   "kind": "repo",
                   "repo": "weaponry/pgscv",
@@ -25337,14 +25337,14 @@
                   "awesome": false,
                   "path": [
                     "Database Tools",
-                    "Monitoring/Statistics/Perfomance",
+                    "Monitoring/Statistics/Performance",
                     "Prometheus",
                     "pgSCV"
                   ],
-                  "parentId": "root-databases-database-tools-monitoring-statistics-perfomance-prometheus"
+                  "parentId": "root-databases-database-tools-monitoring-statistics-performance-prometheus"
                 },
                 {
-                  "id": "root-databases-database-tools-monitoring-statistics-perfomance-prometheus-postgresexporter",
+                  "id": "root-databases-database-tools-monitoring-statistics-performance-prometheus-postgresexporter",
                   "title": "postgresexporter",
                   "kind": "repo",
                   "repo": "wrouesnel/postgres_exporter",
@@ -25364,14 +25364,14 @@
                   "awesome": false,
                   "path": [
                     "Database Tools",
-                    "Monitoring/Statistics/Perfomance",
+                    "Monitoring/Statistics/Performance",
                     "Prometheus",
                     "postgresexporter"
                   ],
-                  "parentId": "root-databases-database-tools-monitoring-statistics-perfomance-prometheus"
+                  "parentId": "root-databases-database-tools-monitoring-statistics-performance-prometheus"
                 },
                 {
-                  "id": "root-databases-database-tools-monitoring-statistics-perfomance-prometheus-pgexporter",
+                  "id": "root-databases-database-tools-monitoring-statistics-performance-prometheus-pgexporter",
                   "title": "pgexporter",
                   "kind": "repo",
                   "repo": "vonng/pg_exporter",
@@ -25391,11 +25391,11 @@
                   "awesome": false,
                   "path": [
                     "Database Tools",
-                    "Monitoring/Statistics/Perfomance",
+                    "Monitoring/Statistics/Performance",
                     "Prometheus",
                     "pgexporter"
                   ],
-                  "parentId": "root-databases-database-tools-monitoring-statistics-perfomance-prometheus"
+                  "parentId": "root-databases-database-tools-monitoring-statistics-performance-prometheus"
                 }
               ],
               "stars": 0,
@@ -25408,13 +25408,13 @@
               "awesome": false,
               "path": [
                 "Database Tools",
-                "Monitoring/Statistics/Perfomance",
+                "Monitoring/Statistics/Performance",
                 "Prometheus"
               ],
-              "parentId": "root-databases-database-tools-monitoring-statistics-perfomance"
+              "parentId": "root-databases-database-tools-monitoring-statistics-performance"
             },
             {
-              "id": "root-databases-database-tools-monitoring-statistics-perfomance-zabbix",
+              "id": "root-databases-database-tools-monitoring-statistics-performance-zabbix",
               "title": "Zabbix",
               "kind": "section",
               "sourceRepo": "mgramin/awesome-db-tools",
@@ -25422,7 +25422,7 @@
               "url": "https://github.com/mgramin/awesome-db-tools#zabbix",
               "children": [
                 {
-                  "id": "root-databases-database-tools-monitoring-statistics-perfomance-zabbix-mamonsu",
+                  "id": "root-databases-database-tools-monitoring-statistics-performance-zabbix-mamonsu",
                   "title": "Mamonsu",
                   "kind": "repo",
                   "repo": "postgrespro/mamonsu",
@@ -25442,14 +25442,14 @@
                   "awesome": false,
                   "path": [
                     "Database Tools",
-                    "Monitoring/Statistics/Perfomance",
+                    "Monitoring/Statistics/Performance",
                     "Zabbix",
                     "Mamonsu"
                   ],
-                  "parentId": "root-databases-database-tools-monitoring-statistics-perfomance-zabbix"
+                  "parentId": "root-databases-database-tools-monitoring-statistics-performance-zabbix"
                 },
                 {
-                  "id": "root-databases-database-tools-monitoring-statistics-perfomance-zabbix-orabbix",
+                  "id": "root-databases-database-tools-monitoring-statistics-performance-zabbix-orabbix",
                   "title": "Orabbix",
                   "kind": "link",
                   "repo": "",
@@ -25469,14 +25469,14 @@
                   "awesome": false,
                   "path": [
                     "Database Tools",
-                    "Monitoring/Statistics/Perfomance",
+                    "Monitoring/Statistics/Performance",
                     "Zabbix",
                     "Orabbix"
                   ],
-                  "parentId": "root-databases-database-tools-monitoring-statistics-perfomance-zabbix"
+                  "parentId": "root-databases-database-tools-monitoring-statistics-performance-zabbix"
                 },
                 {
-                  "id": "root-databases-database-tools-monitoring-statistics-perfomance-zabbix-pgmonz",
+                  "id": "root-databases-database-tools-monitoring-statistics-performance-zabbix-pgmonz",
                   "title": "pgmonz",
                   "kind": "repo",
                   "repo": "pg-monz/pg_monz",
@@ -25496,14 +25496,14 @@
                   "awesome": false,
                   "path": [
                     "Database Tools",
-                    "Monitoring/Statistics/Perfomance",
+                    "Monitoring/Statistics/Performance",
                     "Zabbix",
                     "pgmonz"
                   ],
-                  "parentId": "root-databases-database-tools-monitoring-statistics-perfomance-zabbix"
+                  "parentId": "root-databases-database-tools-monitoring-statistics-performance-zabbix"
                 },
                 {
-                  "id": "root-databases-database-tools-monitoring-statistics-perfomance-zabbix-pyora",
+                  "id": "root-databases-database-tools-monitoring-statistics-performance-zabbix-pyora",
                   "title": "Pyora",
                   "kind": "repo",
                   "repo": "bicofino/pyora",
@@ -25523,14 +25523,14 @@
                   "awesome": false,
                   "path": [
                     "Database Tools",
-                    "Monitoring/Statistics/Perfomance",
+                    "Monitoring/Statistics/Performance",
                     "Zabbix",
                     "Pyora"
                   ],
-                  "parentId": "root-databases-database-tools-monitoring-statistics-perfomance-zabbix"
+                  "parentId": "root-databases-database-tools-monitoring-statistics-performance-zabbix"
                 },
                 {
-                  "id": "root-databases-database-tools-monitoring-statistics-perfomance-zabbix-zabbixdba",
+                  "id": "root-databases-database-tools-monitoring-statistics-performance-zabbix-zabbixdba",
                   "title": "ZabbixDBA",
                   "kind": "repo",
                   "repo": "anetrusov/zabbixdba",
@@ -25550,11 +25550,11 @@
                   "awesome": false,
                   "path": [
                     "Database Tools",
-                    "Monitoring/Statistics/Perfomance",
+                    "Monitoring/Statistics/Performance",
                     "Zabbix",
                     "ZabbixDBA"
                   ],
-                  "parentId": "root-databases-database-tools-monitoring-statistics-perfomance-zabbix"
+                  "parentId": "root-databases-database-tools-monitoring-statistics-performance-zabbix"
                 }
               ],
               "stars": 0,
@@ -25567,10 +25567,10 @@
               "awesome": false,
               "path": [
                 "Database Tools",
-                "Monitoring/Statistics/Perfomance",
+                "Monitoring/Statistics/Performance",
                 "Zabbix"
               ],
-              "parentId": "root-databases-database-tools-monitoring-statistics-perfomance"
+              "parentId": "root-databases-database-tools-monitoring-statistics-performance"
             }
           ],
           "stars": 0,
@@ -25583,7 +25583,7 @@
           "awesome": false,
           "path": [
             "Database Tools",
-            "Monitoring/Statistics/Perfomance"
+            "Monitoring/Statistics/Performance"
           ],
           "parentId": "root-databases-database-tools"
         },
@@ -25936,7 +25936,7 @@
               "kind": "repo",
               "repo": "clusterlabs/paf",
               "url": "https://github.com/clusterlabs/paf",
-              "description": "High-Availibility for PostgreSQL, based on industry references Pacemaker and Corosync.",
+              "description": "High-Availability for PostgreSQL, based on industry references Pacemaker and Corosync.",
               "external": false,
               "sourceRepo": "mgramin/awesome-db-tools",
               "depth": 2,
@@ -28346,7 +28346,7 @@
                   "kind": "repo",
                   "repo": "dalibo/pev2",
                   "url": "https://github.com/dalibo/pev2",
-                  "description": "A Vue.js component to show a graphical vizualization of a PostgreSQL execution plan.",
+                  "description": "A Vue.js component to show a graphical visualization of a PostgreSQL execution plan.",
                   "external": false,
                   "sourceRepo": "mgramin/awesome-db-tools",
                   "depth": 3,
@@ -28478,7 +28478,7 @@
                   "kind": "repo",
                   "repo": "ioguix/pgsql-bloat-estimation",
                   "url": "https://github.com/ioguix/pgsql-bloat-estimation",
-                  "description": "Queries to mesure statistical bloat in indexes and tables for PostgreSQL.",
+                  "description": "Queries to measure statistical bloat in indexes and tables for PostgreSQL.",
                   "external": false,
                   "sourceRepo": "mgramin/awesome-db-tools",
                   "depth": 3,
@@ -29483,7 +29483,7 @@
                   "kind": "repo",
                   "repo": "hasura/pgdeltastream",
                   "url": "https://github.com/hasura/pgdeltastream",
-                  "description": "A Golang webserver to stream PostgreSQL changes atleast-once over websockets, using PostgreSQL logical decoding feature.",
+                  "description": "A Golang webserver to stream PostgreSQL changes at-least-once over websockets, using PostgreSQL logical decoding feature.",
                   "external": false,
                   "sourceRepo": "mgramin/awesome-db-tools",
                   "depth": 3,
@@ -29791,8 +29791,8 @@
           "parentId": "root-databases-database-tools"
         }
       ],
-      "stars": 5318,
-      "forks": 493,
+      "stars": 5319,
+      "forks": 494,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -29806,8 +29806,8 @@
         "sql-client",
         "visualization"
       ],
-      "updated": "2026-09-27T05:00:43Z",
-      "pushed": "2026-05-21T15:18:32Z",
+      "updated": "2026-10-03T22:23:49Z",
+      "pushed": "2026-10-03T22:23:45Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -31644,8 +31644,8 @@
           "parentId": "root-databases-supabase"
         }
       ],
-      "stars": 482,
-      "forks": 70,
+      "stars": 485,
+      "forks": 73,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -31653,7 +31653,7 @@
         "awesome-list",
         "supabase"
       ],
-      "updated": "2026-09-16T05:21:08Z",
+      "updated": "2026-09-30T17:07:55Z",
       "pushed": "2026-07-19T02:12:23Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -34561,8 +34561,8 @@
         "golang",
         "pocketbase"
       ],
-      "updated": "2026-09-23T02:17:02Z",
-      "pushed": "2026-07-08T22:06:56Z",
+      "updated": "2026-09-29T18:23:09Z",
+      "pushed": "2026-09-29T18:23:04Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [

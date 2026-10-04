@@ -360,6 +360,32 @@
                 "zuqini/zpack.nvim"
               ],
               "parentId": "root-editors-neovim-plugin-manager"
+            },
+            {
+              "id": "root-editors-neovim-plugin-manager-okram78-vahti-nvim",
+              "title": "okram78/vahti.nvim",
+              "kind": "repo",
+              "repo": "okram78/vahti.nvim",
+              "url": "https://github.com/okram78/vahti.nvim",
+              "description": "Checks remote Git revisions for vim.pack-managed packages and reports available updates without installing them.",
+              "external": false,
+              "sourceRepo": "rockerboo/awesome-neovim",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Neovim",
+                "Plugin Manager",
+                "okram78/vahti.nvim"
+              ],
+              "parentId": "root-editors-neovim-plugin-manager"
             }
           ],
           "stars": 0,
@@ -385,8 +411,8 @@
           "url": "https://github.com/rockerboo/awesome-neovim#lsp",
           "children": [
             {
-              "id": "root-editors-neovim-lsp-nvim-pio",
-              "title": "nvim-pio",
+              "id": "root-editors-neovim-lsp-batoaqaa-nvim-pio",
+              "title": "batoaqaa/nvim-pio",
               "kind": "repo",
               "repo": "batoaqaa/nvim-pio",
               "url": "https://github.com/batoaqaa/nvim-pio",
@@ -406,7 +432,7 @@
               "path": [
                 "Neovim",
                 "LSP",
-                "nvim-pio"
+                "batoaqaa/nvim-pio"
               ],
               "parentId": "root-editors-neovim-lsp"
             },
@@ -17130,6 +17156,32 @@
               "parentId": "root-editors-neovim-colorscheme"
             },
             {
+              "id": "root-editors-neovim-colorscheme-jonestristand-dune-nvim",
+              "title": "jonestristand/dune.nvim",
+              "kind": "repo",
+              "repo": "jonestristand/dune.nvim",
+              "url": "https://github.com/jonestristand/dune.nvim",
+              "description": "[TS][LSP][Lua] Four (plus one) variants inspired by Frank Herbert's Dune.",
+              "external": false,
+              "sourceRepo": "rockerboo/awesome-neovim",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Neovim",
+                "Colorscheme",
+                "jonestristand/dune.nvim"
+              ],
+              "parentId": "root-editors-neovim-colorscheme"
+            },
+            {
               "id": "root-editors-neovim-colorscheme-colorscheme-creation",
               "title": "Colorscheme Creation",
               "kind": "section",
@@ -22803,6 +22855,32 @@
               "parentId": "root-editors-neovim-utility"
             },
             {
+              "id": "root-editors-neovim-utility-chrisgve-docshelf-nvim",
+              "title": "ChrisGVE/docshelf.nvim",
+              "kind": "repo",
+              "repo": "chrisgve/docshelf.nvim",
+              "url": "https://github.com/chrisgve/docshelf.nvim",
+              "description": "Offline API documentation from devdocs.io, Hackage, docs.rs, pkg.go.dev, Sphinx / DocC sites and Dash docsets, converted to text for reading and grepping in a buffer, with per-language filtering and automatic updates.",
+              "external": false,
+              "sourceRepo": "rockerboo/awesome-neovim",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Neovim",
+                "Utility",
+                "ChrisGVE/docshelf.nvim"
+              ],
+              "parentId": "root-editors-neovim-utility"
+            },
+            {
               "id": "root-editors-neovim-utility-csv-files",
               "title": "CSV Files",
               "kind": "section",
@@ -24586,6 +24664,32 @@
                 "Neovim",
                 "Debugging",
                 "NickTsaizer/splitasm.nvim"
+              ],
+              "parentId": "root-editors-neovim-debugging"
+            },
+            {
+              "id": "root-editors-neovim-debugging-jarndev-autodap-nvim",
+              "title": "JarnDev/autodap.nvim",
+              "kind": "repo",
+              "repo": "jarndev/autodap.nvim",
+              "url": "https://github.com/jarndev/autodap.nvim",
+              "description": "Thin layer over nvim-dap that reads the current project and wires up the debugger for you; no launch.json, no per-language boilerplate.",
+              "external": false,
+              "sourceRepo": "rockerboo/awesome-neovim",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Neovim",
+                "Debugging",
+                "JarnDev/autodap.nvim"
               ],
               "parentId": "root-editors-neovim-debugging"
             },
@@ -30729,6 +30833,33 @@
                     "wsdjeg/scrollbar.nvim"
                   ],
                   "parentId": "root-editors-neovim-scrolling-scrollbar"
+                },
+                {
+                  "id": "root-editors-neovim-scrolling-scrollbar-mihovilrak-scroll-nvim",
+                  "title": "mihovilrak/scroll.nvim",
+                  "kind": "repo",
+                  "repo": "mihovilrak/scroll.nvim",
+                  "url": "https://github.com/mihovilrak/scroll.nvim",
+                  "description": "Draggable scrollbars with support for diagnostics, Git changes and search matches and minimap.",
+                  "external": false,
+                  "sourceRepo": "rockerboo/awesome-neovim",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Neovim",
+                    "Scrolling",
+                    "Scrollbar",
+                    "mihovilrak/scroll.nvim"
+                  ],
+                  "parentId": "root-editors-neovim-scrolling-scrollbar"
                 }
               ],
               "stars": 0,
@@ -33870,12 +34001,12 @@
                   "parentId": "root-editors-neovim-editing-support-folding"
                 },
                 {
-                  "id": "root-editors-neovim-editing-support-folding-fold-logging-nvim",
-                  "title": "fold-logging.nvim",
+                  "id": "root-editors-neovim-editing-support-folding-markosnarinian-distill-nvim",
+                  "title": "markosnarinian/distill.nvim",
                   "kind": "repo",
-                  "repo": "markosnarinian/fold-logging.nvim",
-                  "url": "https://github.com/markosnarinian/fold-logging.nvim",
-                  "description": "Fold logging/debug prints without changing normal folds.",
+                  "repo": "markosnarinian/distill.nvim",
+                  "url": "https://github.com/markosnarinian/distill.nvim",
+                  "description": "Fold logging and debug calls while preserving your function, class, and block folds.",
                   "external": false,
                   "sourceRepo": "rockerboo/awesome-neovim",
                   "depth": 3,
@@ -33892,7 +34023,7 @@
                     "Neovim",
                     "Editing Support",
                     "Folding",
-                    "fold-logging.nvim"
+                    "markosnarinian/distill.nvim"
                   ],
                   "parentId": "root-editors-neovim-editing-support-folding"
                 }
@@ -34875,6 +35006,32 @@
           "depth": 1,
           "url": "https://github.com/rockerboo/awesome-neovim#session",
           "children": [
+            {
+              "id": "root-editors-neovim-session-wurli-servery-nvim",
+              "title": "wurli/servery.nvim",
+              "kind": "repo",
+              "repo": "wurli/servery.nvim",
+              "url": "https://github.com/wurli/servery.nvim",
+              "description": "Jump between sessions using your favourite fuzzy finder.",
+              "external": false,
+              "sourceRepo": "rockerboo/awesome-neovim",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Neovim",
+                "Session",
+                "wurli/servery.nvim"
+              ],
+              "parentId": "root-editors-neovim-session"
+            },
             {
               "id": "root-editors-neovim-session-rmagatti-auto-session",
               "title": "rmagatti/auto-session",
@@ -37915,32 +38072,6 @@
               "parentId": "root-editors-neovim-pre-made-configuration"
             },
             {
-              "id": "root-editors-neovim-pre-made-configuration-spacevim-spacevim",
-              "title": "SpaceVim/SpaceVim",
-              "kind": "link",
-              "repo": "",
-              "url": "https://spacevim.org",
-              "description": "A community-driven modular distribution, inspired by spacemacs.",
-              "external": true,
-              "sourceRepo": "rockerboo/awesome-neovim",
-              "depth": 2,
-              "children": [],
-              "stars": 0,
-              "forks": 0,
-              "language": null,
-              "license": null,
-              "topics": [],
-              "updated": null,
-              "pushed": null,
-              "awesome": false,
-              "path": [
-                "Neovim",
-                "Pre-made Configuration",
-                "SpaceVim/SpaceVim"
-              ],
-              "parentId": "root-editors-neovim-pre-made-configuration"
-            },
-            {
               "id": "root-editors-neovim-pre-made-configuration-cosmicnvim-cosmicnvim",
               "title": "CosmicNvim/CosmicNvim",
               "kind": "repo",
@@ -38719,6 +38850,32 @@
                 "plutowang/nvim.pack"
               ],
               "parentId": "root-editors-neovim-pre-made-configuration"
+            },
+            {
+              "id": "root-editors-neovim-pre-made-configuration-jimmypla6z-firevim",
+              "title": "JimmyPla6z/FireVim",
+              "kind": "link",
+              "repo": "",
+              "url": "https://gitlab.com/JimmyPla6z/Firevim",
+              "description": "A lightweight, opinionated Neovim distribution with a single init.lua, built on Neovim 0.12+.",
+              "external": true,
+              "sourceRepo": "rockerboo/awesome-neovim",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Neovim",
+                "Pre-made Configuration",
+                "JimmyPla6z/FireVim"
+              ],
+              "parentId": "root-editors-neovim-pre-made-configuration"
             }
           ],
           "stars": 0,
@@ -39188,7 +39345,7 @@
                   "sourceRepo": "rockerboo/awesome-neovim",
                   "depth": 3,
                   "children": [],
-                  "stars": 64,
+                  "stars": 65,
                   "forks": 11,
                   "language": "Nix",
                   "license": "BSD-3-Clause",
@@ -39196,8 +39353,8 @@
                     "neovim-plugins",
                     "nix-flake"
                   ],
-                  "updated": "2026-09-26T19:57:57Z",
-                  "pushed": "2026-09-26T19:57:53Z",
+                  "updated": "2026-10-03T20:08:30Z",
+                  "pushed": "2026-10-03T20:08:27Z",
                   "awesome": true,
                   "path": [
                     "Neovim",
@@ -39737,8 +39894,8 @@
               "parentId": "root-editors-neovim-ui"
             },
             {
-              "id": "root-editors-neovim-ui-quickui-nvim",
-              "title": "quickui.nvim",
+              "id": "root-editors-neovim-ui-mjmjm0101-quickui-nvim",
+              "title": "mjmjm0101/quickui.nvim",
               "kind": "repo",
               "repo": "mjmjm0101/quickui.nvim",
               "url": "https://github.com/mjmjm0101/quickui.nvim",
@@ -39758,13 +39915,13 @@
               "path": [
                 "Neovim",
                 "UI",
-                "quickui.nvim"
+                "mjmjm0101/quickui.nvim"
               ],
               "parentId": "root-editors-neovim-ui"
             },
             {
-              "id": "root-editors-neovim-ui-ln-nvim",
-              "title": "ln.nvim",
+              "id": "root-editors-neovim-ui-markosnarinian-ln-nvim",
+              "title": "markosnarinian/ln.nvim",
               "kind": "repo",
               "repo": "markosnarinian/ln.nvim",
               "url": "https://github.com/markosnarinian/ln.nvim",
@@ -39784,7 +39941,7 @@
               "path": [
                 "Neovim",
                 "UI",
-                "ln.nvim"
+                "markosnarinian/ln.nvim"
               ],
               "parentId": "root-editors-neovim-ui"
             },
@@ -39901,7 +40058,7 @@
               "depth": 2,
               "children": [],
               "stars": 2130,
-              "forks": 146,
+              "forks": 145,
               "language": null,
               "license": "MIT",
               "topics": [
@@ -40116,8 +40273,8 @@
           "parentId": "root-editors-neovim"
         }
       ],
-      "stars": 21419,
-      "forks": 1062,
+      "stars": 21441,
+      "forks": 1066,
       "language": "Shell",
       "license": "CC0-1.0",
       "topics": [
@@ -40127,8 +40284,8 @@
         "neovim-plugins",
         "nvim-lua"
       ],
-      "updated": "2026-09-27T07:04:49Z",
-      "pushed": "2026-09-27T05:39:22Z",
+      "updated": "2026-10-04T07:30:54Z",
+      "pushed": "2026-10-03T18:56:52Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -40147,7 +40304,7 @@
       "sourceRepo": "sindresorhus/awesome",
       "depth": 1,
       "children": [],
-      "stars": 9380,
+      "stars": 9387,
       "forks": 599,
       "language": null,
       "license": "Unlicense",
@@ -40155,7 +40312,7 @@
         "awesome-list",
         "emacs"
       ],
-      "updated": "2026-09-27T04:24:57Z",
+      "updated": "2026-10-04T07:02:05Z",
       "pushed": "2026-09-02T15:57:43Z",
       "awesome": true,
       "readmeStatus": "empty",
@@ -46626,8 +46783,8 @@
           "parentId": "root-editors-visual-studio-code"
         }
       ],
-      "stars": 29082,
-      "forks": 1424,
+      "stars": 29097,
+      "forks": 1433,
       "language": "JavaScript",
       "license": "CC0-1.0",
       "topics": [
@@ -46643,7 +46800,7 @@
         "vscode-extension",
         "vscode-theme"
       ],
-      "updated": "2026-09-27T03:14:22Z",
+      "updated": "2026-10-03T23:56:38Z",
       "pushed": "2026-06-21T09:36:55Z",
       "awesome": true,
       "readmeStatus": "expanded",

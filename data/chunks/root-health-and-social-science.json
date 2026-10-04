@@ -3423,7 +3423,7 @@
           "parentId": "root-health-and-social-science-computational-neuroscience"
         }
       ],
-      "stars": 1000,
+      "stars": 1005,
       "forks": 87,
       "language": null,
       "license": "CC0-1.0",
@@ -3439,7 +3439,7 @@
         "mathematical-neuroscience",
         "neuroscience"
       ],
-      "updated": "2026-09-26T09:20:17Z",
+      "updated": "2026-10-03T04:19:18Z",
       "pushed": "2024-08-02T18:19:50Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -8951,7 +8951,7 @@
           "parentId": "root-health-and-social-science-diversity"
         }
       ],
-      "stars": 660,
+      "stars": 661,
       "forks": 75,
       "language": null,
       "license": "CC0-1.0",
@@ -8961,7 +8961,7 @@
         "diversity",
         "technology"
       ],
-      "updated": "2026-09-19T23:46:34Z",
+      "updated": "2026-10-03T04:26:13Z",
       "pushed": "2024-04-14T09:47:36Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -12067,6 +12067,33 @@
                   "parentId": "root-health-and-social-science-digital-history-archives-and-primary-sources-switzerland"
                 },
                 {
+                  "id": "root-health-and-social-science-digital-history-archives-and-primary-sources-switzerland-books-as-data",
+                  "title": "Books as Data",
+                  "kind": "link",
+                  "repo": "",
+                  "url": "https://books-as-data.ch/",
+                  "description": "Full-text and metadata corpus of 1700–1900 prints from four Swiss libraries, with bulk export and IIIF images.",
+                  "external": true,
+                  "sourceRepo": "maehr/awesome-digital-history",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Digital History",
+                    "Archives and primary sources",
+                    "Switzerland",
+                    "Books as Data"
+                  ],
+                  "parentId": "root-health-and-social-science-digital-history-archives-and-primary-sources-switzerland"
+                },
+                {
                   "id": "root-health-and-social-science-digital-history-archives-and-primary-sources-switzerland-chgov",
                   "title": "chgov",
                   "kind": "link",
@@ -12796,6 +12823,33 @@
                   "parentId": "root-health-and-social-science-digital-history-archives-and-primary-sources-switzerland"
                 },
                 {
+                  "id": "root-health-and-social-science-digital-history-archives-and-primary-sources-switzerland-swissvotes",
+                  "title": "Swissvotes",
+                  "kind": "link",
+                  "repo": "",
+                  "url": "https://swissvotes.ch/",
+                  "description": "Database of Swiss federal popular votes since 1848, including results, contextual information, analyses, original documents, and downloadable data.",
+                  "external": true,
+                  "sourceRepo": "maehr/awesome-digital-history",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Digital History",
+                    "Archives and primary sources",
+                    "Switzerland",
+                    "Swissvotes"
+                  ],
+                  "parentId": "root-health-and-social-science-digital-history-archives-and-primary-sources-switzerland"
+                },
+                {
                   "id": "root-health-and-social-science-digital-history-archives-and-primary-sources-switzerland-timestat-cubes",
                   "title": "timeSTAT Cubes",
                   "kind": "link",
@@ -13390,7 +13444,7 @@
               "sourceRepo": "maehr/awesome-digital-history",
               "depth": 2,
               "children": [],
-              "stars": 2962,
+              "stars": 2964,
               "forks": 158,
               "language": null,
               "license": null,
@@ -13404,7 +13458,7 @@
                 "list",
                 "video"
               ],
-              "updated": "2026-09-25T19:18:47Z",
+              "updated": "2026-10-03T22:29:55Z",
               "pushed": "2023-02-01T09:01:45Z",
               "awesome": true,
               "path": [
@@ -13477,7 +13531,7 @@
               "sourceRepo": "maehr/awesome-digital-history",
               "depth": 2,
               "children": [],
-              "stars": 2775,
+              "stars": 2781,
               "forks": 273,
               "language": null,
               "license": null,
@@ -13491,7 +13545,7 @@
                 "research-tools",
                 "tools"
               ],
-              "updated": "2026-09-27T03:20:33Z",
+              "updated": "2026-10-03T04:04:50Z",
               "pushed": "2026-05-19T11:43:56Z",
               "awesome": true,
               "path": [
@@ -13525,7 +13579,7 @@
                 "pandoc",
                 "restructuredtext"
               ],
-              "updated": "2026-09-24T12:30:43Z",
+              "updated": "2026-10-04T03:04:21Z",
               "pushed": "2026-09-15T21:02:37Z",
               "awesome": true,
               "path": [
@@ -13599,7 +13653,7 @@
           "parentId": "root-health-and-social-science-digital-history"
         }
       ],
-      "stars": 353,
+      "stars": 356,
       "forks": 39,
       "language": "JavaScript",
       "license": "AGPL-3.0",
@@ -13619,8 +13673,8 @@
         "maps",
         "newspapers"
       ],
-      "updated": "2026-09-25T20:58:47Z",
-      "pushed": "2026-09-25T23:22:43Z",
+      "updated": "2026-10-02T02:31:44Z",
+      "pushed": "2026-09-30T15:06:23Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -14192,7 +14246,7 @@
           "parentId": "root-health-and-social-science-healthcare"
         }
       ],
-      "stars": 3993,
+      "stars": 3999,
       "forks": 564,
       "language": null,
       "license": "CC0-1.0",
@@ -14202,7 +14256,7 @@
         "health",
         "list"
       ],
-      "updated": "2026-09-27T05:05:44Z",
+      "updated": "2026-10-02T22:42:30Z",
       "pushed": "2026-05-05T10:41:03Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -14421,8 +14475,8 @@
           "parentId": "root-health-and-social-science-mental-health"
         }
       ],
-      "stars": 3648,
-      "forks": 209,
+      "stars": 3660,
+      "forks": 210,
       "language": "HTML",
       "license": "CC0-1.0",
       "topics": [
@@ -14432,7 +14486,7 @@
         "mental-health-awareness",
         "self-care"
       ],
-      "updated": "2026-09-26T09:25:00Z",
+      "updated": "2026-10-03T16:36:37Z",
       "pushed": "2025-05-02T20:01:45Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -16146,8 +16200,8 @@
                   "sourceRepo": "analyticalmonk/awesome-neuroscience",
                   "depth": 3,
                   "children": [],
-                  "stars": 79170,
-                  "forks": 11854,
+                  "stars": 79305,
+                  "forks": 11862,
                   "language": null,
                   "license": "MIT",
                   "topics": [
@@ -16156,8 +16210,8 @@
                     "datasets",
                     "opendata"
                   ],
-                  "updated": "2026-09-27T07:12:08Z",
-                  "pushed": "2026-09-23T17:54:03Z",
+                  "updated": "2026-10-04T07:53:00Z",
+                  "pushed": "2026-10-02T19:47:28Z",
                   "awesome": true,
                   "path": [
                     "Neuroscience",
@@ -16491,8 +16545,8 @@
           "parentId": "root-health-and-social-science-neuroscience"
         }
       ],
-      "stars": 1722,
-      "forks": 182,
+      "stars": 1728,
+      "forks": 185,
       "language": null,
       "license": null,
       "topics": [
@@ -16510,7 +16564,7 @@
         "nirs",
         "python"
       ],
-      "updated": "2026-09-26T09:25:21Z",
+      "updated": "2026-10-03T04:11:12Z",
       "pushed": "2026-06-24T09:55:59Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -18443,7 +18497,7 @@
               "sourceRepo": "dh-tech/awesome-digital-humanities",
               "depth": 2,
               "children": [],
-              "stars": 353,
+              "stars": 356,
               "forks": 39,
               "language": "JavaScript",
               "license": "AGPL-3.0",
@@ -18463,8 +18517,8 @@
                 "maps",
                 "newspapers"
               ],
-              "updated": "2026-09-25T20:58:47Z",
-              "pushed": "2026-09-25T23:22:43Z",
+              "updated": "2026-10-02T02:31:44Z",
+              "pushed": "2026-09-30T15:06:23Z",
               "awesome": true,
               "path": [
                 "Digital Humanities",
@@ -18485,7 +18539,7 @@
               "depth": 2,
               "children": [],
               "stars": 562,
-              "forks": 132,
+              "forks": 131,
               "language": null,
               "license": null,
               "topics": [
@@ -18518,11 +18572,11 @@
               "depth": 2,
               "children": [],
               "stars": 3125,
-              "forks": 385,
+              "forks": 384,
               "language": null,
               "license": "CC0-1.0",
               "topics": [],
-              "updated": "2026-09-22T18:51:49Z",
+              "updated": "2026-10-01T08:52:39Z",
               "pushed": "2024-07-06T21:02:05Z",
               "awesome": true,
               "path": [
@@ -18556,7 +18610,7 @@
                 "pandoc",
                 "restructuredtext"
               ],
-              "updated": "2026-09-24T12:30:43Z",
+              "updated": "2026-10-04T03:04:21Z",
               "pushed": "2026-09-15T21:02:37Z",
               "awesome": true,
               "path": [
@@ -18577,8 +18631,8 @@
               "sourceRepo": "dh-tech/awesome-digital-humanities",
               "depth": 2,
               "children": [],
-              "stars": 2651,
-              "forks": 205,
+              "stars": 2653,
+              "forks": 206,
               "language": null,
               "license": "CC0-1.0",
               "topics": [
@@ -18586,7 +18640,7 @@
                 "awesome-list",
                 "webarchiving"
               ],
-              "updated": "2026-09-26T12:49:21Z",
+              "updated": "2026-10-02T03:35:03Z",
               "pushed": "2026-09-18T06:31:55Z",
               "awesome": true,
               "path": [
@@ -20099,8 +20153,8 @@
           "parentId": "root-health-and-social-science-digital-humanities"
         }
       ],
-      "stars": 414,
-      "forks": 54,
+      "stars": 415,
+      "forks": 56,
       "language": "SCSS",
       "license": "CC0-1.0",
       "topics": [
@@ -20110,7 +20164,7 @@
         "dh-tools",
         "digital-humanities"
       ],
-      "updated": "2026-09-27T06:31:18Z",
+      "updated": "2026-09-27T21:57:49Z",
       "pushed": "2026-09-09T12:46:41Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -20441,6 +20495,32 @@
                 "Lucid Dreams",
                 "Forums",
                 "DreamViews"
+              ],
+              "parentId": "root-health-and-social-science-lucid-dreams-forums"
+            },
+            {
+              "id": "root-health-and-social-science-lucid-dreams-forums-ld4all",
+              "title": "LD4all",
+              "kind": "link",
+              "repo": "",
+              "url": "https://community.ld4all.com",
+              "description": "One of the oldest lucid dreaming communities, with a forum, a free beginner's guide, and technique tutorials.",
+              "external": true,
+              "sourceRepo": "iamcoder/awesome-lucid-dreams",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Lucid Dreams",
+                "Forums",
+                "LD4all"
               ],
               "parentId": "root-health-and-social-science-lucid-dreams-forums"
             },
@@ -22402,7 +22482,7 @@
           "parentId": "root-health-and-social-science-lucid-dreams"
         }
       ],
-      "stars": 165,
+      "stars": 168,
       "forks": 8,
       "language": null,
       "license": "CC0-1.0",
@@ -22412,8 +22492,8 @@
         "lucid-dreaming",
         "rem-sleep"
       ],
-      "updated": "2026-09-27T03:18:28Z",
-      "pushed": "2025-12-18T06:02:06Z",
+      "updated": "2026-10-02T18:43:06Z",
+      "pushed": "2026-09-27T19:35:50Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -27928,7 +28008,7 @@
           "parentId": "root-health-and-social-science-transgender"
         }
       ],
-      "stars": 99,
+      "stars": 100,
       "forks": 8,
       "language": null,
       "license": "CC0-1.0",
@@ -27942,7 +28022,7 @@
         "queer",
         "transgender"
       ],
-      "updated": "2026-09-23T17:38:11Z",
+      "updated": "2026-09-29T04:12:14Z",
       "pushed": "2026-09-02T15:40:54Z",
       "awesome": true,
       "readmeStatus": "expanded",
