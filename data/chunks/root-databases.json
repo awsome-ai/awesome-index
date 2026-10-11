@@ -244,7 +244,7 @@
         }
       ],
       "stars": 1379,
-      "forks": 185,
+      "forks": 184,
       "language": null,
       "license": null,
       "topics": [],
@@ -3518,6 +3518,32 @@
           "url": "https://github.com/shlomi-noach/awesome-mysql#incubating",
           "children": [
             {
+              "id": "root-databases-mysql-incubating-masume",
+              "title": "masume",
+              "kind": "repo",
+              "repo": "masumedb/masume",
+              "url": "https://github.com/masumedb/masume",
+              "description": "Keyboard-first terminal database client with AI chat and an MCP server.",
+              "external": false,
+              "sourceRepo": "shlomi-noach/awesome-mysql",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "MySQL",
+                "Incubating",
+                "masume"
+              ],
+              "parentId": "root-databases-mysql-incubating"
+            },
+            {
               "id": "root-databases-mysql-incubating-villagesql",
               "title": "VillageSQL",
               "kind": "repo",
@@ -3559,13 +3585,13 @@
           "parentId": "root-databases-mysql"
         }
       ],
-      "stars": 2615,
-      "forks": 414,
+      "stars": 2613,
+      "forks": 417,
       "language": "Python",
       "license": "NOASSERTION",
       "topics": [],
-      "updated": "2026-10-03T07:05:40Z",
-      "pushed": "2026-09-22T13:01:06Z",
+      "updated": "2026-10-08T06:38:32Z",
+      "pushed": "2026-10-08T06:38:25Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -3584,8 +3610,8 @@
       "sourceRepo": "sindresorhus/awesome",
       "depth": 1,
       "children": [],
-      "stars": 3064,
-      "forks": 166,
+      "stars": 3066,
+      "forks": 167,
       "language": "Python",
       "license": null,
       "topics": [
@@ -3598,7 +3624,7 @@
         "rdbms",
         "sqlalchemy"
       ],
-      "updated": "2026-10-03T20:46:45Z",
+      "updated": "2026-10-08T18:58:17Z",
       "pushed": "2026-06-08T08:36:57Z",
       "awesome": true,
       "readmeStatus": "empty",
@@ -5413,33 +5439,6 @@
                     "Resources",
                     "Documentation",
                     "MongoDB Tutorials"
-                  ],
-                  "parentId": "root-databases-mongodb-resources-documentation"
-                },
-                {
-                  "id": "root-databases-mongodb-resources-documentation-mongodb-guides",
-                  "title": "MongoDB Guides",
-                  "kind": "link",
-                  "repo": "",
-                  "url": "https://www.mongodb.com/docs/guides/",
-                  "description": "",
-                  "external": true,
-                  "sourceRepo": "ramnes/awesome-mongodb",
-                  "depth": 3,
-                  "children": [],
-                  "stars": 0,
-                  "forks": 0,
-                  "language": null,
-                  "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
-                  "awesome": false,
-                  "path": [
-                    "MongoDB",
-                    "Resources",
-                    "Documentation",
-                    "MongoDB Guides"
                   ],
                   "parentId": "root-databases-mongodb-resources-documentation"
                 },
@@ -11326,8 +11325,8 @@
           "parentId": "root-databases-mongodb"
         }
       ],
-      "stars": 2675,
-      "forks": 354,
+      "stars": 2676,
+      "forks": 359,
       "language": null,
       "license": null,
       "topics": [
@@ -11337,8 +11336,8 @@
         "mongodb",
         "mongodb-resources"
       ],
-      "updated": "2026-10-03T20:53:01Z",
-      "pushed": "2026-09-18T11:22:51Z",
+      "updated": "2026-10-08T07:36:07Z",
+      "pushed": "2026-10-07T21:17:53Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -16018,8 +16017,8 @@
           "parentId": "root-databases-postgresql"
         }
       ],
-      "stars": 12105,
-      "forks": 1034,
+      "stars": 12108,
+      "forks": 1042,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -16027,7 +16026,7 @@
         "postgres",
         "postgresql"
       ],
-      "updated": "2026-10-03T21:47:43Z",
+      "updated": "2026-10-11T06:20:30Z",
       "pushed": "2026-08-31T09:07:19Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -29791,8 +29790,8 @@
           "parentId": "root-databases-database-tools"
         }
       ],
-      "stars": 5319,
-      "forks": 494,
+      "stars": 5326,
+      "forks": 498,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -29806,7 +29805,7 @@
         "sql-client",
         "visualization"
       ],
-      "updated": "2026-10-03T22:23:49Z",
+      "updated": "2026-10-10T18:37:46Z",
       "pushed": "2026-10-03T22:23:45Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -34551,7 +34550,7 @@
           "parentId": "root-databases-pocketbase"
         }
       ],
-      "stars": 1206,
+      "stars": 1208,
       "forks": 67,
       "language": null,
       "license": "CC0-1.0",
@@ -34561,7 +34560,7 @@
         "golang",
         "pocketbase"
       ],
-      "updated": "2026-09-29T18:23:09Z",
+      "updated": "2026-10-10T15:12:14Z",
       "pushed": "2026-09-29T18:23:04Z",
       "awesome": true,
       "readmeStatus": "expanded",

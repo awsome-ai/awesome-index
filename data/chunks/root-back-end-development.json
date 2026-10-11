@@ -5738,8 +5738,8 @@
           "parentId": "root-back-end-development-flask"
         }
       ],
-      "stars": 1792,
-      "forks": 171,
+      "stars": 1796,
+      "forks": 172,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -5748,7 +5748,7 @@
         "flask",
         "flask-resources"
       ],
-      "updated": "2026-10-03T16:02:36Z",
+      "updated": "2026-10-08T09:38:55Z",
       "pushed": "2026-05-13T13:35:25Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -15995,8 +15995,8 @@
               "sourceRepo": "veggiemonk/awesome-docker",
               "depth": 2,
               "children": [],
-              "stars": 46460,
-              "forks": 8332,
+              "stars": 46499,
+              "forks": 8327,
               "language": "HTML",
               "license": "CC0-1.0",
               "topics": [
@@ -16004,8 +16004,8 @@
                 "awesome-list",
                 "docker-compose"
               ],
-              "updated": "2026-10-04T06:12:27Z",
-              "pushed": "2026-10-01T18:54:49Z",
+              "updated": "2026-10-11T06:37:55Z",
+              "pushed": "2026-10-11T00:55:21Z",
               "awesome": true,
               "path": [
                 "Docker",
@@ -16025,8 +16025,8 @@
               "sourceRepo": "veggiemonk/awesome-docker",
               "depth": 2,
               "children": [],
-              "stars": 16110,
-              "forks": 2505,
+              "stars": 16118,
+              "forks": 2510,
               "language": "Shell",
               "license": "NOASSERTION",
               "topics": [
@@ -16049,7 +16049,7 @@
                 "resource",
                 "schedule"
               ],
-              "updated": "2026-10-04T06:46:42Z",
+              "updated": "2026-10-11T08:00:42Z",
               "pushed": "2026-09-21T12:04:05Z",
               "awesome": true,
               "path": [
@@ -17690,8 +17690,8 @@
           "parentId": "root-back-end-development-docker"
         }
       ],
-      "stars": 36959,
-      "forks": 3379,
+      "stars": 37009,
+      "forks": 3384,
       "language": null,
       "license": "Apache-2.0",
       "topics": [
@@ -17714,7 +17714,7 @@
         "moby",
         "tools"
       ],
-      "updated": "2026-10-03T23:55:57Z",
+      "updated": "2026-10-11T01:33:19Z",
       "pushed": "2026-10-02T05:20:29Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -18736,7 +18736,7 @@
         }
       ],
       "stars": 572,
-      "forks": 55,
+      "forks": 54,
       "language": null,
       "license": null,
       "topics": [],
@@ -19683,6 +19683,33 @@
                   "parentId": "root-back-end-development-cakephp-plugins-authentication-and-authorization"
                 },
                 {
+                  "id": "root-back-end-development-cakephp-plugins-authentication-and-authorization-cakepasskeys-plugin",
+                  "title": "CakePasskeys plugin",
+                  "kind": "repo",
+                  "repo": "dereuromark/cakephp-passkeys",
+                  "url": "https://github.com/dereuromark/cakephp-passkeys",
+                  "description": "Passkey (WebAuthn) registration and sign-in, with a JavaScript client and cells for managing passkeys.",
+                  "external": false,
+                  "sourceRepo": "friendsofcake/awesome-cakephp",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "CakePHP",
+                    "Plugins",
+                    "Authentication and Authorization",
+                    "CakePasskeys plugin"
+                  ],
+                  "parentId": "root-back-end-development-cakephp-plugins-authentication-and-authorization"
+                },
+                {
                   "id": "root-back-end-development-cakephp-plugins-authentication-and-authorization-cakeverification-plugin",
                   "title": "CakeVerification plugin",
                   "kind": "repo",
@@ -20261,6 +20288,33 @@
                     "Plugins",
                     "Debugging",
                     "Execution order"
+                  ],
+                  "parentId": "root-back-end-development-cakephp-plugins-debugging"
+                },
+                {
+                  "id": "root-back-end-development-cakephp-plugins-debugging-orcaservices-heartbeat-plugin",
+                  "title": "OrcaServices/Heartbeat plugin",
+                  "kind": "repo",
+                  "repo": "orca-services/cakephp-heartbeat",
+                  "url": "https://github.com/orca-services/cakephp-heartbeat",
+                  "description": "A plugin providing an application heartbeat status page with configurable sensors.",
+                  "external": false,
+                  "sourceRepo": "friendsofcake/awesome-cakephp",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "CakePHP",
+                    "Plugins",
+                    "Debugging",
+                    "OrcaServices/Heartbeat plugin"
                   ],
                   "parentId": "root-back-end-development-cakephp-plugins-debugging"
                 },
@@ -21709,6 +21763,57 @@
               "parentId": "root-back-end-development-cakephp-plugins"
             },
             {
+              "id": "root-back-end-development-cakephp-plugins-monitoring",
+              "title": "Monitoring",
+              "kind": "section",
+              "sourceRepo": "friendsofcake/awesome-cakephp",
+              "depth": 2,
+              "url": "https://github.com/friendsofcake/awesome-cakephp#monitoring",
+              "children": [
+                {
+                  "id": "root-back-end-development-cakephp-plugins-monitoring-crustum-rhythm-plugin",
+                  "title": "Crustum/Rhythm plugin",
+                  "kind": "repo",
+                  "repo": "crustum/rhythm",
+                  "url": "https://github.com/crustum/rhythm",
+                  "description": "Real-time application performance monitoring for CakePHP 5.x with metrics for HTTP requests, DB queries, queue, exceptions, and cache plus a live dashboard.",
+                  "external": false,
+                  "sourceRepo": "friendsofcake/awesome-cakephp",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "CakePHP",
+                    "Plugins",
+                    "Monitoring",
+                    "Crustum/Rhythm plugin"
+                  ],
+                  "parentId": "root-back-end-development-cakephp-plugins-monitoring"
+                }
+              ],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "CakePHP",
+                "Plugins",
+                "Monitoring"
+              ],
+              "parentId": "root-back-end-development-cakephp-plugins"
+            },
+            {
               "id": "root-back-end-development-cakephp-plugins-navigation",
               "title": "Navigation",
               "kind": "section",
@@ -22537,6 +22642,33 @@
                     "SwaggerBake plugin"
                   ],
                   "parentId": "root-back-end-development-cakephp-plugins-rest-and-api"
+                },
+                {
+                  "id": "root-back-end-development-cakephp-plugins-rest-and-api-swaggerui-plugin",
+                  "title": "SwaggerUi plugin",
+                  "kind": "repo",
+                  "repo": "orca-services/cakephp-swagger-ui",
+                  "url": "https://github.com/orca-services/cakephp-swagger-ui",
+                  "description": "A plugin for publishing Swagger UIs based on OpenAPI specification files.",
+                  "external": false,
+                  "sourceRepo": "friendsofcake/awesome-cakephp",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "CakePHP",
+                    "Plugins",
+                    "REST and API",
+                    "SwaggerUi plugin"
+                  ],
+                  "parentId": "root-back-end-development-cakephp-plugins-rest-and-api"
                 }
               ],
               "stars": 0,
@@ -22613,6 +22745,33 @@
                     "Plugins",
                     "Search",
                     "CakeDC/SearchFilter plugin"
+                  ],
+                  "parentId": "root-back-end-development-cakephp-plugins-search"
+                },
+                {
+                  "id": "root-back-end-development-cakephp-plugins-search-crustum-explorator-plugin",
+                  "title": "Crustum/Explorator plugin",
+                  "kind": "repo",
+                  "repo": "crustum/explorator",
+                  "url": "https://github.com/crustum/explorator",
+                  "description": "Driver-based full-text search for CakePHP Tables and Entities (collection, database, Algolia, Meilisearch, Typesense).",
+                  "external": false,
+                  "sourceRepo": "friendsofcake/awesome-cakephp",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "CakePHP",
+                    "Plugins",
+                    "Search",
+                    "Crustum/Explorator plugin"
                   ],
                   "parentId": "root-back-end-development-cakephp-plugins-search"
                 },
@@ -23544,6 +23703,33 @@
                   "parentId": "root-back-end-development-cakephp-plugins-testing"
                 },
                 {
+                  "id": "root-back-end-development-cakephp-plugins-testing-datavalidationtesting-plugin",
+                  "title": "DataValidationTesting plugin",
+                  "kind": "repo",
+                  "repo": "orca-services/cakephp-data-validation-testing",
+                  "url": "https://github.com/orca-services/cakephp-data-validation-testing",
+                  "description": "A plugin to help testing data validation.",
+                  "external": false,
+                  "sourceRepo": "friendsofcake/awesome-cakephp",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "CakePHP",
+                    "Plugins",
+                    "Testing",
+                    "DataValidationTesting plugin"
+                  ],
+                  "parentId": "root-back-end-development-cakephp-plugins-testing"
+                },
+                {
                   "id": "root-back-end-development-cakephp-plugins-testing-friendsofcake-fixturize-plugin",
                   "title": "FriendsOfCake/Fixturize plugin",
                   "kind": "repo",
@@ -23593,7 +23779,35 @@
               "sourceRepo": "friendsofcake/awesome-cakephp",
               "depth": 2,
               "url": "https://github.com/friendsofcake/awesome-cakephp#third-party-apis",
-              "children": [],
+              "children": [
+                {
+                  "id": "root-back-end-development-cakephp-plugins-third-party-apis-crustum-saloon-plugin",
+                  "title": "Crustum/Saloon plugin",
+                  "kind": "repo",
+                  "repo": "crustum/saloon",
+                  "url": "https://github.com/crustum/saloon",
+                  "description": "Integrates Saloon for building elegant HTTP API clients and SDKs, with CakePHP events, Bake generators, testing helpers, and cache/rate-limit bridges.",
+                  "external": false,
+                  "sourceRepo": "friendsofcake/awesome-cakephp",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "CakePHP",
+                    "Plugins",
+                    "Third Party APIs",
+                    "Crustum/Saloon plugin"
+                  ],
+                  "parentId": "root-back-end-development-cakephp-plugins-third-party-apis"
+                }
+              ],
               "stars": 0,
               "forks": 0,
               "language": null,
@@ -24904,8 +25118,8 @@
         "awesome",
         "awesome-list"
       ],
-      "updated": "2026-10-02T21:50:36Z",
-      "pushed": "2026-10-02T21:50:30Z",
+      "updated": "2026-10-08T10:14:33Z",
+      "pushed": "2026-10-08T10:14:26Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -26436,8 +26650,8 @@
                   "sourceRepo": "fukuball/awesome-laravel-education",
                   "depth": 3,
                   "children": [],
-                  "stars": 13110,
-                  "forks": 2344,
+                  "stars": 13108,
+                  "forks": 2343,
                   "language": null,
                   "license": null,
                   "topics": [
@@ -26445,7 +26659,7 @@
                     "laravel",
                     "php"
                   ],
-                  "updated": "2026-10-03T09:19:53Z",
+                  "updated": "2026-10-11T07:09:28Z",
                   "pushed": "2024-07-03T15:59:36Z",
                   "awesome": true,
                   "path": [
@@ -26467,8 +26681,8 @@
                   "sourceRepo": "fukuball/awesome-laravel-education",
                   "depth": 3,
                   "children": [],
-                  "stars": 32724,
-                  "forks": 5140,
+                  "stars": 32736,
+                  "forks": 5137,
                   "language": null,
                   "license": "WTFPL",
                   "topics": [
@@ -26480,7 +26694,7 @@
                     "php-installation",
                     "php-library"
                   ],
-                  "updated": "2026-10-03T19:42:53Z",
+                  "updated": "2026-10-11T03:41:00Z",
                   "pushed": "2026-09-27T20:39:19Z",
                   "awesome": true,
                   "path": [
@@ -32506,7 +32720,7 @@
               "parentId": "root-back-end-development-laravel-education"
             }
           ],
-          "stars": 398,
+          "stars": 399,
           "forks": 60,
           "language": "PHP",
           "license": "MIT",
@@ -32515,7 +32729,7 @@
             "laravel",
             "laravel-documentation"
           ],
-          "updated": "2026-08-25T09:35:28Z",
+          "updated": "2026-10-10T10:25:01Z",
           "pushed": "2022-09-03T03:48:45Z",
           "awesome": true,
           "readmeStatus": "expanded",
@@ -33383,8 +33597,8 @@
           "parentId": "root-back-end-development-laravel"
         }
       ],
-      "stars": 13110,
-      "forks": 2344,
+      "stars": 13108,
+      "forks": 2343,
       "language": null,
       "license": null,
       "topics": [
@@ -33392,7 +33606,7 @@
         "laravel",
         "php"
       ],
-      "updated": "2026-10-03T09:19:53Z",
+      "updated": "2026-10-11T07:09:28Z",
       "pushed": "2024-07-03T15:59:36Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -34118,12 +34332,12 @@
               "parentId": "root-back-end-development-rails-gems"
             }
           ],
-          "stars": 2805,
-          "forks": 282,
+          "stars": 2806,
+          "forks": 281,
           "language": "Ruby",
           "license": null,
           "topics": [],
-          "updated": "2026-08-25T09:36:30Z",
+          "updated": "2026-10-11T01:42:42Z",
           "pushed": "2024-03-12T22:04:35Z",
           "awesome": true,
           "readmeStatus": "expanded",
@@ -43825,6 +44039,32 @@
               "parentId": "root-back-end-development-rails-gems"
             },
             {
+              "id": "root-back-end-development-rails-gems-solidobjects",
+              "title": "solidobjects",
+              "kind": "repo",
+              "repo": "cardmagic/solid-objects-ruby",
+              "url": "https://github.com/cardmagic/solid-objects-ruby",
+              "description": "A gem for SQL-backed virtual actors: durable state, ordered calls, and reminders in the app's SQLite, PostgreSQL, or MySQL database (pre-1.0). :redcircle:",
+              "external": false,
+              "sourceRepo": "gramantin/awesome-rails",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Rails",
+                "Gems",
+                "solidobjects"
+              ],
+              "parentId": "root-back-end-development-rails-gems"
+            },
+            {
               "id": "root-back-end-development-rails-gems-solidqueue",
               "title": "solidqueue",
               "kind": "repo",
@@ -45232,6 +45472,33 @@
                     "Dash"
                   ],
                   "parentId": "root-back-end-development-rails-other-rails-tools-devtools"
+                },
+                {
+                  "id": "root-back-end-development-rails-other-rails-tools-devtools-keploy",
+                  "title": "Keploy",
+                  "kind": "link",
+                  "repo": "",
+                  "url": "https://keploy.io",
+                  "description": "Generates Rails integration tests from real traffic and replays ActiveRecord, Redis, and HTTP calls as mocks.",
+                  "external": true,
+                  "sourceRepo": "gramantin/awesome-rails",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Rails",
+                    "Other Rails Tools",
+                    "DevTools",
+                    "Keploy"
+                  ],
+                  "parentId": "root-back-end-development-rails-other-rails-tools-devtools"
                 }
               ],
               "stars": 0,
@@ -45265,8 +45532,8 @@
           "parentId": "root-back-end-development-rails"
         }
       ],
-      "stars": 3931,
-      "forks": 446,
+      "stars": 3934,
+      "forks": 447,
       "language": null,
       "license": "MIT",
       "topics": [
@@ -45275,8 +45542,8 @@
         "opensource-apps",
         "rails"
       ],
-      "updated": "2026-10-03T04:01:34Z",
-      "pushed": "2026-09-30T08:27:36Z",
+      "updated": "2026-10-11T06:41:47Z",
+      "pushed": "2026-10-11T06:41:39Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -46630,8 +46897,8 @@
           "parentId": "root-back-end-development-kubernetes"
         }
       ],
-      "stars": 16110,
-      "forks": 2505,
+      "stars": 16118,
+      "forks": 2510,
       "language": "Shell",
       "license": "NOASSERTION",
       "topics": [
@@ -46654,7 +46921,7 @@
         "resource",
         "schedule"
       ],
-      "updated": "2026-10-04T06:46:42Z",
+      "updated": "2026-10-11T08:00:42Z",
       "pushed": "2026-09-21T12:04:05Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -68430,7 +68697,7 @@
         }
       ],
       "stars": 1286,
-      "forks": 65,
+      "forks": 64,
       "language": "Ruby",
       "license": "CC0-1.0",
       "topics": [
@@ -69201,8 +69468,8 @@
               "sourceRepo": "ucg8j/awesome-dash",
               "depth": 2,
               "children": [],
-              "stars": 48547,
-              "forks": 3851,
+              "stars": 48585,
+              "forks": 3855,
               "language": null,
               "license": "CC0-1.0",
               "topics": [
@@ -69212,7 +69479,7 @@
                 "react-component",
                 "react-components"
               ],
-              "updated": "2026-10-04T05:53:02Z",
+              "updated": "2026-10-11T07:24:01Z",
               "pushed": "2026-01-26T16:36:45Z",
               "awesome": true,
               "path": [
@@ -69233,8 +69500,8 @@
               "sourceRepo": "ucg8j/awesome-dash",
               "depth": 2,
               "children": [],
-              "stars": 74792,
-              "forks": 7680,
+              "stars": 74850,
+              "forks": 7671,
               "language": null,
               "license": null,
               "topics": [
@@ -69249,7 +69516,7 @@
                 "tutorial",
                 "typescript"
               ],
-              "updated": "2026-10-04T03:43:23Z",
+              "updated": "2026-10-11T07:47:40Z",
               "pushed": "2026-09-04T01:13:20Z",
               "awesome": true,
               "path": [
@@ -70616,7 +70883,7 @@
         "plotly",
         "python"
       ],
-      "updated": "2026-10-03T20:47:08Z",
+      "updated": "2026-10-08T12:00:52Z",
       "pushed": "2024-12-30T09:48:42Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -76099,15 +76366,15 @@
                   "sourceRepo": "mjhea0/awesome-fastapi",
                   "depth": 3,
                   "children": [],
-                  "stars": 1622,
+                  "stars": 1620,
                   "forks": 141,
                   "language": "TypeScript",
                   "license": null,
                   "topics": [
                     "fastapi"
                   ],
-                  "updated": "2026-10-03T00:48:32Z",
-                  "pushed": "2026-10-03T00:48:27Z",
+                  "updated": "2026-10-10T09:30:14Z",
+                  "pushed": "2026-10-09T00:39:49Z",
                   "awesome": true,
                   "path": [
                     "FastAPI",
@@ -76903,8 +77170,8 @@
           "parentId": "root-back-end-development-fastapi"
         }
       ],
-      "stars": 11704,
-      "forks": 899,
+      "stars": 11710,
+      "forks": 902,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -76913,7 +77180,7 @@
         "fastapi",
         "starlette"
       ],
-      "updated": "2026-10-04T07:33:38Z",
+      "updated": "2026-10-11T02:46:53Z",
       "pushed": "2026-08-24T17:18:28Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -80992,8 +81259,8 @@
               "sourceRepo": "kdeldycke/awesome-iam",
               "depth": 2,
               "children": [],
-              "stars": 129,
-              "forks": 30,
+              "stars": 130,
+              "forks": 31,
               "language": "HTML",
               "license": "CC0-1.0",
               "topics": [
@@ -81013,7 +81280,7 @@
                 "openidconnect",
                 "security"
               ],
-              "updated": "2026-10-02T12:05:54Z",
+              "updated": "2026-10-09T18:59:17Z",
               "pushed": "2026-10-01T06:42:16Z",
               "awesome": true,
               "path": [
@@ -82094,8 +82361,8 @@
               "sourceRepo": "kdeldycke/awesome-iam",
               "depth": 2,
               "children": [],
-              "stars": 1348,
-              "forks": 109,
+              "stars": 1354,
+              "forks": 108,
               "language": null,
               "license": "CC0-1.0",
               "topics": [
@@ -82120,7 +82387,7 @@
                 "usage-based-billing",
                 "vat"
               ],
-              "updated": "2026-10-04T06:24:03Z",
+              "updated": "2026-10-09T17:25:28Z",
               "pushed": "2026-09-28T10:49:42Z",
               "awesome": true,
               "path": [
@@ -82626,7 +82893,7 @@
                   "sourceRepo": "kdeldycke/awesome-iam",
                   "depth": 3,
                   "children": [],
-                  "stars": 10697,
+                  "stars": 10724,
                   "forks": 1833,
                   "language": null,
                   "license": "Apache-2.0",
@@ -82636,7 +82903,7 @@
                     "hacktoberfest",
                     "security"
                   ],
-                  "updated": "2026-10-04T07:34:18Z",
+                  "updated": "2026-10-10T21:16:01Z",
                   "pushed": "2026-05-31T10:54:05Z",
                   "awesome": true,
                   "path": [
@@ -82979,7 +83246,7 @@
                   "sourceRepo": "kdeldycke/awesome-iam",
                   "depth": 3,
                   "children": [],
-                  "stars": 1431,
+                  "stars": 1435,
                   "forks": 130,
                   "language": "JavaScript",
                   "license": "MIT",
@@ -82997,7 +83264,7 @@
                     "crack-captcha",
                     "image-captcha"
                   ],
-                  "updated": "2026-10-03T04:13:49Z",
+                  "updated": "2026-10-08T07:47:02Z",
                   "pushed": "2026-09-10T23:34:45Z",
                   "awesome": true,
                   "path": [
@@ -84733,8 +85000,8 @@
           "parentId": "root-back-end-development-iam"
         }
       ],
-      "stars": 2295,
-      "forks": 193,
+      "stars": 2302,
+      "forks": 194,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -84759,7 +85026,7 @@
         "webauthn",
         "zero-trust"
       ],
-      "updated": "2026-10-04T07:51:16Z",
+      "updated": "2026-10-10T10:17:23Z",
       "pushed": "2026-09-28T07:23:45Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -88990,6 +89257,32 @@
               "parentId": "root-back-end-development-fiber-tools"
             },
             {
+              "id": "root-back-end-development-fiber-tools-keploy-keploy",
+              "title": "keploy/keploy",
+              "kind": "repo",
+              "repo": "keploy/keploy",
+              "url": "https://github.com/keploy/keploy",
+              "description": "Records real traffic to a Fiber app and replays it as tests with mocked SQL, Redis, and HTTP calls.",
+              "external": false,
+              "sourceRepo": "gofiber/awesome-fiber",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Fiber",
+                "🛠️ Tools",
+                "keploy/keploy"
+              ],
+              "parentId": "root-back-end-development-fiber-tools"
+            },
+            {
               "id": "root-back-end-development-fiber-tools-mult1mate-protoc-gen-httpgo",
               "title": "MUlt1mate/protoc-gen-httpgo",
               "kind": "repo",
@@ -89920,8 +90213,8 @@
           "parentId": "root-back-end-development-fiber"
         }
       ],
-      "stars": 846,
-      "forks": 59,
+      "stars": 848,
+      "forks": 60,
       "language": null,
       "license": "MIT",
       "topics": [
@@ -89932,8 +90225,8 @@
         "middleware",
         "recipes"
       ],
-      "updated": "2026-10-03T01:23:03Z",
-      "pushed": "2026-08-15T14:54:58Z",
+      "updated": "2026-10-11T06:15:08Z",
+      "pushed": "2026-10-11T06:15:03Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -90953,8 +91246,8 @@
               "sourceRepo": "devopshivehq/awesome-kustomize",
               "depth": 2,
               "children": [],
-              "stars": 16110,
-              "forks": 2505,
+              "stars": 16118,
+              "forks": 2510,
               "language": "Shell",
               "license": "NOASSERTION",
               "topics": [
@@ -90977,7 +91270,7 @@
                 "resource",
                 "schedule"
               ],
-              "updated": "2026-10-04T06:46:42Z",
+              "updated": "2026-10-11T08:00:42Z",
               "pushed": "2026-09-21T12:04:05Z",
               "awesome": true,
               "path": [
@@ -91008,7 +91301,7 @@
                 "kubectl-plugins",
                 "kubernetes"
               ],
-              "updated": "2026-09-30T19:29:25Z",
+              "updated": "2026-10-09T14:50:05Z",
               "pushed": "2026-09-30T19:29:19Z",
               "awesome": true,
               "path": [
@@ -91029,8 +91322,8 @@
               "sourceRepo": "devopshivehq/awesome-kustomize",
               "depth": 2,
               "children": [],
-              "stars": 1117,
-              "forks": 121,
+              "stars": 1118,
+              "forks": 122,
               "language": null,
               "license": "NOASSERTION",
               "topics": [
@@ -91041,7 +91334,7 @@
                 "k8s",
                 "kuberenetes"
               ],
-              "updated": "2026-10-04T01:53:11Z",
+              "updated": "2026-10-10T18:44:16Z",
               "pushed": "2026-05-16T21:05:30Z",
               "awesome": true,
               "path": [
@@ -92316,6 +92609,33 @@
                   "parentId": "root-back-end-development-opentofu-tools-ci"
                 },
                 {
+                  "id": "root-back-end-development-opentofu-tools-ci-c3x",
+                  "title": "c3x",
+                  "kind": "repo",
+                  "repo": "c3xdev/c3x",
+                  "url": "https://github.com/c3xdev/c3x",
+                  "description": "Cost estimates for OpenTofu code, including .tofu files and provider foreach, posted as a pull request comment.",
+                  "external": false,
+                  "sourceRepo": "virtualroot/awesome-opentofu",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "OpenTofu",
+                    "Tools",
+                    "CI",
+                    "c3x"
+                  ],
+                  "parentId": "root-back-end-development-opentofu-tools-ci"
+                },
+                {
                   "id": "root-back-end-development-opentofu-tools-ci-drifthound",
                   "title": "drifthound",
                   "kind": "repo",
@@ -92420,6 +92740,33 @@
                     "Tools",
                     "CI",
                     "pre-commit-opentofu"
+                  ],
+                  "parentId": "root-back-end-development-opentofu-tools-ci"
+                },
+                {
+                  "id": "root-back-end-development-opentofu-tools-ci-pre-commit-terraform",
+                  "title": "pre-commit-terraform",
+                  "kind": "repo",
+                  "repo": "antonbabenko/pre-commit-terraform",
+                  "url": "https://github.com/antonbabenko/pre-commit-terraform",
+                  "description": "Collection of pre-commit git hooks for validating, formatting, and documenting Terraform and OpenTofu code.",
+                  "external": false,
+                  "sourceRepo": "virtualroot/awesome-opentofu",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "OpenTofu",
+                    "Tools",
+                    "CI",
+                    "pre-commit-terraform"
                   ],
                   "parentId": "root-back-end-development-opentofu-tools-ci"
                 },
@@ -92556,6 +92903,60 @@
               "url": "https://github.com/virtualroot/awesome-opentofu#tests",
               "children": [
                 {
+                  "id": "root-back-end-development-opentofu-tools-tests-checkov",
+                  "title": "Checkov",
+                  "kind": "repo",
+                  "repo": "bridgecrewio/checkov",
+                  "url": "https://github.com/bridgecrewio/checkov",
+                  "description": "Static analysis tool that scans Terraform and OpenTofu templates for security and compliance misconfigurations.",
+                  "external": false,
+                  "sourceRepo": "virtualroot/awesome-opentofu",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "OpenTofu",
+                    "Tools",
+                    "Tests",
+                    "Checkov"
+                  ],
+                  "parentId": "root-back-end-development-opentofu-tools-tests"
+                },
+                {
+                  "id": "root-back-end-development-opentofu-tools-tests-kics",
+                  "title": "KICS",
+                  "kind": "repo",
+                  "repo": "checkmarx/kics",
+                  "url": "https://github.com/checkmarx/kics",
+                  "description": "Open-source static analysis tool that finds security vulnerabilities and misconfigurations in IaC, including OpenTofu.",
+                  "external": false,
+                  "sourceRepo": "virtualroot/awesome-opentofu",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "OpenTofu",
+                    "Tools",
+                    "Tests",
+                    "KICS"
+                  ],
+                  "parentId": "root-back-end-development-opentofu-tools-tests"
+                },
+                {
                   "id": "root-back-end-development-opentofu-tools-tests-terratest",
                   "title": "Terratest",
                   "kind": "repo",
@@ -92657,6 +93058,60 @@
                     "Tools",
                     "State",
                     "tfimport"
+                  ],
+                  "parentId": "root-back-end-development-opentofu-tools-state"
+                },
+                {
+                  "id": "root-back-end-development-opentofu-tools-state-tfautomv",
+                  "title": "tfautomv",
+                  "kind": "repo",
+                  "repo": "busser/tfautomv",
+                  "url": "https://github.com/busser/tfautomv",
+                  "description": "CLI that automatically generates moved blocks and state-move commands for refactoring Terraform/OpenTofu configurations.",
+                  "external": false,
+                  "sourceRepo": "virtualroot/awesome-opentofu",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "OpenTofu",
+                    "Tools",
+                    "State",
+                    "tfautomv"
+                  ],
+                  "parentId": "root-back-end-development-opentofu-tools-state"
+                },
+                {
+                  "id": "root-back-end-development-opentofu-tools-state-terraform-tui",
+                  "title": "terraform-tui",
+                  "kind": "repo",
+                  "repo": "idoavrah/terraform-tui",
+                  "url": "https://github.com/idoavrah/terraform-tui",
+                  "description": "Terminal UI for browsing, applying, and managing Terraform/OpenTofu state and plans interactively.",
+                  "external": false,
+                  "sourceRepo": "virtualroot/awesome-opentofu",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "OpenTofu",
+                    "Tools",
+                    "State",
+                    "terraform-tui"
                   ],
                   "parentId": "root-back-end-development-opentofu-tools-state"
                 }
@@ -93457,6 +93912,33 @@
                     "bare-devcontainer/templates"
                   ],
                   "parentId": "root-back-end-development-opentofu-tools-helpers"
+                },
+                {
+                  "id": "root-back-end-development-opentofu-tools-helpers-terravision",
+                  "title": "TerraVision",
+                  "kind": "repo",
+                  "repo": "patrickchugh/terravision",
+                  "url": "https://github.com/patrickchugh/terravision",
+                  "description": "Generate cloud architecture diagrams with official AWS, Azure and GCP icons from OpenTofu or Terraform code.",
+                  "external": false,
+                  "sourceRepo": "virtualroot/awesome-opentofu",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "OpenTofu",
+                    "Tools",
+                    "Helpers",
+                    "TerraVision"
+                  ],
+                  "parentId": "root-back-end-development-opentofu-tools-helpers"
                 }
               ],
               "stars": 0,
@@ -94105,8 +94587,8 @@
           "parentId": "root-back-end-development-opentofu"
         }
       ],
-      "stars": 209,
-      "forks": 26,
+      "stars": 211,
+      "forks": 27,
       "language": "SCSS",
       "license": "CC0-1.0",
       "topics": [
@@ -94119,8 +94601,8 @@
         "opentofu",
         "tofu"
       ],
-      "updated": "2026-09-30T06:03:09Z",
-      "pushed": "2026-09-27T20:40:02Z",
+      "updated": "2026-10-09T14:42:01Z",
+      "pushed": "2026-10-07T13:32:49Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [

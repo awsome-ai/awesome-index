@@ -13360,6 +13360,32 @@
               "parentId": "root-editors-neovim-colorscheme"
             },
             {
+              "id": "root-editors-neovim-colorscheme-daaanny90-zed-nvim",
+              "title": "daaanny90/zed.nvim",
+              "kind": "repo",
+              "repo": "daaanny90/zed.nvim",
+              "url": "https://github.com/daaanny90/zed.nvim",
+              "description": "[TS][LSP][Lua] Zed editor look with six dark variants, plus tmux and iTerm2 extras.",
+              "external": false,
+              "sourceRepo": "rockerboo/awesome-neovim",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Neovim",
+                "Colorscheme",
+                "daaanny90/zed.nvim"
+              ],
+              "parentId": "root-editors-neovim-colorscheme"
+            },
+            {
               "id": "root-editors-neovim-colorscheme-silentium-theme-silentium-nvim",
               "title": "silentium-theme/silentium.nvim",
               "kind": "repo",
@@ -13486,6 +13512,32 @@
                 "Neovim",
                 "Colorscheme",
                 "datsfilipe/min-theme.nvim"
+              ],
+              "parentId": "root-editors-neovim-colorscheme"
+            },
+            {
+              "id": "root-editors-neovim-colorscheme-daaanny90-claude-desktop-nvim",
+              "title": "daaanny90/claude-desktop.nvim",
+              "kind": "repo",
+              "repo": "daaanny90/claude-desktop.nvim",
+              "url": "https://github.com/daaanny90/claude-desktop.nvim",
+              "description": "[TS][LSP][Lua] Warm dark colorscheme matching the Claude Desktop app, with tmux and iTerm2 extras.",
+              "external": false,
+              "sourceRepo": "rockerboo/awesome-neovim",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Neovim",
+                "Colorscheme",
+                "daaanny90/claude-desktop.nvim"
               ],
               "parentId": "root-editors-neovim-colorscheme"
             },
@@ -15882,6 +15934,32 @@
               "parentId": "root-editors-neovim-colorscheme"
             },
             {
+              "id": "root-editors-neovim-colorscheme-daaanny90-iterm2-dark-background-nvim",
+              "title": "daaanny90/iterm2-dark-background.nvim",
+              "kind": "repo",
+              "repo": "daaanny90/iterm2-dark-background.nvim",
+              "url": "https://github.com/daaanny90/iterm2-dark-background.nvim",
+              "description": "[TS][LSP][Lua] Muted dark colorscheme inspired by iTerm2's Dark Background preset.",
+              "external": false,
+              "sourceRepo": "rockerboo/awesome-neovim",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Neovim",
+                "Colorscheme",
+                "daaanny90/iterm2-dark-background.nvim"
+              ],
+              "parentId": "root-editors-neovim-colorscheme"
+            },
+            {
               "id": "root-editors-neovim-colorscheme-polirritmico-monokai-nightasty-nvim",
               "title": "polirritmico/monokai-nightasty.nvim",
               "kind": "repo",
@@ -17178,6 +17256,58 @@
                 "Neovim",
                 "Colorscheme",
                 "jonestristand/dune.nvim"
+              ],
+              "parentId": "root-editors-neovim-colorscheme"
+            },
+            {
+              "id": "root-editors-neovim-colorscheme-2giosangmitom-nightfall-nvim",
+              "title": "2giosangmitom/nightfall.nvim",
+              "kind": "repo",
+              "repo": "2giosangmitom/nightfall.nvim",
+              "url": "https://github.com/2giosangmitom/nightfall.nvim",
+              "description": "[TS][LSP][L/D][Lua] Dracula-inspired colorscheme with four flavors including a light variant.",
+              "external": false,
+              "sourceRepo": "rockerboo/awesome-neovim",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Neovim",
+                "Colorscheme",
+                "2giosangmitom/nightfall.nvim"
+              ],
+              "parentId": "root-editors-neovim-colorscheme"
+            },
+            {
+              "id": "root-editors-neovim-colorscheme-oxidescheme-nvim",
+              "title": "oxidescheme/nvim",
+              "kind": "repo",
+              "repo": "oxidescheme/nvim",
+              "url": "https://github.com/oxidescheme/nvim",
+              "description": "[TS][LSP][Lua] Minimalist dark colorscheme built on an OKLCH palette with a monochrome-first UI.",
+              "external": false,
+              "sourceRepo": "rockerboo/awesome-neovim",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Neovim",
+                "Colorscheme",
+                "oxidescheme/nvim"
               ],
               "parentId": "root-editors-neovim-colorscheme"
             },
@@ -25132,6 +25262,32 @@
           "depth": 1,
           "url": "https://github.com/rockerboo/awesome-neovim#code-runner",
           "children": [
+            {
+              "id": "root-editors-neovim-code-runner-nghiant03-jove-nvim",
+              "title": "nghiant03/jove.nvim",
+              "kind": "repo",
+              "repo": "nghiant03/jove.nvim",
+              "url": "https://github.com/nghiant03/jove.nvim",
+              "description": "Edit Jupyter notebooks as native buffers with LSP integration, rich inline outputs and interactive component rendering.",
+              "external": false,
+              "sourceRepo": "rockerboo/awesome-neovim",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Neovim",
+                "Code Runner",
+                "nghiant03/jove.nvim"
+              ],
+              "parentId": "root-editors-neovim-code-runner"
+            },
             {
               "id": "root-editors-neovim-code-runner-wurli-jet-nvim",
               "title": "wurli/jet.nvim",
@@ -39353,8 +39509,8 @@
                     "neovim-plugins",
                     "nix-flake"
                   ],
-                  "updated": "2026-10-03T20:08:30Z",
-                  "pushed": "2026-10-03T20:08:27Z",
+                  "updated": "2026-10-10T20:45:22Z",
+                  "pushed": "2026-10-10T20:45:19Z",
                   "awesome": true,
                   "path": [
                     "Neovim",
@@ -40273,8 +40429,8 @@
           "parentId": "root-editors-neovim"
         }
       ],
-      "stars": 21441,
-      "forks": 1066,
+      "stars": 21474,
+      "forks": 1069,
       "language": "Shell",
       "license": "CC0-1.0",
       "topics": [
@@ -40284,8 +40440,8 @@
         "neovim-plugins",
         "nvim-lua"
       ],
-      "updated": "2026-10-04T07:30:54Z",
-      "pushed": "2026-10-03T18:56:52Z",
+      "updated": "2026-10-10T21:14:07Z",
+      "pushed": "2026-10-07T02:49:51Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -40304,15 +40460,15 @@
       "sourceRepo": "sindresorhus/awesome",
       "depth": 1,
       "children": [],
-      "stars": 9387,
-      "forks": 599,
+      "stars": 9394,
+      "forks": 598,
       "language": null,
       "license": "Unlicense",
       "topics": [
         "awesome-list",
         "emacs"
       ],
-      "updated": "2026-10-04T07:02:05Z",
+      "updated": "2026-10-10T14:33:10Z",
       "pushed": "2026-09-02T15:57:43Z",
       "awesome": true,
       "readmeStatus": "empty",
@@ -46783,8 +46939,8 @@
           "parentId": "root-editors-visual-studio-code"
         }
       ],
-      "stars": 29097,
-      "forks": 1433,
+      "stars": 29109,
+      "forks": 1435,
       "language": "JavaScript",
       "license": "CC0-1.0",
       "topics": [
@@ -46800,7 +46956,7 @@
         "vscode-extension",
         "vscode-theme"
       ],
-      "updated": "2026-10-03T23:56:38Z",
+      "updated": "2026-10-11T06:38:58Z",
       "pushed": "2026-06-21T09:36:55Z",
       "awesome": true,
       "readmeStatus": "expanded",

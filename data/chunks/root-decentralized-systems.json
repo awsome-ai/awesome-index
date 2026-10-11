@@ -1241,12 +1241,12 @@
           "parentId": "root-decentralized-systems-bitcoin"
         }
       ],
-      "stars": 1356,
-      "forks": 291,
+      "stars": 1355,
+      "forks": 293,
       "language": null,
       "license": null,
       "topics": [],
-      "updated": "2026-09-29T19:08:16Z",
+      "updated": "2026-10-07T10:52:57Z",
       "pushed": "2026-09-29T19:08:10Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -4504,7 +4504,7 @@
           "parentId": "root-decentralized-systems-ripple"
         }
       ],
-      "stars": 199,
+      "stars": 200,
       "forks": 24,
       "language": null,
       "license": null,
@@ -4512,7 +4512,7 @@
         "awesome",
         "ripple"
       ],
-      "updated": "2026-09-27T12:03:14Z",
+      "updated": "2026-10-08T21:50:57Z",
       "pushed": "2021-07-02T15:40:31Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -5772,8 +5772,8 @@
           "parentId": "root-decentralized-systems-non-financial-blockchain"
         }
       ],
-      "stars": 671,
-      "forks": 84,
+      "stars": 672,
+      "forks": 83,
       "language": null,
       "license": null,
       "topics": [
@@ -5782,7 +5782,7 @@
         "blockchain",
         "list"
       ],
-      "updated": "2026-10-03T12:58:46Z",
+      "updated": "2026-10-08T19:58:27Z",
       "pushed": "2020-10-12T09:05:29Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -8260,7 +8260,7 @@
           "parentId": "root-decentralized-systems-mastodon"
         }
       ],
-      "stars": 62,
+      "stars": 63,
       "forks": 8,
       "language": "Markdown",
       "license": "CC0-1.0",
@@ -8269,7 +8269,7 @@
         "awesome-list",
         "mastodon"
       ],
-      "updated": "2026-10-02T19:56:03Z",
+      "updated": "2026-10-05T12:15:35Z",
       "pushed": "2026-08-30T06:48:33Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -10905,7 +10905,7 @@
         }
       ],
       "stars": 363,
-      "forks": 65,
+      "forks": 64,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -12418,7 +12418,7 @@
           "parentId": "root-decentralized-systems-blockchain-ai"
         }
       ],
-      "stars": 1158,
+      "stars": 1157,
       "forks": 231,
       "language": null,
       "license": null,
@@ -12429,7 +12429,7 @@
         "blockchain",
         "machine-learning"
       ],
-      "updated": "2026-10-03T12:58:46Z",
+      "updated": "2026-10-09T10:46:51Z",
       "pushed": "2026-02-06T19:23:10Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -32872,7 +32872,7 @@
         }
       ],
       "stars": 245,
-      "forks": 27,
+      "forks": 26,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -42969,6 +42969,32 @@
               "parentId": "root-decentralized-systems-algorand-ai-and-machine-learning"
             },
             {
+              "id": "root-decentralized-systems-algorand-ai-and-machine-learning-predge",
+              "title": "Predge",
+              "kind": "link",
+              "repo": "",
+              "url": "https://api.predge.io/.well-known/x402",
+              "description": "Polymarket whale trades, wallet scores and smart-money signals for AI agents, paid per call over x402 with USDC on Algorand via the GoPlausible facilitator.",
+              "external": true,
+              "sourceRepo": "aorumbayev/awesome-algorand",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Algorand",
+                "AI and Machine Learning",
+                "Predge"
+              ],
+              "parentId": "root-decentralized-systems-algorand-ai-and-machine-learning"
+            },
+            {
               "id": "root-decentralized-systems-algorand-ai-and-machine-learning-vibekit",
               "title": "VibeKit",
               "kind": "repo",
@@ -44539,7 +44565,7 @@
           "parentId": "root-decentralized-systems-zeronet"
         }
       ],
-      "stars": 114,
+      "stars": 115,
       "forks": 11,
       "language": null,
       "license": "CC0-1.0",
@@ -44550,7 +44576,7 @@
         "zeronet",
         "zeronet-site"
       ],
-      "updated": "2026-09-24T08:12:23Z",
+      "updated": "2026-10-06T09:52:03Z",
       "pushed": "2025-03-06T15:13:08Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -45270,7 +45296,7 @@
         }
       ],
       "stars": 602,
-      "forks": 175,
+      "forks": 174,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -45280,7 +45306,7 @@
         "cosmos",
         "cosmos-sdk"
       ],
-      "updated": "2026-09-28T14:24:04Z",
+      "updated": "2026-10-10T16:32:49Z",
       "pushed": "2026-04-13T09:03:12Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -49619,8 +49645,8 @@
           "parentId": "root-decentralized-systems-tor"
         }
       ],
-      "stars": 131,
-      "forks": 15,
+      "stars": 132,
+      "forks": 14,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -49630,7 +49656,7 @@
         "onion-routing",
         "tor"
       ],
-      "updated": "2026-09-27T21:52:19Z",
+      "updated": "2026-10-05T06:23:21Z",
       "pushed": "2026-09-12T19:31:51Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -49832,7 +49858,7 @@
           "parentId": "root-decentralized-systems-atproto"
         }
       ],
-      "stars": 79,
+      "stars": 80,
       "forks": 6,
       "language": null,
       "license": "CC0-1.0",
@@ -49841,7 +49867,7 @@
         "awesome",
         "awesome-list"
       ],
-      "updated": "2026-09-28T10:13:14Z",
+      "updated": "2026-10-10T20:18:49Z",
       "pushed": "2026-09-14T07:00:26Z",
       "awesome": true,
       "readmeStatus": "expanded",
