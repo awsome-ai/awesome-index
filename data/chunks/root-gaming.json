@@ -3489,12 +3489,12 @@
           "parentId": "root-gaming-game-talks"
         }
       ],
-      "stars": 1188,
-      "forks": 53,
+      "stars": 1189,
+      "forks": 54,
       "language": null,
       "license": "MIT",
       "topics": [],
-      "updated": "2026-10-07T08:06:52Z",
+      "updated": "2026-10-12T18:39:04Z",
       "pushed": "2024-05-09T00:58:26Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -17723,6 +17723,33 @@
                   "parentId": "root-gaming-open-source-games-browser-based-others"
                 },
                 {
+                  "id": "root-gaming-open-source-games-browser-based-others-bjjgraph",
+                  "title": "BJJGraph",
+                  "kind": "repo",
+                  "repo": "diogoseca/bjjgraph",
+                  "url": "https://github.com/diogoseca/bjjgraph",
+                  "description": "Brazilian jiu-jitsu as a turn-based state machine: from each position the player picks a move from the legal hand, and the outcome is drawn against authored success rates. HTML5 canvas, no game engine.",
+                  "external": false,
+                  "sourceRepo": "michelpereira/awesome-open-source-games",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Open Source Games",
+                    "Browser-Based",
+                    "Others",
+                    "BJJGraph"
+                  ],
+                  "parentId": "root-gaming-open-source-games-browser-based-others"
+                },
+                {
                   "id": "root-gaming-open-source-games-browser-based-others-cyberpong",
                   "title": "CyberPong",
                   "kind": "repo",
@@ -25872,8 +25899,8 @@
           "parentId": "root-gaming-open-source-games"
         }
       ],
-      "stars": 3225,
-      "forks": 283,
+      "stars": 3266,
+      "forks": 299,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -25882,8 +25909,8 @@
         "games",
         "opensource"
       ],
-      "updated": "2026-10-11T06:04:47Z",
-      "pushed": "2026-10-07T21:01:32Z",
+      "updated": "2026-10-18T06:15:35Z",
+      "pushed": "2026-10-15T01:06:45Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -25902,12 +25929,12 @@
       "sourceRepo": "sindresorhus/awesome",
       "depth": 1,
       "children": [],
-      "stars": 541,
+      "stars": 543,
       "forks": 49,
       "language": null,
       "license": "CC0-1.0",
       "topics": [],
-      "updated": "2026-10-07T17:40:37Z",
+      "updated": "2026-10-14T00:52:51Z",
       "pushed": "2020-11-20T11:48:24Z",
       "awesome": true,
       "readmeStatus": "empty",
@@ -26522,8 +26549,8 @@
           "parentId": "root-gaming-l-ve"
         }
       ],
-      "stars": 4513,
-      "forks": 247,
+      "stars": 4523,
+      "forks": 255,
       "language": "PowerShell",
       "license": "CC0-1.0",
       "topics": [
@@ -26533,7 +26560,7 @@
         "love2d",
         "lua"
       ],
-      "updated": "2026-10-08T13:41:29Z",
+      "updated": "2026-10-17T19:09:59Z",
       "pushed": "2026-09-26T21:02:34Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -29350,8 +29377,8 @@
           "parentId": "root-gaming-pico-8"
         }
       ],
-      "stars": 3085,
-      "forks": 104,
+      "stars": 3083,
+      "forks": 109,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -29369,7 +29396,7 @@
         "pico-8",
         "pico8"
       ],
-      "updated": "2026-10-10T07:45:35Z",
+      "updated": "2026-10-16T19:28:31Z",
       "pushed": "2026-07-28T13:25:56Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -30053,33 +30080,6 @@
                   "parentId": "root-gaming-game-boy-development-documentation-hardware"
                 },
                 {
-                  "id": "root-gaming-game-boy-development-documentation-hardware-esp8266-gb-printer",
-                  "title": "ESP8266 GB Printer",
-                  "kind": "repo",
-                  "repo": "applefreak/esp8266-gameboy-printer",
-                  "url": "https://github.com/applefreak/esp8266-gameboy-printer",
-                  "description": "A device that emulates the GB Printer and lets you retrieve images using WiFi.",
-                  "external": false,
-                  "sourceRepo": "gbdev/awesome-gbdev",
-                  "depth": 3,
-                  "children": [],
-                  "stars": 0,
-                  "forks": 0,
-                  "language": null,
-                  "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
-                  "awesome": false,
-                  "path": [
-                    "Game Boy Development",
-                    "Documentation",
-                    "Hardware",
-                    "ESP8266 GB Printer"
-                  ],
-                  "parentId": "root-gaming-game-boy-development-documentation-hardware"
-                },
-                {
                   "id": "root-gaming-game-boy-development-documentation-hardware-fruttenboel",
                   "title": "fruttenboel",
                   "kind": "link",
@@ -30545,33 +30545,6 @@
                   "parentId": "root-gaming-game-boy-development-documentation-peripherals"
                 },
                 {
-                  "id": "root-gaming-game-boy-development-documentation-peripherals-the-game-boy-printer",
-                  "title": "The Game Boy Printer",
-                  "kind": "link",
-                  "repo": "",
-                  "url": "https://shonumi.github.io/articles/art2.html",
-                  "description": "An in-depth technical document about the printer hardware, the communication protocol and the usual routine that games used for implementing the print feature.",
-                  "external": true,
-                  "sourceRepo": "gbdev/awesome-gbdev",
-                  "depth": 3,
-                  "children": [],
-                  "stars": 0,
-                  "forks": 0,
-                  "language": null,
-                  "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
-                  "awesome": false,
-                  "path": [
-                    "Game Boy Development",
-                    "Documentation",
-                    "Peripherals",
-                    "The Game Boy Printer"
-                  ],
-                  "parentId": "root-gaming-game-boy-development-documentation-peripherals"
-                },
-                {
                   "id": "root-gaming-game-boy-development-documentation-peripherals-ben-heck-reverse-engineers-game-boy-printer-errata-the-used-thermal-paper-is-expired-4-colors-are-actually-printable",
                   "title": "Ben Heck Reverse Engineers Game Boy Printer (Errata: the used thermal paper is expired, 4 colors are actually printable).",
                   "kind": "topic",
@@ -30595,33 +30568,6 @@
                     "Documentation",
                     "Peripherals",
                     "Ben Heck Reverse Engineers Game Boy Printer (Errata: the used thermal paper is expired, 4 colors are actually printable)."
-                  ],
-                  "parentId": "root-gaming-game-boy-development-documentation-peripherals"
-                },
-                {
-                  "id": "root-gaming-game-boy-development-documentation-peripherals-arduino-game-boy-printer-emulator",
-                  "title": "Arduino Game Boy Printer Emulator",
-                  "kind": "repo",
-                  "repo": "mofosyne/arduino-gameboy-printer-emulator",
-                  "url": "https://github.com/mofosyne/arduino-gameboy-printer-emulator",
-                  "description": "Emulating a Game Boy Printer via the Game Boy Link cable with an Arduino.",
-                  "external": false,
-                  "sourceRepo": "gbdev/awesome-gbdev",
-                  "depth": 3,
-                  "children": [],
-                  "stars": 0,
-                  "forks": 0,
-                  "language": null,
-                  "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
-                  "awesome": false,
-                  "path": [
-                    "Game Boy Development",
-                    "Documentation",
-                    "Peripherals",
-                    "Arduino Game Boy Printer Emulator"
                   ],
                   "parentId": "root-gaming-game-boy-development-documentation-peripherals"
                 },
@@ -31681,7 +31627,7 @@
               "kind": "link",
               "repo": "",
               "url": "https://rylev.github.io/DMG-01/public/book/",
-              "description": "An educational Gameboy Emulator in Rust and a companion book explaining its development. Oh Boy! Creating a Game Boy Emulator in Rust- is a talk given at Rust Fest 18 about this.",
+              "description": "An educational Gameboy Emulator in Rust and a companion book explaining its development. Oh Boy! Creating a Game Boy Emulator in Rust is a talk given at Rust Fest 18 about this.",
               "external": true,
               "sourceRepo": "gbdev/awesome-gbdev",
               "depth": 2,
@@ -31863,7 +31809,7 @@
               "kind": "link",
               "repo": "",
               "url": "https://binji.github.io/2017/12/31/binjgb-rewind.html",
-              "description": "Implementing a rewind- feature.",
+              "description": "Implementing a rewind feature.",
               "external": true,
               "sourceRepo": "gbdev/awesome-gbdev",
               "depth": 2,
@@ -32014,32 +31960,6 @@
               "parentId": "root-gaming-game-boy-development-emulator-development"
             },
             {
-              "id": "root-gaming-game-boy-development-emulator-development-list-of-open-source-emulators",
-              "title": "List of open source emulators",
-              "kind": "link",
-              "repo": "",
-              "url": "https://github.com/gbdev/awesome-gbdev/blob/HEAD/EMULATORS.md",
-              "description": "",
-              "external": false,
-              "sourceRepo": "gbdev/awesome-gbdev",
-              "depth": 2,
-              "children": [],
-              "stars": 0,
-              "forks": 0,
-              "language": null,
-              "license": null,
-              "topics": [],
-              "updated": null,
-              "pushed": null,
-              "awesome": false,
-              "path": [
-                "Game Boy Development",
-                "Emulator Development",
-                "List of open source emulators"
-              ],
-              "parentId": "root-gaming-game-boy-development-emulator-development"
-            },
-            {
               "id": "root-gaming-game-boy-development-emulator-development-game-boy-doctor",
               "title": "Game Boy Doctor",
               "kind": "repo",
@@ -32062,6 +31982,32 @@
                 "Game Boy Development",
                 "Emulator Development",
                 "Game Boy Doctor"
+              ],
+              "parentId": "root-gaming-game-boy-development-emulator-development"
+            },
+            {
+              "id": "root-gaming-game-boy-development-emulator-development-draconicgb-creating-a-game-boy-emulator",
+              "title": "DraconicGB: Creating a Game Boy Emulator",
+              "kind": "link",
+              "repo": "",
+              "url": "https://openaccess.uoc.edu/bitstream/10609/115466/6/dsbartomeuTFG0620mem%C3%B2ria.pdf",
+              "description": "Bachelor's thesis (UOC, 2020) documenting the research, architecture and C++ implementation of a Game Boy emulator, with an overview of the hardware and of existing emulators.",
+              "external": true,
+              "sourceRepo": "gbdev/awesome-gbdev",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Game Boy Development",
+                "Emulator Development",
+                "DraconicGB: Creating a Game Boy Emulator"
               ],
               "parentId": "root-gaming-game-boy-development-emulator-development"
             },
@@ -32581,6 +32527,33 @@
                   "parentId": "root-gaming-game-boy-development-software-development-compilers"
                 },
                 {
+                  "id": "root-gaming-game-boy-development-software-development-compilers-llvm-z80",
+                  "title": "LLVM-Z80 †",
+                  "kind": "topic",
+                  "repo": "",
+                  "url": "",
+                  "description": "A fork of LLVM with a backend for the Game Boy CPU (SM83), supporting the latest C standards and LLVM’s excellent optimizations.",
+                  "external": false,
+                  "sourceRepo": "gbdev/awesome-gbdev",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Game Boy Development",
+                    "Software Development",
+                    "Compilers",
+                    "LLVM-Z80 †"
+                  ],
+                  "parentId": "root-gaming-game-boy-development-software-development-compilers"
+                },
+                {
                   "id": "root-gaming-game-boy-development-software-development-compilers-experimental-proof-of-concepts",
                   "title": "Experimental/Proof of Concepts",
                   "kind": "section",
@@ -32762,7 +32735,7 @@
                       "kind": "repo",
                       "repo": "ulrikdamm/assembler",
                       "url": "https://github.com/ulrikdamm/assembler",
-                      "description": "Assembler written in Swift.",
+                      "description": "written in Swift.",
                       "external": false,
                       "sourceRepo": "gbdev/awesome-gbdev",
                       "depth": 4,
@@ -32781,34 +32754,6 @@
                         "Compilers",
                         "Experimental/Proof of Concepts",
                         "Assembler"
-                      ],
-                      "parentId": "root-gaming-game-boy-development-software-development-compilers-experimental-proof-of-concepts"
-                    },
-                    {
-                      "id": "root-gaming-game-boy-development-software-development-compilers-experimental-proof-of-concepts-llvm-gbz80-clang-gbz80",
-                      "title": "llvm-gbz80 / clang-gbz80",
-                      "kind": "topic",
-                      "repo": "",
-                      "url": "",
-                      "description": "Clang/LLVM port to the GBZ80 CPU (similar to the deprecated euclio/llvm-gbz80).",
-                      "external": false,
-                      "sourceRepo": "gbdev/awesome-gbdev",
-                      "depth": 4,
-                      "children": [],
-                      "stars": 0,
-                      "forks": 0,
-                      "language": null,
-                      "license": null,
-                      "topics": [],
-                      "updated": null,
-                      "pushed": null,
-                      "awesome": false,
-                      "path": [
-                        "Game Boy Development",
-                        "Software Development",
-                        "Compilers",
-                        "Experimental/Proof of Concepts",
-                        "llvm-gbz80 / clang-gbz80"
                       ],
                       "parentId": "root-gaming-game-boy-development-software-development-compilers-experimental-proof-of-concepts"
                     },
@@ -32846,7 +32791,7 @@
                       "kind": "repo",
                       "repo": "zlfn/rust-gb",
                       "url": "https://github.com/zlfn/rust-gb",
-                      "description": "A compiler and library that enable the development of GB ROMs using Rust.",
+                      "description": "A toolchain and SDK that enable the development of GB ROMs using Rust.",
                       "external": false,
                       "sourceRepo": "gbdev/awesome-gbdev",
                       "depth": 4,
@@ -33023,7 +32968,7 @@
                   "kind": "repo",
                   "repo": "binji/binjgb",
                   "url": "https://github.com/binji/binjgb",
-                  "description": "5Kloc emulator that passes most of the tests. Rewind- feature. Runs in the browser using WebAssembly.",
+                  "description": "5Kloc emulator that passes most of the tests. Rewind feature. Runs in the browser using WebAssembly.",
                   "external": false,
                   "sourceRepo": "gbdev/awesome-gbdev",
                   "depth": 3,
@@ -33961,6 +33906,34 @@
                         "Superfamiconv"
                       ],
                       "parentId": "root-gaming-game-boy-development-software-development-tools-graphics-utilities"
+                    },
+                    {
+                      "id": "root-gaming-game-boy-development-software-development-tools-graphics-utilities-tessarium",
+                      "title": "Tessarium ‡",
+                      "kind": "topic",
+                      "repo": "",
+                      "url": "",
+                      "description": "Tile-first pixel art level editor with linked tile editing, shared tilesets, and live unique tile and colours-per-tile budget checks for Game Boy and Game Boy Color backgrounds.",
+                      "external": false,
+                      "sourceRepo": "gbdev/awesome-gbdev",
+                      "depth": 4,
+                      "children": [],
+                      "stars": 0,
+                      "forks": 0,
+                      "language": null,
+                      "license": null,
+                      "topics": [],
+                      "updated": null,
+                      "pushed": null,
+                      "awesome": false,
+                      "path": [
+                        "Game Boy Development",
+                        "Software Development",
+                        "Tools",
+                        "Graphics utilities",
+                        "Tessarium ‡"
+                      ],
+                      "parentId": "root-gaming-game-boy-development-software-development-tools-graphics-utilities"
                     }
                   ],
                   "stars": 0,
@@ -34633,33 +34606,6 @@
                   "parentId": "root-gaming-game-boy-development-programming-asm"
                 },
                 {
-                  "id": "root-gaming-game-boy-development-programming-asm-flappyboy-making-a-simple-game-boy-game",
-                  "title": "FlappyBoy: Making a simple Game Boy Game",
-                  "kind": "link",
-                  "repo": "",
-                  "url": "http://voidptr.io/blog/2017/01/21/GameBoy.html",
-                  "description": "",
-                  "external": true,
-                  "sourceRepo": "gbdev/awesome-gbdev",
-                  "depth": 3,
-                  "children": [],
-                  "stars": 0,
-                  "forks": 0,
-                  "language": null,
-                  "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
-                  "awesome": false,
-                  "path": [
-                    "Game Boy Development",
-                    "Programming",
-                    "ASM",
-                    "FlappyBoy: Making a simple Game Boy Game"
-                  ],
-                  "parentId": "root-gaming-game-boy-development-programming-asm"
-                },
-                {
                   "id": "root-gaming-game-boy-development-programming-asm-super-game-boy-development",
                   "title": "Super Game Boy development",
                   "kind": "link",
@@ -35219,11 +35165,11 @@
                     {
                       "id": "root-gaming-game-boy-development-programming-asm-boilerplates-and-libraries-gb-vwf",
                       "title": "gb-vwf",
-                      "kind": "repo",
-                      "repo": "issotm/gb-vwf",
-                      "url": "https://github.com/issotm/gb-vwf",
+                      "kind": "link",
+                      "repo": "",
+                      "url": "https://codeberg.org/ISSOtm/gb-vwf",
                       "description": "Library to print variable-width text, comes with a demo.",
-                      "external": false,
+                      "external": true,
                       "sourceRepo": "gbdev/awesome-gbdev",
                       "depth": 4,
                       "children": [],
@@ -35247,11 +35193,11 @@
                     {
                       "id": "root-gaming-game-boy-development-programming-asm-boilerplates-and-libraries-gb-boilerplate",
                       "title": "gb-boilerplate",
-                      "kind": "repo",
-                      "repo": "issotm/gb-boilerplate",
-                      "url": "https://github.com/issotm/gb-boilerplate",
+                      "kind": "link",
+                      "repo": "",
+                      "url": "https://codeberg.org/ISSOtm/gb-boilerplate",
                       "description": "A template for starting Game Boy projects, providing a Makefile for infrastructure.",
-                      "external": false,
+                      "external": true,
                       "sourceRepo": "gbdev/awesome-gbdev",
                       "depth": 4,
                       "children": [],
@@ -35275,11 +35221,11 @@
                     {
                       "id": "root-gaming-game-boy-development-programming-asm-boilerplates-and-libraries-gb-starter-kit",
                       "title": "gb-starter-kit",
-                      "kind": "repo",
-                      "repo": "issotm/gb-starter-kit",
-                      "url": "https://github.com/issotm/gb-starter-kit",
+                      "kind": "link",
+                      "repo": "",
+                      "url": "https://codeberg.org/ISSOtm/gb-starter-kit",
                       "description": "An expansion on the above, including base library code as well to get started faster.",
-                      "external": false,
+                      "external": true,
                       "sourceRepo": "gbdev/awesome-gbdev",
                       "depth": 4,
                       "children": [],
@@ -35327,6 +35273,90 @@
                         "gb-template"
                       ],
                       "parentId": "root-gaming-game-boy-development-programming-asm-boilerplates-and-libraries"
+                    },
+                    {
+                      "id": "root-gaming-game-boy-development-programming-asm-boilerplates-and-libraries-rgbds-structs",
+                      "title": "rgbds-structs",
+                      "kind": "link",
+                      "repo": "",
+                      "url": "https://codeberg.org/ISSOtm/rgbds-structs",
+                      "description": "A macro pack that provides struct-like functionality.",
+                      "external": true,
+                      "sourceRepo": "gbdev/awesome-gbdev",
+                      "depth": 4,
+                      "children": [],
+                      "stars": 0,
+                      "forks": 0,
+                      "language": null,
+                      "license": null,
+                      "topics": [],
+                      "updated": null,
+                      "pushed": null,
+                      "awesome": false,
+                      "path": [
+                        "Game Boy Development",
+                        "Programming",
+                        "ASM",
+                        "Boilerplates and libraries",
+                        "rgbds-structs"
+                      ],
+                      "parentId": "root-gaming-game-boy-development-programming-asm-boilerplates-and-libraries"
+                    },
+                    {
+                      "id": "root-gaming-game-boy-development-programming-asm-boilerplates-and-libraries-rgbds-arrays",
+                      "title": "rgbds-arrays",
+                      "kind": "repo",
+                      "repo": "rangi42/rgbds-arrays",
+                      "url": "https://github.com/rangi42/rgbds-arrays",
+                      "description": "A macro pack that provides array-like functionality.",
+                      "external": false,
+                      "sourceRepo": "gbdev/awesome-gbdev",
+                      "depth": 4,
+                      "children": [],
+                      "stars": 0,
+                      "forks": 0,
+                      "language": null,
+                      "license": null,
+                      "topics": [],
+                      "updated": null,
+                      "pushed": null,
+                      "awesome": false,
+                      "path": [
+                        "Game Boy Development",
+                        "Programming",
+                        "ASM",
+                        "Boilerplates and libraries",
+                        "rgbds-arrays"
+                      ],
+                      "parentId": "root-gaming-game-boy-development-programming-asm-boilerplates-and-libraries"
+                    },
+                    {
+                      "id": "root-gaming-game-boy-development-programming-asm-boilerplates-and-libraries-regex-inc",
+                      "title": "regex.inc",
+                      "kind": "repo",
+                      "repo": "evie-calico/regex.inc",
+                      "url": "https://github.com/evie-calico/regex.inc",
+                      "description": "A regular expression parser in assembly macros.",
+                      "external": false,
+                      "sourceRepo": "gbdev/awesome-gbdev",
+                      "depth": 4,
+                      "children": [],
+                      "stars": 0,
+                      "forks": 0,
+                      "language": null,
+                      "license": null,
+                      "topics": [],
+                      "updated": null,
+                      "pushed": null,
+                      "awesome": false,
+                      "path": [
+                        "Game Boy Development",
+                        "Programming",
+                        "ASM",
+                        "Boilerplates and libraries",
+                        "regex.inc"
+                      ],
+                      "parentId": "root-gaming-game-boy-development-programming-asm-boilerplates-and-libraries"
                     }
                   ],
                   "stars": 0,
@@ -35356,11 +35386,11 @@
                     {
                       "id": "root-gaming-game-boy-development-programming-asm-syntax-highlighting-packages-gbz80-highlight",
                       "title": "gbz80-highlight",
-                      "kind": "repo",
-                      "repo": "issotm/gbz80-highlight",
-                      "url": "https://github.com/issotm/gbz80-highlight",
+                      "kind": "link",
+                      "repo": "",
+                      "url": "https://codeberg.org/ISSOtm/gbz80-highlight",
                       "description": "Notepad+- and gedit syntax highlighting files for RGBDS assembly.",
-                      "external": false,
+                      "external": true,
                       "sourceRepo": "gbdev/awesome-gbdev",
                       "depth": 4,
                       "children": [],
@@ -35861,33 +35891,6 @@
                   "parentId": "root-gaming-game-boy-development-programming-c"
                 },
                 {
-                  "id": "root-gaming-game-boy-development-programming-c-simplified-gbdk-examples",
-                  "title": "Simplified GBDK examples",
-                  "kind": "repo",
-                  "repo": "mrombout/gbdk_playground",
-                  "url": "https://github.com/mrombout/gbdk_playground",
-                  "description": "",
-                  "external": false,
-                  "sourceRepo": "gbdev/awesome-gbdev",
-                  "depth": 3,
-                  "children": [],
-                  "stars": 0,
-                  "forks": 0,
-                  "language": null,
-                  "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
-                  "awesome": false,
-                  "path": [
-                    "Game Boy Development",
-                    "Programming",
-                    "C",
-                    "Simplified GBDK examples"
-                  ],
-                  "parentId": "root-gaming-game-boy-development-programming-c"
-                },
-                {
                   "id": "root-gaming-game-boy-development-programming-c-gbdk-programming-video-tutorials",
                   "title": "GBDK Programming Video Tutorials",
                   "kind": "link",
@@ -35954,6 +35957,111 @@
                 "Game Boy Development",
                 "Programming",
                 "C"
+              ],
+              "parentId": "root-gaming-game-boy-development-programming"
+            },
+            {
+              "id": "root-gaming-game-boy-development-programming-blog-posts",
+              "title": "Blog posts",
+              "kind": "section",
+              "sourceRepo": "gbdev/awesome-gbdev",
+              "depth": 2,
+              "url": "https://github.com/gbdev/awesome-gbdev#blog-posts",
+              "children": [
+                {
+                  "id": "root-gaming-game-boy-development-programming-blog-posts-dots-for-gbc",
+                  "title": "DOTs for GBC",
+                  "kind": "link",
+                  "repo": "",
+                  "url": "https://www.gmiller.net/2019/04/dots-for-gameboy-color/",
+                  "description": "Making of a Game Boy Color port of the Dots game in C with GBDK, from code to a physical cartridge with box art. Includes the source code and a one-hour development commentary video.",
+                  "external": true,
+                  "sourceRepo": "gbdev/awesome-gbdev",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Game Boy Development",
+                    "Programming",
+                    "Blog posts",
+                    "DOTs for GBC"
+                  ],
+                  "parentId": "root-gaming-game-boy-development-programming-blog-posts"
+                },
+                {
+                  "id": "root-gaming-game-boy-development-programming-blog-posts-flappyboy-making-a-simple-game-boy-game",
+                  "title": "FlappyBoy: Making a simple Game Boy Game",
+                  "kind": "link",
+                  "repo": "",
+                  "url": "http://voidptr.io/blog/2017/01/21/GameBoy.html",
+                  "description": "",
+                  "external": true,
+                  "sourceRepo": "gbdev/awesome-gbdev",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Game Boy Development",
+                    "Programming",
+                    "Blog posts",
+                    "FlappyBoy: Making a simple Game Boy Game"
+                  ],
+                  "parentId": "root-gaming-game-boy-development-programming-blog-posts"
+                },
+                {
+                  "id": "root-gaming-game-boy-development-programming-blog-posts-making-a-game-boy-game-in-2017-a-sheep-it-up-post-mortem-part-1-part-2",
+                  "title": "Making a Game Boy game in 2017: A \"Sheep It Up!\" Post-Mortem (part 1, part 2)",
+                  "kind": "topic",
+                  "repo": "",
+                  "url": "",
+                  "description": "",
+                  "external": false,
+                  "sourceRepo": "gbdev/awesome-gbdev",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Game Boy Development",
+                    "Programming",
+                    "Blog posts",
+                    "Making a Game Boy game in 2017: A \"Sheep It Up!\" Post-Mortem (part 1, part 2)"
+                  ],
+                  "parentId": "root-gaming-game-boy-development-programming-blog-posts"
+                }
+              ],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Game Boy Development",
+                "Programming",
+                "Blog posts"
               ],
               "parentId": "root-gaming-game-boy-development-programming"
             }
@@ -36395,11 +36503,11 @@
                 {
                   "id": "root-gaming-game-boy-development-homebrews-asm-aevilia",
                   "title": "Aevilia",
-                  "kind": "repo",
-                  "repo": "issotm/aevilia-gb",
-                  "url": "https://github.com/issotm/aevilia-gb",
+                  "kind": "link",
+                  "repo": "",
+                  "url": "https://codeberg.org/ISSOtm/Aevilia-GB",
                   "description": "",
-                  "external": false,
+                  "external": true,
                   "sourceRepo": "gbdev/awesome-gbdev",
                   "depth": 3,
                   "children": [],
@@ -37232,7 +37340,7 @@
                   "kind": "repo",
                   "repo": "donaldhays/bubblefactory",
                   "url": "https://github.com/donaldhays/bubblefactory",
-                  "description": "Vanilla- SDCC (no gbdk).",
+                  "description": "Vanilla SDCC (no gbdk).",
                   "external": false,
                   "sourceRepo": "gbdev/awesome-gbdev",
                   "depth": 3,
@@ -38144,7 +38252,7 @@
                   "kind": "repo",
                   "repo": "liji32/gbvideoplayer2",
                   "url": "https://github.com/liji32/gbvideoplayer2",
-                  "description": "The second iteration of the above demo, which increases the resolution, adds stereo- PCM audio, and introduces video compression.",
+                  "description": "The second iteration of the above demo, which increases the resolution, adds stereo PCM audio, and introduces video compression.",
                   "external": false,
                   "sourceRepo": "gbdev/awesome-gbdev",
                   "depth": 3,
@@ -38162,6 +38270,33 @@
                     "Homebrews",
                     "Demos",
                     "GBVideoPlayer2"
+                  ],
+                  "parentId": "root-gaming-game-boy-development-homebrews-demos"
+                },
+                {
+                  "id": "root-gaming-game-boy-development-homebrews-demos-game-boy-demospotting",
+                  "title": "Game Boy Demospotting",
+                  "kind": "link",
+                  "repo": "",
+                  "url": "https://privat.bahnhof.se/wb800787/gb/",
+                  "description": "An archive of Game Boy software demos made from 1996 to 2020.",
+                  "external": true,
+                  "sourceRepo": "gbdev/awesome-gbdev",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Game Boy Development",
+                    "Homebrews",
+                    "Demos",
+                    "Game Boy Demospotting"
                   ],
                   "parentId": "root-gaming-game-boy-development-homebrews-demos"
                 }
@@ -38357,6 +38492,32 @@
                 "Game Boy Development",
                 "Reverse Engineering",
                 "DMA hijacking"
+              ],
+              "parentId": "root-gaming-game-boy-development-reverse-engineering"
+            },
+            {
+              "id": "root-gaming-game-boy-development-reverse-engineering-super-mario-land-2-memory-exploration",
+              "title": "Super Mario Land 2 - Memory Exploration",
+              "kind": "link",
+              "repo": "",
+              "url": "https://www.youtube.com/watch?v=FPzuYWbnln4",
+              "description": "Video by Retro Game Mechanics Explained on how the game stores levels in memory, and what happens when Mario goes out of bounds.",
+              "external": true,
+              "sourceRepo": "gbdev/awesome-gbdev",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Game Boy Development",
+                "Reverse Engineering",
+                "Super Mario Land 2 - Memory Exploration"
               ],
               "parentId": "root-gaming-game-boy-development-reverse-engineering"
             },
@@ -38826,7 +38987,7 @@
                   "kind": "repo",
                   "repo": "applefreak/esp8266-gameboy-printer",
                   "url": "https://github.com/applefreak/esp8266-gameboy-printer",
-                  "description": "A device that emulates the Gameboy Printer and lets you retrieve images using WiFi powered by an ESP8266.",
+                  "description": "A device that emulates the Game Boy Printer and lets you retrieve images using WiFi, powered by an ESP8266.",
                   "external": false,
                   "sourceRepo": "gbdev/awesome-gbdev",
                   "depth": 3,
@@ -39753,32 +39914,6 @@
               "parentId": "root-gaming-game-boy-development-related-projects"
             },
             {
-              "id": "root-gaming-game-boy-development-related-projects-making-a-game-boy-game-in-2017-a-sheep-it-up-post-mortem-part-1-part-2",
-              "title": "Making a Game Boy game in 2017: A \"Sheep It Up!\" Post-Mortem (part 1, part 2)",
-              "kind": "topic",
-              "repo": "",
-              "url": "",
-              "description": "",
-              "external": false,
-              "sourceRepo": "gbdev/awesome-gbdev",
-              "depth": 2,
-              "children": [],
-              "stars": 0,
-              "forks": 0,
-              "language": null,
-              "license": null,
-              "topics": [],
-              "updated": null,
-              "pushed": null,
-              "awesome": false,
-              "path": [
-                "Game Boy Development",
-                "Related projects",
-                "Making a Game Boy game in 2017: A \"Sheep It Up!\" Post-Mortem (part 1, part 2)"
-              ],
-              "parentId": "root-gaming-game-boy-development-related-projects"
-            },
-            {
               "id": "root-gaming-game-boy-development-related-projects-nintendo-s-fake-logos",
               "title": "Nintendo's fake logos",
               "kind": "link",
@@ -40484,9 +40619,9 @@
           "parentId": "root-gaming-game-boy-development"
         }
       ],
-      "stars": 4525,
-      "forks": 195,
-      "language": null,
+      "stars": 4530,
+      "forks": 207,
+      "language": "JavaScript",
       "license": "GPL-3.0",
       "topics": [
         "assembler",
@@ -40509,8 +40644,8 @@
         "retrogaming",
         "tools"
       ],
-      "updated": "2026-10-10T23:48:36Z",
-      "pushed": "2026-10-03T20:27:22Z",
+      "updated": "2026-10-17T19:23:07Z",
+      "pushed": "2026-10-16T23:32:05Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -45238,12 +45373,12 @@
               "sourceRepo": "stetso/awesome-gideros",
               "depth": 2,
               "children": [],
-              "stars": 4585,
-              "forks": 346,
+              "stars": 4586,
+              "forks": 347,
               "language": null,
               "license": null,
               "topics": [],
-              "updated": "2026-10-09T14:44:57Z",
+              "updated": "2026-10-17T15:27:25Z",
               "pushed": "2024-08-11T17:32:00Z",
               "awesome": true,
               "path": [
@@ -45264,8 +45399,8 @@
               "sourceRepo": "stetso/awesome-gideros",
               "depth": 2,
               "children": [],
-              "stars": 4513,
-              "forks": 247,
+              "stars": 4523,
+              "forks": 255,
               "language": "PowerShell",
               "license": "CC0-1.0",
               "topics": [
@@ -45275,7 +45410,7 @@
                 "love2d",
                 "lua"
               ],
-              "updated": "2026-10-08T13:41:29Z",
+              "updated": "2026-10-17T19:09:59Z",
               "pushed": "2026-09-26T21:02:34Z",
               "awesome": true,
               "path": [
@@ -49678,8 +49813,8 @@
           "parentId": "root-gaming-minecraft"
         }
       ],
-      "stars": 651,
-      "forks": 55,
+      "stars": 653,
+      "forks": 61,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -49687,7 +49822,7 @@
         "awesome-list",
         "minecraft"
       ],
-      "updated": "2026-10-10T23:34:46Z",
+      "updated": "2026-10-17T23:22:50Z",
       "pushed": "2025-08-23T13:16:01Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -53457,12 +53592,12 @@
                   "sourceRepo": "tomodachi94/awesome-computercraft",
                   "depth": 3,
                   "children": [],
-                  "stars": 4585,
-                  "forks": 346,
+                  "stars": 4586,
+                  "forks": 347,
                   "language": null,
                   "license": null,
                   "topics": [],
-                  "updated": "2026-10-09T14:44:57Z",
+                  "updated": "2026-10-17T15:27:25Z",
                   "pushed": "2024-08-11T17:32:00Z",
                   "awesome": true,
                   "path": [
@@ -53765,7 +53900,7 @@
           "parentId": "root-gaming-computercraft"
         }
       ],
-      "stars": 320,
+      "stars": 321,
       "forks": 17,
       "language": "Just",
       "license": "CC-BY-SA-4.0",
@@ -53776,7 +53911,7 @@
         "computercraft-tweaked",
         "minecraft"
       ],
-      "updated": "2026-10-07T19:25:11Z",
+      "updated": "2026-10-16T15:39:52Z",
       "pushed": "2026-10-01T15:39:06Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -53797,7 +53932,7 @@
       "depth": 1,
       "children": [],
       "stars": 1134,
-      "forks": 92,
+      "forks": 94,
       "language": null,
       "license": "CC-BY-4.0",
       "topics": [
@@ -53811,8 +53946,8 @@
         "game",
         "games"
       ],
-      "updated": "2026-10-11T00:59:13Z",
-      "pushed": "2026-10-11T00:59:09Z",
+      "updated": "2026-10-17T17:43:44Z",
+      "pushed": "2026-10-17T17:43:40Z",
       "awesome": false,
       "path": [
         "Game Datasets"
@@ -54627,7 +54762,7 @@
           "parentId": "root-gaming-haxe-game-development"
         }
       ],
-      "stars": 423,
+      "stars": 421,
       "forks": 19,
       "language": "Haxe",
       "license": "CC0-1.0",
@@ -54645,7 +54780,7 @@
         "list",
         "resources"
       ],
-      "updated": "2026-09-21T18:01:40Z",
+      "updated": "2026-10-15T10:25:46Z",
       "pushed": "2023-11-17T21:20:29Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -57291,12 +57426,12 @@
               "sourceRepo": "rafaskb/awesome-libgdx",
               "depth": 2,
               "children": [],
-              "stars": 1188,
-              "forks": 53,
+              "stars": 1189,
+              "forks": 54,
               "language": null,
               "license": "MIT",
               "topics": [],
-              "updated": "2026-10-07T08:06:52Z",
+              "updated": "2026-10-12T18:39:04Z",
               "pushed": "2024-05-09T00:58:26Z",
               "awesome": true,
               "path": [
@@ -57317,15 +57452,15 @@
               "sourceRepo": "rafaskb/awesome-libgdx",
               "depth": 2,
               "children": [],
-              "stars": 49221,
-              "forks": 7739,
+              "stars": 49289,
+              "forks": 7737,
               "language": null,
               "license": "CC-BY-SA-4.0",
               "topics": [
                 "awesome",
                 "awesome-list"
               ],
-              "updated": "2026-10-11T03:38:58Z",
+              "updated": "2026-10-18T06:41:02Z",
               "pushed": "2026-09-23T10:50:49Z",
               "awesome": true,
               "path": [
@@ -57424,8 +57559,8 @@
               "sourceRepo": "rafaskb/awesome-libgdx",
               "depth": 2,
               "children": [],
-              "stars": 3176,
-              "forks": 213,
+              "stars": 3185,
+              "forks": 221,
               "language": null,
               "license": "CC-BY-SA-4.0",
               "topics": [
@@ -57435,7 +57570,7 @@
                 "game-development",
                 "game-programming"
               ],
-              "updated": "2026-10-11T07:53:08Z",
+              "updated": "2026-10-18T04:14:00Z",
               "pushed": "2026-08-25T18:12:52Z",
               "awesome": true,
               "path": [
@@ -57461,7 +57596,7 @@
           "parentId": "root-gaming-libgdx"
         }
       ],
-      "stars": 1277,
+      "stars": 1276,
       "forks": 83,
       "language": null,
       "license": "CC0-1.0",
@@ -57470,7 +57605,7 @@
         "awesome-list",
         "libgdx"
       ],
-      "updated": "2026-10-10T14:06:03Z",
+      "updated": "2026-10-13T02:28:27Z",
       "pushed": "2024-12-03T21:43:58Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -63858,7 +63993,7 @@
           "parentId": "root-gaming-playcanvas"
         }
       ],
-      "stars": 492,
+      "stars": 493,
       "forks": 63,
       "language": null,
       "license": "CC0-1.0",
@@ -63868,8 +64003,8 @@
         "playcanvas",
         "webgl"
       ],
-      "updated": "2026-10-03T08:52:39Z",
-      "pushed": "2026-09-15T10:37:45Z",
+      "updated": "2026-10-15T13:48:35Z",
+      "pushed": "2026-10-17T12:39:13Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -64936,6 +65071,32 @@
           "url": "https://github.com/radek-sprta/awesome-game-remakes#adventure",
           "children": [
             {
+              "id": "root-gaming-game-remakes-adventure-cyrus",
+              "title": "cyrus",
+              "kind": "repo",
+              "repo": "michidk/cyrus",
+              "url": "https://github.com/michidk/cyrus",
+              "description": "Reimplementation of The Elder Scrolls Adventures: Redguard in Rust and Bevy. Early development; requires the original GOG game data.",
+              "external": false,
+              "sourceRepo": "radek-sprta/awesome-game-remakes",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Game Remakes",
+                "Adventure",
+                "cyrus"
+              ],
+              "parentId": "root-gaming-game-remakes-adventure"
+            },
+            {
               "id": "root-gaming-game-remakes-adventure-detectiveds",
               "title": "DetectiveDS",
               "kind": "repo",
@@ -65451,6 +65612,58 @@
                 "Game Remakes",
                 "Arcade",
                 "Crimsonland"
+              ],
+              "parentId": "root-gaming-game-remakes-arcade"
+            },
+            {
+              "id": "root-gaming-game-remakes-arcade-fshockey",
+              "title": "FsHockey",
+              "kind": "repo",
+              "repo": "thorium/fshockey",
+              "url": "https://github.com/thorium/fshockey",
+              "description": "Retro ice hockey game in F# inspired by The Solar Hockey League (DOS); WinForms, MonoGame and browser versions. :flowerplayingcards:",
+              "external": false,
+              "sourceRepo": "radek-sprta/awesome-game-remakes",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Game Remakes",
+                "Arcade",
+                "FsHockey"
+              ],
+              "parentId": "root-gaming-game-remakes-arcade"
+            },
+            {
+              "id": "root-gaming-game-remakes-arcade-fsrocket",
+              "title": "FsRocket",
+              "kind": "repo",
+              "repo": "thorium/fsrocket",
+              "url": "https://github.com/thorium/fsrocket",
+              "description": "1-4 player split-screen cave-flyer in F# modelled on AUTS (1995), with an AUTS level reader. :flowerplayingcards:",
+              "external": false,
+              "sourceRepo": "radek-sprta/awesome-game-remakes",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Game Remakes",
+                "Arcade",
+                "FsRocket"
               ],
               "parentId": "root-gaming-game-remakes-arcade"
             },
@@ -66150,6 +66363,32 @@
                 "Game Remakes",
                 "FPS",
                 "BStone"
+              ],
+              "parentId": "root-gaming-game-remakes-fps"
+            },
+            {
+              "id": "root-gaming-game-remakes-fps-can-it-run-minecraft",
+              "title": "Can It Run Minecraft",
+              "kind": "repo",
+              "repo": "pragyaangaur/can-it-run-minecraft",
+              "url": "https://github.com/pragyaangaur/can-it-run-minecraft",
+              "description": "Minecraft's first version (rd-132211) rebuilt as one freestanding C file that runs in a terminal, in a browser, inside a PDF and on a bare 486 PC. :flowerplayingcards:",
+              "external": false,
+              "sourceRepo": "radek-sprta/awesome-game-remakes",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Game Remakes",
+                "FPS",
+                "Can It Run Minecraft"
               ],
               "parentId": "root-gaming-game-remakes-fps"
             },
@@ -69242,6 +69481,32 @@
               "parentId": "root-gaming-game-remakes-rpg"
             },
             {
+              "id": "root-gaming-game-remakes-rpg-dragon-ball-z-super-saiya-densetsu",
+              "title": "Dragon Ball Z: Super Saiya Densetsu",
+              "kind": "repo",
+              "repo": "jackrushante/dbz-super-saiya-densetsu-rust",
+              "url": "https://github.com/jackrushante/dbz-super-saiya-densetsu-rust",
+              "description": "Rust rewrite and static recomp of the SNES card RPG, with an optional HD remaster mode.",
+              "external": false,
+              "sourceRepo": "radek-sprta/awesome-game-remakes",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Game Remakes",
+                "RPG",
+                "Dragon Ball Z: Super Saiya Densetsu"
+              ],
+              "parentId": "root-gaming-game-remakes-rpg"
+            },
+            {
               "id": "root-gaming-game-remakes-rpg-earthbound-companion",
               "title": "Earthbound Companion",
               "kind": "repo",
@@ -70145,6 +70410,32 @@
                 "Game Remakes",
                 "Platformer",
                 "Conker's Bad Fur Day Reloaded"
+              ],
+              "parentId": "root-gaming-game-remakes-platformer"
+            },
+            {
+              "id": "root-gaming-game-remakes-platformer-fslemming",
+              "title": "FsLemming",
+              "kind": "repo",
+              "repo": "thorium/fslemming",
+              "url": "https://github.com/thorium/fslemming",
+              "description": "Lemmings clone in F# compiled to JavaScript with Fable, playable in the browser. :flowerplayingcards:",
+              "external": false,
+              "sourceRepo": "radek-sprta/awesome-game-remakes",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Game Remakes",
+                "Platformer",
+                "FsLemming"
               ],
               "parentId": "root-gaming-game-remakes-platformer"
             },
@@ -75641,8 +75932,8 @@
           "parentId": "root-gaming-game-remakes"
         }
       ],
-      "stars": 1502,
-      "forks": 73,
+      "stars": 1528,
+      "forks": 79,
       "language": null,
       "license": "CC-BY-SA-4.0",
       "topics": [
@@ -75653,8 +75944,8 @@
         "games",
         "remake"
       ],
-      "updated": "2026-10-11T05:41:35Z",
-      "pushed": "2026-10-09T13:26:18Z",
+      "updated": "2026-10-18T05:51:15Z",
+      "pushed": "2026-10-18T05:51:11Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -77635,6 +77926,34 @@
                         "Oh Dash!"
                       ],
                       "parentId": "root-gaming-flame-projects-app-releases-arcade"
+                    },
+                    {
+                      "id": "root-gaming-flame-projects-app-releases-arcade-taco-rain",
+                      "title": "Taco Rain",
+                      "kind": "topic",
+                      "repo": "",
+                      "url": "",
+                      "description": "Android, iOS - A family catching game: steer a basket to catch falling tacos and dodge the bombs, across 50 levels in five worlds, with a daily challenge and an endless mode. By Illumination Development",
+                      "external": false,
+                      "sourceRepo": "flame-engine/awesome-flame",
+                      "depth": 4,
+                      "children": [],
+                      "stars": 0,
+                      "forks": 0,
+                      "language": null,
+                      "license": null,
+                      "topics": [],
+                      "updated": null,
+                      "pushed": null,
+                      "awesome": false,
+                      "path": [
+                        "Flame",
+                        "Projects",
+                        "App Releases",
+                        "Arcade",
+                        "Taco Rain"
+                      ],
+                      "parentId": "root-gaming-flame-projects-app-releases-arcade"
                     }
                   ],
                   "stars": 0,
@@ -78268,6 +78587,34 @@
                         "App Releases",
                         "Casual",
                         "Upverse: Endless Jump"
+                      ],
+                      "parentId": "root-gaming-flame-projects-app-releases-casual"
+                    },
+                    {
+                      "id": "root-gaming-flame-projects-app-releases-casual-pimbli-super-adventures",
+                      "title": "Pimbli: Super Adventures",
+                      "kind": "topic",
+                      "repo": "",
+                      "url": "",
+                      "description": "Android - Run, jump and explore four worlds with Pimbli, a little hero on a big journey. By xeinebiu",
+                      "external": false,
+                      "sourceRepo": "flame-engine/awesome-flame",
+                      "depth": 4,
+                      "children": [],
+                      "stars": 0,
+                      "forks": 0,
+                      "language": null,
+                      "license": null,
+                      "topics": [],
+                      "updated": null,
+                      "pushed": null,
+                      "awesome": false,
+                      "path": [
+                        "Flame",
+                        "Projects",
+                        "App Releases",
+                        "Casual",
+                        "Pimbli: Super Adventures"
                       ],
                       "parentId": "root-gaming-flame-projects-app-releases-casual"
                     }
@@ -79284,8 +79631,8 @@
               "sourceRepo": "flame-engine/awesome-flame",
               "depth": 2,
               "children": [],
-              "stars": 1387,
-              "forks": 116,
+              "stars": 1389,
+              "forks": 117,
               "language": null,
               "license": "CC0-1.0",
               "topics": [
@@ -79298,8 +79645,8 @@
                 "lists",
                 "resources"
               ],
-              "updated": "2026-10-09T12:19:23Z",
-              "pushed": "2026-10-04T13:42:32Z",
+              "updated": "2026-10-17T11:35:35Z",
+              "pushed": "2026-10-17T11:35:30Z",
               "awesome": true,
               "path": [
                 "Flame",
@@ -79319,8 +79666,8 @@
               "sourceRepo": "flame-engine/awesome-flame",
               "depth": 2,
               "children": [],
-              "stars": 1387,
-              "forks": 116,
+              "stars": 1389,
+              "forks": 117,
               "language": null,
               "license": "CC0-1.0",
               "topics": [
@@ -79333,8 +79680,8 @@
                 "lists",
                 "resources"
               ],
-              "updated": "2026-10-09T12:19:23Z",
-              "pushed": "2026-10-04T13:42:32Z",
+              "updated": "2026-10-17T11:35:35Z",
+              "pushed": "2026-10-17T11:35:30Z",
               "awesome": true,
               "path": [
                 "Flame",
@@ -79359,8 +79706,8 @@
           "parentId": "root-gaming-flame"
         }
       ],
-      "stars": 1387,
-      "forks": 116,
+      "stars": 1389,
+      "forks": 117,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -79373,8 +79720,8 @@
         "lists",
         "resources"
       ],
-      "updated": "2026-10-09T12:19:23Z",
-      "pushed": "2026-10-04T13:42:32Z",
+      "updated": "2026-10-17T11:35:35Z",
+      "pushed": "2026-10-17T11:35:30Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -81397,8 +81744,8 @@
           "parentId": "root-gaming-discord-communities"
         }
       ],
-      "stars": 3618,
-      "forks": 215,
+      "stars": 3621,
+      "forks": 219,
       "language": "Python",
       "license": "CC-BY-4.0",
       "topics": [
@@ -81411,7 +81758,7 @@
         "game-development",
         "web"
       ],
-      "updated": "2026-10-10T09:27:32Z",
+      "updated": "2026-10-17T12:03:37Z",
       "pushed": "2026-04-25T19:09:39Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -81658,7 +82005,7 @@
           "parentId": "root-gaming-chip-8"
         }
       ],
-      "stars": 253,
+      "stars": 252,
       "forks": 12,
       "language": null,
       "license": "CC0-1.0",
@@ -81674,7 +82021,7 @@
         "octo",
         "retrocomputing"
       ],
-      "updated": "2026-10-10T17:10:27Z",
+      "updated": "2026-10-14T05:50:57Z",
       "pushed": "2022-12-26T18:09:12Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -82993,8 +83340,8 @@
           "parentId": "root-gaming-games-of-coding"
         }
       ],
-      "stars": 2162,
-      "forks": 108,
+      "stars": 2169,
+      "forks": 115,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -83005,7 +83352,7 @@
         "programming-language",
         "robocode"
       ],
-      "updated": "2026-10-10T14:42:05Z",
+      "updated": "2026-10-15T04:11:57Z",
       "pushed": "2026-09-23T16:17:08Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -83950,6 +84297,32 @@
               "parentId": "root-gaming-esports-applications-and-tools"
             },
             {
+              "id": "root-gaming-esports-applications-and-tools-teamtavern",
+              "title": "TeamTavern",
+              "kind": "repo",
+              "repo": "bklaric/team-tavern",
+              "url": "https://github.com/bklaric/team-tavern",
+              "description": "A website for finding players, groups and communities to play with.",
+              "external": false,
+              "sourceRepo": "strift/awesome-esports",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Esports",
+                "Applications & Tools",
+                "TeamTavern"
+              ],
+              "parentId": "root-gaming-esports-applications-and-tools"
+            },
+            {
               "id": "root-gaming-esports-applications-and-tools-boltobserv",
               "title": "Boltobserv",
               "kind": "repo",
@@ -84153,8 +84526,8 @@
         "awesome-list",
         "esports"
       ],
-      "updated": "2026-09-25T14:23:59Z",
-      "pushed": "2025-06-10T12:03:15Z",
+      "updated": "2026-10-15T03:24:29Z",
+      "pushed": "2026-10-15T03:24:24Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -120293,8 +120666,8 @@
           "parentId": "root-gaming-game-engine-development"
         }
       ],
-      "stars": 1426,
-      "forks": 110,
+      "stars": 1431,
+      "forks": 111,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -120316,7 +120689,7 @@
         "shaders",
         "tools"
       ],
-      "updated": "2026-10-10T19:32:13Z",
+      "updated": "2026-10-16T20:42:02Z",
       "pushed": "2026-08-17T18:26:37Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -123191,6 +123564,32 @@
                 "GameMaker",
                 "Utilities",
                 "Tweeny"
+              ],
+              "parentId": "root-gaming-gamemaker-utilities"
+            },
+            {
+              "id": "root-gaming-gamemaker-utilities-gmsmartagent",
+              "title": "GMSmartAgent",
+              "kind": "repo",
+              "repo": "erkan612/gmsmartagent",
+              "url": "https://github.com/erkan612/gmsmartagent",
+              "description": "Decision-weighting AI for GameMaker. Utility scoring with response curves, per-target options, commitment, a frame-budget scheduler with priority tiers, and agents that learn from player choices: habit and preference models, re-ranking and prediction. Pure GML.",
+              "external": false,
+              "sourceRepo": "bytecauldron/awesome-gamemaker",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "GameMaker",
+                "Utilities",
+                "GMSmartAgent"
               ],
               "parentId": "root-gaming-gamemaker-utilities"
             }
@@ -130726,7 +131125,7 @@
         }
       ],
       "stars": 509,
-      "forks": 35,
+      "forks": 36,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -130739,8 +131138,8 @@
         "gamemaker-studio-2",
         "games"
       ],
-      "updated": "2026-10-06T23:33:26Z",
-      "pushed": "2026-09-20T19:20:57Z",
+      "updated": "2026-10-16T21:54:11Z",
+      "pushed": "2026-10-13T18:29:10Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -133528,7 +133927,7 @@
           "parentId": "root-gaming-game-production"
         }
       ],
-      "stars": 227,
+      "stars": 230,
       "forks": 9,
       "language": null,
       "license": "CC0-1.0",
@@ -133540,7 +133939,7 @@
         "production",
         "project-management"
       ],
-      "updated": "2026-10-08T21:46:43Z",
+      "updated": "2026-10-17T19:13:04Z",
       "pushed": "2026-05-04T10:46:17Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -141726,7 +142125,7 @@
           "parentId": "root-gaming-babylon-js"
         }
       ],
-      "stars": 359,
+      "stars": 357,
       "forks": 26,
       "language": null,
       "license": "CC0-1.0",
@@ -141738,7 +142137,7 @@
         "webgl",
         "webgpu"
       ],
-      "updated": "2026-10-08T12:35:55Z",
+      "updated": "2026-10-16T08:48:50Z",
       "pushed": "2026-10-08T12:35:50Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -144240,7 +144639,7 @@
         "luau",
         "roblox"
       ],
-      "updated": "2026-10-08T01:10:04Z",
+      "updated": "2026-10-12T21:41:20Z",
       "pushed": "2026-06-23T00:32:39Z",
       "awesome": true,
       "readmeStatus": "expanded",

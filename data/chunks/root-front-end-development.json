@@ -7838,12 +7838,12 @@
               "sourceRepo": "davidsonfellipe/awesome-wpo",
               "depth": 2,
               "children": [],
-              "stars": 959,
+              "stars": 957,
               "forks": 23,
               "language": null,
               "license": null,
               "topics": [],
-              "updated": "2026-08-15T22:09:14Z",
+              "updated": "2026-10-11T16:32:24Z",
               "pushed": "2021-07-23T08:15:07Z",
               "awesome": true,
               "path": [
@@ -7895,8 +7895,8 @@
           "parentId": "root-front-end-development-web-performance-optimization"
         }
       ],
-      "stars": 9117,
-      "forks": 602,
+      "stars": 9127,
+      "forks": 614,
       "language": null,
       "license": "MIT",
       "topics": [
@@ -7907,8 +7907,8 @@
         "webperf-metrics",
         "webperformance"
       ],
-      "updated": "2026-10-10T21:35:51Z",
-      "pushed": "2026-07-28T02:18:16Z",
+      "updated": "2026-10-17T19:05:11Z",
+      "pushed": "2026-10-16T03:50:58Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -9605,8 +9605,8 @@
               "parentId": "root-front-end-development-css-frameworks"
             }
           ],
-          "stars": 9540,
-          "forks": 498,
+          "stars": 9544,
+          "forks": 502,
           "language": "CSS",
           "license": null,
           "topics": [
@@ -9619,7 +9619,7 @@
             "list",
             "scss"
           ],
-          "updated": "2026-10-09T13:50:13Z",
+          "updated": "2026-10-18T02:47:43Z",
           "pushed": "2026-06-08T20:32:07Z",
           "awesome": true,
           "readmeStatus": "expanded",
@@ -10784,8 +10784,8 @@
           "parentId": "root-front-end-development-css"
         }
       ],
-      "stars": 5639,
-      "forks": 457,
+      "stars": 5640,
+      "forks": 458,
       "language": null,
       "license": "CC-BY-SA-4.0",
       "topics": [
@@ -10794,7 +10794,7 @@
         "css",
         "list"
       ],
-      "updated": "2026-10-07T13:33:49Z",
+      "updated": "2026-10-16T01:00:02Z",
       "pushed": "2024-10-30T07:00:24Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -14787,8 +14787,8 @@
               "parentId": "root-front-end-development-react-react-hooks"
             }
           ],
-          "stars": 1227,
-          "forks": 87,
+          "stars": 1228,
+          "forks": 88,
           "language": null,
           "license": "CC0-1.0",
           "topics": [
@@ -14798,7 +14798,7 @@
             "react",
             "react-hooks"
           ],
-          "updated": "2026-10-04T08:03:24Z",
+          "updated": "2026-10-16T20:54:15Z",
           "pushed": "2024-03-16T18:57:43Z",
           "awesome": true,
           "readmeStatus": "expanded",
@@ -17097,8 +17097,8 @@
                   "sourceRepo": "enaqx/awesome-react",
                   "depth": 4,
                   "children": [],
-                  "stars": 48585,
-                  "forks": 3855,
+                  "stars": 48670,
+                  "forks": 3867,
                   "language": null,
                   "license": "CC0-1.0",
                   "topics": [
@@ -17108,7 +17108,7 @@
                     "react-component",
                     "react-components"
                   ],
-                  "updated": "2026-10-11T07:24:01Z",
+                  "updated": "2026-10-18T05:00:45Z",
                   "pushed": "2026-01-26T16:36:45Z",
                   "awesome": true,
                   "path": [
@@ -19481,8 +19481,8 @@
           "parentId": "root-front-end-development-react"
         }
       ],
-      "stars": 74850,
-      "forks": 7671,
+      "stars": 74935,
+      "forks": 7672,
       "language": null,
       "license": null,
       "topics": [
@@ -19497,7 +19497,7 @@
         "tutorial",
         "typescript"
       ],
-      "updated": "2026-10-11T07:47:40Z",
+      "updated": "2026-10-18T06:03:46Z",
       "pushed": "2026-09-04T01:13:20Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -24159,6 +24159,33 @@
                   "parentId": "root-front-end-development-web-components-real-world-component-libraries"
                 },
                 {
+                  "id": "root-front-end-development-web-components-real-world-component-libraries-awc-ui",
+                  "title": "AWC UI",
+                  "kind": "repo",
+                  "repo": "awc-ui/core",
+                  "url": "https://github.com/awc-ui/core",
+                  "description": "Material Design 3 component library built with Stencil and shipped as custom elements.",
+                  "external": false,
+                  "sourceRepo": "web-padawan/awesome-web-components",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Web Components",
+                    "Real World",
+                    "Component Libraries",
+                    "AWC UI"
+                  ],
+                  "parentId": "root-front-end-development-web-components-real-world-component-libraries"
+                },
+                {
                   "id": "root-front-end-development-web-components-real-world-component-libraries-blackstone-ui",
                   "title": "Blackstone UI",
                   "kind": "repo",
@@ -24479,6 +24506,33 @@
                     "Real World",
                     "Component Libraries",
                     "Fusion Web Components"
+                  ],
+                  "parentId": "root-front-end-development-web-components-real-world-component-libraries"
+                },
+                {
+                  "id": "root-front-end-development-web-components-real-world-component-libraries-iconoven",
+                  "title": "IconOven",
+                  "kind": "link",
+                  "repo": "",
+                  "url": "https://www.npmjs.com/package/@iconoven/web-component",
+                  "description": "85,000+ UI Icons as a Web Component on One 24 px Grid, Free in the Stroke Style Under MIT.",
+                  "external": true,
+                  "sourceRepo": "web-padawan/awesome-web-components",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Web Components",
+                    "Real World",
+                    "Component Libraries",
+                    "IconOven"
                   ],
                   "parentId": "root-front-end-development-web-components-real-world-component-libraries"
                 },
@@ -25276,7 +25330,7 @@
                   "sourceRepo": "web-padawan/awesome-web-components",
                   "depth": 3,
                   "children": [],
-                  "stars": 1361,
+                  "stars": 1369,
                   "forks": 203,
                   "language": "TypeScript",
                   "license": "MIT",
@@ -25285,8 +25339,8 @@
                     "opensource",
                     "webcomponents"
                   ],
-                  "updated": "2026-10-10T07:38:51Z",
-                  "pushed": "2026-10-07T16:48:17Z",
+                  "updated": "2026-10-17T19:06:24Z",
+                  "pushed": "2026-10-16T16:15:37Z",
                   "awesome": true,
                   "path": [
                     "Web Components",
@@ -34765,8 +34819,8 @@
           "parentId": "root-front-end-development-web-components"
         }
       ],
-      "stars": 3598,
-      "forks": 206,
+      "stars": 3602,
+      "forks": 215,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -34777,8 +34831,8 @@
         "web-components",
         "webcomponents"
       ],
-      "updated": "2026-10-11T00:32:30Z",
-      "pushed": "2026-10-09T16:04:06Z",
+      "updated": "2026-10-17T20:44:57Z",
+      "pushed": "2026-10-15T08:40:49Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -37900,8 +37954,8 @@
           "parentId": "root-front-end-development-angular"
         }
       ],
-      "stars": 10082,
-      "forks": 1429,
+      "stars": 10088,
+      "forks": 1476,
       "language": "HTML",
       "license": "CC0-1.0",
       "topics": [
@@ -37915,8 +37969,8 @@
         "awesome",
         "awesome-list"
       ],
-      "updated": "2026-10-11T01:40:24Z",
-      "pushed": "2026-10-10T16:51:06Z",
+      "updated": "2026-10-17T23:52:27Z",
+      "pushed": "2026-10-17T23:52:22Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -42682,8 +42736,8 @@
           "parentId": "root-front-end-development-html5"
         }
       ],
-      "stars": 2810,
-      "forks": 259,
+      "stars": 2811,
+      "forks": 260,
       "language": null,
       "license": "MIT",
       "topics": [
@@ -42691,7 +42745,7 @@
         "awesome-list",
         "list"
       ],
-      "updated": "2026-10-08T18:59:57Z",
+      "updated": "2026-10-12T18:37:08Z",
       "pushed": "2023-09-26T08:12:13Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -42756,15 +42810,15 @@
           "parentId": "root-front-end-development-svg"
         }
       ],
-      "stars": 4653,
-      "forks": 412,
+      "stars": 4656,
+      "forks": 420,
       "language": "Shell",
       "license": null,
       "topics": [
         "awesome-list",
         "svg"
       ],
-      "updated": "2026-10-11T04:55:59Z",
+      "updated": "2026-10-17T22:44:51Z",
       "pushed": "2026-07-16T16:17:42Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -44974,7 +45028,7 @@
         }
       ],
       "stars": 1866,
-      "forks": 183,
+      "forks": 191,
       "language": "Markdown",
       "license": "MIT",
       "topics": [
@@ -44988,7 +45042,7 @@
         "javascript",
         "particles"
       ],
-      "updated": "2026-10-10T16:32:00Z",
+      "updated": "2026-10-14T19:07:38Z",
       "pushed": "2026-06-14T09:29:51Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -73210,8 +73264,8 @@
           "parentId": "root-front-end-development-android-ui"
         }
       ],
-      "stars": 57892,
-      "forks": 10249,
+      "stars": 58005,
+      "forks": 10250,
       "language": null,
       "license": "MIT",
       "topics": [
@@ -73219,7 +73273,7 @@
         "awesome",
         "ui"
       ],
-      "updated": "2026-10-11T08:18:23Z",
+      "updated": "2026-10-18T06:47:13Z",
       "pushed": "2026-06-05T05:39:52Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -73239,12 +73293,12 @@
       "sourceRepo": "sindresorhus/awesome",
       "depth": 1,
       "children": [],
-      "stars": 11217,
-      "forks": 1324,
+      "stars": 11220,
+      "forks": 1326,
       "language": null,
       "license": null,
       "topics": [],
-      "updated": "2026-10-09T19:26:00Z",
+      "updated": "2026-10-17T17:37:49Z",
       "pushed": "2018-03-08T08:57:40Z",
       "awesome": true,
       "readmeStatus": "empty",
@@ -78961,7 +79015,7 @@
         }
       ],
       "stars": 1409,
-      "forks": 150,
+      "forks": 149,
       "language": null,
       "license": "MIT",
       "topics": [],
@@ -79487,7 +79541,7 @@
           "parentId": "root-front-end-development-flexbox"
         }
       ],
-      "stars": 1267,
+      "stars": 1264,
       "forks": 119,
       "language": null,
       "license": "MIT",
@@ -79503,7 +79557,7 @@
         "hacktoberfest2022",
         "w3c-specification"
       ],
-      "updated": "2026-10-08T19:19:26Z",
+      "updated": "2026-10-17T18:08:48Z",
       "pushed": "2023-09-07T11:46:40Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -79570,8 +79624,8 @@
           "parentId": "root-front-end-development-web-accessibility"
         }
       ],
-      "stars": 1993,
-      "forks": 249,
+      "stars": 1996,
+      "forks": 264,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -79583,7 +79637,7 @@
         "wai-aria",
         "wcag"
       ],
-      "updated": "2026-10-10T20:12:00Z",
+      "updated": "2026-10-17T09:49:41Z",
       "pushed": "2026-08-03T22:10:04Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -83082,7 +83136,7 @@
           "parentId": "root-front-end-development-d3"
         }
       ],
-      "stars": 5323,
+      "stars": 5326,
       "forks": 311,
       "language": null,
       "license": "NOASSERTION",
@@ -83093,7 +83147,7 @@
         "javascript",
         "maps"
       ],
-      "updated": "2026-10-10T03:45:29Z",
+      "updated": "2026-10-17T16:55:41Z",
       "pushed": "2023-01-13T16:10:34Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -87191,8 +87245,8 @@
           "parentId": "root-front-end-development-emails"
         }
       ],
-      "stars": 2757,
-      "forks": 265,
+      "stars": 2762,
+      "forks": 267,
       "language": null,
       "license": null,
       "topics": [
@@ -87207,7 +87261,7 @@
         "jdion",
         "responsive-email"
       ],
-      "updated": "2026-10-10T05:21:42Z",
+      "updated": "2026-10-17T02:46:08Z",
       "pushed": "2024-10-03T21:09:35Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -87869,7 +87923,7 @@
         }
       ],
       "stars": 980,
-      "forks": 139,
+      "forks": 141,
       "language": null,
       "license": null,
       "topics": [
@@ -91018,8 +91072,8 @@
           "parentId": "root-front-end-development-web-audio"
         }
       ],
-      "stars": 1399,
-      "forks": 150,
+      "stars": 1403,
+      "forks": 156,
       "language": null,
       "license": null,
       "topics": [
@@ -91030,7 +91084,7 @@
         "midi",
         "webaudio"
       ],
-      "updated": "2026-10-08T18:26:37Z",
+      "updated": "2026-10-17T11:31:47Z",
       "pushed": "2026-06-05T01:54:36Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -91063,7 +91117,7 @@
         "service-worker",
         "serviceworkers"
       ],
-      "updated": "2026-10-08T18:05:22Z",
+      "updated": "2026-10-15T22:51:10Z",
       "pushed": "2022-11-23T17:08:40Z",
       "awesome": false,
       "path": [
@@ -95593,7 +95647,7 @@
         }
       ],
       "stars": 1993,
-      "forks": 188,
+      "forks": 196,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -95601,7 +95655,7 @@
         "awesome-list",
         "list"
       ],
-      "updated": "2026-10-08T19:08:21Z",
+      "updated": "2026-10-12T15:15:57Z",
       "pushed": "2026-04-20T16:35:39Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -96417,7 +96471,7 @@
         }
       ],
       "stars": 822,
-      "forks": 69,
+      "forks": 70,
       "language": null,
       "license": null,
       "topics": [],
@@ -96531,7 +96585,7 @@
         }
       ],
       "stars": 302,
-      "forks": 19,
+      "forks": 20,
       "language": null,
       "license": null,
       "topics": [],
@@ -100551,8 +100605,8 @@
                   "sourceRepo": "vuejs/awesome-vue",
                   "depth": 3,
                   "children": [],
-                  "stars": 17263,
-                  "forks": 1339,
+                  "stars": 17270,
+                  "forks": 1380,
                   "language": "JavaScript",
                   "license": "MIT",
                   "topics": [
@@ -100561,7 +100615,7 @@
                     "vite",
                     "vitejs"
                   ],
-                  "updated": "2026-10-11T02:47:04Z",
+                  "updated": "2026-10-18T06:38:36Z",
                   "pushed": "2026-02-04T13:10:54Z",
                   "awesome": true,
                   "path": [
@@ -133684,11 +133738,11 @@
         }
       ],
       "stars": 73514,
-      "forks": 9463,
+      "forks": 9465,
       "language": null,
       "license": "MIT",
       "topics": [],
-      "updated": "2026-10-11T07:07:52Z",
+      "updated": "2026-10-18T02:48:53Z",
       "pushed": "2026-10-01T19:32:18Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -136955,7 +137009,7 @@
         }
       ],
       "stars": 310,
-      "forks": 36,
+      "forks": 37,
       "language": null,
       "license": null,
       "topics": [
@@ -137747,8 +137801,8 @@
               "sourceRepo": "candelibas/awesome-ionic",
               "depth": 2,
               "children": [],
-              "stars": 638,
-              "forks": 58,
+              "stars": 639,
+              "forks": 59,
               "language": "HTML",
               "license": "CC0-1.0",
               "topics": [
@@ -137758,7 +137812,7 @@
                 "capacitor-plugin",
                 "ionic"
               ],
-              "updated": "2026-10-11T01:29:38Z",
+              "updated": "2026-10-12T13:27:29Z",
               "pushed": "2026-10-11T01:30:03Z",
               "awesome": true,
               "path": [
@@ -137780,6 +137834,159 @@
           "path": [
             "Ionic Framework",
             "Capacitor"
+          ],
+          "parentId": "root-front-end-development-ionic-framework"
+        },
+        {
+          "id": "root-front-end-development-ionic-framework-ai-coding-agents",
+          "title": "AI Coding Agents",
+          "kind": "section",
+          "sourceRepo": "candelibas/awesome-ionic",
+          "depth": 1,
+          "url": "https://github.com/candelibas/awesome-ionic#ai-coding-agents",
+          "children": [
+            {
+              "id": "root-front-end-development-ionic-framework-ai-coding-agents-capgo-skills",
+              "title": "Capgo Skills",
+              "kind": "repo",
+              "repo": "cap-go/capgo-skills",
+              "url": "https://github.com/cap-go/capgo-skills",
+              "description": "55 open-source agent skills for Capacitor: plugins, Capacitor 9 and Xcode 27 upgrades, debugging, testing, live updates. Install with npx skills add Cap-go/capgo-skills.",
+              "external": false,
+              "sourceRepo": "candelibas/awesome-ionic",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Ionic Framework",
+                "AI Coding Agents",
+                "Capgo Skills"
+              ],
+              "parentId": "root-front-end-development-ionic-framework-ai-coding-agents"
+            },
+            {
+              "id": "root-front-end-development-ionic-framework-ai-coding-agents-capgo-mcp-server",
+              "title": "Capgo MCP server",
+              "kind": "link",
+              "repo": "",
+              "url": "https://capgo.app/docs/ai/mcp/",
+              "description": "Hosted MCP server at https://api.capgo.app/mcp to manage apps, bundles, channels, rollouts, and native builds from an agent.",
+              "external": true,
+              "sourceRepo": "candelibas/awesome-ionic",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Ionic Framework",
+                "AI Coding Agents",
+                "Capgo MCP server"
+              ],
+              "parentId": "root-front-end-development-ionic-framework-ai-coding-agents"
+            },
+            {
+              "id": "root-front-end-development-ionic-framework-ai-coding-agents-capgo-cursor-plugin",
+              "title": "Capgo Cursor plugin",
+              "kind": "repo",
+              "repo": "cap-go/cursor-capgo-plugin",
+              "url": "https://github.com/cap-go/cursor-capgo-plugin",
+              "description": "Cursor plugin with Capacitor rules, Capgo CLI skills, and MCP servers to ship, live-update, and roll back apps.",
+              "external": false,
+              "sourceRepo": "candelibas/awesome-ionic",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Ionic Framework",
+                "AI Coding Agents",
+                "Capgo Cursor plugin"
+              ],
+              "parentId": "root-front-end-development-ionic-framework-ai-coding-agents"
+            },
+            {
+              "id": "root-front-end-development-ionic-framework-ai-coding-agents-capgo-ai-agent-setup",
+              "title": "Capgo AI agent setup",
+              "kind": "link",
+              "repo": "",
+              "url": "https://capgo.app/agents/",
+              "description": "Guides to build, publish, live-update, and roll back Capacitor apps from Claude Code, Codex, Cursor, Copilot, and Gemini CLI.",
+              "external": true,
+              "sourceRepo": "candelibas/awesome-ionic",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Ionic Framework",
+                "AI Coding Agents",
+                "Capgo AI agent setup"
+              ],
+              "parentId": "root-front-end-development-ionic-framework-ai-coding-agents"
+            },
+            {
+              "id": "root-front-end-development-ionic-framework-ai-coding-agents-best-ai-tools-for-capacitor",
+              "title": "Best AI tools for Capacitor",
+              "kind": "link",
+              "repo": "",
+              "url": "https://capgo.app/best/ai-tools-for-capacitor/",
+              "description": "Comparison of AI coding agents, skills, and MCP servers for building Capacitor apps.",
+              "external": true,
+              "sourceRepo": "candelibas/awesome-ionic",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Ionic Framework",
+                "AI Coding Agents",
+                "Best AI tools for Capacitor"
+              ],
+              "parentId": "root-front-end-development-ionic-framework-ai-coding-agents"
+            }
+          ],
+          "stars": 0,
+          "forks": 0,
+          "language": null,
+          "license": null,
+          "topics": [],
+          "updated": null,
+          "pushed": null,
+          "awesome": false,
+          "path": [
+            "Ionic Framework",
+            "AI Coding Agents"
           ],
           "parentId": "root-front-end-development-ionic-framework"
         },
@@ -143634,32 +143841,6 @@
                 "Ionic Framework",
                 "Tools",
                 "Capstart"
-              ],
-              "parentId": "root-front-end-development-ionic-framework-tools"
-            },
-            {
-              "id": "root-front-end-development-ionic-framework-tools-capgo-skills",
-              "title": "Capgo Skills",
-              "kind": "repo",
-              "repo": "cap-go/capgo-skills",
-              "url": "https://github.com/cap-go/capgo-skills",
-              "description": "55 open-source agent skills for Capacitor: plugins, Capacitor 9 and Xcode 27 upgrades, debugging, testing, live updates. Works with Claude Code, Cursor, Codex, and Gemini CLI.",
-              "external": false,
-              "sourceRepo": "candelibas/awesome-ionic",
-              "depth": 2,
-              "children": [],
-              "stars": 0,
-              "forks": 0,
-              "language": null,
-              "license": null,
-              "topics": [],
-              "updated": null,
-              "pushed": null,
-              "awesome": false,
-              "path": [
-                "Ionic Framework",
-                "Tools",
-                "Capgo Skills"
               ],
               "parentId": "root-front-end-development-ionic-framework-tools"
             },
@@ -150301,15 +150482,15 @@
           "parentId": "root-front-end-development-chrome-devtools"
         }
       ],
-      "stars": 7158,
-      "forks": 450,
+      "stars": 7165,
+      "forks": 453,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
         "awesome",
         "awesome-list"
       ],
-      "updated": "2026-10-09T17:48:27Z",
+      "updated": "2026-10-17T20:12:48Z",
       "pushed": "2026-10-06T23:24:39Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -152644,7 +152825,7 @@
       "language": null,
       "license": "CC0-1.0",
       "topics": [],
-      "updated": "2026-09-24T20:19:25Z",
+      "updated": "2026-10-17T21:23:03Z",
       "pushed": "2019-06-07T18:59:21Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -152789,7 +152970,7 @@
               "language": null,
               "license": "CC0-1.0",
               "topics": [],
-              "updated": "2026-09-24T20:19:25Z",
+              "updated": "2026-10-17T21:23:03Z",
               "pushed": "2019-06-07T18:59:21Z",
               "awesome": true,
               "path": [
@@ -153432,7 +153613,7 @@
                   "language": null,
                   "license": "CC0-1.0",
                   "topics": [],
-                  "updated": "2026-09-24T20:19:25Z",
+                  "updated": "2026-10-17T21:23:03Z",
                   "pushed": "2019-06-07T18:59:21Z",
                   "awesome": true,
                   "path": [
@@ -167183,12 +167364,12 @@
           "parentId": "root-front-end-development-ant-design"
         }
       ],
-      "stars": 3301,
+      "stars": 3300,
       "forks": 216,
       "language": null,
       "license": "NOASSERTION",
       "topics": [],
-      "updated": "2026-10-10T18:07:16Z",
+      "updated": "2026-10-17T12:39:31Z",
       "pushed": "2025-07-29T08:15:52Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -172825,8 +173006,8 @@
           "parentId": "root-front-end-development-webgl"
         }
       ],
-      "stars": 1541,
-      "forks": 112,
+      "stars": 1543,
+      "forks": 113,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -172842,7 +173023,7 @@
         "webgl-spec-sheet",
         "webgl-tutorials"
       ],
-      "updated": "2026-10-08T19:16:32Z",
+      "updated": "2026-10-12T18:37:23Z",
       "pushed": "2026-04-02T03:35:40Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -177145,7 +177326,7 @@
           "parentId": "root-front-end-development-preact"
         }
       ],
-      "stars": 1006,
+      "stars": 1008,
       "forks": 88,
       "language": null,
       "license": null,
@@ -177156,7 +177337,7 @@
         "preact",
         "resources"
       ],
-      "updated": "2026-10-08T21:02:15Z",
+      "updated": "2026-10-14T10:42:13Z",
       "pushed": "2026-10-08T21:02:10Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -179902,6 +180083,32 @@
                 "A11y Starter Kit"
               ],
               "parentId": "root-front-end-development-next-js-boilerplates"
+            },
+            {
+              "id": "root-front-end-development-next-js-boilerplates-genpm-kits",
+              "title": "GenPM Kits",
+              "kind": "link",
+              "repo": "",
+              "url": "https://genpm.net",
+              "description": "Next.js kits (store, blog, CMS, landing, dropshipping) installed as source code you own, with Stripe, Drizzle and auth wired in and rules for your AI agent.",
+              "external": true,
+              "sourceRepo": "unicodeveloper/awesome-nextjs",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Next.js",
+                "Boilerplates",
+                "GenPM Kits"
+              ],
+              "parentId": "root-front-end-development-next-js-boilerplates"
             }
           ],
           "stars": 0,
@@ -181146,6 +181353,32 @@
               "parentId": "root-front-end-development-next-js-apps"
             },
             {
+              "id": "root-front-end-development-next-js-apps-looot-network",
+              "title": "Looot Network",
+              "kind": "repo",
+              "repo": "loootai/looot-network",
+              "url": "https://github.com/loootai/looot-network",
+              "description": "Open source alternative to Happenstance: search your own LinkedIn, Google Contacts or CSV network in plain language. Built with Next.js 16 and Supabase, MIT, with a demo mode; optional paid enrichment needs a looot API key.",
+              "external": false,
+              "sourceRepo": "unicodeveloper/awesome-nextjs",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Next.js",
+                "Apps",
+                "Looot Network"
+              ],
+              "parentId": "root-front-end-development-next-js-apps"
+            },
+            {
               "id": "root-front-end-development-next-js-apps-nextjs-got",
               "title": "NextJS GOT",
               "kind": "repo",
@@ -182078,6 +182311,32 @@
                 "Next.js",
                 "Apps",
                 "Taskade"
+              ],
+              "parentId": "root-front-end-development-next-js-apps"
+            },
+            {
+              "id": "root-front-end-development-next-js-apps-vizz-fm",
+              "title": "Vizz.fm",
+              "kind": "link",
+              "repo": "",
+              "url": "https://vizz.fm",
+              "description": "Browser-based music visualizer built with Next.js, Three.js, and the Web Audio API.",
+              "external": true,
+              "sourceRepo": "unicodeveloper/awesome-nextjs",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Next.js",
+                "Apps",
+                "Vizz.fm"
               ],
               "parentId": "root-front-end-development-next-js-apps"
             }
@@ -183226,8 +183485,8 @@
           "parentId": "root-front-end-development-next-js"
         }
       ],
-      "stars": 11102,
-      "forks": 1200,
+      "stars": 11106,
+      "forks": 1222,
       "language": null,
       "license": null,
       "topics": [
@@ -183242,8 +183501,8 @@
         "tutorials",
         "universal"
       ],
-      "updated": "2026-10-10T19:33:32Z",
-      "pushed": "2026-10-10T19:33:21Z",
+      "updated": "2026-10-18T05:01:19Z",
+      "pushed": "2026-10-15T13:43:28Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -183830,6 +184089,32 @@
                 "lit",
                 "Starter Templates",
                 "Lit Sass TypeScript Starter"
+              ],
+              "parentId": "root-front-end-development-lit-starter-templates"
+            },
+            {
+              "id": "root-front-end-development-lit-starter-templates-lit-starter-kit",
+              "title": "Lit Starter Kit",
+              "kind": "repo",
+              "repo": "break-stuff/lit-starter-kit",
+              "url": "https://github.com/break-stuff/lit-starter-kit",
+              "description": "Batteries-included starter for Lit component libraries with Storybook, testing, and framework integrations.",
+              "external": false,
+              "sourceRepo": "web-padawan/awesome-lit",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "lit",
+                "Starter Templates",
+                "Lit Starter Kit"
               ],
               "parentId": "root-front-end-development-lit-starter-templates"
             },
@@ -186010,7 +186295,7 @@
               "sourceRepo": "web-padawan/awesome-lit",
               "depth": 2,
               "children": [],
-              "stars": 1361,
+              "stars": 1369,
               "forks": 203,
               "language": "TypeScript",
               "license": "MIT",
@@ -186019,8 +186304,8 @@
                 "opensource",
                 "webcomponents"
               ],
-              "updated": "2026-10-10T07:38:51Z",
-              "pushed": "2026-10-07T16:48:17Z",
+              "updated": "2026-10-17T19:06:24Z",
+              "pushed": "2026-10-16T16:15:37Z",
               "awesome": true,
               "path": [
                 "lit",
@@ -187679,6 +187964,33 @@
                   "parentId": "root-front-end-development-lit-tools-other-tools"
                 },
                 {
+                  "id": "root-front-end-development-lit-tools-other-tools-lit-inspector",
+                  "title": "Lit Inspector",
+                  "kind": "link",
+                  "repo": "",
+                  "url": "https://chromewebstore.google.com/detail/lit-inspector/faojnglflincboehhgkjgehnapjgiieh",
+                  "description": "Chrome DevTools extension for inspecting Lit components: component tree, reactive properties, update counts, and a lifecycle timeline.",
+                  "external": true,
+                  "sourceRepo": "web-padawan/awesome-lit",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "lit",
+                    "Tools",
+                    "Other Tools",
+                    "Lit Inspector"
+                  ],
+                  "parentId": "root-front-end-development-lit-tools-other-tools"
+                },
+                {
                   "id": "root-front-end-development-lit-tools-other-tools-storybook-for-web-components",
                   "title": "Storybook for web-components",
                   "kind": "link",
@@ -188889,7 +189201,7 @@
         }
       ],
       "stars": 1736,
-      "forks": 108,
+      "forks": 111,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -188897,8 +189209,8 @@
         "awesome-list",
         "lit-html"
       ],
-      "updated": "2026-10-10T20:55:09Z",
-      "pushed": "2026-10-09T10:28:14Z",
+      "updated": "2026-10-12T08:26:28Z",
+      "pushed": "2026-10-12T08:26:21Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -194092,8 +194404,8 @@
           "parentId": "root-front-end-development-jamstack"
         }
       ],
-      "stars": 1371,
-      "forks": 196,
+      "stars": 1372,
+      "forks": 200,
       "language": null,
       "license": null,
       "topics": [
@@ -194104,7 +194416,7 @@
         "static-site",
         "static-site-generator"
       ],
-      "updated": "2026-10-09T11:50:10Z",
+      "updated": "2026-10-14T10:42:25Z",
       "pushed": "2026-08-17T09:12:20Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -196496,7 +196808,7 @@
           "parentId": "root-front-end-development-wordpress-gatsby"
         }
       ],
-      "stars": 284,
+      "stars": 285,
       "forks": 32,
       "language": null,
       "license": "CC0-1.0",
@@ -196508,7 +196820,7 @@
         "wordpress",
         "wpgraphql"
       ],
-      "updated": "2026-10-07T12:50:42Z",
+      "updated": "2026-10-11T22:10:49Z",
       "pushed": "2021-05-02T09:02:29Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -197444,7 +197756,7 @@
                 "service-worker",
                 "serviceworkers"
               ],
-              "updated": "2026-10-08T18:05:22Z",
+              "updated": "2026-10-15T22:51:10Z",
               "pushed": "2022-11-23T17:08:40Z",
               "awesome": true,
               "path": [
@@ -199272,8 +199584,8 @@
           "parentId": "root-front-end-development-mobile-web-development"
         }
       ],
-      "stars": 1291,
-      "forks": 66,
+      "stars": 1293,
+      "forks": 67,
       "language": null,
       "license": null,
       "topics": [
@@ -199283,7 +199595,7 @@
         "mobile-web",
         "web-performance"
       ],
-      "updated": "2026-10-08T18:29:20Z",
+      "updated": "2026-10-15T17:55:37Z",
       "pushed": "2023-12-15T10:23:46Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -200534,8 +200846,8 @@
           "parentId": "root-front-end-development-storybook"
         }
       ],
-      "stars": 422,
-      "forks": 30,
+      "stars": 423,
+      "forks": 31,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -200543,8 +200855,8 @@
         "awesome-list",
         "storybook"
       ],
-      "updated": "2026-10-09T11:41:15Z",
-      "pushed": "2026-10-09T11:41:10Z",
+      "updated": "2026-10-11T20:32:00Z",
+      "pushed": "2026-10-17T11:25:14Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -201835,8 +202147,8 @@
           "parentId": "root-front-end-development-blazor"
         }
       ],
-      "stars": 9379,
-      "forks": 1013,
+      "stars": 9383,
+      "forks": 1015,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -201861,8 +202173,8 @@
         "razor-components",
         "webassembly"
       ],
-      "updated": "2026-10-11T02:05:30Z",
-      "pushed": "2026-10-01T08:44:47Z",
+      "updated": "2026-10-17T19:40:42Z",
+      "pushed": "2026-10-13T19:14:06Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -205133,7 +205445,7 @@
         }
       ],
       "stars": 695,
-      "forks": 27,
+      "forks": 28,
       "language": null,
       "license": "NOASSERTION",
       "topics": [
@@ -207127,8 +207439,8 @@
           "parentId": "root-front-end-development-tailwind-css"
         }
       ],
-      "stars": 15198,
-      "forks": 1029,
+      "stars": 15202,
+      "forks": 1079,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -207142,7 +207454,7 @@
         "tailwindcss",
         "websites"
       ],
-      "updated": "2026-10-11T02:46:55Z",
+      "updated": "2026-10-17T14:43:52Z",
       "pushed": "2026-08-14T14:48:26Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -208257,7 +208569,7 @@
         }
       ],
       "stars": 231,
-      "forks": 22,
+      "forks": 26,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -210234,7 +210546,7 @@
         }
       ],
       "stars": 131,
-      "forks": 16,
+      "forks": 15,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -213550,7 +213862,7 @@
           "parentId": "root-front-end-development-web-animation"
         }
       ],
-      "stars": 1588,
+      "stars": 1592,
       "forks": 90,
       "language": "JavaScript",
       "license": "CC0-1.0",
@@ -213563,7 +213875,7 @@
         "transitions",
         "web-animation"
       ],
-      "updated": "2026-10-08T19:14:42Z",
+      "updated": "2026-10-18T02:10:23Z",
       "pushed": "2026-09-20T16:58:09Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -219121,12 +219433,12 @@
               "sourceRepo": "jetli/awesome-yew",
               "depth": 2,
               "children": [],
-              "stars": 668,
+              "stars": 667,
               "forks": 48,
               "language": null,
               "license": "NOASSERTION",
               "topics": [],
-              "updated": "2026-10-10T05:00:30Z",
+              "updated": "2026-10-12T04:21:08Z",
               "pushed": "2023-08-31T07:48:04Z",
               "awesome": true,
               "path": [
@@ -219147,8 +219459,8 @@
               "sourceRepo": "jetli/awesome-yew",
               "depth": 2,
               "children": [],
-              "stars": 9648,
-              "forks": 603,
+              "stars": 9649,
+              "forks": 608,
               "language": null,
               "license": "CC0-1.0",
               "topics": [
@@ -219162,7 +219474,7 @@
                 "wasm",
                 "webassembly"
               ],
-              "updated": "2026-10-10T14:07:03Z",
+              "updated": "2026-10-17T14:48:03Z",
               "pushed": "2026-10-09T05:19:38Z",
               "awesome": true,
               "path": [
@@ -219183,16 +219495,16 @@
               "sourceRepo": "jetli/awesome-yew",
               "depth": 2,
               "children": [],
-              "stars": 59768,
-              "forks": 3665,
+              "stars": 59934,
+              "forks": 3688,
               "language": "Rust",
               "license": "CC0-1.0",
               "topics": [
                 "awesome",
                 "rust"
               ],
-              "updated": "2026-10-11T07:29:05Z",
-              "pushed": "2026-10-10T21:00:35Z",
+              "updated": "2026-10-18T06:28:10Z",
+              "pushed": "2026-10-17T22:32:49Z",
               "awesome": true,
               "path": [
                 "Yew",
@@ -219218,7 +219530,7 @@
         }
       ],
       "stars": 1616,
-      "forks": 69,
+      "forks": 74,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -223663,8 +223975,8 @@
               "sourceRepo": "componently-com/awesome-building-blocks-for-web-apps",
               "depth": 2,
               "children": [],
-              "stars": 14539,
-              "forks": 1865,
+              "stars": 14542,
+              "forks": 1914,
               "language": null,
               "license": "CC0-1.0",
               "topics": [
@@ -223674,7 +223986,7 @@
                 "microservices",
                 "microservices-architecture"
               ],
-              "updated": "2026-10-10T15:50:22Z",
+              "updated": "2026-10-17T03:37:03Z",
               "pushed": "2026-08-20T15:52:41Z",
               "awesome": true,
               "path": [
@@ -223695,12 +224007,12 @@
               "sourceRepo": "componently-com/awesome-building-blocks-for-web-apps",
               "depth": 2,
               "children": [],
-              "stars": 590,
+              "stars": 589,
               "forks": 52,
               "language": null,
               "license": null,
               "topics": [],
-              "updated": "2026-10-11T01:40:59Z",
+              "updated": "2026-10-15T16:45:24Z",
               "pushed": "2021-11-08T12:31:45Z",
               "awesome": true,
               "path": [
@@ -223727,7 +224039,7 @@
         }
       ],
       "stars": 198,
-      "forks": 13,
+      "forks": 14,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -226267,7 +226579,7 @@
                   "sourceRepo": "thecomputerm/awesome-svelte",
                   "depth": 3,
                   "children": [],
-                  "stars": 508,
+                  "stars": 507,
                   "forks": 25,
                   "language": "TypeScript",
                   "license": "MIT",
@@ -226282,7 +226594,7 @@
                     "svg-icon-component",
                     "svg-icons"
                   ],
-                  "updated": "2026-09-02T17:05:16Z",
+                  "updated": "2026-10-13T19:38:55Z",
                   "pushed": "2025-04-21T06:53:40Z",
                   "awesome": true,
                   "path": [
@@ -230314,8 +230626,8 @@
           "parentId": "root-front-end-development-svelte"
         }
       ],
-      "stars": 2167,
-      "forks": 206,
+      "stars": 2169,
+      "forks": 217,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -230325,7 +230637,7 @@
         "svelte",
         "sveltejs"
       ],
-      "updated": "2026-10-10T14:41:57Z",
+      "updated": "2026-10-17T07:09:21Z",
       "pushed": "2026-09-07T19:38:43Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -233822,8 +234134,8 @@
           "parentId": "root-front-end-development-design-systems"
         }
       ],
-      "stars": 897,
-      "forks": 72,
+      "stars": 903,
+      "forks": 77,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -233845,7 +234157,7 @@
         "reusable-components",
         "storybook"
       ],
-      "updated": "2026-10-10T11:23:11Z",
+      "updated": "2026-10-16T21:20:01Z",
       "pushed": "2026-09-14T07:10:24Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -234697,7 +235009,7 @@
         }
       ],
       "stars": 256,
-      "forks": 24,
+      "forks": 25,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -237489,7 +237801,7 @@
           "parentId": "root-front-end-development-master-css"
         }
       ],
-      "stars": 37,
+      "stars": 38,
       "forks": 0,
       "language": null,
       "license": "CC0-1.0",
@@ -237499,7 +237811,7 @@
         "css",
         "master-css"
       ],
-      "updated": "2026-06-27T11:17:55Z",
+      "updated": "2026-10-12T18:37:48Z",
       "pushed": "2022-12-02T10:38:07Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -241101,7 +241413,7 @@
           "parentId": "root-front-end-development-tiny-js"
         }
       ],
-      "stars": 780,
+      "stars": 778,
       "forks": 13,
       "language": "JavaScript",
       "license": "CC0-1.0",
@@ -241112,7 +241424,7 @@
         "tiny",
         "typescript"
       ],
-      "updated": "2026-10-06T13:20:18Z",
+      "updated": "2026-10-14T22:17:29Z",
       "pushed": "2024-09-24T10:21:03Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -241912,8 +242224,8 @@
                   "sourceRepo": "joewdavies/awesome-frontend-gis",
                   "depth": 3,
                   "children": [],
-                  "stars": 2548,
-                  "forks": 217,
+                  "stars": 2551,
+                  "forks": 225,
                   "language": null,
                   "license": "CC0-1.0",
                   "topics": [
@@ -241922,7 +242234,7 @@
                     "geojson",
                     "list"
                   ],
-                  "updated": "2026-10-10T17:13:43Z",
+                  "updated": "2026-10-13T06:26:44Z",
                   "pushed": "2026-09-23T17:14:52Z",
                   "awesome": true,
                   "path": [
@@ -242910,7 +243222,7 @@
                   "sourceRepo": "joewdavies/awesome-frontend-gis",
                   "depth": 3,
                   "children": [],
-                  "stars": 1187,
+                  "stars": 1190,
                   "forks": 191,
                   "language": "Python",
                   "license": "MIT",
@@ -242936,8 +243248,8 @@
                     "spectral-index",
                     "spectral-indices"
                   ],
-                  "updated": "2026-10-11T04:53:33Z",
-                  "pushed": "2026-10-11T04:53:29Z",
+                  "updated": "2026-10-18T03:45:49Z",
+                  "pushed": "2026-10-18T03:45:45Z",
                   "awesome": true,
                   "path": [
                     "Frontend GIS",
@@ -244565,8 +244877,8 @@
                   "sourceRepo": "joewdavies/awesome-frontend-gis",
                   "depth": 3,
                   "children": [],
-                  "stars": 79422,
-                  "forks": 11866,
+                  "stars": 79584,
+                  "forks": 11893,
                   "language": null,
                   "license": "MIT",
                   "topics": [
@@ -244575,8 +244887,8 @@
                     "datasets",
                     "opendata"
                   ],
-                  "updated": "2026-10-11T07:19:17Z",
-                  "pushed": "2026-10-09T20:09:46Z",
+                  "updated": "2026-10-18T06:54:16Z",
+                  "pushed": "2026-10-14T18:18:24Z",
                   "awesome": true,
                   "path": [
                     "Frontend GIS",
@@ -247187,8 +247499,8 @@
           "parentId": "root-front-end-development-frontend-gis"
         }
       ],
-      "stars": 871,
-      "forks": 71,
+      "stars": 875,
+      "forks": 78,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -247213,7 +247525,7 @@
         "visualization",
         "webgl"
       ],
-      "updated": "2026-10-08T19:35:55Z",
+      "updated": "2026-10-17T04:08:05Z",
       "pushed": "2026-09-29T10:33:17Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -251773,8 +252085,8 @@
           "parentId": "root-front-end-development-webgpu"
         }
       ],
-      "stars": 2002,
-      "forks": 127,
+      "stars": 2006,
+      "forks": 142,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -251787,7 +252099,7 @@
         "webgl",
         "webgpu"
       ],
-      "updated": "2026-10-08T19:07:48Z",
+      "updated": "2026-10-18T06:55:18Z",
       "pushed": "2026-09-10T09:00:23Z",
       "awesome": true,
       "readmeStatus": "expanded",

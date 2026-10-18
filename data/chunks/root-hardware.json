@@ -238,14 +238,14 @@
           "parentId": "root-hardware-robotics"
         }
       ],
-      "stars": 7230,
-      "forks": 1096,
+      "stars": 7243,
+      "forks": 1100,
       "language": null,
       "license": "NOASSERTION",
       "topics": [
         "robotics"
       ],
-      "updated": "2026-10-11T00:54:46Z",
+      "updated": "2026-10-17T07:29:00Z",
       "pushed": "2024-09-22T20:24:10Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -985,33 +985,6 @@
                   "parentId": "root-hardware-internet-of-things-software-operating-systems"
                 },
                 {
-                  "id": "root-hardware-internet-of-things-software-operating-systems-android-things",
-                  "title": "Android Things",
-                  "kind": "link",
-                  "repo": "",
-                  "url": "https://developer.android.com/things/",
-                  "description": "Note: Android Things is depreciated. Android Things extends the Android platform to all your connected devices, so they are easy to set up and work seamlessly with each other and your smartphone.",
-                  "external": true,
-                  "sourceRepo": "hqarroum/awesome-iot",
-                  "depth": 4,
-                  "children": [],
-                  "stars": 0,
-                  "forks": 0,
-                  "language": null,
-                  "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
-                  "awesome": false,
-                  "path": [
-                    "Internet of Things",
-                    "Software",
-                    "Operating systems",
-                    "Android Things"
-                  ],
-                  "parentId": "root-hardware-internet-of-things-software-operating-systems"
-                },
-                {
                   "id": "root-hardware-internet-of-things-software-operating-systems-openwrt",
                   "title": "OpenWrt",
                   "kind": "link",
@@ -1043,7 +1016,7 @@
                   "title": "Snappy Ubuntu",
                   "kind": "link",
                   "repo": "",
-                  "url": "https://wiki.ubuntu.com/Snappy",
+                  "url": "https://ubuntu.com/core",
                   "description": "Snappy Ubuntu Core is a new rendition of Ubuntu with transactional updates. It provides a minimal server image with the same libraries as today’s Ubuntu, but applications are provided through a simpler mechanism.",
                   "external": true,
                   "sourceRepo": "hqarroum/awesome-iot",
@@ -2142,33 +2115,6 @@
                   "parentId": "root-hardware-internet-of-things-software-frameworks"
                 },
                 {
-                  "id": "root-hardware-internet-of-things-software-frameworks-macchina-io",
-                  "title": "Macchina.io",
-                  "kind": "repo",
-                  "repo": "macchina-io/macchina.io",
-                  "url": "https://github.com/macchina-io/macchina.io",
-                  "description": "macchina.io EDGE is a rich software framework for quickly building IoT device applications running on Linux-based devices. macchina.io EDGE implements a web-enabled, secure, modular and extensible JavaScript and C++ runtime environment and provides ready-to-use and industry proven software building blocks. These enable devices to talk to various sensors, other devices and cloud services, and to process, analyze and filter sensor data locally, at the edge device or within the local network.",
-                  "external": false,
-                  "sourceRepo": "hqarroum/awesome-iot",
-                  "depth": 4,
-                  "children": [],
-                  "stars": 0,
-                  "forks": 0,
-                  "language": null,
-                  "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
-                  "awesome": false,
-                  "path": [
-                    "Internet of Things",
-                    "Software",
-                    "Frameworks",
-                    "Macchina.io"
-                  ],
-                  "parentId": "root-hardware-internet-of-things-software-frameworks"
-                },
-                {
                   "id": "root-hardware-internet-of-things-software-frameworks-mihini",
                   "title": "Mihini",
                   "kind": "link",
@@ -2949,33 +2895,6 @@
                   "parentId": "root-hardware-internet-of-things-software-middlewares"
                 },
                 {
-                  "id": "root-hardware-internet-of-things-software-middlewares-devicepilot",
-                  "title": "DevicePilot",
-                  "kind": "link",
-                  "repo": "",
-                  "url": "https://www.devicepilot.com",
-                  "description": "Operational analytics for connected devices (includes free-forever tier).",
-                  "external": true,
-                  "sourceRepo": "hqarroum/awesome-iot",
-                  "depth": 4,
-                  "children": [],
-                  "stars": 0,
-                  "forks": 0,
-                  "language": null,
-                  "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
-                  "awesome": false,
-                  "path": [
-                    "Internet of Things",
-                    "Software",
-                    "Middlewares",
-                    "DevicePilot"
-                  ],
-                  "parentId": "root-hardware-internet-of-things-software-middlewares"
-                },
-                {
                   "id": "root-hardware-internet-of-things-software-middlewares-emqx",
                   "title": "EMQX",
                   "kind": "link",
@@ -3165,33 +3084,6 @@
                   "parentId": "root-hardware-internet-of-things-software-middlewares"
                 },
                 {
-                  "id": "root-hardware-internet-of-things-software-middlewares-zilla",
-                  "title": "Zilla",
-                  "kind": "repo",
-                  "repo": "aklivity/zilla",
-                  "url": "https://github.com/aklivity/zilla",
-                  "description": "A Multi-protocol event-native edge/service proxy that supports standard protocols such as HTTP, SSE, gRPC, MQTT and the native Kafka protocol.",
-                  "external": false,
-                  "sourceRepo": "hqarroum/awesome-iot",
-                  "depth": 4,
-                  "children": [],
-                  "stars": 0,
-                  "forks": 0,
-                  "language": null,
-                  "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
-                  "awesome": false,
-                  "path": [
-                    "Internet of Things",
-                    "Software",
-                    "Middlewares",
-                    "Zilla"
-                  ],
-                  "parentId": "root-hardware-internet-of-things-software-middlewares"
-                },
-                {
                   "id": "root-hardware-internet-of-things-software-middlewares-iot-dc3",
                   "title": "IoT DC3",
                   "kind": "repo",
@@ -3242,6 +3134,33 @@
                     "Software",
                     "Middlewares",
                     "DeviceChain"
+                  ],
+                  "parentId": "root-hardware-internet-of-things-software-middlewares"
+                },
+                {
+                  "id": "root-hardware-internet-of-things-software-middlewares-aimdb",
+                  "title": "AimDB",
+                  "kind": "repo",
+                  "repo": "aimdb-dev/aimdb",
+                  "url": "https://github.com/aimdb-dev/aimdb",
+                  "description": "Data ingestion layer for distributed systems with typed contracts, safe schema evolution and one place to see and manage every node, from microcontroller to cloud. Runs on nostd microcontrollers (Embassy) and Tokio, with MQTT, KNX and serial connectors.",
+                  "external": false,
+                  "sourceRepo": "hqarroum/awesome-iot",
+                  "depth": 4,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Internet of Things",
+                    "Software",
+                    "Middlewares",
+                    "AimDB"
                   ],
                   "parentId": "root-hardware-internet-of-things-software-middlewares"
                 }
@@ -3594,6 +3513,33 @@
                   "parentId": "root-hardware-internet-of-things-software-libraries-and-tools"
                 },
                 {
+                  "id": "root-hardware-internet-of-things-software-libraries-and-tools-mqttable",
+                  "title": "Mqttable",
+                  "kind": "link",
+                  "repo": "",
+                  "url": "https://mqttable.com/",
+                  "description": "Desktop MQTT workbench for traffic inspection, replay, load testing, fault injection, and PCAP analysis.",
+                  "external": true,
+                  "sourceRepo": "hqarroum/awesome-iot",
+                  "depth": 4,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Internet of Things",
+                    "Software",
+                    "Libraries and Tools",
+                    "Mqttable"
+                  ],
+                  "parentId": "root-hardware-internet-of-things-software-libraries-and-tools"
+                },
+                {
                   "id": "root-hardware-internet-of-things-software-libraries-and-tools-ops",
                   "title": "ops",
                   "kind": "link",
@@ -3725,33 +3671,6 @@
                     "Software",
                     "Libraries and Tools",
                     "Chaos Genius"
-                  ],
-                  "parentId": "root-hardware-internet-of-things-software-libraries-and-tools"
-                },
-                {
-                  "id": "root-hardware-internet-of-things-software-libraries-and-tools-explore-iot-libraries",
-                  "title": "Explore IoT Libraries",
-                  "kind": "link",
-                  "repo": "",
-                  "url": "https://kandi.openweaver.com/explore/internet-of-things",
-                  "description": "Discover & find a curated list of popular & new libraries, top authors, trending project kits, discussions, tutorials & learning resources on kandi.",
-                  "external": true,
-                  "sourceRepo": "hqarroum/awesome-iot",
-                  "depth": 4,
-                  "children": [],
-                  "stars": 0,
-                  "forks": 0,
-                  "language": null,
-                  "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
-                  "awesome": false,
-                  "path": [
-                    "Internet of Things",
-                    "Software",
-                    "Libraries and Tools",
-                    "Explore IoT Libraries"
                   ],
                   "parentId": "root-hardware-internet-of-things-software-libraries-and-tools"
                 },
@@ -3938,6 +3857,33 @@
                     "Software",
                     "Miscellaneous",
                     "Electrum"
+                  ],
+                  "parentId": "root-hardware-internet-of-things-software-miscellaneous"
+                },
+                {
+                  "id": "root-hardware-internet-of-things-software-miscellaneous-esp32-iphone-agent",
+                  "title": "ESP32 iPhone Agent",
+                  "kind": "repo",
+                  "repo": "onehumanbeing/esp32-iphone-agent",
+                  "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
+                  "description": "An ESP32-S3 plugged into an iPhone acts as a Wi-Fi-controlled USB mouse and keyboard, so an AI vision model can operate the phone through AirPlay screen mirroring.",
+                  "external": false,
+                  "sourceRepo": "hqarroum/awesome-iot",
+                  "depth": 4,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Internet of Things",
+                    "Software",
+                    "Miscellaneous",
+                    "ESP32 iPhone Agent"
                   ],
                   "parentId": "root-hardware-internet-of-things-software-miscellaneous"
                 },
@@ -4323,7 +4269,7 @@
                 },
                 {
                   "id": "root-hardware-internet-of-things-protocols-and-networks-physical-layer-sigfox-sigfox",
-                  "title": "- Sigfox (Sigfox)",
+                  "title": "Sigfox (Sigfox)",
                   "kind": "section",
                   "sourceRepo": "hqarroum/awesome-iot",
                   "depth": 3,
@@ -4341,7 +4287,7 @@
                     "Internet of Things",
                     "Protocols and Networks",
                     "Physical layer",
-                    "- Sigfox (Sigfox)"
+                    "Sigfox (Sigfox)"
                   ],
                   "parentId": "root-hardware-internet-of-things-protocols-and-networks-physical-layer"
                 },
@@ -4635,7 +4581,7 @@
                 },
                 {
                   "id": "root-hardware-internet-of-things-protocols-and-networks-application-layer-mqtt-ibm",
-                  "title": "- MQTT (IBM)",
+                  "title": "MQTT (IBM)",
                   "kind": "section",
                   "sourceRepo": "hqarroum/awesome-iot",
                   "depth": 3,
@@ -4653,7 +4599,7 @@
                     "Internet of Things",
                     "Protocols and Networks",
                     "Application layer",
-                    "- MQTT (IBM)"
+                    "MQTT (IBM)"
                   ],
                   "parentId": "root-hardware-internet-of-things-protocols-and-networks-application-layer"
                 },
@@ -4707,7 +4653,7 @@
                 },
                 {
                   "id": "root-hardware-internet-of-things-protocols-and-networks-application-layer-websocket",
-                  "title": "- Websocket",
+                  "title": "Websocket",
                   "kind": "section",
                   "sourceRepo": "hqarroum/awesome-iot",
                   "depth": 3,
@@ -4725,7 +4671,7 @@
                     "Internet of Things",
                     "Protocols and Networks",
                     "Application layer",
-                    "- Websocket"
+                    "Websocket"
                   ],
                   "parentId": "root-hardware-internet-of-things-protocols-and-networks-application-layer"
                 },
@@ -4794,7 +4740,7 @@
           "children": [
             {
               "id": "root-hardware-internet-of-things-technologies-nfc",
-              "title": "- NFC",
+              "title": "NFC",
               "kind": "section",
               "sourceRepo": "hqarroum/awesome-iot",
               "depth": 2,
@@ -4812,7 +4758,7 @@
                   "depth": 3,
                   "children": [],
                   "stars": 0,
-                  "forks": 0,
+                  "forks": 1,
                   "language": "HTML",
                   "license": "MIT",
                   "topics": [
@@ -4837,13 +4783,13 @@
                     "web-nfc",
                     "web-nfc-api"
                   ],
-                  "updated": "2026-10-08T09:12:51Z",
-                  "pushed": "2026-10-08T09:12:47Z",
+                  "updated": "2026-10-13T10:03:12Z",
+                  "pushed": "2026-10-13T10:03:09Z",
                   "awesome": true,
                   "path": [
                     "Internet of Things",
                     "Technologies",
-                    "- NFC",
+                    "NFC",
                     "Awesome NFC"
                   ],
                   "parentId": "root-hardware-internet-of-things-technologies-nfc"
@@ -4860,7 +4806,7 @@
               "path": [
                 "Internet of Things",
                 "Technologies",
-                "- NFC"
+                "NFC"
               ],
               "parentId": "root-hardware-internet-of-things-technologies"
             },
@@ -5082,7 +5028,7 @@
                   "title": "AIOTI",
                   "kind": "link",
                   "repo": "",
-                  "url": "http://www.meet-iot.eu/Alliance-for-Internet-of-Things-Innovation-AIOTI.html",
+                  "url": "https://aioti.eu/",
                   "description": "The Internet of Things Innovation (AIOTI) aims to strengthen links and build new relationships between the different IoT players (industries, SMEs, startups) and sectors.",
                   "external": true,
                   "sourceRepo": "hqarroum/awesome-iot",
@@ -5464,30 +5410,6 @@
                   "parentId": "root-hardware-internet-of-things-resources-books"
                 },
                 {
-                  "id": "root-hardware-internet-of-things-resources-books-edge-computing-technology-and-application-2023-by-perry-lea",
-                  "title": "Edge Computing Technology and Application (2023) by Perry Lea",
-                  "kind": "section",
-                  "sourceRepo": "hqarroum/awesome-iot",
-                  "depth": 3,
-                  "url": "https://github.com/hqarroum/awesome-iot#edge-computing-technology-and-application-2023-by-perry-lea",
-                  "children": [],
-                  "stars": 0,
-                  "forks": 0,
-                  "language": null,
-                  "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
-                  "awesome": false,
-                  "path": [
-                    "Internet of Things",
-                    "Resources",
-                    "Books",
-                    "Edge Computing Technology and Application (2023) by Perry Lea"
-                  ],
-                  "parentId": "root-hardware-internet-of-things-resources-books"
-                },
-                {
                   "id": "root-hardware-internet-of-things-resources-books-getting-started-with-bluetooth-low-energy-tools-and-techniques-for-low-power-networking-2014-by-kevin-townsend-carles-cuf-akiba-and-robert-davidson-4-5",
                   "title": "Getting Started with Bluetooth Low Energy: Tools and Techniques for Low-Power Networking (2014) by Kevin Townsend, Carles Cufí, Akiba and Robert Davidson [4.5]",
                   "kind": "section",
@@ -5658,33 +5580,6 @@
                     "Resources",
                     "Articles",
                     "IoT security. Is there an app for that ?"
-                  ],
-                  "parentId": "root-hardware-internet-of-things-resources-articles"
-                },
-                {
-                  "id": "root-hardware-internet-of-things-resources-articles-the-iot-testing-atlas",
-                  "title": "The IoT Testing Atlas",
-                  "kind": "link",
-                  "repo": "",
-                  "url": "http://iamqa.in/2015/10/04/The-IoT-Testing-Atlas/",
-                  "description": "A testing methodology for managing the permutations of parameters while testing an IoT based product.",
-                  "external": true,
-                  "sourceRepo": "hqarroum/awesome-iot",
-                  "depth": 3,
-                  "children": [],
-                  "stars": 0,
-                  "forks": 0,
-                  "language": null,
-                  "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
-                  "awesome": false,
-                  "path": [
-                    "Internet of Things",
-                    "Resources",
-                    "Articles",
-                    "The IoT Testing Atlas"
                   ],
                   "parentId": "root-hardware-internet-of-things-resources-articles"
                 },
@@ -5924,33 +5819,6 @@
                     "Realizing the Potential of the Internet of Things"
                   ],
                   "parentId": "root-hardware-internet-of-things-resources-papers"
-                },
-                {
-                  "id": "root-hardware-internet-of-things-resources-papers-the-internet-of-things-evolution-or-revolution",
-                  "title": "The Internet of Things: Evolution or Revolution ?",
-                  "kind": "link",
-                  "repo": "",
-                  "url": "http://www.aig.com/Chartis/internet/US/en/AIG%20White%20Paper%20-%20IoT%20English%20DIGITAL_tcm3171-677828_tcm3171-698578.pdf",
-                  "description": "This white paper compares the current Internet of Things market rise to other industrial revolutions, the challenges it introduces, as well as its consequences on our daily lives.",
-                  "external": true,
-                  "sourceRepo": "hqarroum/awesome-iot",
-                  "depth": 3,
-                  "children": [],
-                  "stars": 0,
-                  "forks": 0,
-                  "language": null,
-                  "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
-                  "awesome": false,
-                  "path": [
-                    "Internet of Things",
-                    "Resources",
-                    "Papers",
-                    "The Internet of Things: Evolution or Revolution ?"
-                  ],
-                  "parentId": "root-hardware-internet-of-things-resources-papers"
                 }
               ],
               "stars": 0,
@@ -5984,8 +5852,8 @@
           "parentId": "root-hardware-internet-of-things"
         }
       ],
-      "stars": 4523,
-      "forks": 525,
+      "stars": 4528,
+      "forks": 535,
       "language": null,
       "license": "MIT",
       "topics": [
@@ -5997,8 +5865,8 @@
         "internet-of-things",
         "iot"
       ],
-      "updated": "2026-10-10T14:25:24Z",
-      "pushed": "2026-10-06T15:20:59Z",
+      "updated": "2026-10-17T13:37:31Z",
+      "pushed": "2026-10-14T03:42:55Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -8194,8 +8062,8 @@
                   "sourceRepo": "kitspace/awesome-electronics",
                   "depth": 3,
                   "children": [],
-                  "stars": 197,
-                  "forks": 11,
+                  "stars": 201,
+                  "forks": 12,
                   "language": "Python",
                   "license": "CC-BY-4.0",
                   "topics": [
@@ -8208,7 +8076,7 @@
                     "kicad-schematics",
                     "made-with-kicad"
                   ],
-                  "updated": "2026-10-08T21:51:43Z",
+                  "updated": "2026-10-17T21:33:39Z",
                   "pushed": "2026-09-17T13:15:19Z",
                   "awesome": true,
                   "path": [
@@ -10575,7 +10443,7 @@
               "depth": 2,
               "children": [],
               "stars": 400,
-              "forks": 37,
+              "forks": 36,
               "language": null,
               "license": "GPL-3.0",
               "topics": [],
@@ -10626,12 +10494,12 @@
               "sourceRepo": "kitspace/awesome-electronics",
               "depth": 2,
               "children": [],
-              "stars": 1025,
+              "stars": 1030,
               "forks": 119,
               "language": null,
               "license": null,
               "topics": [],
-              "updated": "2026-10-10T23:48:25Z",
+              "updated": "2026-10-17T20:54:10Z",
               "pushed": "2024-01-04T03:35:24Z",
               "awesome": true,
               "path": [
@@ -10742,8 +10610,8 @@
               "sourceRepo": "kitspace/awesome-electronics",
               "depth": 2,
               "children": [],
-              "stars": 1088,
-              "forks": 54,
+              "stars": 1095,
+              "forks": 55,
               "language": null,
               "license": "CC0-1.0",
               "topics": [
@@ -10753,8 +10621,8 @@
                 "open-hardware",
                 "open-source-hardware"
               ],
-              "updated": "2026-10-09T13:11:00Z",
-              "pushed": "2026-08-31T08:28:54Z",
+              "updated": "2026-10-17T14:00:28Z",
+              "pushed": "2026-10-14T09:23:03Z",
               "awesome": true,
               "path": [
                 "Electronics",
@@ -10774,7 +10642,7 @@
               "sourceRepo": "kitspace/awesome-electronics",
               "depth": 2,
               "children": [],
-              "stars": 371,
+              "stars": 373,
               "forks": 67,
               "language": null,
               "license": null,
@@ -10783,7 +10651,7 @@
                 "open-source",
                 "power-electronics"
               ],
-              "updated": "2026-10-11T03:06:13Z",
+              "updated": "2026-10-16T06:02:25Z",
               "pushed": "2026-10-07T11:44:47Z",
               "awesome": true,
               "path": [
@@ -10936,8 +10804,8 @@
           "parentId": "root-hardware-electronics"
         }
       ],
-      "stars": 8208,
-      "forks": 549,
+      "stars": 8241,
+      "forks": 557,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -10950,8 +10818,8 @@
         "kicad",
         "pcb"
       ],
-      "updated": "2026-10-10T23:05:12Z",
-      "pushed": "2026-09-14T08:57:12Z",
+      "updated": "2026-10-18T05:06:44Z",
+      "pushed": "2026-10-12T13:41:09Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -19758,7 +19626,7 @@
               "sourceRepo": "beardicus/awesome-plotters",
               "depth": 2,
               "children": [],
-              "stars": 1846,
+              "stars": 1848,
               "forks": 107,
               "language": null,
               "license": null,
@@ -19772,7 +19640,7 @@
                 "vjing",
                 "vvvv"
               ],
-              "updated": "2026-10-06T20:42:26Z",
+              "updated": "2026-10-16T02:19:09Z",
               "pushed": "2024-06-04T08:35:54Z",
               "awesome": true,
               "path": [
@@ -19793,8 +19661,8 @@
               "sourceRepo": "beardicus/awesome-plotters",
               "depth": 2,
               "children": [],
-              "stars": 15425,
-              "forks": 985,
+              "stars": 15452,
+              "forks": 1039,
               "language": "HTML",
               "license": null,
               "topics": [
@@ -19816,7 +19684,7 @@
                 "shaders",
                 "webgl"
               ],
-              "updated": "2026-10-11T05:48:31Z",
+              "updated": "2026-10-18T02:58:42Z",
               "pushed": "2026-07-21T15:01:30Z",
               "awesome": true,
               "path": [
@@ -19868,8 +19736,8 @@
           "parentId": "root-hardware-plotters"
         }
       ],
-      "stars": 1467,
-      "forks": 98,
+      "stars": 1472,
+      "forks": 99,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -19887,7 +19755,7 @@
         "roland-plotters",
         "vector-graphics"
       ],
-      "updated": "2026-10-08T12:53:31Z",
+      "updated": "2026-10-17T20:19:27Z",
       "pushed": "2025-12-03T21:39:31Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -29223,8 +29091,8 @@
           "parentId": "root-hardware-lidar"
         }
       ],
-      "stars": 1355,
-      "forks": 135,
+      "stars": 1357,
+      "forks": 136,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -29243,7 +29111,7 @@
         "szegyetem",
         "szenergy"
       ],
-      "updated": "2026-10-09T13:07:05Z",
+      "updated": "2026-10-14T07:31:43Z",
       "pushed": "2026-09-30T08:28:51Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -29646,8 +29514,8 @@
           "parentId": "root-hardware-open-hardware"
         }
       ],
-      "stars": 1088,
-      "forks": 54,
+      "stars": 1095,
+      "forks": 55,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -29657,8 +29525,8 @@
         "open-hardware",
         "open-source-hardware"
       ],
-      "updated": "2026-10-09T13:11:00Z",
-      "pushed": "2026-08-31T08:28:54Z",
+      "updated": "2026-10-17T14:00:28Z",
+      "pushed": "2026-10-14T09:23:03Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -31594,8 +31462,8 @@
           "parentId": "root-hardware-ads-b"
         }
       ],
-      "stars": 392,
-      "forks": 36,
+      "stars": 394,
+      "forks": 37,
       "language": "HTML",
       "license": "CC0-1.0",
       "topics": [
@@ -31606,7 +31474,7 @@
         "resources",
         "tools"
       ],
-      "updated": "2026-10-08T16:35:19Z",
+      "updated": "2026-10-18T06:09:28Z",
       "pushed": "2026-09-05T07:25:17Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -32421,8 +32289,8 @@
           "parentId": "root-hardware-flying-fpv"
         }
       ],
-      "stars": 708,
-      "forks": 68,
+      "stars": 714,
+      "forks": 69,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -32438,7 +32306,7 @@
         "uav",
         "vtol"
       ],
-      "updated": "2026-10-08T16:35:14Z",
+      "updated": "2026-10-16T20:38:11Z",
       "pushed": "2026-03-06T11:49:48Z",
       "awesome": true,
       "readmeStatus": "expanded",

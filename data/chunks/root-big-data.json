@@ -1021,8 +1021,8 @@
       "sourceRepo": "sindresorhus/awesome",
       "depth": 1,
       "children": [],
-      "stars": 79422,
-      "forks": 11866,
+      "stars": 79584,
+      "forks": 11893,
       "language": null,
       "license": "MIT",
       "topics": [
@@ -1031,8 +1031,8 @@
         "datasets",
         "opendata"
       ],
-      "updated": "2026-10-11T07:19:17Z",
-      "pushed": "2026-10-09T20:09:46Z",
+      "updated": "2026-10-18T06:54:16Z",
+      "pushed": "2026-10-14T18:18:24Z",
       "awesome": true,
       "readmeStatus": "empty",
       "path": [
@@ -10761,15 +10761,15 @@
           "parentId": "root-big-data-data-engineering"
         }
       ],
-      "stars": 9160,
-      "forks": 1642,
+      "stars": 9177,
+      "forks": 1655,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
         "awesome",
         "awesome-list"
       ],
-      "updated": "2026-10-11T03:28:14Z",
+      "updated": "2026-10-17T20:06:10Z",
       "pushed": "2026-09-07T13:29:54Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -11254,6 +11254,32 @@
                 "Streaming",
                 "Engines and Platforms",
                 "Bytewax ![Python/Rust][language-python-rust]"
+              ],
+              "parentId": "root-big-data-streaming-engines-and-platforms"
+            },
+            {
+              "id": "root-big-data-streaming-engines-and-platforms-clink-c-language-cpp",
+              "title": "Clink ![C++][language-cpp]",
+              "kind": "topic",
+              "repo": "",
+              "url": "",
+              "description": "Embedded-first, Arrow-native stream processing engine with streaming SQL and exactly-once checkpoints.",
+              "external": false,
+              "sourceRepo": "manuzhang/awesome-streaming",
+              "depth": 3,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Streaming",
+                "Engines and Platforms",
+                "Clink ![C++][language-cpp]"
               ],
               "parentId": "root-big-data-streaming-engines-and-platforms"
             },
@@ -12815,8 +12841,8 @@
               "parentId": "root-big-data-streaming-libraries-sdks-and-programming-models"
             },
             {
-              "id": "root-big-data-streaming-libraries-sdks-and-programming-models-numalogic-python-language-python",
-              "title": "Numalogic ![Python][language-python]",
+              "id": "root-big-data-streaming-libraries-sdks-and-programming-models-numalogic-archived-archived-badge-python-language-python",
+              "title": "Numalogic ![Archived][archived-badge] ![Python][language-python]",
               "kind": "topic",
               "repo": "",
               "url": "",
@@ -12836,7 +12862,7 @@
               "path": [
                 "Streaming",
                 "Libraries, SDKs, and Programming Models",
-                "Numalogic ![Python][language-python]"
+                "Numalogic ![Archived][archived-badge] ![Python][language-python]"
               ],
               "parentId": "root-big-data-streaming-libraries-sdks-and-programming-models"
             },
@@ -13592,6 +13618,32 @@
               "parentId": "root-big-data-streaming-data-integration-and-pipelines"
             },
             {
+              "id": "root-big-data-streaming-data-integration-and-pipelines-olake-go-language-go",
+              "title": "OLake ![Go][language-go]",
+              "kind": "topic",
+              "repo": "",
+              "url": "",
+              "description": "Replicates Postgres, MySQL, MongoDB, Oracle, SQL Server and Kafka into Apache Iceberg with CDC, full refresh and incremental sync.",
+              "external": false,
+              "sourceRepo": "manuzhang/awesome-streaming",
+              "depth": 3,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Streaming",
+                "Data Integration and Pipelines",
+                "OLake ![Go][language-go]"
+              ],
+              "parentId": "root-big-data-streaming-data-integration-and-pipelines"
+            },
+            {
               "id": "root-big-data-streaming-data-integration-and-pipelines-pathway-python-rust-language-python-rust",
               "title": "Pathway ![Python/Rust][language-python-rust]",
               "kind": "topic",
@@ -13793,6 +13845,32 @@
                 "Streaming",
                 "Applications and Tools",
                 "beava ![Rust/Python][language-rust-python]"
+              ],
+              "parentId": "root-big-data-streaming-applications-and-tools"
+            },
+            {
+              "id": "root-big-data-streaming-applications-and-tools-cdclint-go-language-go",
+              "title": "cdclint ![Go][language-go]",
+              "kind": "topic",
+              "repo": "",
+              "url": "",
+              "description": "Linter for the contract between Postgres migrations, a Debezium connector and the sink schema, failing the pull request that would silently drop a CDC column.",
+              "external": false,
+              "sourceRepo": "manuzhang/awesome-streaming",
+              "depth": 3,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Streaming",
+                "Applications and Tools",
+                "cdclint ![Go][language-go]"
               ],
               "parentId": "root-big-data-streaming-applications-and-tools"
             },
@@ -14079,32 +14157,6 @@
                 "Streaming",
                 "Applications and Tools",
                 "Turbine ![Archived][archived-badge] ![Java][language-java]"
-              ],
-              "parentId": "root-big-data-streaming-applications-and-tools"
-            },
-            {
-              "id": "root-big-data-streaming-applications-and-tools-zilla-java-language-java",
-              "title": "Zilla ![Java][language-java]",
-              "kind": "topic",
-              "repo": "",
-              "url": "",
-              "description": "Multi-protocol gateway for connecting applications, APIs, agents, and devices to event streams.",
-              "external": false,
-              "sourceRepo": "manuzhang/awesome-streaming",
-              "depth": 3,
-              "children": [],
-              "stars": 0,
-              "forks": 0,
-              "language": null,
-              "license": null,
-              "topics": [],
-              "updated": null,
-              "pushed": null,
-              "awesome": false,
-              "path": [
-                "Streaming",
-                "Applications and Tools",
-                "Zilla ![Java][language-java]"
               ],
               "parentId": "root-big-data-streaming-applications-and-tools"
             }
@@ -14426,8 +14478,8 @@
           "parentId": "root-big-data-streaming"
         }
       ],
-      "stars": 3021,
-      "forks": 327,
+      "stars": 3023,
+      "forks": 336,
       "language": "JavaScript",
       "license": null,
       "topics": [
@@ -14436,8 +14488,8 @@
         "list",
         "stream-processing"
       ],
-      "updated": "2026-10-08T19:12:23Z",
-      "pushed": "2026-10-10T21:17:31Z",
+      "updated": "2026-10-14T10:59:29Z",
+      "pushed": "2026-10-17T20:15:55Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -15288,7 +15340,7 @@
         }
       ],
       "stars": 1902,
-      "forks": 344,
+      "forks": 351,
       "language": "Shell",
       "license": "CC0-1.0",
       "topics": [
@@ -16283,7 +16335,7 @@
           "parentId": "root-big-data-qlik"
         }
       ],
-      "stars": 78,
+      "stars": 79,
       "forks": 7,
       "language": null,
       "license": "CC0-1.0",
@@ -16309,7 +16361,7 @@
         "reporting",
         "resources"
       ],
-      "updated": "2026-08-03T23:41:15Z",
+      "updated": "2026-10-14T05:54:23Z",
       "pushed": "2019-11-15T14:27:40Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -17997,7 +18049,7 @@
         "splunk",
         "splunk-resources"
       ],
-      "updated": "2026-10-09T13:34:27Z",
+      "updated": "2026-10-15T04:17:00Z",
       "pushed": "2020-09-11T03:50:06Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -35344,7 +35396,7 @@
               "sourceRepo": "briatte/awesome-network-analysis",
               "depth": 2,
               "children": [],
-              "stars": 4804,
+              "stars": 4805,
               "forks": 723,
               "language": "Python",
               "license": "CC0-1.0",
@@ -35370,7 +35422,7 @@
                 "structural-attention",
                 "weisfeiler-lehman"
               ],
-              "updated": "2026-10-10T01:04:51Z",
+              "updated": "2026-10-16T03:17:11Z",
               "pushed": "2023-03-18T12:10:08Z",
               "awesome": true,
               "path": [
@@ -35417,7 +35469,7 @@
                 "social-network",
                 "unsupervised-learning"
               ],
-              "updated": "2026-10-09T18:39:31Z",
+              "updated": "2026-10-17T17:24:43Z",
               "pushed": "2025-12-20T17:06:00Z",
               "awesome": true,
               "path": [
@@ -38611,8 +38663,8 @@
           "parentId": "root-big-data-network-analysis"
         }
       ],
-      "stars": 4122,
-      "forks": 641,
+      "stars": 4130,
+      "forks": 650,
       "language": "R",
       "license": null,
       "topics": [
@@ -38632,7 +38684,7 @@
         "social-network-analysis",
         "social-networks"
       ],
-      "updated": "2026-10-08T21:58:10Z",
+      "updated": "2026-10-18T05:31:59Z",
       "pushed": "2026-08-20T13:22:11Z",
       "awesome": true,
       "readmeStatus": "expanded",

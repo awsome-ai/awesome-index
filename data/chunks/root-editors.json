@@ -5846,6 +5846,32 @@
               "parentId": "root-editors-neovim-programming-languages-support"
             },
             {
+              "id": "root-editors-neovim-programming-languages-support-upyesp-epher-nvim",
+              "title": "upyesp/epher.nvim",
+              "kind": "repo",
+              "repo": "upyesp/epher.nvim",
+              "url": "https://github.com/upyesp/epher.nvim",
+              "description": "Calculator language with answers inline, LSP server glue, and syntax for .epher scripts.",
+              "external": false,
+              "sourceRepo": "rockerboo/awesome-neovim",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Neovim",
+                "Programming Languages Support",
+                "upyesp/epher.nvim"
+              ],
+              "parentId": "root-editors-neovim-programming-languages-support"
+            },
+            {
               "id": "root-editors-neovim-programming-languages-support-golang",
               "title": "Golang",
               "kind": "section",
@@ -7929,32 +7955,6 @@
                 "Neovim",
                 "Language",
                 "kiyoon/Korean-IME.nvim"
-              ],
-              "parentId": "root-editors-neovim-language"
-            },
-            {
-              "id": "root-editors-neovim-language-bennorichters-taal-nvim",
-              "title": "bennorichters/taal.nvim",
-              "kind": "repo",
-              "repo": "bennorichters/taal.nvim",
-              "url": "https://github.com/bennorichters/taal.nvim",
-              "description": "Improve grammar and spelling errors in multiple languages using LLMs.",
-              "external": false,
-              "sourceRepo": "rockerboo/awesome-neovim",
-              "depth": 2,
-              "children": [],
-              "stars": 0,
-              "forks": 0,
-              "language": null,
-              "license": null,
-              "topics": [],
-              "updated": null,
-              "pushed": null,
-              "awesome": false,
-              "path": [
-                "Neovim",
-                "Language",
-                "bennorichters/taal.nvim"
               ],
               "parentId": "root-editors-neovim-language"
             },
@@ -10433,32 +10433,6 @@
                 "Neovim",
                 "Fuzzy Finder",
                 "axkirillov/easypick.nvim"
-              ],
-              "parentId": "root-editors-neovim-fuzzy-finder"
-            },
-            {
-              "id": "root-editors-neovim-fuzzy-finder-linrongbin16-fzfx-nvim",
-              "title": "linrongbin16/fzfx.nvim",
-              "kind": "repo",
-              "repo": "linrongbin16/fzfx.nvim",
-              "url": "https://github.com/linrongbin16/fzfx.nvim",
-              "description": "A fuzzy finder that updates on every keystroke.",
-              "external": false,
-              "sourceRepo": "rockerboo/awesome-neovim",
-              "depth": 2,
-              "children": [],
-              "stars": 0,
-              "forks": 0,
-              "language": null,
-              "license": null,
-              "topics": [],
-              "updated": null,
-              "pushed": null,
-              "awesome": false,
-              "path": [
-                "Neovim",
-                "Fuzzy Finder",
-                "linrongbin16/fzfx.nvim"
               ],
               "parentId": "root-editors-neovim-fuzzy-finder"
             },
@@ -13252,6 +13226,58 @@
                 "Neovim",
                 "Colorscheme",
                 "[Fnl]"
+              ],
+              "parentId": "root-editors-neovim-colorscheme"
+            },
+            {
+              "id": "root-editors-neovim-colorscheme-zacesshq-zacess-nvim",
+              "title": "zacesshq/zacess.nvim",
+              "kind": "repo",
+              "repo": "zacesshq/zacess.nvim",
+              "url": "https://github.com/zacesshq/zacess.nvim",
+              "description": "[TS][LSP][L/D][Lua] High contrast, yellow on black and cream color schemes with every text and syntax colour at 7:1 contrast or more.",
+              "external": false,
+              "sourceRepo": "rockerboo/awesome-neovim",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Neovim",
+                "Colorscheme",
+                "zacesshq/zacess.nvim"
+              ],
+              "parentId": "root-editors-neovim-colorscheme"
+            },
+            {
+              "id": "root-editors-neovim-colorscheme-daaanny90-interlinked-nvim",
+              "title": "daaanny90/interlinked.nvim",
+              "kind": "repo",
+              "repo": "daaanny90/interlinked.nvim",
+              "url": "https://github.com/daaanny90/interlinked.nvim",
+              "description": "[TS][LSP][Lua] Melancholic Blade Runner 2049 colorscheme with ambient neon-flicker effects and a baseline-test session report.",
+              "external": false,
+              "sourceRepo": "rockerboo/awesome-neovim",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Neovim",
+                "Colorscheme",
+                "daaanny90/interlinked.nvim"
               ],
               "parentId": "root-editors-neovim-colorscheme"
             },
@@ -37121,6 +37147,33 @@
                   "parentId": "root-editors-neovim-game-competitive-programming"
                 },
                 {
+                  "id": "root-editors-neovim-game-competitive-programming-francescoderme-tuna-nvim",
+                  "title": "FrancescoDerme/tuna.nvim",
+                  "kind": "repo",
+                  "repo": "francescoderme/tuna.nvim",
+                  "url": "https://github.com/francescoderme/tuna.nvim",
+                  "description": "Download problems with Competitive Companion, run testcases in parallel, stress-test against a brute-force reference solution, and submit to online judges.",
+                  "external": false,
+                  "sourceRepo": "rockerboo/awesome-neovim",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Neovim",
+                    "Game",
+                    "Competitive Programming",
+                    "FrancescoDerme/tuna.nvim"
+                  ],
+                  "parentId": "root-editors-neovim-game-competitive-programming"
+                },
+                {
                   "id": "root-editors-neovim-game-competitive-programming-kawre-leetcode-nvim",
                   "title": "kawre/leetcode.nvim",
                   "kind": "repo",
@@ -37584,11 +37637,11 @@
                   "parentId": "root-editors-neovim-workflow-stats-tracking"
                 },
                 {
-                  "id": "root-editors-neovim-workflow-stats-tracking-gisketch-triforce-nvim",
-                  "title": "gisketch/triforce.nvim",
+                  "id": "root-editors-neovim-workflow-stats-tracking-drkjeff16-triforce-nvim",
+                  "title": "DrKJeff16/triforce.nvim",
                   "kind": "repo",
-                  "repo": "gisketch/triforce.nvim",
-                  "url": "https://github.com/gisketch/triforce.nvim",
+                  "repo": "drkjeff16/triforce.nvim",
+                  "url": "https://github.com/drkjeff16/triforce.nvim",
                   "description": "Gamified stat tracker with XP, levels, achievements, and activity heatmaps for your coding sessions with lualine integration.",
                   "external": false,
                   "sourceRepo": "rockerboo/awesome-neovim",
@@ -37606,7 +37659,7 @@
                     "Neovim",
                     "Workflow",
                     "Stats Tracking",
-                    "gisketch/triforce.nvim"
+                    "DrKJeff16/triforce.nvim"
                   ],
                   "parentId": "root-editors-neovim-workflow-stats-tracking"
                 },
@@ -39509,8 +39562,8 @@
                     "neovim-plugins",
                     "nix-flake"
                   ],
-                  "updated": "2026-10-10T20:45:22Z",
-                  "pushed": "2026-10-10T20:45:19Z",
+                  "updated": "2026-10-17T19:28:24Z",
+                  "pushed": "2026-10-17T19:28:20Z",
                   "awesome": true,
                   "path": [
                     "Neovim",
@@ -40213,7 +40266,7 @@
               "sourceRepo": "rockerboo/awesome-neovim",
               "depth": 2,
               "children": [],
-              "stars": 2130,
+              "stars": 2132,
               "forks": 145,
               "language": null,
               "license": "MIT",
@@ -40221,7 +40274,7 @@
                 "awesome",
                 "vim"
               ],
-              "updated": "2026-09-21T05:03:03Z",
+              "updated": "2026-10-13T17:18:46Z",
               "pushed": "2025-06-06T18:42:55Z",
               "awesome": true,
               "path": [
@@ -40412,6 +40465,32 @@
                 "Neovim Cheatsheet"
               ],
               "parentId": "root-editors-neovim-external-resource"
+            },
+            {
+              "id": "root-editors-neovim-external-resource-nvim-edu",
+              "title": "nvim-edu",
+              "kind": "link",
+              "repo": "",
+              "url": "https://s3onghyun.github.io/nvim-edu/",
+              "description": "Interactive browser trainer for Vim motions and tmux keys with goal-state levels, drills and a daily challenge, verified against headless Neovim.",
+              "external": true,
+              "sourceRepo": "rockerboo/awesome-neovim",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Neovim",
+                "External Resource",
+                "nvim-edu"
+              ],
+              "parentId": "root-editors-neovim-external-resource"
             }
           ],
           "stars": 0,
@@ -40429,8 +40508,8 @@
           "parentId": "root-editors-neovim"
         }
       ],
-      "stars": 21474,
-      "forks": 1069,
+      "stars": 21493,
+      "forks": 1120,
       "language": "Shell",
       "license": "CC0-1.0",
       "topics": [
@@ -40440,8 +40519,8 @@
         "neovim-plugins",
         "nvim-lua"
       ],
-      "updated": "2026-10-10T21:14:07Z",
-      "pushed": "2026-10-07T02:49:51Z",
+      "updated": "2026-10-18T05:34:54Z",
+      "pushed": "2026-10-18T01:27:05Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -40460,15 +40539,15 @@
       "sourceRepo": "sindresorhus/awesome",
       "depth": 1,
       "children": [],
-      "stars": 9394,
-      "forks": 598,
+      "stars": 9399,
+      "forks": 599,
       "language": null,
       "license": "Unlicense",
       "topics": [
         "awesome-list",
         "emacs"
       ],
-      "updated": "2026-10-10T14:33:10Z",
+      "updated": "2026-10-18T01:13:30Z",
       "pushed": "2026-09-02T15:57:43Z",
       "awesome": true,
       "readmeStatus": "empty",
@@ -46939,8 +47018,8 @@
           "parentId": "root-editors-visual-studio-code"
         }
       ],
-      "stars": 29109,
-      "forks": 1435,
+      "stars": 29122,
+      "forks": 1495,
       "language": "JavaScript",
       "license": "CC0-1.0",
       "topics": [
@@ -46956,7 +47035,7 @@
         "vscode-extension",
         "vscode-theme"
       ],
-      "updated": "2026-10-11T06:38:58Z",
+      "updated": "2026-10-18T04:07:25Z",
       "pushed": "2026-06-21T09:36:55Z",
       "awesome": true,
       "readmeStatus": "expanded",

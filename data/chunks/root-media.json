@@ -311,8 +311,8 @@
           "parentId": "root-media-fonts"
         }
       ],
-      "stars": 2079,
-      "forks": 1034,
+      "stars": 2085,
+      "forks": 1041,
       "language": null,
       "license": null,
       "topics": [
@@ -325,8 +325,8 @@
         "list",
         "programming-fonts"
       ],
-      "updated": "2026-10-10T03:10:00Z",
-      "pushed": "2026-07-26T05:01:07Z",
+      "updated": "2026-10-18T04:21:04Z",
+      "pushed": "2026-10-18T04:20:57Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -885,8 +885,8 @@
           "parentId": "root-media-stock-resources"
         }
       ],
-      "stars": 14594,
-      "forks": 821,
+      "stars": 14609,
+      "forks": 858,
       "language": "Ruby",
       "license": "CC0-1.0",
       "topics": [
@@ -905,7 +905,7 @@
         "templates",
         "weather-icons"
       ],
-      "updated": "2026-10-10T13:59:17Z",
+      "updated": "2026-10-18T06:52:28Z",
       "pushed": "2026-02-11T22:01:53Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -964,7 +964,7 @@
               "title": "ImageMagick",
               "kind": "link",
               "repo": "",
-              "url": "https://imagemagick.org/script/index.php",
+              "url": "https://imagemagick.org/",
               "description": "",
               "external": true,
               "sourceRepo": "davisonio/awesome-gif",
@@ -1411,7 +1411,7 @@
                   "kind": "repo",
                   "repo": "speiser/dot-screencap",
                   "url": "https://github.com/speiser/dot-screencap",
-                  "description": "A simple libary to record your screen and save it as animated GIF.",
+                  "description": "A simple library to record your screen and save it as animated GIF.",
                   "external": false,
                   "sourceRepo": "davisonio/awesome-gif",
                   "depth": 3,
@@ -2278,58 +2278,6 @@
                 "EzGif"
               ],
               "parentId": "root-media-gif-online-tools"
-            },
-            {
-              "id": "root-media-gif-online-tools-giflr",
-              "title": "Giflr",
-              "kind": "link",
-              "repo": "",
-              "url": "https://giflr.com/",
-              "description": "A web app for making or remixing animated GIFs.",
-              "external": true,
-              "sourceRepo": "davisonio/awesome-gif",
-              "depth": 2,
-              "children": [],
-              "stars": 0,
-              "forks": 0,
-              "language": null,
-              "license": null,
-              "topics": [],
-              "updated": null,
-              "pushed": null,
-              "awesome": false,
-              "path": [
-                "GIF",
-                "Online Tools",
-                "Giflr"
-              ],
-              "parentId": "root-media-gif-online-tools"
-            },
-            {
-              "id": "root-media-gif-online-tools-gif-frame-extractor",
-              "title": "GIF Frame Extractor",
-              "kind": "link",
-              "repo": "",
-              "url": "https://giftoframes.org/",
-              "description": "Convert animated GIFs into individual frames online.",
-              "external": true,
-              "sourceRepo": "davisonio/awesome-gif",
-              "depth": 2,
-              "children": [],
-              "stars": 0,
-              "forks": 0,
-              "language": null,
-              "license": null,
-              "topics": [],
-              "updated": null,
-              "pushed": null,
-              "awesome": false,
-              "path": [
-                "GIF",
-                "Online Tools",
-                "GIF Frame Extractor"
-              ],
-              "parentId": "root-media-gif-online-tools"
             }
           ],
           "stars": 0,
@@ -2792,8 +2740,8 @@
           "url": "https://github.com/davisonio/awesome-gif#use",
           "children": [
             {
-              "id": "root-media-gif-use-by-browing-the-contents",
-              "title": "By browing the contents.",
+              "id": "root-media-gif-use-by-browsing-the-contents",
+              "title": "By browsing the contents.",
               "kind": "topic",
               "repo": "",
               "url": "",
@@ -2813,13 +2761,13 @@
               "path": [
                 "GIF",
                 "Use",
-                "By browing the contents."
+                "By browsing the contents."
               ],
               "parentId": "root-media-gif-use"
             },
             {
               "id": "root-media-gif-use-by-using-command-f-to-search-the-contents",
-              "title": "By using command + F to search the contents",
+              "title": "By using command + F to search the contents.",
               "kind": "topic",
               "repo": "",
               "url": "",
@@ -2839,7 +2787,7 @@
               "path": [
                 "GIF",
                 "Use",
-                "By using command + F to search the contents"
+                "By using command + F to search the contents."
               ],
               "parentId": "root-media-gif-use"
             }
@@ -2881,7 +2829,7 @@
           "parentId": "root-media-gif"
         }
       ],
-      "stars": 700,
+      "stars": 702,
       "forks": 61,
       "language": null,
       "license": "CC0-1.0",
@@ -2890,8 +2838,8 @@
         "awesome-list",
         "gif"
       ],
-      "updated": "2026-10-09T03:27:23Z",
-      "pushed": "2026-05-17T03:17:16Z",
+      "updated": "2026-10-17T16:07:13Z",
+      "pushed": "2026-10-14T22:16:02Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -4326,12 +4274,12 @@
           "parentId": "root-media-open-source-documents"
         }
       ],
-      "stars": 2345,
-      "forks": 165,
+      "stars": 2351,
+      "forks": 166,
       "language": null,
       "license": "NOASSERTION",
       "topics": [],
-      "updated": "2026-10-09T23:55:11Z",
+      "updated": "2026-10-15T16:55:29Z",
       "pushed": "2026-09-19T03:08:38Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -9729,12 +9677,12 @@
           "parentId": "root-media-audio-visualization"
         }
       ],
-      "stars": 5085,
-      "forks": 353,
+      "stars": 5092,
+      "forks": 352,
       "language": "Shell",
       "license": null,
       "topics": [],
-      "updated": "2026-10-11T01:12:14Z",
+      "updated": "2026-10-17T21:38:15Z",
       "pushed": "2026-08-13T14:34:10Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -10371,8 +10319,8 @@
           "parentId": "root-media-broadcasting"
         }
       ],
-      "stars": 1788,
-      "forks": 227,
+      "stars": 1792,
+      "forks": 229,
       "language": null,
       "license": "NOASSERTION",
       "topics": [
@@ -10380,7 +10328,7 @@
         "broadcast",
         "broadcasting"
       ],
-      "updated": "2026-10-08T16:13:56Z",
+      "updated": "2026-10-17T01:19:57Z",
       "pushed": "2026-09-30T08:39:41Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -12158,7 +12106,7 @@
           "parentId": "root-media-pixel-art"
         }
       ],
-      "stars": 1264,
+      "stars": 1270,
       "forks": 58,
       "language": null,
       "license": "CC0-1.0",
@@ -12167,7 +12115,7 @@
         "hacktoberfest",
         "pixel-art"
       ],
-      "updated": "2026-10-11T03:06:54Z",
+      "updated": "2026-10-17T19:22:42Z",
       "pushed": "2026-10-01T15:51:50Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -13180,8 +13128,8 @@
           "parentId": "root-media-ffmpeg"
         }
       ],
-      "stars": 1193,
-      "forks": 86,
+      "stars": 1194,
+      "forks": 89,
       "language": null,
       "license": null,
       "topics": [
@@ -13190,7 +13138,7 @@
         "ffmpeg",
         "fluent-ffmpeg"
       ],
-      "updated": "2026-10-08T19:21:21Z",
+      "updated": "2026-10-12T16:30:53Z",
       "pushed": "2026-09-18T02:53:31Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -13319,6 +13267,32 @@
                 "Icons",
                 "General",
                 "css.gg"
+              ],
+              "parentId": "root-media-icons-general"
+            },
+            {
+              "id": "root-media-icons-general-energy-icons",
+              "title": "Energy Icons",
+              "kind": "repo",
+              "repo": "sam-r-passmore/energy-icons",
+              "url": "https://github.com/sam-r-passmore/energy-icons",
+              "description": "Open source icons for the energy transition and everyday UI, with 1,279 icons in two optical sizes and two weights. (Website)",
+              "external": false,
+              "sourceRepo": "notlmn/awesome-icons",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Icons",
+                "General",
+                "Energy Icons"
               ],
               "parentId": "root-media-icons-general"
             },
@@ -13489,8 +13463,8 @@
               "sourceRepo": "notlmn/awesome-icons",
               "depth": 2,
               "children": [],
-              "stars": 76955,
-              "forks": 12162,
+              "stars": 76967,
+              "forks": 12157,
               "language": "JavaScript",
               "license": "NOASSERTION",
               "topics": [
@@ -13502,7 +13476,7 @@
                 "svg-sprites",
                 "webfont"
               ],
-              "updated": "2026-10-10T22:42:09Z",
+              "updated": "2026-10-18T06:26:32Z",
               "pushed": "2026-07-15T18:15:53Z",
               "awesome": true,
               "path": [
@@ -14613,8 +14587,8 @@
           "parentId": "root-media-icons"
         }
       ],
-      "stars": 1009,
-      "forks": 66,
+      "stars": 1015,
+      "forks": 69,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -14625,8 +14599,8 @@
         "icons",
         "logo"
       ],
-      "updated": "2026-10-08T19:27:37Z",
-      "pushed": "2026-08-27T19:27:40Z",
+      "updated": "2026-10-17T19:22:44Z",
+      "pushed": "2026-10-12T14:22:49Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -16498,7 +16472,7 @@
                 "video",
                 "vst"
               ],
-              "updated": "2026-10-11T00:23:08Z",
+              "updated": "2026-10-14T23:44:30Z",
               "pushed": "2026-07-31T17:20:26Z",
               "awesome": true,
               "path": [
@@ -18346,7 +18320,7 @@
           "parentId": "root-media-vlc"
         }
       ],
-      "stars": 304,
+      "stars": 306,
       "forks": 11,
       "language": null,
       "license": "CC0-1.0",
@@ -18358,7 +18332,7 @@
         "videolan",
         "vlc"
       ],
-      "updated": "2026-10-11T02:29:24Z",
+      "updated": "2026-10-16T20:01:04Z",
       "pushed": "2026-03-18T04:20:17Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -19248,7 +19222,7 @@
           "parentId": "root-media-audio-over-ip"
         }
       ],
-      "stars": 159,
+      "stars": 160,
       "forks": 10,
       "language": null,
       "license": "CC0-1.0",
@@ -19263,7 +19237,7 @@
         "network",
         "smpte-2110"
       ],
-      "updated": "2026-10-11T02:46:05Z",
+      "updated": "2026-10-15T10:32:42Z",
       "pushed": "2026-10-02T14:31:08Z",
       "awesome": true,
       "readmeStatus": "expanded",

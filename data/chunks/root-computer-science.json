@@ -25540,8 +25540,8 @@
           "parentId": "root-computer-science-university-courses"
         }
       ],
-      "stars": 71773,
-      "forks": 8446,
+      "stars": 71979,
+      "forks": 8450,
       "language": null,
       "license": null,
       "topics": [
@@ -25550,7 +25550,7 @@
         "computer-science",
         "courses"
       ],
-      "updated": "2026-10-11T07:35:25Z",
+      "updated": "2026-10-18T05:40:47Z",
       "pushed": "2023-05-04T12:49:34Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -26863,7 +26863,7 @@
                   "sourceRepo": "siboehm/awesome-learn-datascience",
                   "depth": 3,
                   "children": [],
-                  "stars": 18261,
+                  "stars": 18283,
                   "forks": 3967,
                   "language": null,
                   "license": "CC0-1.0",
@@ -26880,7 +26880,7 @@
                     "neural-network",
                     "neural-networks"
                   ],
-                  "updated": "2026-10-10T13:57:18Z",
+                  "updated": "2026-10-18T04:08:03Z",
                   "pushed": "2024-06-12T08:11:59Z",
                   "awesome": false,
                   "path": [
@@ -27729,6 +27729,84 @@
                 "Synthetic Hospital"
               ],
               "parentId": "root-computer-science-data-science-projects"
+            },
+            {
+              "id": "root-computer-science-data-science-projects-amazon-bestsellers-tracker",
+              "title": "Amazon Bestsellers Tracker",
+              "kind": "repo",
+              "repo": "huynhtanan/amazon-bestsellers-tracker",
+              "url": "https://github.com/huynhtanan/amazon-bestsellers-tracker",
+              "description": "Open-source Python + SQLite tracker that snapshots Amazon Best Sellers across 17 country stores daily, with example SQL diff queries for rank jumps and new entries.",
+              "external": false,
+              "sourceRepo": "academic/awesome-datascience",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Data Science",
+                "Projects",
+                "Amazon Bestsellers Tracker"
+              ],
+              "parentId": "root-computer-science-data-science-projects"
+            },
+            {
+              "id": "root-computer-science-data-science-projects-walmart-deals-tracker",
+              "title": "Walmart Deals Tracker",
+              "kind": "repo",
+              "repo": "huynhtanan/walmart-deals-tracker",
+              "url": "https://github.com/huynhtanan/walmart-deals-tracker",
+              "description": "Open-source Python + SQLite watcher for Walmart Rollback-only deals, with example SQL queries for price drops and first-party vs marketplace filtering.",
+              "external": false,
+              "sourceRepo": "academic/awesome-datascience",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Data Science",
+                "Projects",
+                "Walmart Deals Tracker"
+              ],
+              "parentId": "root-computer-science-data-science-projects"
+            },
+            {
+              "id": "root-computer-science-data-science-projects-vulnstate",
+              "title": "VulnState",
+              "kind": "repo",
+              "repo": "corifeo/vulnstate",
+              "url": "https://github.com/corifeo/vulnstate",
+              "description": "Open-source Python library that joins NVD, EPSS and CISA KEV vulnerability data and analyzes each CVE's disclosure timeline with NumPy and pandas.",
+              "external": false,
+              "sourceRepo": "academic/awesome-datascience",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Data Science",
+                "Projects",
+                "VulnState"
+              ],
+              "parentId": "root-computer-science-data-science-projects"
             }
           ],
           "stars": 0,
@@ -28298,6 +28376,60 @@
                     "Training Resources",
                     "Tutorials",
                     "DataDriven - SQL, Python, and Data Modeling Interview Questions"
+                  ],
+                  "parentId": "root-computer-science-data-science-training-resources-tutorials"
+                },
+                {
+                  "id": "root-computer-science-data-science-training-resources-tutorials-skillancy-sql-compiler",
+                  "title": "Skillancy SQL Compiler",
+                  "kind": "link",
+                  "repo": "",
+                  "url": "https://skillancy.in/tools/sql-compiler",
+                  "description": "A browser-based PostgreSQL playground with a sample schema and interview-style practice queries.",
+                  "external": true,
+                  "sourceRepo": "academic/awesome-datascience",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Data Science",
+                    "Training Resources",
+                    "Tutorials",
+                    "Skillancy SQL Compiler"
+                  ],
+                  "parentId": "root-computer-science-data-science-training-resources-tutorials"
+                },
+                {
+                  "id": "root-computer-science-data-science-training-resources-tutorials-skillancy-python-compiler",
+                  "title": "Skillancy Python Compiler",
+                  "kind": "link",
+                  "repo": "",
+                  "url": "https://skillancy.in/tools/python-compiler",
+                  "description": "A browser-based Python environment with NumPy and Pandas for data analysis practice.",
+                  "external": true,
+                  "sourceRepo": "academic/awesome-datascience",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Data Science",
+                    "Training Resources",
+                    "Tutorials",
+                    "Skillancy Python Compiler"
                   ],
                   "parentId": "root-computer-science-data-science-training-resources-tutorials"
                 },
@@ -45303,6 +45435,114 @@
                     "Tour Group Headset and Loudspeaker Rules"
                   ],
                   "parentId": "root-computer-science-data-science-fun-datasets-2"
+                },
+                {
+                  "id": "root-computer-science-data-science-fun-datasets-usasi-catalog",
+                  "title": "USASI Catalog",
+                  "kind": "link",
+                  "repo": "",
+                  "url": "https://huggingface.co/datasets/usasihq/usasi-catalog",
+                  "description": "150 U.S. AI organizations and 270 U.S.-led open models, software, datasets, and evaluation tools, with licenses, availability, maintainers, and release dates; each row links to a record page that cites a primary source for every statement. CSV, CC BY 4.0, loadable with the datasets library.",
+                  "external": true,
+                  "sourceRepo": "academic/awesome-datascience",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Data Science",
+                    "Fun",
+                    "Datasets",
+                    "USASI Catalog"
+                  ],
+                  "parentId": "root-computer-science-data-science-fun-datasets-2"
+                },
+                {
+                  "id": "root-computer-science-data-science-fun-datasets-us-traffic-ticket-courts-and-payment-portals",
+                  "title": "US Traffic Ticket Courts and Payment Portals",
+                  "kind": "repo",
+                  "repo": "odebo/us-traffic-ticket-data",
+                  "url": "https://github.com/odebo/us-traffic-ticket-data",
+                  "description": "Which court or agency handles a traffic citation in 54 US cities across 21 states, each with the court's own official payment or contest page (no third-party payment sites), fine notes, traffic-school eligibility and points rules. JSON, CSV and JSONL; CC0; no login.",
+                  "external": false,
+                  "sourceRepo": "academic/awesome-datascience",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Data Science",
+                    "Fun",
+                    "Datasets",
+                    "US Traffic Ticket Courts and Payment Portals"
+                  ],
+                  "parentId": "root-computer-science-data-science-fun-datasets-2"
+                },
+                {
+                  "id": "root-computer-science-data-science-fun-datasets-ai-crawler-robots-txt-study",
+                  "title": "AI Crawler robots.txt Study",
+                  "kind": "link",
+                  "repo": "",
+                  "url": "https://huggingface.co/datasets/desearch/ai-crawlers-robots-txt-study",
+                  "description": "robots.txt policies of the Tranco top 10,000 domains (October 2026), one row per domain with rank band and whether AI training, AI search and user-triggered crawlers are named or blocked. CSV, CC BY 4.0.",
+                  "external": true,
+                  "sourceRepo": "academic/awesome-datascience",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Data Science",
+                    "Fun",
+                    "Datasets",
+                    "AI Crawler robots.txt Study"
+                  ],
+                  "parentId": "root-computer-science-data-science-fun-datasets-2"
+                },
+                {
+                  "id": "root-computer-science-data-science-fun-datasets-the-deploy-log",
+                  "title": "The Deploy Log",
+                  "kind": "repo",
+                  "repo": "dotcomjack/the-deploy-log",
+                  "url": "https://github.com/dotcomjack/the-deploy-log",
+                  "description": "AI products, models and APIs that shipped and are available now: 1,663 rows from 124 companies (October 2026), each dated and linked to the publisher's own page, refreshed daily from deployedbyai.com/log. CSV and JSON, CC BY 4.0, no login.",
+                  "external": false,
+                  "sourceRepo": "academic/awesome-datascience",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Data Science",
+                    "Fun",
+                    "Datasets",
+                    "The Deploy Log"
+                  ],
+                  "parentId": "root-computer-science-data-science-fun-datasets-2"
                 }
               ],
               "stars": 0,
@@ -45512,13 +45752,13 @@
               "sourceRepo": "academic/awesome-datascience",
               "depth": 2,
               "children": [],
-              "stars": 74569,
-              "forks": 15664,
+              "stars": 74606,
+              "forks": 15675,
               "language": "Python",
               "license": "NOASSERTION",
               "topics": [],
-              "updated": "2026-10-11T07:09:08Z",
-              "pushed": "2026-10-09T23:52:52Z",
+              "updated": "2026-10-18T05:51:31Z",
+              "pushed": "2026-10-13T00:31:03Z",
               "awesome": true,
               "path": [
                 "Data Science",
@@ -45590,8 +45830,8 @@
               "sourceRepo": "academic/awesome-datascience",
               "depth": 2,
               "children": [],
-              "stars": 326477,
-              "forks": 28909,
+              "stars": 328280,
+              "forks": 28950,
               "language": "Python",
               "license": "NOASSERTION",
               "topics": [
@@ -45602,8 +45842,8 @@
                 "python-libraries",
                 "python-tools"
               ],
-              "updated": "2026-10-11T08:22:53Z",
-              "pushed": "2026-10-11T03:35:50Z",
+              "updated": "2026-10-18T06:59:42Z",
+              "pushed": "2026-10-17T08:58:57Z",
               "awesome": true,
               "path": [
                 "Data Science",
@@ -45649,8 +45889,8 @@
               "sourceRepo": "academic/awesome-datascience",
               "depth": 2,
               "children": [],
-              "stars": 6515,
-              "forks": 1511,
+              "stars": 6523,
+              "forks": 1509,
               "language": "R",
               "license": null,
               "topics": [
@@ -45662,7 +45902,7 @@
                 "r",
                 "rstats"
               ],
-              "updated": "2026-10-09T18:55:19Z",
+              "updated": "2026-10-17T20:55:39Z",
               "pushed": "2025-09-18T16:46:19Z",
               "awesome": true,
               "path": [
@@ -45683,8 +45923,8 @@
               "sourceRepo": "academic/awesome-datascience",
               "depth": 2,
               "children": [],
-              "stars": 79422,
-              "forks": 11866,
+              "stars": 79584,
+              "forks": 11893,
               "language": null,
               "license": "MIT",
               "topics": [
@@ -45693,8 +45933,8 @@
                 "datasets",
                 "opendata"
               ],
-              "updated": "2026-10-11T07:19:17Z",
-              "pushed": "2026-10-09T20:09:46Z",
+              "updated": "2026-10-18T06:54:16Z",
+              "pushed": "2026-10-14T18:18:24Z",
               "awesome": true,
               "path": [
                 "Data Science",
@@ -45714,7 +45954,7 @@
               "sourceRepo": "academic/awesome-datascience",
               "depth": 2,
               "children": [],
-              "stars": 18261,
+              "stars": 18283,
               "forks": 3967,
               "language": null,
               "license": "CC0-1.0",
@@ -45731,7 +45971,7 @@
                 "neural-network",
                 "neural-networks"
               ],
-              "updated": "2026-10-10T13:57:18Z",
+              "updated": "2026-10-18T04:08:03Z",
               "pushed": "2024-06-12T08:11:59Z",
               "awesome": true,
               "path": [
@@ -45752,7 +45992,7 @@
               "sourceRepo": "academic/awesome-datascience",
               "depth": 2,
               "children": [],
-              "stars": 693,
+              "stars": 692,
               "forks": 89,
               "language": null,
               "license": null,
@@ -45760,7 +46000,7 @@
                 "data-science",
                 "machine-learning"
               ],
-              "updated": "2026-07-20T11:26:43Z",
+              "updated": "2026-10-17T08:56:10Z",
               "pushed": "2024-01-04T11:45:43Z",
               "awesome": true,
               "path": [
@@ -45833,8 +46073,8 @@
               "sourceRepo": "academic/awesome-datascience",
               "depth": 2,
               "children": [],
-              "stars": 6649,
-              "forks": 830,
+              "stars": 6653,
+              "forks": 831,
               "language": null,
               "license": "CC-BY-SA-4.0",
               "topics": [
@@ -45843,7 +46083,7 @@
                 "machine-learning",
                 "machine-learning-on-source-code"
               ],
-              "updated": "2026-10-09T20:05:27Z",
+              "updated": "2026-10-17T04:05:09Z",
               "pushed": "2020-12-03T17:58:42Z",
               "awesome": true,
               "path": [
@@ -45890,7 +46130,7 @@
                 "social-network",
                 "unsupervised-learning"
               ],
-              "updated": "2026-10-09T18:39:31Z",
+              "updated": "2026-10-17T17:24:43Z",
               "pushed": "2025-12-20T17:06:00Z",
               "awesome": true,
               "path": [
@@ -45911,7 +46151,7 @@
               "sourceRepo": "academic/awesome-datascience",
               "depth": 2,
               "children": [],
-              "stars": 4804,
+              "stars": 4805,
               "forks": 723,
               "language": "Python",
               "license": "CC0-1.0",
@@ -45937,7 +46177,7 @@
                 "structural-attention",
                 "weisfeiler-lehman"
               ],
-              "updated": "2026-10-10T01:04:51Z",
+              "updated": "2026-10-16T03:17:11Z",
               "pushed": "2023-03-18T12:10:08Z",
               "awesome": true,
               "path": [
@@ -45958,7 +46198,7 @@
               "sourceRepo": "academic/awesome-datascience",
               "depth": 2,
               "children": [],
-              "stars": 2476,
+              "stars": 2477,
               "forks": 341,
               "language": "Python",
               "license": "CC0-1.0",
@@ -45984,7 +46224,7 @@
                 "tree-ensemble",
                 "xgboost"
               ],
-              "updated": "2026-10-09T18:39:28Z",
+              "updated": "2026-10-12T21:49:03Z",
               "pushed": "2025-12-28T23:17:27Z",
               "awesome": true,
               "path": [
@@ -46005,8 +46245,8 @@
               "sourceRepo": "academic/awesome-datascience",
               "depth": 2,
               "children": [],
-              "stars": 1837,
-              "forks": 329,
+              "stars": 1839,
+              "forks": 330,
               "language": "Python",
               "license": "CC0-1.0",
               "topics": [
@@ -46031,7 +46271,7 @@
                 "logistic-regression",
                 "random-forest"
               ],
-              "updated": "2026-10-09T18:58:22Z",
+              "updated": "2026-10-14T12:56:48Z",
               "pushed": "2026-01-05T12:28:59Z",
               "awesome": true,
               "path": [
@@ -46052,7 +46292,7 @@
               "sourceRepo": "academic/awesome-datascience",
               "depth": 2,
               "children": [],
-              "stars": 1051,
+              "stars": 1053,
               "forks": 165,
               "language": "Python",
               "license": "CC0-1.0",
@@ -46078,7 +46318,7 @@
                 "xgboost",
                 "xgboost-algorithm"
               ],
-              "updated": "2026-10-09T18:49:07Z",
+              "updated": "2026-10-16T03:23:30Z",
               "pushed": "2026-01-05T12:39:45Z",
               "awesome": true,
               "path": [
@@ -46126,7 +46366,7 @@
               "depth": 2,
               "children": [],
               "stars": 716,
-              "forks": 76,
+              "forks": 77,
               "language": "Python",
               "license": "CC0-1.0",
               "topics": [
@@ -46221,7 +46461,7 @@
               "depth": 2,
               "children": [],
               "stars": 1134,
-              "forks": 92,
+              "forks": 94,
               "language": null,
               "license": "CC-BY-4.0",
               "topics": [
@@ -46235,8 +46475,8 @@
                 "game",
                 "games"
               ],
-              "updated": "2026-10-11T00:59:13Z",
-              "pushed": "2026-10-11T00:59:09Z",
+              "updated": "2026-10-17T17:43:44Z",
+              "pushed": "2026-10-17T17:43:40Z",
               "awesome": true,
               "path": [
                 "Data Science",
@@ -46308,8 +46548,8 @@
               "sourceRepo": "academic/awesome-datascience",
               "depth": 2,
               "children": [],
-              "stars": 1994,
-              "forks": 136,
+              "stars": 1995,
+              "forks": 137,
               "language": null,
               "license": "Apache-2.0",
               "topics": [
@@ -46321,7 +46561,7 @@
                 "graph-algorithms",
                 "graphml"
               ],
-              "updated": "2026-10-10T08:01:23Z",
+              "updated": "2026-10-13T16:13:31Z",
               "pushed": "2022-04-04T14:54:08Z",
               "awesome": true,
               "path": [
@@ -46369,7 +46609,7 @@
               "depth": 2,
               "children": [],
               "stars": 101,
-              "forks": 16,
+              "forks": 17,
               "language": null,
               "license": "Apache-2.0",
               "topics": [
@@ -46779,8 +47019,8 @@
               "sourceRepo": "academic/awesome-datascience",
               "depth": 2,
               "children": [],
-              "stars": 2070,
-              "forks": 300,
+              "stars": 2108,
+              "forks": 305,
               "language": null,
               "license": "CC0-1.0",
               "topics": [
@@ -46805,7 +47045,7 @@
                 "statistics",
                 "tutorials"
               ],
-              "updated": "2026-10-11T04:25:29Z",
+              "updated": "2026-10-18T06:13:25Z",
               "pushed": "2026-08-09T10:44:21Z",
               "awesome": true,
               "path": [
@@ -46826,7 +47066,7 @@
               "sourceRepo": "academic/awesome-datascience",
               "depth": 2,
               "children": [],
-              "stars": 30,
+              "stars": 32,
               "forks": 9,
               "language": null,
               "license": "CC-BY-4.0",
@@ -46842,7 +47082,7 @@
                 "systematic-literature-reviews",
                 "systematic-reviews"
               ],
-              "updated": "2026-10-05T10:05:13Z",
+              "updated": "2026-10-17T09:32:23Z",
               "pushed": "2026-08-26T18:28:40Z",
               "awesome": true,
               "path": [
@@ -46923,8 +47163,8 @@
                   "sourceRepo": "academic/awesome-datascience",
                   "depth": 3,
                   "children": [],
-                  "stars": 1518,
-                  "forks": 170,
+                  "stars": 1530,
+                  "forks": 177,
                   "language": null,
                   "license": "ISC",
                   "topics": [
@@ -46938,8 +47178,8 @@
                     "sound",
                     "synthesizer"
                   ],
-                  "updated": "2026-10-09T11:58:56Z",
-                  "pushed": "2026-10-05T10:58:10Z",
+                  "updated": "2026-10-17T19:41:46Z",
+                  "pushed": "2026-10-17T14:43:21Z",
                   "awesome": true,
                   "path": [
                     "Data Science",
@@ -46981,8 +47221,8 @@
           "parentId": "root-computer-science-data-science"
         }
       ],
-      "stars": 30131,
-      "forks": 6662,
+      "stars": 30201,
+      "forks": 6677,
       "language": null,
       "license": "MIT",
       "topics": [
@@ -46997,8 +47237,8 @@
         "machine-learning",
         "science"
       ],
-      "updated": "2026-10-11T03:28:09Z",
-      "pushed": "2026-10-09T16:18:23Z",
+      "updated": "2026-10-18T05:12:29Z",
+      "pushed": "2026-10-17T17:22:22Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -47028,7 +47268,7 @@
           "sourceRepo": "sindresorhus/awesome",
           "depth": 2,
           "children": [],
-          "stars": 18261,
+          "stars": 18283,
           "forks": 3967,
           "language": null,
           "license": "CC0-1.0",
@@ -47045,7 +47285,7 @@
             "neural-network",
             "neural-networks"
           ],
-          "updated": "2026-10-10T13:57:18Z",
+          "updated": "2026-10-18T04:08:03Z",
           "pushed": "2024-06-12T08:11:59Z",
           "awesome": false,
           "path": [
@@ -47206,7 +47446,7 @@
               "parentId": "root-computer-science-machine-learning-core-ml-models"
             }
           ],
-          "stars": 7059,
+          "stars": 7060,
           "forks": 511,
           "language": "Python",
           "license": "MIT",
@@ -47232,7 +47472,7 @@
             "models",
             "tensorflow-models"
           ],
-          "updated": "2026-10-10T23:55:02Z",
+          "updated": "2026-10-17T03:49:28Z",
           "pushed": "2025-06-17T05:43:09Z",
           "awesome": true,
           "readmeStatus": "expanded",
@@ -60470,8 +60710,8 @@
                       "sourceRepo": "georgezouq/awesome-ai-in-finance",
                       "depth": 5,
                       "children": [],
-                      "stars": 30030,
-                      "forks": 4106,
+                      "stars": 30176,
+                      "forks": 4205,
                       "language": "HTML",
                       "license": null,
                       "topics": [
@@ -60496,8 +60736,8 @@
                         "trading-strategies",
                         "yahoo-finance"
                       ],
-                      "updated": "2026-10-11T07:04:59Z",
-                      "pushed": "2026-10-11T01:29:24Z",
+                      "updated": "2026-10-18T06:48:20Z",
+                      "pushed": "2026-10-18T01:17:37Z",
                       "awesome": true,
                       "path": [
                         "Machine Learning",
@@ -60654,8 +60894,8 @@
               "parentId": "root-computer-science-machine-learning-ai-in-finance"
             }
           ],
-          "stars": 6652,
-          "forks": 840,
+          "stars": 6673,
+          "forks": 862,
           "language": null,
           "license": "CC0-1.0",
           "topics": [
@@ -60672,7 +60912,7 @@
             "stock-market",
             "technology-analysis"
           ],
-          "updated": "2026-10-11T04:44:52Z",
+          "updated": "2026-10-18T05:17:11Z",
           "pushed": "2026-09-08T03:00:12Z",
           "awesome": true,
           "readmeStatus": "expanded",
@@ -67154,8 +67394,8 @@
               "parentId": "root-computer-science-machine-learning-jax"
             }
           ],
-          "stars": 2166,
-          "forks": 169,
+          "stars": 2169,
+          "forks": 171,
           "language": null,
           "license": "CC0-1.0",
           "topics": [
@@ -67169,7 +67409,7 @@
             "numpy",
             "xla"
           ],
-          "updated": "2026-10-09T18:40:38Z",
+          "updated": "2026-10-15T08:49:51Z",
           "pushed": "2026-01-20T05:48:13Z",
           "awesome": true,
           "readmeStatus": "expanded",
@@ -70280,8 +70520,8 @@
               "parentId": "root-computer-science-machine-learning-xai"
             }
           ],
-          "stars": 198,
-          "forks": 15,
+          "stars": 199,
+          "forks": 16,
           "language": null,
           "license": "NOASSERTION",
           "topics": [
@@ -70292,7 +70532,7 @@
             "saliency-methods",
             "xai"
           ],
-          "updated": "2026-10-03T09:29:15Z",
+          "updated": "2026-10-11T22:16:54Z",
           "pushed": "2021-05-04T13:47:04Z",
           "awesome": true,
           "readmeStatus": "expanded",
@@ -77422,13 +77662,13 @@
           "parentId": "root-computer-science-machine-learning"
         }
       ],
-      "stars": 74569,
-      "forks": 15664,
+      "stars": 74606,
+      "forks": 15675,
       "language": "Python",
       "license": "NOASSERTION",
       "topics": [],
-      "updated": "2026-10-11T07:09:08Z",
-      "pushed": "2026-10-09T23:52:52Z",
+      "updated": "2026-10-18T05:51:31Z",
+      "pushed": "2026-10-13T00:31:03Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -78960,7 +79200,7 @@
             }
           ],
           "stars": 353,
-          "forks": 43,
+          "forks": 44,
           "language": null,
           "license": null,
           "topics": [],
@@ -78985,8 +79225,8 @@
           "sourceRepo": "sindresorhus/awesome",
           "depth": 2,
           "children": [],
-          "stars": 1077,
-          "forks": 71,
+          "stars": 1076,
+          "forks": 72,
           "language": "Ruby",
           "license": "CC0-1.0",
           "topics": [
@@ -79003,7 +79243,7 @@
             "rubynlp",
             "sentiment-analysis"
           ],
-          "updated": "2026-10-11T06:15:18Z",
+          "updated": "2026-10-15T20:05:09Z",
           "pushed": "2023-06-27T09:38:04Z",
           "awesome": false,
           "path": [
@@ -87833,7 +88073,7 @@
             }
           ],
           "stars": 482,
-          "forks": 59,
+          "forks": 60,
           "language": null,
           "license": "CC0-1.0",
           "topics": [
@@ -88603,8 +88843,8 @@
           "parentId": "root-computer-science-linguistics"
         }
       ],
-      "stars": 457,
-      "forks": 37,
+      "stars": 461,
+      "forks": 38,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -88613,7 +88853,7 @@
         "linguistics",
         "resources"
       ],
-      "updated": "2026-10-07T19:41:42Z",
+      "updated": "2026-10-15T14:33:57Z",
       "pushed": "2026-02-12T19:09:16Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -89114,7 +89354,7 @@
               "parentId": "root-computer-science-cryptography-papers"
             }
           ],
-          "stars": 2102,
+          "stars": 2104,
           "forks": 145,
           "language": null,
           "license": "NOASSERTION",
@@ -89126,7 +89366,7 @@
             "cryptography",
             "howto"
           ],
-          "updated": "2026-10-10T14:43:32Z",
+          "updated": "2026-10-13T09:49:03Z",
           "pushed": "2024-10-17T18:13:08Z",
           "awesome": true,
           "readmeStatus": "expanded",
@@ -97577,8 +97817,8 @@
           "parentId": "root-computer-science-cryptography"
         }
       ],
-      "stars": 7141,
-      "forks": 782,
+      "stars": 7160,
+      "forks": 785,
       "language": null,
       "license": "NOASSERTION",
       "topics": [
@@ -97589,7 +97829,7 @@
         "encryption",
         "list"
       ],
-      "updated": "2026-10-10T18:33:54Z",
+      "updated": "2026-10-17T21:26:34Z",
       "pushed": "2026-07-15T08:39:47Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -97628,13 +97868,13 @@
               "sourceRepo": "jbhuang0604/awesome-computer-vision",
               "depth": 2,
               "children": [],
-              "stars": 74569,
-              "forks": 15664,
+              "stars": 74606,
+              "forks": 15675,
               "language": "Python",
               "license": "NOASSERTION",
               "topics": [],
-              "updated": "2026-10-11T07:09:08Z",
-              "pushed": "2026-10-09T23:52:52Z",
+              "updated": "2026-10-18T05:51:31Z",
+              "pushed": "2026-10-13T00:31:03Z",
               "awesome": true,
               "path": [
                 "Computer Vision",
@@ -97654,12 +97894,12 @@
               "sourceRepo": "jbhuang0604/awesome-computer-vision",
               "depth": 2,
               "children": [],
-              "stars": 11188,
+              "stars": 11191,
               "forks": 2766,
               "language": null,
               "license": null,
               "topics": [],
-              "updated": "2026-10-10T10:42:06Z",
+              "updated": "2026-10-15T02:09:31Z",
               "pushed": "2023-08-15T10:52:15Z",
               "awesome": true,
               "path": [
@@ -97680,8 +97920,8 @@
               "sourceRepo": "jbhuang0604/awesome-computer-vision",
               "depth": 2,
               "children": [],
-              "stars": 5456,
-              "forks": 878,
+              "stars": 5455,
+              "forks": 877,
               "language": null,
               "license": "MIT",
               "topics": [
@@ -97695,7 +97935,7 @@
                 "transfer-learning",
                 "zero-shot-learning"
               ],
-              "updated": "2026-10-08T17:48:13Z",
+              "updated": "2026-10-16T07:01:59Z",
               "pushed": "2025-12-08T06:04:32Z",
               "awesome": true,
               "path": [
@@ -97716,8 +97956,8 @@
               "sourceRepo": "jbhuang0604/awesome-computer-vision",
               "depth": 2,
               "children": [],
-              "stars": 7508,
-              "forks": 1917,
+              "stars": 7509,
+              "forks": 1916,
               "language": null,
               "license": null,
               "topics": [
@@ -97727,7 +97967,7 @@
                 "object-detection",
                 "object-localisation"
               ],
-              "updated": "2026-10-08T02:05:50Z",
+              "updated": "2026-10-15T18:24:25Z",
               "pushed": "2022-12-17T04:28:58Z",
               "awesome": true,
               "path": [
@@ -97748,7 +97988,7 @@
               "sourceRepo": "jbhuang0604/awesome-computer-vision",
               "depth": 2,
               "children": [],
-              "stars": 10204,
+              "stars": 10206,
               "forks": 1795,
               "language": null,
               "license": null,
@@ -97764,7 +98004,7 @@
                 "primitives",
                 "voxel"
               ],
-              "updated": "2026-10-10T21:40:10Z",
+              "updated": "2026-10-18T00:47:59Z",
               "pushed": "2024-07-04T19:13:09Z",
               "awesome": true,
               "path": [
@@ -97785,8 +98025,8 @@
               "sourceRepo": "jbhuang0604/awesome-computer-vision",
               "depth": 2,
               "children": [],
-              "stars": 4038,
-              "forks": 717,
+              "stars": 4039,
+              "forks": 718,
               "language": null,
               "license": null,
               "topics": [
@@ -97803,7 +98043,7 @@
                 "video-recognition",
                 "video-understanding"
               ],
-              "updated": "2026-10-10T10:47:38Z",
+              "updated": "2026-10-17T04:15:31Z",
               "pushed": "2023-05-13T17:00:12Z",
               "awesome": true,
               "path": [
@@ -97862,7 +98102,7 @@
               "language": null,
               "license": null,
               "topics": [],
-              "updated": "2026-10-01T18:20:22Z",
+              "updated": "2026-10-18T06:18:27Z",
               "pushed": "2020-11-26T16:09:26Z",
               "awesome": true,
               "path": [
@@ -97949,7 +98189,7 @@
               "sourceRepo": "jbhuang0604/awesome-computer-vision",
               "depth": 2,
               "children": [],
-              "stars": 4760,
+              "stars": 4761,
               "forks": 970,
               "language": null,
               "license": null,
@@ -97964,7 +98204,7 @@
                 "face-tracking",
                 "face-transfer"
               ],
-              "updated": "2026-10-10T18:32:22Z",
+              "updated": "2026-10-16T16:07:59Z",
               "pushed": "2023-02-09T07:02:58Z",
               "awesome": true,
               "path": [
@@ -97985,8 +98225,8 @@
               "sourceRepo": "jbhuang0604/awesome-computer-vision",
               "depth": 2,
               "children": [],
-              "stars": 1377,
-              "forks": 207,
+              "stars": 1378,
+              "forks": 206,
               "language": null,
               "license": null,
               "topics": [
@@ -98009,7 +98249,7 @@
                 "real-time-pose-estimation",
                 "video-pose-estimation"
               ],
-              "updated": "2026-10-04T17:29:54Z",
+              "updated": "2026-10-14T12:24:20Z",
               "pushed": "2020-08-07T18:44:25Z",
               "awesome": true,
               "path": [
@@ -98030,7 +98270,7 @@
               "sourceRepo": "jbhuang0604/awesome-computer-vision",
               "depth": 2,
               "children": [],
-              "stars": 251,
+              "stars": 250,
               "forks": 45,
               "language": null,
               "license": "CC0-1.0",
@@ -98042,7 +98282,7 @@
                 "medical-imaging",
                 "neural-networks"
               ],
-              "updated": "2026-09-18T02:58:52Z",
+              "updated": "2026-10-17T08:41:01Z",
               "pushed": "2026-03-17T16:32:38Z",
               "awesome": true,
               "path": [
@@ -98063,12 +98303,12 @@
               "sourceRepo": "jbhuang0604/awesome-computer-vision",
               "depth": 2,
               "children": [],
-              "stars": 2512,
+              "stars": 2513,
               "forks": 242,
               "language": null,
               "license": null,
               "topics": [],
-              "updated": "2026-10-05T15:54:22Z",
+              "updated": "2026-10-11T18:13:23Z",
               "pushed": "2026-07-06T09:21:22Z",
               "awesome": true,
               "path": [
@@ -98089,12 +98329,12 @@
               "sourceRepo": "jbhuang0604/awesome-computer-vision",
               "depth": 2,
               "children": [],
-              "stars": 1119,
+              "stars": 1120,
               "forks": 86,
               "language": null,
               "license": "CC0-1.0",
               "topics": [],
-              "updated": "2026-10-07T03:08:54Z",
+              "updated": "2026-10-13T16:36:26Z",
               "pushed": "2020-02-29T22:27:34Z",
               "awesome": true,
               "path": [
@@ -98141,12 +98381,12 @@
               "sourceRepo": "jbhuang0604/awesome-computer-vision",
               "depth": 2,
               "children": [],
-              "stars": 2652,
+              "stars": 2654,
               "forks": 147,
               "language": null,
               "license": "MIT",
               "topics": [],
-              "updated": "2026-10-10T13:02:37Z",
+              "updated": "2026-10-16T10:47:18Z",
               "pushed": "2024-02-11T22:48:44Z",
               "awesome": true,
               "path": [
@@ -98199,8 +98439,8 @@
               "sourceRepo": "jbhuang0604/awesome-computer-vision",
               "depth": 2,
               "children": [],
-              "stars": 79422,
-              "forks": 11866,
+              "stars": 79584,
+              "forks": 11893,
               "language": null,
               "license": "MIT",
               "topics": [
@@ -98209,8 +98449,8 @@
                 "datasets",
                 "opendata"
               ],
-              "updated": "2026-10-11T07:19:17Z",
-              "pushed": "2026-10-09T20:09:46Z",
+              "updated": "2026-10-18T06:54:16Z",
+              "pushed": "2026-10-14T18:18:24Z",
               "awesome": true,
               "path": [
                 "Computer Vision",
@@ -98230,7 +98470,7 @@
               "sourceRepo": "jbhuang0604/awesome-computer-vision",
               "depth": 2,
               "children": [],
-              "stars": 945,
+              "stars": 944,
               "forks": 134,
               "language": null,
               "license": "MIT",
@@ -98242,7 +98482,7 @@
                 "datasets",
                 "machine-learning"
               ],
-              "updated": "2026-09-30T06:31:19Z",
+              "updated": "2026-10-17T08:37:22Z",
               "pushed": "2023-06-09T15:42:07Z",
               "awesome": true,
               "path": [
@@ -98316,7 +98556,7 @@
               "depth": 2,
               "children": [],
               "stars": 1661,
-              "forks": 226,
+              "forks": 227,
               "language": "Markdown",
               "license": "MIT",
               "topics": [
@@ -98329,7 +98569,7 @@
                 "xai",
                 "xml"
               ],
-              "updated": "2026-10-10T13:30:01Z",
+              "updated": "2026-10-17T08:41:41Z",
               "pushed": "2026-08-19T02:09:45Z",
               "awesome": true,
               "path": [
@@ -98385,8 +98625,8 @@
               "sourceRepo": "jbhuang0604/awesome-computer-vision",
               "depth": 2,
               "children": [],
-              "stars": 4072,
-              "forks": 627,
+              "stars": 4074,
+              "forks": 633,
               "language": null,
               "license": "CC0-1.0",
               "topics": [
@@ -98411,7 +98651,7 @@
                 "transparency",
                 "xai"
               ],
-              "updated": "2026-10-07T03:57:52Z",
+              "updated": "2026-10-17T08:56:19Z",
               "pushed": "2026-06-03T15:17:31Z",
               "awesome": true,
               "path": [
@@ -98432,8 +98672,8 @@
               "sourceRepo": "jbhuang0604/awesome-computer-vision",
               "depth": 2,
               "children": [],
-              "stars": 20991,
-              "forks": 2611,
+              "stars": 21015,
+              "forks": 2661,
               "language": null,
               "license": "MIT",
               "topics": [
@@ -98457,7 +98697,7 @@
                 "production-ml",
                 "responsible-ai"
               ],
-              "updated": "2026-10-11T06:09:45Z",
+              "updated": "2026-10-18T04:07:48Z",
               "pushed": "2026-10-08T06:45:24Z",
               "awesome": true,
               "path": [
@@ -98504,7 +98744,7 @@
               "sourceRepo": "jbhuang0604/awesome-computer-vision",
               "depth": 2,
               "children": [],
-              "stars": 1242,
+              "stars": 1243,
               "forks": 120,
               "language": null,
               "license": "MIT",
@@ -98515,7 +98755,7 @@
                 "image-generation",
                 "image-translation"
               ],
-              "updated": "2026-09-25T19:08:32Z",
+              "updated": "2026-10-13T17:05:11Z",
               "pushed": "2025-09-20T11:58:02Z",
               "awesome": true,
               "path": [
@@ -98614,7 +98854,7 @@
               "sourceRepo": "jbhuang0604/awesome-computer-vision",
               "depth": 2,
               "children": [],
-              "stars": 5104,
+              "stars": 5101,
               "forks": 814,
               "language": null,
               "license": "CC0-1.0",
@@ -98626,7 +98866,7 @@
                 "github",
                 "papers"
               ],
-              "updated": "2026-10-11T00:56:05Z",
+              "updated": "2026-10-15T02:10:35Z",
               "pushed": "2026-06-08T10:40:14Z",
               "awesome": true,
               "path": [
@@ -98673,7 +98913,7 @@
               "sourceRepo": "jbhuang0604/awesome-computer-vision",
               "depth": 2,
               "children": [],
-              "stars": 3067,
+              "stars": 3064,
               "forks": 602,
               "language": null,
               "license": null,
@@ -98685,7 +98925,7 @@
                 "image-classification",
                 "papers"
               ],
-              "updated": "2026-10-08T17:54:00Z",
+              "updated": "2026-10-17T08:41:09Z",
               "pushed": "2022-04-20T15:52:51Z",
               "awesome": true,
               "path": [
@@ -98706,8 +98946,8 @@
               "sourceRepo": "jbhuang0604/awesome-computer-vision",
               "depth": 2,
               "children": [],
-              "stars": 29030,
-              "forks": 6346,
+              "stars": 29060,
+              "forks": 6350,
               "language": null,
               "license": null,
               "topics": [
@@ -98721,7 +98961,7 @@
                 "neural-network",
                 "recurrent-networks"
               ],
-              "updated": "2026-10-11T06:57:41Z",
+              "updated": "2026-10-18T05:51:18Z",
               "pushed": "2025-05-26T12:28:00Z",
               "awesome": true,
               "path": [
@@ -98742,12 +98982,12 @@
               "sourceRepo": "jbhuang0604/awesome-computer-vision",
               "depth": 2,
               "children": [],
-              "stars": 81,
+              "stars": 80,
               "forks": 14,
               "language": null,
               "license": null,
               "topics": [],
-              "updated": "2026-10-03T09:16:56Z",
+              "updated": "2026-10-17T08:40:56Z",
               "pushed": "2019-10-22T03:27:52Z",
               "awesome": true,
               "path": [
@@ -98768,8 +99008,8 @@
               "sourceRepo": "jbhuang0604/awesome-computer-vision",
               "depth": 2,
               "children": [],
-              "stars": 2517,
-              "forks": 648,
+              "stars": 2515,
+              "forks": 647,
               "language": "HTML",
               "license": null,
               "topics": [
@@ -98784,7 +99024,7 @@
                 "tracking",
                 "tracking-by-detection"
               ],
-              "updated": "2026-09-29T13:51:05Z",
+              "updated": "2026-10-17T09:53:52Z",
               "pushed": "2026-03-09T08:39:53Z",
               "awesome": true,
               "path": [
@@ -98805,8 +99045,8 @@
               "sourceRepo": "jbhuang0604/awesome-computer-vision",
               "depth": 2,
               "children": [],
-              "stars": 1377,
-              "forks": 207,
+              "stars": 1378,
+              "forks": 206,
               "language": null,
               "license": null,
               "topics": [
@@ -98829,7 +99069,7 @@
                 "real-time-pose-estimation",
                 "video-pose-estimation"
               ],
-              "updated": "2026-10-04T17:29:54Z",
+              "updated": "2026-10-14T12:24:20Z",
               "pushed": "2020-08-07T18:44:25Z",
               "awesome": true,
               "path": [
@@ -98885,7 +99125,7 @@
               "depth": 2,
               "children": [],
               "stars": 1160,
-              "forks": 103,
+              "forks": 104,
               "language": null,
               "license": null,
               "topics": [
@@ -98916,14 +99156,14 @@
               "sourceRepo": "jbhuang0604/awesome-computer-vision",
               "depth": 2,
               "children": [],
-              "stars": 7230,
-              "forks": 1096,
+              "stars": 7243,
+              "forks": 1100,
               "language": null,
               "license": "NOASSERTION",
               "topics": [
                 "robotics"
               ],
-              "updated": "2026-10-11T00:54:46Z",
+              "updated": "2026-10-17T07:29:00Z",
               "pushed": "2024-09-22T20:24:10Z",
               "awesome": true,
               "path": [
@@ -98944,7 +99184,7 @@
               "sourceRepo": "jbhuang0604/awesome-computer-vision",
               "depth": 2,
               "children": [],
-              "stars": 3588,
+              "stars": 3589,
               "forks": 406,
               "language": null,
               "license": null,
@@ -98956,7 +99196,7 @@
                 "transformer-with-cv",
                 "visual-transformer"
               ],
-              "updated": "2026-10-09T15:56:51Z",
+              "updated": "2026-10-13T18:32:53Z",
               "pushed": "2025-01-07T01:59:49Z",
               "awesome": true,
               "path": [
@@ -99010,7 +99250,7 @@
               "sourceRepo": "jbhuang0604/awesome-computer-vision",
               "depth": 2,
               "children": [],
-              "stars": 2914,
+              "stars": 2917,
               "forks": 508,
               "language": null,
               "license": null,
@@ -99025,7 +99265,7 @@
                 "machine-learning",
                 "machinelearning"
               ],
-              "updated": "2026-10-09T18:38:22Z",
+              "updated": "2026-10-12T08:35:55Z",
               "pushed": "2022-09-20T09:33:40Z",
               "awesome": true,
               "path": [
@@ -99046,7 +99286,7 @@
               "sourceRepo": "jbhuang0604/awesome-computer-vision",
               "depth": 2,
               "children": [],
-              "stars": 283,
+              "stars": 284,
               "forks": 39,
               "language": null,
               "license": "CC0-1.0",
@@ -99055,7 +99295,7 @@
                 "awesome-list",
                 "makeup-transfer"
               ],
-              "updated": "2026-09-28T11:51:52Z",
+              "updated": "2026-10-14T13:49:27Z",
               "pushed": "2025-12-10T23:44:27Z",
               "awesome": true,
               "path": [
@@ -99077,7 +99317,7 @@
               "depth": 2,
               "children": [],
               "stars": 2715,
-              "forks": 354,
+              "forks": 353,
               "language": null,
               "license": null,
               "topics": [
@@ -99109,7 +99349,7 @@
               "sourceRepo": "jbhuang0604/awesome-computer-vision",
               "depth": 2,
               "children": [],
-              "stars": 2916,
+              "stars": 2918,
               "forks": 371,
               "language": null,
               "license": null,
@@ -99129,7 +99369,7 @@
                 "stereo-deblurring",
                 "video-deblurring"
               ],
-              "updated": "2026-10-06T07:57:09Z",
+              "updated": "2026-10-15T03:26:05Z",
               "pushed": "2025-06-29T07:34:16Z",
               "awesome": true,
               "path": [
@@ -99176,7 +99416,7 @@
               "sourceRepo": "jbhuang0604/awesome-computer-vision",
               "depth": 2,
               "children": [],
-              "stars": 284,
+              "stars": 283,
               "forks": 37,
               "language": null,
               "license": null,
@@ -99189,7 +99429,7 @@
                 "rolling-shutter-cameras",
                 "rolling-shutter-images"
               ],
-              "updated": "2026-09-28T04:13:44Z",
+              "updated": "2026-10-14T11:17:33Z",
               "pushed": "2023-07-01T12:14:43Z",
               "awesome": true,
               "path": [
@@ -99314,8 +99554,8 @@
               "sourceRepo": "jbhuang0604/awesome-computer-vision",
               "depth": 2,
               "children": [],
-              "stars": 1542,
-              "forks": 182,
+              "stars": 1543,
+              "forks": 183,
               "language": null,
               "license": null,
               "topics": [
@@ -99340,7 +99580,7 @@
                 "rpa",
                 "unstructured-data"
               ],
-              "updated": "2026-10-10T08:13:26Z",
+              "updated": "2026-10-14T10:16:47Z",
               "pushed": "2023-06-02T03:56:06Z",
               "awesome": true,
               "path": [
@@ -102249,12 +102489,12 @@
           "parentId": "root-computer-science-computer-vision"
         }
       ],
-      "stars": 23588,
-      "forks": 4434,
+      "stars": 23604,
+      "forks": 4437,
       "language": null,
       "license": null,
       "topics": [],
-      "updated": "2026-10-11T07:04:20Z",
+      "updated": "2026-10-17T21:50:37Z",
       "pushed": "2024-05-17T14:24:27Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -102608,12 +102848,12 @@
               "parentId": "root-computer-science-deep-learning-tensorflow"
             }
           ],
-          "stars": 17535,
-          "forks": 2963,
+          "stars": 17533,
+          "forks": 2962,
           "language": null,
           "license": "CC0-1.0",
           "topics": [],
-          "updated": "2026-10-09T17:50:52Z",
+          "updated": "2026-10-17T18:03:38Z",
           "pushed": "2026-02-08T17:13:47Z",
           "awesome": true,
           "readmeStatus": "expanded",
@@ -104621,7 +104861,7 @@
             }
           ],
           "stars": 189,
-          "forks": 17,
+          "forks": 18,
           "language": null,
           "license": "CC0-1.0",
           "topics": [
@@ -105304,7 +105544,7 @@
               "parentId": "root-computer-science-deep-learning-tensorflow-lite"
             }
           ],
-          "stars": 1393,
+          "stars": 1394,
           "forks": 190,
           "language": null,
           "license": "Apache-2.0",
@@ -105330,7 +105570,7 @@
             "tflite",
             "tflite-models"
           ],
-          "updated": "2026-10-09T14:45:47Z",
+          "updated": "2026-10-12T01:49:59Z",
           "pushed": "2022-03-01T02:42:46Z",
           "awesome": true,
           "readmeStatus": "expanded",
@@ -112421,7 +112661,7 @@
               "parentId": "root-computer-science-deep-learning-papers"
             }
           ],
-          "stars": 26197,
+          "stars": 26196,
           "forks": 4406,
           "language": "TeX",
           "license": null,
@@ -112430,7 +112670,7 @@
             "deep-neural-networks",
             "machine-learning"
           ],
-          "updated": "2026-10-10T14:44:27Z",
+          "updated": "2026-10-17T08:41:29Z",
           "pushed": "2024-01-18T13:29:44Z",
           "awesome": true,
           "readmeStatus": "expanded",
@@ -116628,8 +116868,8 @@
               "parentId": "root-computer-science-deep-learning-education"
             }
           ],
-          "stars": 1820,
-          "forks": 292,
+          "stars": 1821,
+          "forks": 293,
           "language": null,
           "license": "CC0-1.0",
           "topics": [
@@ -116641,7 +116881,7 @@
             "machine-learning",
             "tensorflow"
           ],
-          "updated": "2026-10-10T05:39:35Z",
+          "updated": "2026-10-11T14:32:42Z",
           "pushed": "2024-01-18T13:35:40Z",
           "awesome": true,
           "readmeStatus": "expanded",
@@ -116923,8 +117163,8 @@
           "parentId": "root-computer-science-deep-learning"
         }
       ],
-      "stars": 29030,
-      "forks": 6346,
+      "stars": 29060,
+      "forks": 6350,
       "language": null,
       "license": null,
       "topics": [
@@ -116938,7 +117178,7 @@
         "neural-network",
         "recurrent-networks"
       ],
-      "updated": "2026-10-11T06:57:41Z",
+      "updated": "2026-10-18T05:51:18Z",
       "pushed": "2025-05-26T12:28:00Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -117627,12 +117867,12 @@
           "parentId": "root-computer-science-deep-vision"
         }
       ],
-      "stars": 11188,
+      "stars": 11191,
       "forks": 2766,
       "language": null,
       "license": null,
       "topics": [],
-      "updated": "2026-10-10T10:42:06Z",
+      "updated": "2026-10-15T02:09:31Z",
       "pushed": "2023-08-15T10:52:15Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -121927,7 +122167,7 @@
           "parentId": "root-computer-science-empirical-software-engineering"
         }
       ],
-      "stars": 495,
+      "stars": 496,
       "forks": 73,
       "language": null,
       "license": "CC0-1.0",
@@ -121939,7 +122179,7 @@
         "mining",
         "msr"
       ],
-      "updated": "2026-10-07T13:35:25Z",
+      "updated": "2026-10-14T10:48:02Z",
       "pushed": "2026-06-01T18:11:43Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -121959,8 +122199,8 @@
       "sourceRepo": "sindresorhus/awesome",
       "depth": 1,
       "children": [],
-      "stars": 14830,
-      "forks": 1515,
+      "stars": 14844,
+      "forks": 1521,
       "language": "Rust",
       "license": "MIT",
       "topics": [
@@ -121974,8 +122214,8 @@
         "static-analyzers",
         "static-code-analysis"
       ],
-      "updated": "2026-10-10T22:31:35Z",
-      "pushed": "2026-10-09T13:18:21Z",
+      "updated": "2026-10-18T07:01:05Z",
+      "pushed": "2026-10-16T23:08:13Z",
       "awesome": false,
       "path": [
         "Static Analysis & Code Quality"
@@ -125447,12 +125687,12 @@
           "parentId": "root-computer-science-information-retrieval"
         }
       ],
-      "stars": 1206,
-      "forks": 144,
+      "stars": 1207,
+      "forks": 145,
       "language": null,
       "license": "CC0-1.0",
       "topics": [],
-      "updated": "2026-09-30T06:31:00Z",
+      "updated": "2026-10-14T10:48:08Z",
       "pushed": "2023-04-20T07:55:24Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -129239,8 +129479,8 @@
           "parentId": "root-computer-science-quantum-computing"
         }
       ],
-      "stars": 3282,
-      "forks": 474,
+      "stars": 3283,
+      "forks": 480,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -129249,7 +129489,7 @@
         "quantum",
         "quantum-computing"
       ],
-      "updated": "2026-10-10T14:30:43Z",
+      "updated": "2026-10-17T21:41:30Z",
       "pushed": "2024-07-24T23:26:58Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -135613,8 +135853,8 @@
           "parentId": "root-computer-science-theoretical-computer-science"
         }
       ],
-      "stars": 1219,
-      "forks": 72,
+      "stars": 1220,
+      "forks": 73,
       "language": "Python",
       "license": "CC0-1.0",
       "topics": [
@@ -135627,7 +135867,7 @@
         "theoretical-computer-science",
         "theory-of-computation"
       ],
-      "updated": "2026-10-10T08:42:26Z",
+      "updated": "2026-10-18T02:18:29Z",
       "pushed": "2026-01-30T20:06:12Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -136151,13 +136391,13 @@
               "sourceRepo": "jyguyomarch/awesome-conversational-ai",
               "depth": 2,
               "children": [],
-              "stars": 74569,
-              "forks": 15664,
+              "stars": 74606,
+              "forks": 15675,
               "language": "Python",
               "license": "NOASSERTION",
               "topics": [],
-              "updated": "2026-10-11T07:09:08Z",
-              "pushed": "2026-10-09T23:52:52Z",
+              "updated": "2026-10-18T05:51:31Z",
+              "pushed": "2026-10-13T00:31:03Z",
               "awesome": true,
               "path": [
                 "Conversational AI",
@@ -136178,7 +136418,7 @@
               "depth": 2,
               "children": [],
               "stars": 482,
-              "forks": 59,
+              "forks": 60,
               "language": null,
               "license": "CC0-1.0",
               "topics": [
@@ -136209,8 +136449,8 @@
               "sourceRepo": "jyguyomarch/awesome-conversational-ai",
               "depth": 2,
               "children": [],
-              "stars": 19071,
-              "forks": 2884,
+              "stars": 19083,
+              "forks": 2931,
               "language": null,
               "license": "CC0-1.0",
               "topics": [
@@ -136223,8 +136463,8 @@
                 "nlp",
                 "text-mining"
               ],
-              "updated": "2026-10-11T00:17:52Z",
-              "pushed": "2026-09-07T10:42:10Z",
+              "updated": "2026-10-18T04:08:00Z",
+              "pushed": "2026-10-12T22:26:23Z",
               "awesome": true,
               "path": [
                 "Conversational AI",
@@ -136244,8 +136484,8 @@
               "sourceRepo": "jyguyomarch/awesome-conversational-ai",
               "depth": 2,
               "children": [],
-              "stars": 1077,
-              "forks": 71,
+              "stars": 1076,
+              "forks": 72,
               "language": "Ruby",
               "license": "CC0-1.0",
               "topics": [
@@ -136262,7 +136502,7 @@
                 "rubynlp",
                 "sentiment-analysis"
               ],
-              "updated": "2026-10-11T06:15:18Z",
+              "updated": "2026-10-15T20:05:09Z",
               "pushed": "2023-06-27T09:38:04Z",
               "awesome": true,
               "path": [
@@ -136519,8 +136759,8 @@
           "parentId": "root-computer-science-conversational-ai"
         }
       ],
-      "stars": 318,
-      "forks": 24,
+      "stars": 321,
+      "forks": 25,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -136533,7 +136773,7 @@
         "list",
         "nlu"
       ],
-      "updated": "2026-09-30T05:47:40Z",
+      "updated": "2026-10-14T11:06:53Z",
       "pushed": "2022-01-23T18:14:08Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -136670,7 +136910,7 @@
               "title": "ChatGPT Heralds an Intellectual Revolution",
               "kind": "link",
               "repo": "",
-              "url": "https://www.wsj.com/articles/artificial-intelligence-generative-ai-chatgpt-kissinger-84512912",
+              "url": "https://www.wsj.com/articles/chatgpt-heralds-an-intellectual-revolution-enlightenment-artificial-intelligence-homo-technicus-technology-cognition-morality-philosophy-774331c6",
               "description": "An op-ed by Henry Kissinger, Eric Schmidt and Daniel Huttenlocher. Wall Street Journal, February 24, 2023.",
               "external": true,
               "sourceRepo": "steven2358/awesome-generative-ai",
@@ -146466,8 +146706,8 @@
               "sourceRepo": "steven2358/awesome-generative-ai",
               "depth": 2,
               "children": [],
-              "stars": 3553,
-              "forks": 911,
+              "stars": 3555,
+              "forks": 916,
               "language": null,
               "license": "CC0-1.0",
               "topics": [
@@ -146490,7 +146730,7 @@
                 "text-to-image",
                 "txt2img"
               ],
-              "updated": "2026-10-09T01:21:50Z",
+              "updated": "2026-10-17T11:52:00Z",
               "pushed": "2025-12-18T07:31:25Z",
               "awesome": true,
               "path": [
@@ -146667,8 +146907,8 @@
               "sourceRepo": "steven2358/awesome-generative-ai",
               "depth": 2,
               "children": [],
-              "stars": 344,
-              "forks": 22,
+              "stars": 345,
+              "forks": 24,
               "language": "Python",
               "license": "MIT",
               "topics": [
@@ -146692,8 +146932,8 @@
                 "vc",
                 "venture-capital"
               ],
-              "updated": "2026-10-11T05:35:31Z",
-              "pushed": "2026-10-11T05:37:04Z",
+              "updated": "2026-10-15T23:52:57Z",
+              "pushed": "2026-10-15T23:52:54Z",
               "awesome": true,
               "path": [
                 "Generative AI",
@@ -146713,8 +146953,8 @@
               "sourceRepo": "steven2358/awesome-generative-ai",
               "depth": 2,
               "children": [],
-              "stars": 279,
-              "forks": 68,
+              "stars": 282,
+              "forks": 71,
               "language": "Python",
               "license": "CC0-1.0",
               "topics": [
@@ -146739,8 +146979,8 @@
                 "retrieval-augmented-generation",
                 "vector-database"
               ],
-              "updated": "2026-10-11T08:13:44Z",
-              "pushed": "2026-10-05T20:25:34Z",
+              "updated": "2026-10-16T18:40:10Z",
+              "pushed": "2026-10-15T20:10:39Z",
               "awesome": true,
               "path": [
                 "Generative AI",
@@ -146768,7 +147008,7 @@
                   "sourceRepo": "steven2358/awesome-generative-ai",
                   "depth": 3,
                   "children": [],
-                  "stars": 8203,
+                  "stars": 8205,
                   "forks": 567,
                   "language": null,
                   "license": null,
@@ -146778,7 +147018,7 @@
                     "gpt3",
                     "openai"
                   ],
-                  "updated": "2026-10-11T02:46:52Z",
+                  "updated": "2026-10-16T14:09:50Z",
                   "pushed": "2025-10-15T20:35:53Z",
                   "awesome": true,
                   "path": [
@@ -146800,8 +147040,8 @@
                   "sourceRepo": "steven2358/awesome-generative-ai",
                   "depth": 3,
                   "children": [],
-                  "stars": 172535,
-                  "forks": 22101,
+                  "stars": 173277,
+                  "forks": 22164,
                   "language": "HTML",
                   "license": "NOASSERTION",
                   "topics": [
@@ -146824,8 +147064,8 @@
                     "prompts-chat",
                     "typescript"
                   ],
-                  "updated": "2026-10-11T08:21:54Z",
-                  "pushed": "2026-10-11T03:22:49Z",
+                  "updated": "2026-10-18T06:50:12Z",
+                  "pushed": "2026-10-18T03:17:54Z",
                   "awesome": true,
                   "path": [
                     "Generative AI",
@@ -146900,8 +147140,8 @@
                   "sourceRepo": "steven2358/awesome-generative-ai",
                   "depth": 3,
                   "children": [],
-                  "stars": 6443,
-                  "forks": 471,
+                  "stars": 6447,
+                  "forks": 479,
                   "language": null,
                   "license": "CC0-1.0",
                   "topics": [
@@ -146915,7 +147155,7 @@
                     "gpt-4",
                     "openai"
                   ],
-                  "updated": "2026-10-10T23:55:20Z",
+                  "updated": "2026-10-17T15:00:57Z",
                   "pushed": "2026-02-15T18:05:30Z",
                   "awesome": true,
                   "path": [
@@ -146958,8 +147198,8 @@
           "parentId": "root-computer-science-generative-ai"
         }
       ],
-      "stars": 12724,
-      "forks": 2295,
+      "stars": 12739,
+      "forks": 2438,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -146972,8 +147212,8 @@
         "large-language-models",
         "llm"
       ],
-      "updated": "2026-10-11T00:30:27Z",
-      "pushed": "2026-10-03T17:14:50Z",
+      "updated": "2026-10-17T17:27:59Z",
+      "pushed": "2026-10-15T21:22:18Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [

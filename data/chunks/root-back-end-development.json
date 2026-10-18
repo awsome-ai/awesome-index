@@ -5738,8 +5738,8 @@
           "parentId": "root-back-end-development-flask"
         }
       ],
-      "stars": 1796,
-      "forks": 172,
+      "stars": 1800,
+      "forks": 180,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -5748,7 +5748,7 @@
         "flask",
         "flask-resources"
       ],
-      "updated": "2026-10-08T09:38:55Z",
+      "updated": "2026-10-18T01:34:13Z",
       "pushed": "2026-05-13T13:35:25Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -15995,8 +15995,8 @@
               "sourceRepo": "veggiemonk/awesome-docker",
               "depth": 2,
               "children": [],
-              "stars": 46499,
-              "forks": 8327,
+              "stars": 46546,
+              "forks": 8333,
               "language": "HTML",
               "license": "CC0-1.0",
               "topics": [
@@ -16004,8 +16004,8 @@
                 "awesome-list",
                 "docker-compose"
               ],
-              "updated": "2026-10-11T06:37:55Z",
-              "pushed": "2026-10-11T00:55:21Z",
+              "updated": "2026-10-18T05:14:28Z",
+              "pushed": "2026-10-17T12:09:49Z",
               "awesome": true,
               "path": [
                 "Docker",
@@ -16025,8 +16025,8 @@
               "sourceRepo": "veggiemonk/awesome-docker",
               "depth": 2,
               "children": [],
-              "stars": 16118,
-              "forks": 2510,
+              "stars": 16123,
+              "forks": 2512,
               "language": "Shell",
               "license": "NOASSERTION",
               "topics": [
@@ -16049,7 +16049,7 @@
                 "resource",
                 "schedule"
               ],
-              "updated": "2026-10-11T08:00:42Z",
+              "updated": "2026-10-17T21:51:07Z",
               "pushed": "2026-09-21T12:04:05Z",
               "awesome": true,
               "path": [
@@ -17690,8 +17690,8 @@
           "parentId": "root-back-end-development-docker"
         }
       ],
-      "stars": 37009,
-      "forks": 3384,
+      "stars": 37059,
+      "forks": 3393,
       "language": null,
       "license": "Apache-2.0",
       "topics": [
@@ -17714,8 +17714,8 @@
         "moby",
         "tools"
       ],
-      "updated": "2026-10-11T01:33:19Z",
-      "pushed": "2026-10-02T05:20:29Z",
+      "updated": "2026-10-18T04:07:14Z",
+      "pushed": "2026-10-14T20:59:56Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -17978,7 +17978,7 @@
         }
       ],
       "stars": 629,
-      "forks": 57,
+      "forks": 56,
       "language": null,
       "license": null,
       "topics": [
@@ -20786,6 +20786,33 @@
                     "Plugins",
                     "I18n",
                     "Cake/Localized plugin"
+                  ],
+                  "parentId": "root-back-end-development-cakephp-plugins-i18n"
+                },
+                {
+                  "id": "root-back-end-development-cakephp-plugins-i18n-dereuromark-cakephp-i18n-lint",
+                  "title": "dereuromark/cakephp-i18n-lint",
+                  "kind": "repo",
+                  "repo": "dereuromark/cakephp-i18n-lint",
+                  "url": "https://github.com/dereuromark/cakephp-i18n-lint",
+                  "description": "Checks POT templates against the code, syncs and lints PO files for plugins and apps, e.g. in CI.",
+                  "external": false,
+                  "sourceRepo": "friendsofcake/awesome-cakephp",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "CakePHP",
+                    "Plugins",
+                    "I18n",
+                    "dereuromark/cakephp-i18n-lint"
                   ],
                   "parentId": "root-back-end-development-cakephp-plugins-i18n"
                 },
@@ -25110,16 +25137,16 @@
           "parentId": "root-back-end-development-cakephp"
         }
       ],
-      "stars": 936,
-      "forks": 223,
+      "stars": 933,
+      "forks": 225,
       "language": null,
       "license": "WTFPL",
       "topics": [
         "awesome",
         "awesome-list"
       ],
-      "updated": "2026-10-08T10:14:33Z",
-      "pushed": "2026-10-08T10:14:26Z",
+      "updated": "2026-10-14T22:15:59Z",
+      "pushed": "2026-10-11T16:58:30Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -26163,11 +26190,11 @@
         }
       ],
       "stars": 1569,
-      "forks": 223,
+      "forks": 224,
       "language": null,
       "license": null,
       "topics": [],
-      "updated": "2026-09-27T10:06:04Z",
+      "updated": "2026-10-16T06:37:42Z",
       "pushed": "2023-02-22T09:22:45Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -26650,8 +26677,8 @@
                   "sourceRepo": "fukuball/awesome-laravel-education",
                   "depth": 3,
                   "children": [],
-                  "stars": 13108,
-                  "forks": 2343,
+                  "stars": 13111,
+                  "forks": 2345,
                   "language": null,
                   "license": null,
                   "topics": [
@@ -26659,7 +26686,7 @@
                     "laravel",
                     "php"
                   ],
-                  "updated": "2026-10-11T07:09:28Z",
+                  "updated": "2026-10-17T17:35:12Z",
                   "pushed": "2024-07-03T15:59:36Z",
                   "awesome": true,
                   "path": [
@@ -26681,8 +26708,8 @@
                   "sourceRepo": "fukuball/awesome-laravel-education",
                   "depth": 3,
                   "children": [],
-                  "stars": 32736,
-                  "forks": 5137,
+                  "stars": 32754,
+                  "forks": 5194,
                   "language": null,
                   "license": "WTFPL",
                   "topics": [
@@ -26694,7 +26721,7 @@
                     "php-installation",
                     "php-library"
                   ],
-                  "updated": "2026-10-11T03:41:00Z",
+                  "updated": "2026-10-18T04:07:18Z",
                   "pushed": "2026-09-27T20:39:19Z",
                   "awesome": true,
                   "path": [
@@ -33597,8 +33624,8 @@
           "parentId": "root-back-end-development-laravel"
         }
       ],
-      "stars": 13108,
-      "forks": 2343,
+      "stars": 13111,
+      "forks": 2345,
       "language": null,
       "license": null,
       "topics": [
@@ -33606,7 +33633,7 @@
         "laravel",
         "php"
       ],
-      "updated": "2026-10-11T07:09:28Z",
+      "updated": "2026-10-17T17:35:12Z",
       "pushed": "2024-07-03T15:59:36Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -34333,7 +34360,7 @@
             }
           ],
           "stars": 2806,
-          "forks": 281,
+          "forks": 282,
           "language": "Ruby",
           "license": null,
           "topics": [],
@@ -43493,6 +43520,32 @@
               "parentId": "root-back-end-development-rails-gems"
             },
             {
+              "id": "root-back-end-development-rails-gems-railspreflight",
+              "title": "railspreflight",
+              "kind": "repo",
+              "repo": "aslam/rails-preflight",
+              "url": "https://github.com/aslam/rails-preflight",
+              "description": "A gem to report what blocks upgrading a Rails app to a target version, before you change any code. :redcircle:",
+              "external": false,
+              "sourceRepo": "gramantin/awesome-rails",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Rails",
+                "Gems",
+                "railspreflight"
+              ],
+              "parentId": "root-back-end-development-rails-gems"
+            },
+            {
               "id": "root-back-end-development-rails-gems-railssemanticlogger",
               "title": "railssemanticlogger",
               "kind": "repo",
@@ -45533,7 +45586,7 @@
         }
       ],
       "stars": 3934,
-      "forks": 447,
+      "forks": 453,
       "language": null,
       "license": "MIT",
       "topics": [
@@ -45542,8 +45595,8 @@
         "opensource-apps",
         "rails"
       ],
-      "updated": "2026-10-11T06:41:47Z",
-      "pushed": "2026-10-11T06:41:39Z",
+      "updated": "2026-10-15T15:59:31Z",
+      "pushed": "2026-10-15T15:59:24Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -46897,8 +46950,8 @@
           "parentId": "root-back-end-development-kubernetes"
         }
       ],
-      "stars": 16118,
-      "forks": 2510,
+      "stars": 16123,
+      "forks": 2512,
       "language": "Shell",
       "license": "NOASSERTION",
       "topics": [
@@ -46921,7 +46974,7 @@
         "resource",
         "schedule"
       ],
-      "updated": "2026-10-11T08:00:42Z",
+      "updated": "2026-10-17T21:51:07Z",
       "pushed": "2026-09-21T12:04:05Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -50289,7 +50342,7 @@
         "serverless-functions",
         "serverless-plugin"
       ],
-      "updated": "2026-10-04T02:27:37Z",
+      "updated": "2026-10-12T15:44:46Z",
       "pushed": "2022-11-23T08:57:07Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -68696,7 +68749,7 @@
           "parentId": "root-back-end-development-vapor"
         }
       ],
-      "stars": 1286,
+      "stars": 1288,
       "forks": 64,
       "language": "Ruby",
       "license": "CC0-1.0",
@@ -68707,7 +68760,7 @@
         "swift",
         "vapor"
       ],
-      "updated": "2026-10-02T14:11:09Z",
+      "updated": "2026-10-12T22:24:20Z",
       "pushed": "2023-10-14T17:45:31Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -69468,8 +69521,8 @@
               "sourceRepo": "ucg8j/awesome-dash",
               "depth": 2,
               "children": [],
-              "stars": 48585,
-              "forks": 3855,
+              "stars": 48670,
+              "forks": 3867,
               "language": null,
               "license": "CC0-1.0",
               "topics": [
@@ -69479,7 +69532,7 @@
                 "react-component",
                 "react-components"
               ],
-              "updated": "2026-10-11T07:24:01Z",
+              "updated": "2026-10-18T05:00:45Z",
               "pushed": "2026-01-26T16:36:45Z",
               "awesome": true,
               "path": [
@@ -69500,8 +69553,8 @@
               "sourceRepo": "ucg8j/awesome-dash",
               "depth": 2,
               "children": [],
-              "stars": 74850,
-              "forks": 7671,
+              "stars": 74935,
+              "forks": 7672,
               "language": null,
               "license": null,
               "topics": [
@@ -69516,7 +69569,7 @@
                 "tutorial",
                 "typescript"
               ],
-              "updated": "2026-10-11T07:47:40Z",
+              "updated": "2026-10-18T06:03:46Z",
               "pushed": "2026-09-04T01:13:20Z",
               "awesome": true,
               "path": [
@@ -70873,7 +70926,7 @@
           "parentId": "root-back-end-development-dash"
         }
       ],
-      "stars": 2271,
+      "stars": 2272,
       "forks": 260,
       "language": "Python",
       "license": "CC0-1.0",
@@ -70883,7 +70936,7 @@
         "plotly",
         "python"
       ],
-      "updated": "2026-10-08T12:00:52Z",
+      "updated": "2026-10-12T17:42:08Z",
       "pushed": "2024-12-30T09:48:42Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -77170,8 +77223,8 @@
           "parentId": "root-back-end-development-fastapi"
         }
       ],
-      "stars": 11710,
-      "forks": 902,
+      "stars": 11718,
+      "forks": 946,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -77180,7 +77233,7 @@
         "fastapi",
         "starlette"
       ],
-      "updated": "2026-10-11T02:46:53Z",
+      "updated": "2026-10-17T04:00:38Z",
       "pushed": "2026-08-24T17:18:28Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -81259,7 +81312,7 @@
               "sourceRepo": "kdeldycke/awesome-iam",
               "depth": 2,
               "children": [],
-              "stars": 130,
+              "stars": 131,
               "forks": 31,
               "language": "HTML",
               "license": "CC0-1.0",
@@ -81280,7 +81333,7 @@
                 "openidconnect",
                 "security"
               ],
-              "updated": "2026-10-09T18:59:17Z",
+              "updated": "2026-10-11T10:58:11Z",
               "pushed": "2026-10-01T06:42:16Z",
               "awesome": true,
               "path": [
@@ -82361,7 +82414,7 @@
               "sourceRepo": "kdeldycke/awesome-iam",
               "depth": 2,
               "children": [],
-              "stars": 1354,
+              "stars": 1357,
               "forks": 108,
               "language": null,
               "license": "CC0-1.0",
@@ -82387,8 +82440,8 @@
                 "usage-based-billing",
                 "vat"
               ],
-              "updated": "2026-10-09T17:25:28Z",
-              "pushed": "2026-09-28T10:49:42Z",
+              "updated": "2026-10-15T13:58:24Z",
+              "pushed": "2026-10-12T12:13:30Z",
               "awesome": true,
               "path": [
                 "IAM",
@@ -82893,8 +82946,8 @@
                   "sourceRepo": "kdeldycke/awesome-iam",
                   "depth": 3,
                   "children": [],
-                  "stars": 10724,
-                  "forks": 1833,
+                  "stars": 10744,
+                  "forks": 1882,
                   "language": null,
                   "license": "Apache-2.0",
                   "topics": [
@@ -82903,7 +82956,7 @@
                     "hacktoberfest",
                     "security"
                   ],
-                  "updated": "2026-10-10T21:16:01Z",
+                  "updated": "2026-10-18T06:19:13Z",
                   "pushed": "2026-05-31T10:54:05Z",
                   "awesome": true,
                   "path": [
@@ -83246,8 +83299,8 @@
                   "sourceRepo": "kdeldycke/awesome-iam",
                   "depth": 3,
                   "children": [],
-                  "stars": 1435,
-                  "forks": 130,
+                  "stars": 1436,
+                  "forks": 131,
                   "language": "JavaScript",
                   "license": "MIT",
                   "topics": [
@@ -83264,7 +83317,7 @@
                     "crack-captcha",
                     "image-captcha"
                   ],
-                  "updated": "2026-10-08T07:47:02Z",
+                  "updated": "2026-10-18T00:34:16Z",
                   "pushed": "2026-09-10T23:34:45Z",
                   "awesome": true,
                   "path": [
@@ -85000,8 +85053,8 @@
           "parentId": "root-back-end-development-iam"
         }
       ],
-      "stars": 2302,
-      "forks": 194,
+      "stars": 2305,
+      "forks": 200,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -85026,8 +85079,8 @@
         "webauthn",
         "zero-trust"
       ],
-      "updated": "2026-10-10T10:17:23Z",
-      "pushed": "2026-09-28T07:23:45Z",
+      "updated": "2026-10-15T03:17:34Z",
+      "pushed": "2026-10-12T12:15:16Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -85966,7 +86019,7 @@
         }
       ],
       "stars": 48,
-      "forks": 4,
+      "forks": 5,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -88442,6 +88495,33 @@
                     "oaswrap/fiberopenapi"
                   ],
                   "parentId": "root-back-end-development-fiber-middlewares-third-party"
+                },
+                {
+                  "id": "root-back-end-development-fiber-middlewares-third-party-guard-core-fiber-guard",
+                  "title": "Guard-Core/fiber-guard",
+                  "kind": "repo",
+                  "repo": "guard-core/fiber-guard",
+                  "url": "https://github.com/guard-core/fiber-guard",
+                  "description": "Security middleware for Fiber with IP filtering, rate limiting with automatic bans, attack pattern detection and security headers.",
+                  "external": false,
+                  "sourceRepo": "gofiber/awesome-fiber",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Fiber",
+                    "⚙️ Middlewares",
+                    "🌱 Third Party",
+                    "Guard-Core/fiber-guard"
+                  ],
+                  "parentId": "root-back-end-development-fiber-middlewares-third-party"
                 }
               ],
               "stars": 0,
@@ -90213,8 +90293,8 @@
           "parentId": "root-back-end-development-fiber"
         }
       ],
-      "stars": 848,
-      "forks": 60,
+      "stars": 852,
+      "forks": 63,
       "language": null,
       "license": "MIT",
       "topics": [
@@ -90225,8 +90305,8 @@
         "middleware",
         "recipes"
       ],
-      "updated": "2026-10-11T06:15:08Z",
-      "pushed": "2026-10-11T06:15:03Z",
+      "updated": "2026-10-17T23:28:03Z",
+      "pushed": "2026-10-17T05:33:55Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -91246,8 +91326,8 @@
               "sourceRepo": "devopshivehq/awesome-kustomize",
               "depth": 2,
               "children": [],
-              "stars": 16118,
-              "forks": 2510,
+              "stars": 16123,
+              "forks": 2512,
               "language": "Shell",
               "license": "NOASSERTION",
               "topics": [
@@ -91270,7 +91350,7 @@
                 "resource",
                 "schedule"
               ],
-              "updated": "2026-10-11T08:00:42Z",
+              "updated": "2026-10-17T21:51:07Z",
               "pushed": "2026-09-21T12:04:05Z",
               "awesome": true,
               "path": [
@@ -91322,8 +91402,8 @@
               "sourceRepo": "devopshivehq/awesome-kustomize",
               "depth": 2,
               "children": [],
-              "stars": 1118,
-              "forks": 122,
+              "stars": 1119,
+              "forks": 124,
               "language": null,
               "license": "NOASSERTION",
               "topics": [
@@ -91334,7 +91414,7 @@
                 "k8s",
                 "kuberenetes"
               ],
-              "updated": "2026-10-10T18:44:16Z",
+              "updated": "2026-10-15T13:43:50Z",
               "pushed": "2026-05-16T21:05:30Z",
               "awesome": true,
               "path": [
@@ -97360,7 +97440,7 @@
           "parentId": "root-back-end-development-reflex"
         }
       ],
-      "stars": 140,
+      "stars": 141,
       "forks": 9,
       "language": null,
       "license": "CC0-1.0",
@@ -97368,7 +97448,7 @@
         "awesome",
         "awesome-list"
       ],
-      "updated": "2026-09-22T19:47:40Z",
+      "updated": "2026-10-11T12:54:23Z",
       "pushed": "2025-04-21T17:00:08Z",
       "awesome": true,
       "readmeStatus": "expanded",

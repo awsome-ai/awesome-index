@@ -243,12 +243,12 @@
           "parentId": "root-databases-database"
         }
       ],
-      "stars": 1379,
+      "stars": 1380,
       "forks": 184,
       "language": null,
       "license": null,
       "topics": [],
-      "updated": "2026-10-02T21:33:58Z",
+      "updated": "2026-10-13T10:57:47Z",
       "pushed": "2024-03-04T12:40:15Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -3585,12 +3585,12 @@
           "parentId": "root-databases-mysql"
         }
       ],
-      "stars": 2613,
-      "forks": 417,
+      "stars": 2616,
+      "forks": 420,
       "language": "Python",
       "license": "NOASSERTION",
       "topics": [],
-      "updated": "2026-10-08T06:38:32Z",
+      "updated": "2026-10-17T19:20:27Z",
       "pushed": "2026-10-08T06:38:25Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -3611,7 +3611,7 @@
       "depth": 1,
       "children": [],
       "stars": 3066,
-      "forks": 167,
+      "forks": 177,
       "language": "Python",
       "license": null,
       "topics": [
@@ -8906,6 +8906,33 @@
                   "parentId": "root-databases-mongodb-tools-administration"
                 },
                 {
+                  "id": "root-databases-mongodb-tools-administration-mongorescue",
+                  "title": "MongoRescue",
+                  "kind": "repo",
+                  "repo": "yigitcittan/mongorescue",
+                  "url": "https://github.com/yigitcittan/mongorescue",
+                  "description": "Backup and disaster recovery tool streaming archives to local or S3 storage, with embedded dashboard, continuous PITR, and age encryption",
+                  "external": false,
+                  "sourceRepo": "ramnes/awesome-mongodb",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "MongoDB",
+                    "Tools",
+                    "Administration",
+                    "MongoRescue"
+                  ],
+                  "parentId": "root-databases-mongodb-tools-administration"
+                },
+                {
                   "id": "root-databases-mongodb-tools-administration-mtools",
                   "title": "mtools",
                   "kind": "repo",
@@ -9250,6 +9277,33 @@
                     "Tools",
                     "Data",
                     "Mongolastic"
+                  ],
+                  "parentId": "root-databases-mongodb-tools-data"
+                },
+                {
+                  "id": "root-databases-mongodb-tools-data-olake",
+                  "title": "OLake",
+                  "kind": "repo",
+                  "repo": "datazip-inc/olake",
+                  "url": "https://github.com/datazip-inc/olake",
+                  "description": "Open-source MongoDB to Apache Iceberg replication using change streams or oplog CDC, with parallel full loads. Written in Go",
+                  "external": false,
+                  "sourceRepo": "ramnes/awesome-mongodb",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "MongoDB",
+                    "Tools",
+                    "Data",
+                    "OLake"
                   ],
                   "parentId": "root-databases-mongodb-tools-data"
                 },
@@ -9680,6 +9734,33 @@
                   "parentId": "root-databases-mongodb-tools-desktop"
                 },
                 {
+                  "id": "root-databases-mongodb-tools-desktop-bsonjet",
+                  "title": "BsonJet",
+                  "kind": "link",
+                  "repo": "",
+                  "url": "https://bsonjet.com",
+                  "description": "Native cross-platform GUI (no Electron, no Java), free for personal use; copy databases between servers, encrypted backups, replica set health",
+                  "external": true,
+                  "sourceRepo": "ramnes/awesome-mongodb",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "MongoDB",
+                    "Tools",
+                    "Desktop",
+                    "BsonJet"
+                  ],
+                  "parentId": "root-databases-mongodb-tools-desktop"
+                },
+                {
                   "id": "root-databases-mongodb-tools-desktop-datagrip",
                   "title": "DataGrip",
                   "kind": "link",
@@ -9970,6 +10051,33 @@
                     "Tools",
                     "Development",
                     "C# Analyzer"
+                  ],
+                  "parentId": "root-databases-mongodb-tools-development"
+                },
+                {
+                  "id": "root-databases-mongodb-tools-development-keploy",
+                  "title": "Keploy",
+                  "kind": "repo",
+                  "repo": "keploy/keploy",
+                  "url": "https://github.com/keploy/keploy",
+                  "description": "Records real MongoDB query results and replays them as mocks in tests, without a running database",
+                  "external": false,
+                  "sourceRepo": "ramnes/awesome-mongodb",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "MongoDB",
+                    "Tools",
+                    "Development",
+                    "Keploy"
                   ],
                   "parentId": "root-databases-mongodb-tools-development"
                 },
@@ -10349,6 +10457,33 @@
                   "parentId": "root-databases-mongodb-tools-monitoring"
                 },
                 {
+                  "id": "root-databases-mongodb-tools-monitoring-solidping",
+                  "title": "SolidPing",
+                  "kind": "repo",
+                  "repo": "fclairamb/solidping",
+                  "url": "https://github.com/fclairamb/solidping",
+                  "description": "Self-hosted uptime monitor with a MongoDB ping check and alerting",
+                  "external": false,
+                  "sourceRepo": "ramnes/awesome-mongodb",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "MongoDB",
+                    "Tools",
+                    "Monitoring",
+                    "SolidPing"
+                  ],
+                  "parentId": "root-databases-mongodb-tools-monitoring"
+                },
+                {
                   "id": "root-databases-mongodb-tools-monitoring-mongotail",
                   "title": "mongotail",
                   "kind": "repo",
@@ -10666,6 +10801,33 @@
               "depth": 2,
               "url": "https://github.com/ramnes/awesome-mongodb#shell",
               "children": [
+                {
+                  "id": "root-databases-mongodb-tools-shell-masume",
+                  "title": "masume",
+                  "kind": "repo",
+                  "repo": "masumedb/masume",
+                  "url": "https://github.com/masumedb/masume",
+                  "description": "Keyboard-first terminal database client with AI chat and an MCP server",
+                  "external": false,
+                  "sourceRepo": "ramnes/awesome-mongodb",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "MongoDB",
+                    "Tools",
+                    "Shell",
+                    "masume"
+                  ],
+                  "parentId": "root-databases-mongodb-tools-shell"
+                },
                 {
                   "id": "root-databases-mongodb-tools-shell-mongodb-atlas-cli",
                   "title": "MongoDB Atlas CLI",
@@ -11325,8 +11487,8 @@
           "parentId": "root-databases-mongodb"
         }
       ],
-      "stars": 2676,
-      "forks": 359,
+      "stars": 2677,
+      "forks": 370,
       "language": null,
       "license": null,
       "topics": [
@@ -11336,8 +11498,8 @@
         "mongodb",
         "mongodb-resources"
       ],
-      "updated": "2026-10-08T07:36:07Z",
-      "pushed": "2026-10-07T21:17:53Z",
+      "updated": "2026-10-16T13:59:13Z",
+      "pushed": "2026-10-16T10:44:28Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -16017,8 +16179,8 @@
           "parentId": "root-databases-postgresql"
         }
       ],
-      "stars": 12108,
-      "forks": 1042,
+      "stars": 12117,
+      "forks": 1048,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -16026,7 +16188,7 @@
         "postgres",
         "postgresql"
       ],
-      "updated": "2026-10-11T06:20:30Z",
+      "updated": "2026-10-17T20:25:42Z",
       "pushed": "2026-08-31T09:07:19Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -29790,8 +29952,8 @@
           "parentId": "root-databases-database-tools"
         }
       ],
-      "stars": 5326,
-      "forks": 498,
+      "stars": 5337,
+      "forks": 514,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -29805,7 +29967,7 @@
         "sql-client",
         "visualization"
       ],
-      "updated": "2026-10-10T18:37:46Z",
+      "updated": "2026-10-17T19:20:29Z",
       "pushed": "2026-10-03T22:23:45Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -31643,8 +31805,8 @@
           "parentId": "root-databases-supabase"
         }
       ],
-      "stars": 485,
-      "forks": 73,
+      "stars": 483,
+      "forks": 76,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -31652,7 +31814,7 @@
         "awesome-list",
         "supabase"
       ],
-      "updated": "2026-09-30T17:07:55Z",
+      "updated": "2026-10-17T12:40:53Z",
       "pushed": "2026-07-19T02:12:23Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -33304,6 +33466,32 @@
                 "Unity (Multiplatform)"
               ],
               "parentId": "root-databases-pocketbase-unofficial-pocketbase-clients-sdks"
+            },
+            {
+              "id": "root-databases-pocketbase-unofficial-pocketbase-clients-sdks-ruby",
+              "title": "Ruby",
+              "kind": "repo",
+              "repo": "azmi2409/pocketbase-ruby",
+              "url": "https://github.com/azmi2409/pocketbase-ruby",
+              "description": "PocketBase Client in Ruby.",
+              "external": false,
+              "sourceRepo": "benallfree/awesome-pocketbase",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "PocketBase",
+                "Unofficial PocketBase Clients (SDKs)",
+                "Ruby"
+              ],
+              "parentId": "root-databases-pocketbase-unofficial-pocketbase-clients-sdks"
             }
           ],
           "stars": 0,
@@ -34511,6 +34699,32 @@
                 "TinyCld"
               ],
               "parentId": "root-databases-pocketbase-showcases"
+            },
+            {
+              "id": "root-databases-pocketbase-showcases-facet",
+              "title": "Facet",
+              "kind": "repo",
+              "repo": "jesposito/facet",
+              "url": "https://github.com/jesposito/facet",
+              "description": "Self-hostable personal profile and portfolio platform built on PocketBase and Svelte, and the open-source core of the Facet Cloud creator platform.",
+              "external": false,
+              "sourceRepo": "benallfree/awesome-pocketbase",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "PocketBase",
+                "Showcases",
+                "Facet"
+              ],
+              "parentId": "root-databases-pocketbase-showcases"
             }
           ],
           "stars": 0,
@@ -34550,8 +34764,8 @@
           "parentId": "root-databases-pocketbase"
         }
       ],
-      "stars": 1208,
-      "forks": 67,
+      "stars": 1209,
+      "forks": 69,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -34560,8 +34774,8 @@
         "golang",
         "pocketbase"
       ],
-      "updated": "2026-10-10T15:12:14Z",
-      "pushed": "2026-09-29T18:23:04Z",
+      "updated": "2026-10-14T22:17:21Z",
+      "pushed": "2026-10-14T04:59:37Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
