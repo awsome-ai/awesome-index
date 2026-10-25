@@ -557,12 +557,12 @@
           "parentId": "root-development-environment-dev-env"
         }
       ],
-      "stars": 3372,
-      "forks": 208,
+      "stars": 3379,
+      "forks": 209,
       "language": null,
       "license": null,
       "topics": [],
-      "updated": "2026-10-17T14:52:06Z",
+      "updated": "2026-10-22T16:25:18Z",
       "pushed": "2024-07-29T13:08:35Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -3030,8 +3030,8 @@
           "parentId": "root-development-environment-dotfiles"
         }
       ],
-      "stars": 10905,
-      "forks": 412,
+      "stars": 10912,
+      "forks": 370,
       "language": null,
       "license": null,
       "topics": [
@@ -3046,7 +3046,7 @@
         "tools",
         "zsh"
       ],
-      "updated": "2026-10-18T03:57:55Z",
+      "updated": "2026-10-25T03:28:43Z",
       "pushed": "2026-10-11T07:59:17Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -3381,8 +3381,8 @@
           "parentId": "root-development-environment-shell"
         }
       ],
-      "stars": 37795,
-      "forks": 2567,
+      "stars": 37837,
+      "forks": 2569,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -3395,7 +3395,7 @@
         "shell",
         "zsh"
       ],
-      "updated": "2026-10-18T04:07:06Z",
+      "updated": "2026-10-25T04:31:04Z",
       "pushed": "2025-08-28T14:40:51Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -19813,8 +19813,8 @@
               "sourceRepo": "agarrharr/awesome-cli-apps",
               "depth": 2,
               "children": [],
-              "stars": 2642,
-              "forks": 370,
+              "stars": 2652,
+              "forks": 382,
               "language": "Python",
               "license": null,
               "topics": [
@@ -19830,7 +19830,7 @@
                 "terminal-based",
                 "tui"
               ],
-              "updated": "2026-10-17T19:11:26Z",
+              "updated": "2026-10-24T13:38:12Z",
               "pushed": "2026-09-21T22:56:28Z",
               "awesome": true,
               "path": [
@@ -19981,8 +19981,8 @@
               "sourceRepo": "agarrharr/awesome-cli-apps",
               "depth": 2,
               "children": [],
-              "stars": 2209,
-              "forks": 128,
+              "stars": 2211,
+              "forks": 129,
               "language": null,
               "license": null,
               "topics": [
@@ -19999,7 +19999,7 @@
                 "lists",
                 "resources"
               ],
-              "updated": "2026-10-17T12:36:01Z",
+              "updated": "2026-10-21T15:09:18Z",
               "pushed": "2024-10-15T07:18:48Z",
               "awesome": true,
               "path": [
@@ -20051,8 +20051,8 @@
           "parentId": "root-development-environment-command-line-apps"
         }
       ],
-      "stars": 20548,
-      "forks": 1576,
+      "stars": 20569,
+      "forks": 1542,
       "language": "Shell",
       "license": null,
       "topics": [
@@ -20062,7 +20062,7 @@
         "cli-app",
         "list"
       ],
-      "updated": "2026-10-18T04:07:52Z",
+      "updated": "2026-10-25T05:33:22Z",
       "pushed": "2026-10-12T03:27:55Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -22478,6 +22478,29 @@
               "parentId": "root-development-environment-zsh-plugins-frameworks"
             },
             {
+              "id": "root-development-environment-zsh-plugins-frameworks-zdx-suite",
+              "title": "zdx-suite",
+              "kind": "section",
+              "sourceRepo": "unixorn/awesome-zsh-plugins",
+              "depth": 2,
+              "url": "https://github.com/unixorn/awesome-zsh-plugins#zdx-suite",
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "ZSH Plugins",
+                "Frameworks",
+                "zdx-suite"
+              ],
+              "parentId": "root-development-environment-zsh-plugins-frameworks"
+            },
+            {
               "id": "root-development-environment-zsh-plugins-frameworks-zeesh",
               "title": "zeesh",
               "kind": "section",
@@ -22543,6 +22566,29 @@
                 "ZSH Plugins",
                 "Frameworks",
                 "zert"
+              ],
+              "parentId": "root-development-environment-zsh-plugins-frameworks"
+            },
+            {
+              "id": "root-development-environment-zsh-plugins-frameworks-zflash",
+              "title": "zflash",
+              "kind": "section",
+              "sourceRepo": "unixorn/awesome-zsh-plugins",
+              "depth": 2,
+              "url": "https://github.com/unixorn/awesome-zsh-plugins#zflash",
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "ZSH Plugins",
+                "Frameworks",
+                "zflash"
               ],
               "parentId": "root-development-environment-zsh-plugins-frameworks"
             },
@@ -24971,7 +25017,7 @@
                     "zshrc"
                   ],
                   "updated": "2026-10-12T22:44:53Z",
-                  "pushed": "2026-10-13T22:37:42Z",
+                  "pushed": "2026-10-19T17:47:24Z",
                   "awesome": true,
                   "path": [
                     "ZSH Plugins",
@@ -25481,12 +25527,12 @@
               "sourceRepo": "unixorn/awesome-zsh-plugins",
               "depth": 2,
               "children": [],
-              "stars": 2524,
+              "stars": 2527,
               "forks": 228,
               "language": "Shell",
               "license": "MIT",
               "topics": [],
-              "updated": "2026-10-04T15:37:05Z",
+              "updated": "2026-10-23T20:08:38Z",
               "pushed": "2024-01-16T06:56:48Z",
               "awesome": true,
               "path": [
@@ -26026,6 +26072,33 @@
                   "parentId": "root-development-environment-zsh-plugins-tutorials-generic-zsh"
                 },
                 {
+                  "id": "root-development-environment-zsh-plugins-tutorials-generic-zsh-commandlinepoweruser-com",
+                  "title": "commandlinepoweruser.com",
+                  "kind": "link",
+                  "repo": "",
+                  "url": "https://commandlinepoweruser.com/",
+                  "description": "Wes Bos' videos introducing ZSH and oh-my-zsh.",
+                  "external": true,
+                  "sourceRepo": "unixorn/awesome-zsh-plugins",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "ZSH Plugins",
+                    "Tutorials",
+                    "Generic ZSH",
+                    "commandlinepoweruser.com"
+                  ],
+                  "parentId": "root-development-environment-zsh-plugins-tutorials-generic-zsh"
+                },
+                {
                   "id": "root-development-environment-zsh-plugins-tutorials-generic-zsh-gh",
                   "title": "GH",
                   "kind": "repo",
@@ -26076,33 +26149,6 @@
                     "Tutorials",
                     "Generic ZSH",
                     "How To Make an Awesome Custom Shell with ZSH"
-                  ],
-                  "parentId": "root-development-environment-zsh-plugins-tutorials-generic-zsh"
-                },
-                {
-                  "id": "root-development-environment-zsh-plugins-tutorials-generic-zsh-commandlinepoweruser-com",
-                  "title": "commandlinepoweruser.com",
-                  "kind": "link",
-                  "repo": "",
-                  "url": "https://commandlinepoweruser.com/",
-                  "description": "Wes Bos' videos introducing ZSH and oh-my-zsh.",
-                  "external": true,
-                  "sourceRepo": "unixorn/awesome-zsh-plugins",
-                  "depth": 3,
-                  "children": [],
-                  "stars": 0,
-                  "forks": 0,
-                  "language": null,
-                  "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
-                  "awesome": false,
-                  "path": [
-                    "ZSH Plugins",
-                    "Tutorials",
-                    "Generic ZSH",
-                    "commandlinepoweruser.com"
                   ],
                   "parentId": "root-development-environment-zsh-plugins-tutorials-generic-zsh"
                 },
@@ -26269,33 +26315,6 @@
                   "parentId": "root-development-environment-zsh-plugins-tutorials-generic-zsh"
                 },
                 {
-                  "id": "root-development-environment-zsh-plugins-tutorials-generic-zsh-zsh-tips-by-christian-schneider",
-                  "title": "ZSH tips by Christian Schneider",
-                  "kind": "link",
-                  "repo": "",
-                  "url": "http://strcat.de/zsh/#tipps",
-                  "description": "An exhaustive list of ZSH tips by Christian Schneider.",
-                  "external": true,
-                  "sourceRepo": "unixorn/awesome-zsh-plugins",
-                  "depth": 3,
-                  "children": [],
-                  "stars": 0,
-                  "forks": 0,
-                  "language": null,
-                  "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
-                  "awesome": false,
-                  "path": [
-                    "ZSH Plugins",
-                    "Tutorials",
-                    "Generic ZSH",
-                    "ZSH tips by Christian Schneider"
-                  ],
-                  "parentId": "root-development-environment-zsh-plugins-tutorials-generic-zsh"
-                },
-                {
                   "id": "root-development-environment-zsh-plugins-tutorials-generic-zsh-zsh-setup-by-easy-cloud-in",
                   "title": "ZSH Setup by Easy-Cloud-in",
                   "kind": "repo",
@@ -26319,6 +26338,33 @@
                     "Tutorials",
                     "Generic ZSH",
                     "ZSH Setup by Easy-Cloud-in"
+                  ],
+                  "parentId": "root-development-environment-zsh-plugins-tutorials-generic-zsh"
+                },
+                {
+                  "id": "root-development-environment-zsh-plugins-tutorials-generic-zsh-zsh-tips-by-christian-schneider",
+                  "title": "ZSH tips by Christian Schneider",
+                  "kind": "link",
+                  "repo": "",
+                  "url": "http://strcat.de/zsh/#tipps",
+                  "description": "An exhaustive list of ZSH tips by Christian Schneider.",
+                  "external": true,
+                  "sourceRepo": "unixorn/awesome-zsh-plugins",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "ZSH Plugins",
+                    "Tutorials",
+                    "Generic ZSH",
+                    "ZSH tips by Christian Schneider"
                   ],
                   "parentId": "root-development-environment-zsh-plugins-tutorials-generic-zsh"
                 },
@@ -50648,6 +50694,32 @@
               "parentId": "root-development-environment-zsh-plugins-plugins"
             },
             {
+              "id": "root-development-environment-zsh-plugins-plugins-spotify-now",
+              "title": "spotify-now",
+              "kind": "repo",
+              "repo": "ericlikedis/spotify-now",
+              "url": "https://github.com/ericlikedis/spotify-now",
+              "description": "Shows the track Spotify is playing in your prompt, in a green box with animated equalizer bars. Works on macOS and Linux.",
+              "external": false,
+              "sourceRepo": "unixorn/awesome-zsh-plugins",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "ZSH Plugins",
+                "Plugins",
+                "spotify-now"
+              ],
+              "parentId": "root-development-environment-zsh-plugins-plugins"
+            },
+            {
               "id": "root-development-environment-zsh-plugins-plugins-ssh-agent",
               "title": "ssh-agent",
               "kind": "repo",
@@ -71390,6 +71462,32 @@
               "parentId": "root-development-environment-zsh-plugins-themes"
             },
             {
+              "id": "root-development-environment-zsh-plugins-themes-friesent",
+              "title": "friesent",
+              "kind": "repo",
+              "repo": "friesentius/friesent-zsh",
+              "url": "https://github.com/friesentius/friesent-zsh",
+              "description": "Minimalist theme with decorators for username@host, an arrow that turns green or red based on the last command's exit status, the current directory, and git branch/status when inside a repository.",
+              "external": false,
+              "sourceRepo": "unixorn/awesome-zsh-plugins",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "ZSH Plugins",
+                "Themes",
+                "friesent"
+              ],
+              "parentId": "root-development-environment-zsh-plugins-themes"
+            },
+            {
               "id": "root-development-environment-zsh-plugins-themes-frisk-arrow",
               "title": "frisk-arrow",
               "kind": "repo",
@@ -91703,12 +91801,12 @@
               "sourceRepo": "unixorn/awesome-zsh-plugins",
               "depth": 2,
               "children": [],
-              "stars": 2524,
+              "stars": 2527,
               "forks": 228,
               "language": "Shell",
               "license": "MIT",
               "topics": [],
-              "updated": "2026-10-04T15:37:05Z",
+              "updated": "2026-10-23T20:08:38Z",
               "pushed": "2024-01-16T06:56:48Z",
               "awesome": true,
               "path": [
@@ -92646,8 +92744,8 @@
                   "id": "root-development-environment-zsh-plugins-other-resources-zsh-tools-shtab",
                   "title": "shtab",
                   "kind": "repo",
-                  "repo": "iterative/shtab",
-                  "url": "https://github.com/iterative/shtab",
+                  "repo": "tqdm/shtab",
+                  "url": "https://github.com/tqdm/shtab",
                   "description": "Automatically generate shell tab completion scripts for Python CLI apps, supports zsh, bash and tcsh.",
                   "external": false,
                   "sourceRepo": "unixorn/awesome-zsh-plugins",
@@ -92693,6 +92791,33 @@
                     "Other Resources",
                     "ZSH Tools",
                     "smucd"
+                  ],
+                  "parentId": "root-development-environment-zsh-plugins-other-resources-zsh-tools"
+                },
+                {
+                  "id": "root-development-environment-zsh-plugins-other-resources-zsh-tools-suvadu",
+                  "title": "suvadu",
+                  "kind": "repo",
+                  "repo": "appachitech/suvadu",
+                  "url": "https://github.com/appachitech/suvadu",
+                  "description": "Shell history in local SQLite with directory, exit code and AI agent commands, with a ZSH widget for Ctrl+R and Up-arrow recall.",
+                  "external": false,
+                  "sourceRepo": "unixorn/awesome-zsh-plugins",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "ZSH Plugins",
+                    "Other Resources",
+                    "ZSH Tools",
+                    "suvadu"
                   ],
                   "parentId": "root-development-environment-zsh-plugins-other-resources-zsh-tools"
                 },
@@ -92947,12 +93072,12 @@
                   "sourceRepo": "unixorn/awesome-zsh-plugins",
                   "depth": 3,
                   "children": [],
-                  "stars": 3372,
-                  "forks": 208,
+                  "stars": 3379,
+                  "forks": 209,
                   "language": null,
                   "license": null,
                   "topics": [],
-                  "updated": "2026-10-17T14:52:06Z",
+                  "updated": "2026-10-22T16:25:18Z",
                   "pushed": "2024-07-29T13:08:35Z",
                   "awesome": true,
                   "path": [
@@ -93176,8 +93301,8 @@
           "parentId": "root-development-environment-zsh-plugins"
         }
       ],
-      "stars": 18062,
-      "forks": 663,
+      "stars": 18090,
+      "forks": 618,
       "language": "Shell",
       "license": "BSD-3-Clause",
       "topics": [
@@ -93195,8 +93320,8 @@
         "zsh-prompt",
         "zsh-theme"
       ],
-      "updated": "2026-10-18T04:08:03Z",
-      "pushed": "2026-10-17T21:22:08Z",
+      "updated": "2026-10-25T03:15:35Z",
+      "pushed": "2026-10-22T13:13:11Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -94722,7 +94847,7 @@
               "parentId": "root-development-environment-github-browser-extensions"
             }
           ],
-          "stars": 3310,
+          "stars": 3312,
           "forks": 205,
           "language": "JavaScript",
           "license": null,
@@ -94735,7 +94860,7 @@
             "github-extension",
             "list"
           ],
-          "updated": "2026-10-15T04:20:49Z",
+          "updated": "2026-10-21T07:28:06Z",
           "pushed": "2024-08-18T20:11:31Z",
           "awesome": true,
           "readmeStatus": "expanded",
@@ -96472,8 +96597,8 @@
               "parentId": "root-development-environment-github-pinned-gists"
             }
           ],
-          "stars": 2118,
-          "forks": 96,
+          "stars": 2120,
+          "forks": 97,
           "language": null,
           "license": null,
           "topics": [
@@ -96481,7 +96606,7 @@
             "awesome-list",
             "pinned-gist"
           ],
-          "updated": "2026-10-13T12:44:58Z",
+          "updated": "2026-10-22T17:58:38Z",
           "pushed": "2025-08-05T04:12:43Z",
           "awesome": true,
           "readmeStatus": "expanded",
@@ -97396,7 +97521,7 @@
               "sourceRepo": "phillipadsmith/awesome-github",
               "depth": 2,
               "children": [],
-              "stars": 3310,
+              "stars": 3312,
               "forks": 205,
               "language": "JavaScript",
               "license": null,
@@ -97409,7 +97534,7 @@
                 "github-extension",
                 "list"
               ],
-              "updated": "2026-10-15T04:20:49Z",
+              "updated": "2026-10-21T07:28:06Z",
               "pushed": "2024-08-18T20:11:31Z",
               "awesome": true,
               "path": [
@@ -103426,8 +103551,8 @@
           "parentId": "root-development-environment-git-add-ons"
         }
       ],
-      "stars": 2209,
-      "forks": 128,
+      "stars": 2211,
+      "forks": 129,
       "language": null,
       "license": null,
       "topics": [
@@ -103444,7 +103569,7 @@
         "lists",
         "resources"
       ],
-      "updated": "2026-10-17T12:36:01Z",
+      "updated": "2026-10-21T15:09:18Z",
       "pushed": "2024-10-15T07:18:48Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -103491,7 +103616,7 @@
                   "sourceRepo": "compscilauren/awesome-git-hooks",
                   "depth": 3,
                   "children": [],
-                  "stars": 1194,
+                  "stars": 1196,
                   "forks": 63,
                   "language": "Shell",
                   "license": "NOASSERTION",
@@ -103504,7 +103629,7 @@
                     "hooks",
                     "script"
                   ],
-                  "updated": "2026-10-14T03:26:17Z",
+                  "updated": "2026-10-24T13:11:09Z",
                   "pushed": "2026-03-25T23:23:08Z",
                   "awesome": true,
                   "path": [
@@ -103550,7 +103675,7 @@
                   "sourceRepo": "compscilauren/awesome-git-hooks",
                   "depth": 3,
                   "children": [],
-                  "stars": 1194,
+                  "stars": 1196,
                   "forks": 63,
                   "language": "Shell",
                   "license": "NOASSERTION",
@@ -103563,7 +103688,7 @@
                     "hooks",
                     "script"
                   ],
-                  "updated": "2026-10-14T03:26:17Z",
+                  "updated": "2026-10-24T13:11:09Z",
                   "pushed": "2026-03-25T23:23:08Z",
                   "awesome": true,
                   "path": [
@@ -103585,7 +103710,7 @@
                   "sourceRepo": "compscilauren/awesome-git-hooks",
                   "depth": 3,
                   "children": [],
-                  "stars": 1194,
+                  "stars": 1196,
                   "forks": 63,
                   "language": "Shell",
                   "license": "NOASSERTION",
@@ -103598,7 +103723,7 @@
                     "hooks",
                     "script"
                   ],
-                  "updated": "2026-10-14T03:26:17Z",
+                  "updated": "2026-10-24T13:11:09Z",
                   "pushed": "2026-03-25T23:23:08Z",
                   "awesome": true,
                   "path": [
@@ -103644,7 +103769,7 @@
                   "sourceRepo": "compscilauren/awesome-git-hooks",
                   "depth": 3,
                   "children": [],
-                  "stars": 1194,
+                  "stars": 1196,
                   "forks": 63,
                   "language": "Shell",
                   "license": "NOASSERTION",
@@ -103657,7 +103782,7 @@
                     "hooks",
                     "script"
                   ],
-                  "updated": "2026-10-14T03:26:17Z",
+                  "updated": "2026-10-24T13:11:09Z",
                   "pushed": "2026-03-25T23:23:08Z",
                   "awesome": true,
                   "path": [
@@ -103703,7 +103828,7 @@
                   "sourceRepo": "compscilauren/awesome-git-hooks",
                   "depth": 3,
                   "children": [],
-                  "stars": 1194,
+                  "stars": 1196,
                   "forks": 63,
                   "language": "Shell",
                   "license": "NOASSERTION",
@@ -103716,7 +103841,7 @@
                     "hooks",
                     "script"
                   ],
-                  "updated": "2026-10-14T03:26:17Z",
+                  "updated": "2026-10-24T13:11:09Z",
                   "pushed": "2026-03-25T23:23:08Z",
                   "awesome": true,
                   "path": [
@@ -103738,7 +103863,7 @@
                   "sourceRepo": "compscilauren/awesome-git-hooks",
                   "depth": 3,
                   "children": [],
-                  "stars": 1194,
+                  "stars": 1196,
                   "forks": 63,
                   "language": "Shell",
                   "license": "NOASSERTION",
@@ -103751,7 +103876,7 @@
                     "hooks",
                     "script"
                   ],
-                  "updated": "2026-10-14T03:26:17Z",
+                  "updated": "2026-10-24T13:11:09Z",
                   "pushed": "2026-03-25T23:23:08Z",
                   "awesome": true,
                   "path": [
@@ -103773,7 +103898,7 @@
                   "sourceRepo": "compscilauren/awesome-git-hooks",
                   "depth": 3,
                   "children": [],
-                  "stars": 1194,
+                  "stars": 1196,
                   "forks": 63,
                   "language": "Shell",
                   "license": "NOASSERTION",
@@ -103786,7 +103911,7 @@
                     "hooks",
                     "script"
                   ],
-                  "updated": "2026-10-14T03:26:17Z",
+                  "updated": "2026-10-24T13:11:09Z",
                   "pushed": "2026-03-25T23:23:08Z",
                   "awesome": true,
                   "path": [
@@ -103808,7 +103933,7 @@
                   "sourceRepo": "compscilauren/awesome-git-hooks",
                   "depth": 3,
                   "children": [],
-                  "stars": 1194,
+                  "stars": 1196,
                   "forks": 63,
                   "language": "Shell",
                   "license": "NOASSERTION",
@@ -103821,7 +103946,7 @@
                     "hooks",
                     "script"
                   ],
-                  "updated": "2026-10-14T03:26:17Z",
+                  "updated": "2026-10-24T13:11:09Z",
                   "pushed": "2026-03-25T23:23:08Z",
                   "awesome": true,
                   "path": [
@@ -103843,7 +103968,7 @@
                   "sourceRepo": "compscilauren/awesome-git-hooks",
                   "depth": 3,
                   "children": [],
-                  "stars": 1194,
+                  "stars": 1196,
                   "forks": 63,
                   "language": "Shell",
                   "license": "NOASSERTION",
@@ -103856,7 +103981,7 @@
                     "hooks",
                     "script"
                   ],
-                  "updated": "2026-10-14T03:26:17Z",
+                  "updated": "2026-10-24T13:11:09Z",
                   "pushed": "2026-03-25T23:23:08Z",
                   "awesome": true,
                   "path": [
@@ -103902,7 +104027,7 @@
                   "sourceRepo": "compscilauren/awesome-git-hooks",
                   "depth": 3,
                   "children": [],
-                  "stars": 1194,
+                  "stars": 1196,
                   "forks": 63,
                   "language": "Shell",
                   "license": "NOASSERTION",
@@ -103915,7 +104040,7 @@
                     "hooks",
                     "script"
                   ],
-                  "updated": "2026-10-14T03:26:17Z",
+                  "updated": "2026-10-24T13:11:09Z",
                   "pushed": "2026-03-25T23:23:08Z",
                   "awesome": true,
                   "path": [
@@ -103937,7 +104062,7 @@
                   "sourceRepo": "compscilauren/awesome-git-hooks",
                   "depth": 3,
                   "children": [],
-                  "stars": 1194,
+                  "stars": 1196,
                   "forks": 63,
                   "language": "Shell",
                   "license": "NOASSERTION",
@@ -103950,7 +104075,7 @@
                     "hooks",
                     "script"
                   ],
-                  "updated": "2026-10-14T03:26:17Z",
+                  "updated": "2026-10-24T13:11:09Z",
                   "pushed": "2026-03-25T23:23:08Z",
                   "awesome": true,
                   "path": [
@@ -103996,7 +104121,7 @@
                   "sourceRepo": "compscilauren/awesome-git-hooks",
                   "depth": 3,
                   "children": [],
-                  "stars": 1194,
+                  "stars": 1196,
                   "forks": 63,
                   "language": "Shell",
                   "license": "NOASSERTION",
@@ -104009,7 +104134,7 @@
                     "hooks",
                     "script"
                   ],
-                  "updated": "2026-10-14T03:26:17Z",
+                  "updated": "2026-10-24T13:11:09Z",
                   "pushed": "2026-03-25T23:23:08Z",
                   "awesome": true,
                   "path": [
@@ -104055,7 +104180,7 @@
                   "sourceRepo": "compscilauren/awesome-git-hooks",
                   "depth": 3,
                   "children": [],
-                  "stars": 1194,
+                  "stars": 1196,
                   "forks": 63,
                   "language": "Shell",
                   "license": "NOASSERTION",
@@ -104068,7 +104193,7 @@
                     "hooks",
                     "script"
                   ],
-                  "updated": "2026-10-14T03:26:17Z",
+                  "updated": "2026-10-24T13:11:09Z",
                   "pushed": "2026-03-25T23:23:08Z",
                   "awesome": true,
                   "path": [
@@ -104114,7 +104239,7 @@
                   "sourceRepo": "compscilauren/awesome-git-hooks",
                   "depth": 3,
                   "children": [],
-                  "stars": 1194,
+                  "stars": 1196,
                   "forks": 63,
                   "language": "Shell",
                   "license": "NOASSERTION",
@@ -104127,7 +104252,7 @@
                     "hooks",
                     "script"
                   ],
-                  "updated": "2026-10-14T03:26:17Z",
+                  "updated": "2026-10-24T13:11:09Z",
                   "pushed": "2026-03-25T23:23:08Z",
                   "awesome": true,
                   "path": [
@@ -104173,7 +104298,7 @@
                   "sourceRepo": "compscilauren/awesome-git-hooks",
                   "depth": 3,
                   "children": [],
-                  "stars": 1194,
+                  "stars": 1196,
                   "forks": 63,
                   "language": "Shell",
                   "license": "NOASSERTION",
@@ -104186,7 +104311,7 @@
                     "hooks",
                     "script"
                   ],
-                  "updated": "2026-10-14T03:26:17Z",
+                  "updated": "2026-10-24T13:11:09Z",
                   "pushed": "2026-03-25T23:23:08Z",
                   "awesome": true,
                   "path": [
@@ -104814,7 +104939,7 @@
           "parentId": "root-development-environment-git-hooks"
         }
       ],
-      "stars": 1194,
+      "stars": 1196,
       "forks": 63,
       "language": "Shell",
       "license": "NOASSERTION",
@@ -104827,7 +104952,7 @@
         "hooks",
         "script"
       ],
-      "updated": "2026-10-14T03:26:17Z",
+      "updated": "2026-10-24T13:11:09Z",
       "pushed": "2026-03-25T23:23:08Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -105284,8 +105409,8 @@
           "parentId": "root-development-environment-ssh"
         }
       ],
-      "stars": 2860,
-      "forks": 192,
+      "stars": 2863,
+      "forks": 191,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -105301,7 +105426,7 @@
         "ssh-keys",
         "ssh-keyscan"
       ],
-      "updated": "2026-10-15T09:59:14Z",
+      "updated": "2026-10-23T17:06:19Z",
       "pushed": "2023-08-10T10:15:24Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -105434,7 +105559,7 @@
           "parentId": "root-development-environment-hyper"
         }
       ],
-      "stars": 11005,
+      "stars": 11013,
       "forks": 372,
       "language": null,
       "license": "CC0-1.0",
@@ -105446,7 +105571,7 @@
         "terminal",
         "zeit"
       ],
-      "updated": "2026-10-17T03:41:05Z",
+      "updated": "2026-10-25T03:27:43Z",
       "pushed": "2022-09-20T08:52:39Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -117431,8 +117556,8 @@
           "parentId": "root-development-environment-github-actions"
         }
       ],
-      "stars": 28325,
-      "forks": 1828,
+      "stars": 28353,
+      "forks": 1835,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -117445,7 +117570,7 @@
         "github",
         "github-actions"
       ],
-      "updated": "2026-10-18T04:14:23Z",
+      "updated": "2026-10-25T01:55:36Z",
       "pushed": "2024-09-01T20:32:39Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -119155,8 +119280,8 @@
           "parentId": "root-development-environment-wezterm"
         }
       ],
-      "stars": 773,
-      "forks": 35,
+      "stars": 776,
+      "forks": 34,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -119167,7 +119292,7 @@
         "wezterm-lua",
         "wezterm-plugin"
       ],
-      "updated": "2026-10-15T17:06:30Z",
+      "updated": "2026-10-23T15:48:47Z",
       "pushed": "2026-10-12T19:30:58Z",
       "awesome": true,
       "readmeStatus": "expanded",

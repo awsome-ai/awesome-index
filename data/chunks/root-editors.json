@@ -386,6 +386,32 @@
                 "okram78/vahti.nvim"
               ],
               "parentId": "root-editors-neovim-plugin-manager"
+            },
+            {
+              "id": "root-editors-neovim-plugin-manager-imngzx-resonance-nvim",
+              "title": "Imngzx/resonance.nvim",
+              "kind": "repo",
+              "repo": "imngzx/resonance.nvim",
+              "url": "https://github.com/imngzx/resonance.nvim",
+              "description": "An optimized vim.pack wrapper with lazy-loading, automatic build hooks, and an elegant UI.",
+              "external": false,
+              "sourceRepo": "rockerboo/awesome-neovim",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Neovim",
+                "Plugin Manager",
+                "Imngzx/resonance.nvim"
+              ],
+              "parentId": "root-editors-neovim-plugin-manager"
             }
           ],
           "stars": 0,
@@ -6739,6 +6765,33 @@
                     "harukikuri/viteenv.nvim"
                   ],
                   "parentId": "root-editors-neovim-programming-languages-support-web-development"
+                },
+                {
+                  "id": "root-editors-neovim-programming-languages-support-web-development-mcp1766-stylepeek-nvim",
+                  "title": "mcp1766/stylepeek.nvim",
+                  "kind": "repo",
+                  "repo": "mcp1766/stylepeek.nvim",
+                  "url": "https://github.com/mcp1766/stylepeek.nvim",
+                  "description": "Browse, preview and manage CSS rules.",
+                  "external": false,
+                  "sourceRepo": "rockerboo/awesome-neovim",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Neovim",
+                    "Programming Languages Support",
+                    "Web Development",
+                    "mcp1766/stylepeek.nvim"
+                  ],
+                  "parentId": "root-editors-neovim-programming-languages-support-web-development"
                 }
               ],
               "stars": 0,
@@ -8033,6 +8086,32 @@
                 "Neovim",
                 "Language",
                 "noir4y/comment-translate.nvim"
+              ],
+              "parentId": "root-editors-neovim-language"
+            },
+            {
+              "id": "root-editors-neovim-language-imngzx-jisho-nvim",
+              "title": "Imngzx/jisho.nvim",
+              "kind": "repo",
+              "repo": "imngzx/jisho.nvim",
+              "url": "https://github.com/imngzx/jisho.nvim",
+              "description": "Japanese dictionary, powered by jisho.org.",
+              "external": false,
+              "sourceRepo": "rockerboo/awesome-neovim",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Neovim",
+                "Language",
+                "Imngzx/jisho.nvim"
               ],
               "parentId": "root-editors-neovim-language"
             }
@@ -19719,6 +19798,32 @@
                 "Amansingh-afk/milli.nvim"
               ],
               "parentId": "root-editors-neovim-startup"
+            },
+            {
+              "id": "root-editors-neovim-startup-zdcthomas-sprout-nvim",
+              "title": "zdcthomas/sprout.nvim",
+              "kind": "repo",
+              "repo": "zdcthomas/sprout.nvim",
+              "url": "https://github.com/zdcthomas/sprout.nvim",
+              "description": "An ASCII art bonsai for your start screen that grows as the day goes forward.",
+              "external": false,
+              "sourceRepo": "rockerboo/awesome-neovim",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Neovim",
+                "Startup",
+                "zdcthomas/sprout.nvim"
+              ],
+              "parentId": "root-editors-neovim-startup"
             }
           ],
           "stars": 0,
@@ -26327,6 +26432,32 @@
                 "pewpewnor/dove.nvim"
               ],
               "parentId": "root-editors-neovim-code-runner"
+            },
+            {
+              "id": "root-editors-neovim-code-runner-trimclain-builder-nvim",
+              "title": "trimclain/builder.nvim",
+              "kind": "repo",
+              "repo": "trimclain/builder.nvim",
+              "url": "https://github.com/trimclain/builder.nvim",
+              "description": "Build and run files with configurable commands and output in split or floating windows, inspired by Sublime Text's build system.",
+              "external": false,
+              "sourceRepo": "rockerboo/awesome-neovim",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Neovim",
+                "Code Runner",
+                "trimclain/builder.nvim"
+              ],
+              "parentId": "root-editors-neovim-code-runner"
             }
           ],
           "stars": 0,
@@ -28783,6 +28914,32 @@
                 "Neovim",
                 "Git",
                 "mm4cN/nvim-gitlab"
+              ],
+              "parentId": "root-editors-neovim-git"
+            },
+            {
+              "id": "root-editors-neovim-git-ryutaro-asada-partial-diff-nvim",
+              "title": "ryutaro-asada/partial-diff.nvim",
+              "kind": "repo",
+              "repo": "ryutaro-asada/partial-diff.nvim",
+              "url": "https://github.com/ryutaro-asada/partial-diff.nvim",
+              "description": "Compare any two selected regions of code with character-level diff highlighting powered by VSCode's diff algorithm.",
+              "external": false,
+              "sourceRepo": "rockerboo/awesome-neovim",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Neovim",
+                "Git",
+                "ryutaro-asada/partial-diff.nvim"
               ],
               "parentId": "root-editors-neovim-git"
             },
@@ -39562,8 +39719,8 @@
                     "neovim-plugins",
                     "nix-flake"
                   ],
-                  "updated": "2026-10-17T19:28:24Z",
-                  "pushed": "2026-10-17T19:28:20Z",
+                  "updated": "2026-10-24T19:41:39Z",
+                  "pushed": "2026-10-24T19:41:36Z",
                   "awesome": true,
                   "path": [
                     "Neovim",
@@ -40274,7 +40431,7 @@
                 "awesome",
                 "vim"
               ],
-              "updated": "2026-10-13T17:18:46Z",
+              "updated": "2026-10-23T22:57:04Z",
               "pushed": "2025-06-06T18:42:55Z",
               "awesome": true,
               "path": [
@@ -40508,8 +40665,8 @@
           "parentId": "root-editors-neovim"
         }
       ],
-      "stars": 21493,
-      "forks": 1120,
+      "stars": 21510,
+      "forks": 1075,
       "language": "Shell",
       "license": "CC0-1.0",
       "topics": [
@@ -40519,8 +40676,8 @@
         "neovim-plugins",
         "nvim-lua"
       ],
-      "updated": "2026-10-18T05:34:54Z",
-      "pushed": "2026-10-18T01:27:05Z",
+      "updated": "2026-10-25T05:24:42Z",
+      "pushed": "2026-10-24T00:43:49Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -40539,7 +40696,7 @@
       "sourceRepo": "sindresorhus/awesome",
       "depth": 1,
       "children": [],
-      "stars": 9399,
+      "stars": 9401,
       "forks": 599,
       "language": null,
       "license": "Unlicense",
@@ -40547,7 +40704,7 @@
         "awesome-list",
         "emacs"
       ],
-      "updated": "2026-10-18T01:13:30Z",
+      "updated": "2026-10-25T03:51:16Z",
       "pushed": "2026-09-02T15:57:43Z",
       "awesome": true,
       "readmeStatus": "empty",
@@ -47018,8 +47175,8 @@
           "parentId": "root-editors-visual-studio-code"
         }
       ],
-      "stars": 29122,
-      "forks": 1495,
+      "stars": 29163,
+      "forks": 1446,
       "language": "JavaScript",
       "license": "CC0-1.0",
       "topics": [
@@ -47035,7 +47192,7 @@
         "vscode-extension",
         "vscode-theme"
       ],
-      "updated": "2026-10-18T04:07:25Z",
+      "updated": "2026-10-25T06:24:18Z",
       "pushed": "2026-06-21T09:36:55Z",
       "awesome": true,
       "readmeStatus": "expanded",

@@ -14060,6 +14060,33 @@
                   "parentId": "root-gaming-open-source-games-browser-based-boardgame"
                 },
                 {
+                  "id": "root-gaming-open-source-games-browser-based-boardgame-patzer",
+                  "title": "Patzer",
+                  "kind": "repo",
+                  "repo": "sikamikanikobg/patzer",
+                  "url": "https://github.com/sikamikanikobg/patzer",
+                  "description": "Self-hosted Chess.com alternative: game review, play vs Stockfish or a friend, and an AI coach on your own LLM (Ollama/vLLM), in one Docker container.",
+                  "external": false,
+                  "sourceRepo": "michelpereira/awesome-open-source-games",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Open Source Games",
+                    "Browser-Based",
+                    "Boardgame",
+                    "Patzer"
+                  ],
+                  "parentId": "root-gaming-open-source-games-browser-based-boardgame"
+                },
+                {
                   "id": "root-gaming-open-source-games-browser-based-boardgame-parlour",
                   "title": "Parlour",
                   "kind": "repo",
@@ -14110,6 +14137,33 @@
                     "Browser-Based",
                     "Boardgame",
                     "Pip"
+                  ],
+                  "parentId": "root-gaming-open-source-games-browser-based-boardgame"
+                },
+                {
+                  "id": "root-gaming-open-source-games-browser-based-boardgame-playhex",
+                  "title": "PlayHex",
+                  "kind": "repo",
+                  "repo": "playhex/playhex",
+                  "url": "https://github.com/playhex/playhex",
+                  "description": "Online Hex board game with real-time and correspondence play, AI opponents, rated games, puzzles and game analysis. Built with TypeScript and Vue.",
+                  "external": false,
+                  "sourceRepo": "michelpereira/awesome-open-source-games",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Open Source Games",
+                    "Browser-Based",
+                    "Boardgame",
+                    "PlayHex"
                   ],
                   "parentId": "root-gaming-open-source-games-browser-based-boardgame"
                 },
@@ -16489,6 +16543,33 @@
                     "Browser-Based",
                     "Sandbox",
                     "Sandboxels"
+                  ],
+                  "parentId": "root-gaming-open-source-games-browser-based-sandbox"
+                },
+                {
+                  "id": "root-gaming-open-source-games-browser-based-sandbox-the-human-box",
+                  "title": "The Human Box",
+                  "kind": "repo",
+                  "repo": "1homsi/thehumanbox",
+                  "url": "https://github.com/1homsi/thehumanbox",
+                  "description": "Browser civilization sandbox where tribes invent their own languages, cultures and beliefs.",
+                  "external": false,
+                  "sourceRepo": "michelpereira/awesome-open-source-games",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Open Source Games",
+                    "Browser-Based",
+                    "Sandbox",
+                    "The Human Box"
                   ],
                   "parentId": "root-gaming-open-source-games-browser-based-sandbox"
                 }
@@ -25899,8 +25980,8 @@
           "parentId": "root-gaming-open-source-games"
         }
       ],
-      "stars": 3266,
-      "forks": 299,
+      "stars": 3318,
+      "forks": 302,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -25909,8 +25990,8 @@
         "games",
         "opensource"
       ],
-      "updated": "2026-10-18T06:15:35Z",
-      "pushed": "2026-10-15T01:06:45Z",
+      "updated": "2026-10-25T01:14:10Z",
+      "pushed": "2026-10-21T10:47:13Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -25929,12 +26010,12 @@
       "sourceRepo": "sindresorhus/awesome",
       "depth": 1,
       "children": [],
-      "stars": 543,
-      "forks": 49,
+      "stars": 545,
+      "forks": 50,
       "language": null,
       "license": "CC0-1.0",
       "topics": [],
-      "updated": "2026-10-14T00:52:51Z",
+      "updated": "2026-10-19T05:02:34Z",
       "pushed": "2020-11-20T11:48:24Z",
       "awesome": true,
       "readmeStatus": "empty",
@@ -26549,8 +26630,8 @@
           "parentId": "root-gaming-l-ve"
         }
       ],
-      "stars": 4523,
-      "forks": 255,
+      "stars": 4535,
+      "forks": 247,
       "language": "PowerShell",
       "license": "CC0-1.0",
       "topics": [
@@ -26560,7 +26641,7 @@
         "love2d",
         "lua"
       ],
-      "updated": "2026-10-17T19:09:59Z",
+      "updated": "2026-10-24T22:32:26Z",
       "pushed": "2026-09-26T21:02:34Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -29377,8 +29458,8 @@
           "parentId": "root-gaming-pico-8"
         }
       ],
-      "stars": 3083,
-      "forks": 109,
+      "stars": 3086,
+      "forks": 104,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -29396,7 +29477,7 @@
         "pico-8",
         "pico8"
       ],
-      "updated": "2026-10-16T19:28:31Z",
+      "updated": "2026-10-24T00:53:57Z",
       "pushed": "2026-07-28T13:25:56Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -40619,8 +40700,8 @@
           "parentId": "root-gaming-game-boy-development"
         }
       ],
-      "stars": 4530,
-      "forks": 207,
+      "stars": 4536,
+      "forks": 198,
       "language": "JavaScript",
       "license": "GPL-3.0",
       "topics": [
@@ -40644,7 +40725,7 @@
         "retrogaming",
         "tools"
       ],
-      "updated": "2026-10-17T19:23:07Z",
+      "updated": "2026-10-24T17:54:08Z",
       "pushed": "2026-10-16T23:32:05Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -43468,7 +43549,7 @@
         }
       ],
       "stars": 96,
-      "forks": 20,
+      "forks": 21,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -45373,12 +45454,12 @@
               "sourceRepo": "stetso/awesome-gideros",
               "depth": 2,
               "children": [],
-              "stars": 4586,
-              "forks": 347,
+              "stars": 4589,
+              "forks": 349,
               "language": null,
               "license": null,
               "topics": [],
-              "updated": "2026-10-17T15:27:25Z",
+              "updated": "2026-10-24T12:26:29Z",
               "pushed": "2024-08-11T17:32:00Z",
               "awesome": true,
               "path": [
@@ -45399,8 +45480,8 @@
               "sourceRepo": "stetso/awesome-gideros",
               "depth": 2,
               "children": [],
-              "stars": 4523,
-              "forks": 255,
+              "stars": 4535,
+              "forks": 247,
               "language": "PowerShell",
               "license": "CC0-1.0",
               "topics": [
@@ -45410,7 +45491,7 @@
                 "love2d",
                 "lua"
               ],
-              "updated": "2026-10-17T19:09:59Z",
+              "updated": "2026-10-24T22:32:26Z",
               "pushed": "2026-09-26T21:02:34Z",
               "awesome": true,
               "path": [
@@ -49813,8 +49894,8 @@
           "parentId": "root-gaming-minecraft"
         }
       ],
-      "stars": 653,
-      "forks": 61,
+      "stars": 659,
+      "forks": 64,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -49822,7 +49903,7 @@
         "awesome-list",
         "minecraft"
       ],
-      "updated": "2026-10-17T23:22:50Z",
+      "updated": "2026-10-24T11:45:15Z",
       "pushed": "2025-08-23T13:16:01Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -53592,12 +53673,12 @@
                   "sourceRepo": "tomodachi94/awesome-computercraft",
                   "depth": 3,
                   "children": [],
-                  "stars": 4586,
-                  "forks": 347,
+                  "stars": 4589,
+                  "forks": 349,
                   "language": null,
                   "license": null,
                   "topics": [],
-                  "updated": "2026-10-17T15:27:25Z",
+                  "updated": "2026-10-24T12:26:29Z",
                   "pushed": "2024-08-11T17:32:00Z",
                   "awesome": true,
                   "path": [
@@ -53646,12 +53727,12 @@
                   "sourceRepo": "tomodachi94/awesome-computercraft",
                   "depth": 3,
                   "children": [],
-                  "stars": 34,
+                  "stars": 35,
                   "forks": 2,
                   "language": null,
                   "license": null,
                   "topics": [],
-                  "updated": "2026-10-08T15:16:16Z",
+                  "updated": "2026-10-20T13:59:27Z",
                   "pushed": "2026-10-01T12:28:39Z",
                   "awesome": true,
                   "path": [
@@ -53900,7 +53981,7 @@
           "parentId": "root-gaming-computercraft"
         }
       ],
-      "stars": 321,
+      "stars": 323,
       "forks": 17,
       "language": "Just",
       "license": "CC-BY-SA-4.0",
@@ -53911,7 +53992,7 @@
         "computercraft-tweaked",
         "minecraft"
       ],
-      "updated": "2026-10-16T15:39:52Z",
+      "updated": "2026-10-21T04:26:26Z",
       "pushed": "2026-10-01T15:39:06Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -53931,8 +54012,8 @@
       "sourceRepo": "sindresorhus/awesome",
       "depth": 1,
       "children": [],
-      "stars": 1134,
-      "forks": 94,
+      "stars": 1139,
+      "forks": 96,
       "language": null,
       "license": "CC-BY-4.0",
       "topics": [
@@ -53946,7 +54027,7 @@
         "game",
         "games"
       ],
-      "updated": "2026-10-17T17:43:44Z",
+      "updated": "2026-10-25T03:52:04Z",
       "pushed": "2026-10-17T17:43:40Z",
       "awesome": false,
       "path": [
@@ -57452,15 +57533,15 @@
               "sourceRepo": "rafaskb/awesome-libgdx",
               "depth": 2,
               "children": [],
-              "stars": 49289,
-              "forks": 7737,
+              "stars": 49343,
+              "forks": 7740,
               "language": null,
               "license": "CC-BY-SA-4.0",
               "topics": [
                 "awesome",
                 "awesome-list"
               ],
-              "updated": "2026-10-18T06:41:02Z",
+              "updated": "2026-10-25T06:15:41Z",
               "pushed": "2026-09-23T10:50:49Z",
               "awesome": true,
               "path": [
@@ -57559,8 +57640,8 @@
               "sourceRepo": "rafaskb/awesome-libgdx",
               "depth": 2,
               "children": [],
-              "stars": 3185,
-              "forks": 221,
+              "stars": 3196,
+              "forks": 216,
               "language": null,
               "license": "CC-BY-SA-4.0",
               "topics": [
@@ -57570,7 +57651,7 @@
                 "game-development",
                 "game-programming"
               ],
-              "updated": "2026-10-18T04:14:00Z",
+              "updated": "2026-10-25T00:18:14Z",
               "pushed": "2026-08-25T18:12:52Z",
               "awesome": true,
               "path": [
@@ -57596,7 +57677,7 @@
           "parentId": "root-gaming-libgdx"
         }
       ],
-      "stars": 1276,
+      "stars": 1275,
       "forks": 83,
       "language": null,
       "license": "CC0-1.0",
@@ -57605,7 +57686,7 @@
         "awesome-list",
         "libgdx"
       ],
-      "updated": "2026-10-13T02:28:27Z",
+      "updated": "2026-10-24T17:40:39Z",
       "pushed": "2024-12-03T21:43:58Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -63993,7 +64074,7 @@
           "parentId": "root-gaming-playcanvas"
         }
       ],
-      "stars": 493,
+      "stars": 497,
       "forks": 63,
       "language": null,
       "license": "CC0-1.0",
@@ -64003,8 +64084,8 @@
         "playcanvas",
         "webgl"
       ],
-      "updated": "2026-10-15T13:48:35Z",
-      "pushed": "2026-10-17T12:39:13Z",
+      "updated": "2026-10-23T15:43:48Z",
+      "pushed": "2026-10-19T08:20:33Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -66002,6 +66083,32 @@
                 "Game Remakes",
                 "Arcade",
                 "OpenTyrian"
+              ],
+              "parentId": "root-gaming-game-remakes-arcade"
+            },
+            {
+              "id": "root-gaming-game-remakes-arcade-opentyrian2000-enhanced-edition",
+              "title": "OpenTyrian2000 Enhanced Edition",
+              "kind": "repo",
+              "repo": "patm4nzzz/opentyrian-enhanced",
+              "url": "https://github.com/patm4nzzz/opentyrian-enhanced",
+              "description": "Tyrian 2000 on Godot 4 and Rust, with HD graphics, couch co-op, mods and a level editor. :flowerplayingcards:",
+              "external": false,
+              "sourceRepo": "radek-sprta/awesome-game-remakes",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Game Remakes",
+                "Arcade",
+                "OpenTyrian2000 Enhanced Edition"
               ],
               "parentId": "root-gaming-game-remakes-arcade"
             },
@@ -74617,6 +74724,32 @@
               "parentId": "root-gaming-game-remakes-strategy"
             },
             {
+              "id": "root-gaming-game-remakes-strategy-openz",
+              "title": "OpenZ",
+              "kind": "repo",
+              "repo": "playopenz/openz",
+              "url": "https://github.com/playopenz/openz",
+              "description": "Open-source 3D remake of the 1996 RTS Z (The Bitmap Brothers), built in Unity on the gameplay rules of the Zod Engine.",
+              "external": false,
+              "sourceRepo": "radek-sprta/awesome-game-remakes",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Game Remakes",
+                "Strategy",
+                "OpenZ"
+              ],
+              "parentId": "root-gaming-game-remakes-strategy"
+            },
+            {
               "id": "root-gaming-game-remakes-strategy-outposthd",
               "title": "OutpostHD",
               "kind": "repo",
@@ -75932,8 +76065,8 @@
           "parentId": "root-gaming-game-remakes"
         }
       ],
-      "stars": 1528,
-      "forks": 79,
+      "stars": 1555,
+      "forks": 81,
       "language": null,
       "license": "CC-BY-SA-4.0",
       "topics": [
@@ -75944,8 +76077,8 @@
         "games",
         "remake"
       ],
-      "updated": "2026-10-18T05:51:15Z",
-      "pushed": "2026-10-18T05:51:11Z",
+      "updated": "2026-10-25T05:16:11Z",
+      "pushed": "2026-10-24T05:50:06Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -79531,6 +79664,59 @@
                     "Simulation"
                   ],
                   "parentId": "root-gaming-flame-projects-app-releases"
+                },
+                {
+                  "id": "root-gaming-flame-projects-app-releases-strategy",
+                  "title": "Strategy",
+                  "kind": "section",
+                  "sourceRepo": "flame-engine/awesome-flame",
+                  "depth": 3,
+                  "url": "https://github.com/flame-engine/awesome-flame#strategy",
+                  "children": [
+                    {
+                      "id": "root-gaming-flame-projects-app-releases-strategy-sporehold",
+                      "title": "Sporehold",
+                      "kind": "topic",
+                      "repo": "",
+                      "url": "",
+                      "description": "iOS - A pixel-art turn-based tactics game where enemies react before your attacks land. Command mushroom warriors, outsmart enemy defenses, and reclaim a kingdom consumed by the Purple Plague. By Oleksandr Nikolaiev.",
+                      "external": false,
+                      "sourceRepo": "flame-engine/awesome-flame",
+                      "depth": 4,
+                      "children": [],
+                      "stars": 0,
+                      "forks": 0,
+                      "language": null,
+                      "license": null,
+                      "topics": [],
+                      "updated": null,
+                      "pushed": null,
+                      "awesome": false,
+                      "path": [
+                        "Flame",
+                        "Projects",
+                        "App Releases",
+                        "Strategy",
+                        "Sporehold"
+                      ],
+                      "parentId": "root-gaming-flame-projects-app-releases-strategy"
+                    }
+                  ],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Flame",
+                    "Projects",
+                    "App Releases",
+                    "Strategy"
+                  ],
+                  "parentId": "root-gaming-flame-projects-app-releases"
                 }
               ],
               "stars": 0,
@@ -79631,8 +79817,8 @@
               "sourceRepo": "flame-engine/awesome-flame",
               "depth": 2,
               "children": [],
-              "stars": 1389,
-              "forks": 117,
+              "stars": 1390,
+              "forks": 119,
               "language": null,
               "license": "CC0-1.0",
               "topics": [
@@ -79645,8 +79831,8 @@
                 "lists",
                 "resources"
               ],
-              "updated": "2026-10-17T11:35:35Z",
-              "pushed": "2026-10-17T11:35:30Z",
+              "updated": "2026-10-23T14:06:44Z",
+              "pushed": "2026-10-23T14:06:36Z",
               "awesome": true,
               "path": [
                 "Flame",
@@ -79666,8 +79852,8 @@
               "sourceRepo": "flame-engine/awesome-flame",
               "depth": 2,
               "children": [],
-              "stars": 1389,
-              "forks": 117,
+              "stars": 1390,
+              "forks": 119,
               "language": null,
               "license": "CC0-1.0",
               "topics": [
@@ -79680,8 +79866,8 @@
                 "lists",
                 "resources"
               ],
-              "updated": "2026-10-17T11:35:35Z",
-              "pushed": "2026-10-17T11:35:30Z",
+              "updated": "2026-10-23T14:06:44Z",
+              "pushed": "2026-10-23T14:06:36Z",
               "awesome": true,
               "path": [
                 "Flame",
@@ -79706,8 +79892,8 @@
           "parentId": "root-gaming-flame"
         }
       ],
-      "stars": 1389,
-      "forks": 117,
+      "stars": 1390,
+      "forks": 119,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -79720,8 +79906,8 @@
         "lists",
         "resources"
       ],
-      "updated": "2026-10-17T11:35:35Z",
-      "pushed": "2026-10-17T11:35:30Z",
+      "updated": "2026-10-23T14:06:44Z",
+      "pushed": "2026-10-23T14:06:36Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -81744,8 +81930,8 @@
           "parentId": "root-gaming-discord-communities"
         }
       ],
-      "stars": 3621,
-      "forks": 219,
+      "stars": 3626,
+      "forks": 216,
       "language": "Python",
       "license": "CC-BY-4.0",
       "topics": [
@@ -81758,7 +81944,7 @@
         "game-development",
         "web"
       ],
-      "updated": "2026-10-17T12:03:37Z",
+      "updated": "2026-10-23T09:14:45Z",
       "pushed": "2026-04-25T19:09:39Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -82005,7 +82191,7 @@
           "parentId": "root-gaming-chip-8"
         }
       ],
-      "stars": 252,
+      "stars": 254,
       "forks": 12,
       "language": null,
       "license": "CC0-1.0",
@@ -82021,7 +82207,7 @@
         "octo",
         "retrocomputing"
       ],
-      "updated": "2026-10-14T05:50:57Z",
+      "updated": "2026-10-24T19:19:10Z",
       "pushed": "2022-12-26T18:09:12Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -83340,8 +83526,8 @@
           "parentId": "root-gaming-games-of-coding"
         }
       ],
-      "stars": 2169,
-      "forks": 115,
+      "stars": 2168,
+      "forks": 108,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -83352,7 +83538,7 @@
         "programming-language",
         "robocode"
       ],
-      "updated": "2026-10-15T04:11:57Z",
+      "updated": "2026-10-22T07:43:05Z",
       "pushed": "2026-09-23T16:17:08Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -83439,6 +83625,33 @@
                     "Libraries",
                     "APIs & Web Services",
                     "Discord.js"
+                  ],
+                  "parentId": "root-gaming-esports-libraries-apis-and-web-services"
+                },
+                {
+                  "id": "root-gaming-esports-libraries-apis-and-web-services-esportsodds-python",
+                  "title": "esportsodds-python",
+                  "kind": "repo",
+                  "repo": "esportsodds/esportsodds-python",
+                  "url": "https://github.com/esportsodds/esportsodds-python",
+                  "description": "A Python client library and MCP server for the esportsodds.gg CS2 data API.",
+                  "external": false,
+                  "sourceRepo": "strift/awesome-esports",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Esports",
+                    "Libraries",
+                    "APIs & Web Services",
+                    "esportsodds-python"
                   ],
                   "parentId": "root-gaming-esports-libraries-apis-and-web-services"
                 },
@@ -84518,7 +84731,7 @@
         }
       ],
       "stars": 108,
-      "forks": 11,
+      "forks": 12,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -84526,8 +84739,8 @@
         "awesome-list",
         "esports"
       ],
-      "updated": "2026-10-15T03:24:29Z",
-      "pushed": "2026-10-15T03:24:24Z",
+      "updated": "2026-10-20T02:33:38Z",
+      "pushed": "2026-10-20T02:33:33Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -120666,7 +120879,7 @@
           "parentId": "root-gaming-game-engine-development"
         }
       ],
-      "stars": 1431,
+      "stars": 1435,
       "forks": 111,
       "language": null,
       "license": "CC0-1.0",
@@ -120689,7 +120902,7 @@
         "shaders",
         "tools"
       ],
-      "updated": "2026-10-16T20:42:02Z",
+      "updated": "2026-10-23T10:54:51Z",
       "pushed": "2026-08-17T18:26:37Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -133927,8 +134140,8 @@
           "parentId": "root-gaming-game-production"
         }
       ],
-      "stars": 230,
-      "forks": 9,
+      "stars": 229,
+      "forks": 10,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -133939,7 +134152,7 @@
         "production",
         "project-management"
       ],
-      "updated": "2026-10-17T19:13:04Z",
+      "updated": "2026-10-20T19:40:58Z",
       "pushed": "2026-05-04T10:46:17Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -143763,11 +143976,11 @@
                   "parentId": "root-gaming-roblox-libraries-ui"
                 },
                 {
-                  "id": "root-gaming-roblox-libraries-ui-react-lua",
-                  "title": "React Lua",
+                  "id": "root-gaming-roblox-libraries-ui-react-luau",
+                  "title": "React Luau",
                   "kind": "repo",
-                  "repo": "jsdotlua/react-lua",
-                  "url": "https://github.com/jsdotlua/react-lua",
+                  "repo": "roblox/react-luau",
+                  "url": "https://github.com/roblox/react-luau",
                   "description": "A comprehensive, but not exhaustive, translation of upstream ReactJS 17.x into Lua.",
                   "external": false,
                   "sourceRepo": "awesome-roblox/awesome-roblox",
@@ -143785,7 +143998,7 @@
                     "Roblox",
                     "Libraries",
                     "UI",
-                    "React Lua"
+                    "React Luau"
                   ],
                   "parentId": "root-gaming-roblox-libraries-ui"
                 },
@@ -144628,7 +144841,7 @@
         }
       ],
       "stars": 84,
-      "forks": 10,
+      "forks": 11,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -144639,8 +144852,8 @@
         "luau",
         "roblox"
       ],
-      "updated": "2026-10-12T21:41:20Z",
-      "pushed": "2026-06-23T00:32:39Z",
+      "updated": "2026-10-21T14:12:43Z",
+      "pushed": "2026-10-18T20:39:11Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [

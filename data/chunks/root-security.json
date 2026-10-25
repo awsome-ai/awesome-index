@@ -1755,8 +1755,8 @@
           "parentId": "root-security-application-security"
         }
       ],
-      "stars": 7110,
-      "forks": 810,
+      "stars": 7121,
+      "forks": 809,
       "language": "PHP",
       "license": "MIT",
       "topics": [
@@ -1767,7 +1767,7 @@
         "security",
         "security-experts"
       ],
-      "updated": "2026-10-18T06:06:17Z",
+      "updated": "2026-10-24T17:55:28Z",
       "pushed": "2025-02-22T16:39:11Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -3397,8 +3397,8 @@
                   "sourceRepo": "sbilly/awesome-security",
                   "depth": 3,
                   "children": [],
-                  "stars": 10606,
-                  "forks": 1419,
+                  "stars": 10624,
+                  "forks": 1381,
                   "language": "Python",
                   "license": "Artistic-2.0",
                   "topics": [
@@ -3408,7 +3408,7 @@
                     "honeypot",
                     "list"
                   ],
-                  "updated": "2026-10-18T01:02:52Z",
+                  "updated": "2026-10-25T03:32:09Z",
                   "pushed": "2026-06-01T14:15:45Z",
                   "awesome": true,
                   "path": [
@@ -5709,8 +5709,8 @@
                   "sourceRepo": "sbilly/awesome-security",
                   "depth": 3,
                   "children": [],
-                  "stars": 9764,
-                  "forks": 1586,
+                  "stars": 9782,
+                  "forks": 1583,
                   "language": "Makefile",
                   "license": "Apache-2.0",
                   "topics": [
@@ -5720,8 +5720,8 @@
                     "list",
                     "security"
                   ],
-                  "updated": "2026-10-17T21:52:08Z",
-                  "pushed": "2026-10-13T07:10:40Z",
+                  "updated": "2026-10-25T03:46:22Z",
+                  "pushed": "2026-10-19T19:38:42Z",
                   "awesome": true,
                   "path": [
                     "Security",
@@ -5796,8 +5796,8 @@
                   "sourceRepo": "sbilly/awesome-security",
                   "depth": 3,
                   "children": [],
-                  "stars": 793,
-                  "forks": 121,
+                  "stars": 794,
+                  "forks": 115,
                   "language": null,
                   "license": "Apache-2.0",
                   "topics": [
@@ -5809,7 +5809,7 @@
                     "osx-incident-response",
                     "osx-security"
                   ],
-                  "updated": "2026-10-14T11:25:43Z",
+                  "updated": "2026-10-24T12:25:32Z",
                   "pushed": "2026-10-13T21:40:49Z",
                   "awesome": true,
                   "path": [
@@ -10549,8 +10549,8 @@
                   "sourceRepo": "sbilly/awesome-security",
                   "depth": 3,
                   "children": [],
-                  "stars": 9764,
-                  "forks": 1586,
+                  "stars": 9782,
+                  "forks": 1583,
                   "language": "Makefile",
                   "license": "Apache-2.0",
                   "topics": [
@@ -10560,8 +10560,8 @@
                     "list",
                     "security"
                   ],
-                  "updated": "2026-10-17T21:52:08Z",
-                  "pushed": "2026-10-13T07:10:40Z",
+                  "updated": "2026-10-25T03:46:22Z",
+                  "pushed": "2026-10-19T19:38:42Z",
                   "awesome": true,
                   "path": [
                     "Security",
@@ -10615,8 +10615,8 @@
                   "sourceRepo": "sbilly/awesome-security",
                   "depth": 3,
                   "children": [],
-                  "stars": 11929,
-                  "forks": 1626,
+                  "stars": 11946,
+                  "forks": 1624,
                   "language": "JavaScript",
                   "license": "CC0-1.0",
                   "topics": [
@@ -10625,7 +10625,7 @@
                     "penetration",
                     "security"
                   ],
-                  "updated": "2026-10-18T04:07:21Z",
+                  "updated": "2026-10-25T03:12:52Z",
                   "pushed": "2024-07-22T19:59:35Z",
                   "awesome": true,
                   "path": [
@@ -10647,12 +10647,12 @@
                   "sourceRepo": "sbilly/awesome-security",
                   "depth": 3,
                   "children": [],
-                  "stars": 4740,
-                  "forks": 543,
+                  "stars": 4754,
+                  "forks": 546,
                   "language": null,
                   "license": "MIT",
                   "topics": [],
-                  "updated": "2026-10-17T00:11:12Z",
+                  "updated": "2026-10-25T00:38:55Z",
                   "pushed": "2026-09-17T07:49:09Z",
                   "awesome": true,
                   "path": [
@@ -10674,8 +10674,8 @@
                   "sourceRepo": "sbilly/awesome-security",
                   "depth": 3,
                   "children": [],
-                  "stars": 22560,
-                  "forks": 1518,
+                  "stars": 22611,
+                  "forks": 1476,
                   "language": "TypeScript",
                   "license": "NOASSERTION",
                   "topics": [
@@ -10693,7 +10693,7 @@
                     "security-tools",
                     "surveillance"
                   ],
-                  "updated": "2026-10-18T05:27:56Z",
+                  "updated": "2026-10-25T05:59:26Z",
                   "pushed": "2026-10-15T15:15:18Z",
                   "awesome": true,
                   "path": [
@@ -10715,15 +10715,15 @@
                   "sourceRepo": "sbilly/awesome-security",
                   "depth": 3,
                   "children": [],
-                  "stars": 17286,
-                  "forks": 1733,
+                  "stars": 17341,
+                  "forks": 1736,
                   "language": null,
                   "license": "MIT",
                   "topics": [
                     "awesome",
                     "hacking"
                   ],
-                  "updated": "2026-10-18T07:01:16Z",
+                  "updated": "2026-10-25T04:15:25Z",
                   "pushed": "2024-06-02T22:40:13Z",
                   "awesome": true,
                   "path": [
@@ -10745,8 +10745,8 @@
                   "sourceRepo": "sbilly/awesome-security",
                   "depth": 3,
                   "children": [],
-                  "stars": 10606,
-                  "forks": 1419,
+                  "stars": 10624,
+                  "forks": 1381,
                   "language": "Python",
                   "license": "Artistic-2.0",
                   "topics": [
@@ -10756,7 +10756,7 @@
                     "honeypot",
                     "list"
                   ],
-                  "updated": "2026-10-18T01:02:52Z",
+                  "updated": "2026-10-25T03:32:09Z",
                   "pushed": "2026-06-01T14:15:45Z",
                   "awesome": true,
                   "path": [
@@ -10778,8 +10778,8 @@
                   "sourceRepo": "sbilly/awesome-security",
                   "depth": 3,
                   "children": [],
-                  "stars": 14295,
-                  "forks": 2692,
+                  "stars": 14326,
+                  "forks": 2695,
                   "language": null,
                   "license": "NOASSERTION",
                   "topics": [
@@ -10803,7 +10803,7 @@
                     "threat-sharing",
                     "threatintel"
                   ],
-                  "updated": "2026-10-17T16:03:09Z",
+                  "updated": "2026-10-25T02:47:46Z",
                   "pushed": "2024-06-07T05:09:47Z",
                   "awesome": true,
                   "path": [
@@ -10826,14 +10826,14 @@
                   "depth": 3,
                   "children": [],
                   "stars": 1360,
-                  "forks": 99,
+                  "forks": 100,
                   "language": null,
                   "license": "GPL-2.0",
                   "topics": [
                     "cybersecurity",
                     "newsletter"
                   ],
-                  "updated": "2026-10-17T21:53:47Z",
+                  "updated": "2026-10-21T18:36:40Z",
                   "pushed": "2026-07-26T07:35:03Z",
                   "awesome": true,
                   "path": [
@@ -10855,12 +10855,12 @@
                   "sourceRepo": "sbilly/awesome-security",
                   "depth": 3,
                   "children": [],
-                  "stars": 3434,
-                  "forks": 478,
+                  "stars": 3435,
+                  "forks": 479,
                   "language": null,
                   "license": "CC0-1.0",
                   "topics": [],
-                  "updated": "2026-10-17T19:54:42Z",
+                  "updated": "2026-10-23T05:33:30Z",
                   "pushed": "2025-09-03T07:24:40Z",
                   "awesome": true,
                   "path": [
@@ -10882,15 +10882,15 @@
                   "sourceRepo": "sbilly/awesome-security",
                   "depth": 3,
                   "children": [],
-                  "stars": 27461,
-                  "forks": 5025,
+                  "stars": 27540,
+                  "forks": 4986,
                   "language": null,
                   "license": null,
                   "topics": [
                     "awesome",
                     "awesome-list"
                   ],
-                  "updated": "2026-10-18T06:54:48Z",
+                  "updated": "2026-10-25T01:56:38Z",
                   "pushed": "2026-07-25T12:15:45Z",
                   "awesome": true,
                   "path": [
@@ -10912,8 +10912,8 @@
                   "sourceRepo": "sbilly/awesome-security",
                   "depth": 3,
                   "children": [],
-                  "stars": 9984,
-                  "forks": 682,
+                  "stars": 10011,
+                  "forks": 692,
                   "language": "Astro",
                   "license": "CC0-1.0",
                   "topics": [
@@ -10924,8 +10924,8 @@
                     "self-hosted",
                     "software"
                   ],
-                  "updated": "2026-10-18T05:56:44Z",
-                  "pushed": "2026-10-17T22:54:40Z",
+                  "updated": "2026-10-24T18:11:05Z",
+                  "pushed": "2026-10-24T17:01:54Z",
                   "awesome": true,
                   "path": [
                     "Security",
@@ -10956,7 +10956,7 @@
                     "containers",
                     "linux-containers"
                   ],
-                  "updated": "2026-10-14T12:55:56Z",
+                  "updated": "2026-10-24T11:56:04Z",
                   "pushed": "2024-04-09T19:01:27Z",
                   "awesome": true,
                   "path": [
@@ -10978,8 +10978,8 @@
                   "sourceRepo": "sbilly/awesome-security",
                   "depth": 3,
                   "children": [],
-                  "stars": 9460,
-                  "forks": 1764,
+                  "stars": 9498,
+                  "forks": 1765,
                   "language": null,
                   "license": "Apache-2.0",
                   "topics": [
@@ -10992,7 +10992,7 @@
                     "list",
                     "security"
                   ],
-                  "updated": "2026-10-18T00:17:53Z",
+                  "updated": "2026-10-25T03:49:56Z",
                   "pushed": "2026-10-13T05:08:25Z",
                   "awesome": true,
                   "path": [
@@ -11014,8 +11014,8 @@
                   "sourceRepo": "sbilly/awesome-security",
                   "depth": 3,
                   "children": [],
-                  "stars": 7318,
-                  "forks": 1366,
+                  "stars": 7329,
+                  "forks": 1370,
                   "language": null,
                   "license": "MIT",
                   "topics": [
@@ -11033,7 +11033,7 @@
                     "web-hacking",
                     "web-security"
                   ],
-                  "updated": "2026-10-17T18:05:08Z",
+                  "updated": "2026-10-25T07:04:50Z",
                   "pushed": "2026-09-18T02:51:45Z",
                   "awesome": true,
                   "path": [
@@ -11060,8 +11060,8 @@
                   "language": null,
                   "license": null,
                   "topics": [],
-                  "updated": "2026-10-17T17:04:57Z",
-                  "pushed": "2026-10-15T08:34:47Z",
+                  "updated": "2026-10-24T20:25:48Z",
+                  "pushed": "2026-10-24T20:25:44Z",
                   "awesome": true,
                   "path": [
                     "Security",
@@ -11082,8 +11082,8 @@
                   "sourceRepo": "sbilly/awesome-security",
                   "depth": 3,
                   "children": [],
-                  "stars": 10744,
-                  "forks": 1882,
+                  "stars": 10773,
+                  "forks": 1850,
                   "language": null,
                   "license": "Apache-2.0",
                   "topics": [
@@ -11092,7 +11092,7 @@
                     "hacktoberfest",
                     "security"
                   ],
-                  "updated": "2026-10-18T06:19:13Z",
+                  "updated": "2026-10-25T05:45:20Z",
                   "pushed": "2026-05-31T10:54:05Z",
                   "awesome": true,
                   "path": [
@@ -11145,8 +11145,8 @@
                   "sourceRepo": "sbilly/awesome-security",
                   "depth": 3,
                   "children": [],
-                  "stars": 4378,
-                  "forks": 795,
+                  "stars": 4386,
+                  "forks": 793,
                   "language": null,
                   "license": null,
                   "topics": [
@@ -11158,7 +11158,7 @@
                     "security",
                     "security-cheat-sheets"
                   ],
-                  "updated": "2026-10-18T06:44:05Z",
+                  "updated": "2026-10-24T22:32:51Z",
                   "pushed": "2024-02-16T13:38:52Z",
                   "awesome": true,
                   "path": [
@@ -11249,8 +11249,8 @@
                   "sourceRepo": "sbilly/awesome-security",
                   "depth": 3,
                   "children": [],
-                  "stars": 4757,
-                  "forks": 766,
+                  "stars": 4769,
+                  "forks": 765,
                   "language": null,
                   "license": null,
                   "topics": [
@@ -11262,7 +11262,7 @@
                     "threat-detection",
                     "threat-hunting"
                   ],
-                  "updated": "2026-10-17T13:10:05Z",
+                  "updated": "2026-10-24T18:02:27Z",
                   "pushed": "2026-01-05T12:27:34Z",
                   "awesome": true,
                   "path": [
@@ -11312,7 +11312,7 @@
                   "depth": 3,
                   "children": [],
                   "stars": 2104,
-                  "forks": 145,
+                  "forks": 144,
                   "language": null,
                   "license": "NOASSERTION",
                   "topics": [
@@ -11323,7 +11323,7 @@
                     "cryptography",
                     "howto"
                   ],
-                  "updated": "2026-10-13T09:49:03Z",
+                  "updated": "2026-10-25T05:25:37Z",
                   "pushed": "2024-10-17T18:13:08Z",
                   "awesome": true,
                   "path": [
@@ -11345,7 +11345,7 @@
                   "sourceRepo": "sbilly/awesome-security",
                   "depth": 3,
                   "children": [],
-                  "stars": 7805,
+                  "stars": 7813,
                   "forks": 1039,
                   "language": null,
                   "license": "CC0-1.0",
@@ -11367,7 +11367,7 @@
                     "shodan",
                     "shodan-dorks"
                   ],
-                  "updated": "2026-10-17T21:46:06Z",
+                  "updated": "2026-10-25T06:43:44Z",
                   "pushed": "2024-05-27T20:36:28Z",
                   "awesome": true,
                   "path": [
@@ -11389,8 +11389,8 @@
                   "sourceRepo": "sbilly/awesome-security",
                   "depth": 3,
                   "children": [],
-                  "stars": 1251,
-                  "forks": 136,
+                  "stars": 1249,
+                  "forks": 135,
                   "language": "Python",
                   "license": "CC0-1.0",
                   "topics": [
@@ -11407,7 +11407,7 @@
                     "search",
                     "security-tools"
                   ],
-                  "updated": "2026-10-15T13:36:16Z",
+                  "updated": "2026-10-22T10:42:37Z",
                   "pushed": "2026-07-20T18:26:47Z",
                   "awesome": true,
                   "path": [
@@ -11456,8 +11456,8 @@
                   "sourceRepo": "sbilly/awesome-security",
                   "depth": 3,
                   "children": [],
-                  "stars": 4242,
-                  "forks": 491,
+                  "stars": 4244,
+                  "forks": 492,
                   "language": null,
                   "license": null,
                   "topics": [
@@ -11466,7 +11466,7 @@
                     "infosec",
                     "security"
                   ],
-                  "updated": "2026-10-14T12:37:23Z",
+                  "updated": "2026-10-21T16:37:35Z",
                   "pushed": "2026-02-17T13:14:58Z",
                   "awesome": true,
                   "path": [
@@ -11488,8 +11488,8 @@
                   "sourceRepo": "sbilly/awesome-security",
                   "depth": 3,
                   "children": [],
-                  "stars": 619,
-                  "forks": 59,
+                  "stars": 620,
+                  "forks": 60,
                   "language": null,
                   "license": null,
                   "topics": [
@@ -11504,7 +11504,7 @@
                     "pentesting",
                     "security"
                   ],
-                  "updated": "2026-10-11T21:53:08Z",
+                  "updated": "2026-10-20T17:49:45Z",
                   "pushed": "2025-10-03T22:06:03Z",
                   "awesome": true,
                   "path": [
@@ -11615,8 +11615,8 @@
                   "sourceRepo": "sbilly/awesome-security",
                   "depth": 3,
                   "children": [],
-                  "stars": 6582,
-                  "forks": 689,
+                  "stars": 6588,
+                  "forks": 692,
                   "language": null,
                   "license": null,
                   "topics": [
@@ -11635,7 +11635,7 @@
                     "security-tools",
                     "windows-hardening"
                   ],
-                  "updated": "2026-10-17T19:22:30Z",
+                  "updated": "2026-10-25T05:08:36Z",
                   "pushed": "2026-09-22T20:30:20Z",
                   "awesome": true,
                   "path": [
@@ -11681,12 +11681,12 @@
                   "sourceRepo": "sbilly/awesome-security",
                   "depth": 3,
                   "children": [],
-                  "stars": 33727,
-                  "forks": 3599,
+                  "stars": 33746,
+                  "forks": 3597,
                   "language": "Ruby",
                   "license": null,
                   "topics": [],
-                  "updated": "2026-10-17T20:41:33Z",
+                  "updated": "2026-10-25T01:44:46Z",
                   "pushed": "2024-06-02T22:46:41Z",
                   "awesome": true,
                   "path": [
@@ -11762,8 +11762,8 @@
                   "sourceRepo": "sbilly/awesome-security",
                   "depth": 3,
                   "children": [],
-                  "stars": 327797,
-                  "forks": 15390,
+                  "stars": 330130,
+                  "forks": 15524,
                   "language": null,
                   "license": "NOASSERTION",
                   "topics": [
@@ -11776,8 +11776,8 @@
                     "self-hosted",
                     "selfhosted"
                   ],
-                  "updated": "2026-10-18T06:59:55Z",
-                  "pushed": "2026-10-16T14:01:06Z",
+                  "updated": "2026-10-25T07:21:17Z",
+                  "pushed": "2026-10-22T14:44:35Z",
                   "awesome": true,
                   "path": [
                     "Security",
@@ -11825,8 +11825,8 @@
                   "sourceRepo": "sbilly/awesome-security",
                   "depth": 3,
                   "children": [],
-                  "stars": 35439,
-                  "forks": 2116,
+                  "stars": 35494,
+                  "forks": 2121,
                   "language": null,
                   "license": "NOASSERTION",
                   "topics": [
@@ -11840,8 +11840,8 @@
                     "sre",
                     "sysadmin"
                   ],
-                  "updated": "2026-10-18T06:20:23Z",
-                  "pushed": "2026-10-15T11:32:49Z",
+                  "updated": "2026-10-25T06:11:53Z",
+                  "pushed": "2026-10-22T11:46:19Z",
                   "awesome": true,
                   "path": [
                     "Security",
@@ -11883,15 +11883,15 @@
           "parentId": "root-security-security"
         }
       ],
-      "stars": 14982,
-      "forks": 2430,
+      "stars": 15033,
+      "forks": 2447,
       "language": null,
       "license": "MIT",
       "topics": [
         "awesome-list",
         "security"
       ],
-      "updated": "2026-10-17T13:46:22Z",
+      "updated": "2026-10-25T04:40:03Z",
       "pushed": "2026-01-11T02:00:26Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -16778,8 +16778,8 @@
           "parentId": "root-security-ctf"
         }
       ],
-      "stars": 11929,
-      "forks": 1626,
+      "stars": 11946,
+      "forks": 1624,
       "language": "JavaScript",
       "license": "CC0-1.0",
       "topics": [
@@ -16788,7 +16788,7 @@
         "penetration",
         "security"
       ],
-      "updated": "2026-10-18T04:07:21Z",
+      "updated": "2026-10-25T03:12:52Z",
       "pushed": "2024-07-22T19:59:35Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -17241,8 +17241,8 @@
           "parentId": "root-security-cyber-security-university"
         }
       ],
-      "stars": 3669,
-      "forks": 368,
+      "stars": 3710,
+      "forks": 365,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -17258,7 +17258,7 @@
         "hacking",
         "learning-by-doing"
       ],
-      "updated": "2026-10-17T20:34:07Z",
+      "updated": "2026-10-25T03:56:58Z",
       "pushed": "2026-10-04T08:51:36Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -17906,8 +17906,8 @@
           "parentId": "root-security-malware-analysis"
         }
       ],
-      "stars": 14295,
-      "forks": 2692,
+      "stars": 14326,
+      "forks": 2695,
       "language": null,
       "license": "NOASSERTION",
       "topics": [
@@ -17931,7 +17931,7 @@
         "threat-sharing",
         "threatintel"
       ],
-      "updated": "2026-10-17T16:03:09Z",
+      "updated": "2026-10-25T02:47:46Z",
       "pushed": "2024-06-07T05:09:47Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -17951,8 +17951,8 @@
       "sourceRepo": "sindresorhus/awesome",
       "depth": 1,
       "children": [],
-      "stars": 9764,
-      "forks": 1586,
+      "stars": 9782,
+      "forks": 1583,
       "language": "Makefile",
       "license": "Apache-2.0",
       "topics": [
@@ -17962,8 +17962,8 @@
         "list",
         "security"
       ],
-      "updated": "2026-10-17T21:52:08Z",
-      "pushed": "2026-10-13T07:10:40Z",
+      "updated": "2026-10-25T03:46:22Z",
+      "pushed": "2026-10-19T19:38:42Z",
       "awesome": false,
       "path": [
         "Android Security"
@@ -18248,15 +18248,15 @@
           "parentId": "root-security-hacking"
         }
       ],
-      "stars": 17286,
-      "forks": 1733,
+      "stars": 17341,
+      "forks": 1736,
       "language": null,
       "license": "MIT",
       "topics": [
         "awesome",
         "hacking"
       ],
-      "updated": "2026-10-18T07:01:16Z",
+      "updated": "2026-10-25T04:15:25Z",
       "pushed": "2024-06-02T22:40:13Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -22745,7 +22745,7 @@
           "parentId": "root-security-hacking-spots"
         }
       ],
-      "stars": 1133,
+      "stars": 1135,
       "forks": 144,
       "language": null,
       "license": "MIT",
@@ -22753,7 +22753,7 @@
         "awesome-list",
         "awesome-lists"
       ],
-      "updated": "2026-10-12T15:59:10Z",
+      "updated": "2026-10-24T04:11:24Z",
       "pushed": "2025-08-24T14:05:31Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -22863,12 +22863,12 @@
               "sourceRepo": "paralax/awesome-honeypots",
               "depth": 2,
               "children": [],
-              "stars": 3434,
-              "forks": 478,
+              "stars": 3435,
+              "forks": 479,
               "language": null,
               "license": "CC0-1.0",
               "topics": [],
-              "updated": "2026-10-17T19:54:42Z",
+              "updated": "2026-10-23T05:33:30Z",
               "pushed": "2025-09-03T07:24:40Z",
               "awesome": true,
               "path": [
@@ -22889,8 +22889,8 @@
               "sourceRepo": "paralax/awesome-honeypots",
               "depth": 2,
               "children": [],
-              "stars": 14295,
-              "forks": 2692,
+              "stars": 14326,
+              "forks": 2695,
               "language": null,
               "license": "NOASSERTION",
               "topics": [
@@ -22914,7 +22914,7 @@
                 "threat-sharing",
                 "threatintel"
               ],
-              "updated": "2026-10-17T16:03:09Z",
+              "updated": "2026-10-25T02:47:46Z",
               "pushed": "2024-06-07T05:09:47Z",
               "awesome": true,
               "path": [
@@ -24675,8 +24675,8 @@
           "parentId": "root-security-honeypots"
         }
       ],
-      "stars": 10606,
-      "forks": 1419,
+      "stars": 10624,
+      "forks": 1381,
       "language": "Python",
       "license": "Artistic-2.0",
       "topics": [
@@ -24686,7 +24686,7 @@
         "honeypot",
         "list"
       ],
-      "updated": "2026-10-18T01:02:52Z",
+      "updated": "2026-10-25T03:32:09Z",
       "pushed": "2026-06-01T14:15:45Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -25259,8 +25259,8 @@
           "parentId": "root-security-incident-response"
         }
       ],
-      "stars": 9460,
-      "forks": 1764,
+      "stars": 9498,
+      "forks": 1765,
       "language": null,
       "license": "Apache-2.0",
       "topics": [
@@ -25273,7 +25273,7 @@
         "list",
         "security"
       ],
-      "updated": "2026-10-18T00:17:53Z",
+      "updated": "2026-10-25T03:49:56Z",
       "pushed": "2026-10-13T05:08:25Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -30733,8 +30733,8 @@
           "parentId": "root-security-vehicle-security-and-car-hacking"
         }
       ],
-      "stars": 4712,
-      "forks": 751,
+      "stars": 4726,
+      "forks": 745,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -30751,7 +30751,7 @@
         "security",
         "vehicle-security"
       ],
-      "updated": "2026-10-18T04:02:57Z",
+      "updated": "2026-10-25T06:08:13Z",
       "pushed": "2026-05-30T00:29:18Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -31338,8 +31338,8 @@
                   "sourceRepo": "qazbnm456/awesome-web-security",
                   "depth": 3,
                   "children": [],
-                  "stars": 5151,
-                  "forks": 781,
+                  "stars": 5153,
+                  "forks": 780,
                   "language": "JavaScript",
                   "license": "MIT",
                   "topics": [
@@ -31350,7 +31350,7 @@
                     "xss-detection",
                     "xss-payloads"
                   ],
-                  "updated": "2026-10-17T23:46:01Z",
+                  "updated": "2026-10-21T17:03:36Z",
                   "pushed": "2024-10-30T19:01:10Z",
                   "awesome": true,
                   "path": [
@@ -37180,7 +37180,7 @@
                   "sourceRepo": "qazbnm456/awesome-web-security",
                   "depth": 3,
                   "children": [],
-                  "stars": 3539,
+                  "stars": 3542,
                   "forks": 717,
                   "language": null,
                   "license": null,
@@ -37189,7 +37189,7 @@
                     "cve",
                     "poc"
                   ],
-                  "updated": "2026-10-16T19:15:23Z",
+                  "updated": "2026-10-22T02:49:44Z",
                   "pushed": "2022-01-04T19:07:43Z",
                   "awesome": true,
                   "path": [
@@ -42700,12 +42700,12 @@
               "sourceRepo": "qazbnm456/awesome-web-security",
               "depth": 2,
               "children": [],
-              "stars": 5947,
-              "forks": 1087,
+              "stars": 5954,
+              "forks": 1088,
               "language": null,
               "license": "CC0-1.0",
               "topics": [],
-              "updated": "2026-10-17T10:13:53Z",
+              "updated": "2026-10-24T20:44:15Z",
               "pushed": "2026-03-07T06:49:50Z",
               "awesome": true,
               "path": [
@@ -43507,8 +43507,8 @@
           "parentId": "root-security-web-security"
         }
       ],
-      "stars": 13911,
-      "forks": 1879,
+      "stars": 13952,
+      "forks": 1839,
       "language": "Python",
       "license": null,
       "topics": [
@@ -43520,7 +43520,7 @@
         "web",
         "websecurity"
       ],
-      "updated": "2026-10-18T01:50:57Z",
+      "updated": "2026-10-25T07:10:05Z",
       "pushed": "2026-09-14T12:46:56Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -43540,7 +43540,7 @@
       "sourceRepo": "sindresorhus/awesome",
       "depth": 1,
       "children": [],
-      "stars": 1946,
+      "stars": 1952,
       "forks": 130,
       "language": null,
       "license": "CC0-1.0",
@@ -43556,7 +43556,7 @@
         "physical-security",
         "picking-locks"
       ],
-      "updated": "2026-10-18T04:10:17Z",
+      "updated": "2026-10-23T17:14:36Z",
       "pushed": "2022-06-28T11:17:31Z",
       "awesome": true,
       "readmeStatus": "empty",
@@ -50761,8 +50761,8 @@
           "parentId": "root-security-cybersecurity-blue-team"
         }
       ],
-      "stars": 5607,
-      "forks": 841,
+      "stars": 5619,
+      "forks": 843,
       "language": null,
       "license": null,
       "topics": [
@@ -50774,7 +50774,7 @@
         "infosec",
         "security"
       ],
-      "updated": "2026-10-17T20:09:59Z",
+      "updated": "2026-10-24T20:50:59Z",
       "pushed": "2024-07-15T08:05:27Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -62267,8 +62267,8 @@
           "parentId": "root-security-fuzzing"
         }
       ],
-      "stars": 1005,
-      "forks": 96,
+      "stars": 1016,
+      "forks": 98,
       "language": "Python",
       "license": "CC0-1.0",
       "topics": [
@@ -62278,7 +62278,7 @@
         "fuzz-testing",
         "fuzzing"
       ],
-      "updated": "2026-10-18T06:59:32Z",
+      "updated": "2026-10-24T18:04:19Z",
       "pushed": "2026-09-14T06:12:02Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -66317,8 +66317,8 @@
           "parentId": "root-security-embedded-and-iot-security"
         }
       ],
-      "stars": 2474,
-      "forks": 292,
+      "stars": 2490,
+      "forks": 293,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -66329,7 +66329,7 @@
         "iot",
         "security"
       ],
-      "updated": "2026-10-17T20:09:37Z",
+      "updated": "2026-10-24T15:51:03Z",
       "pushed": "2023-10-17T12:23:20Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -71515,8 +71515,8 @@
                   "sourceRepo": "taptuit/awesome-devsecops",
                   "depth": 3,
                   "children": [],
-                  "stars": 1828,
-                  "forks": 314,
+                  "stars": 1829,
+                  "forks": 313,
                   "language": "Dockerfile",
                   "license": "CC0-1.0",
                   "topics": [
@@ -71529,7 +71529,7 @@
                     "security-review",
                     "threat-modeling"
                   ],
-                  "updated": "2026-10-15T17:59:18Z",
+                  "updated": "2026-10-25T00:55:34Z",
                   "pushed": "2024-08-02T19:02:17Z",
                   "awesome": true,
                   "path": [
@@ -71780,7 +71780,7 @@
               "depth": 2,
               "children": [],
               "stars": 1108,
-              "forks": 119,
+              "forks": 120,
               "language": "Rust",
               "license": "MIT",
               "topics": [
@@ -71790,8 +71790,8 @@
                 "dynamic-analysis",
                 "dynamic-code-analysis"
               ],
-              "updated": "2026-10-14T20:31:11Z",
-              "pushed": "2026-10-14T20:31:07Z",
+              "updated": "2026-10-24T13:59:25Z",
+              "pushed": "2026-10-21T21:13:36Z",
               "awesome": true,
               "path": [
                 "DevSecOps",
@@ -71811,8 +71811,8 @@
               "sourceRepo": "taptuit/awesome-devsecops",
               "depth": 2,
               "children": [],
-              "stars": 531,
-              "forks": 110,
+              "stars": 532,
+              "forks": 113,
               "language": "Shell",
               "license": "CC0-1.0",
               "topics": [
@@ -71821,8 +71821,8 @@
                 "devops",
                 "platform-engineering"
               ],
-              "updated": "2026-10-15T13:02:55Z",
-              "pushed": "2026-10-12T17:59:56Z",
+              "updated": "2026-10-22T05:45:34Z",
+              "pushed": "2026-10-20T01:06:27Z",
               "awesome": true,
               "path": [
                 "DevSecOps",
@@ -71842,8 +71842,8 @@
               "sourceRepo": "taptuit/awesome-devsecops",
               "depth": 2,
               "children": [],
-              "stars": 14844,
-              "forks": 1521,
+              "stars": 14851,
+              "forks": 1522,
               "language": "Rust",
               "license": "MIT",
               "topics": [
@@ -71857,8 +71857,8 @@
                 "static-analyzers",
                 "static-code-analysis"
               ],
-              "updated": "2026-10-18T07:01:05Z",
-              "pushed": "2026-10-16T23:08:13Z",
+              "updated": "2026-10-25T02:44:58Z",
+              "pushed": "2026-10-21T20:53:42Z",
               "awesome": true,
               "path": [
                 "DevSecOps",
@@ -71878,8 +71878,8 @@
               "sourceRepo": "taptuit/awesome-devsecops",
               "depth": 2,
               "children": [],
-              "stars": 1828,
-              "forks": 314,
+              "stars": 1829,
+              "forks": 313,
               "language": "Dockerfile",
               "license": "CC0-1.0",
               "topics": [
@@ -71892,7 +71892,7 @@
                 "security-review",
                 "threat-modeling"
               ],
-              "updated": "2026-10-15T17:59:18Z",
+              "updated": "2026-10-25T00:55:34Z",
               "pushed": "2024-08-02T19:02:17Z",
               "awesome": true,
               "path": [
@@ -93317,7 +93317,7 @@
           "parentId": "root-security-malware-persistence"
         }
       ],
-      "stars": 315,
+      "stars": 316,
       "forks": 21,
       "language": null,
       "license": "CC0-1.0",
@@ -93332,7 +93332,7 @@
         "threat-hunting",
         "threat-intelligence"
       ],
-      "updated": "2026-10-16T08:16:01Z",
+      "updated": "2026-10-22T13:05:18Z",
       "pushed": "2026-08-25T11:09:41Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -95280,7 +95280,7 @@
               "sourceRepo": "kareniel/awesome-evm-security",
               "depth": 3,
               "children": [],
-              "stars": 1770,
+              "stars": 1771,
               "forks": 309,
               "language": null,
               "license": null,
@@ -95294,7 +95294,7 @@
                 "game-theory",
                 "pos"
               ],
-              "updated": "2026-10-16T00:25:25Z",
+              "updated": "2026-10-22T01:47:19Z",
               "pushed": "2024-06-17T10:22:52Z",
               "awesome": true,
               "path": [
@@ -95315,7 +95315,7 @@
               "sourceRepo": "kareniel/awesome-evm-security",
               "depth": 3,
               "children": [],
-              "stars": 5846,
+              "stars": 5848,
               "forks": 917,
               "language": null,
               "license": "NOASSERTION",
@@ -95326,8 +95326,8 @@
                 "team-crypto",
                 "zk-snarks"
               ],
-              "updated": "2026-10-15T18:36:43Z",
-              "pushed": "2026-01-23T15:01:47Z",
+              "updated": "2026-10-25T02:08:55Z",
+              "pushed": "2026-10-21T16:33:02Z",
               "awesome": true,
               "path": [
                 "EVM Security",
@@ -95404,8 +95404,8 @@
           "parentId": "root-security-evm-security"
         }
       ],
-      "stars": 199,
-      "forks": 18,
+      "stars": 198,
+      "forks": 17,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -95417,7 +95417,7 @@
         "security",
         "web3"
       ],
-      "updated": "2026-10-12T07:06:33Z",
+      "updated": "2026-10-20T16:51:38Z",
       "pushed": "2022-06-06T17:08:13Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -101213,7 +101213,7 @@
           "parentId": "root-security-password-cracking"
         }
       ],
-      "stars": 1118,
+      "stars": 1123,
       "forks": 94,
       "language": null,
       "license": "CC0-1.0",
@@ -101233,7 +101233,7 @@
         "wordlist-processing",
         "wordlists"
       ],
-      "updated": "2026-10-17T19:57:03Z",
+      "updated": "2026-10-24T22:08:39Z",
       "pushed": "2026-09-06T21:25:55Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -101678,7 +101678,7 @@
           "parentId": "root-security-security-card-games"
         }
       ],
-      "stars": 177,
+      "stars": 178,
       "forks": 16,
       "language": null,
       "license": "CC0-1.0",
@@ -101693,7 +101693,7 @@
         "incident-response",
         "threat-modeling"
       ],
-      "updated": "2026-10-11T14:07:25Z",
+      "updated": "2026-10-21T17:05:18Z",
       "pushed": "2025-06-02T09:41:41Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -105323,7 +105323,7 @@
               "sourceRepo": "fonduai/awesome-prompt-injection",
               "depth": 2,
               "children": [],
-              "stars": 153,
+              "stars": 158,
               "forks": 4,
               "language": "Python",
               "license": "NOASSERTION",
@@ -105349,8 +105349,8 @@
                 "world-action-model",
                 "world-model"
               ],
-              "updated": "2026-10-14T14:25:42Z",
-              "pushed": "2026-10-12T15:16:38Z",
+              "updated": "2026-10-22T07:05:26Z",
+              "pushed": "2026-10-21T12:07:29Z",
               "awesome": true,
               "path": [
                 "Prompt Injection",
@@ -107954,7 +107954,7 @@
               "language": null,
               "license": null,
               "topics": [],
-              "updated": "2026-10-15T22:50:59Z",
+              "updated": "2026-10-20T08:54:41Z",
               "pushed": "2023-09-02T23:27:00Z",
               "awesome": true,
               "path": [
@@ -108214,7 +108214,7 @@
           "parentId": "root-security-detection-engineering"
         }
       ],
-      "stars": 1365,
+      "stars": 1374,
       "forks": 155,
       "language": null,
       "license": "CC0-1.0",
@@ -108227,7 +108227,7 @@
         "splunk",
         "threat-detection"
       ],
-      "updated": "2026-10-17T11:24:12Z",
+      "updated": "2026-10-24T19:25:31Z",
       "pushed": "2026-10-12T12:55:02Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -108399,8 +108399,8 @@
                   "sourceRepo": "jacobdjwilson/awesome-annual-security-reports",
                   "depth": 3,
                   "children": [],
-                  "stars": 1214,
-                  "forks": 145,
+                  "stars": 1219,
+                  "forks": 144,
                   "language": null,
                   "license": "MIT",
                   "topics": [
@@ -108412,8 +108412,8 @@
                     "threat-hunting",
                     "threat-intelligence"
                   ],
-                  "updated": "2026-10-17T14:48:25Z",
-                  "pushed": "2026-10-17T16:37:08Z",
+                  "updated": "2026-10-25T06:27:19Z",
+                  "pushed": "2026-10-21T18:18:24Z",
                   "awesome": true,
                   "path": [
                     "Annual Security Reports",
@@ -123840,8 +123840,8 @@
           "parentId": "root-security-annual-security-reports"
         }
       ],
-      "stars": 1214,
-      "forks": 145,
+      "stars": 1219,
+      "forks": 144,
       "language": null,
       "license": "MIT",
       "topics": [
@@ -123853,8 +123853,8 @@
         "threat-hunting",
         "threat-intelligence"
       ],
-      "updated": "2026-10-17T14:48:25Z",
-      "pushed": "2026-10-17T16:37:08Z",
+      "updated": "2026-10-25T06:27:19Z",
+      "pushed": "2026-10-21T18:18:24Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -126443,7 +126443,7 @@
           "parentId": "root-security-ci-cd-attacks"
         }
       ],
-      "stars": 635,
+      "stars": 636,
       "forks": 58,
       "language": null,
       "license": "CC0-1.0",
@@ -126462,7 +126462,7 @@
         "research",
         "tools"
       ],
-      "updated": "2026-10-11T21:52:38Z",
+      "updated": "2026-10-18T20:35:55Z",
       "pushed": "2026-06-02T07:49:50Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -131891,7 +131891,7 @@
           "parentId": "root-security-openid-connect"
         }
       ],
-      "stars": 131,
+      "stars": 133,
       "forks": 31,
       "language": "HTML",
       "license": "CC0-1.0",
@@ -131912,7 +131912,7 @@
         "openidconnect",
         "security"
       ],
-      "updated": "2026-10-11T10:58:11Z",
+      "updated": "2026-10-21T03:38:29Z",
       "pushed": "2026-10-01T06:42:16Z",
       "awesome": true,
       "readmeStatus": "expanded",

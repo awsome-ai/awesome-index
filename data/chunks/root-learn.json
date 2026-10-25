@@ -258,12 +258,12 @@
           "parentId": "root-learn-cli-workshoppers"
         }
       ],
-      "stars": 2290,
+      "stars": 2297,
       "forks": 70,
       "language": null,
       "license": null,
       "topics": [],
-      "updated": "2026-10-17T21:25:25Z",
+      "updated": "2026-10-23T22:32:40Z",
       "pushed": "2021-03-03T04:05:01Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -462,8 +462,8 @@
           "parentId": "root-learn-speaking"
         }
       ],
-      "stars": 1995,
-      "forks": 611,
+      "stars": 1999,
+      "forks": 610,
       "language": null,
       "license": "MIT",
       "topics": [
@@ -474,7 +474,7 @@
         "speaking",
         "speaking-resources"
       ],
-      "updated": "2026-10-16T03:27:08Z",
+      "updated": "2026-10-24T17:55:47Z",
       "pushed": "2026-09-11T12:09:17Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -6194,7 +6194,7 @@
           "parentId": "root-learn-computer-history"
         }
       ],
-      "stars": 2969,
+      "stars": 2970,
       "forks": 158,
       "language": null,
       "license": null,
@@ -6208,7 +6208,7 @@
         "list",
         "video"
       ],
-      "updated": "2026-10-12T11:12:58Z",
+      "updated": "2026-10-22T14:50:11Z",
       "pushed": "2023-02-01T09:01:45Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -6327,7 +6327,7 @@
       "depth": 1,
       "children": [],
       "stars": 276,
-      "forks": 50,
+      "forks": 48,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -7966,8 +7966,8 @@
           "parentId": "root-learn-educational-games"
         }
       ],
-      "stars": 1193,
-      "forks": 90,
+      "stars": 1196,
+      "forks": 91,
       "language": null,
       "license": "MIT",
       "topics": [
@@ -7975,7 +7975,7 @@
         "education",
         "games"
       ],
-      "updated": "2026-10-16T14:43:03Z",
+      "updated": "2026-10-24T11:40:24Z",
       "pushed": "2024-04-08T06:32:51Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -9869,8 +9869,8 @@
           "parentId": "root-learn-javascript-learning"
         }
       ],
-      "stars": 5870,
-      "forks": 617,
+      "stars": 5872,
+      "forks": 604,
       "language": null,
       "license": "NOASSERTION",
       "topics": [
@@ -9881,7 +9881,7 @@
         "learning",
         "resources"
       ],
-      "updated": "2026-10-17T19:46:19Z",
+      "updated": "2026-10-24T17:50:16Z",
       "pushed": "2026-02-01T20:52:43Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -11317,8 +11317,8 @@
           "parentId": "root-learn-css-learning"
         }
       ],
-      "stars": 3864,
-      "forks": 279,
+      "stars": 3868,
+      "forks": 271,
       "language": null,
       "license": "NOASSERTION",
       "topics": [
@@ -11329,7 +11329,7 @@
         "learning",
         "resources"
       ],
-      "updated": "2026-10-17T09:43:57Z",
+      "updated": "2026-10-24T22:33:56Z",
       "pushed": "2026-02-01T00:22:35Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -16646,8 +16646,8 @@
           "parentId": "root-learn-product-management"
         }
       ],
-      "stars": 2420,
-      "forks": 223,
+      "stars": 2425,
+      "forks": 224,
       "language": "CSS",
       "license": "CC0-1.0",
       "topics": [
@@ -16657,7 +16657,7 @@
         "product",
         "product-management"
       ],
-      "updated": "2026-10-17T13:57:08Z",
+      "updated": "2026-10-24T20:30:55Z",
       "pushed": "2026-09-07T22:44:09Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -17275,6 +17275,32 @@
           "url": "https://github.com/liuchong/awesome-roadmaps#infrastructure-operations",
           "children": [
             {
+              "id": "root-learn-roadmaps-infrastructure-operations-cloud-engineer-roadmap",
+              "title": "Cloud Engineer Roadmap",
+              "kind": "link",
+              "repo": "",
+              "url": "https://ciphemicacademia.in/roadmaps/cloud-engineer/",
+              "description": "Project-based AWS cloud engineering roadmap covering identity, networking, storage, deployment, infrastructure as code, and disaster recovery.",
+              "external": true,
+              "sourceRepo": "liuchong/awesome-roadmaps",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Roadmaps",
+                "Infrastructure / Operations",
+                "Cloud Engineer Roadmap"
+              ],
+              "parentId": "root-learn-roadmaps-infrastructure-operations"
+            },
+            {
               "id": "root-learn-roadmaps-infrastructure-operations-devops-roadmap",
               "title": "DevOps Roadmap",
               "kind": "repo",
@@ -17323,6 +17349,32 @@
                 "Roadmaps",
                 "Infrastructure / Operations",
                 "Platform Engineering Roadmap"
+              ],
+              "parentId": "root-learn-roadmaps-infrastructure-operations"
+            },
+            {
+              "id": "root-learn-roadmaps-infrastructure-operations-wyrcan-engineering-roadmap",
+              "title": "Wyrcan Engineering Roadmap",
+              "kind": "repo",
+              "repo": "wyrcan-io/roadmap",
+              "url": "https://github.com/wyrcan-io/roadmap",
+              "description": "Text-first 12-stage engineering curriculum covering systems, DevOps, cloud architecture, and MLOps with interactive checkpoints.",
+              "external": false,
+              "sourceRepo": "liuchong/awesome-roadmaps",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Roadmaps",
+                "Infrastructure / Operations",
+                "Wyrcan Engineering Roadmap"
               ],
               "parentId": "root-learn-roadmaps-infrastructure-operations"
             }
@@ -17893,6 +17945,32 @@
               "parentId": "root-learn-roadmaps-ai-machine-learning-data-science"
             },
             {
+              "id": "root-learn-roadmaps-ai-machine-learning-data-science-machine-learning-roadmap",
+              "title": "Machine Learning Roadmap",
+              "kind": "link",
+              "repo": "",
+              "url": "https://quiddityml.com/blog/how-to-learn-machine-learning-roadmap/",
+              "description": "Self-study machine learning roadmap covering Python, mathematics, PyTorch, and ML foundations, with staged concept lists and study-time estimates.",
+              "external": true,
+              "sourceRepo": "liuchong/awesome-roadmaps",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Roadmaps",
+                "AI / Machine Learning / Data Science",
+                "Machine Learning Roadmap"
+              ],
+              "parentId": "root-learn-roadmaps-ai-machine-learning-data-science"
+            },
+            {
               "id": "root-learn-roadmaps-ai-machine-learning-data-science-nlp-roadmap",
               "title": "NLP Roadmap",
               "kind": "repo",
@@ -18001,8 +18079,8 @@
               "sourceRepo": "liuchong/awesome-roadmaps",
               "depth": 2,
               "children": [],
-              "stars": 2196,
-              "forks": 373,
+              "stars": 2199,
+              "forks": 364,
               "language": null,
               "license": "CC0-1.0",
               "topics": [
@@ -18018,7 +18096,7 @@
                 "software-testing",
                 "testing"
               ],
-              "updated": "2026-10-16T02:38:14Z",
+              "updated": "2026-10-24T13:29:02Z",
               "pushed": "2026-06-04T11:08:57Z",
               "awesome": true,
               "path": [
@@ -18129,6 +18207,32 @@
                 "Roadmaps",
                 "Miscellaneous",
                 "Hacker Roadmap"
+              ],
+              "parentId": "root-learn-roadmaps-miscellaneous"
+            },
+            {
+              "id": "root-learn-roadmaps-miscellaneous-knowledge-navigator",
+              "title": "Knowledge Navigator",
+              "kind": "repo",
+              "repo": "mohamedmuneerm/knowledge-navigator",
+              "url": "https://github.com/mohamedmuneerm/knowledge-navigator",
+              "description": "Interactive learning map with goal-based roadmaps and chapter prerequisites across STEM and other disciplines.",
+              "external": false,
+              "sourceRepo": "liuchong/awesome-roadmaps",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Roadmaps",
+                "Miscellaneous",
+                "Knowledge Navigator"
               ],
               "parentId": "root-learn-roadmaps-miscellaneous"
             },
@@ -18543,6 +18647,32 @@
               "parentId": "root-learn-roadmaps-articles-and-books"
             },
             {
+              "id": "root-learn-roadmaps-articles-and-books-frontend-framework-interview-preparation-roadmap",
+              "title": "Frontend Framework Interview Preparation Roadmap",
+              "kind": "link",
+              "repo": "",
+              "url": "https://frontendatlas.com/guides/framework-prep",
+              "description": "Guide mapping frontend interview preparation across JavaScript, React, Angular, and Vue, with 7, 14, and 30-day study plans.",
+              "external": true,
+              "sourceRepo": "liuchong/awesome-roadmaps",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Roadmaps",
+                "Articles & Books",
+                "Frontend Framework Interview Preparation Roadmap"
+              ],
+              "parentId": "root-learn-roadmaps-articles-and-books"
+            },
+            {
               "id": "root-learn-roadmaps-articles-and-books-full-stack-developer-roadmap",
               "title": "Full Stack Developer Roadmap",
               "kind": "link",
@@ -18662,8 +18792,8 @@
           "parentId": "root-learn-roadmaps"
         }
       ],
-      "stars": 7412,
-      "forks": 497,
+      "stars": 7427,
+      "forks": 490,
       "language": null,
       "license": "NOASSERTION",
       "topics": [
@@ -18673,8 +18803,8 @@
         "resources",
         "roadmap"
       ],
-      "updated": "2026-10-18T06:53:55Z",
-      "pushed": "2026-08-03T13:48:51Z",
+      "updated": "2026-10-25T07:02:21Z",
+      "pushed": "2026-10-19T09:16:12Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -18717,7 +18847,7 @@
               "language": "Markdown",
               "license": "CC0-1.0",
               "topics": [],
-              "updated": "2026-08-26T15:52:46Z",
+              "updated": "2026-10-24T22:03:26Z",
               "pushed": "2024-11-11T16:20:56Z",
               "awesome": true,
               "path": [
@@ -19168,8 +19298,8 @@
           "parentId": "root-learn-youtubers"
         }
       ],
-      "stars": 7873,
-      "forks": 510,
+      "stars": 7892,
+      "forks": 505,
       "language": "Markdown",
       "license": "CC0-1.0",
       "topics": [
@@ -19179,8 +19309,8 @@
         "youtube",
         "youtubers"
       ],
-      "updated": "2026-10-17T22:22:41Z",
-      "pushed": "2026-08-05T18:42:59Z",
+      "updated": "2026-10-25T06:42:01Z",
+      "pushed": "2026-10-19T17:58:32Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -21543,8 +21673,8 @@
                   "sourceRepo": "dribdat/awesome-hackathon",
                   "depth": 3,
                   "children": [],
-                  "stars": 21579,
-                  "forks": 4000,
+                  "stars": 21614,
+                  "forks": 3961,
                   "language": null,
                   "license": null,
                   "topics": [
@@ -21553,8 +21683,8 @@
                     "list",
                     "readme"
                   ],
-                  "updated": "2026-10-18T05:21:29Z",
-                  "pushed": "2026-10-14T09:03:07Z",
+                  "updated": "2026-10-25T02:11:07Z",
+                  "pushed": "2026-10-23T17:31:50Z",
                   "awesome": true,
                   "path": [
                     "Hackathon",
@@ -22646,7 +22776,7 @@
         }
       ],
       "stars": 311,
-      "forks": 30,
+      "forks": 33,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -23748,8 +23878,8 @@
           "parentId": "root-learn-certificates"
         }
       ],
-      "stars": 5855,
-      "forks": 483,
+      "stars": 5885,
+      "forks": 476,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -23764,7 +23894,7 @@
         "free",
         "hacktoberfest"
       ],
-      "updated": "2026-10-17T17:12:24Z",
+      "updated": "2026-10-24T18:08:55Z",
       "pushed": "2026-06-30T15:46:25Z",
       "awesome": true,
       "readmeStatus": "expanded",

@@ -1241,13 +1241,13 @@
           "parentId": "root-decentralized-systems-bitcoin"
         }
       ],
-      "stars": 1355,
-      "forks": 295,
+      "stars": 1357,
+      "forks": 307,
       "language": null,
       "license": null,
       "topics": [],
-      "updated": "2026-10-07T10:52:57Z",
-      "pushed": "2026-09-29T19:08:10Z",
+      "updated": "2026-10-21T14:24:13Z",
+      "pushed": "2026-10-21T14:23:58Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -4512,7 +4512,7 @@
         "awesome",
         "ripple"
       ],
-      "updated": "2026-10-16T14:45:07Z",
+      "updated": "2026-10-24T17:52:12Z",
       "pushed": "2021-07-02T15:40:31Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -8260,7 +8260,7 @@
           "parentId": "root-decentralized-systems-mastodon"
         }
       ],
-      "stars": 64,
+      "stars": 65,
       "forks": 8,
       "language": "Markdown",
       "license": "CC0-1.0",
@@ -8269,7 +8269,7 @@
         "awesome-list",
         "mastodon"
       ],
-      "updated": "2026-10-12T02:10:25Z",
+      "updated": "2026-10-19T05:14:08Z",
       "pushed": "2026-08-30T06:48:33Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -10905,7 +10905,7 @@
         }
       ],
       "stars": 364,
-      "forks": 63,
+      "forks": 65,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -12419,7 +12419,7 @@
         }
       ],
       "stars": 1157,
-      "forks": 230,
+      "forks": 231,
       "language": null,
       "license": null,
       "topics": [
@@ -32871,7 +32871,7 @@
           "parentId": "root-decentralized-systems-golem"
         }
       ],
-      "stars": 244,
+      "stars": 245,
       "forks": 27,
       "language": null,
       "license": "CC0-1.0",
@@ -32882,7 +32882,7 @@
         "golem-network",
         "golem-repositories"
       ],
-      "updated": "2026-10-12T09:39:47Z",
+      "updated": "2026-10-22T18:50:22Z",
       "pushed": "2024-01-16T15:45:30Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -45296,7 +45296,7 @@
         }
       ],
       "stars": 601,
-      "forks": 174,
+      "forks": 173,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -45306,7 +45306,7 @@
         "cosmos",
         "cosmos-sdk"
       ],
-      "updated": "2026-10-13T15:27:42Z",
+      "updated": "2026-10-24T12:37:18Z",
       "pushed": "2026-04-13T09:03:12Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -46366,6 +46366,33 @@
                     "Applications",
                     "Other applications",
                     "ansible-relayor"
+                  ],
+                  "parentId": "root-decentralized-systems-tor-applications-other-applications"
+                },
+                {
+                  "id": "root-decentralized-systems-tor-applications-other-applications-aster-mail",
+                  "title": "Aster Mail",
+                  "kind": "link",
+                  "repo": "",
+                  "url": "https://astermail.org/tor/",
+                  "description": "End-to-end encrypted email service with official onion addresses for its website and web app.",
+                  "external": true,
+                  "sourceRepo": "polycarbohydrate/awesome-tor",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Tor",
+                    "Applications",
+                    "Other applications",
+                    "Aster Mail"
                   ],
                   "parentId": "root-decentralized-systems-tor-applications-other-applications"
                 },
@@ -49645,8 +49672,8 @@
           "parentId": "root-decentralized-systems-tor"
         }
       ],
-      "stars": 132,
-      "forks": 14,
+      "stars": 134,
+      "forks": 15,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -49656,8 +49683,8 @@
         "onion-routing",
         "tor"
       ],
-      "updated": "2026-10-14T14:20:35Z",
-      "pushed": "2026-09-12T19:31:51Z",
+      "updated": "2026-10-24T22:25:52Z",
+      "pushed": "2026-10-24T02:19:29Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -49859,7 +49886,7 @@
         }
       ],
       "stars": 80,
-      "forks": 7,
+      "forks": 11,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
