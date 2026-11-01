@@ -4859,6 +4859,32 @@
                 "jaitd/fieldguide.nvim"
               ],
               "parentId": "root-editors-neovim-ai"
+            },
+            {
+              "id": "root-editors-neovim-ai-mrwatts88-ghost-nvim",
+              "title": "mrwatts88/ghost.nvim",
+              "kind": "repo",
+              "repo": "mrwatts88/ghost.nvim",
+              "url": "https://github.com/mrwatts88/ghost.nvim",
+              "description": "Write a question using a comment starting with ? to get a response from your favourite LLM via virtual text.",
+              "external": false,
+              "sourceRepo": "rockerboo/awesome-neovim",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Neovim",
+                "AI",
+                "mrwatts88/ghost.nvim"
+              ],
+              "parentId": "root-editors-neovim-ai"
             }
           ],
           "stars": 0,
@@ -5898,6 +5924,32 @@
               "parentId": "root-editors-neovim-programming-languages-support"
             },
             {
+              "id": "root-editors-neovim-programming-languages-support-dobsontom-dbt-ft-nvim",
+              "title": "dobsontom/dbt-ft.nvim",
+              "kind": "repo",
+              "repo": "dobsontom/dbt-ft.nvim",
+              "url": "https://github.com/dobsontom/dbt-ft.nvim",
+              "description": "Jinja-aware filetype for dbt models, with Tree-sitter support for highlighting, folding, and indentation.",
+              "external": false,
+              "sourceRepo": "rockerboo/awesome-neovim",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Neovim",
+                "Programming Languages Support",
+                "dobsontom/dbt-ft.nvim"
+              ],
+              "parentId": "root-editors-neovim-programming-languages-support"
+            },
+            {
               "id": "root-editors-neovim-programming-languages-support-golang",
               "title": "Golang",
               "kind": "section",
@@ -6845,12 +6897,12 @@
                   "parentId": "root-editors-neovim-programming-languages-support-markdown-and-latex"
                 },
                 {
-                  "id": "root-editors-neovim-programming-languages-support-markdown-and-latex-iamcco-markdown-preview-nvim",
-                  "title": "iamcco/markdown-preview.nvim",
+                  "id": "root-editors-neovim-programming-languages-support-markdown-and-latex-sammaji-markdown-preview-nvim",
+                  "title": "sammaji/markdown-preview.nvim",
                   "kind": "repo",
-                  "repo": "iamcco/markdown-preview.nvim",
-                  "url": "https://github.com/iamcco/markdown-preview.nvim",
-                  "description": "Preview Markdown on your modern browser with synchronised scrolling and flexible configuration.",
+                  "repo": "sammaji/markdown-preview.nvim",
+                  "url": "https://github.com/sammaji/markdown-preview.nvim",
+                  "description": "Preview Markdown files in your browser with support for math and diagrams, and synchronised scrolling.",
                   "external": false,
                   "sourceRepo": "rockerboo/awesome-neovim",
                   "depth": 3,
@@ -6867,7 +6919,7 @@
                     "Neovim",
                     "Programming Languages Support",
                     "Markdown and LaTeX",
-                    "iamcco/markdown-preview.nvim"
+                    "sammaji/markdown-preview.nvim"
                   ],
                   "parentId": "root-editors-neovim-programming-languages-support-markdown-and-latex"
                 },
@@ -13309,6 +13361,32 @@
               "parentId": "root-editors-neovim-colorscheme"
             },
             {
+              "id": "root-editors-neovim-colorscheme-heritage-themes-heritage-themes-nvim",
+              "title": "heritage-themes/heritage-themes.nvim",
+              "kind": "repo",
+              "repo": "heritage-themes/heritage-themes.nvim",
+              "url": "https://github.com/heritage-themes/heritage-themes.nvim",
+              "description": "[TS][LSP][L/D][Lua] A collection of 65 colorschemes drawn from the colour traditions of different cultures, with support for lualine.nvim and gitsigns.nvim.",
+              "external": false,
+              "sourceRepo": "rockerboo/awesome-neovim",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Neovim",
+                "Colorscheme",
+                "heritage-themes/heritage-themes.nvim"
+              ],
+              "parentId": "root-editors-neovim-colorscheme"
+            },
+            {
               "id": "root-editors-neovim-colorscheme-zacesshq-zacess-nvim",
               "title": "zacesshq/zacess.nvim",
               "kind": "repo",
@@ -17417,6 +17495,58 @@
               "parentId": "root-editors-neovim-colorscheme"
             },
             {
+              "id": "root-editors-neovim-colorscheme-raziksf-lumina-themes",
+              "title": "RazikSF/lumina-themes",
+              "kind": "repo",
+              "repo": "raziksf/lumina-themes",
+              "url": "https://github.com/raziksf/lumina-themes",
+              "description": "[TS][LSP][L/D][Lua] Fourteen colorschemes drawn from scenes, each in light and dark, plus a high-contrast pair.",
+              "external": false,
+              "sourceRepo": "rockerboo/awesome-neovim",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Neovim",
+                "Colorscheme",
+                "RazikSF/lumina-themes"
+              ],
+              "parentId": "root-editors-neovim-colorscheme"
+            },
+            {
+              "id": "root-editors-neovim-colorscheme-kryptamine-gruber-darker-renaissance",
+              "title": "kryptamine/gruber-darker-renaissance",
+              "kind": "repo",
+              "repo": "kryptamine/gruber-darker-renaissance",
+              "url": "https://github.com/kryptamine/gruber-darker-renaissance",
+              "description": "[TS][LSP][Lua] A dark, minimal colorscheme based on Gruber Darker.",
+              "external": false,
+              "sourceRepo": "rockerboo/awesome-neovim",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Neovim",
+                "Colorscheme",
+                "kryptamine/gruber-darker-renaissance"
+              ],
+              "parentId": "root-editors-neovim-colorscheme"
+            },
+            {
               "id": "root-editors-neovim-colorscheme-colorscheme-creation",
               "title": "Colorscheme Creation",
               "kind": "section",
@@ -19822,6 +19952,32 @@
                 "Neovim",
                 "Startup",
                 "zdcthomas/sprout.nvim"
+              ],
+              "parentId": "root-editors-neovim-startup"
+            },
+            {
+              "id": "root-editors-neovim-startup-hawknewton-matrix-splash-nvim",
+              "title": "hawknewton/matrix-splash.nvim",
+              "kind": "repo",
+              "repo": "hawknewton/matrix-splash.nvim",
+              "url": "https://github.com/hawknewton/matrix-splash.nvim",
+              "description": "Customizable Matrix-inspired splash screen.",
+              "external": false,
+              "sourceRepo": "rockerboo/awesome-neovim",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Neovim",
+                "Startup",
+                "hawknewton/matrix-splash.nvim"
               ],
               "parentId": "root-editors-neovim-startup"
             }
@@ -36915,6 +37071,33 @@
                     "salorak/libtmux.nvim"
                   ],
                   "parentId": "root-editors-neovim-split-and-window-tmux"
+                },
+                {
+                  "id": "root-editors-neovim-split-and-window-tmux-minhyeoky-tmux-oil-nvim",
+                  "title": "minhyeoky/tmux-oil.nvim",
+                  "kind": "repo",
+                  "repo": "minhyeoky/tmux-oil.nvim",
+                  "url": "https://github.com/minhyeoky/tmux-oil.nvim",
+                  "description": "Edit tmux sessions and windows as lines in a buffer, like oil.nvim.",
+                  "external": false,
+                  "sourceRepo": "rockerboo/awesome-neovim",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Neovim",
+                    "Split and Window",
+                    "Tmux",
+                    "minhyeoky/tmux-oil.nvim"
+                  ],
+                  "parentId": "root-editors-neovim-split-and-window-tmux"
                 }
               ],
               "stars": 0,
@@ -39242,6 +39425,32 @@
                 "JimmyPla6z/FireVim"
               ],
               "parentId": "root-editors-neovim-pre-made-configuration"
+            },
+            {
+              "id": "root-editors-neovim-pre-made-configuration-gamjagoon-earlgrey-nvim",
+              "title": "gamjagoon/earlgrey.nvim",
+              "kind": "repo",
+              "repo": "gamjagoon/earlgrey.nvim",
+              "url": "https://github.com/gamjagoon/earlgrey.nvim",
+              "description": "A focused configuration with terminal agent notifications, per-language LSP controls, and cross-platform installers.",
+              "external": false,
+              "sourceRepo": "rockerboo/awesome-neovim",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Neovim",
+                "Pre-made Configuration",
+                "gamjagoon/earlgrey.nvim"
+              ],
+              "parentId": "root-editors-neovim-pre-made-configuration"
             }
           ],
           "stars": 0,
@@ -39719,8 +39928,8 @@
                     "neovim-plugins",
                     "nix-flake"
                   ],
-                  "updated": "2026-10-24T19:41:39Z",
-                  "pushed": "2026-10-24T19:41:36Z",
+                  "updated": "2026-10-31T20:48:54Z",
+                  "pushed": "2026-10-31T20:48:50Z",
                   "awesome": true,
                   "path": [
                     "Neovim",
@@ -40423,7 +40632,7 @@
               "sourceRepo": "rockerboo/awesome-neovim",
               "depth": 2,
               "children": [],
-              "stars": 2132,
+              "stars": 2133,
               "forks": 145,
               "language": null,
               "license": "MIT",
@@ -40431,7 +40640,7 @@
                 "awesome",
                 "vim"
               ],
-              "updated": "2026-10-23T22:57:04Z",
+              "updated": "2026-10-28T12:13:04Z",
               "pushed": "2025-06-06T18:42:55Z",
               "awesome": true,
               "path": [
@@ -40665,8 +40874,8 @@
           "parentId": "root-editors-neovim"
         }
       ],
-      "stars": 21510,
-      "forks": 1075,
+      "stars": 21535,
+      "forks": 1080,
       "language": "Shell",
       "license": "CC0-1.0",
       "topics": [
@@ -40676,8 +40885,8 @@
         "neovim-plugins",
         "nvim-lua"
       ],
-      "updated": "2026-10-25T05:24:42Z",
-      "pushed": "2026-10-24T00:43:49Z",
+      "updated": "2026-11-01T06:40:25Z",
+      "pushed": "2026-10-31T19:27:34Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -40696,7 +40905,7 @@
       "sourceRepo": "sindresorhus/awesome",
       "depth": 1,
       "children": [],
-      "stars": 9401,
+      "stars": 9407,
       "forks": 599,
       "language": null,
       "license": "Unlicense",
@@ -40704,7 +40913,7 @@
         "awesome-list",
         "emacs"
       ],
-      "updated": "2026-10-25T03:51:16Z",
+      "updated": "2026-11-01T06:53:28Z",
       "pushed": "2026-09-02T15:57:43Z",
       "awesome": true,
       "readmeStatus": "empty",
@@ -47175,8 +47384,8 @@
           "parentId": "root-editors-visual-studio-code"
         }
       ],
-      "stars": 29163,
-      "forks": 1446,
+      "stars": 29184,
+      "forks": 1449,
       "language": "JavaScript",
       "license": "CC0-1.0",
       "topics": [
@@ -47192,7 +47401,7 @@
         "vscode-extension",
         "vscode-theme"
       ],
-      "updated": "2026-10-25T06:24:18Z",
+      "updated": "2026-11-01T03:03:11Z",
       "pushed": "2026-06-21T09:36:55Z",
       "awesome": true,
       "readmeStatus": "expanded",

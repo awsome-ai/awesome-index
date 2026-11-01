@@ -238,14 +238,14 @@
           "parentId": "root-hardware-robotics"
         }
       ],
-      "stars": 7257,
-      "forks": 1100,
+      "stars": 7272,
+      "forks": 1103,
       "language": null,
       "license": "NOASSERTION",
       "topics": [
         "robotics"
       ],
-      "updated": "2026-10-25T07:06:23Z",
+      "updated": "2026-11-01T03:00:17Z",
       "pushed": "2024-09-22T20:24:10Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -3270,6 +3270,33 @@
                   "parentId": "root-hardware-internet-of-things-software-libraries-and-tools"
                 },
                 {
+                  "id": "root-hardware-internet-of-things-software-libraries-and-tools-libredb-studio",
+                  "title": "LibreDB Studio",
+                  "kind": "repo",
+                  "repo": "libredb/libredb-studio",
+                  "url": "https://github.com/libredb/libredb-studio",
+                  "description": "Open source web database IDE that also reads industrial and IoT sources, read-only: MQTT 5.0 topic trees, Sparkplug B namespaces, OPC UA address spaces, Modbus TCP registers, MTConnect agents and SNMP devices.",
+                  "external": false,
+                  "sourceRepo": "hqarroum/awesome-iot",
+                  "depth": 4,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Internet of Things",
+                    "Software",
+                    "Libraries and Tools",
+                    "LibreDB Studio"
+                  ],
+                  "parentId": "root-hardware-internet-of-things-software-libraries-and-tools"
+                },
+                {
                   "id": "root-hardware-internet-of-things-software-libraries-and-tools-luvit",
                   "title": "Luvit",
                   "kind": "link",
@@ -3992,6 +4019,33 @@
                     "Software",
                     "Miscellaneous",
                     "Gladys"
+                  ],
+                  "parentId": "root-hardware-internet-of-things-software-miscellaneous"
+                },
+                {
+                  "id": "root-hardware-internet-of-things-software-miscellaneous-home-automation-cookbook",
+                  "title": "Home Automation Cookbook",
+                  "kind": "link",
+                  "repo": "",
+                  "url": "https://www.homeautomationcookbook.com/",
+                  "description": "Free, tested smart home automation recipes with steps for Hubitat, SmartThings, Alexa, and Home Assistant.",
+                  "external": true,
+                  "sourceRepo": "hqarroum/awesome-iot",
+                  "depth": 4,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Internet of Things",
+                    "Software",
+                    "Miscellaneous",
+                    "Home Automation Cookbook"
                   ],
                   "parentId": "root-hardware-internet-of-things-software-miscellaneous"
                 },
@@ -5879,8 +5933,8 @@
           "parentId": "root-hardware-internet-of-things"
         }
       ],
-      "stars": 4533,
-      "forks": 530,
+      "stars": 4541,
+      "forks": 538,
       "language": null,
       "license": "MIT",
       "topics": [
@@ -5892,8 +5946,8 @@
         "internet-of-things",
         "iot"
       ],
-      "updated": "2026-10-24T22:32:29Z",
-      "pushed": "2026-10-20T15:52:10Z",
+      "updated": "2026-11-01T09:46:16Z",
+      "pushed": "2026-10-31T22:25:36Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -8089,8 +8143,8 @@
                   "sourceRepo": "kitspace/awesome-electronics",
                   "depth": 3,
                   "children": [],
-                  "stars": 208,
-                  "forks": 12,
+                  "stars": 215,
+                  "forks": 13,
                   "language": "Python",
                   "license": "CC-BY-4.0",
                   "topics": [
@@ -8103,7 +8157,7 @@
                     "kicad-schematics",
                     "made-with-kicad"
                   ],
-                  "updated": "2026-10-24T21:59:44Z",
+                  "updated": "2026-10-31T18:12:58Z",
                   "pushed": "2026-10-23T18:43:31Z",
                   "awesome": true,
                   "path": [
@@ -10469,12 +10523,12 @@
               "sourceRepo": "kitspace/awesome-electronics",
               "depth": 2,
               "children": [],
-              "stars": 400,
+              "stars": 401,
               "forks": 36,
               "language": null,
               "license": "GPL-3.0",
               "topics": [],
-              "updated": "2026-09-08T05:41:29Z",
+              "updated": "2026-10-31T13:46:56Z",
               "pushed": "2017-05-25T21:45:38Z",
               "awesome": true,
               "path": [
@@ -10521,12 +10575,12 @@
               "sourceRepo": "kitspace/awesome-electronics",
               "depth": 2,
               "children": [],
-              "stars": 1033,
-              "forks": 119,
+              "stars": 1036,
+              "forks": 120,
               "language": null,
               "license": null,
               "topics": [],
-              "updated": "2026-10-24T15:29:52Z",
+              "updated": "2026-10-29T09:53:06Z",
               "pushed": "2024-01-04T03:35:24Z",
               "awesome": true,
               "path": [
@@ -10637,8 +10691,8 @@
               "sourceRepo": "kitspace/awesome-electronics",
               "depth": 2,
               "children": [],
-              "stars": 1103,
-              "forks": 56,
+              "stars": 1113,
+              "forks": 58,
               "language": null,
               "license": "CC0-1.0",
               "topics": [
@@ -10648,7 +10702,7 @@
                 "open-hardware",
                 "open-source-hardware"
               ],
-              "updated": "2026-10-24T01:33:33Z",
+              "updated": "2026-10-31T18:10:36Z",
               "pushed": "2026-10-14T09:23:03Z",
               "awesome": true,
               "path": [
@@ -10669,7 +10723,7 @@
               "sourceRepo": "kitspace/awesome-electronics",
               "depth": 2,
               "children": [],
-              "stars": 376,
+              "stars": 380,
               "forks": 69,
               "language": null,
               "license": null,
@@ -10678,7 +10732,7 @@
                 "open-source",
                 "power-electronics"
               ],
-              "updated": "2026-10-25T00:42:03Z",
+              "updated": "2026-10-31T14:51:14Z",
               "pushed": "2026-10-07T11:44:47Z",
               "awesome": true,
               "path": [
@@ -10831,7 +10885,7 @@
           "parentId": "root-hardware-electronics"
         }
       ],
-      "stars": 8279,
+      "stars": 8315,
       "forks": 552,
       "language": null,
       "license": "CC0-1.0",
@@ -10845,7 +10899,7 @@
         "kicad",
         "pcb"
       ],
-      "updated": "2026-10-24T19:45:05Z",
+      "updated": "2026-11-01T09:43:39Z",
       "pushed": "2026-10-12T13:41:09Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -19653,7 +19707,7 @@
               "sourceRepo": "beardicus/awesome-plotters",
               "depth": 2,
               "children": [],
-              "stars": 1850,
+              "stars": 1853,
               "forks": 107,
               "language": null,
               "license": null,
@@ -19667,7 +19721,7 @@
                 "vjing",
                 "vvvv"
               ],
-              "updated": "2026-10-21T14:41:47Z",
+              "updated": "2026-11-01T01:33:07Z",
               "pushed": "2024-06-04T08:35:54Z",
               "awesome": true,
               "path": [
@@ -19688,8 +19742,8 @@
               "sourceRepo": "beardicus/awesome-plotters",
               "depth": 2,
               "children": [],
-              "stars": 15484,
-              "forks": 998,
+              "stars": 15527,
+              "forks": 1005,
               "language": "HTML",
               "license": null,
               "topics": [
@@ -19711,7 +19765,7 @@
                 "shaders",
                 "webgl"
               ],
-              "updated": "2026-10-25T02:43:06Z",
+              "updated": "2026-11-01T06:45:40Z",
               "pushed": "2026-07-21T15:01:30Z",
               "awesome": true,
               "path": [
@@ -19763,7 +19817,7 @@
           "parentId": "root-hardware-plotters"
         }
       ],
-      "stars": 1475,
+      "stars": 1482,
       "forks": 99,
       "language": null,
       "license": "CC0-1.0",
@@ -19782,7 +19836,7 @@
         "roland-plotters",
         "vector-graphics"
       ],
-      "updated": "2026-10-24T22:27:16Z",
+      "updated": "2026-10-30T12:00:05Z",
       "pushed": "2025-12-03T21:39:31Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -22736,6 +22790,60 @@
                 "LIDAR",
                 "Manufacturers",
                 "Riegl"
+              ],
+              "parentId": "root-hardware-lidar-manufacturers"
+            },
+            {
+              "id": "root-hardware-lidar-manufacturers-erdi",
+              "title": "ERDI",
+              "kind": "link",
+              "repo": "",
+              "url": "https://specs.erdilrf.com/",
+              "description": "Laser rangefinder module and single-point LIDAR manufacturer (905 / 940 / 1535 nm, 9 m to 23 km), headquartered in Chengdu, China. Publishes an open specification dataset where every range figure keeps the verbatim test condition it was measured under.",
+              "external": true,
+              "sourceRepo": "szenergy/awesome-lidar",
+              "depth": 2,
+              "children": [
+                {
+                  "id": "root-hardware-lidar-manufacturers-erdi-specification-dataset",
+                  "title": "Specification dataset",
+                  "kind": "topic",
+                  "repo": "",
+                  "url": "",
+                  "description": "",
+                  "external": false,
+                  "sourceRepo": "szenergy/awesome-lidar",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "LIDAR",
+                    "Manufacturers",
+                    "ERDI",
+                    "Specification dataset"
+                  ],
+                  "parentId": "root-hardware-lidar-manufacturers-erdi"
+                }
+              ],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "LIDAR",
+                "Manufacturers",
+                "ERDI"
               ],
               "parentId": "root-hardware-lidar-manufacturers"
             }
@@ -29101,6 +29209,32 @@
                 "Which SLAM Algorithm Should I Choose? Slambotics"
               ],
               "parentId": "root-hardware-lidar-others"
+            },
+            {
+              "id": "root-hardware-lidar-others-lidarkit",
+              "title": "LidarKit",
+              "kind": "link",
+              "repo": "",
+              "url": "https://lidar-kit.com/",
+              "description": "Browser-based viewer and converter for LAS, LAZ, COPC and E57 that decodes files locally with WebAssembly (nothing is uploaded), with ground classification and DEM/orthophoto export.",
+              "external": true,
+              "sourceRepo": "szenergy/awesome-lidar",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "LIDAR",
+                "Others",
+                "LidarKit"
+              ],
+              "parentId": "root-hardware-lidar-others"
             }
           ],
           "stars": 0,
@@ -29118,8 +29252,8 @@
           "parentId": "root-hardware-lidar"
         }
       ],
-      "stars": 1359,
-      "forks": 137,
+      "stars": 1362,
+      "forks": 139,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -29138,8 +29272,8 @@
         "szegyetem",
         "szenergy"
       ],
-      "updated": "2026-10-21T10:19:53Z",
-      "pushed": "2026-09-30T08:28:51Z",
+      "updated": "2026-10-29T14:40:59Z",
+      "pushed": "2026-10-26T07:11:06Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -29541,8 +29675,8 @@
           "parentId": "root-hardware-open-hardware"
         }
       ],
-      "stars": 1103,
-      "forks": 56,
+      "stars": 1113,
+      "forks": 58,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -29552,7 +29686,7 @@
         "open-hardware",
         "open-source-hardware"
       ],
-      "updated": "2026-10-24T01:33:33Z",
+      "updated": "2026-10-31T18:10:36Z",
       "pushed": "2026-10-14T09:23:03Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -29982,7 +30116,7 @@
                   "title": "Plane.watch",
                   "kind": "link",
                   "repo": "",
-                  "url": "https://plane.watch",
+                  "url": "https://www.plane.watch",
                   "description": "A community hosted flight tracker.",
                   "external": true,
                   "sourceRepo": "rickstaa/awesome-adsb",
@@ -30845,6 +30979,60 @@
                     "Grafana"
                   ],
                   "parentId": "root-hardware-ads-b-software-visualisation"
+                },
+                {
+                  "id": "root-hardware-ads-b-software-visualisation-andrewctf-velocity",
+                  "title": "AndrewCTF/velocity",
+                  "kind": "repo",
+                  "repo": "andrewctf/velocity",
+                  "url": "https://github.com/andrewctf/velocity",
+                  "description": "A self-hosted flight and ship tracker on a 3D globe that records every position it sees so you can replay any moment, and folds in your own receiver's tar1090 or readsb feed.",
+                  "external": false,
+                  "sourceRepo": "rickstaa/awesome-adsb",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "ADS-B",
+                    "Software",
+                    "Visualisation",
+                    "AndrewCTF/velocity"
+                  ],
+                  "parentId": "root-hardware-ads-b-software-visualisation"
+                },
+                {
+                  "id": "root-hardware-ads-b-software-visualisation-blindp3w-readsbstats",
+                  "title": "blindp3w/readsbstats",
+                  "kind": "repo",
+                  "repo": "blindp3w/readsbstats",
+                  "url": "https://github.com/blindp3w/readsbstats",
+                  "description": "Self-hosted flight history and statistics web UI for readsb. Stores positions in SQLite with per-flight track maps, a flagged aircraft gallery, a watchlist, a Telegram bot and receiver metrics.",
+                  "external": false,
+                  "sourceRepo": "rickstaa/awesome-adsb",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "ADS-B",
+                    "Software",
+                    "Visualisation",
+                    "blindp3w/readsbstats"
+                  ],
+                  "parentId": "root-hardware-ads-b-software-visualisation"
                 }
               ],
               "stars": 0,
@@ -30921,6 +31109,33 @@
                     "Software",
                     "Apps",
                     "AirPing"
+                  ],
+                  "parentId": "root-hardware-ads-b-software-apps"
+                },
+                {
+                  "id": "root-hardware-ads-b-software-apps-overhead-1090",
+                  "title": "Overhead 1090",
+                  "kind": "link",
+                  "repo": "",
+                  "url": "https://overhead1090.com",
+                  "description": "Native iPhone, iPad and Apple TV client for PiAware/dump1090-compatible receivers with a live radar map, logbook, daily reports and notable-sighting alerts. Local-network only, paid app.",
+                  "external": true,
+                  "sourceRepo": "rickstaa/awesome-adsb",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "ADS-B",
+                    "Software",
+                    "Apps",
+                    "Overhead 1090"
                   ],
                   "parentId": "root-hardware-ads-b-software-apps"
                 }
@@ -31489,8 +31704,8 @@
           "parentId": "root-hardware-ads-b"
         }
       ],
-      "stars": 394,
-      "forks": 41,
+      "stars": 399,
+      "forks": 42,
       "language": "HTML",
       "license": "CC0-1.0",
       "topics": [
@@ -31501,8 +31716,8 @@
         "resources",
         "tools"
       ],
-      "updated": "2026-10-18T06:09:28Z",
-      "pushed": "2026-09-05T07:25:17Z",
+      "updated": "2026-11-01T09:07:21Z",
+      "pushed": "2026-11-01T09:01:03Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -32316,7 +32531,7 @@
           "parentId": "root-hardware-flying-fpv"
         }
       ],
-      "stars": 717,
+      "stars": 722,
       "forks": 70,
       "language": null,
       "license": "CC0-1.0",
@@ -32333,7 +32548,7 @@
         "uav",
         "vtol"
       ],
-      "updated": "2026-10-25T02:16:22Z",
+      "updated": "2026-10-31T03:09:16Z",
       "pushed": "2026-03-06T11:49:48Z",
       "awesome": true,
       "readmeStatus": "expanded",

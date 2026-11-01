@@ -594,6 +594,87 @@
                     "SolidPing"
                   ],
                   "parentId": "root-testing-testing-software-api-testing"
+                },
+                {
+                  "id": "root-testing-testing-software-api-testing-bestjson-json-diff",
+                  "title": "BestJSON JSON Diff",
+                  "kind": "link",
+                  "repo": "",
+                  "url": "https://bestjson.com/json-diff",
+                  "description": "Free browser tool for comparing saved JSON API responses by structure, with explicit array-order and record-ID matching rules.",
+                  "external": true,
+                  "sourceRepo": "thejambo/awesome-testing",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Testing",
+                    "Software",
+                    "API Testing",
+                    "BestJSON JSON Diff"
+                  ],
+                  "parentId": "root-testing-testing-software-api-testing"
+                },
+                {
+                  "id": "root-testing-testing-software-api-testing-kerno",
+                  "title": "Kerno",
+                  "kind": "link",
+                  "repo": "",
+                  "url": "https://kerno.io",
+                  "description": "The AI Backend Runtime QA Engineer. Runs locally inside your coding agent's loop through MCP and tests each change against your running app and its real databases, queues and services.",
+                  "external": true,
+                  "sourceRepo": "thejambo/awesome-testing",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Testing",
+                    "Software",
+                    "API Testing",
+                    "Kerno"
+                  ],
+                  "parentId": "root-testing-testing-software-api-testing"
+                },
+                {
+                  "id": "root-testing-testing-software-api-testing-openapi-breaking-change-checker",
+                  "title": "OpenAPI Breaking Change Checker",
+                  "kind": "link",
+                  "repo": "",
+                  "url": "https://martingruner.com/tools/openapi-breaking-change-checker",
+                  "description": "Free browser tool that compares two Swagger 2.0 or OpenAPI 3.0/3.1 descriptions (JSON or YAML) and sorts each change into likely breaking, review-needed or compatible; the files stay in the browser.",
+                  "external": true,
+                  "sourceRepo": "thejambo/awesome-testing",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Testing",
+                    "Software",
+                    "API Testing",
+                    "OpenAPI Breaking Change Checker"
+                  ],
+                  "parentId": "root-testing-testing-software-api-testing"
                 }
               ],
               "stars": 0,
@@ -995,6 +1076,33 @@
                   "parentId": "root-testing-testing-software-ai-and-llm-testing"
                 },
                 {
+                  "id": "root-testing-testing-software-ai-and-llm-testing-geokit-cli",
+                  "title": "geokit-cli",
+                  "kind": "repo",
+                  "repo": "gstar-byte/geokit-cli",
+                  "url": "https://github.com/gstar-byte/geokit-cli",
+                  "description": "Open-source CLI for automated AI search engine readiness testing, /llms.txt validation, and crawler access audits.",
+                  "external": false,
+                  "sourceRepo": "thejambo/awesome-testing",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Testing",
+                    "Software",
+                    "AI & LLM Testing",
+                    "geokit-cli"
+                  ],
+                  "parentId": "root-testing-testing-software-ai-and-llm-testing"
+                },
+                {
                   "id": "root-testing-testing-software-ai-and-llm-testing-aiexpect",
                   "title": "aiexpect",
                   "kind": "repo",
@@ -1128,6 +1236,33 @@
                     "fanout-check"
                   ],
                   "parentId": "root-testing-testing-software-ai-and-llm-testing"
+                },
+                {
+                  "id": "root-testing-testing-software-ai-and-llm-testing-bite",
+                  "title": "Bite",
+                  "kind": "repo",
+                  "repo": "connabyss/bite",
+                  "url": "https://github.com/connabyss/bite",
+                  "description": "Open-source CLI that checks whether recent \"fixed\" commits are really guarded by tests: it takes each fix back out and runs the project's own tests to see if any fail. Free mode needs no API key.",
+                  "external": false,
+                  "sourceRepo": "thejambo/awesome-testing",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Testing",
+                    "Software",
+                    "AI & LLM Testing",
+                    "Bite"
+                  ],
+                  "parentId": "root-testing-testing-software-ai-and-llm-testing"
                 }
               ],
               "stars": 0,
@@ -1235,6 +1370,33 @@
                   "parentId": "root-testing-testing-software-service-virtualization"
                 },
                 {
+                  "id": "root-testing-testing-software-service-virtualization-ghostwire",
+                  "title": "ghostwire",
+                  "kind": "repo",
+                  "repo": "nanmuyao-tools/ghostwire",
+                  "url": "https://github.com/nanmuyao-tools/ghostwire",
+                  "description": "Open-source Linux tool that mocks ping, TCP connections, UDP errors and DNS per target address, with delay, jitter, loss and faults controllable live through an HTTP API; no proxy to point your program at, no root needed under exec.",
+                  "external": false,
+                  "sourceRepo": "thejambo/awesome-testing",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Testing",
+                    "Software",
+                    "Service Virtualization",
+                    "ghostwire"
+                  ],
+                  "parentId": "root-testing-testing-software-service-virtualization"
+                },
+                {
                   "id": "root-testing-testing-software-service-virtualization-mockd",
                   "title": "mockd",
                   "kind": "repo",
@@ -1312,6 +1474,33 @@
                     "Software",
                     "Service Virtualization",
                     "MockServer"
+                  ],
+                  "parentId": "root-testing-testing-software-service-virtualization"
+                },
+                {
+                  "id": "root-testing-testing-software-service-virtualization-s3-test-server",
+                  "title": "s3-test-server",
+                  "kind": "link",
+                  "repo": "",
+                  "url": "https://www.npmjs.com/package/s3-test-server",
+                  "description": "S3-compatible server for tests that runs inside your Node.js test process or standalone via npx, and works with any SigV2/V4 client (AWS SDK v2/v3, AWS CLI, curl).",
+                  "external": true,
+                  "sourceRepo": "thejambo/awesome-testing",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Testing",
+                    "Software",
+                    "Service Virtualization",
+                    "s3-test-server"
                   ],
                   "parentId": "root-testing-testing-software-service-virtualization"
                 },
@@ -2008,6 +2197,33 @@
                     "Software",
                     "UI & End-to-End Testing",
                     "cloudf.one"
+                  ],
+                  "parentId": "root-testing-testing-software-ui-and-end-to-end-testing"
+                },
+                {
+                  "id": "root-testing-testing-software-ui-and-end-to-end-testing-clousd",
+                  "title": "Clousd",
+                  "kind": "link",
+                  "repo": "",
+                  "url": "https://clousd.com",
+                  "description": "Cloud Android phones (150+ device models, Android 12-17) for app testing in a browser tab, over ADB, or through a REST API and MCP server for AI-driven tests.",
+                  "external": true,
+                  "sourceRepo": "thejambo/awesome-testing",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Testing",
+                    "Software",
+                    "UI & End-to-End Testing",
+                    "Clousd"
                   ],
                   "parentId": "root-testing-testing-software-ui-and-end-to-end-testing"
                 },
@@ -3191,6 +3407,33 @@
                   "parentId": "root-testing-testing-software-test-data-management"
                 },
                 {
+                  "id": "root-testing-testing-software-test-data-management-checklist-ki-m-th-web-ti-ng-vi-t",
+                  "title": "Checklist kiểm thử Web tiếng Việt",
+                  "kind": "repo",
+                  "repo": "qakit-vn/checklist-kiem-thu-web",
+                  "url": "https://github.com/qakit-vn/checklist-kiem-thu-web",
+                  "description": "Vietnamese-language web form and login testing checklist with copy-paste Vietnamese test data (diacritics, NFC/NFD, +84 phone numbers).",
+                  "external": false,
+                  "sourceRepo": "thejambo/awesome-testing",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Testing",
+                    "Software",
+                    "Test Data Management",
+                    "Checklist kiểm thử Web tiếng Việt"
+                  ],
+                  "parentId": "root-testing-testing-software-test-data-management"
+                },
+                {
                   "id": "root-testing-testing-software-test-data-management-json-validation-test-cases",
                   "title": "JSON Validation Test Cases",
                   "kind": "repo",
@@ -3295,6 +3538,33 @@
                     "Software",
                     "Test Data Management",
                     "Synth"
+                  ],
+                  "parentId": "root-testing-testing-software-test-data-management"
+                },
+                {
+                  "id": "root-testing-testing-software-test-data-management-personified",
+                  "title": "Personified",
+                  "kind": "repo",
+                  "repo": "thetechbasket/personified",
+                  "url": "https://github.com/thetechbasket/personified",
+                  "description": "Free AI avatar photos of fictional people with typed personas (name, country, age band, mood) for seed data and placeholder users. MIT code, npm package.",
+                  "external": false,
+                  "sourceRepo": "thejambo/awesome-testing",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Testing",
+                    "Software",
+                    "Test Data Management",
+                    "Personified"
                   ],
                   "parentId": "root-testing-testing-software-test-data-management"
                 },
@@ -3565,6 +3835,33 @@
                     "Software",
                     "Test Data Management",
                     "FormFiller test data tools"
+                  ],
+                  "parentId": "root-testing-testing-software-test-data-management"
+                },
+                {
+                  "id": "root-testing-testing-software-test-data-management-random-imei-generator",
+                  "title": "Random IMEI Generator",
+                  "kind": "link",
+                  "repo": "",
+                  "url": "https://onlineminitools.com/random-imei-generator",
+                  "description": "Browser tool that generates 15-digit IMEI numbers with a valid Luhn check digit, exportable as text, JSON or CSV.",
+                  "external": true,
+                  "sourceRepo": "thejambo/awesome-testing",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Testing",
+                    "Software",
+                    "Test Data Management",
+                    "Random IMEI Generator"
                   ],
                   "parentId": "root-testing-testing-software-test-data-management"
                 }
@@ -3914,6 +4211,33 @@
               "url": "https://github.com/thejambo/awesome-testing#accessibility-and-usability-testing",
               "children": [
                 {
+                  "id": "root-testing-testing-software-accessibility-and-usability-testing-a11ykit",
+                  "title": "A11yKit",
+                  "kind": "link",
+                  "repo": "",
+                  "url": "https://a11ykit.site",
+                  "description": "15 free client-side web accessibility and WCAG 2.2 color contrast testing tools with zero code uploads.",
+                  "external": true,
+                  "sourceRepo": "thejambo/awesome-testing",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Testing",
+                    "Software",
+                    "Accessibility & Usability Testing",
+                    "A11yKit"
+                  ],
+                  "parentId": "root-testing-testing-software-accessibility-and-usability-testing"
+                },
+                {
                   "id": "root-testing-testing-software-accessibility-and-usability-testing-auditready",
                   "title": "AuditReady",
                   "kind": "link",
@@ -3937,6 +4261,33 @@
                     "Software",
                     "Accessibility & Usability Testing",
                     "AuditReady"
+                  ],
+                  "parentId": "root-testing-testing-software-accessibility-and-usability-testing"
+                },
+                {
+                  "id": "root-testing-testing-software-accessibility-and-usability-testing-barbwire",
+                  "title": "Barbwire",
+                  "kind": "link",
+                  "repo": "",
+                  "url": "https://barbwire.ai",
+                  "description": "Sends AI buyer personas built from your site through the live pages in a real browser, and reports where each one would stop buying, with a step-by-step replay, screenshots and fixes ranked worst first. 10 free runs, no card; paid plans from €49/month.",
+                  "external": true,
+                  "sourceRepo": "thejambo/awesome-testing",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Testing",
+                    "Software",
+                    "Accessibility & Usability Testing",
+                    "Barbwire"
                   ],
                   "parentId": "root-testing-testing-software-accessibility-and-usability-testing"
                 },
@@ -3991,6 +4342,33 @@
                     "Software",
                     "Accessibility & Usability Testing",
                     "Oh My Android"
+                  ],
+                  "parentId": "root-testing-testing-software-accessibility-and-usability-testing"
+                },
+                {
+                  "id": "root-testing-testing-software-accessibility-and-usability-testing-persqo",
+                  "title": "Persqo",
+                  "kind": "link",
+                  "repo": "",
+                  "url": "https://persqo.com",
+                  "description": "Runs AI personas (different ages, devices and patience levels) through a live web app in a real browser and returns ranked issues with screenshots and severity, plus ready-to-paste fix prompts for your coding agent. 3 free test sessions, no card; paid plans from $59/month.",
+                  "external": true,
+                  "sourceRepo": "thejambo/awesome-testing",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Testing",
+                    "Software",
+                    "Accessibility & Usability Testing",
+                    "Persqo"
                   ],
                   "parentId": "root-testing-testing-software-accessibility-and-usability-testing"
                 },
@@ -4262,6 +4640,33 @@
                   "parentId": "root-testing-testing-software-performance-and-load-testing"
                 },
                 {
+                  "id": "root-testing-testing-software-performance-and-load-testing-telegym",
+                  "title": "telegym",
+                  "kind": "repo",
+                  "repo": "kolomiichenko/telegym",
+                  "url": "https://github.com/kolomiichenko/telegym",
+                  "description": "Load testing for Telegram bots: a drop-in Bot API mock plus a k6 extension that drives virtual users.",
+                  "external": false,
+                  "sourceRepo": "thejambo/awesome-testing",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Testing",
+                    "Software",
+                    "Performance & Load Testing",
+                    "telegym"
+                  ],
+                  "parentId": "root-testing-testing-software-performance-and-load-testing"
+                },
+                {
                   "id": "root-testing-testing-software-performance-and-load-testing-k6",
                   "title": "k6",
                   "kind": "repo",
@@ -4339,33 +4744,6 @@
                     "Software",
                     "Performance & Load Testing",
                     "Locust Kubernetes Operator"
-                  ],
-                  "parentId": "root-testing-testing-software-performance-and-load-testing"
-                },
-                {
-                  "id": "root-testing-testing-software-performance-and-load-testing-vhr-bench",
-                  "title": "vhr-bench",
-                  "kind": "repo",
-                  "repo": "vpshostreview/vhr-vps-benchmark",
-                  "url": "https://github.com/vpshostreview/vhr-vps-benchmark",
-                  "description": "One-minute Linux server benchmark of CPU, memory and 4k random disk IOPS using sysbench and fio.",
-                  "external": false,
-                  "sourceRepo": "thejambo/awesome-testing",
-                  "depth": 3,
-                  "children": [],
-                  "stars": 0,
-                  "forks": 0,
-                  "language": null,
-                  "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
-                  "awesome": false,
-                  "path": [
-                    "Testing",
-                    "Software",
-                    "Performance & Load Testing",
-                    "vhr-bench"
                   ],
                   "parentId": "root-testing-testing-software-performance-and-load-testing"
                 },
@@ -5227,32 +5605,6 @@
               "parentId": "root-testing-testing-books"
             },
             {
-              "id": "root-testing-testing-books-fifty-quick-ideas-to-improve-your-tests",
-              "title": "Fifty quick ideas to improve your Tests",
-              "kind": "link",
-              "repo": "",
-              "url": "https://amzn.to/2AzMUF7",
-              "description": "Great illustrative examples on how to improve tests and why you should do them. Great as evidence for winning arguments!",
-              "external": true,
-              "sourceRepo": "thejambo/awesome-testing",
-              "depth": 2,
-              "children": [],
-              "stars": 0,
-              "forks": 0,
-              "language": null,
-              "license": null,
-              "topics": [],
-              "updated": null,
-              "pushed": null,
-              "awesome": false,
-              "path": [
-                "Testing",
-                "Books",
-                "Fifty quick ideas to improve your Tests"
-              ],
-              "parentId": "root-testing-testing-books"
-            },
-            {
               "id": "root-testing-testing-books-agile-testing-a-practical-guide",
               "title": "Agile Testing: A Practical Guide",
               "kind": "link",
@@ -5301,32 +5653,6 @@
                 "Testing",
                 "Books",
                 "Explore It!: Reduce Risk and Increase Confidence with Exploratory Testing"
-              ],
-              "parentId": "root-testing-testing-books"
-            },
-            {
-              "id": "root-testing-testing-books-the-domain-testing-workbook",
-              "title": "The Domain Testing Workbook",
-              "kind": "link",
-              "repo": "",
-              "url": "https://amzn.to/2Az4l90",
-              "description": "An in-depth look at the most common test technique, Domain Testing (also called Boundary Analysis and Equivalence Class partitioning) in use today with lots of examples to become better.",
-              "external": true,
-              "sourceRepo": "thejambo/awesome-testing",
-              "depth": 2,
-              "children": [],
-              "stars": 0,
-              "forks": 0,
-              "language": null,
-              "license": null,
-              "topics": [],
-              "updated": null,
-              "pushed": null,
-              "awesome": false,
-              "path": [
-                "Testing",
-                "Books",
-                "The Domain Testing Workbook"
               ],
               "parentId": "root-testing-testing-books"
             },
@@ -5856,7 +6182,7 @@
               "depth": 2,
               "children": [],
               "stars": 119,
-              "forks": 13,
+              "forks": 15,
               "language": "Markdown",
               "license": "MIT",
               "topics": [
@@ -6030,8 +6356,8 @@
                   "sourceRepo": "thejambo/awesome-testing",
                   "depth": 3,
                   "children": [],
-                  "stars": 27793,
-                  "forks": 651,
+                  "stars": 27815,
+                  "forks": 648,
                   "language": null,
                   "license": "CC0-1.0",
                   "topics": [
@@ -6056,8 +6382,8 @@
                     "unicode-characters",
                     "video-games"
                   ],
-                  "updated": "2026-10-25T03:07:20Z",
-                  "pushed": "2026-10-08T10:30:13Z",
+                  "updated": "2026-11-01T03:37:14Z",
+                  "pushed": "2026-10-26T10:20:03Z",
                   "awesome": true,
                   "path": [
                     "Testing",
@@ -6105,7 +6431,7 @@
                   "sourceRepo": "thejambo/awesome-testing",
                   "depth": 3,
                   "children": [],
-                  "stars": 989,
+                  "stars": 990,
                   "forks": 71,
                   "language": "JavaScript",
                   "license": "CC0-1.0",
@@ -6123,7 +6449,7 @@
                     "utf16",
                     "utf8"
                   ],
-                  "updated": "2026-10-22T01:06:19Z",
+                  "updated": "2026-10-26T12:02:04Z",
                   "pushed": "2022-07-01T15:20:50Z",
                   "awesome": true,
                   "path": [
@@ -6229,8 +6555,8 @@
                   "sourceRepo": "thejambo/awesome-testing",
                   "depth": 3,
                   "children": [],
-                  "stars": 7121,
-                  "forks": 809,
+                  "stars": 7126,
+                  "forks": 808,
                   "language": "PHP",
                   "license": "MIT",
                   "topics": [
@@ -6241,7 +6567,7 @@
                     "security",
                     "security-experts"
                   ],
-                  "updated": "2026-10-24T17:55:28Z",
+                  "updated": "2026-10-31T02:39:50Z",
                   "pushed": "2025-02-22T16:39:11Z",
                   "awesome": true,
                   "path": [
@@ -6263,8 +6589,8 @@
                   "sourceRepo": "thejambo/awesome-testing",
                   "depth": 3,
                   "children": [],
-                  "stars": 1134,
-                  "forks": 178,
+                  "stars": 1136,
+                  "forks": 181,
                   "language": null,
                   "license": "CC0-1.0",
                   "topics": [
@@ -6272,7 +6598,7 @@
                     "awesome-list",
                     "list"
                   ],
-                  "updated": "2026-10-23T08:05:01Z",
+                  "updated": "2026-10-29T07:22:59Z",
                   "pushed": "2026-09-19T22:48:23Z",
                   "awesome": true,
                   "path": [
@@ -6294,15 +6620,15 @@
                   "sourceRepo": "thejambo/awesome-testing",
                   "depth": 3,
                   "children": [],
-                  "stars": 15033,
-                  "forks": 2447,
+                  "stars": 15056,
+                  "forks": 2454,
                   "language": null,
                   "license": "MIT",
                   "topics": [
                     "awesome-list",
                     "security"
                   ],
-                  "updated": "2026-10-25T04:40:03Z",
+                  "updated": "2026-11-01T09:37:07Z",
                   "pushed": "2026-01-11T02:00:26Z",
                   "awesome": true,
                   "path": [
@@ -6351,8 +6677,8 @@
                   "sourceRepo": "thejambo/awesome-testing",
                   "depth": 3,
                   "children": [],
-                  "stars": 156,
-                  "forks": 62,
+                  "stars": 167,
+                  "forks": 66,
                   "language": null,
                   "license": "CC0-1.0",
                   "topics": [
@@ -6367,8 +6693,8 @@
                     "test-automation",
                     "test-generation"
                   ],
-                  "updated": "2026-10-23T20:17:20Z",
-                  "pushed": "2026-09-29T06:14:14Z",
+                  "updated": "2026-10-31T10:16:39Z",
+                  "pushed": "2026-10-27T20:10:05Z",
                   "awesome": true,
                   "path": [
                     "Testing",
@@ -6429,8 +6755,8 @@
                   "sourceRepo": "thejambo/awesome-testing",
                   "depth": 3,
                   "children": [],
-                  "stars": 806,
-                  "forks": 213,
+                  "stars": 808,
+                  "forks": 215,
                   "language": "HTML",
                   "license": "CC-BY-4.0",
                   "topics": [
@@ -6443,8 +6769,8 @@
                     "load-testing",
                     "performance-testing"
                   ],
-                  "updated": "2026-10-25T03:51:39Z",
-                  "pushed": "2026-10-08T01:07:21Z",
+                  "updated": "2026-10-27T22:07:31Z",
+                  "pushed": "2026-11-01T02:02:45Z",
                   "awesome": true,
                   "path": [
                     "Testing",
@@ -6465,7 +6791,7 @@
                   "sourceRepo": "thejambo/awesome-testing",
                   "depth": 3,
                   "children": [],
-                  "stars": 39,
+                  "stars": 41,
                   "forks": 13,
                   "language": null,
                   "license": "CC0-1.0",
@@ -6481,7 +6807,7 @@
                     "performance-testing",
                     "sre"
                   ],
-                  "updated": "2026-10-21T12:36:48Z",
+                  "updated": "2026-10-31T20:37:56Z",
                   "pushed": "2026-10-06T13:30:21Z",
                   "awesome": true,
                   "path": [
@@ -6787,8 +7113,8 @@
           "parentId": "root-testing-testing"
         }
       ],
-      "stars": 2400,
-      "forks": 507,
+      "stars": 2408,
+      "forks": 521,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -6799,8 +7125,8 @@
         "tester",
         "testing"
       ],
-      "updated": "2026-10-24T13:04:06Z",
-      "pushed": "2026-10-23T19:06:05Z",
+      "updated": "2026-10-31T21:10:26Z",
+      "pushed": "2026-10-31T21:10:21Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -10661,7 +10987,7 @@
           "parentId": "root-testing-visual-regression-testing"
         }
       ],
-      "stars": 2423,
+      "stars": 2425,
       "forks": 260,
       "language": null,
       "license": "CC-BY-SA-4.0",
@@ -10671,7 +10997,7 @@
         "testing",
         "testing-tools"
       ],
-      "updated": "2026-10-22T16:29:55Z",
+      "updated": "2026-10-31T17:27:50Z",
       "pushed": "2026-10-02T17:55:10Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -14222,8 +14548,8 @@
           "parentId": "root-testing-selenium"
         }
       ],
-      "stars": 1134,
-      "forks": 178,
+      "stars": 1136,
+      "forks": 181,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -14231,7 +14557,7 @@
         "awesome-list",
         "list"
       ],
-      "updated": "2026-10-23T08:05:01Z",
+      "updated": "2026-10-29T07:22:59Z",
       "pushed": "2026-09-19T22:48:23Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -18600,6 +18926,32 @@
           "url": "https://github.com/srinivasantarget/awesome-appium#test-frameworks",
           "children": [
             {
+              "id": "root-testing-appium-test-frameworks-agent-qa",
+              "title": "agent-qa",
+              "kind": "repo",
+              "repo": "vostride/agent-qa",
+              "url": "https://github.com/vostride/agent-qa",
+              "description": "Natural-language Android and iOS testing through Appium from vostride, with advanced memidex memory and self-improvement from verified runs.",
+              "external": false,
+              "sourceRepo": "srinivasantarget/awesome-appium",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Appium",
+                "Test Frameworks",
+                "agent-qa"
+              ],
+              "parentId": "root-testing-appium-test-frameworks"
+            },
+            {
               "id": "root-testing-appium-test-frameworks-appium-cucumber-test",
               "title": "Appium Cucumber Test",
               "kind": "repo",
@@ -19043,8 +19395,8 @@
           "parentId": "root-testing-appium"
         }
       ],
-      "stars": 463,
-      "forks": 143,
+      "stars": 464,
+      "forks": 144,
       "language": null,
       "license": null,
       "topics": [
@@ -19058,8 +19410,8 @@
         "docker-appium",
         "inspector"
       ],
-      "updated": "2026-10-20T05:09:55Z",
-      "pushed": "2026-10-20T05:09:50Z",
+      "updated": "2026-10-29T07:23:23Z",
+      "pushed": "2026-10-25T20:57:31Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -20822,7 +21174,7 @@
           "parentId": "root-testing-tap"
         }
       ],
-      "stars": 657,
+      "stars": 659,
       "forks": 36,
       "language": null,
       "license": "CC0-1.0",
@@ -20834,7 +21186,7 @@
         "test-anything-protocol",
         "test-runner"
       ],
-      "updated": "2026-10-16T04:22:05Z",
+      "updated": "2026-10-28T05:03:09Z",
       "pushed": "2025-11-11T06:52:18Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -28560,7 +28912,7 @@
                   "sourceRepo": "aliesbelik/awesome-jmeter",
                   "depth": 3,
                   "children": [],
-                  "stars": 2320,
+                  "stars": 2321,
                   "forks": 403,
                   "language": null,
                   "license": "NOASSERTION",
@@ -28576,7 +28928,7 @@
                     "tla",
                     "verification"
                   ],
-                  "updated": "2026-10-22T09:25:33Z",
+                  "updated": "2026-10-27T12:29:50Z",
                   "pushed": "2023-02-01T15:23:18Z",
                   "awesome": true,
                   "path": [
@@ -28598,8 +28950,8 @@
                   "sourceRepo": "aliesbelik/awesome-jmeter",
                   "depth": 3,
                   "children": [],
-                  "stars": 2400,
-                  "forks": 507,
+                  "stars": 2408,
+                  "forks": 521,
                   "language": null,
                   "license": "CC0-1.0",
                   "topics": [
@@ -28610,8 +28962,8 @@
                     "tester",
                     "testing"
                   ],
-                  "updated": "2026-10-24T13:04:06Z",
-                  "pushed": "2026-10-23T19:06:05Z",
+                  "updated": "2026-10-31T21:10:26Z",
+                  "pushed": "2026-10-31T21:10:21Z",
                   "awesome": true,
                   "path": [
                     "JMeter",
@@ -28646,7 +28998,7 @@
                     "tsung-plugin"
                   ],
                   "updated": "2026-10-06T10:56:43Z",
-                  "pushed": "2026-10-06T10:56:45Z",
+                  "pushed": "2026-11-01T07:42:36Z",
                   "awesome": true,
                   "path": [
                     "JMeter",
@@ -28704,8 +29056,8 @@
                   "sourceRepo": "aliesbelik/awesome-jmeter",
                   "depth": 3,
                   "children": [],
-                  "stars": 781,
-                  "forks": 68,
+                  "stars": 783,
+                  "forks": 70,
                   "language": null,
                   "license": "CC0-1.0",
                   "topics": [
@@ -28719,8 +29071,8 @@
                     "testing",
                     "testing-tools"
                   ],
-                  "updated": "2026-10-22T01:52:45Z",
-                  "pushed": "2026-10-11T04:03:00Z",
+                  "updated": "2026-10-31T00:01:10Z",
+                  "pushed": "2026-10-30T22:02:37Z",
                   "awesome": true,
                   "path": [
                     "JMeter",
@@ -28876,8 +29228,8 @@
           "parentId": "root-testing-jmeter"
         }
       ],
-      "stars": 806,
-      "forks": 213,
+      "stars": 808,
+      "forks": 215,
       "language": "HTML",
       "license": "CC-BY-4.0",
       "topics": [
@@ -28890,8 +29242,8 @@
         "load-testing",
         "performance-testing"
       ],
-      "updated": "2026-10-25T03:51:39Z",
-      "pushed": "2026-10-08T01:07:21Z",
+      "updated": "2026-10-27T22:07:31Z",
+      "pushed": "2026-11-01T02:02:45Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -32358,7 +32710,7 @@
               "sourceRepo": "grafana/awesome-k6",
               "depth": 2,
               "children": [],
-              "stars": 3786,
+              "stars": 3789,
               "forks": 260,
               "language": null,
               "license": "MIT",
@@ -32382,7 +32734,7 @@
                 "testing",
                 "tools"
               ],
-              "updated": "2026-10-24T22:34:14Z",
+              "updated": "2026-11-01T09:50:55Z",
               "pushed": "2026-09-11T12:48:44Z",
               "awesome": true,
               "path": [
@@ -32408,8 +32760,8 @@
           "parentId": "root-testing-k6"
         }
       ],
-      "stars": 781,
-      "forks": 68,
+      "stars": 783,
+      "forks": 70,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -32423,8 +32775,8 @@
         "testing",
         "testing-tools"
       ],
-      "updated": "2026-10-22T01:52:45Z",
-      "pushed": "2026-10-11T04:03:00Z",
+      "updated": "2026-10-31T00:01:10Z",
+      "pushed": "2026-10-30T22:02:37Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -35094,8 +35446,8 @@
           "parentId": "root-testing-playwright"
         }
       ],
-      "stars": 1598,
-      "forks": 344,
+      "stars": 1602,
+      "forks": 354,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -35107,7 +35459,7 @@
         "testing",
         "tests"
       ],
-      "updated": "2026-10-24T21:50:59Z",
+      "updated": "2026-10-31T21:01:38Z",
       "pushed": "2026-10-02T01:59:06Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -35373,8 +35725,8 @@
           "parentId": "root-testing-quality-assurance-roadmap"
         }
       ],
-      "stars": 2199,
-      "forks": 364,
+      "stars": 2204,
+      "forks": 363,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -35390,7 +35742,7 @@
         "software-testing",
         "testing"
       ],
-      "updated": "2026-10-24T13:29:02Z",
+      "updated": "2026-10-31T19:37:13Z",
       "pushed": "2026-06-04T11:08:57Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -37515,7 +37867,7 @@
                   "sourceRepo": "aliesbelik/awesome-gatling",
                   "depth": 3,
                   "children": [],
-                  "stars": 2320,
+                  "stars": 2321,
                   "forks": 403,
                   "language": null,
                   "license": "NOASSERTION",
@@ -37531,7 +37883,7 @@
                     "tla",
                     "verification"
                   ],
-                  "updated": "2026-10-22T09:25:33Z",
+                  "updated": "2026-10-27T12:29:50Z",
                   "pushed": "2023-02-01T15:23:18Z",
                   "awesome": true,
                   "path": [
@@ -37553,8 +37905,8 @@
                   "sourceRepo": "aliesbelik/awesome-gatling",
                   "depth": 3,
                   "children": [],
-                  "stars": 2400,
-                  "forks": 507,
+                  "stars": 2408,
+                  "forks": 521,
                   "language": null,
                   "license": "CC0-1.0",
                   "topics": [
@@ -37565,8 +37917,8 @@
                     "tester",
                     "testing"
                   ],
-                  "updated": "2026-10-24T13:04:06Z",
-                  "pushed": "2026-10-23T19:06:05Z",
+                  "updated": "2026-10-31T21:10:26Z",
+                  "pushed": "2026-10-31T21:10:21Z",
                   "awesome": true,
                   "path": [
                     "Gatling",
@@ -37587,8 +37939,8 @@
                   "sourceRepo": "aliesbelik/awesome-gatling",
                   "depth": 3,
                   "children": [],
-                  "stars": 806,
-                  "forks": 213,
+                  "stars": 808,
+                  "forks": 215,
                   "language": "HTML",
                   "license": "CC-BY-4.0",
                   "topics": [
@@ -37601,8 +37953,8 @@
                     "load-testing",
                     "performance-testing"
                   ],
-                  "updated": "2026-10-25T03:51:39Z",
-                  "pushed": "2026-10-08T01:07:21Z",
+                  "updated": "2026-10-27T22:07:31Z",
+                  "pushed": "2026-11-01T02:02:45Z",
                   "awesome": true,
                   "path": [
                     "Gatling",
@@ -37637,7 +37989,7 @@
                     "tsung-plugin"
                   ],
                   "updated": "2026-10-06T10:56:43Z",
-                  "pushed": "2026-10-06T10:56:45Z",
+                  "pushed": "2026-11-01T07:42:36Z",
                   "awesome": true,
                   "path": [
                     "Gatling",
@@ -37658,8 +38010,8 @@
                   "sourceRepo": "aliesbelik/awesome-gatling",
                   "depth": 3,
                   "children": [],
-                  "stars": 781,
-                  "forks": 68,
+                  "stars": 783,
+                  "forks": 70,
                   "language": null,
                   "license": "CC0-1.0",
                   "topics": [
@@ -37673,8 +38025,8 @@
                     "testing",
                     "testing-tools"
                   ],
-                  "updated": "2026-10-22T01:52:45Z",
-                  "pushed": "2026-10-11T04:03:00Z",
+                  "updated": "2026-10-31T00:01:10Z",
+                  "pushed": "2026-10-30T22:02:37Z",
                   "awesome": true,
                   "path": [
                     "Gatling",
@@ -39103,7 +39455,7 @@
           "parentId": "root-testing-coderabbit"
         }
       ],
-      "stars": 549,
+      "stars": 561,
       "forks": 82,
       "language": null,
       "license": "CC0-1.0",
@@ -39118,7 +39470,7 @@
         "generative-ai",
         "pull-requests"
       ],
-      "updated": "2026-10-25T00:15:34Z",
+      "updated": "2026-11-01T05:59:21Z",
       "pushed": "2026-09-29T15:08:19Z",
       "awesome": true,
       "readmeStatus": "expanded",

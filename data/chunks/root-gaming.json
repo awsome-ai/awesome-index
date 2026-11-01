@@ -3489,12 +3489,12 @@
           "parentId": "root-gaming-game-talks"
         }
       ],
-      "stars": 1189,
+      "stars": 1190,
       "forks": 54,
       "language": null,
       "license": "MIT",
       "topics": [],
-      "updated": "2026-10-12T18:39:04Z",
+      "updated": "2026-10-31T00:42:44Z",
       "pushed": "2024-05-09T00:58:26Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -8105,6 +8105,33 @@
                     "Plugins and scripts",
                     "Godot 4",
                     "Input Helper"
+                  ],
+                  "parentId": "root-gaming-godot-plugins-and-scripts-godot-4"
+                },
+                {
+                  "id": "root-gaming-godot-plugins-and-scripts-godot-4-instance-log",
+                  "title": "Instance Log",
+                  "kind": "repo",
+                  "repo": "codevogel/godot_instance_log",
+                  "url": "https://github.com/codevogel/godot_instance_log",
+                  "description": "A plugin for Godot that provides a better logging experience when running multiple instances.",
+                  "external": false,
+                  "sourceRepo": "godotengine/awesome-godot",
+                  "depth": 4,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Godot",
+                    "Plugins and scripts",
+                    "Godot 4",
+                    "Instance Log"
                   ],
                   "parentId": "root-gaming-godot-plugins-and-scripts-godot-4"
                 },
@@ -25980,8 +26007,8 @@
           "parentId": "root-gaming-open-source-games"
         }
       ],
-      "stars": 3318,
-      "forks": 302,
+      "stars": 3346,
+      "forks": 306,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -25990,7 +26017,7 @@
         "games",
         "opensource"
       ],
-      "updated": "2026-10-25T01:14:10Z",
+      "updated": "2026-11-01T06:34:12Z",
       "pushed": "2026-10-21T10:47:13Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -26015,7 +26042,7 @@
       "language": null,
       "license": "CC0-1.0",
       "topics": [],
-      "updated": "2026-10-19T05:02:34Z",
+      "updated": "2026-10-26T19:35:00Z",
       "pushed": "2020-11-20T11:48:24Z",
       "awesome": true,
       "readmeStatus": "empty",
@@ -26630,8 +26657,8 @@
           "parentId": "root-gaming-l-ve"
         }
       ],
-      "stars": 4535,
-      "forks": 247,
+      "stars": 4544,
+      "forks": 248,
       "language": "PowerShell",
       "license": "CC0-1.0",
       "topics": [
@@ -26641,7 +26668,7 @@
         "love2d",
         "lua"
       ],
-      "updated": "2026-10-24T22:32:26Z",
+      "updated": "2026-10-31T23:10:50Z",
       "pushed": "2026-09-26T21:02:34Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -29458,8 +29485,8 @@
           "parentId": "root-gaming-pico-8"
         }
       ],
-      "stars": 3086,
-      "forks": 104,
+      "stars": 3088,
+      "forks": 105,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -29477,7 +29504,7 @@
         "pico-8",
         "pico8"
       ],
-      "updated": "2026-10-24T00:53:57Z",
+      "updated": "2026-10-28T17:03:34Z",
       "pushed": "2026-07-28T13:25:56Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -40700,8 +40727,8 @@
           "parentId": "root-gaming-game-boy-development"
         }
       ],
-      "stars": 4536,
-      "forks": 198,
+      "stars": 4541,
+      "forks": 199,
       "language": "JavaScript",
       "license": "GPL-3.0",
       "topics": [
@@ -40725,8 +40752,8 @@
         "retrogaming",
         "tools"
       ],
-      "updated": "2026-10-24T17:54:08Z",
-      "pushed": "2026-10-16T23:32:05Z",
+      "updated": "2026-10-31T15:21:13Z",
+      "pushed": "2026-10-26T18:56:20Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -45454,12 +45481,12 @@
               "sourceRepo": "stetso/awesome-gideros",
               "depth": 2,
               "children": [],
-              "stars": 4589,
-              "forks": 349,
+              "stars": 4595,
+              "forks": 350,
               "language": null,
               "license": null,
               "topics": [],
-              "updated": "2026-10-24T12:26:29Z",
+              "updated": "2026-10-31T17:12:41Z",
               "pushed": "2024-08-11T17:32:00Z",
               "awesome": true,
               "path": [
@@ -45480,8 +45507,8 @@
               "sourceRepo": "stetso/awesome-gideros",
               "depth": 2,
               "children": [],
-              "stars": 4535,
-              "forks": 247,
+              "stars": 4544,
+              "forks": 248,
               "language": "PowerShell",
               "license": "CC0-1.0",
               "topics": [
@@ -45491,7 +45518,7 @@
                 "love2d",
                 "lua"
               ],
-              "updated": "2026-10-24T22:32:26Z",
+              "updated": "2026-10-31T23:10:50Z",
               "pushed": "2026-09-26T21:02:34Z",
               "awesome": true,
               "path": [
@@ -49894,7 +49921,7 @@
           "parentId": "root-gaming-minecraft"
         }
       ],
-      "stars": 659,
+      "stars": 660,
       "forks": 64,
       "language": null,
       "license": "CC0-1.0",
@@ -49903,7 +49930,7 @@
         "awesome-list",
         "minecraft"
       ],
-      "updated": "2026-10-24T11:45:15Z",
+      "updated": "2026-10-29T13:38:29Z",
       "pushed": "2025-08-23T13:16:01Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -53673,12 +53700,12 @@
                   "sourceRepo": "tomodachi94/awesome-computercraft",
                   "depth": 3,
                   "children": [],
-                  "stars": 4589,
-                  "forks": 349,
+                  "stars": 4595,
+                  "forks": 350,
                   "language": null,
                   "license": null,
                   "topics": [],
-                  "updated": "2026-10-24T12:26:29Z",
+                  "updated": "2026-10-31T17:12:41Z",
                   "pushed": "2024-08-11T17:32:00Z",
                   "awesome": true,
                   "path": [
@@ -54012,8 +54039,8 @@
       "sourceRepo": "sindresorhus/awesome",
       "depth": 1,
       "children": [],
-      "stars": 1139,
-      "forks": 96,
+      "stars": 1142,
+      "forks": 100,
       "language": null,
       "license": "CC-BY-4.0",
       "topics": [
@@ -54027,8 +54054,8 @@
         "game",
         "games"
       ],
-      "updated": "2026-10-25T03:52:04Z",
-      "pushed": "2026-10-17T17:43:40Z",
+      "updated": "2026-10-29T14:16:18Z",
+      "pushed": "2026-10-25T21:38:10Z",
       "awesome": false,
       "path": [
         "Game Datasets"
@@ -57507,12 +57534,12 @@
               "sourceRepo": "rafaskb/awesome-libgdx",
               "depth": 2,
               "children": [],
-              "stars": 1189,
+              "stars": 1190,
               "forks": 54,
               "language": null,
               "license": "MIT",
               "topics": [],
-              "updated": "2026-10-12T18:39:04Z",
+              "updated": "2026-10-31T00:42:44Z",
               "pushed": "2024-05-09T00:58:26Z",
               "awesome": true,
               "path": [
@@ -57533,7 +57560,7 @@
               "sourceRepo": "rafaskb/awesome-libgdx",
               "depth": 2,
               "children": [],
-              "stars": 49343,
+              "stars": 49403,
               "forks": 7740,
               "language": null,
               "license": "CC-BY-SA-4.0",
@@ -57541,7 +57568,7 @@
                 "awesome",
                 "awesome-list"
               ],
-              "updated": "2026-10-25T06:15:41Z",
+              "updated": "2026-11-01T07:03:01Z",
               "pushed": "2026-09-23T10:50:49Z",
               "awesome": true,
               "path": [
@@ -57640,8 +57667,8 @@
               "sourceRepo": "rafaskb/awesome-libgdx",
               "depth": 2,
               "children": [],
-              "stars": 3196,
-              "forks": 216,
+              "stars": 3206,
+              "forks": 224,
               "language": null,
               "license": "CC-BY-SA-4.0",
               "topics": [
@@ -57651,7 +57678,7 @@
                 "game-development",
                 "game-programming"
               ],
-              "updated": "2026-10-25T00:18:14Z",
+              "updated": "2026-10-31T20:24:59Z",
               "pushed": "2026-08-25T18:12:52Z",
               "awesome": true,
               "path": [
@@ -57677,8 +57704,8 @@
           "parentId": "root-gaming-libgdx"
         }
       ],
-      "stars": 1275,
-      "forks": 83,
+      "stars": 1277,
+      "forks": 84,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -57686,7 +57713,7 @@
         "awesome-list",
         "libgdx"
       ],
-      "updated": "2026-10-24T17:40:39Z",
+      "updated": "2026-10-30T02:51:12Z",
       "pushed": "2024-12-03T21:43:58Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -61561,33 +61588,6 @@
                   "parentId": "root-gaming-playcanvas-games-youtube-playables"
                 },
                 {
-                  "id": "root-gaming-playcanvas-games-youtube-playables-full-speed-racing",
-                  "title": "Full Speed Racing",
-                  "kind": "link",
-                  "repo": "",
-                  "url": "https://www.youtube.com/playables/UgkxbgLQk7KP4zQKHctwKY-XKtpJ_OBWL4aO",
-                  "description": "Drive as far as you can before the time runs out.",
-                  "external": true,
-                  "sourceRepo": "playcanvas/awesome-playcanvas",
-                  "depth": 3,
-                  "children": [],
-                  "stars": 0,
-                  "forks": 0,
-                  "language": null,
-                  "license": null,
-                  "topics": [],
-                  "updated": null,
-                  "pushed": null,
-                  "awesome": false,
-                  "path": [
-                    "PlayCanvas",
-                    "Games",
-                    "YouTube Playables",
-                    "Full Speed Racing"
-                  ],
-                  "parentId": "root-gaming-playcanvas-games-youtube-playables"
-                },
-                {
                   "id": "root-gaming-playcanvas-games-youtube-playables-om-nom-run",
                   "title": "Om Nom Run",
                   "kind": "link",
@@ -61665,6 +61665,33 @@
                     "Games",
                     "YouTube Playables",
                     "Stack Bounce"
+                  ],
+                  "parentId": "root-gaming-playcanvas-games-youtube-playables"
+                },
+                {
+                  "id": "root-gaming-playcanvas-games-youtube-playables-street-fighter-combo-challenge",
+                  "title": "Street Fighter Combo Challenge",
+                  "kind": "link",
+                  "repo": "",
+                  "url": "https://www.youtube.com/playables/UgkxGF7ES_oNTQGaOOKydm_B80zczREKGCRB",
+                  "description": "Test your skills by landing combos in this Street Fighter tie-in.",
+                  "external": true,
+                  "sourceRepo": "playcanvas/awesome-playcanvas",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "PlayCanvas",
+                    "Games",
+                    "YouTube Playables",
+                    "Street Fighter Combo Challenge"
                   ],
                   "parentId": "root-gaming-playcanvas-games-youtube-playables"
                 }
@@ -64074,7 +64101,7 @@
           "parentId": "root-gaming-playcanvas"
         }
       ],
-      "stars": 497,
+      "stars": 498,
       "forks": 63,
       "language": null,
       "license": "CC0-1.0",
@@ -64084,8 +64111,8 @@
         "playcanvas",
         "webgl"
       ],
-      "updated": "2026-10-23T15:43:48Z",
-      "pushed": "2026-10-19T08:20:33Z",
+      "updated": "2026-10-26T17:47:52Z",
+      "pushed": "2026-10-26T17:47:47Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -71142,6 +71169,32 @@
               "parentId": "root-gaming-game-remakes-racing"
             },
             {
+              "id": "root-gaming-game-remakes-racing-openmcm2",
+              "title": "OpenMCM2",
+              "kind": "repo",
+              "repo": "crspytopgn/openmcm2",
+              "url": "https://github.com/crspytopgn/openmcm2",
+              "description": "Motocross Madness 2 (2000) engine reimplementation in Rust for Windows, macOS and Linux; uses your own game files.",
+              "external": false,
+              "sourceRepo": "radek-sprta/awesome-game-remakes",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Game Remakes",
+                "Racing",
+                "OpenMCM2"
+              ],
+              "parentId": "root-gaming-game-remakes-racing"
+            },
+            {
               "id": "root-gaming-game-remakes-racing-opennfs",
               "title": "OpenNFS",
               "kind": "repo",
@@ -74646,6 +74699,32 @@
               "parentId": "root-gaming-game-remakes-strategy"
             },
             {
+              "id": "root-gaming-game-remakes-strategy-opensgolf",
+              "title": "OpenSGolf",
+              "kind": "repo",
+              "repo": "crspytopgn/opensgolf",
+              "url": "https://github.com/crspytopgn/opensgolf",
+              "description": "Clean-room reimplementation of Sid Meier's SimGolf (2002) in Rust for Windows, macOS, Linux, Android and the browser; uses your own SimGolf files or its free art set. :flowerplayingcards:",
+              "external": false,
+              "sourceRepo": "radek-sprta/awesome-game-remakes",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Game Remakes",
+                "Strategy",
+                "OpenSGolf"
+              ],
+              "parentId": "root-gaming-game-remakes-strategy"
+            },
+            {
               "id": "root-gaming-game-remakes-strategy-opentpw",
               "title": "OpenTPW",
               "kind": "repo",
@@ -76065,8 +76144,8 @@
           "parentId": "root-gaming-game-remakes"
         }
       ],
-      "stars": 1555,
-      "forks": 81,
+      "stars": 1576,
+      "forks": 82,
       "language": null,
       "license": "CC-BY-SA-4.0",
       "topics": [
@@ -76077,8 +76156,8 @@
         "games",
         "remake"
       ],
-      "updated": "2026-10-25T05:16:11Z",
-      "pushed": "2026-10-24T05:50:06Z",
+      "updated": "2026-10-31T00:41:16Z",
+      "pushed": "2026-10-27T16:06:13Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -77978,6 +78057,34 @@
                         "Vitayaja"
                       ],
                       "parentId": "root-gaming-flame-projects-app-releases-action"
+                    },
+                    {
+                      "id": "root-gaming-flame-projects-app-releases-action-broadside",
+                      "title": "Broadside",
+                      "kind": "topic",
+                      "repo": "",
+                      "url": "",
+                      "description": "Android - Sail a wooden ship up a sea of big-eyed creatures while the cannons fire on their own, and sink a sea monster boss at the end of every voyage. By Illumination Development",
+                      "external": false,
+                      "sourceRepo": "flame-engine/awesome-flame",
+                      "depth": 4,
+                      "children": [],
+                      "stars": 0,
+                      "forks": 0,
+                      "language": null,
+                      "license": null,
+                      "topics": [],
+                      "updated": null,
+                      "pushed": null,
+                      "awesome": false,
+                      "path": [
+                        "Flame",
+                        "Projects",
+                        "App Releases",
+                        "Action",
+                        "Broadside"
+                      ],
+                      "parentId": "root-gaming-flame-projects-app-releases-action"
                     }
                   ],
                   "stars": 0,
@@ -78085,6 +78192,62 @@
                         "App Releases",
                         "Arcade",
                         "Taco Rain"
+                      ],
+                      "parentId": "root-gaming-flame-projects-app-releases-arcade"
+                    },
+                    {
+                      "id": "root-gaming-flame-projects-app-releases-arcade-pie-cannon",
+                      "title": "Pie Cannon",
+                      "kind": "topic",
+                      "repo": "",
+                      "url": "",
+                      "description": "Android - A carnival shooting gallery: fifty stalls down a world's fair midway, where you splat the ducks and spare the prizes, with a daily stall. By Illumination Development",
+                      "external": false,
+                      "sourceRepo": "flame-engine/awesome-flame",
+                      "depth": 4,
+                      "children": [],
+                      "stars": 0,
+                      "forks": 0,
+                      "language": null,
+                      "license": null,
+                      "topics": [],
+                      "updated": null,
+                      "pushed": null,
+                      "awesome": false,
+                      "path": [
+                        "Flame",
+                        "Projects",
+                        "App Releases",
+                        "Arcade",
+                        "Pie Cannon"
+                      ],
+                      "parentId": "root-gaming-flame-projects-app-releases-arcade"
+                    },
+                    {
+                      "id": "root-gaming-flame-projects-app-releases-arcade-twinglide",
+                      "title": "Twinglide",
+                      "kind": "topic",
+                      "repo": "",
+                      "url": "",
+                      "description": "Android - Steer two wingsuit flyers at once, one per thumb, through an endless procedural canyon that narrows as you speed up. By Teoktonos",
+                      "external": false,
+                      "sourceRepo": "flame-engine/awesome-flame",
+                      "depth": 4,
+                      "children": [],
+                      "stars": 0,
+                      "forks": 0,
+                      "language": null,
+                      "license": null,
+                      "topics": [],
+                      "updated": null,
+                      "pushed": null,
+                      "awesome": false,
+                      "path": [
+                        "Flame",
+                        "Projects",
+                        "App Releases",
+                        "Arcade",
+                        "Twinglide"
                       ],
                       "parentId": "root-gaming-flame-projects-app-releases-arcade"
                     }
@@ -78748,6 +78911,34 @@
                         "App Releases",
                         "Casual",
                         "Pimbli: Super Adventures"
+                      ],
+                      "parentId": "root-gaming-flame-projects-app-releases-casual"
+                    },
+                    {
+                      "id": "root-gaming-flame-projects-app-releases-casual-peel-frenzy",
+                      "title": "Peel Frenzy",
+                      "kind": "topic",
+                      "repo": "",
+                      "url": "",
+                      "description": "Android - Peel a hundred fruits, each in one clean strip: trace the line, and a tension meter tears the peel if you yank. By Illumination Development",
+                      "external": false,
+                      "sourceRepo": "flame-engine/awesome-flame",
+                      "depth": 4,
+                      "children": [],
+                      "stars": 0,
+                      "forks": 0,
+                      "language": null,
+                      "license": null,
+                      "topics": [],
+                      "updated": null,
+                      "pushed": null,
+                      "awesome": false,
+                      "path": [
+                        "Flame",
+                        "Projects",
+                        "App Releases",
+                        "Casual",
+                        "Peel Frenzy"
                       ],
                       "parentId": "root-gaming-flame-projects-app-releases-casual"
                     }
@@ -79748,152 +79939,10 @@
             "Projects"
           ],
           "parentId": "root-gaming-flame"
-        },
-        {
-          "id": "root-gaming-flame-resources",
-          "title": "Resources",
-          "kind": "section",
-          "sourceRepo": "flame-engine/awesome-flame",
-          "depth": 1,
-          "url": "https://github.com/flame-engine/awesome-flame#resources",
-          "children": [
-            {
-              "id": "root-gaming-flame-resources-game-ui-database",
-              "title": "Game UI Database",
-              "kind": "link",
-              "repo": "",
-              "url": "https://www.gameuidatabase.com/",
-              "description": "The ultimate screen reference tool for game interface designers. Explore over 500 games and 19,000 individual images, and filter by screen type, material, layout, texture, shapes, patterns, genres and more!",
-              "external": true,
-              "sourceRepo": "flame-engine/awesome-flame",
-              "depth": 2,
-              "children": [],
-              "stars": 0,
-              "forks": 0,
-              "language": null,
-              "license": null,
-              "topics": [],
-              "updated": null,
-              "pushed": null,
-              "awesome": false,
-              "path": [
-                "Flame",
-                "Resources",
-                "Game UI Database"
-              ],
-              "parentId": "root-gaming-flame-resources"
-            }
-          ],
-          "stars": 0,
-          "forks": 0,
-          "language": null,
-          "license": null,
-          "topics": [],
-          "updated": null,
-          "pushed": null,
-          "awesome": false,
-          "path": [
-            "Flame",
-            "Resources"
-          ],
-          "parentId": "root-gaming-flame"
-        },
-        {
-          "id": "root-gaming-flame-non-english-content",
-          "title": "Non-English Content",
-          "kind": "section",
-          "sourceRepo": "flame-engine/awesome-flame",
-          "depth": 1,
-          "url": "https://github.com/flame-engine/awesome-flame#non-english-content",
-          "children": [
-            {
-              "id": "root-gaming-flame-non-english-content-mandarin-chinese",
-              "title": "Mandarin Chinese (中文)",
-              "kind": "repo",
-              "repo": "flame-engine/awesome-flame",
-              "url": "https://github.com/flame-engine/awesome-flame",
-              "description": "An awesome list that curates the best Flame games, projects, libraries, tools, tutorials, articles and more.",
-              "external": false,
-              "sourceRepo": "flame-engine/awesome-flame",
-              "depth": 2,
-              "children": [],
-              "stars": 1390,
-              "forks": 119,
-              "language": null,
-              "license": "CC0-1.0",
-              "topics": [
-                "awesome",
-                "awesome-list",
-                "flame",
-                "flutter",
-                "game",
-                "game-development",
-                "lists",
-                "resources"
-              ],
-              "updated": "2026-10-23T14:06:44Z",
-              "pushed": "2026-10-23T14:06:36Z",
-              "awesome": true,
-              "path": [
-                "Flame",
-                "Non-English Content",
-                "Mandarin Chinese (中文)"
-              ],
-              "parentId": "root-gaming-flame-non-english-content"
-            },
-            {
-              "id": "root-gaming-flame-non-english-content-spanish-espa-ol",
-              "title": "Spanish (Español)",
-              "kind": "repo",
-              "repo": "flame-engine/awesome-flame",
-              "url": "https://github.com/flame-engine/awesome-flame",
-              "description": "An awesome list that curates the best Flame games, projects, libraries, tools, tutorials, articles and more.",
-              "external": false,
-              "sourceRepo": "flame-engine/awesome-flame",
-              "depth": 2,
-              "children": [],
-              "stars": 1390,
-              "forks": 119,
-              "language": null,
-              "license": "CC0-1.0",
-              "topics": [
-                "awesome",
-                "awesome-list",
-                "flame",
-                "flutter",
-                "game",
-                "game-development",
-                "lists",
-                "resources"
-              ],
-              "updated": "2026-10-23T14:06:44Z",
-              "pushed": "2026-10-23T14:06:36Z",
-              "awesome": true,
-              "path": [
-                "Flame",
-                "Non-English Content",
-                "Spanish (Español)"
-              ],
-              "parentId": "root-gaming-flame-non-english-content"
-            }
-          ],
-          "stars": 0,
-          "forks": 0,
-          "language": null,
-          "license": null,
-          "topics": [],
-          "updated": null,
-          "pushed": null,
-          "awesome": false,
-          "path": [
-            "Flame",
-            "Non-English Content"
-          ],
-          "parentId": "root-gaming-flame"
         }
       ],
-      "stars": 1390,
-      "forks": 119,
+      "stars": 1395,
+      "forks": 121,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -79906,8 +79955,8 @@
         "lists",
         "resources"
       ],
-      "updated": "2026-10-23T14:06:44Z",
-      "pushed": "2026-10-23T14:06:36Z",
+      "updated": "2026-10-31T00:41:57Z",
+      "pushed": "2026-10-28T17:58:34Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -81930,8 +81979,8 @@
           "parentId": "root-gaming-discord-communities"
         }
       ],
-      "stars": 3626,
-      "forks": 216,
+      "stars": 3632,
+      "forks": 217,
       "language": "Python",
       "license": "CC-BY-4.0",
       "topics": [
@@ -81944,7 +81993,7 @@
         "game-development",
         "web"
       ],
-      "updated": "2026-10-23T09:14:45Z",
+      "updated": "2026-10-31T18:44:16Z",
       "pushed": "2026-04-25T19:09:39Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -83527,7 +83576,7 @@
         }
       ],
       "stars": 2168,
-      "forks": 108,
+      "forks": 109,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -83538,7 +83587,7 @@
         "programming-language",
         "robocode"
       ],
-      "updated": "2026-10-22T07:43:05Z",
+      "updated": "2026-10-27T17:38:30Z",
       "pushed": "2026-09-23T16:17:08Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -84731,7 +84780,7 @@
         }
       ],
       "stars": 108,
-      "forks": 12,
+      "forks": 13,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -120879,8 +120928,8 @@
           "parentId": "root-gaming-game-engine-development"
         }
       ],
-      "stars": 1435,
-      "forks": 111,
+      "stars": 1444,
+      "forks": 112,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -120902,7 +120951,7 @@
         "shaders",
         "tools"
       ],
-      "updated": "2026-10-23T10:54:51Z",
+      "updated": "2026-10-31T00:41:42Z",
       "pushed": "2026-08-17T18:26:37Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -131337,8 +131386,8 @@
           "parentId": "root-gaming-gamemaker"
         }
       ],
-      "stars": 509,
-      "forks": 36,
+      "stars": 511,
+      "forks": 37,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -131351,7 +131400,7 @@
         "gamemaker-studio-2",
         "games"
       ],
-      "updated": "2026-10-16T21:54:11Z",
+      "updated": "2026-10-30T20:05:25Z",
       "pushed": "2026-10-13T18:29:10Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -134140,8 +134189,8 @@
           "parentId": "root-gaming-game-production"
         }
       ],
-      "stars": 229,
-      "forks": 10,
+      "stars": 230,
+      "forks": 11,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -134152,7 +134201,7 @@
         "production",
         "project-management"
       ],
-      "updated": "2026-10-20T19:40:58Z",
+      "updated": "2026-10-30T20:05:13Z",
       "pushed": "2026-05-04T10:46:17Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -144840,8 +144889,8 @@
           "parentId": "root-gaming-roblox"
         }
       ],
-      "stars": 84,
-      "forks": 11,
+      "stars": 87,
+      "forks": 10,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -144852,7 +144901,7 @@
         "luau",
         "roblox"
       ],
-      "updated": "2026-10-21T14:12:43Z",
+      "updated": "2026-10-30T07:46:30Z",
       "pushed": "2026-10-18T20:39:11Z",
       "awesome": true,
       "readmeStatus": "expanded",

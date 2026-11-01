@@ -1043,8 +1043,8 @@
       "sourceRepo": "sindresorhus/awesome",
       "depth": 1,
       "children": [],
-      "stars": 79728,
-      "forks": 11908,
+      "stars": 79890,
+      "forks": 11932,
       "language": null,
       "license": "MIT",
       "topics": [
@@ -1053,8 +1053,8 @@
         "datasets",
         "opendata"
       ],
-      "updated": "2026-10-25T07:05:28Z",
-      "pushed": "2026-10-22T19:57:29Z",
+      "updated": "2026-11-01T09:45:15Z",
+      "pushed": "2026-10-28T16:46:19Z",
       "awesome": true,
       "readmeStatus": "empty",
       "path": [
@@ -10783,15 +10783,15 @@
           "parentId": "root-big-data-data-engineering"
         }
       ],
-      "stars": 9205,
-      "forks": 1656,
+      "stars": 9227,
+      "forks": 1665,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
         "awesome",
         "awesome-list"
       ],
-      "updated": "2026-10-25T04:01:41Z",
+      "updated": "2026-11-01T07:40:35Z",
       "pushed": "2026-09-07T13:29:54Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -14500,7 +14500,7 @@
           "parentId": "root-big-data-streaming"
         }
       ],
-      "stars": 3025,
+      "stars": 3026,
       "forks": 329,
       "language": "JavaScript",
       "license": null,
@@ -14510,8 +14510,8 @@
         "list",
         "stream-processing"
       ],
-      "updated": "2026-10-23T02:26:37Z",
-      "pushed": "2026-10-24T20:23:47Z",
+      "updated": "2026-10-26T11:45:29Z",
+      "pushed": "2026-10-31T21:08:04Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -15361,7 +15361,7 @@
           "parentId": "root-big-data-apache-spark"
         }
       ],
-      "stars": 1901,
+      "stars": 1903,
       "forks": 345,
       "language": "Shell",
       "license": "CC0-1.0",
@@ -15371,7 +15371,7 @@
         "pyspark",
         "sparkr"
       ],
-      "updated": "2026-10-21T07:07:23Z",
+      "updated": "2026-10-26T11:52:24Z",
       "pushed": "2026-02-27T08:06:58Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -35466,7 +35466,7 @@
               "depth": 2,
               "children": [],
               "stars": 2454,
-              "forks": 356,
+              "forks": 355,
               "language": "Python",
               "license": "CC0-1.0",
               "topics": [
@@ -38685,7 +38685,7 @@
           "parentId": "root-big-data-network-analysis"
         }
       ],
-      "stars": 4136,
+      "stars": 4141,
       "forks": 644,
       "language": "R",
       "license": null,
@@ -38706,7 +38706,7 @@
         "social-network-analysis",
         "social-networks"
       ],
-      "updated": "2026-10-24T22:33:23Z",
+      "updated": "2026-11-01T09:48:13Z",
       "pushed": "2026-08-20T13:22:11Z",
       "awesome": true,
       "readmeStatus": "expanded",

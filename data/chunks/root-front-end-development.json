@@ -7838,12 +7838,12 @@
               "sourceRepo": "davidsonfellipe/awesome-wpo",
               "depth": 2,
               "children": [],
-              "stars": 957,
+              "stars": 956,
               "forks": 23,
               "language": null,
               "license": null,
               "topics": [],
-              "updated": "2026-10-11T16:32:24Z",
+              "updated": "2026-10-30T09:40:54Z",
               "pushed": "2021-07-23T08:15:07Z",
               "awesome": true,
               "path": [
@@ -7895,8 +7895,8 @@
           "parentId": "root-front-end-development-web-performance-optimization"
         }
       ],
-      "stars": 9143,
-      "forks": 611,
+      "stars": 9156,
+      "forks": 616,
       "language": null,
       "license": "MIT",
       "topics": [
@@ -7907,7 +7907,7 @@
         "webperf-metrics",
         "webperformance"
       ],
-      "updated": "2026-10-25T04:02:38Z",
+      "updated": "2026-11-01T06:53:53Z",
       "pushed": "2026-10-16T03:50:58Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -9605,7 +9605,7 @@
               "parentId": "root-front-end-development-css-frameworks"
             }
           ],
-          "stars": 9559,
+          "stars": 9568,
           "forks": 498,
           "language": "CSS",
           "license": null,
@@ -9619,7 +9619,7 @@
             "list",
             "scss"
           ],
-          "updated": "2026-10-25T06:27:36Z",
+          "updated": "2026-11-01T07:40:49Z",
           "pushed": "2026-06-08T20:32:07Z",
           "awesome": true,
           "readmeStatus": "expanded",
@@ -10784,7 +10784,7 @@
           "parentId": "root-front-end-development-css"
         }
       ],
-      "stars": 5647,
+      "stars": 5651,
       "forks": 457,
       "language": null,
       "license": "CC-BY-SA-4.0",
@@ -10794,7 +10794,7 @@
         "css",
         "list"
       ],
-      "updated": "2026-10-24T22:31:25Z",
+      "updated": "2026-11-01T07:01:44Z",
       "pushed": "2024-10-30T07:00:24Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -14787,7 +14787,7 @@
               "parentId": "root-front-end-development-react-react-hooks"
             }
           ],
-          "stars": 1227,
+          "stars": 1228,
           "forks": 88,
           "language": null,
           "license": "CC0-1.0",
@@ -14798,7 +14798,7 @@
             "react",
             "react-hooks"
           ],
-          "updated": "2026-10-23T03:32:01Z",
+          "updated": "2026-10-26T11:58:27Z",
           "pushed": "2024-03-16T18:57:43Z",
           "awesome": true,
           "readmeStatus": "expanded",
@@ -17097,8 +17097,8 @@
                   "sourceRepo": "enaqx/awesome-react",
                   "depth": 4,
                   "children": [],
-                  "stars": 48730,
-                  "forks": 3871,
+                  "stars": 48777,
+                  "forks": 3870,
                   "language": null,
                   "license": "CC0-1.0",
                   "topics": [
@@ -17108,7 +17108,7 @@
                     "react-component",
                     "react-components"
                   ],
-                  "updated": "2026-10-25T06:31:54Z",
+                  "updated": "2026-11-01T09:36:54Z",
                   "pushed": "2026-01-26T16:36:45Z",
                   "awesome": true,
                   "path": [
@@ -19481,8 +19481,8 @@
           "parentId": "root-front-end-development-react"
         }
       ],
-      "stars": 75046,
-      "forks": 7675,
+      "stars": 75121,
+      "forks": 7695,
       "language": null,
       "license": null,
       "topics": [
@@ -19497,7 +19497,7 @@
         "tutorial",
         "typescript"
       ],
-      "updated": "2026-10-25T07:06:58Z",
+      "updated": "2026-11-01T07:40:29Z",
       "pushed": "2026-09-04T01:13:20Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -25330,8 +25330,8 @@
                   "sourceRepo": "web-padawan/awesome-web-components",
                   "depth": 3,
                   "children": [],
-                  "stars": 1379,
-                  "forks": 207,
+                  "stars": 1385,
+                  "forks": 212,
                   "language": "TypeScript",
                   "license": "MIT",
                   "topics": [
@@ -25339,8 +25339,8 @@
                     "opensource",
                     "webcomponents"
                   ],
-                  "updated": "2026-10-24T00:11:11Z",
-                  "pushed": "2026-10-23T14:25:13Z",
+                  "updated": "2026-11-01T04:31:55Z",
+                  "pushed": "2026-10-30T19:10:03Z",
                   "awesome": true,
                   "path": [
                     "Web Components",
@@ -34819,8 +34819,8 @@
           "parentId": "root-front-end-development-web-components"
         }
       ],
-      "stars": 3606,
-      "forks": 216,
+      "stars": 3614,
+      "forks": 217,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -34831,7 +34831,7 @@
         "web-components",
         "webcomponents"
       ],
-      "updated": "2026-10-22T05:36:34Z",
+      "updated": "2026-11-01T00:01:04Z",
       "pushed": "2026-10-15T08:40:49Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -35182,7 +35182,7 @@
           "parentId": "root-front-end-development-polymer"
         }
       ],
-      "stars": 401,
+      "stars": 400,
       "forks": 37,
       "language": null,
       "license": null,
@@ -35198,7 +35198,7 @@
         "shadowdom",
         "webcomponents"
       ],
-      "updated": "2026-09-16T04:32:45Z",
+      "updated": "2026-10-28T17:58:14Z",
       "pushed": "2018-03-21T18:52:01Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -37954,7 +37954,7 @@
           "parentId": "root-front-end-development-angular"
         }
       ],
-      "stars": 10095,
+      "stars": 10103,
       "forks": 1430,
       "language": "HTML",
       "license": "CC0-1.0",
@@ -37969,8 +37969,8 @@
         "awesome",
         "awesome-list"
       ],
-      "updated": "2026-10-24T19:43:45Z",
-      "pushed": "2026-10-24T15:28:29Z",
+      "updated": "2026-10-31T16:38:19Z",
+      "pushed": "2026-10-31T16:38:15Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -41037,12 +41037,12 @@
           "parentId": "root-front-end-development-backbone"
         }
       ],
-      "stars": 407,
+      "stars": 408,
       "forks": 44,
       "language": null,
       "license": "Unlicense",
       "topics": [],
-      "updated": "2026-09-16T04:32:54Z",
+      "updated": "2026-10-27T08:06:54Z",
       "pushed": "2018-03-20T10:01:27Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -42736,7 +42736,7 @@
           "parentId": "root-front-end-development-html5"
         }
       ],
-      "stars": 2813,
+      "stars": 2816,
       "forks": 260,
       "language": null,
       "license": "MIT",
@@ -42745,7 +42745,7 @@
         "awesome-list",
         "list"
       ],
-      "updated": "2026-10-23T03:23:45Z",
+      "updated": "2026-10-31T10:50:35Z",
       "pushed": "2023-09-26T08:12:13Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -42810,15 +42810,15 @@
           "parentId": "root-front-end-development-svg"
         }
       ],
-      "stars": 4659,
-      "forks": 428,
+      "stars": 4662,
+      "forks": 431,
       "language": "Shell",
       "license": null,
       "topics": [
         "awesome-list",
         "svg"
       ],
-      "updated": "2026-10-23T22:45:02Z",
+      "updated": "2026-11-01T07:06:05Z",
       "pushed": "2026-07-16T16:17:42Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -45027,8 +45027,8 @@
           "parentId": "root-front-end-development-canvas"
         }
       ],
-      "stars": 1867,
-      "forks": 187,
+      "stars": 1868,
+      "forks": 189,
       "language": "Markdown",
       "license": "MIT",
       "topics": [
@@ -45042,7 +45042,7 @@
         "javascript",
         "particles"
       ],
-      "updated": "2026-10-21T15:33:57Z",
+      "updated": "2026-10-26T11:52:40Z",
       "pushed": "2026-06-14T09:29:51Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -46383,8 +46383,8 @@
         "dojo",
         "javascript"
       ],
-      "updated": "2026-09-16T04:33:17Z",
-      "pushed": "2020-09-25T22:46:54Z",
+      "updated": "2026-10-26T12:20:51Z",
+      "pushed": "2026-10-26T12:20:46Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -73221,7 +73221,7 @@
         "frontend",
         "hacktoberfest"
       ],
-      "updated": "2026-10-24T14:09:15Z",
+      "updated": "2026-10-28T18:44:02Z",
       "pushed": "2024-07-30T07:53:48Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -73264,8 +73264,8 @@
           "parentId": "root-front-end-development-android-ui"
         }
       ],
-      "stars": 58138,
-      "forks": 10247,
+      "stars": 58249,
+      "forks": 10246,
       "language": null,
       "license": "MIT",
       "topics": [
@@ -73273,7 +73273,7 @@
         "awesome",
         "ui"
       ],
-      "updated": "2026-10-25T07:09:21Z",
+      "updated": "2026-11-01T07:44:18Z",
       "pushed": "2026-06-05T05:39:52Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -73294,11 +73294,11 @@
       "depth": 1,
       "children": [],
       "stars": 11223,
-      "forks": 1326,
+      "forks": 1327,
       "language": null,
       "license": null,
       "topics": [],
-      "updated": "2026-10-25T03:18:20Z",
+      "updated": "2026-11-01T07:50:44Z",
       "pushed": "2018-03-08T08:57:40Z",
       "awesome": true,
       "readmeStatus": "empty",
@@ -79541,8 +79541,8 @@
           "parentId": "root-front-end-development-flexbox"
         }
       ],
-      "stars": 1264,
-      "forks": 119,
+      "stars": 1265,
+      "forks": 118,
       "language": null,
       "license": "MIT",
       "topics": [
@@ -79557,7 +79557,7 @@
         "hacktoberfest2022",
         "w3c-specification"
       ],
-      "updated": "2026-10-17T18:08:48Z",
+      "updated": "2026-10-26T11:58:06Z",
       "pushed": "2023-09-07T11:46:40Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -79624,8 +79624,8 @@
           "parentId": "root-front-end-development-web-accessibility"
         }
       ],
-      "stars": 1997,
-      "forks": 276,
+      "stars": 2000,
+      "forks": 285,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -79637,7 +79637,7 @@
         "wai-aria",
         "wcag"
       ],
-      "updated": "2026-10-24T17:55:30Z",
+      "updated": "2026-10-30T16:07:51Z",
       "pushed": "2026-08-03T22:10:04Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -79657,12 +79657,12 @@
       "sourceRepo": "sindresorhus/awesome",
       "depth": 1,
       "children": [],
-      "stars": 658,
+      "stars": 657,
       "forks": 56,
       "language": null,
       "license": "MIT",
       "topics": [],
-      "updated": "2026-10-03T20:48:10Z",
+      "updated": "2026-10-28T17:58:01Z",
       "pushed": "2026-08-21T01:33:16Z",
       "awesome": true,
       "readmeStatus": "empty",
@@ -83147,7 +83147,7 @@
         "javascript",
         "maps"
       ],
-      "updated": "2026-10-23T22:51:43Z",
+      "updated": "2026-10-31T13:58:26Z",
       "pushed": "2023-01-13T16:10:34Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -87154,7 +87154,7 @@
               "sourceRepo": "jonathandion/awesome-emails",
               "depth": 3,
               "children": [],
-              "stars": 71,
+              "stars": 72,
               "forks": 13,
               "language": null,
               "license": null,
@@ -87167,7 +87167,7 @@
                 "jsbooks",
                 "learning"
               ],
-              "updated": "2026-08-16T16:00:39Z",
+              "updated": "2026-10-27T08:35:11Z",
               "pushed": "2019-06-18T02:09:26Z",
               "awesome": true,
               "path": [
@@ -87245,8 +87245,8 @@
           "parentId": "root-front-end-development-emails"
         }
       ],
-      "stars": 2763,
-      "forks": 268,
+      "stars": 2768,
+      "forks": 272,
       "language": null,
       "license": null,
       "topics": [
@@ -87261,7 +87261,7 @@
         "jdion",
         "responsive-email"
       ],
-      "updated": "2026-10-23T00:35:00Z",
+      "updated": "2026-10-29T21:36:16Z",
       "pushed": "2024-10-03T21:09:35Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -87922,7 +87922,7 @@
           "parentId": "root-front-end-development-jquery"
         }
       ],
-      "stars": 980,
+      "stars": 981,
       "forks": 139,
       "language": null,
       "license": null,
@@ -87932,7 +87932,7 @@
         "javascript",
         "jquery"
       ],
-      "updated": "2026-10-02T06:50:29Z",
+      "updated": "2026-10-26T12:02:15Z",
       "pushed": "2026-01-01T15:37:15Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -88127,6 +88127,33 @@
                     "Packages",
                     "Frameworks",
                     "React Native Audio API"
+                  ],
+                  "parentId": "root-front-end-development-web-audio-packages-frameworks"
+                },
+                {
+                  "id": "root-front-end-development-web-audio-packages-frameworks-soundworks",
+                  "title": "Soundworks",
+                  "kind": "link",
+                  "repo": "",
+                  "url": "https://soundworks.dev/",
+                  "description": "Open-source creative coding framework for distributed applications based on Web technologies.",
+                  "external": true,
+                  "sourceRepo": "notthetup/awesome-webaudio",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Web Audio",
+                    "Packages",
+                    "Frameworks",
+                    "Soundworks"
                   ],
                   "parentId": "root-front-end-development-web-audio-packages-frameworks"
                 }
@@ -88720,6 +88747,60 @@
                     "tuning-fork"
                   ],
                   "parentId": "root-front-end-development-web-audio-packages-libraries"
+                },
+                {
+                  "id": "root-front-end-development-web-audio-packages-libraries-eko-web",
+                  "title": "eko-web",
+                  "kind": "repo",
+                  "repo": "reactivepixels/eko-web",
+                  "url": "https://github.com/reactivepixels/eko-web",
+                  "description": "Web Audio playback engine for music players with gapless playback, crossfade, loudness normalization and React and Vue bindings.",
+                  "external": false,
+                  "sourceRepo": "notthetup/awesome-webaudio",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Web Audio",
+                    "Packages",
+                    "Libraries",
+                    "eko-web"
+                  ],
+                  "parentId": "root-front-end-development-web-audio-packages-libraries"
+                },
+                {
+                  "id": "root-front-end-development-web-audio-packages-libraries-bardkit",
+                  "title": "Bardkit",
+                  "kind": "repo",
+                  "repo": "darkdarkcocoa/bardkit",
+                  "url": "https://github.com/darkdarkcocoa/bardkit",
+                  "description": "A sample-free plucked-string instrument for multiplayer games, with a four-voice pool and per-listener distance gain.",
+                  "external": false,
+                  "sourceRepo": "notthetup/awesome-webaudio",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Web Audio",
+                    "Packages",
+                    "Libraries",
+                    "Bardkit"
+                  ],
+                  "parentId": "root-front-end-development-web-audio-packages-libraries"
                 }
               ],
               "stars": 0,
@@ -88823,6 +88904,33 @@
                     "Packages",
                     "Utilities",
                     "Web Audio Studio"
+                  ],
+                  "parentId": "root-front-end-development-web-audio-packages-utilities"
+                },
+                {
+                  "id": "root-front-end-development-web-audio-packages-utilities-audio-browser-lab",
+                  "title": "Audio Browser Lab",
+                  "kind": "repo",
+                  "repo": "aribradshaw/audio-browser-lab",
+                  "url": "https://github.com/aribradshaw/audio-browser-lab",
+                  "description": "Reproduce and diagnose browser audio playback, seeking, codec, and lifecycle bugs with shareable evidence.",
+                  "external": false,
+                  "sourceRepo": "notthetup/awesome-webaudio",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Web Audio",
+                    "Packages",
+                    "Utilities",
+                    "Audio Browser Lab"
                   ],
                   "parentId": "root-front-end-development-web-audio-packages-utilities"
                 }
@@ -89818,6 +89926,222 @@
                     "mdrone"
                   ],
                   "parentId": "root-front-end-development-web-audio-packages-apps"
+                },
+                {
+                  "id": "root-front-end-development-web-audio-packages-apps-database-inside-a-song",
+                  "title": "Database Inside a Song",
+                  "kind": "link",
+                  "repo": "",
+                  "url": "https://blog.jasonsuhari.com/research/database-song/webaudio-demo.html",
+                  "description": "Splits a stereo WAV, reconstructs its side channel, and visualizes the 18 kHz and 20 kHz carriers holding a byte-exact SQLite database.",
+                  "external": true,
+                  "sourceRepo": "notthetup/awesome-webaudio",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Web Audio",
+                    "Packages",
+                    "Apps",
+                    "Database Inside a Song"
+                  ],
+                  "parentId": "root-front-end-development-web-audio-packages-apps"
+                },
+                {
+                  "id": "root-front-end-development-web-audio-packages-apps-tonecrafted-progressions",
+                  "title": "Tonecrafted Progressions",
+                  "kind": "link",
+                  "repo": "",
+                  "url": "https://tonecrafted.com",
+                  "description": "Free browser chord-progression player and ear-training tool for guitarists, no signup.",
+                  "external": true,
+                  "sourceRepo": "notthetup/awesome-webaudio",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Web Audio",
+                    "Packages",
+                    "Apps",
+                    "Tonecrafted Progressions"
+                  ],
+                  "parentId": "root-front-end-development-web-audio-packages-apps"
+                },
+                {
+                  "id": "root-front-end-development-web-audio-packages-apps-key-kalimba-github",
+                  "title": "Key Kalimba Github",
+                  "kind": "topic",
+                  "repo": "",
+                  "url": "",
+                  "description": "Interactive 17-key Kalimba trainer, falling notes visualizer, and real-time tuner with pitch detection.",
+                  "external": false,
+                  "sourceRepo": "notthetup/awesome-webaudio",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Web Audio",
+                    "Packages",
+                    "Apps",
+                    "Key Kalimba Github"
+                  ],
+                  "parentId": "root-front-end-development-web-audio-packages-apps"
+                },
+                {
+                  "id": "root-front-end-development-web-audio-packages-apps-melody-mate",
+                  "title": "Melody Mate",
+                  "kind": "link",
+                  "repo": "",
+                  "url": "https://melody-mate-khaki.vercel.app/",
+                  "description": "In-browser generative MIDI workstation and melodic sketchpad using rule-based music theory heuristics and Web Audio API.",
+                  "external": true,
+                  "sourceRepo": "notthetup/awesome-webaudio",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Web Audio",
+                    "Packages",
+                    "Apps",
+                    "Melody Mate"
+                  ],
+                  "parentId": "root-front-end-development-web-audio-packages-apps"
+                },
+                {
+                  "id": "root-front-end-development-web-audio-packages-apps-ocarina-simulator",
+                  "title": "Ocarina Simulator",
+                  "kind": "repo",
+                  "repo": "zengm32343/ocarina-simulator",
+                  "url": "https://github.com/zengm32343/ocarina-simulator",
+                  "description": "A playable 3D ocarina with sampled and synthesized voices, breath-controlled dynamics from the microphone and song recognition. Live demo.",
+                  "external": false,
+                  "sourceRepo": "notthetup/awesome-webaudio",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Web Audio",
+                    "Packages",
+                    "Apps",
+                    "Ocarina Simulator"
+                  ],
+                  "parentId": "root-front-end-development-web-audio-packages-apps"
+                },
+                {
+                  "id": "root-front-end-development-web-audio-packages-apps-klaviero",
+                  "title": "Klaviero",
+                  "kind": "link",
+                  "repo": "",
+                  "url": "https://klaviero.com/",
+                  "description": "Falling-notes piano game for MIDI keyboards, built on Web MIDI and Web Audio (Tone.js), with in-browser audio to MIDI.",
+                  "external": true,
+                  "sourceRepo": "notthetup/awesome-webaudio",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Web Audio",
+                    "Packages",
+                    "Apps",
+                    "Klaviero"
+                  ],
+                  "parentId": "root-front-end-development-web-audio-packages-apps"
+                },
+                {
+                  "id": "root-front-end-development-web-audio-packages-apps-psoup-noise-machine",
+                  "title": "psoup noise machine",
+                  "kind": "link",
+                  "repo": "",
+                  "url": "https://psoup.art/machine/?utm_source=awesomewebaudio",
+                  "description": "Free generative noise machine in the browser: brown, pink and white noise computed live with the Web Audio API, tuned by the moon and the day's earthquakes.",
+                  "external": true,
+                  "sourceRepo": "notthetup/awesome-webaudio",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Web Audio",
+                    "Packages",
+                    "Apps",
+                    "psoup noise machine"
+                  ],
+                  "parentId": "root-front-end-development-web-audio-packages-apps"
+                },
+                {
+                  "id": "root-front-end-development-web-audio-packages-apps-seance",
+                  "title": "seance",
+                  "kind": "link",
+                  "repo": "",
+                  "url": "https://hexenwerkzeug.com/tools/seance",
+                  "description": "Sample workbench on the Web Audio API: spectrogram, drum stem separation, hit-based slicing and BS.1770-4 loudness, all in the browser.",
+                  "external": true,
+                  "sourceRepo": "notthetup/awesome-webaudio",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Web Audio",
+                    "Packages",
+                    "Apps",
+                    "seance"
+                  ],
+                  "parentId": "root-front-end-development-web-audio-packages-apps"
                 }
               ],
               "stars": 0,
@@ -90079,6 +90403,33 @@
                     "Resources",
                     "Tutorials",
                     "audio-katas"
+                  ],
+                  "parentId": "root-front-end-development-web-audio-resources-tutorials"
+                },
+                {
+                  "id": "root-front-end-development-web-audio-resources-tutorials-music-theory-for-programmers",
+                  "title": "Music Theory for Programmers",
+                  "kind": "link",
+                  "repo": "",
+                  "url": "https://runjs.app/blog/music-theory-for-programmers",
+                  "description": "Music theory derived from scratch in JavaScript, with runnable Web Audio examples.",
+                  "external": true,
+                  "sourceRepo": "notthetup/awesome-webaudio",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "Web Audio",
+                    "Resources",
+                    "Tutorials",
+                    "Music Theory for Programmers"
                   ],
                   "parentId": "root-front-end-development-web-audio-resources-tutorials"
                 }
@@ -91072,8 +91423,8 @@
           "parentId": "root-front-end-development-web-audio"
         }
       ],
-      "stars": 1401,
-      "forks": 166,
+      "stars": 1406,
+      "forks": 172,
       "language": null,
       "license": null,
       "topics": [
@@ -91084,8 +91435,8 @@
         "midi",
         "webaudio"
       ],
-      "updated": "2026-10-23T21:17:27Z",
-      "pushed": "2026-06-05T01:54:36Z",
+      "updated": "2026-10-30T06:03:25Z",
+      "pushed": "2026-10-26T08:37:45Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -91104,8 +91455,8 @@
       "sourceRepo": "sindresorhus/awesome",
       "depth": 1,
       "children": [],
-      "stars": 3327,
-      "forks": 195,
+      "stars": 3328,
+      "forks": 196,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -91117,7 +91468,7 @@
         "service-worker",
         "serviceworkers"
       ],
-      "updated": "2026-10-24T00:26:51Z",
+      "updated": "2026-10-30T06:29:18Z",
       "pushed": "2022-11-23T17:08:40Z",
       "awesome": false,
       "path": [
@@ -95647,7 +95998,7 @@
         }
       ],
       "stars": 1993,
-      "forks": 190,
+      "forks": 191,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -95655,7 +96006,7 @@
         "awesome-list",
         "list"
       ],
-      "updated": "2026-10-24T17:54:57Z",
+      "updated": "2026-10-28T23:33:06Z",
       "pushed": "2026-04-20T16:35:39Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -100605,8 +100956,8 @@
                   "sourceRepo": "vuejs/awesome-vue",
                   "depth": 3,
                   "children": [],
-                  "stars": 17272,
-                  "forks": 1337,
+                  "stars": 17287,
+                  "forks": 1339,
                   "language": "JavaScript",
                   "license": "MIT",
                   "topics": [
@@ -100615,7 +100966,7 @@
                     "vite",
                     "vitejs"
                   ],
-                  "updated": "2026-10-25T02:31:03Z",
+                  "updated": "2026-11-01T06:45:08Z",
                   "pushed": "2026-02-04T13:10:54Z",
                   "awesome": true,
                   "path": [
@@ -133766,12 +134117,12 @@
           "parentId": "root-front-end-development-vue-js"
         }
       ],
-      "stars": 73511,
-      "forks": 9473,
+      "stars": 73493,
+      "forks": 9487,
       "language": null,
       "license": "MIT",
       "topics": [],
-      "updated": "2026-10-25T01:26:36Z",
+      "updated": "2026-10-31T22:57:58Z",
       "pushed": "2026-10-19T10:49:59Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -137294,7 +137645,7 @@
         }
       ],
       "stars": 2120,
-      "forks": 118,
+      "forks": 119,
       "language": null,
       "license": "MIT",
       "topics": [
@@ -137830,8 +138181,8 @@
               "sourceRepo": "candelibas/awesome-ionic",
               "depth": 2,
               "children": [],
-              "stars": 639,
-              "forks": 59,
+              "stars": 641,
+              "forks": 61,
               "language": "HTML",
               "license": "CC0-1.0",
               "topics": [
@@ -137841,8 +138192,8 @@
                 "capacitor-plugin",
                 "ionic"
               ],
-              "updated": "2026-10-22T22:00:29Z",
-              "pushed": "2026-10-22T22:00:24Z",
+              "updated": "2026-10-31T13:53:21Z",
+              "pushed": "2026-10-30T12:58:17Z",
               "awesome": true,
               "path": [
                 "Ionic Framework",
@@ -150511,15 +150862,15 @@
           "parentId": "root-front-end-development-chrome-devtools"
         }
       ],
-      "stars": 7177,
-      "forks": 451,
+      "stars": 7187,
+      "forks": 453,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
         "awesome",
         "awesome-list"
       ],
-      "updated": "2026-10-24T17:57:41Z",
+      "updated": "2026-11-01T06:57:26Z",
       "pushed": "2026-10-06T23:24:39Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -151828,7 +152179,7 @@
           "parentId": "root-front-end-development-draft-js"
         }
       ],
-      "stars": 2522,
+      "stars": 2523,
       "forks": 135,
       "language": null,
       "license": null,
@@ -151838,7 +152189,7 @@
         "draft-js",
         "list"
       ],
-      "updated": "2026-10-21T07:29:57Z",
+      "updated": "2026-10-26T11:48:29Z",
       "pushed": "2022-05-04T08:19:29Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -152714,12 +153065,12 @@
               "sourceRepo": "talater/awesome-service-workers",
               "depth": 2,
               "children": [],
-              "stars": 1580,
+              "stars": 1582,
               "forks": 95,
               "language": null,
               "license": "CC0-1.0",
               "topics": [],
-              "updated": "2026-10-20T19:06:59Z",
+              "updated": "2026-11-01T05:29:18Z",
               "pushed": "2021-01-13T09:19:12Z",
               "awesome": true,
               "path": [
@@ -152740,12 +153091,12 @@
               "sourceRepo": "talater/awesome-service-workers",
               "depth": 2,
               "children": [],
-              "stars": 1580,
+              "stars": 1582,
               "forks": 95,
               "language": null,
               "license": "CC0-1.0",
               "topics": [],
-              "updated": "2026-10-20T19:06:59Z",
+              "updated": "2026-11-01T05:29:18Z",
               "pushed": "2021-01-13T09:19:12Z",
               "awesome": true,
               "path": [
@@ -152766,12 +153117,12 @@
               "sourceRepo": "talater/awesome-service-workers",
               "depth": 2,
               "children": [],
-              "stars": 1580,
+              "stars": 1582,
               "forks": 95,
               "language": null,
               "license": "CC0-1.0",
               "topics": [],
-              "updated": "2026-10-20T19:06:59Z",
+              "updated": "2026-11-01T05:29:18Z",
               "pushed": "2021-01-13T09:19:12Z",
               "awesome": true,
               "path": [
@@ -152792,12 +153143,12 @@
               "sourceRepo": "talater/awesome-service-workers",
               "depth": 2,
               "children": [],
-              "stars": 1580,
+              "stars": 1582,
               "forks": 95,
               "language": null,
               "license": "CC0-1.0",
               "topics": [],
-              "updated": "2026-10-20T19:06:59Z",
+              "updated": "2026-11-01T05:29:18Z",
               "pushed": "2021-01-13T09:19:12Z",
               "awesome": true,
               "path": [
@@ -152818,12 +153169,12 @@
               "sourceRepo": "talater/awesome-service-workers",
               "depth": 2,
               "children": [],
-              "stars": 1580,
+              "stars": 1582,
               "forks": 95,
               "language": null,
               "license": "CC0-1.0",
               "topics": [],
-              "updated": "2026-10-20T19:06:59Z",
+              "updated": "2026-11-01T05:29:18Z",
               "pushed": "2021-01-13T09:19:12Z",
               "awesome": true,
               "path": [
@@ -152849,12 +153200,12 @@
           "parentId": "root-front-end-development-service-workers"
         }
       ],
-      "stars": 1664,
+      "stars": 1665,
       "forks": 67,
       "language": null,
       "license": "CC0-1.0",
       "topics": [],
-      "updated": "2026-10-17T21:23:03Z",
+      "updated": "2026-11-01T05:29:08Z",
       "pushed": "2019-06-07T18:59:21Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -152994,12 +153345,12 @@
               "sourceRepo": "talater/awesome-progressive-web-apps",
               "depth": 2,
               "children": [],
-              "stars": 1664,
+              "stars": 1665,
               "forks": 67,
               "language": null,
               "license": "CC0-1.0",
               "topics": [],
-              "updated": "2026-10-17T21:23:03Z",
+              "updated": "2026-11-01T05:29:08Z",
               "pushed": "2019-06-07T18:59:21Z",
               "awesome": true,
               "path": [
@@ -153637,12 +153988,12 @@
                   "sourceRepo": "talater/awesome-progressive-web-apps",
                   "depth": 3,
                   "children": [],
-                  "stars": 1664,
+                  "stars": 1665,
                   "forks": 67,
                   "language": null,
                   "license": "CC0-1.0",
                   "topics": [],
-                  "updated": "2026-10-17T21:23:03Z",
+                  "updated": "2026-11-01T05:29:08Z",
                   "pushed": "2019-06-07T18:59:21Z",
                   "awesome": true,
                   "path": [
@@ -154521,12 +154872,12 @@
           "parentId": "root-front-end-development-progressive-web-apps"
         }
       ],
-      "stars": 1580,
+      "stars": 1582,
       "forks": 95,
       "language": null,
       "license": "CC0-1.0",
       "topics": [],
-      "updated": "2026-10-20T19:06:59Z",
+      "updated": "2026-11-01T05:29:18Z",
       "pushed": "2021-01-13T09:19:12Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -167393,12 +167744,12 @@
           "parentId": "root-front-end-development-ant-design"
         }
       ],
-      "stars": 3301,
+      "stars": 3302,
       "forks": 217,
       "language": null,
       "license": "NOASSERTION",
       "topics": [],
-      "updated": "2026-10-20T22:17:38Z",
+      "updated": "2026-10-26T08:26:42Z",
       "pushed": "2025-07-29T08:15:52Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -173085,8 +173436,8 @@
           "parentId": "root-front-end-development-webgl"
         }
       ],
-      "stars": 1544,
-      "forks": 116,
+      "stars": 1546,
+      "forks": 118,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -173102,8 +173453,8 @@
         "webgl-spec-sheet",
         "webgl-tutorials"
       ],
-      "updated": "2026-10-25T06:06:54Z",
-      "pushed": "2026-10-24T20:01:44Z",
+      "updated": "2026-10-27T00:44:55Z",
+      "pushed": "2026-10-26T01:39:48Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -177405,7 +177756,7 @@
           "parentId": "root-front-end-development-preact"
         }
       ],
-      "stars": 1010,
+      "stars": 1014,
       "forks": 88,
       "language": null,
       "license": null,
@@ -177416,7 +177767,7 @@
         "preact",
         "resources"
       ],
-      "updated": "2026-10-22T00:51:45Z",
+      "updated": "2026-10-28T05:54:23Z",
       "pushed": "2026-10-08T21:02:10Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -183564,8 +183915,8 @@
           "parentId": "root-front-end-development-next-js"
         }
       ],
-      "stars": 11105,
-      "forks": 1236,
+      "stars": 11108,
+      "forks": 1260,
       "language": null,
       "license": null,
       "topics": [
@@ -183580,7 +183931,7 @@
         "tutorials",
         "universal"
       ],
-      "updated": "2026-10-25T03:19:33Z",
+      "updated": "2026-11-01T06:51:02Z",
       "pushed": "2026-10-15T13:43:28Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -186400,8 +186751,8 @@
               "sourceRepo": "web-padawan/awesome-lit",
               "depth": 2,
               "children": [],
-              "stars": 1379,
-              "forks": 207,
+              "stars": 1385,
+              "forks": 212,
               "language": "TypeScript",
               "license": "MIT",
               "topics": [
@@ -186409,8 +186760,8 @@
                 "opensource",
                 "webcomponents"
               ],
-              "updated": "2026-10-24T00:11:11Z",
-              "pushed": "2026-10-23T14:25:13Z",
+              "updated": "2026-11-01T04:31:55Z",
+              "pushed": "2026-10-30T19:10:03Z",
               "awesome": true,
               "path": [
                 "lit",
@@ -189305,8 +189656,8 @@
           "parentId": "root-front-end-development-lit"
         }
       ],
-      "stars": 1737,
-      "forks": 109,
+      "stars": 1739,
+      "forks": 110,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -189314,7 +189665,7 @@
         "awesome-list",
         "lit-html"
       ],
-      "updated": "2026-10-21T08:24:35Z",
+      "updated": "2026-10-28T18:23:25Z",
       "pushed": "2026-10-21T08:24:30Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -194509,8 +194860,8 @@
           "parentId": "root-front-end-development-jamstack"
         }
       ],
-      "stars": 1372,
-      "forks": 202,
+      "stars": 1374,
+      "forks": 206,
       "language": null,
       "license": null,
       "topics": [
@@ -194521,7 +194872,7 @@
         "static-site",
         "static-site-generator"
       ],
-      "updated": "2026-10-24T16:21:37Z",
+      "updated": "2026-10-29T01:47:27Z",
       "pushed": "2026-08-17T09:12:20Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -197848,8 +198199,8 @@
               "sourceRepo": "myshov/awesome-mobile-web-development",
               "depth": 2,
               "children": [],
-              "stars": 3327,
-              "forks": 195,
+              "stars": 3328,
+              "forks": 196,
               "language": null,
               "license": "CC0-1.0",
               "topics": [
@@ -197861,7 +198212,7 @@
                 "service-worker",
                 "serviceworkers"
               ],
-              "updated": "2026-10-24T00:26:51Z",
+              "updated": "2026-10-30T06:29:18Z",
               "pushed": "2022-11-23T17:08:40Z",
               "awesome": true,
               "path": [
@@ -199689,7 +200040,7 @@
           "parentId": "root-front-end-development-mobile-web-development"
         }
       ],
-      "stars": 1293,
+      "stars": 1294,
       "forks": 67,
       "language": null,
       "license": null,
@@ -199700,7 +200051,7 @@
         "mobile-web",
         "web-performance"
       ],
-      "updated": "2026-10-15T17:55:37Z",
+      "updated": "2026-10-26T11:57:47Z",
       "pushed": "2023-12-15T10:23:46Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -201004,7 +201355,7 @@
         }
       ],
       "stars": 424,
-      "forks": 32,
+      "forks": 31,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -202304,8 +202655,8 @@
           "parentId": "root-front-end-development-blazor"
         }
       ],
-      "stars": 9385,
-      "forks": 1015,
+      "stars": 9390,
+      "forks": 1016,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -202330,8 +202681,8 @@
         "razor-components",
         "webassembly"
       ],
-      "updated": "2026-10-25T03:51:25Z",
-      "pushed": "2026-10-13T19:14:06Z",
+      "updated": "2026-10-31T18:43:06Z",
+      "pushed": "2026-10-29T10:16:55Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -205601,7 +205952,7 @@
           "parentId": "root-front-end-development-pagespeed-metrics"
         }
       ],
-      "stars": 695,
+      "stars": 696,
       "forks": 28,
       "language": null,
       "license": "NOASSERTION",
@@ -205614,7 +205965,7 @@
         "performance",
         "web-performance"
       ],
-      "updated": "2026-10-08T19:57:15Z",
+      "updated": "2026-10-26T12:07:17Z",
       "pushed": "2024-02-17T15:29:57Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -206209,6 +206560,32 @@
               "parentId": "root-front-end-development-tailwind-css-tools"
             },
             {
+              "id": "root-front-end-development-tailwind-css-tools-gradientdeck",
+              "title": "🎨🌍🔧 GradientDeck",
+              "kind": "topic",
+              "repo": "",
+              "url": "",
+              "description": "Generators for Tailwind CSS gradients, palettes, shadows, glass effects, patterns & more.",
+              "external": false,
+              "sourceRepo": "aniftyco/awesome-tailwindcss",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Tailwind CSS",
+                "Tools",
+                "🎨🌍🔧 GradientDeck"
+              ],
+              "parentId": "root-front-end-development-tailwind-css-tools"
+            },
+            {
               "id": "root-front-end-development-tailwind-css-tools-base-2-rounding",
               "title": "🌍🔧 Base-2 Rounding",
               "kind": "topic",
@@ -206231,6 +206608,32 @@
                 "Tailwind CSS",
                 "Tools",
                 "🌍🔧 Base-2 Rounding"
+              ],
+              "parentId": "root-front-end-development-tailwind-css-tools"
+            },
+            {
+              "id": "root-front-end-development-tailwind-css-tools-tailwind-dictionary",
+              "title": "🌍🔧 tailwind-dictionary",
+              "kind": "topic",
+              "repo": "",
+              "url": "",
+              "description": "Tailwind CSS theme generator from design tokens.",
+              "external": false,
+              "sourceRepo": "aniftyco/awesome-tailwindcss",
+              "depth": 2,
+              "children": [],
+              "stars": 0,
+              "forks": 0,
+              "language": null,
+              "license": null,
+              "topics": [],
+              "updated": null,
+              "pushed": null,
+              "awesome": false,
+              "path": [
+                "Tailwind CSS",
+                "Tools",
+                "🌍🔧 tailwind-dictionary"
               ],
               "parentId": "root-front-end-development-tailwind-css-tools"
             },
@@ -207596,8 +207999,8 @@
           "parentId": "root-front-end-development-tailwind-css"
         }
       ],
-      "stars": 15208,
-      "forks": 1032,
+      "stars": 15216,
+      "forks": 1036,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -207611,8 +208014,8 @@
         "tailwindcss",
         "websites"
       ],
-      "updated": "2026-10-24T22:27:33Z",
-      "pushed": "2026-08-14T14:48:26Z",
+      "updated": "2026-11-01T06:45:44Z",
+      "pushed": "2026-10-27T06:37:59Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -214019,8 +214422,8 @@
           "parentId": "root-front-end-development-web-animation"
         }
       ],
-      "stars": 1594,
-      "forks": 92,
+      "stars": 1599,
+      "forks": 90,
       "language": "JavaScript",
       "license": "CC0-1.0",
       "topics": [
@@ -214032,7 +214435,7 @@
         "transitions",
         "web-animation"
       ],
-      "updated": "2026-10-25T00:30:45Z",
+      "updated": "2026-11-01T00:41:00Z",
       "pushed": "2026-09-20T16:58:09Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -219616,8 +220019,8 @@
               "sourceRepo": "jetli/awesome-yew",
               "depth": 2,
               "children": [],
-              "stars": 9657,
-              "forks": 612,
+              "stars": 9664,
+              "forks": 628,
               "language": null,
               "license": "CC0-1.0",
               "topics": [
@@ -219631,7 +220034,7 @@
                 "wasm",
                 "webassembly"
               ],
-              "updated": "2026-10-25T03:47:51Z",
+              "updated": "2026-10-31T18:43:00Z",
               "pushed": "2026-10-09T05:19:38Z",
               "awesome": true,
               "path": [
@@ -219652,16 +220055,16 @@
               "sourceRepo": "jetli/awesome-yew",
               "depth": 2,
               "children": [],
-              "stars": 60107,
-              "forks": 3714,
+              "stars": 60256,
+              "forks": 3756,
               "language": "Rust",
               "license": "CC0-1.0",
               "topics": [
                 "awesome",
                 "rust"
               ],
-              "updated": "2026-10-25T07:07:05Z",
-              "pushed": "2026-10-23T17:21:58Z",
+              "updated": "2026-11-01T09:09:37Z",
+              "pushed": "2026-10-31T23:40:47Z",
               "awesome": true,
               "path": [
                 "Yew",
@@ -219699,7 +220102,7 @@
         "yew",
         "yew-framework"
       ],
-      "updated": "2026-10-24T11:49:49Z",
+      "updated": "2026-10-26T11:54:39Z",
       "pushed": "2026-02-28T09:26:58Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -224132,8 +224535,8 @@
               "sourceRepo": "componently-com/awesome-building-blocks-for-web-apps",
               "depth": 2,
               "children": [],
-              "stars": 14550,
-              "forks": 1870,
+              "stars": 14559,
+              "forks": 1873,
               "language": null,
               "license": "CC0-1.0",
               "topics": [
@@ -224143,7 +224546,7 @@
                 "microservices",
                 "microservices-architecture"
               ],
-              "updated": "2026-10-25T07:00:50Z",
+              "updated": "2026-10-30T17:43:24Z",
               "pushed": "2026-08-20T15:52:41Z",
               "awesome": true,
               "path": [
@@ -230783,8 +231186,8 @@
           "parentId": "root-front-end-development-svelte"
         }
       ],
-      "stars": 2171,
-      "forks": 214,
+      "stars": 2173,
+      "forks": 216,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -230794,7 +231197,7 @@
         "svelte",
         "sveltejs"
       ],
-      "updated": "2026-10-24T21:14:11Z",
+      "updated": "2026-10-31T13:55:49Z",
       "pushed": "2026-09-07T19:38:43Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -234291,8 +234694,8 @@
           "parentId": "root-front-end-development-design-systems"
         }
       ],
-      "stars": 904,
-      "forks": 78,
+      "stars": 907,
+      "forks": 79,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -234314,7 +234717,7 @@
         "reusable-components",
         "storybook"
       ],
-      "updated": "2026-10-23T01:46:40Z",
+      "updated": "2026-10-28T19:06:59Z",
       "pushed": "2026-09-14T07:10:24Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -241581,7 +241984,7 @@
         "tiny",
         "typescript"
       ],
-      "updated": "2026-10-14T22:17:29Z",
+      "updated": "2026-11-01T07:53:43Z",
       "pushed": "2024-09-24T10:21:03Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -242381,8 +242784,8 @@
                   "sourceRepo": "joewdavies/awesome-frontend-gis",
                   "depth": 3,
                   "children": [],
-                  "stars": 2552,
-                  "forks": 217,
+                  "stars": 2553,
+                  "forks": 219,
                   "language": null,
                   "license": "CC0-1.0",
                   "topics": [
@@ -242391,8 +242794,8 @@
                     "geojson",
                     "list"
                   ],
-                  "updated": "2026-10-24T17:03:09Z",
-                  "pushed": "2026-09-23T17:14:52Z",
+                  "updated": "2026-10-30T10:37:43Z",
+                  "pushed": "2026-10-28T15:14:38Z",
                   "awesome": true,
                   "path": [
                     "Frontend GIS",
@@ -243379,8 +243782,8 @@
                   "sourceRepo": "joewdavies/awesome-frontend-gis",
                   "depth": 3,
                   "children": [],
-                  "stars": 1193,
-                  "forks": 191,
+                  "stars": 1198,
+                  "forks": 192,
                   "language": "Python",
                   "license": "MIT",
                   "topics": [
@@ -243405,8 +243808,8 @@
                     "spectral-index",
                     "spectral-indices"
                   ],
-                  "updated": "2026-10-25T03:54:26Z",
-                  "pushed": "2026-10-25T03:54:22Z",
+                  "updated": "2026-11-01T05:09:24Z",
+                  "pushed": "2026-11-01T05:09:20Z",
                   "awesome": true,
                   "path": [
                     "Frontend GIS",
@@ -245034,8 +245437,8 @@
                   "sourceRepo": "joewdavies/awesome-frontend-gis",
                   "depth": 3,
                   "children": [],
-                  "stars": 79728,
-                  "forks": 11908,
+                  "stars": 79890,
+                  "forks": 11932,
                   "language": null,
                   "license": "MIT",
                   "topics": [
@@ -245044,8 +245447,8 @@
                     "datasets",
                     "opendata"
                   ],
-                  "updated": "2026-10-25T07:05:28Z",
-                  "pushed": "2026-10-22T19:57:29Z",
+                  "updated": "2026-11-01T09:45:15Z",
+                  "pushed": "2026-10-28T16:46:19Z",
                   "awesome": true,
                   "path": [
                     "Frontend GIS",
@@ -247656,7 +248059,7 @@
           "parentId": "root-front-end-development-frontend-gis"
         }
       ],
-      "stars": 877,
+      "stars": 881,
       "forks": 75,
       "language": null,
       "license": "CC0-1.0",
@@ -247682,7 +248085,7 @@
         "visualization",
         "webgl"
       ],
-      "updated": "2026-10-22T09:05:00Z",
+      "updated": "2026-10-28T03:02:15Z",
       "pushed": "2026-09-29T10:33:17Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -252242,8 +252645,8 @@
           "parentId": "root-front-end-development-webgpu"
         }
       ],
-      "stars": 2009,
-      "forks": 138,
+      "stars": 2014,
+      "forks": 145,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -252256,7 +252659,7 @@
         "webgl",
         "webgpu"
       ],
-      "updated": "2026-10-24T23:37:55Z",
+      "updated": "2026-10-30T13:58:19Z",
       "pushed": "2026-09-10T09:00:23Z",
       "awesome": true,
       "readmeStatus": "expanded",

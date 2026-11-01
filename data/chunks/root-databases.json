@@ -248,7 +248,7 @@
       "language": null,
       "license": null,
       "topics": [],
-      "updated": "2026-10-21T13:31:35Z",
+      "updated": "2026-10-30T23:30:35Z",
       "pushed": "2024-03-04T12:40:15Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -3611,12 +3611,12 @@
           "parentId": "root-databases-mysql"
         }
       ],
-      "stars": 2616,
-      "forks": 421,
+      "stars": 2613,
+      "forks": 425,
       "language": "Python",
       "license": "NOASSERTION",
       "topics": [],
-      "updated": "2026-10-23T22:59:50Z",
+      "updated": "2026-10-31T15:53:20Z",
       "pushed": "2026-10-19T08:13:12Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -3636,8 +3636,8 @@
       "sourceRepo": "sindresorhus/awesome",
       "depth": 1,
       "children": [],
-      "stars": 3070,
-      "forks": 168,
+      "stars": 3071,
+      "forks": 166,
       "language": "Python",
       "license": null,
       "topics": [
@@ -3650,7 +3650,7 @@
         "rdbms",
         "sqlalchemy"
       ],
-      "updated": "2026-10-22T15:39:42Z",
+      "updated": "2026-10-29T04:07:38Z",
       "pushed": "2026-06-08T08:36:57Z",
       "awesome": true,
       "readmeStatus": "empty",
@@ -4177,7 +4177,7 @@
           "parentId": "root-databases-influxdb"
         }
       ],
-      "stars": 819,
+      "stars": 820,
       "forks": 62,
       "language": null,
       "license": null,
@@ -4187,7 +4187,7 @@
         "influxdb",
         "list"
       ],
-      "updated": "2026-10-02T19:57:30Z",
+      "updated": "2026-10-26T12:04:51Z",
       "pushed": "2024-05-08T14:04:39Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -5346,12 +5346,12 @@
           "parentId": "root-databases-neo4j"
         }
       ],
-      "stars": 565,
-      "forks": 83,
+      "stars": 564,
+      "forks": 82,
       "language": null,
       "license": null,
       "topics": [],
-      "updated": "2026-09-24T08:54:57Z",
+      "updated": "2026-10-29T10:50:06Z",
       "pushed": "2020-12-09T06:58:51Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -9706,6 +9706,33 @@
                   "parentId": "root-databases-mongodb-tools-desktop"
                 },
                 {
+                  "id": "root-databases-mongodb-tools-desktop-tabularis-mongodb-plugin",
+                  "title": "Tabularis MongoDB plugin",
+                  "kind": "repo",
+                  "repo": "tabularisdb/tabularis-mongodb-plugin",
+                  "url": "https://github.com/tabularisdb/tabularis-mongodb-plugin",
+                  "description": "MongoDB support for the Tabularis desktop client, including collection browsing, document queries and aggregation pipelines",
+                  "external": false,
+                  "sourceRepo": "ramnes/awesome-mongodb",
+                  "depth": 3,
+                  "children": [],
+                  "stars": 0,
+                  "forks": 0,
+                  "language": null,
+                  "license": null,
+                  "topics": [],
+                  "updated": null,
+                  "pushed": null,
+                  "awesome": false,
+                  "path": [
+                    "MongoDB",
+                    "Tools",
+                    "Desktop",
+                    "Tabularis MongoDB plugin"
+                  ],
+                  "parentId": "root-databases-mongodb-tools-desktop"
+                },
+                {
                   "id": "root-databases-mongodb-tools-desktop-webdb-web-based-and-open-source-efficient-database-ide-provides-erds-data-generators-an-ai-assistant-a-nosql-structure-manager-a-time-machine-auto-completion-and-more",
                   "title": "WebDB – Web-based and open-source \"efficient database IDE\". Provides ERDs, data generators, an AI assistant, a NoSQL structure manager, a time machine, auto-completion and more",
                   "kind": "topic",
@@ -11516,7 +11543,7 @@
         }
       ],
       "stars": 2679,
-      "forks": 366,
+      "forks": 367,
       "language": null,
       "license": null,
       "topics": [
@@ -11526,8 +11553,8 @@
         "mongodb",
         "mongodb-resources"
       ],
-      "updated": "2026-10-21T14:33:26Z",
-      "pushed": "2026-10-19T22:02:35Z",
+      "updated": "2026-10-28T17:29:56Z",
+      "pushed": "2026-10-28T17:29:49Z",
       "awesome": true,
       "readmeStatus": "expanded",
       "path": [
@@ -16207,8 +16234,8 @@
           "parentId": "root-databases-postgresql"
         }
       ],
-      "stars": 12124,
-      "forks": 1057,
+      "stars": 12127,
+      "forks": 1068,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -16216,7 +16243,7 @@
         "postgres",
         "postgresql"
       ],
-      "updated": "2026-10-24T15:31:35Z",
+      "updated": "2026-10-31T09:02:33Z",
       "pushed": "2026-08-31T09:07:19Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -29980,8 +30007,8 @@
           "parentId": "root-databases-database-tools"
         }
       ],
-      "stars": 5349,
-      "forks": 508,
+      "stars": 5354,
+      "forks": 512,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -29995,7 +30022,7 @@
         "sql-client",
         "visualization"
       ],
-      "updated": "2026-10-24T17:51:43Z",
+      "updated": "2026-11-01T07:03:08Z",
       "pushed": "2026-10-03T22:23:45Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -31833,8 +31860,8 @@
           "parentId": "root-databases-supabase"
         }
       ],
-      "stars": 485,
-      "forks": 83,
+      "stars": 486,
+      "forks": 85,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -31842,7 +31869,7 @@
         "awesome-list",
         "supabase"
       ],
-      "updated": "2026-10-23T02:00:32Z",
+      "updated": "2026-10-26T08:30:18Z",
       "pushed": "2026-07-19T02:12:23Z",
       "awesome": true,
       "readmeStatus": "expanded",
@@ -34792,8 +34819,8 @@
           "parentId": "root-databases-pocketbase"
         }
       ],
-      "stars": 1210,
-      "forks": 69,
+      "stars": 1212,
+      "forks": 68,
       "language": null,
       "license": "CC0-1.0",
       "topics": [
@@ -34802,7 +34829,7 @@
         "golang",
         "pocketbase"
       ],
-      "updated": "2026-10-20T09:37:45Z",
+      "updated": "2026-10-31T17:43:54Z",
       "pushed": "2026-10-14T04:59:37Z",
       "awesome": true,
       "readmeStatus": "expanded",

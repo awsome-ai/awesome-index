@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-25T07:21:22.454Z",
-  "startedAt": "2026-10-25T07:20:50.362Z",
+  "generatedAt": "2026-11-01T08:51:07.859Z",
+  "startedAt": "2026-11-01T08:50:35.850Z",
   "rootRepo": "sindresorhus/awesome",
   "maxDepth": 3,
   "maxRepos": 1500,
-  "total": 895,
-  "fetched": 892,
+  "total": 897,
+  "fetched": 894,
   "cached": 0,
   "missing": 3,
   "readmes": [
@@ -118,7 +118,7 @@
       "repo": "jaywcjlove/awesome-mac",
       "status": "fetched",
       "path": ".cache/readmes/jaywcjlove/awesome-mac.md",
-      "bytes": 298958,
+      "bytes": 319764,
       "depth": 1
     },
     {
@@ -153,7 +153,7 @@
       "repo": "0pandadev/awesome-windows",
       "status": "fetched",
       "path": ".cache/readmes/0pandadev/awesome-windows.md",
-      "bytes": 67527,
+      "bytes": 68110,
       "depth": 1
     },
     {
@@ -188,7 +188,7 @@
       "repo": "thibmaek/awesome-raspberry-pi",
       "status": "fetched",
       "path": ".cache/readmes/thibmaek/awesome-raspberry-pi.md",
-      "bytes": 53794,
+      "bytes": 56668,
       "depth": 1
     },
     {
@@ -307,7 +307,7 @@
       "repo": "denolib/awesome-deno",
       "status": "fetched",
       "path": ".cache/readmes/denolib/awesome-deno.md",
-      "bytes": 26214,
+      "bytes": 26356,
       "depth": 1
     },
     {
@@ -384,14 +384,14 @@
       "repo": "shano/awesome-backstage",
       "status": "fetched",
       "path": ".cache/readmes/shano/awesome-backstage.md",
-      "bytes": 12012,
+      "bytes": 13535,
       "depth": 1
     },
     {
       "repo": "sorrycc/awesome-javascript",
       "status": "fetched",
       "path": ".cache/readmes/sorrycc/awesome-javascript.md",
-      "bytes": 101847,
+      "bytes": 102007,
       "depth": 1
     },
     {
@@ -503,7 +503,7 @@
       "repo": "vinta/awesome-python",
       "status": "fetched",
       "path": ".cache/readmes/vinta/awesome-python.md",
-      "bytes": 81278,
+      "bytes": 81270,
       "depth": 1
     },
     {
@@ -538,7 +538,7 @@
       "repo": "typeddjango/awesome-python-typing",
       "status": "fetched",
       "path": ".cache/readmes/typeddjango/awesome-python-typing.md",
-      "bytes": 19681,
+      "bytes": 19410,
       "depth": 1
     },
     {
@@ -552,7 +552,7 @@
       "repo": "rust-unofficial/awesome-rust",
       "status": "fetched",
       "path": ".cache/readmes/rust-unofficial/awesome-rust.md",
-      "bytes": 412502,
+      "bytes": 421451,
       "depth": 1
     },
     {
@@ -650,7 +650,7 @@
       "repo": "fffaraz/awesome-cpp",
       "status": "fetched",
       "path": ".cache/readmes/fffaraz/awesome-cpp.md",
-      "bytes": 198767,
+      "bytes": 198967,
       "depth": 1
     },
     {
@@ -671,14 +671,14 @@
       "repo": "dlang-community/awesome-d",
       "status": "fetched",
       "path": ".cache/readmes/dlang-community/awesome-d.md",
-      "bytes": 46737,
+      "bytes": 46894,
       "depth": 1
     },
     {
       "repo": "codyreichert/awesome-cl",
       "status": "fetched",
       "path": ".cache/readmes/codyreichert/awesome-cl.md",
-      "bytes": 204605,
+      "bytes": 204908,
       "depth": 1
     },
     {
@@ -762,7 +762,7 @@
       "repo": "ziadoz/awesome-php",
       "status": "fetched",
       "path": ".cache/readmes/ziadoz/awesome-php.md",
-      "bytes": 69421,
+      "bytes": 69147,
       "depth": 1
     },
     {
@@ -951,7 +951,7 @@
       "repo": "patrickjs/awesome-angular",
       "status": "fetched",
       "path": ".cache/readmes/patrickjs/awesome-angular.md",
-      "bytes": 323754,
+      "bytes": 325185,
       "depth": 1
     },
     {
@@ -1070,7 +1070,7 @@
       "repo": "notthetup/awesome-webaudio",
       "status": "fetched",
       "path": ".cache/readmes/notthetup/awesome-webaudio.md",
-      "bytes": 16014,
+      "bytes": 18453,
       "depth": 1
     },
     {
@@ -1210,7 +1210,7 @@
       "repo": "sjfricke/awesome-webgl",
       "status": "fetched",
       "path": ".cache/readmes/sjfricke/awesome-webgl.md",
-      "bytes": 28711,
+      "bytes": 29096,
       "depth": 1
     },
     {
@@ -1266,7 +1266,7 @@
       "repo": "adrientorris/awesome-blazor",
       "status": "fetched",
       "path": ".cache/readmes/adrientorris/awesome-blazor.md",
-      "bytes": 149732,
+      "bytes": 150221,
       "depth": 1
     },
     {
@@ -1280,7 +1280,7 @@
       "repo": "aniftyco/awesome-tailwindcss",
       "status": "fetched",
       "path": ".cache/readmes/aniftyco/awesome-tailwindcss.md",
-      "bytes": 10729,
+      "bytes": 11012,
       "depth": 1
     },
     {
@@ -1469,7 +1469,7 @@
       "repo": "gramantin/awesome-rails",
       "status": "fetched",
       "path": ".cache/readmes/gramantin/awesome-rails.md",
-      "bytes": 61529,
+      "bytes": 62196,
       "depth": 1
     },
     {
@@ -1525,7 +1525,7 @@
       "repo": "shuaibiyy/awesome-terraform",
       "status": "fetched",
       "path": ".cache/readmes/shuaibiyy/awesome-terraform.md",
-      "bytes": 80642,
+      "bytes": 80884,
       "depth": 1
     },
     {
@@ -1560,7 +1560,7 @@
       "repo": "kdeldycke/awesome-iam",
       "status": "fetched",
       "path": ".cache/readmes/kdeldycke/awesome-iam.md",
-      "bytes": 66220,
+      "bytes": 66826,
       "depth": 1
     },
     {
@@ -1574,7 +1574,7 @@
       "repo": "gofiber/awesome-fiber",
       "status": "fetched",
       "path": ".cache/readmes/gofiber/awesome-fiber.md",
-      "bytes": 26963,
+      "bytes": 27098,
       "depth": 1
     },
     {
@@ -1609,7 +1609,7 @@
       "repo": "academic/awesome-datascience",
       "status": "fetched",
       "path": ".cache/readmes/academic/awesome-datascience.md",
-      "bytes": 141640,
+      "bytes": 135763,
       "depth": 1
     },
     {
@@ -1623,7 +1623,7 @@
       "repo": "josephmisiti/awesome-machine-learning",
       "status": "fetched",
       "path": ".cache/readmes/josephmisiti/awesome-machine-learning.md",
-      "bytes": 221855,
+      "bytes": 222292,
       "depth": 1
     },
     {
@@ -1735,7 +1735,7 @@
       "repo": "aaronhma/awesome-tensorflow-js",
       "status": "fetched",
       "path": ".cache/readmes/aaronhma/awesome-tensorflow-js.md",
-      "bytes": 9934,
+      "bytes": 10506,
       "depth": 1
     },
     {
@@ -1812,7 +1812,7 @@
       "repo": "steven2358/awesome-generative-ai",
       "status": "fetched",
       "path": ".cache/readmes/steven2358/awesome-generative-ai.md",
-      "bytes": 52961,
+      "bytes": 53477,
       "depth": 1
     },
     {
@@ -1826,14 +1826,14 @@
       "repo": "0xnr/awesome-bigdata",
       "status": "fetched",
       "path": ".cache/readmes/0xnr/awesome-bigdata.md",
-      "bytes": 95380,
+      "bytes": 95871,
       "depth": 1
     },
     {
       "repo": "awesomedata/awesome-public-datasets",
       "status": "fetched",
       "path": ".cache/readmes/awesomedata/awesome-public-datasets.md",
-      "bytes": 280338,
+      "bytes": 285526,
       "depth": 1
     },
     {
@@ -1903,7 +1903,7 @@
       "repo": "gaerae/awesome-algorithms-education",
       "status": "fetched",
       "path": ".cache/readmes/gaerae/awesome-algorithms-education.md",
-      "bytes": 11012,
+      "bytes": 21009,
       "depth": 1
     },
     {
@@ -1973,7 +1973,7 @@
       "repo": "rockerboo/awesome-neovim",
       "status": "fetched",
       "path": ".cache/readmes/rockerboo/awesome-neovim.md",
-      "bytes": 238559,
+      "bytes": 240024,
       "depth": 1
     },
     {
@@ -2001,7 +2001,7 @@
       "repo": "godotengine/awesome-godot",
       "status": "fetched",
       "path": ".cache/readmes/godotengine/awesome-godot.md",
-      "bytes": 50936,
+      "bytes": 51098,
       "depth": 1
     },
     {
@@ -2085,21 +2085,21 @@
       "repo": "playcanvas/awesome-playcanvas",
       "status": "fetched",
       "path": ".cache/readmes/playcanvas/awesome-playcanvas.md",
-      "bytes": 26065,
+      "bytes": 26094,
       "depth": 1
     },
     {
       "repo": "radek-sprta/awesome-game-remakes",
       "status": "fetched",
       "path": ".cache/readmes/radek-sprta/awesome-game-remakes.md",
-      "bytes": 60939,
+      "bytes": 61356,
       "depth": 1
     },
     {
       "repo": "flame-engine/awesome-flame",
       "status": "fetched",
       "path": ".cache/readmes/flame-engine/awesome-flame.md",
-      "bytes": 26847,
+      "bytes": 27597,
       "depth": 1
     },
     {
@@ -2204,7 +2204,7 @@
       "repo": "unixorn/awesome-zsh-plugins",
       "status": "fetched",
       "path": ".cache/readmes/unixorn/awesome-zsh-plugins.md",
-      "bytes": 498790,
+      "bytes": 502301,
       "depth": 1
     },
     {
@@ -2344,7 +2344,7 @@
       "repo": "ramnes/awesome-mongodb",
       "status": "fetched",
       "path": ".cache/readmes/ramnes/awesome-mongodb.md",
-      "bytes": 24525,
+      "bytes": 24738,
       "depth": 1
     },
     {
@@ -2421,7 +2421,7 @@
       "repo": "brabadu/awesome-fonts",
       "status": "fetched",
       "path": ".cache/readmes/brabadu/awesome-fonts.md",
-      "bytes": 16503,
+      "bytes": 16614,
       "depth": 1
     },
     {
@@ -2799,7 +2799,7 @@
       "repo": "cerberauth/awesome-openid-connect",
       "status": "fetched",
       "path": ".cache/readmes/cerberauth/awesome-openid-connect.md",
-      "bytes": 35401,
+      "bytes": 35179,
       "depth": 1
     },
     {
@@ -2890,7 +2890,7 @@
       "repo": "hqarroum/awesome-iot",
       "status": "fetched",
       "path": ".cache/readmes/hqarroum/awesome-iot.md",
-      "bytes": 65155,
+      "bytes": 65610,
       "depth": 1
     },
     {
@@ -2925,7 +2925,7 @@
       "repo": "szenergy/awesome-lidar",
       "status": "fetched",
       "path": ".cache/readmes/szenergy/awesome-lidar.md",
-      "bytes": 64260,
+      "bytes": 64927,
       "depth": 1
     },
     {
@@ -2939,7 +2939,7 @@
       "repo": "rickstaa/awesome-adsb",
       "status": "fetched",
       "path": ".cache/readmes/rickstaa/awesome-adsb.md",
-      "bytes": 13918,
+      "bytes": 14656,
       "depth": 1
     },
     {
@@ -3324,7 +3324,7 @@
       "repo": "thejambo/awesome-testing",
       "status": "fetched",
       "path": ".cache/readmes/thejambo/awesome-testing.md",
-      "bytes": 43781,
+      "bytes": 46558,
       "depth": 1
     },
     {
@@ -3345,7 +3345,7 @@
       "repo": "srinivasantarget/awesome-appium",
       "status": "fetched",
       "path": ".cache/readmes/srinivasantarget/awesome-appium.md",
-      "bytes": 20805,
+      "bytes": 20999,
       "depth": 1
     },
     {
@@ -3415,7 +3415,7 @@
       "repo": "tmcw/awesome-geojson",
       "status": "fetched",
       "path": ".cache/readmes/tmcw/awesome-geojson.md",
-      "bytes": 15479,
+      "bytes": 15590,
       "depth": 1
     },
     {
@@ -3436,7 +3436,7 @@
       "repo": "0xnr/awesome-analytics",
       "status": "fetched",
       "path": ".cache/readmes/0xnr/awesome-analytics.md",
-      "bytes": 38140,
+      "bytes": 40375,
       "depth": 1
     },
     {
@@ -3471,14 +3471,14 @@
       "repo": "myhoneybadger/awesome-github-wiki",
       "status": "fetched",
       "path": ".cache/readmes/myhoneybadger/awesome-github-wiki.md",
-      "bytes": 7417,
+      "bytes": 7344,
       "depth": 1
     },
     {
       "repo": "awesome-selfhosted/awesome-selfhosted",
       "status": "fetched",
       "path": ".cache/readmes/awesome-selfhosted/awesome-selfhosted.md",
-      "bytes": 331876,
+      "bytes": 329663,
       "depth": 1
     },
     {
@@ -3520,7 +3520,7 @@
       "repo": "chentsulin/awesome-graphql",
       "status": "fetched",
       "path": ".cache/readmes/chentsulin/awesome-graphql.md",
-      "bytes": 73752,
+      "bytes": 73769,
       "depth": 1
     },
     {
@@ -3534,7 +3534,7 @@
       "repo": "javierluraschi/awesome-dataviz",
       "status": "fetched",
       "path": ".cache/readmes/javierluraschi/awesome-dataviz.md",
-      "bytes": 56259,
+      "bytes": 57904,
       "depth": 1
     },
     {
@@ -3576,7 +3576,7 @@
       "repo": "hobbyquaker/awesome-mqtt",
       "status": "fetched",
       "path": ".cache/readmes/hobbyquaker/awesome-mqtt.md",
-      "bytes": 51135,
+      "bytes": 52104,
       "depth": 1
     },
     {
@@ -3751,7 +3751,7 @@
       "repo": "davidlambauer/awesome-magento2",
       "status": "fetched",
       "path": ".cache/readmes/davidlambauer/awesome-magento2.md",
-      "bytes": 39000,
+      "bytes": 39005,
       "depth": 1
     },
     {
@@ -3779,7 +3779,7 @@
       "repo": "homematic-community/awesome-homematic",
       "status": "fetched",
       "path": ".cache/readmes/homematic-community/awesome-homematic.md",
-      "bytes": 17933,
+      "bytes": 18232,
       "depth": 1
     },
     {
@@ -3926,7 +3926,7 @@
       "repo": "scaleleap/awesome-amazon-seller",
       "status": "fetched",
       "path": ".cache/readmes/scaleleap/awesome-amazon-seller.md",
-      "bytes": 18191,
+      "bytes": 17910,
       "depth": 1
     },
     {
@@ -4150,7 +4150,7 @@
       "repo": "lunohodov/awesome-astrophotography",
       "status": "fetched",
       "path": ".cache/readmes/lunohodov/awesome-astrophotography.md",
-      "bytes": 22837,
+      "bytes": 23166,
       "depth": 1
     },
     {
@@ -4206,7 +4206,7 @@
       "repo": "piebald-ai/awesome-gemini-cli",
       "status": "fetched",
       "path": ".cache/readmes/piebald-ai/awesome-gemini-cli.md",
-      "bytes": 91459,
+      "bytes": 103226,
       "depth": 1
     },
     {
@@ -4423,7 +4423,7 @@
       "repo": "valpackett/awesome-gtk",
       "status": "fetched",
       "path": ".cache/readmes/valpackett/awesome-gtk.md",
-      "bytes": 148646,
+      "bytes": 148848,
       "depth": 2
     },
     {
@@ -4451,7 +4451,7 @@
       "repo": "awesome-mqtt/awesome-mqtt",
       "status": "fetched",
       "path": ".cache/readmes/awesome-mqtt/awesome-mqtt.md",
-      "bytes": 51135,
+      "bytes": 52104,
       "depth": 2
     },
     {
@@ -4500,7 +4500,7 @@
       "repo": "sacridini/awesome-geospatial",
       "status": "fetched",
       "path": ".cache/readmes/sacridini/awesome-geospatial.md",
-      "bytes": 237278,
+      "bytes": 237558,
       "depth": 2
     },
     {
@@ -4570,7 +4570,7 @@
       "repo": "wsvincent/awesome-django",
       "status": "fetched",
       "path": ".cache/readmes/wsvincent/awesome-django.md",
-      "bytes": 46565,
+      "bytes": 46918,
       "depth": 2
     },
     {
@@ -4640,7 +4640,7 @@
       "repo": "erikgahner/awesome-ggplot2",
       "status": "fetched",
       "path": ".cache/readmes/erikgahner/awesome-ggplot2.md",
-      "bytes": 75630,
+      "bytes": 75719,
       "depth": 2
     },
     {
@@ -4787,7 +4787,7 @@
       "repo": "awesome-spectral-indices/awesome-spectral-indices",
       "status": "fetched",
       "path": ".cache/readmes/awesome-spectral-indices/awesome-spectral-indices.md",
-      "bytes": 68583,
+      "bytes": 68822,
       "depth": 2
     },
     {
@@ -4836,7 +4836,7 @@
       "repo": "hslatman/awesome-threat-intelligence",
       "status": "fetched",
       "path": ".cache/readmes/hslatman/awesome-threat-intelligence.md",
-      "bytes": 101228,
+      "bytes": 101903,
       "depth": 2
     },
     {
@@ -4850,7 +4850,7 @@
       "repo": "ishantanu/awesome-kubectl-plugins",
       "status": "fetched",
       "path": ".cache/readmes/ishantanu/awesome-kubectl-plugins.md",
-      "bytes": 42147,
+      "bytes": 42571,
       "depth": 2
     },
     {
@@ -4864,7 +4864,7 @@
       "repo": "landedjobs/awesome-ai-engineer-interview",
       "status": "fetched",
       "path": ".cache/readmes/landedjobs/awesome-ai-engineer-interview.md",
-      "bytes": 28239,
+      "bytes": 28789,
       "depth": 2
     },
     {
@@ -4872,6 +4872,13 @@
       "status": "fetched",
       "path": ".cache/readmes/ryanswanstrom/awesome-datascience-colleges.md",
       "bytes": 461,
+      "depth": 2
+    },
+    {
+      "repo": "hal9ai/awesome-dataviz",
+      "status": "fetched",
+      "path": ".cache/readmes/hal9ai/awesome-dataviz.md",
+      "bytes": 57904,
       "depth": 2
     },
     {
@@ -4931,9 +4938,9 @@
       "depth": 2
     },
     {
-      "repo": "nerox8664/awesome-computer-vision-models",
+      "repo": "gmalivenko/awesome-computer-vision-models",
       "status": "fetched",
-      "path": ".cache/readmes/nerox8664/awesome-computer-vision-models.md",
+      "path": ".cache/readmes/gmalivenko/awesome-computer-vision-models.md",
       "bytes": 64920,
       "depth": 2
     },
@@ -4948,7 +4955,7 @@
       "repo": "leomaurodesenv/game-datasets",
       "status": "fetched",
       "path": ".cache/readmes/leomaurodesenv/game-datasets.md",
-      "bytes": 27308,
+      "bytes": 27526,
       "depth": 2
     },
     {
@@ -4980,9 +4987,9 @@
       "depth": 2
     },
     {
-      "repo": "vascosch92/awesome_python_math_packages",
+      "repo": "vascosch92/awesome-python-math-packages",
       "status": "fetched",
-      "path": ".cache/readmes/vascosch92/awesome_python_math_packages.md",
+      "path": ".cache/readmes/vascosch92/awesome-python-math-packages.md",
       "bytes": 25177,
       "depth": 2
     },
@@ -4990,14 +4997,14 @@
       "repo": "ad-si/awesome-music-production",
       "status": "fetched",
       "path": ".cache/readmes/ad-si/awesome-music-production.md",
-      "bytes": 45505,
+      "bytes": 45882,
       "depth": 2
     },
     {
       "repo": "bulutyazilim/awesome-datascience",
       "status": "fetched",
       "path": ".cache/readmes/bulutyazilim/awesome-datascience.md",
-      "bytes": 141640,
+      "bytes": 135763,
       "depth": 2
     },
     {
@@ -5059,7 +5066,7 @@
       "repo": "chbrian/awesome-adversarial-examples-dl",
       "status": "fetched",
       "path": ".cache/readmes/chbrian/awesome-adversarial-examples-dl.md",
-      "bytes": 18520,
+      "bytes": 19390,
       "depth": 2
     },
     {
@@ -5170,7 +5177,7 @@
       "repo": "ethicalml/awesome-production-machine-learning",
       "status": "fetched",
       "path": ".cache/readmes/ethicalml/awesome-production-machine-learning.md",
-      "bytes": 158312,
+      "bytes": 158224,
       "depth": 2
     },
     {
@@ -5331,7 +5338,7 @@
       "repo": "caesar0301/awesome-public-datasets",
       "status": "fetched",
       "path": ".cache/readmes/caesar0301/awesome-public-datasets.md",
-      "bytes": 280338,
+      "bytes": 285526,
       "depth": 2
     },
     {
@@ -5380,14 +5387,14 @@
       "repo": "joylarkin/awesome-ai-market-maps",
       "status": "fetched",
       "path": ".cache/readmes/joylarkin/awesome-ai-market-maps.md",
-      "bytes": 130156,
+      "bytes": 131264,
       "depth": 2
     },
     {
       "repo": "yigtwxx/awesome-rag-production",
       "status": "fetched",
       "path": ".cache/readmes/yigtwxx/awesome-rag-production.md",
-      "bytes": 90568,
+      "bytes": 90241,
       "depth": 2
     },
     {
@@ -5562,7 +5569,7 @@
       "repo": "ashishb/android-security-awesome",
       "status": "fetched",
       "path": ".cache/readmes/ashishb/android-security-awesome.md",
-      "bytes": 31109,
+      "bytes": 31610,
       "depth": 2
     },
     {
@@ -5590,7 +5597,7 @@
       "repo": "lissy93/personal-security-checklist",
       "status": "fetched",
       "path": ".cache/readmes/lissy93/personal-security-checklist.md",
-      "bytes": 7646,
+      "bytes": 7502,
       "depth": 2
     },
     {
@@ -5611,14 +5618,14 @@
       "repo": "lissy93/awesome-privacy",
       "status": "fetched",
       "path": ".cache/readmes/lissy93/awesome-privacy.md",
-      "bytes": 246678,
+      "bytes": 249238,
       "depth": 2
     },
     {
       "repo": "infoslack/awesome-web-hacking",
       "status": "fetched",
       "path": ".cache/readmes/infoslack/awesome-web-hacking.md",
-      "bytes": 31168,
+      "bytes": 31342,
       "depth": 2
     },
     {
@@ -5772,7 +5779,7 @@
       "repo": "analysis-tools-dev/static-analysis",
       "status": "fetched",
       "path": ".cache/readmes/analysis-tools-dev/static-analysis.md",
-      "bytes": 194714,
+      "bytes": 195399,
       "depth": 2
     },
     {
@@ -5954,14 +5961,14 @@
       "repo": "fasouto/awesome-dataviz",
       "status": "fetched",
       "path": ".cache/readmes/fasouto/awesome-dataviz.md",
-      "bytes": 56259,
+      "bytes": 57904,
       "depth": 2
     },
     {
       "repo": "iiif/awesome-iiif",
       "status": "fetched",
       "path": ".cache/readmes/iiif/awesome-iiif.md",
-      "bytes": 56385,
+      "bytes": 56752,
       "depth": 2
     },
     {
@@ -5989,7 +5996,7 @@
       "repo": "tugkanboz/awesome-ai-testing",
       "status": "fetched",
       "path": ".cache/readmes/tugkanboz/awesome-ai-testing.md",
-      "bytes": 29964,
+      "bytes": 30777,
       "depth": 2
     },
     {
@@ -6045,7 +6052,7 @@
       "repo": "yeaight7/awesome-ai-devtools",
       "status": "fetched",
       "path": ".cache/readmes/yeaight7/awesome-ai-devtools.md",
-      "bytes": 137904,
+      "bytes": 138727,
       "depth": 2
     },
     {
@@ -6108,7 +6115,7 @@
       "repo": "kickball/awesome-selfhosted",
       "status": "fetched",
       "path": ".cache/readmes/kickball/awesome-selfhosted.md",
-      "bytes": 331876,
+      "bytes": 329663,
       "depth": 2
     },
     {
@@ -6157,6 +6164,13 @@
       "status": "fetched",
       "path": ".cache/readmes/awesomecities/awesome-berlin.md",
       "bytes": 6810,
+      "depth": 2
+    },
+    {
+      "repo": "mentionnetwork/awesome-agentic-commerce",
+      "status": "fetched",
+      "path": ".cache/readmes/mentionnetwork/awesome-agentic-commerce.md",
+      "bytes": 28762,
       "depth": 2
     },
     {
@@ -6261,7 +6275,7 @@
       "repo": "green-software-foundation/awesome-green-software",
       "status": "fetched",
       "path": ".cache/readmes/green-software-foundation/awesome-green-software.md",
-      "bytes": 61624,
+      "bytes": 63476,
       "depth": 2
     },
     {
